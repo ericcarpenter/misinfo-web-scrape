@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+
+<html dir="ltr" lang="en" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta charset="utf-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"e418870400",applicationID:"91886985"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(7),c=e(8),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(9);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e){return!(!e||!e.protocol||"file:"===e.protocol)}t.exports=r},{}],4:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(6),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],5:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],6:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],7:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],8:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],9:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(7),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=x.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=e(2),c=e("handle"),f=e(7),u=e("ee"),s=e(5),d=e(3),p=window,l=p.document,m="addEventListener",v="attachEvent",g=p.XMLHttpRequest,w=g&&g.prototype;if(d(p.location)){NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1208.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:b,userAgent:s};e(1),e(4),l[m]?(l[m]("DOMContentLoaded",o,!1),p[m]("load",r,!1)):(l[v]("onreadystatechange",i),p[v]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0}},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(8),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<link href="/sites/all/themes/mrc7_bs3/favicon.png" rel="icon" type="image/png"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<meta content="Drupal 7 (http://drupal.org)" name="generator">
+<link href="https://www.mrc.org/" rel="canonical"/>
+<link href="https://www.mrc.org/" rel="shortlink"/>
+<meta content="Media Research Center" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.mrc.org/" property="og:url"/>
+<meta content="Media Research Center" property="og:title"/>
+<meta content="https://cdn.mrc.org/U/OP/LOGO/MRC-Pull-Image.jpg" property="og:image"/>
+<meta content="https://cdn.mrc.org/U/OP/LOGO/MRC-Pull-Image.jpg" property="og:image:secure_url"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://www.mrc.org/" name="twitter:url"/>
+<meta content="Media Research Center" name="twitter:title"/>
+<meta content="https://cdn.mrc.org/U/OP/LOGO/MRC-Pull-Image.jpg" name="twitter:image"/>
+<meta content="Media Research Center" name="dcterms.title"/>
+<meta content="Text" name="dcterms.type"/>
+<meta content="text/html" name="dcterms.format"/>
+<meta content="https://www.mrc.org/" name="dcterms.identifier"/>
+<link href="https://www.mrc.org/sites/all/themes/mrc7_bs3/favicon.png" rel="shortcut icon" type="image/png"/>
+<title>Media Research Center</title>
+<link href="https://www.mrc.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.mrc.org/sites/default/files/css/css_k3PEWiIq6j2sUGxwmJZiyRhleLxXErqXt_nce2cQkN0.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.mrc.org/sites/default/files/css/css_xLFDRTFqZTZeUg7Pab0gP4cpz5TWo3PCH-KBo_HKQ6A.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.mrc.org/sites/default/files/css/css_ZZZZWhfpbdKXNKzudilzi6sGsmIn0mj9RFswueHtIh4.css" media="all" rel="stylesheet" type="text/css"/>
+<!--Fonts-->
+<link href="//fonts.googleapis.com/css?family=Roboto:400,500|Roboto+Condensed:400,300,700|Open+Sans:400,400italic,700" rel="stylesheet" type="text/css"/>
+<!-- HTML5 element support for IE6-8 -->
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.mrc.org/sites/default/files/js/js_vSmhpx_T-AShyt_WMW5_TcwwxJP1imoVOa8jvwL_mxE.js"></script>
+<script src="https://www.mrc.org/sites/default/files/js/js_H7q2xORKmR9AN8Qx5spKEIBp7R_wG2apAswJoCUZY7I.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="https://www.mrc.org/sites/default/files/js/js_CY7N9e4bZb9p7mbyXoEJtStLej8SVXLtR6sGNwxFpOk.js"></script>
+<script src="https://use.typekit.net/jce3brp.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script src="https://www.mrc.org/sites/default/files/js/js_ZkrbYycnlti3eCVUXk28d-mY_LbxGmsfQjJPZgH5CJo.js"></script>
+<script src="https://www.mrc.org/sites/default/files/js/js_J7j1we66sRwBTF31qD5WDcBsfEShxPpWBvUqbDPf7Zk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mrc7_bs3","theme_token":"pncFXt-rGrhTF7QyNSK7O7GvmUZA0w99Ot_mR3QMlq4","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.6\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/custom\/internal_ad\/internal_ad.js":1,"sites\/all\/modules\/contrib\/marketo_ma\/js\/marketo_ma.js":1,"https:\/\/use.typekit.net\/jce3brp.js":1,"1":1,"sites\/all\/themes\/mrc7_bs3\/js\/mrc7_bs3_front.js":1,"sites\/all\/themes\/mrc7_bs3\/js\/mrc7_bs3.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/custom\/drudge_page\/theSimpleStyle.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/internal_ad\/internal_ad.css":1,"sites\/all\/modules\/custom\/new_fp\/new_fp.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.5.0\/css\/font-awesome.min.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.6\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/mrc7_bs3\/css\/bootstrap.ext.css":1,"sites\/all\/themes\/mrc7_bs3\/css\/overrides.css":1,"sites\/all\/themes\/mrc7_bs3\/css\/style.css":1}},"marketo_ma":{"track":true,"key":"179-RBS-798","library":"\/\/munchkin.marketo.net\/munchkin.js","initParams":[]},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script async="" defer="" src="https://mrc7.s3.amazonaws.com/intranet/deliverable/intranet.js" type="text/javascript"></script>
+</meta></meta></head>
+<body class="html front not-logged-in no-sidebars navbar-is-fixed-top">
+<!-- Google Tag Manager -->
+<noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-WKKQLT" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WKKQLT');
+  </script>
+<!-- End Google Tag Manager -->
+<div id="skip-link">
+<a class="element-invisible element-focusable" href="#main-content">Skip to main content</a>
+</div>
+<header class="navbar navbar-fixed-top navbar-default" id="navbar" role="banner">
+<div class="navbar-row-one">
+<div class="container">
+<div class="navbar-left">
+<a class="logo" href="/" title="Home">
+<img alt="Home" src="https://mrc7.s3.amazonaws.com/MRCStandard_Logo_White.png"/>
+<!-- <img src="//cdn.mrc.org/static/branding/mrcorgtop.png" /> -->
+</a>
+</div>
+<div class="pull-right hidden-xs">
+<a href="http://www.facebook.com/mediaresearchcenter" target="_blank">
+<i class="fa fa-facebook"></i>
+</a>
+<a href="http://www.twitter.com/#!/theMRC" target="_blank">
+<i class="fa fa-twitter"></i>
+</a>
+<a href="https://www.youtube.com/user/MRCTVdotOrg" target="_blank">
+<i class="fa fa-youtube"></i>
+</a>
+<a href="https://mrc-store.com/" target="_blank">
+<i class="fa fa-shopping-cart"></i>
+</a>
+<a href="/search" target="_blank">
+<i class="fa fa-search"></i>
+</a>
+</div>
+</div>
+</div>
+<div class="navbar-row-two">
+<div class="container">
+<div class="navbar-header">
+<button aria-controls="navbar-main" aria-expanded="false" class="navbar-toggle collapsed pull-left" data-target="#navbar-main" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+<div class="pull-right visible-xs-inline">
+<a href="http://www.facebook.com/mediaresearchcenter" target="_blank">
+<i class="fa fa-facebook"></i>
+</a>
+<a href="http://www.twitter.com/#!/theMRC" target="_blank">
+<i class="fa fa-twitter"></i>
+</a>
+<a href="https://www.youtube.com/user/MRCTVdotOrg" target="_blank">
+<i class="fa fa-youtube"></i>
+</a>
+<a href="https://mrc-store.com/" target="_blank">
+<i class="fa fa-shopping-cart"></i>
+</a>
+<a href="/search" target="_blank">
+<i class="fa fa-search"></i>
+</a>
+</div>
+</div>
+<div class="navbar-collapse collapse" id="navbar-main">
+<nav role="navigation">
+<div class="region region-navigation">
+<section class="block block-menu-block clearfix" id="block-menu-block-2">
+<div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-1">
+<ul class="menu nav navbar-nav"><li class="first leaf has-children menu-mlid-663"><a href="/about" title="About the MRC">About</a></li>
+<li class="leaf menu-mlid-664"><a href="/contact" title="Contact the MRC">Contact</a></li>
+<li class="leaf menu-mlid-665"><a href="/careers" title="Careers at MRC">Careers</a></li>
+<li class="leaf menu-mlid-666"><a href="/internships" title="Internships at MRC">Internships</a></li>
+<li class="leaf menu-mlid-2162"><a href="https://mrc-store.com/">Store</a></li>
+<li class="last leaf menu-mlid-803 menu-item-donate"><a href="/donate" title="Donate">Support</a></li>
+</ul></div>
+</section>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</header>
+<div class="navbar-border-block"></div>
+<div class="main-container">
+<div class="container">
+<header id="page-header" role="banner">
+</header>
+<!-- /#page-header -->
+</div>
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<a id="main-content"></a>
+</div>
+<div class="col-sm-12">
+</div>
+</div>
+</div>
+<div class="region region-content">
+<section class="block block-system clearfix" id="block-system-main">
+<div class="mrc-front">
+<div class="container padding10top">
+<div class="panel-pane pane-block pane-block-6 pane-block">
+<div class="pane-content">
+<div class="col-xm-12 col-md-8 col-md-offset-2">
+<div class="embed-responsive embed-responsive-16by9">
+<iframe allowfullscreen="true" class="embed-responsive-item" mozallowfullscreen="true" src="https://www.youtube.com/embed/Jnck7Hl9uic" webkitallowfullscreen="true"></iframe>
+</div>
+<hr/>
+</div> </div>
+</div>
+</div>
+<div class="container padding30top">
+<div class="panel-pane pane-block pane-mrc-alters-action-menu-block pane-mrc-alters">
+<div class="pane-content">
+<div class="row"><div class="col-xs-12 col-md-8 col-md-offset-2"><div class="row no-gutters"><div class="col-xs-4">
+<div class="action-menu-button center-block">
+<a href="/donate" title="Stand for Truth"><div class="action-menu-circle action-menu-donate center-block"><img class="center-block" src="//cdn.mrc.org/static/icons/donate.png"/></div><h4>DONATE</h4><h5 class="hidden-xs">STAND FOR TRUTH</h5>
+</a>
+</div></div><div class="col-xs-4">
+<div class="action-menu-button center-block">
+<a href="/action" title="Spread the message"><div class="action-menu-circle action-menu-takeaction center-block"><img class="center-block" src="//cdn.mrc.org/static/icons/takeaction.png"/></div><h4>TAKE ACTION</h4><h5 class="hidden-xs">SPREAD THE MESSAGE</h5>
+</a>
+</div></div><div class="col-xs-4">
+<div class="action-menu-button center-block">
+<a href="/newsletter/preferences" title="Stay in the know"><div class="action-menu-circle action-menu-subscribe center-block"><img class="center-block" src="//cdn.mrc.org/static/icons/subscribe.png"/></div><h4>SUBSCRIBE</h4><h5 class="hidden-xs">STAY IN THE KNOW</h5>
+</a>
+</div></div></div></div></div> </div>
+</div>
+</div>
+<div class="hidden-xs padding10bottom"></div>
+<div class="container padding30top padding20bottom">
+<div class="row">
+<div class="panel-pane pane-block pane-new-fp-new-fp pane-new-fp">
+<div class="pane-content">
+<div id="mrc-network"><div class="mrc-network-section"><a class="mrc-network-section-link" href="https://cnsnews.com/article/international/james-carstensen/wave-eu-countries-halt-astrazeneca-over-blot-clot-fears-some" target="_blank"><div class="mrc-network-section-display"><div class="mrc-network-section-display-logo"><img class="img-responsive" src="https://cdn.mrc.org/static/banner-headers-600px/2020-logo-cnsnews.png"/></div><div class="mrc-network-section-display-image"><img class="img-responsive" src="https://cdn.cnsnews.com/2021-03/Astrazeneca-ukraineG.jpg"/></div><div class="mrc-network-section-display-title"><div class="mrc-network-section-display-title-text">Wave of EU Countries Halt AstraZeneca Over Blot Clot Fears; Some Experts Warn Against Overreaction</div></div></div></a></div><div class="mrc-network-section"><a class="mrc-network-section-link" href="https://www.mrctv.org/blog/govt-rebuilds-fence-portland-due-recent-antifa-attacks" target="_blank"><div class="mrc-network-section-display"><div class="mrc-network-section-display-logo"><img class="img-responsive" src="https://cdn.mrc.org/static/banner-headers-600px/2020-logo-mrctv.png"/></div><div class="mrc-network-section-display-image"><img class="img-responsive" src="https://cdn.mrctv.org/files/styles/large/s3/2021-03/Screen%20Shot%202021-03-16%20at%203.19.35%20PM.png?h=9c2b95c9"/></div><div class="mrc-network-section-display-title"><div class="mrc-network-section-display-title-text">Gov’t Rebuilds Fence… In Portland Due To Recent Antifa Attacks</div></div></div></a></div><div class="mrc-network-section"><a class="mrc-network-section-link" href="https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2021/03/16/nets-censor-allegation-cuomo-hugged-female-aide-while" target="_blank"><div class="mrc-network-section-display"><div class="mrc-network-section-display-logo"><img class="img-responsive" src="https://cdn.mrc.org/static/banner-headers-600px/2020-logo-nb.png"/></div><div class="mrc-network-section-display-image"><img class="img-responsive" src="http://cdn.newsbusters.org/2021-03/2021-03-16-FNC-SR-Gov-Cuomo-Allgedly-Hugged-Aide-While-Aroused-Nets-Ignored-1.jpg"/></div><div class="mrc-network-section-display-title"><div class="mrc-network-section-display-title-text">Nets Censor Allegation Cuomo Hugged Female Aide While 'Aroused'</div></div></div></a></div><div class="mrc-network-section"><a class="mrc-network-section-link" href="https://www.newsbusters.org/blogs/business/joseph-vazquez/2021/03/16/biden-drones-nbc-cbs-ignore-abc-defends-biden-eyeing-first" target="_blank"><div class="mrc-network-section-display"><div class="mrc-network-section-display-logo"><img class="img-responsive" src="https://cdn.mrc.org/static/banner-headers-600px/2020-logo-business.png"/></div><div class="mrc-network-section-display-image"><img class="img-responsive" src="http://cdn.newsbusters.org/2021-03/Screen%20Shot%202021-03-16%20at%202.12.07%20PM.png"/></div><div class="mrc-network-section-display-title"><div class="mrc-network-section-display-title-text">NBC &amp; CBS Ignore, ABC Defends Biden Push for ‘Major’ Tax Hike</div></div></div></a></div><div class="mrc-network-section"><a class="mrc-network-section-link" href="https://www.newsbusters.org/blogs/culture/tierin-rose-mandelburg/2021/03/16/disney-broke-gina-carano-and-now-theyre-trying" target="_blank"><div class="mrc-network-section-display"><div class="mrc-network-section-display-logo"><img class="img-responsive" src="https://cdn.mrc.org/static/banner-headers-600px/2020-logo-culture.png"/></div><div class="mrc-network-section-display-image"><img class="img-responsive" src="http://cdn.newsbusters.org/2021-03/36E1FAC7-08D7-4F90-9CBC-A4D4455D0A35.JPEG"/></div><div class="mrc-network-section-display-title"><div class="mrc-network-section-display-title-text">Disney Broke Up With Gina Carano And Now They’re Trying To Erase Her </div></div></div></a></div><div class="mrc-network-section"><a class="mrc-network-section-link" href="https://www.newsbusters.org/blogs/latino/kathleen-krumhansl/2021/03/15/telemundo-overlooks-antifa-role-portland-riots" target="_blank"><div class="mrc-network-section-display"><div class="mrc-network-section-display-logo"><img class="img-responsive" src="https://cdn.mrc.org/static/banner-headers-600px/2020-logo-latino.png"/></div><div class="mrc-network-section-display-image"><img class="img-responsive" src="http://cdn.newsbusters.org/2021-03/Un%20Nuevo%20D%C3%ADa%20-%207_15_08%20am%20-%207_15_35%20am%20-%2007_00_01%20AM%20%283%29.jpg"/></div><div class="mrc-network-section-display-title"><div class="mrc-network-section-display-title-text">Telemundo Overlooks ANTIFA Role in Portland Riots</div></div></div></a></div></div> </div>
+</div>
+<div class="panel-pane pane-block pane-block-19 pane-block">
+<div class="pane-content">
+<div id="intranet_banner"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="container padding30bottom">
+<div class="row">
+<div class="panel-pane pane-block pane-mrc-alters-big-navigation-menu-block pane-mrc-alters">
+<div class="pane-content">
+<div class="col-xs-12"><div class="row no-gutters big-navigation-menu"><div class="col-sm-6"><a href="/press-releases" title="Press Releases"><button class="btn btn-primary btn-block buttonWhiteHeader" type="button">Press Releases</button></a></div><div class="col-sm-6"><a href="/gala-dishonors-awards" title="MRC Gala"><button class="btn btn-primary btn-block buttonWhiteHeader" type="button">Past MRC Galas</button></a></div><div class="col-sm-6"><a href="/research" title="Research"><button class="btn btn-primary btn-block buttonWhiteHeader" type="button">Research</button></a></div><div class="col-sm-6"><a href="/media-bias-101" title="Media Bias 101"><button class="btn btn-primary btn-block buttonWhiteHeader" type="button">Media Bias 101</button></a></div></div></div> </div>
+</div>
+</div>
+</div>
+<div class="container padding20bottom">
+<div class="row">
+<div class="panel-pane pane-views-panes pane-front-page-image-menu-pane">
+<div class="pane-content">
+<div class="view view-front-page view-id-front_page view-display-id-image_menu_pane image-menu-ads view-dom-id-5fd4ed811a846712bcc92a7cb37d6bc0">
+<div class="view-content">
+<div class="col-xs-12 col-sm-6 col-md-4 padding10bottom">
+<a href="https://www.mrc.org/internships" target="_blank">
+<div class="image-menu">
+<img src="https://cdn.mrc.org/images/image-menu/intern_block.jpg">
+<div class="overlay">
+<span>INTERNSHIPS</span>
+</div>
+</img></div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 padding10bottom">
+<a href="https://www.mrc.org/watchdog-newsletter" target="_blank">
+<div class="image-menu">
+<img src="https://cdn.mrc.org/images/image-menu/ad-watchdog_0.jpg">
+<div class="overlay">
+<span>WATCHDOG NEWSLETTER</span>
+</div>
+</img></div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 padding10bottom">
+<a href="https://www.mrc.org/notable-quotables/best-notable-quotables" target="_blank">
+<div class="image-menu">
+<img src="https://cdn.mrc.org/images/image-menu/ad-nq_0.jpg">
+<div class="overlay">
+<span>BEST OF NOTABLE QUOTABLES</span>
+</div>
+</img></div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 padding10bottom">
+<a href="http://mrccruise.com/?utm_source=mktg&amp;utm_medium=img-m&amp;utm_campaign=mrccruise&amp;utm_content=menu" target="_blank">
+<div class="image-menu">
+<img src="https://cdn.mrc.org/images/image-menu/mrccruisethumbnail.png">
+<div class="overlay">
+<span>MRC Caribbean Cruise</span>
+</div>
+</img></div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 padding10bottom">
+<a href="https://www.newsbusters.org/freespeech" target="_blank">
+<div class="image-menu">
+<img src="https://cdn.mrc.org/images/image-menu/techwatch.jpg">
+<div class="overlay">
+<span>Free Speech America</span>
+</div>
+</img></div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 padding10bottom">
+<a href="https://www.mrc.org/action" target="_blank">
+<div class="image-menu">
+<img src="https://cdn.mrc.org/images/image-menu/mrcactionimage.png">
+<div class="overlay">
+<span>Learn More About MRC Action</span>
+</div>
+</img></div>
+</a>
+</div> </div>
+</div> </div>
+</div> </div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<footer>
+<div class="blueFooter1">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<img src="https://mrc7.s3.amazonaws.com/MRCStandard_Logo_White.png" style="
+                    max-width: 150px;
+                    margin-top: 30px;
+                    "/>
+</div>
+</div>
+<div class="row">
+<div class="region region-footer-top">
+<section class="block block-mrc-alters col-md-6 clearfix" id="block-mrc-alters-footer-menu">
+<h2>FIND OUT MORE</h2><div class="row"><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/about" target="_blank">About</a></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/contact" target="_blank">Contact</a></div><div class="visible-xs-block clearfix"></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/careers" target="_blank">Careers</a></div><div class="visible-sm-block clearfix"></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/internships" target="_blank">Internships</a></div><div class="visible-xs-block clearfix"></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="https://mrc-store.com/" target="_blank">Store</a></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/donate" target="_blank">Support</a></div><div class="visible-xs-block clearfix"></div><div class="visible-sm-block clearfix"></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/press-releases" target="_blank">Press Releases</a></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/gala-dishonors-awards" target="_blank">Past MRC Galas</a></div><div class="visible-xs-block clearfix"></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/research" target="_blank">Research</a></div><div class="visible-sm-block clearfix"></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/media-bias-101" target="_blank">Media Bias 101</a></div><div class="visible-xs-block clearfix"></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/donate" target="_blank">Donate</a></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/action" target="_blank">Take Action</a></div><div class="visible-xs-block clearfix"></div><div class="visible-sm-block clearfix"></div><div class="col-xs-6 col-sm-4"><a class="footer textLeft" href="/newsletter/preferences" target="_blank">Subscribe</a></div></div>
+</section>
+<section class="block block-block col-md-6 clearfix" id="block-block-4">
+<h2>CONNECT WITH US</h2>
+<div class="row">
+<div class="col-xs-6 col-sm-4"><a class="footer" href="http://www.facebook.com/mediaresearchcenter?ref=ts" target="_blank"><span class="fa-stack fa-fw"> <i class="fa fa-circle-thin fa-stack-2x"></i> <i class="fa fa-facebook fa-stack-1x"></i> </span>Facebook</a></div>
+<div class="col-xs-6 col-sm-4"><a class="footer" href="https://www.youtube.com/user/MRCTVdotOrg" target="_blank"><span class="fa-stack fa-fw"> <i class="fa fa-circle-thin fa-stack-2x"></i> <i class="fa fa-youtube fa-stack-1x"></i> </span>YouTube</a></div>
+<div class="col-xs-6 col-sm-4"><a class="footer" href="http://twitter.com/theMRC" target="_blank"><span class="fa-stack fa-fw"> <i class="fa fa-circle-thin fa-stack-2x"></i> <i class="fa fa-twitter fa-stack-1x"></i> </span>Twitter</a></div>
+<div class="col-xs-6 col-sm-4"><a class="footer" href="https://www.instagram.com/mediaresearchcenter/" target="_blank"><span class="fa-stack fa-fw"> <i class="fa fa-circle-thin fa-stack-2x"></i> <i class="fa fa-instagram fa-stack-1x"></i> </span>Instagram</a></div>
+<div class="col-xs-6 col-sm-4"><a class="footer" href="https://www.linkedin.com/company/media-research-center" target="_blank"><span class="fa-stack fa-fw"> <i class="fa fa-circle-thin fa-stack-2x"></i> <i class="fa fa-linkedin fa-stack-1x"></i> </span>Linkedin</a></div>
+<div class="col-xs-6 col-sm-4"><a class="footer" href="https://www.pinterest.com/themrc/" target="_blank"><span class="fa-stack fa-fw"> <i class="fa fa-circle-thin fa-stack-2x"></i> <i class="fa fa-pinterest fa-stack-1x"></i> </span>Pinterest</a></div>
+<!-- <div class="col-xs-6 col-sm-4"><a class="footer" href="https://plus.google.com/106499496211036203811" target="_blank"><span class="fa-stack fa-fw"> <i class="fa fa-circle-thin fa-stack-2x"></i> <i class="fa fa-google-plus fa-stack-1x"></i> </span>Google+</a></div> -->
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<div class="blueFooter2">
+<div class="container">
+<div class="row">
+<div class="col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-1">
+<div class="region region-footer">
+<section class="block block-block clearfix" id="block-block-3">
+<p class="white textCenter small">The mission of the <a class="footer" href="/" target="_blank">Media Research Center</a> is to create a media culture in America where truth and liberty flourish. The MRC is a research and education organization operating under <a class="footer" href="/about" target="_blank">Section 501(c)(3)</a> of the Internal Revenue Code, and <a class="footer" href="https://www.mrc.org/action/join-the-movement" target="_blank">contributions</a> to the MRC are tax-deductible.</p><p class="white textCenter small"><a class="footer" href="/privacy-policy">Privacy Policy</a> | <a class="footer" href="/terms-of-use-agreement">Terms of Use Agreement</a></p><p class="white textCenter small">©Copyright 2020, Media Research Center | All Rights Reserved</p>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script src="https://www.mrc.org/sites/default/files/js/js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"e418870400","applicationID":"91886985","transactionName":"ZFMENUdYW0tZUEAIX10ZMxNcFhpRVldRGR5DXhY=","queueTime":0,"applicationTime":13,"atts":"SBQHQw9CSEU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

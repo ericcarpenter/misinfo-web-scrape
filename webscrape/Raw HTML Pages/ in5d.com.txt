@@ -1,0 +1,1510 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11"><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<script data-cfasync="false" data-ezscrex="false" data-pagespeed-no-defer="">var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck=__ez.ck||{};__ez.template={};__ez.template.isOrig=true;__ez.queue=(function(){var count=0,incr=0,items=[],timeDelayFired=false,hpItems=[],lpItems=[],allowLoad=true;var obj={func:function(name,funcName,parameters,isBlock,blockedBy,deleteWhenComplete,proceedIfError){var self=this;this.name=name;this.funcName=funcName;this.parameters=parameters===null?null:(parameters instanceof Array)?parameters:[parameters];this.isBlock=isBlock;this.blockedBy=blockedBy;this.deleteWhenComplete=deleteWhenComplete;this.isError=false;this.isComplete=false;this.isInitialized=false;this.proceedIfError=proceedIfError;this.isTimeDelay=false;this.process=function(){log("... func = "+name);self.isInitialized=true;self.isComplete=true;log("... func.apply: "+name);var funcs=self.funcName.split('.');var func=null;if(funcs.length>3){}else if(funcs.length===3){func=window[funcs[0]][funcs[1]][funcs[2]];}else if(funcs.length===2){func=window[funcs[0]][funcs[1]];}else{func=window[self.funcName];}
+if(typeof func!=='undefined'&&func!==null){func.apply(null,this.parameters);}
+if(self.deleteWhenComplete===true)delete items[name];if(self.isBlock===true){log("----- F'D: "+self.name);processAll();}}},file:function(name,path,isBlock,blockedBy,async,defer,proceedIfError){var self=this;this.name=name;this.path=path;this.async=async;this.defer=defer;this.isBlock=isBlock;this.blockedBy=blockedBy;this.isInitialized=false;this.isError=false;this.isComplete=false;this.proceedIfError=proceedIfError;this.isTimeDelay=false;this.process=function(){self.isInitialized=true;log("... file = "+name);var scr=document.createElement('script');scr.src=path;if(async===true)scr.async=true;else if(defer===true)scr.defer=true;scr.onerror=function(){log("----- ERR'D: "+self.name);self.isError=true;if(self.isBlock===true){processAll();}};scr.onreadystatechange=scr.onload=function(){var state=scr.readyState;log("----- F'D: "+self.name);if((!state||/loaded|complete/.test(state))){self.isComplete=true;if(self.isBlock===true){processAll();}}};document.getElementsByTagName('head')[0].appendChild(scr);}}};function init(){window.addEventListener("load",function(){setTimeout(function(){timeDelayFired=true;log('TDELAY -----');processAll();},5000);},false);}
+function addFile(name,path,isBlock,blockedBy,async,defer,proceedIfError,priority){var item=new obj.file(name,path,isBlock,blockedBy,async,defer,proceedIfError);if(priority===true){hpItems[name]=item}else{lpItems[name]=item}
+items[name]=item;checkIfBlocked(item);}
+function setallowLoad(settobool){allowLoad=settobool}
+function addFunc(name,func,parameters,isBlock,blockedBy,autoInc,deleteWhenComplete,proceedIfError,priority){if(autoInc===true)name=name+"_"+incr++;var item=new obj.func(name,func,parameters,isBlock,blockedBy,deleteWhenComplete,proceedIfError);if(priority===true){hpItems[name]=item}else{lpItems[name]=item}
+items[name]=item;checkIfBlocked(item);}
+function addTimeDelayFile(name,path){var item=new obj.file(name,path,false,[],false,false,true);item.isTimeDelay=true;log(name+' ... '+' FILE! TDELAY');lpItems[name]=item;items[name]=item;checkIfBlocked(item);}
+function addTimeDelayFunc(name,func,parameters){var item=new obj.func(name,func,parameters,false,[],true,true);item.isTimeDelay=true;log(name+' ... '+' FUNCTION! TDELAY');lpItems[name]=item;items[name]=item;checkIfBlocked(item);}
+function checkIfBlocked(item){if(isBlocked(item)===true||allowLoad==false)return;item.process();}
+function isBlocked(item){if(item.isTimeDelay===true&&timeDelayFired===false){log(item.name+" blocked = TIME DELAY!");return true;}
+if(item.blockedBy instanceof Array){for(var i=0;i<item.blockedBy.length;i++){var block=item.blockedBy[i];if(items.hasOwnProperty(block)===false){log(item.name+" blocked = "+block);return true;}else if(item.proceedIfError===true&&items[block].isError===true){return false;}else if(items[block].isComplete===false){log(item.name+" blocked = "+block);return true;}}}
+return false;}
+function log(msg){var href=window.location.href;var reg=new RegExp('[?&]ezq=([^&#]*)','i');var string=reg.exec(href);var res=string?string[1]:null;if(res==="1")console.debug(msg);}
+function processAll(){count++;if(count>200)return;log("let's go");processItems(hpItems);processItems(lpItems);}
+function processItems(list){for(var i in list){if(list.hasOwnProperty(i)===false)continue;var item=list[i];if(item.isComplete===true||isBlocked(item)||item.isInitialized===true||item.isError===true){if(item.isError===true){log(item.name+': error')}else if(item.isComplete===true){log(item.name+': complete already')}else if(item.isInitialized===true){log(item.name+': initialized already')}}else{item.process();}}}
+init();return{addFile:addFile,addDelayFile:addTimeDelayFile,addFunc:addFunc,addDelayFunc:addTimeDelayFunc,items:items,processAll:processAll,setallowLoad:setallowLoad};})();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};__ez.queue.addFile('/detroitchicago/boise.js', '//g.ezoic.net/detroitchicago/boise.js?gcb=192-4&cb=1', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/memphis.js', '//g.ezoic.net/detroitchicago/memphis.js?gcb=192-4&cb=5', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/minneapolis.js', '//g.ezoic.net/detroitchicago/minneapolis.js?gcb=192-4&cb=3', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/rochester.js', '//g.ezoic.net/detroitchicago/rochester.js?gcb=192-4&cb=4', false, ['/detroitchicago/memphis.js','/detroitchicago/minneapolis.js'], true, false, true, false);__ez.vep=(function(){var pixels=[],pxURL="/detroitchicago/grapefruit.gif";function AddPixel(vID,pixelData){if(__ez.dot.isDefined(vID)&&__ez.dot.isValid(pixelData)){pixels.push({type:'video',video_impression_id:vID,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(pixelData)});}}
+function Fire(){if(typeof document.visibilityState!=='undefined'&&document.visibilityState==="prerender"){return;}
+if(__ez.dot.isDefined(pixels)&&pixels.length>0){while(pixels.length>0){var j=5;if(j>pixels.length){j=pixels.length;}
+var pushPixels=pixels.splice(0,j);var pixelURL=__ez.dot.getURL(pxURL)+"?orig="+(__ez.template.isOrig===true?1:0)+"&v="+btoa(JSON.stringify(pushPixels));__ez.dot.Fire(pixelURL);}}
+pixels=[];}
+return{Add:AddPixel,Fire:Fire};})();</script><script data-cfasync="false" data-ezscrex="false" data-pagespeed-no-defer="">__ez.pel=(function(){var pixels=[],pxURL="/porpoiseant/army.gif";function AddAndFirePixel(adSlot,pixelData){AddPixel(adSlot,pixelData,0,0,0,0,0);Fire();}
+function AddAndFireOrigPixel(adSlot,pixelData){AddPixel(adSlot,pixelData,0,0,0,0,0,true);Fire();}
+function GetCurrentPixels(){return pixels;}
+function AddPixel(adSlot,pixelData,revenue,est_revenue,bid_floor_filled,bid_floor_prev,stat_source_id,isOrig){if(!__ez.dot.isDefined(adSlot)||__ez.dot.isAnyDefined(adSlot.getSlotElementId,adSlot.ElementId)==false){return;}
+var ad_position_id=parseInt(__ez.dot.getTargeting(adSlot,'ap'));var impId=__ez.dot.getSlotIID(adSlot),adUnit=__ez.dot.getAdUnit(adSlot,isOrig);var compId=parseInt(__ez.dot.getTargeting(adSlot,"compid"));var lineItemId=0;var creativeId=0;var ezimData=getEzimData(adSlot);if(typeof ezimData=='object'){if(ezimData.creative_id!==undefined){creativeId=ezimData.creative_id;}
+if(ezimData.line_item_id!==undefined){lineItemId=ezimData.line_item_id;}}
+if(__ez.dot.isDefined(impId,adUnit)&&__ez.dot.isValid(pixelData)){pixels.push({type:"impression",impression_id:impId,domain_id:__ez.dot.getDID(),unit:adUnit,t_epoch:__ez.dot.getEpoch(0),revenue:revenue,est_revenue:est_revenue,ad_position:ad_position_id,ad_size:"",bid_floor_filled:bid_floor_filled,bid_floor_prev:bid_floor_prev,stat_source_id:stat_source_id,country_code:__ez.dot.getCC(),pageview_id:__ez.dot.getPageviewId(),comp_id:compId,line_item_id:lineItemId,creative_id:creativeId,data:__ez.dot.dataToStr(pixelData),is_orig:isOrig||__ez.template.isOrig,});}}
+function AddPixelById(impFullId,pixelData,isOrig){var vals=impFullId.split('/');if(__ez.dot.isDefined(impFullId)&&vals.length===3&&__ez.dot.isValid(pixelData)){var adUnit=vals[0],impId=vals[2];pixels.push({type:"impression",impression_id:impId,domain_id:__ez.dot.getDID(),unit:adUnit,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(pixelData),is_orig:isOrig||__ez.template.isOrig});}}
+function Fire(){if(typeof document.visibilityState!=='undefined'&&document.visibilityState==="prerender")return;if(__ez.dot.isDefined(pixels)&&pixels.length>0){var allPixels=[pixels.filter(function(pixel){return pixel.is_orig}),pixels.filter(function(pixel){return!pixel.is_orig})];allPixels.forEach(function(pixels){while(pixels.length>0){var isOrig=pixels[0].is_orig||false;var j=5;if(j>pixels.length){j=pixels.length;}
+var pushPixels=pixels.splice(0,j);var pixelURL=__ez.dot.getURL(pxURL)+"?orig="+(isOrig===true?1:0)+"&sts="+btoa(JSON.stringify(pushPixels));if(typeof window.isAmp!=='undefined'&&isAmp&&typeof window._ezaq!=='undefined'&&_ezaq.hasOwnProperty("domain_id")){pixelURL+="&visit_uuid="+_ezaq['visit_uuid'];}
+__ez.dot.Fire(pixelURL);}})}
+pixels=[];}
+function getEzimData(adSlot){if(typeof _ezim_d=="undefined"){return false}
+var adUnitName=__ez.dot.getAdUnitPath(adSlot).split('/').pop();if(typeof _ezim_d==='object'&&_ezim_d.hasOwnProperty(adUnitName)){return _ezim_d[adUnitName];}
+for(var ezimKey in _ezim_d){if(ezimKey.split('/').pop()===adUnitName){return _ezim_d[ezimKey];}}
+return false;}
+return{Add:AddPixel,AddAndFire:AddAndFirePixel,AddAndFireOrig:AddAndFireOrigPixel,AddById:AddPixelById,Fire:Fire,GetPixels:GetCurrentPixels,};})();__ez.queue.addFile('/detroitchicago/raleigh.js', '//g.ezoic.net/detroitchicago/raleigh.js?gcb=192-4&cb=5', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/tampa.js', '//g.ezoic.net/detroitchicago/tampa.js?gcb=192-4&cb=3', false, [], true, false, true, false);</script>
+<script data-cfasync="false" data-ezscrex="false">(function(){if("function"===typeof window.CustomEvent)return!1;window.CustomEvent=function(c,a){a=a||{bubbles:!1,cancelable:!1,detail:null};var b=document.createEvent("CustomEvent");b.initCustomEvent(c,a.bubbles,a.cancelable,a.detail);return b}})();</script><script data-cfasync="false" data-ezscrex="false">__ez.queue.addFile('/detroitchicago/tulsa.js', '//g.ezoic.net/detroitchicago/tulsa.js?gcb=192-4&cb=5', false, [], true, false, true, false);</script>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<title>In5D - Welcome Home  : In5D</title>
+<link href="http://in5d.com/xmlrpc.php" rel="pingback"/>
+<meta content="max-image-preview:large" name="robots"/>
+<!-- This site is optimized with the Yoast SEO Premium plugin v10.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="Welcome Home" name="description"/>
+<link href="http://in5d.com/" rel="canonical"/>
+<link href="http://in5d.com/page/2/" rel="next"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<meta content="In5D - Welcome Home" property="og:title"/>
+<meta content="Welcome Home" property="og:description"/>
+<meta content="http://in5d.com/" property="og:url"/>
+<meta content="In5D" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Welcome Home" name="twitter:description"/>
+<meta content="In5D - Welcome Home" name="twitter:title"/>
+<meta content="@greggprescott1" name="twitter:site"/>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"http://in5d.com/#website","url":"http://in5d.com/","name":"In5D Esoteric, Metaphysical, and Spiritual Database","potentialAction":{"@type":"SearchAction","target":"http://in5d.com/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"http://in5d.com/","sameAs":["https://www.facebook.com/in5dEsotericMetaphysicalSpiritualDatabase/","https://www.linkedin.com/in/gregg-prescott-62140635/","https://www.youtube.com/user/in5d","https://twitter.com/greggprescott1"],"@id":"http://in5d.com/#organization","name":"in5d","logo":"https://in5d.com/wp-content/uploads/2015/11/faviconin5d.jpg"}</script>
+<!-- / Yoast SEO Premium plugin. -->
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="http://in5d.com/feed/" rel="alternate" title="In5D » Feed" type="application/rss+xml"/>
+<link href="http://in5d.com/comments/feed/" rel="alternate" title="In5D » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/in5d.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="http://in5d.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=5.7" id="scap.flashblock-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=5.7" id="scap.player-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/plugins/ezoic-integration/public/css/ezoic-integration-public.css?ver=1.3.14" id="ezoic-integration-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/themes/wp-brilliance103/style.css?ver=5.7" id="theme-main-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/themes/wp-brilliance103/style-font.css?ver=5.7" id="theme-fonts-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/themes/wp-brilliance103/style-responsive.css?ver=5.7" id="theme-responsive-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/themes/wp-brilliance103/custom.css?ver=5.7" id="theme-custom-styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/plugins/newsletter/style.css?ver=7.0.7" id="newsletter-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" id="addtoany-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="scap.soundmanager2-js" src="http://in5d.com/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js?ver=5.7" type="text/javascript"></script>
+<script id="jquery-core-js" src="http://in5d.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="http://in5d.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="addtoany-js" src="http://in5d.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" type="text/javascript"></script>
+<link href="http://in5d.com/wp-json/" rel="https://api.w.org/"/><link href="http://in5d.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://in5d.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.7" name="generator"/>
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<!-- Custom Styles from Theme Setting Page -->
+<style type="text/css">
+body {background-color:#ffffff;font-family:Georgia,Times,serif;}
+a,a:link,a:visited {color:#f07b2e;}
+a:hover,a:active {color:#0da134;}
+h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Calibri,Arial,sans-serif;font-weight:bold;}
+h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-weight:bold;}
+.post-title a,.post-title a:link,.post-title a:visited {color:#79718c !important;}
+#sitetitle .title {font-size:35px;font-weight:bold;}
+#sitetitle .title,#sitetitle .description {float:none;text-indent:-999em;position:absolute;display:none;left:-999em;}
+#topnav,#topnav ul ul a {font-size:9pt;font-weight:bold;font-family:Georgia,Times,serif;}
+</style>
+<link href="http://in5d.com/wp-content/uploads/2019/03/cropped-favicon5-32x32.jpg" rel="icon" sizes="32x32"/>
+<link href="http://in5d.com/wp-content/uploads/2019/03/cropped-favicon5-192x192.jpg" rel="icon" sizes="192x192"/>
+<link href="http://in5d.com/wp-content/uploads/2019/03/cropped-favicon5-180x180.jpg" rel="apple-touch-icon"/>
+<meta content="http://in5d.com/wp-content/uploads/2019/03/cropped-favicon5-270x270.jpg" name="msapplication-TileImage"/>
+<meta content="p4cScVBFWSUOr_De9VjAxR0JFucgA75ux96u6xXGmDg" name="google-site-verification"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-117514536-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117514536-1');
+</script>
+<meta content="875315395224F04101224AC66ECB37B3" name="msvalidate.01"/>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<meta content="78B3CBCA60A367246E754D685D9481EA" name="msvalidate.01"/>
+<p align="center"><a href="https://in5d.net/product-category/ladies-fitted-crew/?orderby=date"><img src="http://in5d.com/wp-content/uploads/2020/11/bannerrrrrrr.jpg" style="display: inline-block; max-width: 100%;"/></a></p>
+&gt;
+<script type="text/javascript">var ezouid = "1";</script><base href="http://in5d.com/"/><script type="text/javascript">
+var ezoTemplate = 'old_site_excl';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script>
+<!-- START EZHEAD -->
+<script data-ezscrex="false" type="text/javascript">
+var soc_app_id = '0';
+var did = 53541;
+var ezdomain = 'in5d.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+<script data-cfasync="false" data-ezscrex="false" type="text/javascript">var _ezaq = {"ad_cache_level":0,"ad_lazyload_version":0,"city":"Janesville","country":"US","days_since_last_visit":-1,"domain_id":53541,"domain_test_group":20200401,"engaged_time_visit":0,"ezcache_level":0,"ezcache_skip_code":0,"form_factor_id":1,"framework_id":1,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"metro_code":669,"page_ad_positions":"","page_view_count":0,"page_view_id":"81993388-724f-4ade-4ed3-fd3ce3987268","position_selection_id":0,"postal_code":"53546","pv_event_count":0,"response_size_orig":103073,"response_time_orig":0,"serverid":"18.215.63.32:15384","state":"WI","t_epoch":1615960609,"template_id":131,"time_on_site_visit":0,"url":"http://in5d.com/","user_id":0,"visit_uuid":"99a397a3-5c56-43eb-6cfa-00afdfd4a10b","word_count":1988,"worst_bad_word_level":0};var _ezExtraQueries = "&ez_orig=1";</script><script data-cfasync="false" data-ezscrex="false" type="text/javascript">var ezWp = true;</script>
+<script data-cfasync="false" data-ezscrex="false" data-pagespeed-no-defer="">
+function create_ezolpl(pvID, rv) {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    __ez.ck.setByCat("ezux_lpl_53541=" + new Date().getTime() + "|" + pvID + "|" + rv + "; " + expires, 3);
+}
+function attach_ezolpl(pvID, rv) {
+    if (document.readyState === "complete") {
+        create_ezolpl(pvID, rv);
+    }
+    if(window.attachEvent) {
+        window.attachEvent("onload", create_ezolpl, pvID, rv);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl(pvID, rv);
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl.bind(null, pvID, rv);
+        }
+    }
+}
+
+__ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["81993388-724f-4ade-4ed3-fd3ce3987268", "false"], false, ['/detroitchicago/boise.js'], true, false, false, false);
+</script></head>
+<body class="home blog c-sw">
+<div id="outer-wrap">
+<div class="clearfix" id="header">
+<div class="limit clearfix">
+<div class="clearfix" id="head-content">
+<div id="logo">
+<a href="http://in5d.com" title="In5D"><img alt="In5D" src="https://in5d.com/wp-content/uploads/2019/02/rheherh.jpg"/></a>
+</div>
+</div>
+<div id="catnav">
+<ul class="catnav clearfix">
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-27229" id="menu-item-27229"><a aria-current="page" href="https://in5d.com/">HOME</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33805" id="menu-item-33805"><a href="http://in5d.com/category/enlightening-articles/">ENLIGHTENING ARTICLES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27230" id="menu-item-27230"><a href="https://in5d.com/category/spiritual-awakening/">SPIRITUAL AWAKENING</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27231" id="menu-item-27231"><a href="https://in5d.com/category/energy-updates/">ENERGY UPDATES</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27240" id="menu-item-27240"><a href="https://in5d.com/category/indigos/">INDIGOS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27232" id="menu-item-27232"><a href="https://in5d.com/category/meditation/">MEDITATION</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27233" id="menu-item-27233"><a href="https://in5d.com/category/prophecy/">PROPHECY</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27237" id="menu-item-27237"><a href="https://in5d.com/category/astrology/">ASTROLOGY</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27239" id="menu-item-27239"><a href="https://in5d.com/category/matrix/">EXITING THE MATRIX</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27246" id="menu-item-27246"><a href="https://in5d.com/category/new-earth-news/">NEW EARTH NEWS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27234" id="menu-item-27234"><a href="https://in5d.com/category/awareness/">AWARENESS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-46495" id="menu-item-46495"><a href="http://in5d.com/category/twin-flames/">Twin Flames, Soulmates &amp; Relationships</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27245" id="menu-item-27245"><a href="//in5d.com/quick-reference-websites/">NEWS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27236" id="menu-item-27236"><a href="https://in5d.com/category/et/">EXTRATERRESTRIALS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27238" id="menu-item-27238"><a href="https://in5d.com/category/science/">SCIENCE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27235" id="menu-item-27235"><a href="https://in5d.com/category/health/">HEALTH</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27241" id="menu-item-27241"><a href="https://in5d.com/category/in5d-radio/">IN5D LIVE PODCASTS</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27242" id="menu-item-27242"><a href="https://in5d.com/category/in5d-facebook-live/">IN5D LIVE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27244" id="menu-item-27244"><a href="http://in5devents.com/">IN5D EVENTS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27249" id="menu-item-27249"><a href="https://www.patreon.com/in5d">IN5D PATREON</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27248" id="menu-item-27248"><a href="https://in5d.com/patreon-wall-of-eternal-gratitude-in5d-page/">WALL OF ETERNAL GRATITUDE</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27247" id="menu-item-27247"><a href="//in5d.com/attention-writers-and-authors/">SEND US YOUR ARTICLE!</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35591" id="menu-item-35591"><a href="https://in5d.com/todays-live-schumann-resonance-charts-and-resources/">LIVE SCHUMANN RESONANCE CHARTS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37660" id="menu-item-37660"><a href="https://in5d.com/advertise-on-in5d/">ADVERTISE ON IN5D</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41587" id="menu-item-41587"><a href="https://in5d.net/shop/">In5D TIE DYE APPAREL</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix" id="subheader">
+<div class="limit clearfix">
+<h2 class="description">Welcome Home</h2>
+<div class="sub-icons">
+<ul class="clearfix">
+<li><a class="subicon rss" href="http://in5d.com/feed/" title="Subscribe via RSS Feed">RSS Feed</a></li>
+<li><a class="subicon instagram" href="http://www.instagram.com/official_in5d" rel="external" title="Connect on Instagram">Instagram</a></li>
+<li><a class="subicon twitter" href="http://www.twitter.com/greggprescott1" rel="external" title="Follow Me on Twitter">Twitter</a></li>
+<li><a class="subicon pinterest" href="http://www.pinterest.com/in5dtv/" rel="external" title="Connect on Pinterest">Pinterest</a></li>
+<li><a class="subicon youtube" href="http://www.youtube.com/user/in5d" rel="external" title="Connect on YouTube">Youtube</a></li>
+</ul>
+</div> </div>
+</div>
+<div id="wrap">
+<div class="banner728-container clearfix">
+<div class="banner728">
+<p><a href="https://in5d.com/advertise-on-in5d/" target="_new"><img alt="in5d ads" height="90" src="http://in5d.com/wp-content/uploads/2019/04/ads-928x90.jpg" width="728"/></a></p>
+<p><a href="https://psychically.net" rel="”nofollow” noopener noreferrer" target="_new"><img alt=" In5D Psychics" height="90" src="http://in5d.com/wp-content/uploads/2020/11/ali-psychically.jpg" width="728"/></a></p>
+<p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728x90-ATF-in5d -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-slot="5135278769" style="display:inline-block;width:728px;height:90px"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+</div>
+<div class="clearfix" id="page">
+<div class="page-border clearfix">
+<div class="clearfix" id="contentleft">
+<div class="clearfix" id="content">
+<div class="post-27018 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-patreon-wall-of-eternal-gratitude-in5d-page tag-patreon-wall-of-eternal-gratitude-in5d-page" id="post-main-27018">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/patreon-wall-of-eternal-gratitude-in5d-page/" rel="bookmark" title="Permanent Link to Patreon Wall of Eternal Gratitude In5D Page">Patreon Wall of Eternal Gratitude In5D Page</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			April 8, 2018		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/patreon-wall-of-eternal-gratitude-in5d-page/" rel="category tag">Patreon Wall of Eternal Gratitude In5D Page</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/patreon-wall-of-eternal-gratitude-in5d-page/#respond" rel="bookmark" title="Comments for Patreon Wall of Eternal Gratitude In5D Page"><span class="dsq-postid" data-dsqidentifier="27018 http://in5d.com/?p=27018">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/patreon-wall-of-eternal-gratitude-in5d-page/" rel="bookmark" title="Permanent Link to Patreon Wall of Eternal Gratitude In5D Page"> <img alt="Patreon Wall of Eternal Gratitude In5D Page" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2018/04/gratitude-patreon-300x200.jpg" title="Patreon Wall of Eternal Gratitude In5D Page"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Beginning in April of 2009, In5D has been your home for reliable, honest, and heart-centered articles for over 10 years. Infinite love, light, and gratitude to EVERYONE who has visited In5D throughout the years. It’s been our pleasure serving YOU! All In5D Patrons supporters are listed below on our Wall of Eternal Gratitude. Thank you to all who are, or have been, In5D Patrons!</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/patreon-wall-of-eternal-gratitude-in5d-page/" rel="nofollow" title="Permanent Link to Patreon Wall of Eternal Gratitude In5D Page">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-48776 post type-post status-publish format-standard hentry category-astrology" id="post-main-48776">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/all-signs-weekly-tarot-march-16-21-2021-with-alison-janes/" rel="bookmark" title="Permanent Link to ALL SIGNS Weekly Tarot March 16-21, 2021 with Alison Janes">ALL SIGNS Weekly Tarot March 16-21, 2021 with Alison Janes</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 16, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/astrology/" rel="category tag">Astrology</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/all-signs-weekly-tarot-march-16-21-2021-with-alison-janes/#respond" rel="bookmark" title="Comments for ALL SIGNS Weekly Tarot March 16-21, 2021 with Alison Janes"><span class="dsq-postid" data-dsqidentifier="48776 https://in5d.com/?p=48776">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/all-signs-weekly-tarot-march-16-21-2021-with-alison-janes/" rel="bookmark" title="Permanent Link to ALL SIGNS Weekly Tarot March 16-21, 2021 with Alison Janes"> <img alt="ALL SIGNS Weekly Tarot March 16-21, 2021 with Alison Janes" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/03/htsrserh-300x200.jpg" title="ALL SIGNS Weekly Tarot March 16-21, 2021 with Alison Janes"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Alison Janes gives you step by step predictions linked to Finance and Love for the Beginning, Middle and End of this week.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/all-signs-weekly-tarot-march-16-21-2021-with-alison-janes/" rel="nofollow" title="Permanent Link to ALL SIGNS Weekly Tarot March 16-21, 2021 with Alison Janes">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-48773 post type-post status-publish format-standard has-post-thumbnail hentry category-astrology tag-exploring-the-dream-world tag-new-moon-stellium-in-pisces-honoring-all-emotions tag-releasing-judgment" id="post-main-48773">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/new-moon-stellium-in-pisces-honoring-all-emotions/" rel="bookmark" title="Permanent Link to New Moon &amp; Stellium In Pisces: Honoring All Emotions, Releasing Judgment, Exploring The Dream World">New Moon &amp; Stellium In Pisces: Honoring All Emotions, Releasing Judgment, Exploring The Dream World</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 12, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/astrology/" rel="category tag">Astrology</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/new-moon-stellium-in-pisces-honoring-all-emotions/#respond" rel="bookmark" title="Comments for New Moon &amp; Stellium In Pisces: Honoring All Emotions, Releasing Judgment, Exploring The Dream World"><span class="dsq-postid" data-dsqidentifier="48773 https://in5d.com/?p=48773">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/new-moon-stellium-in-pisces-honoring-all-emotions/" rel="bookmark" title="Permanent Link to New Moon &amp; Stellium In Pisces: Honoring All Emotions, Releasing Judgment, Exploring The Dream World"> <img alt="New Moon &amp; Stellium In Pisces: Honoring All Emotions, Releasing Judgment, Exploring The Dream World" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/03/cxbzxczx-300x200.jpg" title="New Moon &amp; Stellium In Pisces: Honoring All Emotions, Releasing Judgment, Exploring The Dream World"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Happy New Moon in Pisces! The New Moon becomes exact on Saturday, March 13 at 5:21 AM New York time (10:21 GMT). This is the final New Moon before the upcoming Equinox on March 20!</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/new-moon-stellium-in-pisces-honoring-all-emotions/" rel="nofollow" title="Permanent Link to New Moon &amp; Stellium In Pisces: Honoring All Emotions, Releasing Judgment, Exploring The Dream World">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-48640 post type-post status-publish format-standard has-post-thumbnail hentry category-astrology" id="post-main-48640">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/weekly-tarot-card-reading-march-8-14-2021-by-alison-janes-all-signs/" rel="bookmark" title="Permanent Link to Weekly Tarot Card Reading March 8-14, 2021 by Alison Janes All Signs">Weekly Tarot Card Reading March 8-14, 2021 by Alison Janes All Signs</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 8, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/astrology/" rel="category tag">Astrology</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/weekly-tarot-card-reading-march-8-14-2021-by-alison-janes-all-signs/#respond" rel="bookmark" title="Comments for Weekly Tarot Card Reading March 8-14, 2021 by Alison Janes All Signs"><span class="dsq-postid" data-dsqidentifier="48640 http://in5d.com/?p=48640">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/weekly-tarot-card-reading-march-8-14-2021-by-alison-janes-all-signs/" rel="bookmark" title="Permanent Link to Weekly Tarot Card Reading March 8-14, 2021 by Alison Janes All Signs"> <img alt="Weekly Tarot Card Reading March 8-14, 2021 by Alison Janes All Signs" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/03/thw5h5h5-300x200.jpg" title="Weekly Tarot Card Reading March 8-14, 2021 by Alison Janes All Signs"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Alison Janes gives you step by step predictions linked to Finance and Love for the Beginning, Middle and End of this week.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/weekly-tarot-card-reading-march-8-14-2021-by-alison-janes-all-signs/" rel="nofollow" title="Permanent Link to Weekly Tarot Card Reading March 8-14, 2021 by Alison Janes All Signs">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-48487 post type-post status-publish format-standard has-post-thumbnail hentry category-astrology tag-all-planets-direct tag-full-moon-in-virgo" id="post-main-48487">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/full-moon-in-virgo-all-planets-direct/" rel="bookmark" title="Permanent Link to Full Moon In Virgo, All Planets Direct">Full Moon In Virgo, All Planets Direct</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			February 26, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/astrology/" rel="category tag">Astrology</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/full-moon-in-virgo-all-planets-direct/#respond" rel="bookmark" title="Comments for Full Moon In Virgo, All Planets Direct"><span class="dsq-postid" data-dsqidentifier="48487 http://in5d.com/?p=48487">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/full-moon-in-virgo-all-planets-direct/" rel="bookmark" title="Permanent Link to Full Moon In Virgo, All Planets Direct"> <img alt="Full Moon In Virgo, All Planets Direct" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/02/fjfyfjyjxfxgxg-300x200.jpg" title="Full Moon In Virgo, All Planets Direct"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Virgo is a mutable Earth sign that brings logic, order, practicality, ritual, communication and understanding into focus. It opposes the sun in the mutable water sign of Pisces. Virgo seeks to understand, while Pisces simply feels. During this Full Moon time, we have the opportunity to find a balance between thinking and feeling and to use logical analysis and communication to our advantage.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/full-moon-in-virgo-all-planets-direct/" rel="nofollow" title="Permanent Link to Full Moon In Virgo, All Planets Direct">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-47225 post type-post status-publish format-standard has-post-thumbnail hentry category-spiritual-awakening" id="post-main-47225">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/angel-message-for-the-week-89/" rel="bookmark" title="Permanent Link to Angel Message For The Week #89">Angel Message For The Week #89</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			February 21, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/angel-message-for-the-week-89/#respond" rel="bookmark" title="Comments for Angel Message For The Week #89"><span class="dsq-postid" data-dsqidentifier="47225 http://in5d.com/?p=47225">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/angel-message-for-the-week-89/" rel="bookmark" title="Permanent Link to Angel Message For The Week #89"> <img alt="Angel Message For The Week #89" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2018/01/angel-message-300x200.jpg" title="Angel Message For The Week #89"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Harmony and balance come from within you. Any drama or turmoil you see playing out around you is a projection of the distortions created by the inner wounds that are surfacing now to be opened and cleaned out in order to be healed. Meet your wounds as friends. They are great teachers, but they must be recognized and seen and “brought to light” in order to learn from them. Clarity arises once wounds are known, healed and transformed into lessons.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/angel-message-for-the-week-89/" rel="nofollow" title="Permanent Link to Angel Message For The Week #89">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46164 post type-post status-publish format-standard has-post-thumbnail hentry category-health tag-aggravation tag-and-suffering tag-dealing-with-pain" id="post-main-46164">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/dealing-with-pain-aggravation-and-suffering/" rel="bookmark" title="Permanent Link to Dealing With Pain, Aggravation, And Suffering">Dealing With Pain, Aggravation, And Suffering</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			February 17, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/health/" rel="category tag">Health</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/dealing-with-pain-aggravation-and-suffering/#respond" rel="bookmark" title="Comments for Dealing With Pain, Aggravation, And Suffering"><span class="dsq-postid" data-dsqidentifier="46164 http://in5d.com/?p=46164">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/dealing-with-pain-aggravation-and-suffering/" rel="bookmark" title="Permanent Link to Dealing With Pain, Aggravation, And Suffering"> <img alt="Dealing With Pain, Aggravation, And Suffering" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/02/ghsr6rsrt-300x200.jpg" title="Dealing With Pain, Aggravation, And Suffering"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Pain, aggravation, suffering of any kind. We all go through it. The question is, how do you handle it after the fact?</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/dealing-with-pain-aggravation-and-suffering/" rel="nofollow" title="Permanent Link to Dealing With Pain, Aggravation, And Suffering">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46160 post type-post status-publish format-standard has-post-thumbnail hentry category-spiritual-awakening" id="post-main-46160">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/no-hiding-from-this-energy/" rel="bookmark" title="Permanent Link to No Hiding From This Energy">No Hiding From This Energy</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			February 16, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/no-hiding-from-this-energy/#respond" rel="bookmark" title="Comments for No Hiding From This Energy"><span class="dsq-postid" data-dsqidentifier="46160 http://in5d.com/?p=46160">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/no-hiding-from-this-energy/" rel="bookmark" title="Permanent Link to No Hiding From This Energy"> <img alt="No Hiding From This Energy" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/02/fsfbzs-300x200.jpg" title="No Hiding From This Energy"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>This energy may not be easy for all to endure as it continues to release what is no longer serving for humanity in order to prepare for the highest good.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/no-hiding-from-this-energy/" rel="nofollow" title="Permanent Link to No Hiding From This Energy">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46153 post type-post status-publish format-standard has-post-thumbnail hentry category-astrology tag-new-moon tag-stellium-in-aquarius-chinese-new-year" id="post-main-46153">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/new-moon-stellium-in-aquarius-chinese-new-year/" rel="bookmark" title="Permanent Link to New Moon,  Stellium In Aquarius – Chinese New Year">New Moon,  Stellium In Aquarius – Chinese New Year</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			February 9, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/astrology/" rel="category tag">Astrology</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/new-moon-stellium-in-aquarius-chinese-new-year/#respond" rel="bookmark" title="Comments for New Moon,  Stellium In Aquarius – Chinese New Year"><span class="dsq-postid" data-dsqidentifier="46153 http://in5d.com/?p=46153">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/new-moon-stellium-in-aquarius-chinese-new-year/" rel="bookmark" title="Permanent Link to New Moon,  Stellium In Aquarius – Chinese New Year"> <img alt="New Moon,  Stellium In Aquarius – Chinese New Year" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/02/gjdrjsrts-300x200.jpg" title="New Moon,  Stellium In Aquarius – Chinese New Year"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>The Aquarian energies are truly the name of the game right now; we haven’t seen anything like this since the 1960s! There is a natural sense of unity in the air right now; it’s a great time to connect with those who are on the same path as you.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/new-moon-stellium-in-aquarius-chinese-new-year/" rel="nofollow" title="Permanent Link to New Moon,  Stellium In Aquarius – Chinese New Year">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-7403 post type-post status-publish format-standard has-post-thumbnail hentry category-science category-spiritual-awakening tag-extrovert tag-gregg-prescott tag-introvert tag-personality-type tag-take-the-introvertextrovert-test-what-are-your-personality-test-letters" id="post-main-7403">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/personality-test/" rel="bookmark" title="Permanent Link to Take the Introvert/Extrovert Test! What Are YOUR Personality Test Letters?">Take the Introvert/Extrovert Test! What Are YOUR Personality Test Letters?</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			February 6, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/science/" rel="category tag">Science</a>, <a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/personality-test/#respond" rel="bookmark" title="Comments for Take the Introvert/Extrovert Test! What Are YOUR Personality Test Letters?"><span class="dsq-postid" data-dsqidentifier="7403 http://in5d.com/?p=7403">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/personality-test/" rel="bookmark" title="Permanent Link to Take the Introvert/Extrovert Test! What Are YOUR Personality Test Letters?"> <img alt="Take the Introvert/Extrovert Test! What Are YOUR Personality Test Letters?" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2015/08/fjsfjfgjfsj-300x200.jpg" title="Take the Introvert/Extrovert Test! What Are YOUR Personality Test Letters?"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>A personality test can tell you a lot about yourself and how you interact with others. This particular personality test will tell you whether you’re an introvert or an extrovert.  It will also give you possible career ideas of you’re looking for a direction to go in life and will match it to your specific personality type.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/personality-test/" rel="nofollow" title="Permanent Link to Take the Introvert/Extrovert Test! What Are YOUR Personality Test Letters?">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46147 post type-post status-publish format-standard has-post-thumbnail hentry category-spiritual-awakening" id="post-main-46147">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/angel-message-for-the-week-88/" rel="bookmark" title="Permanent Link to Angel Message For The Week #88">Angel Message For The Week #88</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			February 4, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/angel-message-for-the-week-88/#respond" rel="bookmark" title="Comments for Angel Message For The Week #88"><span class="dsq-postid" data-dsqidentifier="46147 http://in5d.com/?p=46147">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/angel-message-for-the-week-88/" rel="bookmark" title="Permanent Link to Angel Message For The Week #88"> <img alt="Angel Message For The Week #88" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2018/01/angel-message-300x200.jpg" title="Angel Message For The Week #88"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>What is going on within you is also happening in the collective consciousness at this time.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/angel-message-for-the-week-88/" rel="nofollow" title="Permanent Link to Angel Message For The Week #88">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46137 post type-post status-publish format-standard has-post-thumbnail hentry category-astrology" id="post-main-46137">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/monthly-tarot-for-february-2021-with-alison-janes/" rel="bookmark" title="Permanent Link to Monthly Tarot For February 2021 with Alison Janes">Monthly Tarot For February 2021 with Alison Janes</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			February 2, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/astrology/" rel="category tag">Astrology</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/monthly-tarot-for-february-2021-with-alison-janes/#respond" rel="bookmark" title="Comments for Monthly Tarot For February 2021 with Alison Janes"><span class="dsq-postid" data-dsqidentifier="46137 http://in5d.com/?p=46137">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/monthly-tarot-for-february-2021-with-alison-janes/" rel="bookmark" title="Permanent Link to Monthly Tarot For February 2021 with Alison Janes"> <img alt="Monthly Tarot For February 2021 with Alison Janes" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/02/jtddtjytjdty-300x200.jpg" title="Monthly Tarot For February 2021 with Alison Janes"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Alison Janes gives you step by step predictions linked to Finance and Love for the Beginning, Middle and End of this month.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/monthly-tarot-for-february-2021-with-alison-janes/" rel="nofollow" title="Permanent Link to Monthly Tarot For February 2021 with Alison Janes">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46128 post type-post status-publish format-standard has-post-thumbnail hentry category-astrology tag-2021-by-alison-janes-all-signs tag-weekly-tarot-card-reading-jan-25-31" id="post-main-46128">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/weekly-tarot-card-reading-jan-25-31-2021-by-alison-janes-all-signs/" rel="bookmark" title="Permanent Link to Weekly Tarot Card Reading Jan 25-31, 2021 by Alison Janes All Signs">Weekly Tarot Card Reading Jan 25-31, 2021 by Alison Janes All Signs</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			January 26, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/astrology/" rel="category tag">Astrology</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/weekly-tarot-card-reading-jan-25-31-2021-by-alison-janes-all-signs/#respond" rel="bookmark" title="Comments for Weekly Tarot Card Reading Jan 25-31, 2021 by Alison Janes All Signs"><span class="dsq-postid" data-dsqidentifier="46128 http://in5d.com/?p=46128">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/weekly-tarot-card-reading-jan-25-31-2021-by-alison-janes-all-signs/" rel="bookmark" title="Permanent Link to Weekly Tarot Card Reading Jan 25-31, 2021 by Alison Janes All Signs"> <img alt="Weekly Tarot Card Reading Jan 25-31, 2021 by Alison Janes All Signs" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/01/cndzghfsdg-300x200.jpg" title="Weekly Tarot Card Reading Jan 25-31, 2021 by Alison Janes All Signs"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Alison Janes gives you step by step predictions linked to Finance and Love for the Beginning, Middle and End of this week.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/weekly-tarot-card-reading-jan-25-31-2021-by-alison-janes-all-signs/" rel="nofollow" title="Permanent Link to Weekly Tarot Card Reading Jan 25-31, 2021 by Alison Janes All Signs">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46112 post type-post status-publish format-standard has-post-thumbnail hentry category-spiritual-awakening tag-collective-healing-at-hand" id="post-main-46112">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/collective-healing-at-hand/" rel="bookmark" title="Permanent Link to Collective Healing At Hand">Collective Healing At Hand</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			January 22, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/collective-healing-at-hand/#respond" rel="bookmark" title="Comments for Collective Healing At Hand"><span class="dsq-postid" data-dsqidentifier="46112 http://in5d.com/?p=46112">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/collective-healing-at-hand/" rel="bookmark" title="Permanent Link to Collective Healing At Hand"> <img alt="Collective Healing At Hand" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/01/DHGZJGJG-300x200.jpg" title="Collective Healing At Hand"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>There is a Collective healing at hand. As these “events” unfold, whether they are staged or real, they will elicit an emotional response within you. You always have the choice HOW to react the way YOU desire to. Your emotional response can become your perception.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/collective-healing-at-hand/" rel="nofollow" title="Permanent Link to Collective Healing At Hand">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46108 post type-post status-publish format-standard has-post-thumbnail hentry category-spiritual-awakening tag-this-is-no-time-for-sadness" id="post-main-46108">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/this-is-no-time-for-sadness/" rel="bookmark" title="Permanent Link to This Is No Time For Sadness">This Is No Time For Sadness</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			January 20, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/this-is-no-time-for-sadness/#respond" rel="bookmark" title="Comments for This Is No Time For Sadness"><span class="dsq-postid" data-dsqidentifier="46108 http://in5d.com/?p=46108">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/this-is-no-time-for-sadness/" rel="bookmark" title="Permanent Link to This Is No Time For Sadness"> <img alt="This Is No Time For Sadness" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/01/vbthrtabdf-300x200.jpg" title="This Is No Time For Sadness"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>I have been sad this last week. Profoundly sad. I am sad because I am witnessing humanity teach itself to be afraid of itself. It tears me up emotionally to see what humanity has become. So afraid of itself, that it has convinced the majority that symbolic measures will protect all from whatever evils lurk around the corner.</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/this-is-no-time-for-sadness/" rel="nofollow" title="Permanent Link to This Is No Time For Sadness">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post-46101 post type-post status-publish format-standard has-post-thumbnail hentry category-spiritual-awakening tag-were-on-the-edge-of-something-huge-and-its-not-political" id="post-main-46101">
+<div class="entry clearfix">
+<h2 class="post-title"><a href="http://in5d.com/were-on-the-edge-of-something-huge-and-its-not-political/" rel="bookmark" title="Permanent Link to We’re On The Edge Of Something HUGE And It’s NOT Political!">We’re On The Edge Of Something HUGE And It’s NOT Political!</a></h2>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			January 18, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/were-on-the-edge-of-something-huge-and-its-not-political/#respond" rel="bookmark" title="Comments for We’re On The Edge Of Something HUGE And It’s NOT Political!"><span class="dsq-postid" data-dsqidentifier="46101 http://in5d.com/?p=46101">0 Comments</span></a>
+</span>
+</span>
+</div>
+<a href="http://in5d.com/were-on-the-edge-of-something-huge-and-its-not-political/" rel="bookmark" title="Permanent Link to We’re On The Edge Of Something HUGE And It’s NOT Political!"> <img alt="We’re On The Edge Of Something HUGE And It’s NOT Political!" class="thumbnail large" src="http://in5d.com/wp-content/uploads/2021/01/ghwtrht-300x200.jpg" title="We’re On The Edge Of Something HUGE And It’s NOT Political!"/>
+</a>
+<div class="my-excerpt">
+<div class="my-excerpt"><p>Governments are collapsing all around us. Here in the United States, check points are set up while barbed wire is being placed all around Washington DC.  The freemason motto at the 33rd degree is “Ordo ab Chao”, which means “Order out of Chaos”. That’s exactly what’s happening right now but what’s happening in the galactics, to our spiritual evolution, and in higher dimensional levels?</p>
+</div>
+<p class="readmore"><a class="more-link" href="http://in5d.com/were-on-the-edge-of-something-huge-and-its-not-political/" rel="nofollow" title="Permanent Link to We’re On The Edge Of Something HUGE And It’s NOT Political!">Continue Reading »</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="navigation clearfix">
+<a href="http://in5d.com/page/2/">Next Page »</a> </div>
+</div> <!-- End #content div -->
+<div style="clear:both;margin-bottom:20px;"></div>
+</div> <!-- End #contentleft div -->
+<div id="contentright">
+<div class="clearfix" id="sidebar">
+<div class="widget widget_search" id="search-3"><div class="widget-wrap"><h3 class="widgettitle"><span>Look up ANYTHING on In5D!</span></h3><form action="http://in5d.com/" id="searchform" method="get"><input id="searchfield" maxlength="50" name="s" onblur="if (this.value == '') {this.value = 'Enter Search Terms';}" onfocus="if (this.value == 'Enter Search Terms') {this.value = '';}" size="18" type="text" value="Enter Search Terms"/><input id="submitbutton" type="submit" value="search"/></form>
+</div></div><div class="widget widget_text" id="text-7"><div class="widget-wrap"><h3 class="widgettitle"><span>Any donation is greatly appreciated!</span></h3> <div class="textwidget"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="CAYC4WRLG9H5J"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="//in5d.com/images/btn_donateCC_LG_0c919fe55fde826b06f5d877747c1602.png" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form></div>
+</div></div><div class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><h3 class="widgettitle"><span>See EXCLUSIVE In5D Videos and Articles on Patreon. Thank you for your support!!</span></h3><div class="textwidget custom-html-widget"><a data-patreon-widget-type="become-patron-button" href="https://www.patreon.com/bePatron?u=10633219">Become a Patron!</a><script async="" src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></div></div></div><div class="widget widget_text" id="text-60"><div class="widget-wrap"><h3 class="widgettitle"><span>Cosmic Compatibility</span></h3> <div class="textwidget"><p><a href="https://64e57uemb0ayft23qcodskzian.hop.clickbank.net/?tid=11777" rel="”nofollow” noopener" target="_new"><img alt="cosmic compatibility" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2019/04/cosmic-energy-profile-1.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-40"><div class="widget-wrap"> <div class="textwidget"><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br/>
+<!-- 336ZEN-ATF --><br/>
+<ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-slot="6734815690" style="display: inline-block; width: 336px; height: 280px;"></ins><br/>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+</div></div><div class="widget widget_text" id="text-68"><div class="widget-wrap"><h3 class="widgettitle"><span>15 Minute Manifestation</span></h3> <div class="textwidget"><p><a href="https://280b2yb-6-4mexfr6eien9pk1o.hop.clickbank.net/?tid=0901" rel="”nofollow” noopener" target="_new"><img alt="15 Minute Manifestation" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2019/06/15-minute-manifestation.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-63"><div class="widget-wrap"><h3 class="widgettitle"><span>Starseed Discovery Session</span></h3> <div class="textwidget"><p><a href="https://www.youareadivinehuman.org/starseed-coaching" rel="”nofollow” noopener" target="_new"><img alt="ads" height="250" loading="lazy" src="http://in5d.com/wp-content/uploads/2020/08/matthew-john2.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-46"><div class="widget-wrap"> <div class="textwidget"><p><a href="https://hop.clickbank.net/?affiliate=11112012&amp;vendor=numerology" rel="”nofollow” noopener" target="_new"><img alt="Numerology Reading" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2015/07/numerology-coincidence.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-55"><div class="widget-wrap"><h3 class="widgettitle"><span>Law Of Attraction</span></h3> <div class="textwidget"><p><a href="https://archangelology.com/" rel="”nofollow” noopener" target="_new"><img alt="together publishing" height="300" loading="lazy" src="http://in5d.com/wp-content/uploads/2020/09/kimmyvaca.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-53"><div class="widget-wrap"> <div class="textwidget"><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br/>
+<!-- 336x280 in5d --><br/>
+<ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-slot="5050740313" style="display: inline-block; width: 336px; height: 280px;"></ins><br/>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+</div></div><div class="widget widget_text" id="text-61"><div class="widget-wrap"> <div class="textwidget"><p><a href="https://7244208yhnbx7sdzpfrgjl2i83.hop.clickbank.net/?tid=777" rel="”nofollow” noopener" target="_new"><img alt="cosmic energy" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2019/04/cosmic-energy-profile.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-58"><div class="widget-wrap"><h3 class="widgettitle"><span>Place YOUR Ad HERE!</span></h3> <div class="textwidget"><p><a href="https://in5d.com/advertise-on-in5d/" rel="”nofollow” noopener" target="_new"><img alt="ads" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2019/04/ads-in5d-300X250.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-69"><div class="widget-wrap"><h3 class="widgettitle"><span>QUANTUM ENERGY IN5D TIE DYED SHIRTS!!</span></h3> <div class="textwidget"><p><a href="https://in5d.net/shop/?orderby=date" rel="”nofollow” noopener" target="_new"><img alt="ads" height="300" loading="lazy" src="http://in5d.com/wp-content/uploads/2019/08/in5d-tie-dye-300.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-57"><div class="widget-wrap"><h3 class="widgettitle"><span>Are you a healer or do you have a service or product you’d like to advertise?</span></h3> <div class="textwidget"><p><a href="https://in5d.com/advertise-on-in5d/" rel="”nofollow” noopener" target="_new"><img alt="ads" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2019/04/ads-in5d-300X250.jpg" width="300"/></a> </p>
+</div>
+</div></div><div class="widget widget_text" id="text-65"><div class="widget-wrap"><h3 class="widgettitle"><span>Red Tea Detox</span></h3> <div class="textwidget"><p><a href="https://7422en9y5rerbv2gr426pkcxd8.hop.clickbank.net/?tid=Z777N" rel="”nofollow” noopener" target="_new"><img alt="red tea detox" height="250" loading="lazy" src="https://zentasia.com/wp-content/uploads/2019/06/red-tea-300x250.gif" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-39"><div class="widget-wrap"> <div class="textwidget"><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br/>
+<!-- 336ZEN-ATF --><br/>
+<ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-slot="6734815690" style="display: inline-block; width: 336px; height: 280px;"></ins><br/>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+<p><script src="//ap.lijit.com/www/delivery/fpi.js?z=313189&amp;width=300&amp;height=250"></script> </p>
+</div>
+</div></div><div class="widget widget_text" id="text-47"><div class="widget-wrap"><h3 class="widgettitle"><span>YOUR SUPPORT IS APPRECIATED!</span></h3> <div class="textwidget"><p><a href="https://shop.spreadshirt.com/in5d/all" rel="noopener" target="_new"><img alt="iN5d sTORE" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2018/11/in5d-gear-e1542408160194.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-32"><div class="widget-wrap"><h3 class="widgettitle"><span>LEARN BEYOND QUANTUM HEALING TODAY!</span></h3> <div class="textwidget"><p><a href="https://www.quantumhealers.com/" rel="”nofollow” noopener" target="_new"><img alt="Quantum Healers" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2018/08/quantum-healers.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><h3 class="widgettitle"><span>WELCOME TO IN5D!</span></h3><div class="textwidget custom-html-widget"><iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="183" src="https://www.youtube.com/embed/8g2qq18VJCw?rel=0" width="325"></iframe> </div></div></div><div class="widget widget_text" id="text-28"><div class="widget-wrap"> <div class="textwidget"><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br/>
+<!-- 336ZEN-ATF --><br/>
+<ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-slot="6734815690" style="display: inline-block; width: 336px; height: 280px;"></ins><br/>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+<p><script src="//ap.lijit.com/www/delivery/fpi.js?z=313189&amp;width=300&amp;height=250"></script> </p>
+</div>
+</div></div><div class="widget widget_text" id="text-34"><div class="widget-wrap"><h3 class="widgettitle"><span>How To Change Your DNA RIGHT NOW</span></h3> <div class="textwidget"><p><a href="//in5d.com/how-can-we-change-our-dna-right-now/" rel="”nofollow” noopener" target="_new"><img alt="How Can We Change Our DNA Right Now?" height="330" loading="lazy" src="//in5d.com/wp-content/uploads/2017/11/ERasHEcdcRH4Q4QH.jpg" width="330"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-59"><div class="widget-wrap"> <div class="textwidget"><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-format="autorelaxed" data-ad-slot="4092721001" style="display: block;"></ins> <script>      (adsbygoogle = window.adsbygoogle || []).push({}); </script></p>
+</div>
+</div></div><div class="widget widget_text" id="text-35"><div class="widget-wrap"><h3 class="widgettitle"><span>Physical Pains &amp; Their Metaphysical Meanings</span></h3> <div class="textwidget"><p><a href="//in5d.com/physical-pains-and-their-metaphysical-meanings/" rel="”nofollow” noopener" target="_new"><img alt="Physical Pains And Their Metaphysical Meanings" height="250" loading="lazy" src="//in5d.com/wp-content/uploads/2017/11/aefhrjtjwtj.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-41"><div class="widget-wrap"> <div class="textwidget"><p><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br/>
+<!-- 336ZEN-ATF --><br/>
+<ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-slot="6734815690" style="display: inline-block; width: 336px; height: 280px;"></ins><br/>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+</div>
+</div></div><div class="widget widget_text" id="text-36"><div class="widget-wrap"><h3 class="widgettitle"><span>Not seeing our posts on FB? Follow us HERE!</span></h3> <div class="textwidget"><p><a href="https://t.me/in5d1" rel="noopener" target="_blank">Telegram </a><br/>
+<a href="https://parler.com/profile/in5d/" rel="noopener" target="_blank">Parler</a><br/>
+<a href="https://www.bitchute.com/channel/WSlL1IroVPab/" rel="noopener" target="_blank">Find ALL episodes of “The BIGGER Picture with Gregg Prescott” on Bitchute</a><br/>
+<a href="https://www.youtube.com/user/in5d/" rel="noopener" target="_blank">YouTube</a><br/>
+<a href="https://www.patreon.com/in5d" rel="noopener" target="_blank">In5D Patreon</a><br/>
+<a href="http://in5d.club/" rel="noopener" target="_blank">In5D Club</a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-50"><div class="widget-wrap"><h3 class="widgettitle"><span>How to see your AURA!</span></h3> <div class="textwidget"><p><a href="//in5d.com/how-to-read-auras-what-is-the-meaning-of-each-color/" rel="”nofollow” noopener" target="_new"><img alt="How to Read Auras – What is the Meaning of Each Color?" height="330" loading="lazy" src="//in5d.com/wp-content/uploads/2018/12/human-aura-how-to-see.jpg" width="330"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-25"><div class="widget-wrap"><h3 class="widgettitle"><span>Send your article to In5D for publication!</span></h3> <div class="textwidget"><p><a href="https://in5d.com/attention-writers-and-authors/" rel="noopener" target="_new"><img alt=" Attention Writers and Authors!" height="250" src="https://in5d.com/wp-content/uploads/2016/08/submit-article-in5d-1111.jpg" width="300"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-3"><div class="widget-wrap"> <div class="textwidget"><p><script id="_waufdr">var _wau = _wau || []; _wau.push(["classic", "egtq69mrk0ps", "fdr"]);
+(function() {var s=document.createElement("script"); s.async=true;
+s.src="//widgets.amung.us/classic.js";
+document.getElementsByTagName("head")[0].appendChild(s);
+})();</script></p>
+</div>
+</div></div> </div>
+</div>
+</div> <!-- End .page-border div -->
+</div> <!-- End #page div -->
+</div> <!-- End #wrap div -->
+<div class="maincontent" id="footer-widgets">
+<div class="limit clearfix">
+<div class="footer-widget1">
+<div class="widget catposts" id="catposts-widget-2"><div class="widget-wrap"><h3 class="widgettitle"><span>MUST READ ENLIGHTENING ARTICLES!</span></h3><div class="cat-posts-widget textwidget">
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/declassified-consciousness-matrix-telepathy/" rel="bookmark" title="Permanent Link to DECLASSIFIED: CIA Explains Consciousness, The Matrix, Meditation, Holograms, Telepathy"> <img alt="DECLASSIFIED: CIA Explains Consciousness, The Matrix, Meditation, Holograms, Telepathy" class="thumbnail" src="http://in5d.com/wp-content/uploads/2020/03/ery5w65-200x200.jpg" title="DECLASSIFIED: CIA Explains Consciousness, The Matrix, Meditation, Holograms, Telepathy"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/declassified-consciousness-matrix-telepathy/" rel="bookmark" title="Permanent Link to DECLASSIFIED: CIA Explains Consciousness, The Matrix, Meditation, Holograms, Telepathy">DECLASSIFIED: CIA Explains Consciousness, The Matrix, Meditation, Holograms, Telepathy</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 28, 2020		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/awareness/" rel="category tag">Awareness</a>, <a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/science/" rel="category tag">Science</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/declassified-consciousness-matrix-telepathy/#respond" rel="bookmark" title="Comments for DECLASSIFIED: CIA Explains Consciousness, The Matrix, Meditation, Holograms, Telepathy"><span class="dsq-postid" data-dsqidentifier="44356 http://in5d.com/?p=44356">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>The CIA declassified a number of documents that relate to spirituality and consciousness, amongst a number of other fascinating topics!</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/paul-dobree-carey-beyond-light-language-in5d-podcast/" rel="bookmark" title="Permanent Link to Paul Dobree-Carey: Beyond Light Language – In5D Podcast"> <img alt="Paul Dobree-Carey: Beyond Light Language – In5D Podcast" class="thumbnail" src="http://in5d.com/wp-content/uploads/2020/01/eargeh-200x200.jpg" title="Paul Dobree-Carey: Beyond Light Language – In5D Podcast"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/paul-dobree-carey-beyond-light-language-in5d-podcast/" rel="bookmark" title="Permanent Link to Paul Dobree-Carey: Beyond Light Language – In5D Podcast">Paul Dobree-Carey: Beyond Light Language – In5D Podcast</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			January 23, 2020		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/in5d-behind-the-scenes/" rel="category tag">In5D Behind The Scenes</a>, <a href="http://in5d.com/category/in5d-facebook-live/" rel="category tag">In5D Live</a>, <a href="http://in5d.com/category/in5d-radio/" rel="category tag">In5D Radio</a>, <a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/paul-dobree-carey-beyond-light-language-in5d-podcast/#respond" rel="bookmark" title="Comments for Paul Dobree-Carey: Beyond Light Language – In5D Podcast"><span class="dsq-postid" data-dsqidentifier="43645 http://in5d.com/?p=43645">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>Have you ever heard light language? Did you know that there are many different light languages just as there are many languages here on our planet?</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/can-you-believe-this-happened-to-me/" rel="bookmark" title="Permanent Link to Can You Believe THIS Happened To Me?"> <img alt="Can You Believe THIS Happened To Me?" class="thumbnail" src="http://in5d.com/wp-content/uploads/2020/01/thehehwu56u-200x200.jpg" title="Can You Believe THIS Happened To Me?"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/can-you-believe-this-happened-to-me/" rel="bookmark" title="Permanent Link to Can You Believe THIS Happened To Me?">Can You Believe THIS Happened To Me?</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			January 20, 2020		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/in5d-facebook-live/" rel="category tag">In5D Live</a>, <a href="http://in5d.com/category/in5d-radio/" rel="category tag">In5D Radio</a>, <a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/can-you-believe-this-happened-to-me/#respond" rel="bookmark" title="Comments for Can You Believe THIS Happened To Me?"><span class="dsq-postid" data-dsqidentifier="43616 http://in5d.com/?p=43616">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>Once we have awakened, many amazing experiences come to us that may seem “other-worldly” to the unawakened. Perhaps you have been visited by extraterrestrials or even abducted by them?  Maybe you’re psychic and see things before they happen or perhaps you’ve had out of body experiences?  Maybe you received visions after a Near Death Experience (NDE)? </p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/spiritual-awakening/" rel="bookmark" title="Permanent Link to What Led To YOUR Spiritual Awakening?"> <img alt="What Led To YOUR Spiritual Awakening?" class="thumbnail" src="http://in5d.com/wp-content/uploads/2020/01/hrtsjydrthrytyt-200x200.jpg" title="What Led To YOUR Spiritual Awakening?"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/spiritual-awakening/" rel="bookmark" title="Permanent Link to What Led To YOUR Spiritual Awakening?">What Led To YOUR Spiritual Awakening?</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			January 16, 2020		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/in5d-facebook-live/" rel="category tag">In5D Live</a>, <a href="http://in5d.com/category/in5d-radio/" rel="category tag">In5D Radio</a>, <a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/spiritual-awakening/#respond" rel="bookmark" title="Comments for What Led To YOUR Spiritual Awakening?"><span class="dsq-postid" data-dsqidentifier="43581 http://in5d.com/?p=43581">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>At some point, we all had a pivotal time in our lives where we spiritually awakened. Some people awakened through personal experiences, some through truth seeking, some had spontaneous awakening, etc…  What led to YOUR spiritual awakening? What would you recommend to other people who are just awakening?  What important lessons have you learned?</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/20-20-in5d-new-years-eve-extravganza/" rel="bookmark" title="Permanent Link to 20/20 In5D New Year’s Eve Extravaganza"> <img alt="20/20 In5D New Year’s Eve Extravaganza" class="thumbnail" src="http://in5d.com/wp-content/uploads/2020/01/tyjufjtrhg-200x200.jpg" title="20/20 In5D New Year’s Eve Extravaganza"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/20-20-in5d-new-years-eve-extravganza/" rel="bookmark" title="Permanent Link to 20/20 In5D New Year’s Eve Extravaganza">20/20 In5D New Year’s Eve Extravaganza</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			January 1, 2020		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/et/" rel="category tag">Extraterrestrials</a>, <a href="http://in5d.com/category/in5d-facebook-live/" rel="category tag">In5D Live</a>, <a href="http://in5d.com/category/in5d-radio/" rel="category tag">In5D Radio</a>, <a href="http://in5d.com/category/prophecy/" rel="category tag">Prophecy</a>, <a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/20-20-in5d-new-years-eve-extravganza/#respond" rel="bookmark" title="Comments for 20/20 In5D New Year’s Eve Extravaganza"><span class="dsq-postid" data-dsqidentifier="43286 http://in5d.com/?p=43286">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>In5D’s Gregg Prescott hosts a live In5D New Year’s Eve Podcast on Zoom and chats with numerous guests about the upcoming year and beyond, including a number of predictions made by Gregg. Kerri Ann Sanders joins Gregg to help kick in the New Year!</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/spirituality-quotes-from-psychologist-carl-jung/" rel="bookmark" title="Permanent Link to Spirituality Quotes From Psychologist Carl Jung"> <img alt="Spirituality Quotes From Psychologist Carl Jung" class="thumbnail" src="http://in5d.com/wp-content/uploads/2015/02/hgjhvgxfdthr-200x200.jpg" title="Spirituality Quotes From Psychologist Carl Jung"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/spirituality-quotes-from-psychologist-carl-jung/" rel="bookmark" title="Permanent Link to Spirituality Quotes From Psychologist Carl Jung">Spirituality Quotes From Psychologist Carl Jung</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			October 3, 2019		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/spirituality-quotes-from-psychologist-carl-jung/#respond" rel="bookmark" title="Comments for Spirituality Quotes From Psychologist Carl Jung"><span class="dsq-postid" data-dsqidentifier="2571 http://in5d.com/?p=2571">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>Many people are aware of Carl Jung’s contributions to the world of psychology but did you know about his contributions to the world of spirituality?</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/change-your-reality-with-a-walk-of-gratitude/" rel="bookmark" title="Permanent Link to Change Your Reality With A Walk Of Gratitude"> <img alt="Change Your Reality With A Walk Of Gratitude" class="thumbnail" src="http://in5d.com/wp-content/uploads/2016/05/hafhfhaha1111-150x150.jpg" title="Change Your Reality With A Walk Of Gratitude"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/change-your-reality-with-a-walk-of-gratitude/" rel="bookmark" title="Permanent Link to Change Your Reality With A Walk Of Gratitude">Change Your Reality With A Walk Of Gratitude</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			July 7, 2019		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/change-your-reality-with-a-walk-of-gratitude/#respond" rel="bookmark" title="Comments for Change Your Reality With A Walk Of Gratitude"><span class="dsq-postid" data-dsqidentifier="12083 http://in5d.com/?p=12083">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>The Law of Attraction will bring you whatever is predominantly on your mind. What if you were able to change future events right now by simply thinking positive thoughts and affirmations? Even the simplest things make a difference, such as letting a car into heavy traffic or opening the door for someone.</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/11-things-the-bible-bans-but-you-do-anyways/" rel="bookmark" title="Permanent Link to 11 Things The Bible Bans, But You Do Anyways!"> <img alt="11 Things The Bible Bans, But You Do Anyways!" class="thumbnail" src="http://in5d.com/wp-content/uploads/2015/01/bible-bans-150x150.jpg" title="11 Things The Bible Bans, But You Do Anyways!"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/11-things-the-bible-bans-but-you-do-anyways/" rel="bookmark" title="Permanent Link to 11 Things The Bible Bans, But You Do Anyways!">11 Things The Bible Bans, But You Do Anyways!</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			June 8, 2019		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/awareness/" rel="category tag">Awareness</a>, <a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/11-things-the-bible-bans-but-you-do-anyways/#respond" rel="bookmark" title="Comments for 11 Things The Bible Bans, But You Do Anyways!"><span class="dsq-postid" data-dsqidentifier="1981 http://in5d.com/?p=1981">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>For those who are Christian, are you truly following the word of the Lord? The bible bans the following things many of us experience in every day life, but we do anyways!</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/how-to-clear-negative-energies-entities/" rel="bookmark" title="Permanent Link to MEGA INFO POST – How To Clear Negative Energies &amp; Entities"> <img alt="MEGA INFO POST – How To Clear Negative Energies &amp; Entities" class="thumbnail" src="http://in5d.com/wp-content/uploads/2019/05/demons-entities-200x200.jpg" title="MEGA INFO POST – How To Clear Negative Energies &amp; Entities"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/how-to-clear-negative-energies-entities/" rel="bookmark" title="Permanent Link to MEGA INFO POST – How To Clear Negative Energies &amp; Entities">MEGA INFO POST – How To Clear Negative Energies &amp; Entities</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			May 11, 2019		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/awareness/" rel="category tag">Awareness</a>, <a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/et/" rel="category tag">Extraterrestrials</a>, <a href="http://in5d.com/category/spiritual-awakening/" rel="category tag">Spiritual Awakening</a> </span>
+</span>
+</div>
+<p>We’ve all been around negative energy but fortunately, there are ways to cleanse this from you and your home. Many of us (if not ALL) have been spiritually or psychically attacked by negative entities as well. If you or someone you know wants to remove negative energy or has negative entity attachments (we’ve all had them at some point in our lives), then the following might be useful.</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="post">
+<div class="entry clearfix">
+<a href="http://in5d.com/beyond-imagination-the-cosmic-wildcard/" rel="bookmark" title="Permanent Link to UPDATED! Beyond Imagination! The Cosmic Wildcard"> <img alt="UPDATED! Beyond Imagination! The Cosmic Wildcard" class="thumbnail" src="http://in5d.com/wp-content/uploads/2014/10/cosmic-wildcard-1111-150x150.jpg" title="UPDATED! Beyond Imagination! The Cosmic Wildcard"/>
+</a>
+<h3 class="post-title"><a href="http://in5d.com/beyond-imagination-the-cosmic-wildcard/" rel="bookmark" title="Permanent Link to UPDATED! Beyond Imagination! The Cosmic Wildcard">UPDATED! Beyond Imagination! The Cosmic Wildcard</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+			By		</span>
+<span class="meta-inner">
+<a href="http://in5d.com/author/in5d/" rel="author" title="Posts by In5D">In5D</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			May 5, 2019		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/category/enlightening-articles/" rel="category tag">Enlightening Articles</a>, <a href="http://in5d.com/category/matrix/" rel="category tag">Exiting The Matrix</a>, <a href="http://in5d.com/category/science/" rel="category tag">Science</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="http://in5d.com/beyond-imagination-the-cosmic-wildcard/#respond" rel="bookmark" title="Comments for UPDATED! Beyond Imagination! The Cosmic Wildcard"><span class="dsq-postid" data-dsqidentifier="423 http://in5d.com/?p=423">0 Comments</span></a>
+</span>
+</span>
+</div>
+<p>Do you feel like something really big is on the horizon but you cannot put your finger on what it is? What if there was a ‘Cosmic Wildcard’ that no one can truly imagine? There are many possibilities that could qualify as the Cosmic Wildcard, so we will try to cover a few of them.</p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+</div></div> </div>
+<div class="footer-widget2">
+<div class="widget_text widget widget_custom_html" id="custom_html-4"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Zen RESP2 10-27-2018 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-format="auto" data-ad-slot="4598401669" data-full-width-responsive="true" style="display:block"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div> </div>
+<div class="footer-widget3">
+</div>
+<div class="footer-widget4">
+</div>
+</div>
+</div> <!-- End #footer-widgets div -->
+<div id="footer">
+<div class="limit clearfix">
+<p class="footurl"><a href="http://in5d.com">In5D</a></p>
+<div id="footnav">
+<ul class="clearfix">
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-33806" id="menu-item-33806"><a aria-current="page" href="https://in5d.com/">HOME</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33810" id="menu-item-33810"><a href="http://in5d.com/category/enlightening-articles/">Enlightening Articles</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33821" id="menu-item-33821"><a href="http://in5d.com/category/spiritual-awakening/">Spiritual Awakening</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33818" id="menu-item-33818"><a href="http://in5d.com/category/new-earth-news/">New Earth News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33817" id="menu-item-33817"><a href="http://in5d.com/category/meditation/">Meditation</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33808" id="menu-item-33808"><a href="http://in5d.com/category/awareness/">Awareness</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33816" id="menu-item-33816"><a href="http://in5d.com/category/indigos/">Indigos</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33819" id="menu-item-33819"><a href="http://in5d.com/category/prophecy/">Prophecy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33809" id="menu-item-33809"><a href="http://in5d.com/category/energy-updates/">Energy Updates</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33812" id="menu-item-33812"><a href="http://in5d.com/category/et/">Extraterrestrials</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33807" id="menu-item-33807"><a href="http://in5d.com/category/astrology/">Astrology</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33820" id="menu-item-33820"><a href="http://in5d.com/category/science/">Science</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33813" id="menu-item-33813"><a href="http://in5d.com/category/health/">Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33811" id="menu-item-33811"><a href="http://in5d.com/category/matrix/">Exiting The Matrix</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33814" id="menu-item-33814"><a href="http://in5d.com/category/in5d-facebook-live/">In5D Live</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-33815" id="menu-item-33815"><a href="http://in5d.com/category/in5d-radio/">In5D Radio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33822" id="menu-item-33822"><a href="http://in5d.com/in5d-privacy-policy/">In5D Privacy Policy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33823" id="menu-item-33823"><a href="https://in5d.com/about/">About Us</a></li>
+</ul>
+</div>
+						©  2021 In5D. All rights reserved. <a href="http://www.solostream.com" rel="nofollow">Theme by Solostream.</a>
+</div>
+</div> <!-- End #footer div -->
+<div id="backtotop">Top</div>
+</div> <!-- End #outerwrap div -->
+<!-- WP Audio player plugin v1.9.6 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+<script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'http://in5d.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+    stop_all_tracks();                soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
+    </script>
+<!-- MobileMenu JS -->
+<script type="text/javascript">
+		jQuery(function () {
+			jQuery('.nav').mobileMenu({ defaultText: 'Navigate to ...' });
+			jQuery('.catnav').mobileMenu({ defaultText: 'Navigate to ...', className: 'select-menu-catnav' });
+		});
+	</script>
+<!-- Media Queries Script for IE8 and Older -->
+<!--[if lt IE 9]>
+		<script type="text/javascript" src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+<script id="disqus_count-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"in5d"};
+/* ]]> */
+</script>
+<script id="disqus_count-js" src="http://in5d.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.21" type="text/javascript"></script>
+<script id="froogaloop-js" src="http://in5d.com/wp-content/themes/wp-brilliance103/js/froogaloop.js?ver=5.7" type="text/javascript"></script>
+<script id="flexslider-min-js" src="http://in5d.com/wp-content/themes/wp-brilliance103/js/flexslider-min.js?ver=5.7" type="text/javascript"></script>
+<script id="flex-script-main-js" src="http://in5d.com/wp-content/themes/wp-brilliance103/js/flex-script-main.js?ver=5.7" type="text/javascript"></script>
+<script id="external-js" src="http://in5d.com/wp-content/themes/wp-brilliance103/js/external.js?ver=5.7" type="text/javascript"></script>
+<script id="suckerfish-cat-js" src="http://in5d.com/wp-content/themes/wp-brilliance103/js/suckerfish-cat.js?ver=5.7" type="text/javascript"></script>
+<script id="mobilmenu-js" src="http://in5d.com/wp-content/themes/wp-brilliance103/js/jquery.mobilemenu.js?ver=5.7" type="text/javascript"></script>
+<script id="wp-embed-js" src="http://in5d.com/wp-includes/js/wp-embed.min.js?ver=5.7" type="text/javascript"></script>
+<script async="" style="display:none;" type="text/javascript">
+__ez.queue.addFile('edmonton.php', '//g.ezoic.net/detroitchicago/edmonton.webp?a=a&cb=4&shcb=34', true, ['/detroitchicago/minneapolis.js'], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '//g.ezoic.net/porpoiseant/jellyfish.webp?a=a&cb=4&shcb=34', false, [], true, false, false, false);
+</script>
+<script>var _audins_dom="in5d_com",_audins_did=53541;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=192-4");</script><noscript><div style="display:none;"><img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.in5d_com,DomainId.53541" width="1"/></div></noscript>
+<script data-cfasync="false" type="text/javascript"></script></body>
+</html>

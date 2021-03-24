@@ -1,0 +1,545 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+<title>Lush For Life</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<link href="http://www.lushforlife.com/wp-content/themes/editorial/style.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=OFL+Sorts+Mill+Goudy+TT:regular,italic" rel="stylesheet" type="text/css"/>
+<link href="http://www.lushforlife.com/feed/" rel="alternate" title="RSS 2.0" type="application/rss+xml"/>
+<link href="http://www.lushforlife.com/xmlrpc.php" rel="pingback"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script data-cfasync="false" type="text/javascript">
+	var mi_version         = '7.10.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-28307176-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-28307176-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.lushforlife.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="http://www.lushforlife.com/?woo-slides-css=load&amp;ver=5.2.9" id="woo-slides-dynamic-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.lushforlife.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.9" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"http:\/\/www.lushforlife.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script src="http://www.lushforlife.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.0" type="text/javascript"></script>
+<script src="http://www.lushforlife.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script src="http://www.lushforlife.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="http://www.lushforlife.com/wp-content/themes/editorial/includes/js/superfish.js?ver=5.2.9" type="text/javascript"></script>
+<script src="http://www.lushforlife.com/wp-content/themes/editorial/includes/js/slides.min.jquery.js?ver=5.2.9" type="text/javascript"></script>
+<link href="http://www.lushforlife.com/wp-json/" rel="https://api.w.org/"/>
+<link href="http://www.lushforlife.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.lushforlife.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.2.9" name="generator"/>
+<meta content="12200410523" property="fb:app_id"/>
+<!-- Theme version -->
+<meta content="Editorial 1.4.9" name="generator"/>
+<meta content="WooFramework 6.0.4" name="generator"/>
+<!-- Woo Custom Styling -->
+<style type="text/css">
+a {color:#6763B7}
+a:hover, .post-more a:hover, .post-meta a:hover, .post p.tags a:hover {color:#320065}
+a.button, a.comment-reply-link, #commentform #submit, #contact-page .submit {background:#D3C7DE;border-color:#D3C7DE}
+a.button:hover, a.button.hover, a.button.active, a.comment-reply-link:hover, #commentform #submit:hover, #contact-page .submit:hover {background:#D3C7DE;opacity:0.9;}
+</style>
+<!-- Alt Stylesheet -->
+<link href="http://www.lushforlife.com/wp-content/themes/editorial/styles/purple.css" rel="stylesheet" type="text/css"/>
+<!-- Custom Favicon -->
+<link href="/wp-content/uploads/2011/08/favicon.bmp" rel="shortcut icon"/>
+<!-- Woo Shortcodes CSS -->
+<link href="http://www.lushforlife.com/wp-content/themes/editorial/functions/css/shortcodes.css" rel="stylesheet" type="text/css"/>
+<!-- Custom Stylesheet -->
+<link href="http://www.lushforlife.com/wp-content/themes/editorial/custom.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+			jQuery(window).load(function(){
+				
+				var slidesArgs = {
+					currentClass: 'activeslide', 
+					generatePagination: true, 
+					paginationClass: 'pagination', 
+					next: 'next', 
+					prev: 'prev', 
+					effect: 'slide', 
+					slideSpeed: 600, 
+					play: 6000, 
+					autoHeight: true, 
+					autoHeightSpeed: 600, 
+					hoverPause: true, 
+					animationComplete: function () {
+						currSlideNumber = jQuery( '#slides .pagination li.activeslide' ).text();
+						currSlideNumber = currSlideNumber.replace( 'slide-', '' );
+						currSlideNumber = parseInt( currSlideNumber );
+						
+						// Get the next/prev slide titles.
+						getSlideTitle( currSlideNumber );
+					}, 
+					slidesLoaded: function () {
+						getSlideTitle( 1 ); // Get the second and last slide titles.
+						jQuery( '#slides .hidden' ).fadeIn();
+						
+						var autoHeight = true;
+						var fixedHeight = 300;
+						
+						if ( ( autoHeight == false ) && ( fixedHeight > 0 ) ) {
+							jQuery( '#slides .slides_container' ).animate({ height: fixedHeight }, 500);
+						}
+					}
+				};
+				
+				// Initialise the slider.
+				jQuery( '#slides' ).slides( slidesArgs );
+			});
+		</script>
+</head>
+<body class="home blog unknown alt-style-purple layout-left-content">
+<div id="wrapper">
+<div class="col-full left" id="header">
+<div class="rss">
+<a class="button" href="http://www.lushforlife.com/feed/"><span>Subscribe to RSS</span></a>
+</div><!-- /.rss -->
+<div id="logo">
+<a href="http://www.lushforlife.com/" title="Stupid News for Smart People">
+<img alt="Lush For Life" src="/wp-content/uploads/2011/08/logo-300x70.png"/>
+</a>
+<h1 class="site-title"><a href="http://www.lushforlife.com/">Lush For Life</a></h1>
+<span class="site-description">Stupid News for Smart People</span>
+</div><!-- /#logo -->
+<div class="header-search">
+<form action="http://www.lushforlife.com/" class="searchform" method="get">
+<input class="field s" name="s" onblur="if (this.value == '') {this.value = 'Search Keywords...';}" onfocus="if (this.value == 'Search Keywords...') {this.value = '';}" type="text" value="Search Keywords..."/>
+<input class="search-submit" name="submit" src="http://www.lushforlife.com/wp-content/themes/editorial/images/ico-search.png" type="image" value="Go"/>
+</form>
+<div class="fix"></div>
+</div><!-- /.header-search -->
+</div><!-- /#header -->
+<div class="col-full left" id="navigation">
+<ul class="nav fl" id="main-nav"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1553" id="menu-item-1553"><a href="http://www.lushforlife.com/category/news/">News</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1558" id="menu-item-1558"><a href="http://www.lushforlife.com/category/news/politics/">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1556" id="menu-item-1556"><a href="http://www.lushforlife.com/category/news/l4l-investigates/">L4L Investigates</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1551" id="menu-item-1551"><a href="http://www.lushforlife.com/category/culture/religion/">Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1548" id="menu-item-1548"><a href="http://www.lushforlife.com/category/culture/">Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1559" id="menu-item-1559"><a href="http://www.lushforlife.com/category/news/uk/">UK</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1552" id="menu-item-1552"><a href="http://www.lushforlife.com/category/entertainment/">Entertainment</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1555" id="menu-item-1555"><a href="http://www.lushforlife.com/category/news/interviews/">Interviews</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1560" id="menu-item-1560"><a href="http://www.lushforlife.com/category/opinion/">Opinion</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1549" id="menu-item-1549"><a href="http://www.lushforlife.com/category/culture/advice/">Advice</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1550" id="menu-item-1550"><a href="http://www.lushforlife.com/category/culture/horoscopes/">Horoscopes</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1561" id="menu-item-1561"><a href="http://www.lushforlife.com/category/science-technology/">Science &amp; Tech</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1563" id="menu-item-1563"><a href="http://www.lushforlife.com/category/science-technology/internet/">Internet</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1562" id="menu-item-1562"><a href="http://www.lushforlife.com/category/science-technology/health/">Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1564" id="menu-item-1564"><a href="http://www.lushforlife.com/category/science-technology/space/">Space</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1565" id="menu-item-1565"><a href="http://www.lushforlife.com/category/sports/">Sports</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566" id="menu-item-1566"><a href="http://www.lushforlife.com/category/sports/basketball/">Basketball</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1567" id="menu-item-1567"><a href="http://www.lushforlife.com/category/sports/football/">Football</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1568" id="menu-item-1568"><a href="http://www.lushforlife.com/category/sports/hockey/">Hockey</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1569" id="menu-item-1569"><a href="http://www.lushforlife.com/category/sports/soccer/">Soccer</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1575" id="menu-item-1575"><a href="#">L4L</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1557" id="menu-item-1557"><a href="http://www.lushforlife.com/category/news/l4l-news/">L4L News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1574" id="menu-item-1574"><a href="http://www.lushforlife.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1573" id="menu-item-1573"><a href="http://www.lushforlife.com/submit-a-story/">Submit a Story</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1572" id="menu-item-1572"><a href="http://www.lushforlife.com/podcasts/">Podcasts</a></li>
+</ul>
+</li>
+</ul>
+</div><!-- /#navigation -->
+<!-- SLIDER POSTS -->
+<div id="slides">
+<div class="slides_container">
+<div class="slide slide-id-886" id="slide-1">
+<img alt="" class="woo-image slide-image" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=wp-content/uploads/2012/01/mens-health-magazine1.jpg&amp;w=940&amp;h=0&amp;zc=1&amp;q=90&amp;a=t" width="940"/>
+<div class="slide-content post">
+<div class="inner-wrap">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/culture/">Culture</a>, <a href="http://www.lushforlife.com/category/news/feature/">Feature</a></span>
+<span class="date">January 12, 2012</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2012/01/mens-health-ranked-worst-magazine-in-the-us/" rel="bookmark" title="“Men’s Health” Ranked Worst Magazine In The US">“Men’s Health” Ranked Worst Magazine In The US</a></h2>
+<div class="entry">
+<p>Tampa – With recent criticism for its nonsensical “Frown Town” article about the saddest cities in America, which placed St. Petersburg Florida as the most depressing place to live and Tampa coming in close at third, Men’s Health magazine has been ranked as the Worst Magazine in the US. The saddest city article was based […]</p>
+</div>
+</div>
+</div><!-- /.slide-content -->
+<div class="fix"></div>
+</div><!--/.slide-->
+<div class="slide slide-id-585" id="slide-2">
+<img alt="crackberry" class="woo-image slide-image" src="http://www.lushforlife.com/wp-content/uploads/2009/06/crackberry.jpg" title="RIM To Release Crackberry Standard And Pro" width="940"/>
+<div class="slide-content post">
+<div class="inner-wrap">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/news/feature/">Feature</a>, <a href="http://www.lushforlife.com/category/science-technology/">Science &amp; Technology</a></span>
+<span class="date">June 6, 2009</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2009/06/rim-to-release-crackberry-standard-and-pro/" rel="bookmark" title="RIM To Release Crackberry Standard And Pro">RIM To Release Crackberry Standard And Pro</a></h2>
+<div class="entry">
+<p>This week has seen some of the most exciting developments in recent memory for many mobile phone journalists and enthusiasts. With announcements for three new phones from Sony, a new HTC Android device, four fantastic looking entries from Nokia and enough iPhone 3 rumors to fill a million bogs, picking the most interesting offering to […]</p>
+</div>
+</div>
+</div><!-- /.slide-content -->
+<div class="fix"></div>
+</div><!--/.slide-->
+<div class="slide slide-id-304" id="slide-3">
+<img alt="" class="woo-image slide-image" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=wp-content/uploads/2007/10/AhmadinejadandOJ.jpg&amp;w=940&amp;h=0&amp;zc=1&amp;q=90&amp;a=c" width="940"/>
+<div class="slide-content post">
+<div class="inner-wrap">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/news/feature/">Feature</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/oj-simpson-and-mahmoud-ahmadinejad/" rel="bookmark" title="O.J. Simpson And Ahmadinejad In Anti-Jewish Conspiracy">O.J. Simpson And Ahmadinejad In Anti-Jewish Conspiracy</a></h2>
+<div class="entry">
+<p>WASHINGTON – To the casual news watcher this week, two stories stick out like George W. pronouncing “incandescent” correctly: Iranian President and international man of insanity Mahmoud Ahmadinejad’s visit to New York, and former Heisman trophy winner and slasher-killer O.J. Simpson’s run in with the law. Though the two stories seem, on the surface, unrelated, […]</p>
+</div>
+</div>
+</div><!-- /.slide-content -->
+<div class="fix"></div>
+</div><!--/.slide-->
+</div><!-- /.container -->
+<a class="prev hidden" href="#">Previous</a><a class="next hidden" href="#">Next</a>
+<span class="prev-text hidden"></span><span class="next-text hidden"></span>
+</div><!-- /#slides -->
+<div class="col-full" id="content">
+<div class="col-left" id="main">
+<h2 class="section-title">Recent News <a class="subscribe" href="http://www.lushforlife.com/feed/" title="Subscribe to RSS">Subscribe</a></h2>
+<div id="recent-news-filter">
+<span>Categories:</span>
+<ul>
+<li class="category" id="latest"><a class="active" href="http://www.lushforlife.com/" title="Latest">Latest</a></li>
+<li class="category category-uncategorized" id="category-1"><a href="http://www.lushforlife.com/category/uncategorized/" title="Uncategorized">Uncategorized</a></li>
+</ul>
+</div><!-- /#recent-news-filter -->
+<div class="archive-layout" id="recent-news">
+<div class="post-312 post type-post status-publish format-standard hentry category-news tag-tv tag-usf">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/news/">News</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/tase-me-bro-says-sadomasochistic-usf-student/" rel="bookmark" title="“Tase Me, Bro!” Says Sadomasochistic USF Student">“Tase Me, Bro!” Says Sadomasochistic USF Student</a></h2>
+<a href="http://www.lushforlife.com/2007/10/tase-me-bro-says-sadomasochistic-usf-student/" title="“Tase Me, Bro!” Says Sadomasochistic USF Student"><img alt="" class="woo-image thumbnail aligncenter" height="250" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/Taser-Student-Cop.jpg&amp;w=300&amp;h=250&amp;zc=1&amp;q=90" width="300"/></a>
+<div class="entry">
+<p>TAMPA, FL − University of South Florida student Jay Myers, 22, was arrested and Tasered on Monday night by University Police during a question and answer session with Jack Hanna at the Sun Dome. Myers, a senior majoring in anthropology, insinuated that the host of the popular TV show Jack Hanna’s Animal Adventures continued his […]</p>
+</div>
+<div class="post-more">
+<span class="read-more"><a href="http://www.lushforlife.com/2007/10/tase-me-bro-says-sadomasochistic-usf-student/" title="Read More">Read More</a></span>
+<span class="comments"><a href="http://www.lushforlife.com/2007/10/tase-me-bro-says-sadomasochistic-usf-student/#respond">0 Comments</a></span>
+<div class="fix"></div>
+</div>
+</div><!-- /.post -->
+<div class="last post-311 post type-post status-publish format-standard hentry category-sports tag-usa tag-usf">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/sports/">Sports</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/danny%e2%80%99s-sports-box-3/" rel="bookmark" title="Danny’s Sports Box">Danny’s Sports Box</a></h2>
+<a href="http://www.lushforlife.com/2007/10/danny%e2%80%99s-sports-box-3/" title="Danny’s Sports Box"><img alt="" class="woo-image thumbnail aligncenter" height="250" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/Sports-Editorial-Banner.jpg&amp;w=300&amp;h=250&amp;zc=1&amp;q=90" width="300"/></a>
+<div class="entry">
+<p>No Bull… To the delight of thousands of USF fans, the South Florida Bulls football team, which has entered only its 11th season, has found itself ranked #18 in both the Associated Press Top 25 poll and the USA Today Coach’s Poll, the highest ranking the school has enjoyed in its young history… and just […]</p>
+</div>
+<div class="post-more">
+<span class="read-more"><a href="http://www.lushforlife.com/2007/10/danny%e2%80%99s-sports-box-3/" title="Read More">Read More</a></span>
+<span class="comments"><a href="http://www.lushforlife.com/2007/10/danny%e2%80%99s-sports-box-3/#respond">0 Comments</a></span>
+<div class="fix"></div>
+</div>
+</div><!-- /.post -->
+<div class="fix"></div>
+<div class="post-310 post type-post status-publish format-standard hentry category-sports tag-england tag-ma tag-nfl tag-white-house">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/sports/">Sports</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/patriots-receive-white-house-support/" rel="bookmark" title="Patriots Receive White House Support">Patriots Receive White House Support</a></h2>
+<a href="http://www.lushforlife.com/2007/10/patriots-receive-white-house-support/" title="Patriots Receive White House Support"><img alt="" class="woo-image thumbnail aligncenter" height="250" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/Belichick-Spygate.jpg&amp;w=300&amp;h=250&amp;zc=1&amp;q=90" width="300"/></a>
+<div class="entry">
+<p>FOXBORO, MA – The New England Patriots, after recent sanctions levied against them for spying on the New York Jets play callers during the first week of the NFL season by NFL Commissioner Roger Goodell, have received attention from not only the panorama of the NFL, but also the George W. Bush White House. After […]</p>
+</div>
+<div class="post-more">
+<span class="read-more"><a href="http://www.lushforlife.com/2007/10/patriots-receive-white-house-support/" title="Read More">Read More</a></span>
+<span class="comments"><a href="http://www.lushforlife.com/2007/10/patriots-receive-white-house-support/#respond">0 Comments</a></span>
+<div class="fix"></div>
+</div>
+</div><!-- /.post -->
+<div class="last post-309 post type-post status-publish format-standard hentry category-news tag-chester-ringfield tag-us">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/news/">News</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/nancy-drew-terrorist-spy/" rel="bookmark" title="Nancy Drew: Terrorist Spy">Nancy Drew: Terrorist Spy</a></h2>
+<a href="http://www.lushforlife.com/2007/10/nancy-drew-terrorist-spy/" title="Nancy Drew: Terrorist Spy"><img alt="" class="woo-image thumbnail aligncenter" height="250" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/NANCY-DREW.jpg&amp;w=300&amp;h=250&amp;zc=1&amp;q=90" width="300"/></a>
+<div class="entry">
+<p>WASHINGTON – US Press Secretary Dana Perino arrived at the podium, the air heavy with tension, when she broke the news that heralded super-sleuth Nancy Drew had been captured and now detained by the CIA at the infamous Guantanamo Bay terrorist repository in Cuba. Perino, sullenly, addressed the awaiting press: “Good morning, everybody… I have […]</p>
+</div>
+<div class="post-more">
+<span class="read-more"><a href="http://www.lushforlife.com/2007/10/nancy-drew-terrorist-spy/" title="Read More">Read More</a></span>
+<span class="comments"><a href="http://www.lushforlife.com/2007/10/nancy-drew-terrorist-spy/#respond">0 Comments</a></span>
+<div class="fix"></div>
+</div>
+</div><!-- /.post -->
+<div class="fix"></div>
+<div class="fix"></div>
+</div><!-- /#recent-news -->
+</div><!-- /#main -->
+<div class="col-right" id="sidebar">
+<div class="primary">
+<div class="widget widget_woo_search" id="woo_search-4"> <div class="search_main">
+<form action="http://www.lushforlife.com/" class="searchform" method="get">
+<input class="field s" name="s" onblur="if (this.value == '') {this.value = 'Search...';}" onfocus="if (this.value == 'Search...') {this.value = '';}" type="text" value="Search..."/>
+<input class="search-submit" name="submit" src="http://www.lushforlife.com/wp-content/themes/editorial/images/ico-search.png" type="image" value="Go"/>
+</form>
+<div class="fix"></div>
+</div> </div>
+<div class="widget widget_text" id="text-3"><h3>What we’re doing now!</h3> <div class="textwidget"><a href="http://www.everythingisstupid.net" rel="noopener noreferrer" target="_blank"><img src="http://www.lushforlife.com/wp-content/uploads/2013/05/Everything-is-stupid-podcast-ad.png"/></a>
+<br/><br/>
+We don't do Lush For Life anymore, but if you miss emus and stupidity, we're doing this.</div>
+</div> <div class="widget widget_woo_subscribe" id="woo_subscribe-3"> <div id="connect-related">
+<div class="connect">
+<h3>Subscribe</h3>
+<div class="connect-inner">
+<p>Subscribe to our e-mail newsletter to receive updates.</p>
+<div class="social">
+<a class="subscribe" href="http://www.lushforlife.com/feed/"><img alt="" src="http://www.lushforlife.com/wp-content/themes/editorial/images/ico-social-rss.png" title="Subscribe to our RSS feed"/></a>
+<a class="twitter" href="https://twitter.com/#!/Lushforlifesite"><img alt="" src="http://www.lushforlife.com/wp-content/themes/editorial/images/ico-social-twitter.png" title="Follow us on Twitter"/></a>
+<a class="facebook" href="http://www.facebook.com/groups/2392521406/"><img alt="" src="http://www.lushforlife.com/wp-content/themes/editorial/images/ico-social-facebook.png" title="Connect on Facebook"/></a>
+<a class="youtube" href="http://www.youtube.com/user/EgbertAttrick"><img alt="" src="http://www.lushforlife.com/wp-content/themes/editorial/images/ico-social-youtube.png" title="Watch on YouTube"/></a>
+</div>
+</div><!-- /.connect-inner -->
+</div><!-- col-left -->
+<div class="fix"></div>
+</div>
+</div> <div class="widget widget_categories" id="categories-3"><h3>Sections</h3> <ul>
+<li class="cat-item cat-item-14"><a href="http://www.lushforlife.com/category/culture/advice/">Advice</a>
+</li>
+<li class="cat-item cat-item-3"><a href="http://www.lushforlife.com/category/culture/">Culture</a>
+</li>
+<li class="cat-item cat-item-4"><a href="http://www.lushforlife.com/category/entertainment/">Entertainment</a>
+</li>
+<li class="cat-item cat-item-16"><a href="http://www.lushforlife.com/category/news/feature/">Feature</a>
+</li>
+<li class="cat-item cat-item-18"><a href="http://www.lushforlife.com/category/science-technology/health/">Health</a>
+</li>
+<li class="cat-item cat-item-5"><a href="http://www.lushforlife.com/category/culture/horoscopes/">Horoscopes</a>
+</li>
+<li class="cat-item cat-item-21"><a href="http://www.lushforlife.com/category/news/interviews/">Interviews</a>
+</li>
+<li class="cat-item cat-item-22"><a href="http://www.lushforlife.com/category/news/l4l-investigates/">L4L Investigates</a>
+</li>
+<li class="cat-item cat-item-23"><a href="http://www.lushforlife.com/category/news/l4l-news/">L4L News</a>
+</li>
+<li class="cat-item cat-item-6"><a href="http://www.lushforlife.com/category/news/">News</a>
+</li>
+<li class="cat-item cat-item-7"><a href="http://www.lushforlife.com/category/opinion/">Opinion</a>
+</li>
+<li class="cat-item cat-item-8"><a href="http://www.lushforlife.com/category/news/politics/">Politics</a>
+</li>
+<li class="cat-item cat-item-9"><a href="http://www.lushforlife.com/category/culture/religion/">Religion</a>
+</li>
+<li class="cat-item cat-item-10"><a href="http://www.lushforlife.com/category/science-technology/">Science &amp; Technology</a>
+</li>
+<li class="cat-item cat-item-12"><a href="http://www.lushforlife.com/category/sports/">Sports</a>
+</li>
+<li class="cat-item cat-item-13"><a href="http://www.lushforlife.com/category/news/uk/">UK</a>
+</li>
+</ul>
+</div>
+</div>
+</div><!-- /#sidebar -->
+</div><!-- /#content -->
+<div class="col-full" id="more-news">
+<div class="post-308 post type-post status-publish format-standard hentry category-interviews category-news tag-mitt-romney">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/news/interviews/">Interviews</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/l4l-mitt-romney-sit-down-interview/" rel="bookmark" title="L4L Mitt Romney Sit Down Interview">L4L Mitt Romney Sit Down Interview</a></h2>
+<a href="http://www.lushforlife.com/2007/10/l4l-mitt-romney-sit-down-interview/" title="L4L Mitt Romney Sit Down Interview"><img alt="" class="woo-image thumbnail aligncenter" height="90" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/hilton.jpg&amp;w=130&amp;h=90&amp;zc=1&amp;q=90" width="130"/></a>
+<div class="entry">
+<p>Lush for Life’s newest intrepid reporter, Marriot A. Lamb, has been aware that Hillary Clinton has been getting more than […]</p>
+</div>
+</div><!-- /.post -->
+<div class="post-307 post type-post status-publish format-standard hentry category-opinion tag-europe tag-london tag-us">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/opinion/">Opinion</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/dear-america-we-still-like-you-love-europe/" rel="bookmark" title="Dear America, We Still Like You – Love Europe">Dear America, We Still Like You – Love Europe</a></h2>
+<a href="http://www.lushforlife.com/2007/10/dear-america-we-still-like-you-love-europe/" title="Dear America, We Still Like You – Love Europe"><img alt="" class="woo-image thumbnail aligncenter" height="90" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/good-america-bad-america.jpg&amp;w=130&amp;h=90&amp;zc=1&amp;q=90" width="130"/></a>
+<div class="entry">
+<p>I feel for you my American cousins; I really do. If this is your chosen reading material, then you may […]</p>
+</div>
+</div><!-- /.post -->
+<div class="post-306 post type-post status-publish format-standard hentry category-entertainment tag-abc tag-alan-greenspan tag-andrea-mitchell tag-chairman-greenspan tag-defense-robert-gates tag-harry-potter tag-iraq">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/entertainment/">Entertainment</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/potter-esque-crack-for-bald-brokers/" rel="bookmark" title="Potter-esque Crack For Bald Brokers">Potter-esque Crack For Bald Brokers</a></h2>
+<a href="http://www.lushforlife.com/2007/10/potter-esque-crack-for-bald-brokers/" title="Potter-esque Crack For Bald Brokers"><img alt="" class="woo-image thumbnail aligncenter" height="90" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/GREENSPAN.jpg&amp;w=130&amp;h=90&amp;zc=1&amp;q=90" width="130"/></a>
+<div class="entry">
+<p>Alan Greenspan’s much-anticipated memoirs, entitled “The Age of Turbulence”, hit bookshelves last week. The fanfare surrounding the novel was amazing, […]</p>
+</div>
+</div><!-- /.post -->
+<div class="post-305 post type-post status-publish format-standard hentry category-sports tag-bay tag-roger-clemens">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/sports/">Sports</a></span>
+<span class="date">October 3, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/10/favre-sets-aim-towards-marino/" rel="bookmark" title="Favre Sets Aim Towards Marino">Favre Sets Aim Towards Marino</a></h2>
+<a href="http://www.lushforlife.com/2007/10/favre-sets-aim-towards-marino/" title="Favre Sets Aim Towards Marino"><img alt="" class="woo-image thumbnail aligncenter" height="90" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/Favre-Marino-Path.jpg&amp;w=130&amp;h=90&amp;zc=1&amp;q=90" width="130"/></a>
+<div class="entry">
+<p>GREEN BAY, WI – In the wake of the Green Bay Packers come-from-behind victory over the San Diego Chargers at […]</p>
+</div>
+</div><!-- /.post -->
+<div class="post-301 post type-post status-publish format-standard hentry category-news tag-british-army tag-general-jack-keane tag-general-keane tag-iraq tag-prime-minister tag-us">
+<div class="post-meta">
+<span class="category"><a href="http://www.lushforlife.com/category/news/">News</a></span>
+<span class="date">September 13, 2007</span>
+<div class="fix"></div>
+</div>
+<h2 class="title"><a href="http://www.lushforlife.com/2007/09/the-new-kid-in-school-gets-into-his-first-playground-fight/" rel="bookmark" title="The New Kid In School Gets Into His First Playground Fight">The New Kid In School Gets Into His First Playground Fight</a></h2>
+<a href="http://www.lushforlife.com/2007/09/the-new-kid-in-school-gets-into-his-first-playground-fight/" title="The New Kid In School Gets Into His First Playground Fight"><img alt="" class="woo-image thumbnail aligncenter" height="90" src="http://www.lushforlife.com/wp-content/themes/editorial/functions/thumb.php?src=aimages/boxing-keane.jpg&amp;w=130&amp;h=90&amp;zc=1&amp;q=90" width="130"/></a>
+<div class="entry">
+<p>General Jack Keane, architect of the US “surge” in Iraq, called British Prime Minister Gordon Brown a “yellow-bellied loser,” in […]</p>
+</div>
+</div><!-- /.post -->
+<div class="fix"></div>
+</div><!-- /#more-news -->
+<div id="footer-wrap">
+<div class="col-full" id="footer">
+<div class="col-left" id="copyright">
+<p>Lush For Life © 2021. All Rights Reserved.</p>
+</div>
+<div class="col-right" id="credit">
+<p>Stupid News for Smart People
+</p> </div>
+</div><!-- /#footer  -->
+</div><!-- /#footer-wrap -->
+</div><!-- /#wrapper -->
+<script src="http://www.lushforlife.com/wp-content/themes/editorial/includes/js/general.js?ver=1.0.0" type="text/javascript"></script>
+<script src="http://www.lushforlife.com/wp-includes/js/wp-embed.min.js?ver=5.2.9" type="text/javascript"></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=12200410523&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>
