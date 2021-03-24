@@ -1,0 +1,2766 @@
+<!DOCTYPE html>
+
+<html class="v2" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr">
+<head>
+<link href="https://www.blogger.com/static/v1/widgets/3416767676-css_bundle_v2.css" rel="stylesheet" type="text/css"/>
+<meta content="width=1100" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="blogger" name="generator"/>
+<link href="http://mad-yet.blogspot.com/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="http://mad-yet.blogspot.com/" rel="canonical"/>
+<link href="http://mad-yet.blogspot.com/feeds/posts/default" rel="alternate" title="@Mad_Yet? - Atom" type="application/atom+xml"/>
+<link href="http://mad-yet.blogspot.com/feeds/posts/default?alt=rss" rel="alternate" title="@Mad_Yet? - RSS" type="application/rss+xml"/>
+<link href="https://www.blogger.com/feeds/7093131452073881563/posts/default" rel="service.post" title="@Mad_Yet? - Atom" type="application/atom+xml"/>
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1277698886-ieretrofit.js"></script>
+<![endif]-->
+<meta content="Fed up with Liberals, Corruption, Dirty Politicians, Bankers, Ponzi Schemes &amp; BigBrother invading your Privacy? We Are Too! Help us spread Liberty!" name="description"/>
+<meta content="http://mad-yet.blogspot.com/" property="og:url"/>
+<meta content="@Mad_Yet?" property="og:title"/>
+<meta content="Fed up with Liberals, Corruption, Dirty Politicians, Bankers, Ponzi Schemes &amp; BigBrother invading your Privacy? We Are Too! Help us spread Liberty!" property="og:description"/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>@Mad_Yet?</title>
+<style id="page-skin-1" type="text/css"><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Travel
+Designer: Sookhee Lee
+URL:      www.plyfly.net
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#539bcd"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#bbbbbb"/>
+</Group>
+<Group description="Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#539bcd"/>
+<Variable name="content.background.color" description="Main Background" type="color" default="transparent"/>
+</Group>
+<Group description="Links" selector=".main-outer">
+<Variable name="link.color" description="Link Color" type="color" default="#ff9900"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#b87209"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#ff9900"/>
+</Group>
+<Group description="Blog Title" selector=".header h1">
+<Variable name="header.font" description="Font" type="font"
+default="normal normal 60px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="header.text.color" description="Text Color" type="color" default="#ffffff" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#666666" />
+</Group>
+<Group description="Tabs Text" selector=".tabs-inner .widget li a">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal bold 16px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#ffffff"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.background.color" description="Background Color" type="color" default="transparent"/>
+<Variable name="tabs.selected.background.color" description="Selected Color" type="color" default="transparent"/>
+</Group>
+<Group description="Date Header" selector=".main-inner h2.date-header">
+<Variable name="date.font" description="Font" type="font"
+default="normal normal 14px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="date.text.color" description="Text Color" type="color" default="#666666"/>
+</Group>
+<Group description="Post Title" selector="h3.post-title a">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal bold 20px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="post.title.text.color" description="Text Color" type="color"
+default="#ff0000"/>
+</Group>
+<Group description="Post Background" selector=".column-center-inner">
+<Variable name="post.background.color" description="Background Color" type="color"
+default="transparent"/>
+<Variable name="post.background.url" description="Post Background URL" type="url" default="none"/>
+</Group>
+<Group description="Gadget Title Color" selector="h2">
+<Variable name="widget.title.font" description="Font" type="font"
+default="normal bold 14px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Gadget Text" selector=".footer-inner .widget, .sidebar .widget">
+<Variable name="widget.font" description="Font" type="font"
+default="normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif"/>
+<Variable name="widget.text.color" description="Text Color" type="color" default="#666666"/>
+</Group>
+<Group description="Gadget Links" selector=".sidebar .widget">
+<Variable name="widget.link.color" description="Link Color" type="color" default="#666666"/>
+<Variable name="widget.link.visited.color" description="Visited Color" type="color" default="#3d85c6"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#ffffff"/>
+</Group>
+<Group description="Sidebar Background" selector=".column-left-inner .column-right-inner">
+<Variable name="widget.outer.background.color" description="Background Color" type="color" default="transparent" />
+<Variable name="widget.border.bevel.color" description="Bevel Color" type="color" default="transparent" />
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#f4bc4f" default="$(color) none repeat-x scroll top center"/>
+<Variable name="content.background" description="Content Background" type="background"
+color="transparent" default="$(color) none repeat scroll top center"/>
+<Variable name="comments.background" description="Comments Background" type="background"
+default="#cccccc none repeat scroll top center"/>
+<Variable name="content.imageBorder.top.space" description="Content Image Border Top Space" type="length" default="0"/>
+<Variable name="content.imageBorder.top" description="Content Image Border Top" type="url" default="none"/>
+<Variable name="content.margin" description="Content Margin Top" type="length" default="20px"/>
+<Variable name="content.padding" description="Content Padding" type="length" default="20px"/>
+<Variable name="content.posts.padding" description="Posts Content Padding" type="length" default="10px"/>
+<Variable name="tabs.background.gradient" description="Tabs Background Gradient" type="url"
+default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
+<Variable name="tabs.selected.background.gradient" description="Tabs Selected Background Gradient" type="url"
+default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
+<Variable name="widget.outer.background.gradient" description="Sidebar Gradient" type="url"
+default="url(//www.blogblog.com/1kt/travel/bg_black_50.png)"/>
+<Variable name="footer.background.gradient" description="Footer Background Gradient" type="url" default="none"/>
+<Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
+default="transparent none repeat scroll top left"/>
+<Variable name="mobile.button.color" description="Mobile Button Color" type="color" default="#ffffff" />
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Content
+----------------------------------------------- */
+body, .body-fauxcolumn-outer {
+font: normal normal 20px 'Trebuchet MS',Trebuchet,sans-serif;
+color: FF0000;
+background: #f4bc4f url(//themes.googleusercontent.com/image?id=0BwVBOzw_-hbMMDYxYTU0MmQtZTA5Yi00MTIwLTk3ZjktZWI4MzJhMDQyOTIy) repeat fixed top center;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+a:link {
+text-decoration:none;
+color: #6fa8dc;
+}
+a:visited {
+text-decoration:none;
+color: #3d85c6;
+}
+a:hover {
+text-decoration:underline;
+color: #ffffff;
+}
+.content-outer .content-cap-top {
+height: 0;
+background: transparent none repeat-x scroll top center;
+}
+.content-outer {
+margin: 0 auto;
+padding-top: 20px;
+}
+.content-inner {
+background: transparent url(//www.blogblog.com/1kt/travel/bg_black_70.png) repeat scroll top left;
+background-position: left -0;
+background-color: transparent;
+padding: 20px;
+}
+.main-inner .date-outer {
+margin-bottom: 2em;
+}
+/* Header
+----------------------------------------------- */
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 10px;
+padding-right: 10px;
+}
+.Header h1 {
+font: normal normal 60px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #ffffff;
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 130%;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner {
+margin: 1em 0 0;
+padding: 0;
+}
+.tabs-inner .section {
+margin: 0;
+}
+.tabs-inner .widget ul {
+padding: 0;
+background: #000000 url(//www.blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top center;
+}
+.tabs-inner .widget li {
+border: none;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: 1em 1.5em;
+color: #6fa8dc;
+font: normal bold 16px 'Trebuchet MS',Trebuchet,sans-serif;
+}
+.tabs-inner .widget li.selected a,
+.tabs-inner .widget li a:hover {
+position: relative;
+z-index: 1;
+background: #444444 url(//www.blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top center;
+color: #ffffff;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal bold 14px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #ffffff;
+}
+.main-inner h2.date-header {
+font: normal bold 15px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #ffffff;
+}
+.footer-inner .widget h2,
+.sidebar .widget h2 {
+padding-bottom: .5em;
+}
+/* Main
+----------------------------------------------- */
+.main-inner {
+padding: 20px 0;
+}
+.main-inner .column-center-inner {
+padding: 20px 0;
+}
+.main-inner .column-center-inner .section {
+margin: 0 20px;
+}
+.main-inner .column-right-inner {
+margin-left: 20px;
+}
+.main-inner .fauxcolumn-right-outer .fauxcolumn-inner {
+margin-left: 20px;
+background: #000000 none repeat scroll top left;
+}
+.main-inner .column-left-inner {
+margin-right: 20px;
+}
+.main-inner .fauxcolumn-left-outer .fauxcolumn-inner {
+margin-right: 20px;
+background: #000000 none repeat scroll top left;
+}
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 15px 0;
+}
+/* Posts
+----------------------------------------------- */
+h3.post-title {
+margin-top: 20px;
+color: #FF0000;
+}
+h3.post-title a {
+font: normal bold 20px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #ff0000;
+background-color: ;
+}
+h3.post-title a:hover {
+text-decoration: underline;
+}
+.main-inner .column-center-outer {
+background: #000000 none repeat scroll top left;
+_background-image: none;
+}
+.post-body {
+line-height: 1.4;
+position: relative;
+color: #FFFFFF;
+font-size: 18px;
+}
+.post-header {
+margin: 0 0 1em;
+line-height: 1.6;
+}
+.post-footer {
+margin: .5em 0;
+line-height: 1.6;
+font-size: 12px;
+color: white;
+background-color: #151515;
+}
+#blog-pager {
+font-size: 140%;
+}
+#comments {
+background: #ABABAB none repeat scroll top center;
+padding: 15px;
+}
+#comments .comment-author {
+padding-top: 1.5em;
+}
+#comments h4,
+#comments .comment-author a,
+#comments .comment-timestamp a {
+color: #ff0000;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+/* Comments
+----------------------------------------------- */
+#comments a {
+color: #ff0000;
+}
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #ff0000;
+border-bottom: 1px solid #ff0000;
+}
+.comments .comment-thread.inline-thread {
+background: #000000;
+}
+.comments .continue {
+border-top: 2px solid #ff0000;
+}
+/* Widgets
+----------------------------------------------- */
+.sidebar .widget {
+border-bottom: 2px solid #666666;
+padding-bottom: 10px;
+margin: 10px 0;
+}
+.sidebar .widget:first-child {
+margin-top: 0;
+}
+.sidebar .widget:last-child {
+border-bottom: none;
+margin-bottom: 0;
+padding-bottom: 0;
+}
+.footer-inner .widget,
+.sidebar .widget {
+font: normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif;
+color: #ffffff;
+}
+.sidebar .widget a:link {
+color: #6fa8dc;
+text-decoration: none;
+}
+.sidebar .widget a:visited {
+color: #3d85c6;
+}
+.sidebar .widget a:hover {
+color: #6fa8dc;
+text-decoration: underline;
+}
+.footer-inner .widget a:link {
+color: #6fa8dc;
+text-decoration: none;
+}
+.footer-inner .widget a:visited {
+color: #3d85c6;
+}
+.footer-inner .widget a:hover {
+color: #6fa8dc;
+text-decoration: underline;
+}
+.widget .zippy {
+color: #ffffff;
+}
+.footer-inner {
+background: transparent none repeat scroll top center;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: 100% auto;
+}
+body.mobile .AdSense {
+margin: 0 -10px;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+.mobile .footer-inner .widget a:link {
+color: #6fa8dc;
+text-decoration: none;
+}
+.mobile .footer-inner .widget a:visited {
+color: #3d85c6;
+}
+.mobile-post-outer a {
+color: #ff0000;
+}
+.mobile-link-button {
+background-color: #6fa8dc;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile-index-contents {
+color: #666666;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background: #444444 url(//www.blogblog.com/1kt/travel/bg_black_50.png) repeat scroll top center;
+color: #ffffff;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #ffffff;
+}
+
+--></style>
+<style id="template-skin-1" type="text/css"><!--
+body {
+min-width: 1070px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1070px;
+max-width: 1070px;
+_width: 1070px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 280px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 280px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("280px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 280px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 280px;
+margin-right: -280px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+--></style>
+<script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-37368714-1', 'auto', 'blogger');
+        ga('blogger.send', 'pageview');
+      </script>
+<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7093131452073881563&amp;zx=c1368aad-da77-49c5-a691-3eccbdc920b4" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7093131452073881563&amp;zx=c1368aad-da77-49c5-a691-3eccbdc920b4" rel="stylesheet"/></noscript>
+<!-- data-ad-client=ca-pub-6669728218606455 -->
+</head>
+<body class="loading">
+<div class="navbar section" id="navbar"><div class="widget Navbar" data-version="1" id="Navbar1"><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script src="https://apis.google.com/js/plusone.js" type="text/javascript"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d7093131452073881563\x26blogName\x3d@Mad_Yet?\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://mad-yet.blogspot.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttp://mad-yet.blogspot.com/\x26vt\x3d-8540407856522382300',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div itemscope="itemscope" itemtype="http://schema.org/Blog" style="display: none;">
+<meta content="@Mad_Yet?" itemprop="name"/>
+<meta content="Fed up with Liberals, Corruption, Dirty Politicians, Bankers, Ponzi Schemes &amp; BigBrother invading your Privacy? We Are Too! Help us spread Liberty!" itemprop="description"/>
+</div>
+<div class="body-fauxcolumns">
+<div class="fauxcolumn-outer body-fauxcolumn-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</div>
+<div class="content">
+<div class="content-fauxcolumns">
+<div class="fauxcolumn-outer content-fauxcolumn-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</div>
+<div class="content-outer">
+<div class="content-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left content-fauxborder-left">
+<div class="fauxborder-right content-fauxborder-right"></div>
+<div class="content-inner">
+<header>
+<div class="header-outer">
+<div class="header-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left header-fauxborder-left">
+<div class="fauxborder-right header-fauxborder-right"></div>
+<div class="region-inner header-inner">
+<div class="header section" id="header"><div class="widget Header" data-version="1" id="Header1">
+<div id="header-inner">
+<a href="http://mad-yet.blogspot.com/" style="display: block">
+<img alt="@Mad_Yet?" height="173px; " id="Header1_headerimg" src="http://2.bp.blogspot.com/-2MRckGdDalc/Us2o7fFNwGI/AAAAAAAABe8/avoRyjxbBO0/s1600/Mad%2BYet%2BBanner%2B1050px.png" style="display: block" width="1050px; "/>
+</a>
+</div>
+</div></div>
+</div>
+</div>
+<div class="header-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</header>
+<div class="tabs-outer">
+<div class="tabs-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left tabs-fauxborder-left">
+<div class="fauxborder-right tabs-fauxborder-right"></div>
+<div class="region-inner tabs-inner">
+<div class="tabs no-items section" id="crosscol"></div>
+<div class="tabs no-items section" id="crosscol-overflow"></div>
+</div>
+</div>
+<div class="tabs-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<div class="main-outer">
+<div class="main-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left main-fauxborder-left">
+<div class="fauxborder-right main-fauxborder-right"></div>
+<div class="region-inner main-inner">
+<div class="columns fauxcolumns">
+<div class="fauxcolumn-outer fauxcolumn-center-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<div class="fauxcolumn-outer fauxcolumn-left-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<div class="fauxcolumn-outer fauxcolumn-right-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class="columns-inner">
+<div class="column-center-outer">
+<div class="column-center-inner">
+<div class="main section" id="main"><div class="widget HTML" data-version="1" id="HTML14">
+<h2 class="title">Precious Metals Charts</h2>
+<div class="widget-content">
+<a href="http://www.kitco.com/connecting.html"><img alt="[Most Recent Quotes from www.kitco.com]" border="0" src="http://www.kitconet.com/charts/metals/silver/t24_ag_en_usoz_2.gif"/>
+</a><a href="http://www.kitco.com/connecting.html"><img alt="[Most Recent Quotes from www.kitco.com]" border="0" src="http://www.kitconet.com/charts/metals/gold/t24_au_en_usoz_2.gif"/></a> <a href="http://www.kitco.com/connecting.html"><img alt="[Most Recent Quotes from www.kitco.com]" border="0" src="http://www.kitconet.com/charts/metals/platinum/t24_pt_en_usoz_2.gif"/>
+</a><a href="http://www.kitco.com/connecting.html"><img alt="[Most Recent Quotes from www.kitco.com]" border="0" src="http://www.kitconet.com/charts/metals/palladium/t24_pd_en_usoz_2.gif"/></a>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML14"));' rel="nofollow" target="configHTML14" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget AdSense" data-version="1" id="AdSense2">
+<div class="widget-content">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6669728218606455";
+google_ad_host = "ca-host-pub-1556223355139109";
+google_ad_host_channel = "L0001";
+/* mad-yet_sidebar-left-1_AdSense2_728x90_as */
+google_ad_slot = "8097237762";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense2"));' rel="nofollow" target="configAdSense2" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget Blog" data-version="1" id="Blog1">
+<div class="blog-posts hfeed">
+<div class="date-outer">
+<h2 class="date-header"><span>Mar 19, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="1858973802685033355" itemprop="postId"/>
+<a name="1858973802685033355"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/03/us-steel-to-idle-mills-lay-off-800.html">U.S. Steel to idle mills, lay off 800</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-1858973802685033355" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.nwitimes.com/business/steel/update-u-s-steel-to-idle-mills-lay-off/article_bdd269d9-cfcb-5116-b44f-b27bb601e6ca.html">http://www.nwitimes.com/business/steel/update-u-s-steel-to-idle-mills-lay-off/article_bdd269d9-cfcb-5116-b44f-b27bb601e6ca.html</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1858973802685033355&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1858973802685033355&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1858973802685033355&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1858973802685033355&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1858973802685033355&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/03/us-steel-to-idle-mills-lay-off-800.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/03/us-steel-to-idle-mills-lay-off-800.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-03-19T00:32:00-07:00">12:32 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/03/us-steel-to-idle-mills-lay-off-800.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=1858973802685033355" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=1858973802685033355&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Mar 15, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="7716196173934193919" itemprop="postId"/>
+<a name="7716196173934193919"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/03/first-bank-failure-of-year-north.html">First Bank Failure of the Year - North Milwaukee State Bank</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-7716196173934193919" itemprop="articleBody">
+<p dir="ltr"><a href="https://www.depositaccounts.com/blog/2016/03/bank-failure-year-north-milwaukee-state-bank.html">https://www.depositaccounts.com/blog/2016/03/bank-failure-year-north-milwaukee-state-bank.html</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7716196173934193919&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7716196173934193919&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7716196173934193919&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7716196173934193919&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7716196173934193919&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/03/first-bank-failure-of-year-north.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/03/first-bank-failure-of-year-north.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-03-15T09:03:00-07:00">9:03 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/03/first-bank-failure-of-year-north.html#comment-form" onclick="">
+2 comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=7716196173934193919" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=7716196173934193919&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Mar 14, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="http://2.bp.blogspot.com/-fHLUobt05rU/Vuc8BiSSywI/AAAAAAAACRU/KuSyyj_83rEH4voLntj2Zr-eUbBAq5nPQ/s320/1917707_10207248975155537_3941061685570909102_n-757788.jpg" itemprop="image_url"/>
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="7146527942867390073" itemprop="postId"/>
+<a name="7146527942867390073"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/03/this-is-bernie-sanders-supporter-that.html">This is the Bernie Sanders supporter that tried to attack Trump in Ohio...</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-7146527942867390073" itemprop="articleBody">
+<p class="mobile-photo"><a href="http://2.bp.blogspot.com/-fHLUobt05rU/Vuc8BiSSywI/AAAAAAAACRU/KuSyyj_83rEH4voLntj2Zr-eUbBAq5nPQ/s1600/1917707_10207248975155537_3941061685570909102_n-757788.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_6262039803963034370" src="http://2.bp.blogspot.com/-fHLUobt05rU/Vuc8BiSSywI/AAAAAAAACRU/KuSyyj_83rEH4voLntj2Zr-eUbBAq5nPQ/s320/1917707_10207248975155537_3941061685570909102_n-757788.jpg"/></a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7146527942867390073&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7146527942867390073&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7146527942867390073&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7146527942867390073&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7146527942867390073&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/03/this-is-bernie-sanders-supporter-that.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/03/this-is-bernie-sanders-supporter-that.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-03-14T15:32:00-07:00">3:32 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/03/this-is-bernie-sanders-supporter-that.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=7146527942867390073" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=7146527942867390073&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="2834056882905548132" itemprop="postId"/>
+<a name="2834056882905548132"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/03/charleston-gazette-pushes-gun-control.html">Charleston Gazette Pushes Gun Control</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-2834056882905548132" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.wvgazettemail.com/gazette-opinion/20160314/gazette-editorial-gun-control-saves-lives">http://www.wvgazettemail.com/gazette-opinion/20160314/gazette-editorial-gun-control-saves-lives</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2834056882905548132&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2834056882905548132&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2834056882905548132&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2834056882905548132&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2834056882905548132&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/03/charleston-gazette-pushes-gun-control.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/03/charleston-gazette-pushes-gun-control.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-03-14T13:43:00-07:00">1:43 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/03/charleston-gazette-pushes-gun-control.html#comment-form" onclick="">
+1 comment:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=2834056882905548132" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=2834056882905548132&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Mar 10, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="2405580942191821240" itemprop="postId"/>
+<a name="2405580942191821240"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/03/senators-close-to-finishing-encryption.html">Senators close to finishing encryption penalties legislation</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-2405580942191821240" itemprop="articleBody">
+<p dir="ltr"><a href="https://ca.news.yahoo.com/senators-close-finishing-encryption-penalties-legislation-sources-212238633--finance.html">https://ca.news.yahoo.com/senators-close-finishing-encryption-penalties-legislation-sources-212238633--finance.html</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2405580942191821240&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2405580942191821240&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2405580942191821240&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2405580942191821240&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2405580942191821240&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/03/senators-close-to-finishing-encryption.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/03/senators-close-to-finishing-encryption.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-03-10T00:00:00-07:00">12:00 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/03/senators-close-to-finishing-encryption.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=2405580942191821240" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=2405580942191821240&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Mar 9, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="2336720843668376739" itemprop="postId"/>
+<a name="2336720843668376739"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/03/judicial-watch-documents-reveal-us-army.html">Judicial Watch: Documents Reveal US Army Indoctrinated Soldiers on Dangers of ‘White Privilege’</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-2336720843668376739" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.judicialwatch.org/press-room/press-releases/judicial-watch-documents-reveal-us-army-indoctrinated-soldiers-on-dangers-of-white-privilege/">http://www.judicialwatch.org/press-room/press-releases/judicial-watch-documents-reveal-us-army-indoctrinated-soldiers-on-dangers-of-white-privilege/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2336720843668376739&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2336720843668376739&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2336720843668376739&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2336720843668376739&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=2336720843668376739&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/03/judicial-watch-documents-reveal-us-army.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/03/judicial-watch-documents-reveal-us-army.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-03-09T23:58:00-07:00">11:58 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/03/judicial-watch-documents-reveal-us-army.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=2336720843668376739" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=2336720843668376739&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="3597769419269879837" itemprop="postId"/>
+<a name="3597769419269879837"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/03/pentagon-report-justifies-deployment-of.html">Pentagon report justifies deployment of military spy drones over the U.S.</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-3597769419269879837" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.usatoday.com/story/news/nation/2016/03/09/pentagon-admits-has-deployed-military-spy-drones-over-us/81474702/">http://www.usatoday.com/story/news/nation/2016/03/09/pentagon-admits-has-deployed-military-spy-drones-over-us/81474702/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3597769419269879837&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3597769419269879837&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3597769419269879837&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3597769419269879837&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3597769419269879837&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/03/pentagon-report-justifies-deployment-of.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/03/pentagon-report-justifies-deployment-of.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-03-09T23:57:00-07:00">11:57 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/03/pentagon-report-justifies-deployment-of.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=3597769419269879837" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=3597769419269879837&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="5476837171184872490" itemprop="postId"/>
+<a name="5476837171184872490"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/03/ag-lynch-testifies-justice-dept-has.html">AG Lynch Testifies: Justice Dept. Has ‘Discussed’ Civil Legal Action Against Climate Change Deniers</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-5476837171184872490" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.theblaze.com/stories/2016/03/09/ag-loretta-lynch-testifies-justice-department-has-discussed-civil-legal-action-against-climate-change-deniers/">http://www.theblaze.com/stories/2016/03/09/ag-loretta-lynch-testifies-justice-department-has-discussed-civil-legal-action-against-climate-change-deniers/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5476837171184872490&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5476837171184872490&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5476837171184872490&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5476837171184872490&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5476837171184872490&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/03/ag-lynch-testifies-justice-dept-has.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/03/ag-lynch-testifies-justice-dept-has.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-03-09T23:56:00-07:00">11:56 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/03/ag-lynch-testifies-justice-dept-has.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=5476837171184872490" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=5476837171184872490&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Jan 31, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="1769443683656450658" itemprop="postId"/>
+<a name="1769443683656450658"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/hsbc-online-banking-failure-what-you.html">HSBC online banking failure: What you need to know</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-1769443683656450658" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.telegraph.co.uk/finance/personalfinance/bank-accounts/12129786/HSBC-online-banking-fails-again-after-succumbing-to-cyber-attack.html">http://www.telegraph.co.uk/finance/personalfinance/bank-accounts/12129786/HSBC-online-banking-fails-again-after-succumbing-to-cyber-attack.html</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1769443683656450658&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1769443683656450658&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1769443683656450658&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1769443683656450658&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1769443683656450658&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/hsbc-online-banking-failure-what-you.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/hsbc-online-banking-failure-what-you.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-31T15:28:00-07:00">3:28 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/hsbc-online-banking-failure-what-you.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=1769443683656450658" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=1769443683656450658&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Jan 29, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="8940244035222354652" itemprop="postId"/>
+<a name="8940244035222354652"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/facebook-moves-to-ban-private-gun-sales.html">Facebook Moves to Ban Private Gun Sales on Its Site and Instagram</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-8940244035222354652" itemprop="articleBody">
+<p dir="ltr"><a href="http://mobile.nytimes.com/2016/01/30/technology/facebook-gun-sales-ban.html?_r=0&amp;referer=https://news.google.com/">http://mobile.nytimes.com/2016/01/30/technology/facebook-gun-sales-ban.html?_r=0&amp;referer=https://news.google.com/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8940244035222354652&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8940244035222354652&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8940244035222354652&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8940244035222354652&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8940244035222354652&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/facebook-moves-to-ban-private-gun-sales.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/facebook-moves-to-ban-private-gun-sales.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-29T23:55:00-07:00">11:55 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/facebook-moves-to-ban-private-gun-sales.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=8940244035222354652" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=8940244035222354652&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="4201621726703782722" itemprop="postId"/>
+<a name="4201621726703782722"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/the-state-department-hillary-clintons.html">The State Department: Hillary Clinton’s email correspondence contained ‘top secret’ material</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-4201621726703782722" itemprop="articleBody">
+<p dir="ltr"><a href="https://www.washingtonpost.com/news/post-politics/wp/2016/01/29/the-state-department-concludes-there-is-top-secret-material-in-hillary-clintons-email-correspondence-from-her-time-as-secretary-of-state/">https://www.washingtonpost.com/news/post-politics/wp/2016/01/29/the-state-department-concludes-there-is-top-secret-material-in-hillary-clintons-email-correspondence-from-her-time-as-secretary-of-state/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4201621726703782722&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4201621726703782722&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4201621726703782722&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4201621726703782722&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4201621726703782722&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/the-state-department-hillary-clintons.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/the-state-department-hillary-clintons.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-29T23:55:00-07:00">11:55 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/the-state-department-hillary-clintons.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=4201621726703782722" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=4201621726703782722&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="7122939552267483308" itemprop="postId"/>
+<a name="7122939552267483308"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/port-of-new-york-and-new-jersey.html">Port of New York and New Jersey Longshoremen Stage Surprise Walkout</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-7122939552267483308" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.wsj.com/articles/port-of-new-york-and-new-jersey-longshoremen-stage-surprise-walkout-1454096236">http://www.wsj.com/articles/port-of-new-york-and-new-jersey-longshoremen-stage-surprise-walkout-1454096236</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7122939552267483308&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7122939552267483308&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7122939552267483308&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7122939552267483308&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7122939552267483308&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/port-of-new-york-and-new-jersey.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/port-of-new-york-and-new-jersey.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-29T23:54:00-07:00">11:54 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/port-of-new-york-and-new-jersey.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=7122939552267483308" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=7122939552267483308&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Jan 26, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="7199420250832001309" itemprop="postId"/>
+<a name="7199420250832001309"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/centene-cant-find-hard-drives-with.html">Centene can't find hard drives with 950,000 medical records</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-7199420250832001309" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.modernhealthcare.com/article/20160125/NEWS/160129911">http://www.modernhealthcare.com/article/20160125/NEWS/160129911</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7199420250832001309&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7199420250832001309&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7199420250832001309&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7199420250832001309&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=7199420250832001309&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/centene-cant-find-hard-drives-with.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/centene-cant-find-hard-drives-with.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-26T07:10:00-07:00">7:10 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/centene-cant-find-hard-drives-with.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=7199420250832001309" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=7199420250832001309&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Jan 24, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="258182654140699694" itemprop="postId"/>
+<a name="258182654140699694"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/california-wants-to-ban-encrypted-phones.html">California Wants to Ban Encrypted Phones</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-258182654140699694" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.wired.com/2016/01/security-news-this-week-now-california-wants-to-ban-encrypted-phones-too/?mbid=social_twitter">http://www.wired.com/2016/01/security-news-this-week-now-california-wants-to-ban-encrypted-phones-too/?mbid=social_twitter</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=258182654140699694&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=258182654140699694&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=258182654140699694&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=258182654140699694&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=258182654140699694&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/california-wants-to-ban-encrypted-phones.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/california-wants-to-ban-encrypted-phones.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-24T02:31:00-07:00">2:31 AM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/california-wants-to-ban-encrypted-phones.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=258182654140699694" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=258182654140699694&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Jan 9, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="8190093652752339144" itemprop="postId"/>
+<a name="8190093652752339144"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/another-41-immigrants-snagged-on-terror.html">Another 41 Immigrants Snagged On Terror Charges: OBAMA Administration Withholds Info From Public</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-8190093652752339144" itemprop="articleBody">
+<p dir="ltr"><a href="http://freebeacon.com/national-security/disclosure-another-41-foreign-born-individuals-snagged-on-terror-charges/">http://freebeacon.com/national-security/disclosure-another-41-foreign-born-individuals-snagged-on-terror-charges/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8190093652752339144&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8190093652752339144&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8190093652752339144&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8190093652752339144&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8190093652752339144&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/another-41-immigrants-snagged-on-terror.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/another-41-immigrants-snagged-on-terror.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-09T17:20:00-07:00">5:20 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/another-41-immigrants-snagged-on-terror.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=8190093652752339144" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=8190093652752339144&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Jan 8, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="3336850638801976039" itemprop="postId"/>
+<a name="3336850638801976039"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/cops-suspect-says-he-shot-officer-in.html">Cops: Suspect Says He Shot Officer In Name Of Islam</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-3336850638801976039" itemprop="articleBody">
+<p dir="ltr"><a href="http://philadelphia.cbslocal.com/2016/01/08/police-officer-shot-multiple-times-in-west-philly/">http://philadelphia.cbslocal.com/2016/01/08/police-officer-shot-multiple-times-in-west-philly/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3336850638801976039&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3336850638801976039&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3336850638801976039&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3336850638801976039&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=3336850638801976039&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/cops-suspect-says-he-shot-officer-in.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/cops-suspect-says-he-shot-officer-in.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-08T23:13:00-07:00">11:13 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/cops-suspect-says-he-shot-officer-in.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=3336850638801976039" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=3336850638801976039&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Jan 4, 2016</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="5081222441568604805" itemprop="postId"/>
+<a name="5081222441568604805"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/dow-jones-industrial-average-drops.html">Dow Jones Industrial Average Drops Nearly 400 Points In Global Sell-Off</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-5081222441568604805" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.ibtimes.com/dow-jones-industrial-average-drops-nearly-400-points-global-sell-2247813">http://www.ibtimes.com/dow-jones-industrial-average-drops-nearly-400-points-global-sell-2247813</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5081222441568604805&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5081222441568604805&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5081222441568604805&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5081222441568604805&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=5081222441568604805&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/dow-jones-industrial-average-drops.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/dow-jones-industrial-average-drops.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-04T19:01:00-07:00">7:01 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/dow-jones-industrial-average-drops.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=5081222441568604805" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=5081222441568604805&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="6708440734644854921" itemprop="postId"/>
+<a name="6708440734644854921"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/china-stocks-face-moment-of-truth-after.html">China stocks face moment of truth after unprecedented trading halt</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-6708440734644854921" itemprop="articleBody">
+<p dir="ltr"><a href="http://mobile.reuters.com/article/idUSKBN0UJ00X20160105">http://mobile.reuters.com/article/idUSKBN0UJ00X20160105</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6708440734644854921&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6708440734644854921&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6708440734644854921&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6708440734644854921&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6708440734644854921&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/china-stocks-face-moment-of-truth-after.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/china-stocks-face-moment-of-truth-after.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-04T18:32:00-07:00">6:32 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/china-stocks-face-moment-of-truth-after.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=6708440734644854921" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=6708440734644854921&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="4599927129329101854" itemprop="postId"/>
+<a name="4599927129329101854"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/oregon-siege-what-armed-group-wants-and.html">Oregon siege: What the armed group wants and why</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-4599927129329101854" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.cnn.com/2016/01/04/us/oregon-wildlife-refuge-what-bundy-wants/">http://www.cnn.com/2016/01/04/us/oregon-wildlife-refuge-what-bundy-wants/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4599927129329101854&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4599927129329101854&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4599927129329101854&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4599927129329101854&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=4599927129329101854&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/oregon-siege-what-armed-group-wants-and.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/oregon-siege-what-armed-group-wants-and.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-04T18:32:00-07:00">6:32 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/oregon-siege-what-armed-group-wants-and.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=4599927129329101854" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=4599927129329101854&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="1126559549256005282" itemprop="postId"/>
+<a name="1126559549256005282"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/obama-details-executive-action-on-gun.html">Obama details executive action on gun restrictions</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-1126559549256005282" itemprop="articleBody">
+<p dir="ltr"><a href="https://www.washingtonpost.com/politics/obama-to-unveil-new-gun-restrictions-slams-congress-for-inaction/2016/01/04/81d539e8-b2fb-11e5-a842-0feb51d1d124_story.html">https://www.washingtonpost.com/politics/obama-to-unveil-new-gun-restrictions-slams-congress-for-inaction/2016/01/04/81d539e8-b2fb-11e5-a842-0feb51d1d124_story.html</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1126559549256005282&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1126559549256005282&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1126559549256005282&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1126559549256005282&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=1126559549256005282&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/obama-details-executive-action-on-gun.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/obama-details-executive-action-on-gun.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-04T18:31:00-07:00">6:31 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/obama-details-executive-action-on-gun.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=1126559549256005282" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=1126559549256005282&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="6895699802796612962" itemprop="postId"/>
+<a name="6895699802796612962"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2016/01/more-than-900-layoffs-at-daimler-trucks.html">More than 900 Layoffs at Daimler Trucks Plant</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-6895699802796612962" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.fox46charlotte.com/news/local-news/68714146-story">http://www.fox46charlotte.com/news/local-news/68714146-story</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6895699802796612962&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6895699802796612962&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6895699802796612962&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6895699802796612962&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=6895699802796612962&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2016/01/more-than-900-layoffs-at-daimler-trucks.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2016/01/more-than-900-layoffs-at-daimler-trucks.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-04T18:31:00-07:00">6:31 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2016/01/more-than-900-layoffs-at-daimler-trucks.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=6895699802796612962" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=6895699802796612962&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="date-outer">
+<h2 class="date-header"><span>Dec 31, 2015</span></h2>
+<div class="date-posts">
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="473338285908899226" itemprop="postId"/>
+<a name="473338285908899226"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2015/12/muslim-appointed-as-special-assistant.html">Muslim appointed as special assistant in the Office of the Director for U.S. Citizenship and Immigration Services by Obama Administration</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-473338285908899226" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.bizjournals.com/memphis/news/2014/08/26/u-of-m-graduates-receive-presidential-appointments.html?full=true">http://www.bizjournals.com/memphis/news/2014/08/26/u-of-m-graduates-receive-presidential-appointments.html?full=true</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=473338285908899226&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=473338285908899226&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=473338285908899226&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=473338285908899226&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=473338285908899226&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2015/12/muslim-appointed-as-special-assistant.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2015/12/muslim-appointed-as-special-assistant.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2015-12-31T20:21:00-07:00">8:21 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2015/12/muslim-appointed-as-special-assistant.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=473338285908899226" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=473338285908899226&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="8139204479643507470" itemprop="postId"/>
+<a name="8139204479643507470"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2015/12/bacon-is-now-hate-crime.html">Bacon is now a "Hate Crime"?</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-8139204479643507470" itemprop="articleBody">
+<p dir="ltr"><a href="http://hosted.ap.org/dynamic/stories/U/US_MOSQUE_BACON_VANDALISM?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2015-12-30-22-41-49">http://hosted.ap.org/dynamic/stories/U/US_MOSQUE_BACON_VANDALISM?SITE=AP&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2015-12-30-22-41-49</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8139204479643507470&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8139204479643507470&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8139204479643507470&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8139204479643507470&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=8139204479643507470&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2015/12/bacon-is-now-hate-crime.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2015/12/bacon-is-now-hate-crime.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2015-12-31T15:34:00-07:00">3:34 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2015/12/bacon-is-now-hate-crime.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=8139204479643507470" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=8139204479643507470&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="970406597166150579" itemprop="postId"/>
+<a name="970406597166150579"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2015/12/california-gun-confiscation-goes-into.html">California Gun Confiscation Goes Into Effect On January 1</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-970406597166150579" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.inquisitr.com/2667489/california-gun-confiscation-goes-into-effect-on-january-1/">http://www.inquisitr.com/2667489/california-gun-confiscation-goes-into-effect-on-january-1/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=970406597166150579&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=970406597166150579&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=970406597166150579&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=970406597166150579&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=970406597166150579&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2015/12/california-gun-confiscation-goes-into.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2015/12/california-gun-confiscation-goes-into.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2015-12-31T15:24:00-07:00">3:24 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2015/12/california-gun-confiscation-goes-into.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=970406597166150579" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=970406597166150579&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="7093131452073881563" itemprop="blogId"/>
+<meta content="616207067060549894" itemprop="postId"/>
+<a name="616207067060549894"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="http://mad-yet.blogspot.com/2015/12/microsoft-pledges-to-inform-users-of.html">Microsoft pledges to inform users of state surveillance, account hacking</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-616207067060549894" itemprop="articleBody">
+<p dir="ltr"><a href="http://www.zdnet.com/article/microsoft-pledges-to-inform-users-of-state-surveillance-account-hacking/">http://www.zdnet.com/article/microsoft-pledges-to-inform-users-of-state-surveillance-account-hacking/</a></p>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=616207067060549894&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=616207067060549894&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=616207067060549894&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=616207067060549894&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=7093131452073881563&amp;postID=616207067060549894&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+<span class="post-timestamp">
+at
+<meta content="http://mad-yet.blogspot.com/2015/12/microsoft-pledges-to-inform-users-of.html" itemprop="url"/>
+<a class="timestamp-link" href="http://mad-yet.blogspot.com/2015/12/microsoft-pledges-to-inform-users-of.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2015-12-31T15:23:00-07:00">3:23 PM</abbr></a>
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="http://mad-yet.blogspot.com/2015/12/microsoft-pledges-to-inform-users-of.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-action">
+<a href="https://www.blogger.com/email-post.g?blogID=7093131452073881563&amp;postID=616207067060549894" title="Email Post">
+<img alt="" class="icon-action" height="13" src="http://img1.blogblog.com/img/icon18_email.gif" width="18"/>
+</a>
+</span>
+<span class="item-control blog-admin pid-767771321">
+<a href="https://www.blogger.com/post-edit.g?blogID=7093131452073881563&amp;postID=616207067060549894&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-2"><span class="post-labels">
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3"></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+<div class="blog-pager" id="blog-pager">
+<span id="blog-pager-older-link">
+<a class="blog-pager-older-link" href="http://mad-yet.blogspot.com/search?updated-max=2015-12-31T15:23:00-07:00&amp;max-results=25" id="Blog1_blog-pager-older-link" title="Older Posts">Older Posts</a>
+</span>
+<a class="home-link" href="http://mad-yet.blogspot.com/">Home</a>
+</div>
+<div class="clear"></div>
+<div class="blog-feeds">
+<div class="feed-links">
+Subscribe to:
+<a class="feed-link" href="http://mad-yet.blogspot.com/feeds/posts/default" target="_blank" type="application/atom+xml">Posts (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class="column-left-outer">
+<div class="column-left-inner">
+<aside>
+</aside>
+</div>
+</div>
+<div class="column-right-outer">
+<div class="column-right-inner">
+<aside>
+<div class="sidebar section" id="sidebar-right-1"><div class="widget HTML" data-version="1" id="HTML3">
+<h2 class="title">Connect</h2>
+<div class="widget-content">
+<a href="https://www.facebook.com/madyet?ref=hl"><img src="https://lh6.googleusercontent.com/-FPjwvXmDcRw/Ugw_CEe5pHI/AAAAAAAABR0/OCQC8zjrOwY/s51-no/Facebook+50px.png"/></a> <a href="https://twitter.com/Mad_Yet"><img src="https://lh4.googleusercontent.com/-4NhyLkValfo/Ugw_Dl9V_yI/AAAAAAAABRw/HrBdzvlczRs/s51-no/Twitter+50px.png"/></a> <a href="https://plus.google.com/b/118096327522389977994/118096327522389977994/posts" style="font-size: 100%;"><img src="https://lh3.googleusercontent.com/-skDDJ-lkpzI/Ugw_CnDI07I/AAAAAAAABRk/ukZfeKLPKFE/s51-no/Google%252B+50px.png"/></a><span style="font-size: 100%;"> </span><a href="http://feeds.feedburner.com/madyet" style="font-size: 100%;"><img src="https://lh3.googleusercontent.com/-8ZuKJQULMN8/Ugw_DCs-s9I/AAAAAAAABRg/8IQM5O7y618/s51-no/RSS+50px.png"/></a>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' rel="nofollow" target="configHTML3" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget BlogSearch" data-version="1" id="BlogSearch1">
+<h2 class="title">Search</h2>
+<div class="widget-content">
+<div id="BlogSearch1_form">
+<form action="http://mad-yet.blogspot.com/search" class="gsc-search-box" target="_top">
+<table cellpadding="0" cellspacing="0" class="gsc-search-box">
+<tbody>
+<tr>
+<td class="gsc-input">
+<input autocomplete="off" class="gsc-input" name="q" size="10" title="search" type="text" value=""/>
+</td>
+<td class="gsc-search-button">
+<input class="gsc-search-button" title="search" type="submit" value="Search"/>
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogSearch1"));' rel="nofollow" target="configBlogSearch1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget BlogArchive" data-version="1" id="BlogArchive1">
+<h2>Archive</h2>
+<div class="widget-content">
+<div id="ArchiveList">
+<div id="BlogArchive1_ArchiveList">
+<select id="BlogArchive1_ArchiveMenu">
+<option value="">Archive</option>
+<option value="http://mad-yet.blogspot.com/2016_03_13_archive.html">03/13 - 03/20 (4)</option>
+<option value="http://mad-yet.blogspot.com/2016_03_06_archive.html">03/06 - 03/13 (4)</option>
+<option value="http://mad-yet.blogspot.com/2016_01_31_archive.html">01/31 - 02/07 (1)</option>
+<option value="http://mad-yet.blogspot.com/2016_01_24_archive.html">01/24 - 01/31 (5)</option>
+<option value="http://mad-yet.blogspot.com/2016_01_03_archive.html">01/03 - 01/10 (7)</option>
+<option value="http://mad-yet.blogspot.com/2015_12_27_archive.html">12/27 - 01/03 (8)</option>
+<option value="http://mad-yet.blogspot.com/2015_12_20_archive.html">12/20 - 12/27 (1)</option>
+<option value="http://mad-yet.blogspot.com/2015_12_13_archive.html">12/13 - 12/20 (5)</option>
+<option value="http://mad-yet.blogspot.com/2015_12_06_archive.html">12/06 - 12/13 (6)</option>
+<option value="http://mad-yet.blogspot.com/2015_11_29_archive.html">11/29 - 12/06 (4)</option>
+<option value="http://mad-yet.blogspot.com/2015_11_22_archive.html">11/22 - 11/29 (2)</option>
+<option value="http://mad-yet.blogspot.com/2015_11_15_archive.html">11/15 - 11/22 (11)</option>
+<option value="http://mad-yet.blogspot.com/2015_11_08_archive.html">11/08 - 11/15 (5)</option>
+<option value="http://mad-yet.blogspot.com/2015_11_01_archive.html">11/01 - 11/08 (9)</option>
+<option value="http://mad-yet.blogspot.com/2015_10_25_archive.html">10/25 - 11/01 (7)</option>
+<option value="http://mad-yet.blogspot.com/2015_10_18_archive.html">10/18 - 10/25 (4)</option>
+<option value="http://mad-yet.blogspot.com/2015_10_11_archive.html">10/11 - 10/18 (5)</option>
+<option value="http://mad-yet.blogspot.com/2015_10_04_archive.html">10/04 - 10/11 (1)</option>
+<option value="http://mad-yet.blogspot.com/2015_09_27_archive.html">09/27 - 10/04 (4)</option>
+<option value="http://mad-yet.blogspot.com/2015_09_20_archive.html">09/20 - 09/27 (8)</option>
+<option value="http://mad-yet.blogspot.com/2015_09_13_archive.html">09/13 - 09/20 (8)</option>
+<option value="http://mad-yet.blogspot.com/2015_09_06_archive.html">09/06 - 09/13 (15)</option>
+<option value="http://mad-yet.blogspot.com/2015_08_30_archive.html">08/30 - 09/06 (6)</option>
+<option value="http://mad-yet.blogspot.com/2015_08_23_archive.html">08/23 - 08/30 (16)</option>
+<option value="http://mad-yet.blogspot.com/2015_08_16_archive.html">08/16 - 08/23 (18)</option>
+<option value="http://mad-yet.blogspot.com/2015_08_09_archive.html">08/09 - 08/16 (23)</option>
+<option value="http://mad-yet.blogspot.com/2015_08_02_archive.html">08/02 - 08/09 (9)</option>
+<option value="http://mad-yet.blogspot.com/2015_07_26_archive.html">07/26 - 08/02 (13)</option>
+<option value="http://mad-yet.blogspot.com/2015_07_19_archive.html">07/19 - 07/26 (24)</option>
+<option value="http://mad-yet.blogspot.com/2015_07_12_archive.html">07/12 - 07/19 (19)</option>
+<option value="http://mad-yet.blogspot.com/2015_07_05_archive.html">07/05 - 07/12 (15)</option>
+<option value="http://mad-yet.blogspot.com/2015_06_28_archive.html">06/28 - 07/05 (18)</option>
+<option value="http://mad-yet.blogspot.com/2015_06_21_archive.html">06/21 - 06/28 (29)</option>
+<option value="http://mad-yet.blogspot.com/2015_06_14_archive.html">06/14 - 06/21 (21)</option>
+<option value="http://mad-yet.blogspot.com/2015_06_07_archive.html">06/07 - 06/14 (15)</option>
+<option value="http://mad-yet.blogspot.com/2015_05_31_archive.html">05/31 - 06/07 (4)</option>
+<option value="http://mad-yet.blogspot.com/2015_05_24_archive.html">05/24 - 05/31 (18)</option>
+<option value="http://mad-yet.blogspot.com/2015_05_17_archive.html">05/17 - 05/24 (13)</option>
+<option value="http://mad-yet.blogspot.com/2015_05_10_archive.html">05/10 - 05/17 (25)</option>
+<option value="http://mad-yet.blogspot.com/2015_05_03_archive.html">05/03 - 05/10 (35)</option>
+<option value="http://mad-yet.blogspot.com/2015_04_26_archive.html">04/26 - 05/03 (26)</option>
+<option value="http://mad-yet.blogspot.com/2015_04_19_archive.html">04/19 - 04/26 (20)</option>
+<option value="http://mad-yet.blogspot.com/2015_04_12_archive.html">04/12 - 04/19 (16)</option>
+<option value="http://mad-yet.blogspot.com/2015_04_05_archive.html">04/05 - 04/12 (22)</option>
+<option value="http://mad-yet.blogspot.com/2015_03_29_archive.html">03/29 - 04/05 (24)</option>
+<option value="http://mad-yet.blogspot.com/2015_03_22_archive.html">03/22 - 03/29 (34)</option>
+<option value="http://mad-yet.blogspot.com/2015_03_15_archive.html">03/15 - 03/22 (15)</option>
+<option value="http://mad-yet.blogspot.com/2015_03_08_archive.html">03/08 - 03/15 (20)</option>
+<option value="http://mad-yet.blogspot.com/2015_03_01_archive.html">03/01 - 03/08 (31)</option>
+<option value="http://mad-yet.blogspot.com/2015_02_22_archive.html">02/22 - 03/01 (22)</option>
+<option value="http://mad-yet.blogspot.com/2015_02_15_archive.html">02/15 - 02/22 (35)</option>
+<option value="http://mad-yet.blogspot.com/2015_02_08_archive.html">02/08 - 02/15 (23)</option>
+<option value="http://mad-yet.blogspot.com/2015_02_01_archive.html">02/01 - 02/08 (21)</option>
+<option value="http://mad-yet.blogspot.com/2015_01_25_archive.html">01/25 - 02/01 (23)</option>
+<option value="http://mad-yet.blogspot.com/2015_01_18_archive.html">01/18 - 01/25 (28)</option>
+<option value="http://mad-yet.blogspot.com/2015_01_11_archive.html">01/11 - 01/18 (33)</option>
+<option value="http://mad-yet.blogspot.com/2015_01_04_archive.html">01/04 - 01/11 (47)</option>
+<option value="http://mad-yet.blogspot.com/2014_12_28_archive.html">12/28 - 01/04 (31)</option>
+<option value="http://mad-yet.blogspot.com/2014_12_21_archive.html">12/21 - 12/28 (12)</option>
+<option value="http://mad-yet.blogspot.com/2014_12_14_archive.html">12/14 - 12/21 (24)</option>
+<option value="http://mad-yet.blogspot.com/2014_12_07_archive.html">12/07 - 12/14 (32)</option>
+<option value="http://mad-yet.blogspot.com/2014_11_30_archive.html">11/30 - 12/07 (24)</option>
+<option value="http://mad-yet.blogspot.com/2014_11_23_archive.html">11/23 - 11/30 (31)</option>
+<option value="http://mad-yet.blogspot.com/2014_11_16_archive.html">11/16 - 11/23 (38)</option>
+<option value="http://mad-yet.blogspot.com/2014_11_09_archive.html">11/09 - 11/16 (41)</option>
+<option value="http://mad-yet.blogspot.com/2014_11_02_archive.html">11/02 - 11/09 (56)</option>
+<option value="http://mad-yet.blogspot.com/2014_10_26_archive.html">10/26 - 11/02 (43)</option>
+<option value="http://mad-yet.blogspot.com/2014_10_19_archive.html">10/19 - 10/26 (67)</option>
+<option value="http://mad-yet.blogspot.com/2014_10_12_archive.html">10/12 - 10/19 (32)</option>
+<option value="http://mad-yet.blogspot.com/2014_10_05_archive.html">10/05 - 10/12 (36)</option>
+<option value="http://mad-yet.blogspot.com/2014_09_28_archive.html">09/28 - 10/05 (20)</option>
+<option value="http://mad-yet.blogspot.com/2014_09_21_archive.html">09/21 - 09/28 (36)</option>
+<option value="http://mad-yet.blogspot.com/2014_09_14_archive.html">09/14 - 09/21 (25)</option>
+<option value="http://mad-yet.blogspot.com/2014_09_07_archive.html">09/07 - 09/14 (36)</option>
+<option value="http://mad-yet.blogspot.com/2014_08_31_archive.html">08/31 - 09/07 (49)</option>
+<option value="http://mad-yet.blogspot.com/2014_08_24_archive.html">08/24 - 08/31 (50)</option>
+<option value="http://mad-yet.blogspot.com/2014_08_17_archive.html">08/17 - 08/24 (57)</option>
+<option value="http://mad-yet.blogspot.com/2014_08_10_archive.html">08/10 - 08/17 (56)</option>
+<option value="http://mad-yet.blogspot.com/2014_08_03_archive.html">08/03 - 08/10 (42)</option>
+<option value="http://mad-yet.blogspot.com/2014_07_27_archive.html">07/27 - 08/03 (46)</option>
+<option value="http://mad-yet.blogspot.com/2014_07_20_archive.html">07/20 - 07/27 (46)</option>
+<option value="http://mad-yet.blogspot.com/2014_07_13_archive.html">07/13 - 07/20 (36)</option>
+<option value="http://mad-yet.blogspot.com/2014_07_06_archive.html">07/06 - 07/13 (57)</option>
+<option value="http://mad-yet.blogspot.com/2014_06_29_archive.html">06/29 - 07/06 (49)</option>
+<option value="http://mad-yet.blogspot.com/2014_06_22_archive.html">06/22 - 06/29 (79)</option>
+<option value="http://mad-yet.blogspot.com/2014_06_15_archive.html">06/15 - 06/22 (61)</option>
+<option value="http://mad-yet.blogspot.com/2014_06_08_archive.html">06/08 - 06/15 (55)</option>
+<option value="http://mad-yet.blogspot.com/2014_06_01_archive.html">06/01 - 06/08 (68)</option>
+<option value="http://mad-yet.blogspot.com/2014_05_25_archive.html">05/25 - 06/01 (47)</option>
+<option value="http://mad-yet.blogspot.com/2014_05_18_archive.html">05/18 - 05/25 (35)</option>
+<option value="http://mad-yet.blogspot.com/2014_05_11_archive.html">05/11 - 05/18 (79)</option>
+<option value="http://mad-yet.blogspot.com/2014_05_04_archive.html">05/04 - 05/11 (91)</option>
+<option value="http://mad-yet.blogspot.com/2014_04_27_archive.html">04/27 - 05/04 (81)</option>
+<option value="http://mad-yet.blogspot.com/2014_04_20_archive.html">04/20 - 04/27 (77)</option>
+<option value="http://mad-yet.blogspot.com/2014_04_13_archive.html">04/13 - 04/20 (70)</option>
+<option value="http://mad-yet.blogspot.com/2014_04_06_archive.html">04/06 - 04/13 (93)</option>
+<option value="http://mad-yet.blogspot.com/2014_03_30_archive.html">03/30 - 04/06 (91)</option>
+<option value="http://mad-yet.blogspot.com/2014_03_23_archive.html">03/23 - 03/30 (74)</option>
+<option value="http://mad-yet.blogspot.com/2014_03_16_archive.html">03/16 - 03/23 (82)</option>
+<option value="http://mad-yet.blogspot.com/2014_03_09_archive.html">03/09 - 03/16 (65)</option>
+<option value="http://mad-yet.blogspot.com/2014_03_02_archive.html">03/02 - 03/09 (64)</option>
+<option value="http://mad-yet.blogspot.com/2014_02_23_archive.html">02/23 - 03/02 (88)</option>
+<option value="http://mad-yet.blogspot.com/2014_02_16_archive.html">02/16 - 02/23 (106)</option>
+<option value="http://mad-yet.blogspot.com/2014_02_09_archive.html">02/09 - 02/16 (94)</option>
+<option value="http://mad-yet.blogspot.com/2014_02_02_archive.html">02/02 - 02/09 (147)</option>
+<option value="http://mad-yet.blogspot.com/2014_01_26_archive.html">01/26 - 02/02 (183)</option>
+<option value="http://mad-yet.blogspot.com/2014_01_19_archive.html">01/19 - 01/26 (166)</option>
+<option value="http://mad-yet.blogspot.com/2014_01_12_archive.html">01/12 - 01/19 (225)</option>
+<option value="http://mad-yet.blogspot.com/2014_01_05_archive.html">01/05 - 01/12 (171)</option>
+<option value="http://mad-yet.blogspot.com/2013_12_29_archive.html">12/29 - 01/05 (104)</option>
+<option value="http://mad-yet.blogspot.com/2013_12_22_archive.html">12/22 - 12/29 (65)</option>
+<option value="http://mad-yet.blogspot.com/2013_12_15_archive.html">12/15 - 12/22 (116)</option>
+<option value="http://mad-yet.blogspot.com/2013_12_08_archive.html">12/08 - 12/15 (96)</option>
+<option value="http://mad-yet.blogspot.com/2013_12_01_archive.html">12/01 - 12/08 (106)</option>
+<option value="http://mad-yet.blogspot.com/2013_11_24_archive.html">11/24 - 12/01 (79)</option>
+<option value="http://mad-yet.blogspot.com/2013_11_17_archive.html">11/17 - 11/24 (123)</option>
+<option value="http://mad-yet.blogspot.com/2013_11_10_archive.html">11/10 - 11/17 (114)</option>
+<option value="http://mad-yet.blogspot.com/2013_11_03_archive.html">11/03 - 11/10 (120)</option>
+<option value="http://mad-yet.blogspot.com/2013_10_27_archive.html">10/27 - 11/03 (119)</option>
+<option value="http://mad-yet.blogspot.com/2013_10_20_archive.html">10/20 - 10/27 (129)</option>
+<option value="http://mad-yet.blogspot.com/2013_10_13_archive.html">10/13 - 10/20 (101)</option>
+<option value="http://mad-yet.blogspot.com/2013_10_06_archive.html">10/06 - 10/13 (104)</option>
+<option value="http://mad-yet.blogspot.com/2013_09_29_archive.html">09/29 - 10/06 (166)</option>
+<option value="http://mad-yet.blogspot.com/2013_09_22_archive.html">09/22 - 09/29 (121)</option>
+<option value="http://mad-yet.blogspot.com/2013_09_15_archive.html">09/15 - 09/22 (141)</option>
+<option value="http://mad-yet.blogspot.com/2013_09_08_archive.html">09/08 - 09/15 (190)</option>
+<option value="http://mad-yet.blogspot.com/2013_09_01_archive.html">09/01 - 09/08 (164)</option>
+<option value="http://mad-yet.blogspot.com/2013_08_25_archive.html">08/25 - 09/01 (245)</option>
+<option value="http://mad-yet.blogspot.com/2013_08_18_archive.html">08/18 - 08/25 (248)</option>
+<option value="http://mad-yet.blogspot.com/2013_08_11_archive.html">08/11 - 08/18 (179)</option>
+<option value="http://mad-yet.blogspot.com/2013_08_04_archive.html">08/04 - 08/11 (177)</option>
+<option value="http://mad-yet.blogspot.com/2013_07_28_archive.html">07/28 - 08/04 (27)</option>
+<option value="http://mad-yet.blogspot.com/2013_07_07_archive.html">07/07 - 07/14 (1)</option>
+<option value="http://mad-yet.blogspot.com/2013_05_12_archive.html">05/12 - 05/19 (2)</option>
+<option value="http://mad-yet.blogspot.com/2013_04_28_archive.html">04/28 - 05/05 (1)</option>
+<option value="http://mad-yet.blogspot.com/2013_04_07_archive.html">04/07 - 04/14 (2)</option>
+<option value="http://mad-yet.blogspot.com/2013_03_31_archive.html">03/31 - 04/07 (1)</option>
+<option value="http://mad-yet.blogspot.com/2013_03_03_archive.html">03/03 - 03/10 (2)</option>
+<option value="http://mad-yet.blogspot.com/2013_02_17_archive.html">02/17 - 02/24 (2)</option>
+<option value="http://mad-yet.blogspot.com/2013_02_03_archive.html">02/03 - 02/10 (2)</option>
+<option value="http://mad-yet.blogspot.com/2013_01_27_archive.html">01/27 - 02/03 (2)</option>
+<option value="http://mad-yet.blogspot.com/2013_01_20_archive.html">01/20 - 01/27 (5)</option>
+<option value="http://mad-yet.blogspot.com/2013_01_06_archive.html">01/06 - 01/13 (3)</option>
+<option value="http://mad-yet.blogspot.com/2012_12_30_archive.html">12/30 - 01/06 (4)</option>
+</select>
+</div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' rel="nofollow" target="configBlogArchive1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget HTML" data-version="1" id="HTML8">
+<h2 class="title">PayPal</h2>
+<div class="widget-content">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="3E7SZNBNHHMA2"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+</form>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML8"));' rel="nofollow" target="configHTML8" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget PopularPosts" data-version="1" id="PopularPosts1">
+<h2>Top Stories This Week</h2>
+<div class="widget-content popular-posts">
+<ul>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/us-steel-to-idle-mills-lay-off-800.html">U.S. Steel to idle mills, lay off 800</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/charleston-gazette-pushes-gun-control.html">Charleston Gazette Pushes Gun Control</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/judicial-watch-documents-reveal-us-army.html">Judicial Watch: Documents Reveal US Army Indoctrinated Soldiers on Dangers of ‘White Privilege’</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/senators-close-to-finishing-encryption.html">Senators close to finishing encryption penalties legislation</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/01/hsbc-online-banking-failure-what-you.html">HSBC online banking failure: What you need to know</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/pentagon-report-justifies-deployment-of.html">Pentagon report justifies deployment of military spy drones over the U.S.</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/first-bank-failure-of-year-north.html">First Bank Failure of the Year - North Milwaukee State Bank</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/this-is-bernie-sanders-supporter-that.html">This is the Bernie Sanders supporter that tried to attack Trump in Ohio...</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/ag-lynch-testifies-justice-dept-has.html">AG Lynch Testifies: Justice Dept. Has ‘Discussed’ Civil Legal Action Against Climate Change Deniers</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/01/facebook-moves-to-ban-private-gun-sales.html">Facebook Moves to Ban Private Gun Sales on Its Site and Instagram</a>
+</li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' rel="nofollow" target="configPopularPosts1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget Subscribe" data-version="1" id="Subscribe1">
+<div style="white-space:nowrap">
+<h2 class="title">Subscribe</h2>
+<div class="widget-content">
+<div class="subscribe-wrapper subscribe-type-POST">
+<div class="subscribe expanded subscribe-type-POST" id="SW_READER_LIST_Subscribe1POST" style="display:none;">
+<div class="top">
+<span class="inner" onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img class="subscribe-dropdown-arrow" src="https://resources.blogblog.com/img/widgets/arrow_dropdown.gif"/>
+<img align="absmiddle" alt="" border="0" class="feed-icon" src="https://resources.blogblog.com/img/icon_feed12.png"/>
+Posts
+</span>
+<div class="feed-reader-links">
+<a class="feed-reader-link" href="https://www.netvibes.com/subscribe.php?url=http%3A%2F%2Fmad-yet.blogspot.com%2Ffeeds%2Fposts%2Fdefault" target="_blank">
+<img src="https://resources.blogblog.com/img/widgets/subscribe-netvibes.png"/>
+</a>
+<a class="feed-reader-link" href="https://add.my.yahoo.com/content?url=http%3A%2F%2Fmad-yet.blogspot.com%2Ffeeds%2Fposts%2Fdefault" target="_blank">
+<img src="https://resources.blogblog.com/img/widgets/subscribe-yahoo.png"/>
+</a>
+<a class="feed-reader-link" href="http://mad-yet.blogspot.com/feeds/posts/default" target="_blank">
+<img align="absmiddle" class="feed-icon" src="https://resources.blogblog.com/img/icon_feed12.png"/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class="bottom"></div>
+</div>
+<div class="subscribe" id="SW_READER_LIST_CLOSED_Subscribe1POST" onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<div class="top">
+<span class="inner">
+<img class="subscribe-dropdown-arrow" src="https://resources.blogblog.com/img/widgets/arrow_dropdown.gif"/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1POST"));'>
+<img align="absmiddle" alt="" border="0" class="feed-icon" src="https://resources.blogblog.com/img/icon_feed12.png"/>
+Posts
+</span>
+</span>
+</div>
+<div class="bottom"></div>
+</div>
+</div>
+<div class="subscribe-wrapper subscribe-type-COMMENT">
+<div class="subscribe expanded subscribe-type-COMMENT" id="SW_READER_LIST_Subscribe1COMMENT" style="display:none;">
+<div class="top">
+<span class="inner" onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<img class="subscribe-dropdown-arrow" src="https://resources.blogblog.com/img/widgets/arrow_dropdown.gif"/>
+<img align="absmiddle" alt="" border="0" class="feed-icon" src="https://resources.blogblog.com/img/icon_feed12.png"/>
+All Comments
+</span>
+<div class="feed-reader-links">
+<a class="feed-reader-link" href="https://www.netvibes.com/subscribe.php?url=http%3A%2F%2Fmad-yet.blogspot.com%2Ffeeds%2Fcomments%2Fdefault" target="_blank">
+<img src="https://resources.blogblog.com/img/widgets/subscribe-netvibes.png"/>
+</a>
+<a class="feed-reader-link" href="https://add.my.yahoo.com/content?url=http%3A%2F%2Fmad-yet.blogspot.com%2Ffeeds%2Fcomments%2Fdefault" target="_blank">
+<img src="https://resources.blogblog.com/img/widgets/subscribe-yahoo.png"/>
+</a>
+<a class="feed-reader-link" href="http://mad-yet.blogspot.com/feeds/comments/default" target="_blank">
+<img align="absmiddle" class="feed-icon" src="https://resources.blogblog.com/img/icon_feed12.png"/>
+                  Atom
+                </a>
+</div>
+</div>
+<div class="bottom"></div>
+</div>
+<div class="subscribe" id="SW_READER_LIST_CLOSED_Subscribe1COMMENT" onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<div class="top">
+<span class="inner">
+<img class="subscribe-dropdown-arrow" src="https://resources.blogblog.com/img/widgets/arrow_dropdown.gif"/>
+<span onclick='return(_SW_toggleReaderList(event, "Subscribe1COMMENT"));'>
+<img align="absmiddle" alt="" border="0" class="feed-icon" src="https://resources.blogblog.com/img/icon_feed12.png"/>
+All Comments
+</span>
+</span>
+</div>
+<div class="bottom"></div>
+</div>
+</div>
+<div style="clear:both"></div>
+</div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("Subscribe1"));' rel="nofollow" target="configSubscribe1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget PopularPosts" data-version="1" id="PopularPosts2">
+<h2>Top Stories This Month</h2>
+<div class="widget-content popular-posts">
+<ul>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/us-steel-to-idle-mills-lay-off-800.html">U.S. Steel to idle mills, lay off 800</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/charleston-gazette-pushes-gun-control.html">Charleston Gazette Pushes Gun Control</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/senators-close-to-finishing-encryption.html">Senators close to finishing encryption penalties legislation</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/judicial-watch-documents-reveal-us-army.html">Judicial Watch: Documents Reveal US Army Indoctrinated Soldiers on Dangers of ‘White Privilege’</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/pentagon-report-justifies-deployment-of.html">Pentagon report justifies deployment of military spy drones over the U.S.</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/01/hsbc-online-banking-failure-what-you.html">HSBC online banking failure: What you need to know</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/ag-lynch-testifies-justice-dept-has.html">AG Lynch Testifies: Justice Dept. Has ‘Discussed’ Civil Legal Action Against Climate Change Deniers</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/this-is-bernie-sanders-supporter-that.html">This is the Bernie Sanders supporter that tried to attack Trump in Ohio...</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/03/first-bank-failure-of-year-north.html">First Bank Failure of the Year - North Milwaukee State Bank</a>
+</li>
+<li>
+<a href="http://mad-yet.blogspot.com/2016/01/facebook-moves-to-ban-private-gun-sales.html">Facebook Moves to Ban Private Gun Sales on Its Site and Instagram</a>
+</li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts2"));' rel="nofollow" target="configPopularPosts2" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget FollowByEmail" data-version="1" id="FollowByEmail1">
+<h2 class="title">Follow by Email</h2>
+<div class="widget-content">
+<div class="follow-by-email-inner">
+<form action="https://feedburner.google.com/fb/a/mailverify" method="post" onsubmit='window.open("https://feedburner.google.com/fb/a/mailverify?uri=madyet", "popupwindow", "scrollbars=yes,width=550,height=520"); return true' target="popupwindow">
+<table width="100%">
+<tr>
+<td>
+<input class="follow-by-email-address" name="email" placeholder="Email address..." type="text"/>
+</td>
+<td width="64px">
+<input class="follow-by-email-submit" type="submit" value="Submit"/>
+</td>
+</tr>
+</table>
+<input name="uri" type="hidden" value="madyet"/>
+<input name="loc" type="hidden" value="en_US"/>
+</form>
+</div>
+</div>
+<span class="item-control blog-admin">
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("FollowByEmail1"));' rel="nofollow" target="configFollowByEmail1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</span>
+</div><div class="widget AdSense" data-version="1" id="AdSense5">
+<div class="widget-content">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6669728218606455";
+google_ad_host = "ca-host-pub-1556223355139109";
+google_ad_host_channel = "L0001";
+/* mad-yet_sidebar-right-1_AdSense5_200x200_as */
+google_ad_slot = "8209924965";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense5"));' rel="nofollow" target="configAdSense5" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget HTML" data-version="1" id="HTML4">
+<h2 class="title">Important Links</h2>
+<div class="widget-content">
+<a href="http://www.senate.gov/general/contact_information/senators_cfm.cfm?State=ME">Find Your Senator</a><div><a href="http://www.house.gov/representatives/find/">Find your Congressman</a><br/></div><div><a href="http://gunowners.org/">Gun Owners of America</a><br/><a href="http://home.nra.org/#/nraorg" style="font-size: 100%;">NRA</a></div><div><a href="http://cspoa.org/" style="font-size: 100%;">CSPOA</a></div><div><a href="http://www.nationalgunrights.org/">NAGR</a><div><a href="http://oathkeepers.org/oath/">Oathkeepers</a></div></div><div><a href="https://www.eff.org/">Electronic Freedom Foundation</a></div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' rel="nofollow" target="configHTML4" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget HTML" data-version="1" id="HTML6">
+<h2 class="title">Do Your Research</h2>
+<div class="widget-content">
+<a href="http://dictionary.com/">Dictionary.com<br/></a><div><a href="http://factcheck.org/" style="font-size: 100%;">FactCheck.org</a></div><div><div><a href="http://www.opensecrets.org/" style="font-size: 100%;">OpenSecrets.org</a></div><div><a href="http://www.politifact.com/">PolitiFact.com</a></div><div><a href="http://snopes.com/" style="font-size: 100%;">Snopes.com</a></div><div><a href="http://www.truthorfiction.com/">TruthorFiction.com</a></div><div><a href="http://wikipedia.com/" style="font-size: 100%;">Wikipedia.com</a></div></div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' rel="nofollow" target="configHTML6" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget HTML" data-version="1" id="HTML7">
+<h2 class="title">News Sites</h2>
+<div class="widget-content">
+<div><a href="http://abcnews.go.com/">ABC News</a></div><div><a href="http://www.americanbanker.com/">American Banker</a></div><div><a href="http://www.americanthinker.com/">American Thinker</a></div><div><a href="http://www.bbc.co.uk/news/">BBC</a></div><div><a href="http://www.bizpacreview.com/" style="font-size: 100%;">BizPacReview</a></div><div><a href="http://www.breitbart.com/" style="font-size: 100%;">Breitbart News</a></div><div><a href="http://www.businessinsider.com/">BusinessInsider</a></div><div><a href="http://www.businessweek.com/">BusinessWeek</a></div><div><a href="http://www.buzzfeed.com/">BuzzFeed</a></div><div><a href="http://www.cbsnews.com/">CBS News</a></div><div><a href="http://www.chicagotribune.com/">Chicago Tribune</a></div><div><a href="http://www.csmonitor.com/">Christian Science Monitor</a></div><div><a href="http://www.cnbc.com/">CNBC</a></div><div><a href="http://www.cnsnews.com/">CNS News</a></div><div><a href="http://www.cnet.com/" style="font-size: 100%;">CNET</a></div><div><a href="http://www.cnn.com/">CNN</a></div><div><a href="http://crimefeed.com/">CrimeFeed</a></div><div><a href="http://drudgereport.com/" style="font-size: 100%;">Drudge Report</a></div><div><a href="http://www.ft.com/home/us" style="font-size: 100%;">Financial Times</a></div><div><a href="http://www.forbes.com/">Forbes</a></div><div><a href="http://money.cnn.com/magazines/fortune/">Fortune</a></div><div><a href="http://www.foxnews.com/">Fox News</a></div><div><a href="http://gizmodo.com/" style="font-size: 100%;">Gizmodo</a></div><div><a href="http://www.chron.com/">Houston Chronicle</a></div><div><a href="http://www.informationweek.com/">InformationWeek</a></div><div><a href="http://www.infowars.com/">InfoWars</a></div><div><a href="http://www.kansascity.com/">Kansas City Star</a></div><div><a href="http://www.latimes.com/">L.A. Times</a></div><div><a href="http://www.mrctv.org/">MRCTV</a></div><div><a href="http://nationalreview.com/">National Review</a></div><div><a href="http://www.nbcnews.com/">NBC News</a></div><div><a href="http://newsbusters.org/" style="font-size: 100%;">Newsbusters</a></div><div><a href="http://www.newsmax.com/" style="font-size: 100%;">NewsMax</a></div><div><a href="http://www.popsci.com/">Popular Science</a></div><div><a href="http://www.redflagnews.com/">Red Flag News</a></div><div><a href="http://www.reuters.com/">Reuters</a></div><div><a href="http://rt.com/">RT</a></div><div><a href="http://techcrunch.com/">Tech Crunch</a></div><div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.theblaze.com/" style="font-size: 100%;">The Blaze</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://dailycaller.com/">The Daily Caller</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.theguardian.com/us">The Guardian</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://townhall.com/">TownHall</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.usatoday.com/">USA Today</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://online.wsj.com/home-page">Wall Street Journal</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://newsbusters.org/" style="font-size: 100%;">Washington Free Beacon</a></div></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.washingtonpost.com/">Washington Post</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.washingtontimes.com/">Washington Times</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.weeklystandard.com/">Weekly Standard</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.wired.com/">Wired</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.wnd.com/">WorldNetDaily</a></div><div style="font-family: Georgia, serif; font-size: 100%; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;"><a href="http://www.zerohedge.com/">Zerohedge</a></div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML7"));' rel="nofollow" target="configHTML7" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget HTML" data-version="1" id="HTML12">
+<h2 class="title">Interesting Personalities &amp; Blogs</h2>
+<div class="widget-content">
+<div><a href="http://www.activistpost.com/">ActivistPost</a></div><a href="http://www.brotherjohnf.com/">BrotherJohnF</a><div><a href="http://www.bugsweeps.com/">BugSweeps</a></div><div><a href="http://capitolcityproject.com/">Capitol City Project</a><br/><div><a href="http://www.corbettreport.com/">Corbett Report</a><br/><div><a href="http://www.daveramsey.com/home/">Dave Ramsey</a></div><div><a href="http://dollarcollapse.com/">DollarCollapse</a></div><div><a href="https://www.eff.org/">Electronic Frontier Foundation</a></div><div><a href="http://www.fromthetrenchesworldreport.com/">FromTheTrecnchesWorldReport</a></div><div><a href="http://investmentwatchblog.com/">InvestmentWatchBlog</a></div><div><a href="http://www.joshtolley.com/">Josh Tolley</a></div><div><a href="http://www.kirbyanalytics.com/">Kirby Analytics</a></div><div><a href="http://www.youtube.com/user/MAINEPREPPER" style="font-size: 100%;">MainePrepper</a></div><div><a href="http://pjmedia.com/">PJ Media</a><div><a href="http://www.prepperpodcast.com/">Prepper Podcast</a></div><div><a href="http://prepperrecon.com/" style="font-size: 100%;">Prepper Recon</a></div><div><a href="http://problembanklist.com/">ProblemBankList</a></div><div><a href="http://www.redflagnews.com/">RedFlagNews</a></div><div><a href="http://www.redicecreations.com/">RedIceCreations</a></div><div><a href="http://redlightrobber.com/" style="font-size: 100%;">Red Light Robber</a></div><div><a href="http://www.youtube.com/user/RURDY4ITNEWS">RURDY4ITNEWS</a></div><div><a href="http://www.rushlimbaugh.com/" style="font-size: 100%;">Rush Limbaugh</a></div><div><a href="http://www.hannity.com/" style="font-size: 100%;">Sean Hannity</a></div><div><a href="http://sgtreport.com/" style="font-size: 100%;">SGT Report</a></div><div><a href="http://www.shadowstats.com/" style="font-size: 100%;">ShadowStats</a></div><div><a href="http://www.shtfplan.com/" style="font-size: 100%;">SHTF Blog</a></div><div><a href="http://www.silverdoctors.com/">SilverDoctors</a></div><div><a href="http://srsroccoreport.com/" style="font-size: 100%;">SRSRocco Report</a></div><div><a href="http://blog.tenthamendmentcenter.com/">Tenth Ammendment Center</a></div><div><a href="http://www.corbettreport.com/">The Corbett Report</a></div><div><a href="http://www.thedailysheeple.com/">The Daily Sheeple</a></div><div><a href="http://www.thefederalistpapers.org/">The Federalist Papers</a></div><div><a href="http://thelastgreatstand.com/lgs/">The Last Great Stand</a></div><div><a href="http://thewealthwatchman.com/">The Wealth Watchman</a></div><div><a href="http://www.txcscopereview.com/">TXCscopeReview</a></div><div><a href="http://usawatchdog.com/" style="font-size: 100%;">USAWatchdog</a></div></div><div><a href="http://voicetoamerica.com/">Voice To America</a></div></div></div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML12"));' rel="nofollow" target="configHTML12" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget AdSense" data-version="1" id="AdSense1">
+<div class="widget-content">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-6669728218606455";
+google_ad_host = "ca-host-pub-1556223355139109";
+google_ad_host_channel = "L0001";
+/* mad-yet_sidebar-right-1_AdSense1_160x600_as */
+google_ad_slot = "2661088965";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("AdSense1"));' rel="nofollow" target="configAdSense1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget HTML" data-version="1" id="HTML1">
+<h2 class="title">Twitter Feed</h2>
+<div class="widget-content">
+<a class="twitter-timeline" data-widget-id="285710995253493760" href="https://twitter.com/Mad_Yet">Tweets by @Mad_Yet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' rel="nofollow" target="configHTML1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget HTML" data-version="1" id="HTML5">
+<h2 class="title">Noted Sites</h2>
+<div class="widget-content">
+<a href="http://sgtreport.com/"><img src="https://lh3.googleusercontent.com/-4E7s-mmD9vs/UhQPC8Yq8nI/AAAAAAAABTs/K3wboN1npDk/w179-h100-no/photo.jpg"/></a>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' rel="nofollow" target="configHTML5" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div><div class="widget HTML" data-version="1" id="HTML9">
+<h2 class="title">NRA</h2>
+<div class="widget-content">
+<a href="http://membership.nrahq.org/"><img src="https://lh3.googleusercontent.com/-_d8085d8Zcw/UhQOYgTEwxI/AAAAAAAABTk/Ye4G2F9Qp1U/w166-h200-no/photo.jpg"/></a>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML9"));' rel="nofollow" target="configHTML9" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style="clear: both"></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class="main-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<footer>
+<div class="footer-outer">
+<div class="footer-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left footer-fauxborder-left">
+<div class="fauxborder-right footer-fauxborder-right"></div>
+<div class="region-inner footer-inner">
+<div class="foot section" id="footer-1"><div class="widget HTML" data-version="1" id="HTML2">
+<div class="widget-content">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37368714-1']);
+  _gaq.push(['_setDomainName', 'blogspot.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' rel="nofollow" target="configHTML2" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+<table border="0" cellpadding="0" cellspacing="0" class="section-columns columns-3">
+<tbody>
+<tr>
+<td class="first columns-cell">
+<div class="foot section" id="footer-2-1"><div class="widget Stats" data-version="1" id="Stats1">
+<h2>Hit Counter</h2>
+<div class="widget-content">
+<div id="Stats1_content" style="display: none;">
+<span class="counter-wrapper graph-counter-wrapper" id="Stats1_totalCount">
+</span>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("Stats1"));' rel="nofollow" target="configStats1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div>
+</div></div>
+</td>
+<td class="columns-cell">
+<div class="foot section" id="footer-2-2"><div class="widget HTML" data-version="1" id="HTML10">
+<div class="widget-content">
+<div style="text-align: center;"><a href="http://mad-yet.blogspot.com"><img src="https://lh5.googleusercontent.com/-pYk1uSDsHPQ/UhQ9YHyeuNI/AAAAAAAABWM/zu9LY6Xv5Nc/w280-h47-no/Mad+Yet+Banner+280px.png" style="font-size: 100%; cursor: move;"/></a></div><div style="text-align: center;"><div><a href="http://mad-yet.blogspot.com/" style="text-align: left;"></a><a href="http://mad-yet.blogspot.com/"><img src="https://lh5.googleusercontent.com/-s7Xhv8roVTo/Ugw_CK-4hfI/AAAAAAAABRI/wi07leKV9o8/s51-no/Blogger+50px.png" style="cursor: move;"/></a> <a href="https://www.facebook.com/madyet?ref=hl"><img src="https://lh6.googleusercontent.com/-FPjwvXmDcRw/Ugw_CEe5pHI/AAAAAAAABR0/OCQC8zjrOwY/s51-no/Facebook+50px.png" style="cursor: move;"/></a> <a href="https://twitter.com/Mad_Yet"><img src="https://lh4.googleusercontent.com/-4NhyLkValfo/Ugw_Dl9V_yI/AAAAAAAABRw/HrBdzvlczRs/s51-no/Twitter+50px.png" style="cursor: move;"/></a> <a href="https://plus.google.com/b/118096327522389977994/118096327522389977994/posts"><img src="https://lh3.googleusercontent.com/-skDDJ-lkpzI/Ugw_CnDI07I/AAAAAAAABRk/ukZfeKLPKFE/s51-no/Google%252B+50px.png" style="cursor: move;"/></a> <a href="http://feeds.feedburner.com/madyet"><img src="https://lh3.googleusercontent.com/-8ZuKJQULMN8/Ugw_DCs-s9I/AAAAAAAABRg/8IQM5O7y618/s51-no/RSS+50px.png" style="cursor: move;"/></a></div></div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML10"));' rel="nofollow" target="configHTML10" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</td>
+<td class="columns-cell">
+<div class="foot section" id="footer-2-3"><div class="widget HTML" data-version="1" id="HTML11">
+<div class="widget-content">
+<a href="http://mad-yet.blogspot.com/p/terms-of-use.html">Terms of Use</a> | <a href="http://mad-yet.blogspot.com/p/privacy-policy.html">Privacy Policy</a> | <a href="mailto:info.madyet@gmail.com?subject=@Mad_Yet?:%20Website%20Question">Contact</a>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML11"));' rel="nofollow" target="configHTML11" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class="foot section" id="footer-3"><div class="widget Attribution" data-version="1" id="Attribution1">
+<div class="widget-content" style="text-align: center;">
+@Mad_Yet? 2013-2014. Powered by <a href="https://www.blogger.com" target="_blank">Blogger</a>.
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' rel="nofollow" target="configAttribution1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</div>
+</div>
+<div class="footer-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class="content-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script src="https://www.blogger.com/static/v1/widgets/2080820689-widgets.js" type="text/javascript"></script>
+<script type="text/javascript">
+window['__wavt'] = 'AOuZoY6EEden33dEH0h4mys2j_50kHwvWQ:1615961260005';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7093131452073881563','//mad-yet.blogspot.com/','7093131452073881563');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7093131452073881563', 'title': '@Mad_Yet?', 'url': 'http://mad-yet.blogspot.com/', 'canonicalUrl': 'http://mad-yet.blogspot.com/', 'homepageUrl': 'http://mad-yet.blogspot.com/', 'searchUrl': 'http://mad-yet.blogspot.com/search', 'canonicalHomepageUrl': 'http://mad-yet.blogspot.com/', 'blogspotFaviconUrl': 'http://mad-yet.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-37368714-1', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22@Mad_Yet? - Atom\x22 href\x3d\x22http://mad-yet.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22@Mad_Yet? - RSS\x22 href\x3d\x22http://mad-yet.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22@Mad_Yet? - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7093131452073881563/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-6669728218606455', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/1277698886-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/a30fc9a250ee66b9', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': '@Mad_Yet?', 'metaDescription': 'Fed up with Liberals, Corruption, Dirty Politicians, Bankers, Ponzi Schemes \x26 BigBrother invading your Privacy? We Are Too! Help us spread Liberty!'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': '@Mad_Yet?', 'description': 'Fed up with Liberals, Corruption, Dirty Politicians, Bankers, Ponzi Schemes \x26 BigBrother invading your Privacy? We Are Too! Help us spread Liberty!', 'url': 'http://mad-yet.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML14', 'main', document.getElementById('HTML14'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense2', 'main', document.getElementById('AdSense2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1933366796-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/1050234869-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'sidebar-right-1', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'sidebar-right-1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar-right-1', document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar-right-1', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_SubscribeView', new _WidgetInfo('Subscribe1', 'sidebar-right-1', document.getElementById('Subscribe1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts2', 'sidebar-right-1', document.getElementById('PopularPosts2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'sidebar-right-1', document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense5', 'sidebar-right-1', document.getElementById('AdSense5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar-right-1', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar-right-1', document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar-right-1', document.getElementById('HTML7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML12', 'sidebar-right-1', document.getElementById('HTML12'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AdSenseView', new _WidgetInfo('AdSense1', 'sidebar-right-1', document.getElementById('AdSense1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar-right-1', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar-right-1', document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML9', 'sidebar-right-1', document.getElementById('HTML9'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'footer-1', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'footer-2-1', document.getElementById('Stats1'), {'title': 'Hit Counter', 'showGraphicalCounter': true, 'showAnimatedCounter': true, 'showSparkline': false, 'statsUrl': '//mad-yet.blogspot.com/b/stats?style\x3dBLACK_TRANSPARENT\x26timeRange\x3dALL_TIME\x26token\x3dAPq4FmDjfDGgV6FzSeWK_-ChZ1a5amdSQgVLT0_IgCoz9FE_1t4BbvCf5EAyLosX9iEiih6I9RL1BUrR0GMpEmNeq2t3n32LQQ'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'footer-2-2', document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'footer-2-3', document.getElementById('HTML11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>

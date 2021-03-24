@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en-US"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Wolf Street | The stories behind business, finance, and money</title>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://wolfstreet.com/xmlrpc.php" rel="pingback"/>
+<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<meta content="max-image-preview:large" name="robots">
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//netdna.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://wolfstreet.com/feed/" rel="alternate" title="Wolf Street » Feed" type="application/rss+xml"/>
+<link href="https://wolfstreet.com/comments/feed/" rel="alternate" title="Wolf Street » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wolfstreet.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=05325e190a914cac36743a0c31bc8404"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://wolfstreet.com/wp-includes/css/dist/block-library/style.min.css?ver=05325e190a914cac36743a0c31bc8404" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="https://wolfstreet.com/wp-includes/css/dashicons.min.css?ver=05325e190a914cac36743a0c31bc8404" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://wolfstreet.com/wp-content/plugins/to-top/public/css/to-top-public.css?ver=2.2.1" id="to-top-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Droid+Sans|PT+Sans|Quattrocento|Raleway:100|Lato:900|Lato:300|" id="google_fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://wolfstreet.com/wp-content/themes/magazine-premium/style.css?ver=05325e190a914cac36743a0c31bc8404" id="theme_stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" id="font_awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://wolfstreet.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.5" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://wolfstreet.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://wolfstreet.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="to-top-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var to_top_options = {"scroll_offset":"500","icon_opacity":"50","style":"icon","icon_type":"dashicons-arrow-up-alt2","icon_color":"#ffffff","icon_bg_color":"#81d742","icon_size":"32","border_radius":"5","image":"https:\/\/wolfstreet.com\/wp-content\/plugins\/to-top\/admin\/images\/default.png","image_width":"65","image_alt":"","location":"bottom-right","margin_x":"20","margin_y":"20","show_on_admin":"1","enable_autohide":"0","autohide_time":"2","enable_hide_small_device":"","small_device_max_width":"640","reset":"0"};
+/* ]]> */
+</script>
+<script id="to-top-js" src="https://wolfstreet.com/wp-content/plugins/to-top/public/js/to-top-public.js?ver=2.2.1" type="text/javascript"></script>
+<link href="https://wolfstreet.com/wp-json/" rel="https://api.w.org/"/><link href="https://wolfstreet.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://wolfstreet.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<style>
+body { color: #000000; font-family: Droid Sans, sans-serif; font-weight: normal; font-size: 16px; }
+#page { background-color: #ffffff; }
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #0b5456; font-family: PT Sans, sans-serif; font-weight: normal }
+#site-title a,#site-description{}
+#site-title a { font-family: Quattrocento, serif; font-weight: normal; font-size: 48px; }
+#site-description { font-family: Raleway, cursive; font-weight: normal; font-size: 16px; }
+#site-navigation, #site-sub-navigation { font-family: Lato, sans-serif;  font-weight: 900; }
+#site-navigation { font-size: 16px; background-color: #4e6b5b; }
+#site-navigation li:hover, #site-navigation ul ul { background-color: #9e9e9e; }
+#site-navigation li a { color: #ffffff; }
+#site-navigation li a:hover { color: #eeeeee; }
+#site-sub-navigation { font-size: 12px; }
+a, .entry-meta a, .format-link .entry-title a { color: #0009c4; }
+a:hover, .entry-meta a:hover, .format-link .entry-title a:hover { color: #222222; }
+.more-link, #posts-pagination a, input[type="submit"], .comment-reply-link, .more-link:hover, #posts-pagination a:hover, input[type="submit"]:hover, .comment-reply-link:hover { color: #ffffff; background-color: #444444; }
+.widget { background-color: #ffffff; }
+.single-post .entry-title, .single-post .entry-title a { font-family: Lato, sans-serif;  font-weight: 900; font-size: 25px; }
+.entry-title, .entry-title a, .single-post .mp_featured_posts .entry-title, .single-post .mp_featured_posts .entry-title a { font-family: Lato, sans-serif;  font-weight: 900; font-size: 19px; }
+.entry-meta, .entry-meta a { font-family: Lato;  font-weight: 300; font-size: 14px; }
+.post-category, .post-category a, .post-format, .post-format a { font-family: Lato;  font-weight: 300; font-size: 12px; }
+</style>
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<!-- Jetpack Open Graph Tags -->
+<meta content="website" property="og:type">
+<meta content="Wolf Street" property="og:title"/>
+<meta content="The stories behind business, finance, and money" property="og:description"/>
+<meta content="https://wolfstreet.com/" property="og:url"/>
+<meta content="Wolf Street" property="og:site_name"/>
+<meta content="https://s0.wp.com/i/blank.jpg" property="og:image"/>
+<meta content="en_US" property="og:locale"/>
+<!-- End Jetpack Open Graph Tags -->
+<!-- Custom CSS -->
+<style>
+/*
+Welcome to the Custom CSS editor!
+
+Please add all your custom CSS here and avoid modifying the core theme files, since that'll make upgrading the theme problematic. Your custom CSS will be loaded after the theme's stylesheets, which means that your rules will take precedence. Just add your CSS here for what you want to change, you don't need to copy all the theme's style.css content.
+*/
+
+header#header {
+margin-top: 0px;
+}
+
+#featured .c12 {
+margin: 0px 0px 20px 0px; 
+}
+
+.mp_featured_posts .entry-title, .mp_featured_posts .entry-title a {
+line-height: 1.1;
+font-weight: bold;
+}
+
+.sticky,
+    .hero-unit {
+    background: #EEEEEE;
+    border: 1px solid #999;
+    padding: 10px 10px 5px;
+    border-radius: 6px;
+    text-shadow: none;
+    color: #000;  
+   
+}
+    
+
+.sticky img {
+    max-width: 50%;
+    height: auto
+}    
+     
+.sticky p {
+        margin-top: 0;
+        margin-bottom: 0;
+        display: inline;
+                }
+
+    .sticky .entry-meta,
+    .sticky .entry-meta a,
+	.sticky .entry-title,
+	.sticky .entry-title a,
+	.sticky h1,
+	.sticky h2,
+	.sticky h3,
+	.sticky h4,
+	.sticky h5,
+	.sticky h6 {
+		color: #000  !important;
+        text-shadow: none;
+        
+		}
+
+.sticky .entry-meta a {
+	text-decoration: none;
+		}
+        
+    .sticky .post-category a:hover	{
+	color: #444 ;
+		}
+        
+  
+	.sticky .entry-title a:hover {
+		color: #666 !important;
+		}
+
+
+	.sticky .entry-content a {
+		color: #444444;
+		}
+        
+    .sticky .entry-content a:hover {
+        	color: #0089C4;
+	    }    
+
+
+	.sticky .entry-content {
+		border: 0 !important;
+        margin-bottom: 0;
+        line-height:  1.3; 
+		}
+
+	.sticky .entry-content pre {
+		text-shadow: none;
+		} 
+        
+   .sticky .more-link, 
+   .sticky .more-link:hover {
+        display: none;
+        background-color: #ffffff;
+        }
+
+#site-navigation li a,
+    	#site-sub-navigation li a {
+			color: #fff;
+			padding: 8px 15px;
+			display: inline-block;
+			text-shadow: none;
+			text-decoration: none;
+    	}
+
+.widget-title, .header-widget-title {
+text-align: left;
+}
+
+#site-navigation {
+    margin: 0 15px 0;
+    }
+
+.footer-widget .widget-title {
+    color: #000;
+    border-bottom: none;
+    -moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+blockquote {
+   	border-left: 0px;
+	padding-left: 36px;
+    color: #000;
+	}
+
+#posts-pagination, #posts-pagination .previous, #posts-pagination .next {
+    max-width: 48%;
+    display: none;
+}
+
+#footer {
+    border-top: 1px solid #000;
+	background: #fff;
+	text-shadow: 0px 0px 0 #000;
+	color: #000;
+	font-size: .8em;
+	}
+    
+#footer a {
+	color: #000;
+	text-decoration: none;
+	}
+
+.row {
+    margin-top: 20px
+}
+
+article.top-border header {
+    padding-top: 20px;
+}
+
+.widget-title, .header-widget-title {
+    font-weight: bold;
+}
+
+
+article.top-border header, article.top-border {
+/* padding-top: 5px; 
+width: 580px;*/
+}
+
+/*
+article.top-border header, article.top-border {
+    padding-top: 0px;
+}
+*/
+
+/*
+article.top-border header, article.top-border .post-format, article.top-border.format-quote .entry-content {
+padding-top: 10px;
+}
+*/
+
+.excerpt p {
+    line-height:  1.2;  
+    margin-top: 5px;
+/*
+   width: 100%;
+
+    margin-bottom: 3px;
+    margin-right: 0px;
+    */
+}
+
+#site-navigation li a {
+		padding: 0px 15px 4px;
+        height: 28px;
+}
+
+#site-navigation ul {
+	
+		margin: 0;
+        height: 30 px;
+}
+
+#site-navigation li {
+    padding: 0px 15px 4px;
+    height: 28px;
+}
+    
+.more-link-p {
+        clear: none;
+		margin-bottom: 0px;
+        display: none;
+}
+
+.entry-content {
+/*	width: 100%;    */
+	overflow: hidden;     
+}
+
+.entry-meta {
+    line-height: 1.2;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.widget {
+margin-bottom: 10px;
+padding: 0px 5px;
+}
+
+
+#author-info h4 {
+    color:#000;
+}
+
+.grid {
+/*    max-width: 1210px;   */
+}
+
+
+.row .row {
+/*  margin: 0 -15px 0px -20px;  */
+}
+
+.c2 {
+  /*  min-width:162px; */  
+    overflow: hidden;
+  /* padding-left: 10px; 
+    padding-right: 0px;  */  
+}
+
+/*
+.c4 {
+width: 380px;
+}
+*/
+
+/* 
+.c6 {
+width: 600px;
+}
+*/
+/*
+.c12 {
+padding-left: 15px;
+padding-right: 15px;
+width: 100%;
+}
+*/
+
+/*
+.c4 {
+
+padding-left: 0px;
+padding-right: 0px;
+}
+*/
+
+#site-description {
+margin: 0px 0 0;
+}
+#main {
+margin-top: 0px;
+}
+
+#title-wrapper {
+margin-bottom: 0px;
+}
+
+.row {
+margin-bottom: 10px;
+}
+
+#site-logo {
+padding: 6px 20px 0;
+}
+
+.header-widget.widget_search {
+margin-top: 5px;
+}
+
+.header-widget {
+padding: 10px 10px;
+}
+
+@media (min-width: 769px) {
+  #menu-primary {
+    height: 30px;
+    overflow: hidden;
+  }
+}
+
+.entry-meta {
+    line-height: 1.2;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.widget {
+margin-bottom: 10px;
+padding: 0px 5px;
+}
+
+
+#author-info h4 {
+    color:#000;
+}
+
+.grid {
+/*    max-width: 1210px;   */
+}
+
+
+.row .row {
+/*  margin: 0 -15px 0px -20px;  */
+}
+
+.c2 {
+  /*  min-width:162px; */  
+    overflow: hidden;
+  /* padding-left: 10px; 
+    padding-right: 0px;  */  
+}
+
+/*
+.c4 {
+width: 380px;
+}
+*/
+
+/* 
+.c6 {
+width: 600px;
+}
+*/
+/*
+.c12 {
+padding-left: 15px;
+padding-right: 15px;
+width: 100%;
+}
+*/
+
+/*
+.c4 {
+
+padding-left: 0px;
+padding-right: 0px;
+}
+*/
+
+#site-description {
+margin: 0px 0 0;
+}
+#main {
+margin-top: 0px;
+}
+
+#title-wrapper {
+margin-bottom: 0px;
+}
+
+.row {
+margin-bottom: 10px;
+}
+
+#site-logo {
+padding: 6px 20px 0;
+}
+
+.header-widget.widget_search {
+margin-top: 5px;
+}
+
+.header-widget {
+padding: 10px 10px;
+}
+
+@media only screen and (max-width: 767px){
+
+	#site-navigation {
+		margin: 0;
+	}
+	#site-navigation li a {
+		height: auto;
+	}
+	#site-navigation li {
+		height: auto;
+		padding: 0;
+	}	
+}
+#blog_subscription-2 #subscribe-blog-blog_subscription-2{float: left;
+width: 100%;}#blog_subscription-2 #subscribe-blog-blog_subscription-2 #subscribe-submit{margin-bottom: 0px !important;}
+
+.jetpack_subscription_widget .success { border: 1px solid #ccc; background-color: #FFFFCC; padding: 10px;
+</style>
+<!-- /Custom CSS -->
+<!-- To Top Custom CSS --><style type="text/css">#to_top_scrollup {background-color: #81d742;}</style><style type="text/css">
+.paypal-donations { text-align: center !important }
+</style>
+<meta content="tFAgslXe4vwswEltPZQRxw8T8plVRHM5kl-jdmuoVeA" name="google-site-verification"/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52563599-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript">
+(function() {
+	window.advBidxc = window.advBidxc || {};
+	window.advBidxc.startTime = new Date().getTime();
+	function loadScript(tagSrc) {
+		var scriptTag = document.createElement('script'),
+		placeTag = document.getElementsByTagName("script")[0];
+		scriptTag.type = 'text/javascript';
+		scriptTag.async = true;
+		scriptTag.src = tagSrc;
+		placeTag.parentNode.insertBefore(scriptTag, placeTag);
+	}
+	var mnSrc = '//hbx.media.net/bidexchange.js?cid=8CU2C156D&version=5.1' + '&dn=' + window.location.hostname;
+	loadScript(mnSrc);
+})();
+</script>
+</meta></meta></head>
+<body class="home blog custom-background left-sidebar">
+<div class="grid" id="page">
+<header class="row" id="header" role="banner">
+<div class="c12">
+<div id="mobile-menu">
+<a class="left-menu" href="#"><i class="icon-reorder"></i></a>
+<a href="#"><i class="icon-search"></i></a>
+</div>
+<div id="drop-down-search"><form action="https://wolfstreet.com/" class="slide" id="searchform" method="get" role="search">
+<label class="assistive-text" for="site-search">Search for:</label>
+<input id="site-search" name="s" placeholder="Search…" type="search" value=""/>
+</form></div>
+<div class="title-logo-wrapper fl">
+<a href="https://wolfstreet.com" id="site-logo" rel="home" title="Wolf Street"><img alt="Wolf Street" src="https://wolfstreet.com/wp-content/uploads/2017/10/Wolf-street-logo-15.png"/></a>
+<div id="title-wrapper">
+<h1 class="remove" id="site-title"><a href="https://wolfstreet.com" rel="home" title="Wolf Street">Wolf Street</a></h1>
+</div>
+</div>
+<div class="fl" id="header-widgets">
+<aside class="widget_text header-widget widget_custom_html" id="custom_html-51"><div class="textwidget custom-html-widget"><!-- NextMillennium Ads -->
+<script>
+var a= document.createElement('script');a.src = 'https://powerad.ai/script.js';a.setAttribute('async','');top.document.querySelector('head').appendChild(a);
+</script>
+<!-- End of NextMillennium Ads --></div></aside><aside class="widget_text header-widget widget_custom_html" id="custom_html-67"><div class="textwidget custom-html-widget"><div id="WolfStreet_ROS_Top_Leaderboard"></div></div></aside> </div>
+<nav id="site-navigation" role="navigation">
+<h3 class="assistive-text">Main menu</h3>
+<a class="assistive-text" href="#primary" title="Skip to content">Skip to content</a>
+<div class="menu-primary-container"><ul class="menu" id="menu-primary"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-36001" id="menu-item-36001"><a href="https://wolfstreet.com/">Home</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30" id="menu-item-30"><a href="https://wolfstreet.com/wolf-richter/">Wolf Richter</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-66012" id="menu-item-66012"><a href="https://wolfstreet.com/category/weirdest-economy-ever/">Weirdest Economy Ever</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10016" id="menu-item-10016"><a href="https://wolfstreet.com/category/all/housing/">Housing Bubble 2</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25369" id="menu-item-25369"><a href="https://wolfstreet.com/how-to-donate-to-wolf-street/">How to Donate?</a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35947" id="menu-item-35947"><a href="https://wolfstreet.com/2017/10/07/finally-my-guidelines-for-commenting/">Commenting</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3905" id="menu-item-3905"><a href="https://wolfstreet.com/contact-us/">Contact Us</a>
+</li></li></li></li></li></li></li></ul></div> </nav><!-- #site-navigation -->
+<nav id="site-sub-navigation" role="navigation">
+<h3 class="assistive-text">Sub menu</h3>
+</nav><!-- #site-sub-navigation -->
+</div><!-- .c12 -->
+</header><!-- #header .row -->
+<div id="main">
+<div class="row">
+<div id="left-nav"></div>
+<div class="c2" id="secondary" role="complementary">
+<aside class="widget widget_text" id="text-7"><h3 class="widget-title">Our Brilliant Categories</h3> <div class="textwidget"><p><a href="https://wolfstreet.com/category/all/the-wolf-street-report/" title="View all posts filed under THE WOLF STREET REPORT">WOLF STREET REPORT</a></p>
+<p><a href="https://wolfstreet.com/category/all/brick-and-mortar/" title="View all posts filed under Brick and Mortar">Brick &amp; Mortar</a><br/>
+<a href="https://wolfstreet.com/category/all/california-daydreaming/" title="View all posts filed under California Daydreaming">California Daydreamin’</a><br/>
+<a href="https://wolfstreet.com/category/all/cars-trucks-crashes/" title="View all posts filed under Cars, Trucks &amp; Crashes">Cars &amp; Trucks</a><br/>
+<a href="https://wolfstreet.com/category/all/china/" title="View all posts filed under China">China<br/>
+</a><a href="https://wolfstreet.com/category/all/commercial-property/" rel="noopener" title="View all posts filed under Corruption">Commercial Property</a><br/>
+<a href="https://wolfstreet.com/category/all/companies-markets/" title="View all posts filed under Companies &amp; Markets">Companies &amp; Markets</a><br/>
+<a href="https://wolfstreet.com/category/all/consumer/" title="View all posts filed under Consumer">Consumers</a><br/>
+<a href="https://wolfstreet.com/category/all/credit-bubble/" title="View all posts filed under Credit Bubble">Credit Bubble</a><br/>
+<a href="https://wolfstreet.com/category/all/energy/" title="View all posts filed under Energy">Energy</a><br/>
+<a href="https://wolfstreet.com/category/all/europe/" rel="noopener" target="_blank">Europe’s Dilemmas</a><br/>
+<a href="https://wolfstreet.com/category/all/federal-reserve/" title="View all posts filed under Federal Reserve">Federal Reserve</a><br/>
+<a href="https://wolfstreet.com/category/all/housing/" title="View all posts filed under Housing">Housing Bubble 2</a><br/>
+<a href="https://wolfstreet.com/category/all/inflation-devaluation/" title="View all posts filed under Inflation &amp; Devaluation">Inflation &amp; Devaluation</a><br/>
+<a href="https://wolfstreet.com/category/all/jobs/" title="View all posts filed under Jobs">Jobs</a><br/>
+<a href="https://wolfstreet.com/category/all/trade/" title="View all posts filed under Trade">Trade</a><br/>
+<a href="https://wolfstreet.com/category/all/transportation/" title="View all posts filed under Transportation">Transportation</a><br/>
+<a href="https://wolfstreet.com/category/all/weirdest-economy-ever/" rel="noopener" target="_blank">Weirdest Economy Ever</a></p>
+</div>
+</aside><aside class="widget_text widget widget_custom_html" id="custom_html-65"><div class="textwidget custom-html-widget"><img alt="" class="alignnone size-full wp-image-63003" height="65" src="https://wolfstreet.com/wp-content/uploads/2020/08/placeholder2.png" width="26"/></div></aside><aside class="widget_text widget widget_custom_html" id="custom_html-2"><div class="textwidget custom-html-widget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Front-page left 160x600 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-8212587530282873" data-ad-slot="5178827848" style="display:inline-block;width:160px;height:600px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></aside> </div><!-- #secondary.widget-area -->
+<div class="c6" id="primary" role="main">
+<div class="advanced-front-page row">
+<div class="section c12" id="upper-section-1">
+<div class="row columns-c12">
+<article class="c12 post-68853 post type-post status-publish format-standard hentry category-companies-markets category-top-articles category-wall-street-shenanigans" id="post-68853">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/16/spacs-lining-up-as-next-wtf-chart-of-the-year/" rel="bookmark" title="">
+					SPACs Are Lining Up as the Next WTF Chart of the Year		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-16">Mar 16, 2021</time> • <a href="https://wolfstreet.com/2021/03/16/spacs-lining-up-as-next-wtf-chart-of-the-year/#comments">1 Comment</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Who’s going to be the sucker? Even the SEC, which has been asleep through all this, warns retail investors. But in the current mega-bubble craze, no one gives a hoot about anything anymore.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/16/spacs-lining-up-as-next-wtf-chart-of-the-year/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68853 --> <article class="c12 top-border post-68820 post type-post status-publish format-standard hentry category-consumer category-top-articles" id="post-68820">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/16/can-retail-sales-only-grow-with-permanent-stimulus-checks-in-this-crazy-era-of-free-money-over-stimulation-thats-the-question-now-cropping-up-no-one-knows/" rel="bookmark" title="">
+					Can Retail Sales Only Grow if Americans Get Permanent Stimulus Payments in this Era of Free Money? That’s the Question Now		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-16">Mar 16, 2021</time> • <a href="https://wolfstreet.com/2021/03/16/can-retail-sales-only-grow-with-permanent-stimulus-checks-in-this-crazy-era-of-free-money-over-stimulation-thats-the-question-now-cropping-up-no-one-knows/#comments">71 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>“Lapse” in stimulus payments, bad weather blamed for retail sales decline, as inflation on durable goods hits 3.3%. Counting on next round of free money!</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/16/can-retail-sales-only-grow-with-permanent-stimulus-checks-in-this-crazy-era-of-free-money-over-stimulation-thats-the-question-now-cropping-up-no-one-knows/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68820 --> <article class="c12 top-border post-68796 post type-post status-publish format-standard hentry category-china category-energy category-japan category-top-articles category-trade" id="post-68796">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/15/us-natural-gas-exports-surge-with-global-impact/" rel="bookmark" title="">
+					Momentous Change in US Natural Gas with Global Impact as Exports Soar to Huge Record Despite Collapse in the Spring		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-15">Mar 15, 2021</time> • <a href="https://wolfstreet.com/2021/03/15/us-natural-gas-exports-surge-with-global-impact/#comments">64 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Biggest buyers: Mexico, South Korea, Japan, China, Spain, UK. Price spike in February, when Texas froze up, unwound. Asian LNG price spike in January is unwinding.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/15/us-natural-gas-exports-surge-with-global-impact/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68796 --> <article class="c12 top-border post-68791 post type-post status-publish format-standard hentry category-companies-markets category-inflation-devaluation category-the-wolf-street-report category-top-articles" id="post-68791">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/14/the-wolf-street-report-market-manias-galore-but-long-term-interest-rates-smell-a-rat/" rel="bookmark" title="">
+					THE WOLF STREET REPORT: Market Manias Galore, But Long-Term Interest Rates Smell a Rat		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-14">Mar 14, 2021</time> • <a href="https://wolfstreet.com/2021/03/14/the-wolf-street-report-market-manias-galore-but-long-term-interest-rates-smell-a-rat/#comments">176 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>These manias and the rising long-term yields are on collision course.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/14/the-wolf-street-report-market-manias-galore-but-long-term-interest-rates-smell-a-rat/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68791 --><div class="c12 home-in-feed-ad"><div class="wrap"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-8212587530282873" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="9295038966" style="display:block; text-align:center;"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div> <article class="c12 top-border post-68772 post type-post status-publish format-standard hentry category-debtor-nation category-federal-reserve category-top-articles" id="post-68772">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/12/whats-behind-the-huge-spike-in-reserves-a-liability-on-the-feds-balance-sheet/" rel="bookmark" title="">
+					What’s Behind the Huge Spike in Reserves, a Liability on the Fed’s Balance Sheet?		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-12">Mar 12, 2021</time> • <a href="https://wolfstreet.com/2021/03/12/whats-behind-the-huge-spike-in-reserves-a-liability-on-the-feds-balance-sheet/#comments">175 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>The New Regime at the US Treasury Department.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/12/whats-behind-the-huge-spike-in-reserves-a-liability-on-the-feds-balance-sheet/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68772 --> <article class="c12 top-border post-68761 post type-post status-publish format-standard hentry category-companies-markets category-top-articles category-transportation tag-airlines" id="post-68761">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/12/long-way-to-normalcy-americans-return-to-flying-for-vacations-and-business/" rel="bookmark" title="">
+					Long Way to “Normalcy”: When Will Americans Return to Flying for Vacation and Business?		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-12">Mar 12, 2021</time> • <a href="https://wolfstreet.com/2021/03/12/long-way-to-normalcy-americans-return-to-flying-for-vacations-and-business/#comments">145 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Airlines, meanwhile, face pent-up demand of the wrong kind.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/12/long-way-to-normalcy-americans-return-to-flying-for-vacations-and-business/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68761 --> <article class="c12 top-border post-68749 post type-post status-publish format-standard hentry category-housing category-inflation-devaluation category-top-articles" id="post-68749">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/11/house-price-inflation-in-cpi-is-of-course-baloney-but-it-accounts-for-1-4-of-total-cpi/" rel="bookmark" title="">
+					House Price Inflation in CPI is of Course Complete Baloney, but it Accounts for 1/4 of Total CPI		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-11">Mar 11, 2021</time> • <a href="https://wolfstreet.com/2021/03/11/house-price-inflation-in-cpi-is-of-course-baloney-but-it-accounts-for-1-4-of-total-cpi/#comments">202 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>With actual house price inflation based on market data, overall CPI would have jumped by 3.7%. Lifting the cover on the deception to keep CPI low.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/11/house-price-inflation-in-cpi-is-of-course-baloney-but-it-accounts-for-1-4-of-total-cpi/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68749 --> <article class="c12 top-border post-68739 post type-post status-publish format-standard hentry category-companies-markets category-top-articles" id="post-68739">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/10/google-and-the-gutting-of-the-news-publishers/" rel="bookmark" title="">
+					Google, Ad Tech, and the Gutting of the News Publishers		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-10">Mar 10, 2021</time> • <a href="https://wolfstreet.com/2021/03/10/google-and-the-gutting-of-the-news-publishers/#comments">241 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>So now we have another gutting, this time at the HuffPost, and omertà reigns.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/10/google-and-the-gutting-of-the-news-publishers/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68739 --> <article class="c12 top-border post-68725 post type-post status-publish format-standard hentry category-cars-trucks-crashes category-inflation-devaluation category-top-articles" id="post-68725">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/10/purchasing-power-of-the-dollar-dwindles-to-another-record-low-the-fed-wants-it-to-dwindle-further-and-is-getting-its-wishes/" rel="bookmark" title="">
+					Dollar’s Purchasing Power Dwindles to Another Record Low. Fed is Getting its Wishes		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-10">Mar 10, 2021</time> • <a href="https://wolfstreet.com/2021/03/10/purchasing-power-of-the-dollar-dwindles-to-another-record-low-the-fed-wants-it-to-dwindle-further-and-is-getting-its-wishes/#comments">192 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Durable goods inflation +3.3%. Food inflation +3.4%. Services inflation rising, but still held down by battered airline fares, lodging, event tickets, etc. — until people start traveling and going to events again.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/10/purchasing-power-of-the-dollar-dwindles-to-another-record-low-the-fed-wants-it-to-dwindle-further-and-is-getting-its-wishes/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68725 --> <article class="c12 top-border post-68711 post type-post status-publish format-standard hentry category-brick-and-mortar category-service-sector category-top-articles" id="post-68711">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/09/the-signs-are-everywhere-businesses-have-changed-permanently-as-a-result-of-the-pandemic/" rel="bookmark" title="">
+					Signs Are Everywhere: Businesses Have Changed Permanently as a Result of the Pandemic		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-09">Mar 9, 2021</time> • <a href="https://wolfstreet.com/2021/03/09/the-signs-are-everywhere-businesses-have-changed-permanently-as-a-result-of-the-pandemic/#comments">276 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>There is no return to the “old normal.” Employment adjusts too. But it will take years to sort out the issues these sudden massive shifts leave behind.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/09/the-signs-are-everywhere-businesses-have-changed-permanently-as-a-result-of-the-pandemic/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68711 --> <article class="c12 top-border post-68679 post type-post status-publish format-standard hentry category-energy category-top-articles" id="post-68679">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/08/what-electricity-sales-to-end-users-say-about-shifts-in-the-pandemic-economy-working-from-home-commercial-industrial-activity-and-public-transit/" rel="bookmark" title="">
+					Electricity Sales to End Users Dropped Below 2008 Level: What it Says about the Pandemic Economy, Households, Commercial &amp; Industrial Activity, and Public Transportation		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-08">Mar 8, 2021</time> • <a href="https://wolfstreet.com/2021/03/08/what-electricity-sales-to-end-users-say-about-shifts-in-the-pandemic-economy-working-from-home-commercial-industrial-activity-and-public-transit/#comments">134 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>In 2020, by source, coal collapsed to record low, natural gas dominated, wind and solar surged, while hydro and nuclear remained roughly flat.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/08/what-electricity-sales-to-end-users-say-about-shifts-in-the-pandemic-economy-working-from-home-commercial-industrial-activity-and-public-transit/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68679 --> <article class="c12 top-border post-68670 post type-post status-publish format-standard hentry category-euro category-europe category-europe-spain" id="post-68670">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/07/365-days-with-my-mother-in-law-boots-on-the-ground-view-of-barcelonas-economy/" rel="bookmark" title="">
+					365 Days With My Mother-in-Law: Boots on the Ground View of Barcelona’s Economy		</a> </h1>
+<h2 class="entry-meta">
+		by Nick Corbishley • <time class="published updated" datetime="2021-03-07">Mar 7, 2021</time> • <a href="https://wolfstreet.com/2021/03/07/365-days-with-my-mother-in-law-boots-on-the-ground-view-of-barcelonas-economy/#comments">76 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>It remains in a state of suspended animation.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/07/365-days-with-my-mother-in-law-boots-on-the-ground-view-of-barcelonas-economy/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68670 --> <article class="c12 top-border post-68658 post type-post status-publish format-standard hentry category-companies-markets category-credit-bubble category-federal-reserve category-top-articles" id="post-68658">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/06/yellen-coddles-up-to-powell-on-rising-long-term-yields-as-a-welcome-sign-of-recovery-wall-street-crybabies-not-amused/" rel="bookmark" title="">
+					Yellen Coddles Up to Powell on Rising Long-Term Yields as a Welcome Sign of Recovery. Wall Street Crybabies Not Amused		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-06">Mar 6, 2021</time> • <a href="https://wolfstreet.com/2021/03/06/yellen-coddles-up-to-powell-on-rising-long-term-yields-as-a-welcome-sign-of-recovery-wall-street-crybabies-not-amused/#comments">206 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>To let some hot air out of the markets? As long as it isn’t “disorderly.”</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/06/yellen-coddles-up-to-powell-on-rising-long-term-yields-as-a-welcome-sign-of-recovery-wall-street-crybabies-not-amused/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68658 --> <article class="c12 top-border post-68638 post type-post status-publish format-standard hentry category-consumer category-credit-bubble category-housing category-trade" id="post-68638">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/05/consumers-paid-down-credit-card-debt-again-by-most-ever-but-cash-out-refis-spiked-to-highest-since-2005-peak-what-gives/" rel="bookmark" title="">
+					Consumers Paid Down Credit Cards Again! By Most Ever. But Cash-Out Refis Spiked to Highest since 2005/6 Peaks. What Gives?		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-05">Mar 5, 2021</time> • <a href="https://wolfstreet.com/2021/03/05/consumers-paid-down-credit-card-debt-again-by-most-ever-but-cash-out-refis-spiked-to-highest-since-2005-peak-what-gives/#comments">172 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>They’re not the same consumers.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/05/consumers-paid-down-credit-card-debt-again-by-most-ever-but-cash-out-refis-spiked-to-highest-since-2005-peak-what-gives/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68638 --> <article class="c12 top-border post-68623 post type-post status-publish format-standard hentry category-jobs category-top-articles" id="post-68623">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/05/briefly-where-we-are-on-the-jobs-front-and-compared-to-the-good-times-trend/" rel="bookmark" title="">
+					The Jobs Recovery, Compared to the “Good Times” Trend		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-05">Mar 5, 2021</time> • <a href="https://wolfstreet.com/2021/03/05/briefly-where-we-are-on-the-jobs-front-and-compared-to-the-good-times-trend/#comments">94 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>February confirms: V-shaped jobs recovery petered out in October about two-thirds into it.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/05/briefly-where-we-are-on-the-jobs-front-and-compared-to-the-good-times-trend/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68623 --> <article class="c12 top-border post-68599 post type-post status-publish format-standard hentry category-companies-markets category-wall-street-shenanigans tag-greensill" id="post-68599">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/04/softbank-fintech-unicorn-greensill-on-verge-of-collapse/" rel="bookmark" title="">
+					SoftBank Fintech Unicorn Greensill on Verge of Collapse		</a> </h1>
+<h2 class="entry-meta">
+		by Nick Corbishley • <time class="published updated" datetime="2021-03-04">Mar 4, 2021</time> • <a href="https://wolfstreet.com/2021/03/04/softbank-fintech-unicorn-greensill-on-verge-of-collapse/#comments">77 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>A massive murky mess of supply-chain finance, amid criminal allegations against the management of its German bank subsidiary, with wide repercussions.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/04/softbank-fintech-unicorn-greensill-on-verge-of-collapse/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68599 --> <article class="c12 top-border post-68588 post type-post status-publish format-standard hentry category-companies-markets category-credit-bubble category-top-articles" id="post-68588">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/03/was-that-the-ipo-stocks-bubble-that-just-popped/" rel="bookmark" title="">
+					Was That the IPO Stocks Bubble that Just Popped?		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-03">Mar 3, 2021</time> • <a href="https://wolfstreet.com/2021/03/03/was-that-the-ipo-stocks-bubble-that-just-popped/#comments">147 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>When there are suddenly second thoughts in this market powered by so much blind and crazy exuberance, the entire foundation begins to wobble.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/03/was-that-the-ipo-stocks-bubble-that-just-popped/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68588 --> <article class="c12 top-border post-68580 post type-post status-publish format-standard hentry category-companies-markets category-top-articles" id="post-68580">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/02/the-movie-theater-business-isnt-going-back-to-normal-disney-ceo/" rel="bookmark" title="">
+					Movie Theater Business Isn’t Going Back to Normal: Disney CEO		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-02">Mar 2, 2021</time> • <a href="https://wolfstreet.com/2021/03/02/the-movie-theater-business-isnt-going-back-to-normal-disney-ceo/#comments">162 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Are multiplex theaters even viable in the era of streaming and affordable big screen TVs, if studios crush the “theatrical window?”</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/02/the-movie-theater-business-isnt-going-back-to-normal-disney-ceo/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68580 --> <article class="c12 top-border post-68565 post type-post status-publish format-standard hentry category-consumer category-top-articles" id="post-68565">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/02/this-index-designed-to-track-the-pandemic-recovery-shows-how-the-winter-storm-slammed-the-economies-in-texas-other-areas/" rel="bookmark" title="">
+					How Hard Did the Winter Storm Slam the Economies in Texas, Other Areas? This Index, Designed to Track the Pandemic Recovery, Shows How Hard		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-03-02">Mar 2, 2021</time> • <a href="https://wolfstreet.com/2021/03/02/this-index-designed-to-track-the-pandemic-recovery-shows-how-the-winter-storm-slammed-the-economies-in-texas-other-areas/#comments">97 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Nationally, visits to “places of commerce” remained anemic. Houston, Dallas, Austin, San Antonio, and Nashville, which had been near the top, plunged to the bottom.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/02/this-index-designed-to-track-the-pandemic-recovery-shows-how-the-winter-storm-slammed-the-economies-in-texas-other-areas/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68565 --> <article class="c12 top-border post-68532 post type-post status-publish format-standard hentry category-companies-markets category-europe category-europe-uk tag-brexit" id="post-68532">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/03/01/looking-on-the-bright-side-of-brexit-50-days-in/" rel="bookmark" title="">
+					Looking on the Bright Side of Brexit, 60 Days In		</a> </h1>
+<h2 class="entry-meta">
+		by Nick Corbishley • <time class="published updated" datetime="2021-03-01">Mar 1, 2021</time> • <a href="https://wolfstreet.com/2021/03/01/looking-on-the-bright-side-of-brexit-50-days-in/#comments">84 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>The hard Brexit has compounded pressures on many UK industries, but some key positives have started to emerge.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/03/01/looking-on-the-bright-side-of-brexit-50-days-in/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68532 --> <article class="c12 top-border post-68461 post type-post status-publish format-standard hentry category-cryptos category-top-articles" id="post-68461">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/28/the-big-buy-hype-bitcoin-casino/" rel="bookmark" title="">
+					The Big “Buy &amp; Hype” Bitcoin Casino		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-28">Feb 28, 2021</time> • <a href="https://wolfstreet.com/2021/02/28/the-big-buy-hype-bitcoin-casino/#comments">289 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Bitcoin was trading at $57,000 when I posted the podcast last Sunday. Now, as I’m posting the transcript of the podcast, bitcoin is trading at $46,000, which makes one of my points.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/28/the-big-buy-hype-bitcoin-casino/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68461 --> <article class="c12 top-border post-68544 post type-post status-publish format-standard hentry category-debtor-nation category-credit-bubble category-top-articles category-uncategorized" id="post-68544">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/27/treasury-market-had-a-cow-mortgage-rates-jumped-wall-street-crybabies-clamored-for-help-but-the-fed-smiled-satisfied-upon-its-creation/" rel="bookmark" title="">
+					Treasury Market Had a Cow, Mortgage Rates Jumped, Wall Street Crybabies Clamored for Help, But the Fed Smiled Satisfied Upon its Creation		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-27">Feb 27, 2021</time> • <a href="https://wolfstreet.com/2021/02/27/treasury-market-had-a-cow-mortgage-rates-jumped-wall-street-crybabies-clamored-for-help-but-the-fed-smiled-satisfied-upon-its-creation/#comments">207 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Junk bonds still in la-la-land as investors chase yield – risks be damned.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/27/treasury-market-had-a-cow-mortgage-rates-jumped-wall-street-crybabies-clamored-for-help-but-the-fed-smiled-satisfied-upon-its-creation/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68544 --> <article class="c12 top-border post-68516 post type-post status-publish format-standard hentry category-consumer category-top-articles" id="post-68516">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/26/just-dont-expect-pent-up-demand-from-consumers-heres-why/" rel="bookmark" title="">
+					Just Don’t Expect “Pent-up Demand” from Consumers. Here’s Why		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-26">Feb 26, 2021</time> • <a href="https://wolfstreet.com/2021/02/26/just-dont-expect-pent-up-demand-from-consumers-heres-why/#comments">200 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Free money whipped consumers into a rollicking eight-month splurge on goods. There’s nothing “pent up.” And services are not a shoo-in for “pent-up demand.”</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/26/just-dont-expect-pent-up-demand-from-consumers-heres-why/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68516 --> <article class="c12 top-border post-68491 post type-post status-publish format-standard hentry category-federal-reserve category-top-articles" id="post-68491">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/26/feds-qe-assets-hit-7-6-trillion-long-term-treasury-yields-surge-nevertheless-wall-street-crybabies-squeal-for-more/" rel="bookmark" title="">
+					Fed’s QE: Assets Hit $7.6 Trillion. Long-Term Treasury Yields Spike Nevertheless, Wall Street Crybabies Squeal for More QE		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-26">Feb 26, 2021</time> • <a href="https://wolfstreet.com/2021/02/26/feds-qe-assets-hit-7-6-trillion-long-term-treasury-yields-surge-nevertheless-wall-street-crybabies-squeal-for-more/#comments">182 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>From crisis to crisis, and even when there’s no crisis.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/26/feds-qe-assets-hit-7-6-trillion-long-term-treasury-yields-surge-nevertheless-wall-street-crybabies-squeal-for-more/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68491 --> <article class="c12 top-border post-68465 post type-post status-publish format-standard hentry category-cars-trucks-crashes category-top-articles category-transportation category-weirdest-economy-ever" id="post-68465">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/25/vehicle-miles-driven-2020-pandemic-plunge-mass-transit-abandoned/" rel="bookmark" title="">
+					More Shifts in the Year of the Plague: Driving Plunged even as Mass Transit Ridership Collapsed		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-25">Feb 25, 2021</time> • <a href="https://wolfstreet.com/2021/02/25/vehicle-miles-driven-2020-pandemic-plunge-mass-transit-abandoned/#comments">87 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>“L-shaped recovery” for mass transit. Per person, vehicle miles were already in long-term decline since 2003. Than came 2020.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/25/vehicle-miles-driven-2020-pandemic-plunge-mass-transit-abandoned/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68465 --> <article class="c12 top-border post-68449 post type-post status-publish format-standard hentry category-companies-markets category-europe category-europe-spain tag-abengoa" id="post-68449">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/25/global-green-energy-zombie-abengoa-caught-cooking-its-books-in-2015-bailed-out-twice-finally-runs-out-of-money-files-for-bankruptcy-2nd-largest-in-spanish-history/" rel="bookmark" title="">
+					Global Green Energy Zombie Abengoa, Caught Cooking its Books in 2015 &amp; Bailed Out Twice, Finally Runs Out of Bailouts, Files for Bankruptcy, 2nd Largest in Spanish History		</a> </h1>
+<h2 class="entry-meta">
+		by Nick Corbishley • <time class="published updated" datetime="2021-02-25">Feb 25, 2021</time> • <a href="https://wolfstreet.com/2021/02/25/global-green-energy-zombie-abengoa-caught-cooking-its-books-in-2015-bailed-out-twice-finally-runs-out-of-money-files-for-bankruptcy-2nd-largest-in-spanish-history/#comments">43 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Biggest beneficiaries of the now scuttled rescue plan would have been private equity firm KKR and Banco Santander.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/25/global-green-energy-zombie-abengoa-caught-cooking-its-books-in-2015-bailed-out-twice-finally-runs-out-of-money-files-for-bankruptcy-2nd-largest-in-spanish-history/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68449 --> <article class="c12 top-border post-68418 post type-post status-publish format-standard hentry category-california-daydreaming category-housing category-top-articles" id="post-68418">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/24/san-francisco-rents-drop-29-from-peak-to-new-multiyear-low-why-thats-a-good-thing-for-the-citys-housing-crisis-economy-and-future/" rel="bookmark" title="">
+					Why It’s Good for San Francisco that Rents Dropped 29% to Multiyear Low. But They Haven’t Dropped Nearly Enough Yet		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-24">Feb 24, 2021</time> • <a href="https://wolfstreet.com/2021/02/24/san-francisco-rents-drop-29-from-peak-to-new-multiyear-low-why-thats-a-good-thing-for-the-citys-housing-crisis-economy-and-future/#comments">219 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>The market is working on a solution to the “Housing Crisis” and “Exodus.” </p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/24/san-francisco-rents-drop-29-from-peak-to-new-multiyear-low-why-thats-a-good-thing-for-the-citys-housing-crisis-economy-and-future/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68418 --> <article class="c12 top-border post-68399 post type-post status-publish format-standard hentry category-california-daydreaming category-housing category-top-articles" id="post-68399">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/24/exodus-from-big-expensive-cities-running-out-of-steam-maybe-but-rents-in-san-francisco-los-angeles-hit-new-multiyear-lows/" rel="bookmark" title="">
+					Exodus from Big Expensive Cities Running out of Steam? Maybe. But Rents in San Francisco &amp; Los Angeles Hit New Multiyear Low		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-24">Feb 24, 2021</time> • <a href="https://wolfstreet.com/2021/02/24/exodus-from-big-expensive-cities-running-out-of-steam-maybe-but-rents-in-san-francisco-los-angeles-hit-new-multiyear-lows/#comments">106 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Massive Pandemic Shifts that triggered plunging rents in the most expensive cities and surging rents in cheaper cities still on display.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/24/exodus-from-big-expensive-cities-running-out-of-steam-maybe-but-rents-in-san-francisco-los-angeles-hit-new-multiyear-lows/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68399 --> <article class="c12 top-border post-68377 post type-post status-publish format-standard hentry category-brick-and-mortar category-companies-markets category-top-articles" id="post-68377">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/23/macys-brick-mortar-sales-35-digital-21-walmart-online-sales-69-us-ecommerce-32-online-furniture-grocery-clothing-sales-explode-as-brick-mortar-melts-down/" rel="bookmark" title="">
+					Macy’s Brick &amp; Mortar Sales -35%, Digital +21%. Walmart Online +69%, US Ecommerce +32%. Online Furniture, Grocery, Clothing Sales Explode as Brick &amp; Mortar Melts Down		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-23">Feb 23, 2021</time> • <a href="https://wolfstreet.com/2021/02/23/macys-brick-mortar-sales-35-digital-21-walmart-online-sales-69-us-ecommerce-32-online-furniture-grocery-clothing-sales-explode-as-brick-mortar-melts-down/#comments">135 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Mall landlords, even the biggest, are turning malls over to their lenders.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/23/macys-brick-mortar-sales-35-digital-21-walmart-online-sales-69-us-ecommerce-32-online-furniture-grocery-clothing-sales-explode-as-brick-mortar-melts-down/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68377 --> <article class="c12 top-border post-68368 post type-post status-publish format-standard hentry category-europe category-europe-uk category-trade tag-brexit" id="post-68368">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/23/the-growing-pains-of-brexit-so-to-speak-50-days-in/" rel="bookmark" title="">
+					The Growing Pains of Brexit, 50 Days In		</a> </h1>
+<h2 class="entry-meta">
+		by Nick Corbishley • <time class="published updated" datetime="2021-02-23">Feb 23, 2021</time> • <a href="https://wolfstreet.com/2021/02/23/the-growing-pains-of-brexit-so-to-speak-50-days-in/#comments">121 Comments</a> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>The crucial services exports, manufacturing exports and imports, the arts &amp; entertainment industry, fishing industry… it’s a mess.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/23/the-growing-pains-of-brexit-so-to-speak-50-days-in/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68368 --> </div>
+</div>
+</div>
+</div><!-- #primary.c8 -->
+<div class="c4 end" id="tertiary" role="complementary">
+<aside class="widget_text widget widget_custom_html" id="custom_html-68"><div class="textwidget custom-html-widget"><div id="WolfStreet_ROS_RightRail_1"></div></div></aside><aside class="widget widget_text" id="text-43"> <div class="textwidget"><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form class="mc4wp-form mc4wp-form-43780" data-id="43780" data-name="Form" id="mc4wp-form-1" method="post"><div class="mc4wp-form-fields"><p>
+<input name="EMAIL" placeholder="Enter email to get WOLF STREET updates" required="" style="width:95%" type="email"/>
+</p>
+<p>
+<input type="submit" value="Subscribe to WOLF STREET"/>
+</p></div><label style="display: none !important;">Leave this field empty if you're human: <input autocomplete="off" name="_mc4wp_honeypot" tabindex="-1" type="text" value=""/></label><input name="_mc4wp_timestamp" type="hidden" value="1615961933"/><input name="_mc4wp_form_id" type="hidden" value="43780"/><input name="_mc4wp_form_element_id" type="hidden" value="mc4wp-form-1"/><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin -->
+</div>
+</aside><aside class="widget mp_featured_posts" id="mp_featured_posts-2"><h3 class="widget-title">Econ Rumblings</h3> <article class="c12 bottom-border post-68265 post type-post status-publish format-standard hentry category-cars-trucks-crashes category-companies-markets category-econ-rumblings category-manufacturing category-top-articles" id="post-68265">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/18/why-the-ev-battle-is-brutal-for-gm-ford-other-automakers-tesla-cuts-prices-again-barriers-to-entry-vanish-new-entrants-muck-up-high-profit-pickup-truck-oligopoly/" rel="bookmark" title="">
+					Why the EV Battle Is Brutal for GM, Ford, Other Automakers: Tesla Cuts Prices Again, Barriers to Entry Vanish, EV Entrants Muck Up High-Profit Pickup Truck Oligopoly		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-18">Feb 18, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>What’s going on in the Wall Street Hype Machine regarding the EV space is hilarious, when you think about it for a moment.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/18/why-the-ev-battle-is-brutal-for-gm-ford-other-automakers-tesla-cuts-prices-again-barriers-to-entry-vanish-new-entrants-muck-up-high-profit-pickup-truck-oligopoly/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68265 --> <article class="c12 bottom-border post-68227 post type-post status-publish format-standard hentry category-debtor-nation category-econ-rumblings category-federal-reserve category-top-articles category-uncategorized" id="post-68227">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/17/who-bought-the-4-5-trillion-added-in-one-year-to-the-incredibly-spiking-us-national-debt-now-at-27-9-trillion/" rel="bookmark" title="">
+					Who Bought the $4.5 Trillion Added in One Year to the Incredibly Spiking US National Debt, Now at $27.9 Trillion?		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-17">Feb 17, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Someone had to buy every dollar of this monstrous debt. Here’s Who. The Fed isn’t the only one. But China continues to unwind its holdings.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/17/who-bought-the-4-5-trillion-added-in-one-year-to-the-incredibly-spiking-us-national-debt-now-at-27-9-trillion/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68227 --> <article class="c12 bottom-border post-68191 post type-post status-publish format-standard hentry category-cars-trucks-crashes category-companies-markets category-econ-rumblings category-manufacturing category-top-articles category-transportation" id="post-68191">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/15/electric-delivery-vans-in-the-era-of-red-hot-ecommerce-tangle-up-legacy-automakers-in-new-competition/" rel="bookmark" title="">
+					Electric Delivery Vans in Era of Red-Hot Ecommerce Confront Legacy Automakers with New Deep-Pocket Competition		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-15">Feb 15, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Amazon, UPS, and FedEx, in search of cost savings, partnered with startups that are now rolling out electric vans. Has Ford, the leader in vans, dropped the ball?</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/15/electric-delivery-vans-in-the-era-of-red-hot-ecommerce-tangle-up-legacy-automakers-in-new-competition/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68191 --> <article class="c12 bottom-border post-68068 post type-post status-publish format-standard hentry category-cars-trucks-crashes category-companies-markets category-econ-rumblings category-top-articles" id="post-68068">
+<header>
+<h1 class="entry-title">
+<a href="https://wolfstreet.com/2021/02/10/tesla-gm-ford-together-in-ludicrous-mode-wtf-charts/" rel="bookmark" title="">
+					Tesla, GM, Ford Together in Ludicrous-Mode WTF Charts		</a> </h1>
+<h2 class="entry-meta">
+		by Wolf Richter • <time class="published updated" datetime="2021-02-10">Feb 10, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<div class="excerpt"><p>Global revenues, deliveries, market share, income, and for your amusement the WTF stock prices.</p>
+<p class="more-link-p"><a class="more-link" href="https://wolfstreet.com/2021/02/10/tesla-gm-ford-together-in-ludicrous-mode-wtf-charts/"></a></p>
+</div> </div><!-- .entry-content -->
+</article><!-- #post-68068 --></aside><aside class="widget_text widget widget_custom_html" id="custom_html-5"><div class="textwidget custom-html-widget"><a href="http://www.amazon.com/gp/product/B009NOFGXA/" rel="noopener" target="_blank"><img alt="tp-banner-2-336-300" class="alignnone wp-image-28376 size-full" height="461" src="https://wolfstreet.com/wp-content/uploads/2016/11/TP-banner-2-336-300.jpg" width="336"/></a></div></aside><aside class="widget widget_search" id="search-4"><form action="https://wolfstreet.com/" class="slide" id="searchform" method="get" role="search">
+<label class="assistive-text" for="site-search">Search for:</label>
+<input id="site-search" name="s" placeholder="Search…" type="search" value=""/>
+</form></aside> </div><!-- #tertiary.widget-area -->
+</div><!-- .row -->
+</div> <!-- #main -->
+</div> <!-- #page.grid -->
+<footer id="footer" role="contentinfo">
+<div class="grid" id="footer-content">
+<div class="row">
+<aside class="footer-widget c4 widget_archive" id="archives-4"><h3 class="widget-title">Archives</h3> <label class="screen-reader-text" for="archives-dropdown-4">Archives</label>
+<select id="archives-dropdown-4" name="archive-dropdown">
+<option value="">Select Month</option>
+<option value="https://wolfstreet.com/2021/03/"> March 2021 </option>
+<option value="https://wolfstreet.com/2021/02/"> February 2021 </option>
+<option value="https://wolfstreet.com/2021/01/"> January 2021 </option>
+<option value="https://wolfstreet.com/2020/12/"> December 2020 </option>
+<option value="https://wolfstreet.com/2020/11/"> November 2020 </option>
+<option value="https://wolfstreet.com/2020/10/"> October 2020 </option>
+<option value="https://wolfstreet.com/2020/09/"> September 2020 </option>
+<option value="https://wolfstreet.com/2020/08/"> August 2020 </option>
+<option value="https://wolfstreet.com/2020/07/"> July 2020 </option>
+<option value="https://wolfstreet.com/2020/06/"> June 2020 </option>
+<option value="https://wolfstreet.com/2020/05/"> May 2020 </option>
+<option value="https://wolfstreet.com/2020/04/"> April 2020 </option>
+<option value="https://wolfstreet.com/2020/03/"> March 2020 </option>
+<option value="https://wolfstreet.com/2020/02/"> February 2020 </option>
+<option value="https://wolfstreet.com/2020/01/"> January 2020 </option>
+<option value="https://wolfstreet.com/2019/12/"> December 2019 </option>
+<option value="https://wolfstreet.com/2019/11/"> November 2019 </option>
+<option value="https://wolfstreet.com/2019/10/"> October 2019 </option>
+<option value="https://wolfstreet.com/2019/09/"> September 2019 </option>
+<option value="https://wolfstreet.com/2019/08/"> August 2019 </option>
+<option value="https://wolfstreet.com/2019/07/"> July 2019 </option>
+<option value="https://wolfstreet.com/2019/06/"> June 2019 </option>
+<option value="https://wolfstreet.com/2019/05/"> May 2019 </option>
+<option value="https://wolfstreet.com/2019/04/"> April 2019 </option>
+<option value="https://wolfstreet.com/2019/03/"> March 2019 </option>
+<option value="https://wolfstreet.com/2019/02/"> February 2019 </option>
+<option value="https://wolfstreet.com/2019/01/"> January 2019 </option>
+<option value="https://wolfstreet.com/2018/12/"> December 2018 </option>
+<option value="https://wolfstreet.com/2018/11/"> November 2018 </option>
+<option value="https://wolfstreet.com/2018/10/"> October 2018 </option>
+<option value="https://wolfstreet.com/2018/09/"> September 2018 </option>
+<option value="https://wolfstreet.com/2018/08/"> August 2018 </option>
+<option value="https://wolfstreet.com/2018/07/"> July 2018 </option>
+<option value="https://wolfstreet.com/2018/06/"> June 2018 </option>
+<option value="https://wolfstreet.com/2018/05/"> May 2018 </option>
+<option value="https://wolfstreet.com/2018/04/"> April 2018 </option>
+<option value="https://wolfstreet.com/2018/03/"> March 2018 </option>
+<option value="https://wolfstreet.com/2018/02/"> February 2018 </option>
+<option value="https://wolfstreet.com/2018/01/"> January 2018 </option>
+<option value="https://wolfstreet.com/2017/12/"> December 2017 </option>
+<option value="https://wolfstreet.com/2017/11/"> November 2017 </option>
+<option value="https://wolfstreet.com/2017/10/"> October 2017 </option>
+<option value="https://wolfstreet.com/2017/09/"> September 2017 </option>
+<option value="https://wolfstreet.com/2017/08/"> August 2017 </option>
+<option value="https://wolfstreet.com/2017/07/"> July 2017 </option>
+<option value="https://wolfstreet.com/2017/06/"> June 2017 </option>
+<option value="https://wolfstreet.com/2017/05/"> May 2017 </option>
+<option value="https://wolfstreet.com/2017/04/"> April 2017 </option>
+<option value="https://wolfstreet.com/2017/03/"> March 2017 </option>
+<option value="https://wolfstreet.com/2017/02/"> February 2017 </option>
+<option value="https://wolfstreet.com/2017/01/"> January 2017 </option>
+<option value="https://wolfstreet.com/2016/12/"> December 2016 </option>
+<option value="https://wolfstreet.com/2016/11/"> November 2016 </option>
+<option value="https://wolfstreet.com/2016/10/"> October 2016 </option>
+<option value="https://wolfstreet.com/2016/09/"> September 2016 </option>
+<option value="https://wolfstreet.com/2016/08/"> August 2016 </option>
+<option value="https://wolfstreet.com/2016/07/"> July 2016 </option>
+<option value="https://wolfstreet.com/2016/06/"> June 2016 </option>
+<option value="https://wolfstreet.com/2016/05/"> May 2016 </option>
+<option value="https://wolfstreet.com/2016/04/"> April 2016 </option>
+<option value="https://wolfstreet.com/2016/03/"> March 2016 </option>
+<option value="https://wolfstreet.com/2016/02/"> February 2016 </option>
+<option value="https://wolfstreet.com/2016/01/"> January 2016 </option>
+<option value="https://wolfstreet.com/2015/12/"> December 2015 </option>
+<option value="https://wolfstreet.com/2015/11/"> November 2015 </option>
+<option value="https://wolfstreet.com/2015/10/"> October 2015 </option>
+<option value="https://wolfstreet.com/2015/09/"> September 2015 </option>
+<option value="https://wolfstreet.com/2015/08/"> August 2015 </option>
+<option value="https://wolfstreet.com/2015/07/"> July 2015 </option>
+<option value="https://wolfstreet.com/2015/06/"> June 2015 </option>
+<option value="https://wolfstreet.com/2015/05/"> May 2015 </option>
+<option value="https://wolfstreet.com/2015/04/"> April 2015 </option>
+<option value="https://wolfstreet.com/2015/03/"> March 2015 </option>
+<option value="https://wolfstreet.com/2015/02/"> February 2015 </option>
+<option value="https://wolfstreet.com/2015/01/"> January 2015 </option>
+<option value="https://wolfstreet.com/2014/12/"> December 2014 </option>
+<option value="https://wolfstreet.com/2014/11/"> November 2014 </option>
+<option value="https://wolfstreet.com/2014/10/"> October 2014 </option>
+<option value="https://wolfstreet.com/2014/09/"> September 2014 </option>
+<option value="https://wolfstreet.com/2014/08/"> August 2014 </option>
+<option value="https://wolfstreet.com/2014/07/"> July 2014 </option>
+<option value="https://wolfstreet.com/2014/06/"> June 2014 </option>
+<option value="https://wolfstreet.com/2014/05/"> May 2014 </option>
+<option value="https://wolfstreet.com/2014/04/"> April 2014 </option>
+<option value="https://wolfstreet.com/2014/03/"> March 2014 </option>
+<option value="https://wolfstreet.com/2014/02/"> February 2014 </option>
+<option value="https://wolfstreet.com/2014/01/"> January 2014 </option>
+<option value="https://wolfstreet.com/2013/12/"> December 2013 </option>
+<option value="https://wolfstreet.com/2013/11/"> November 2013 </option>
+<option value="https://wolfstreet.com/2013/10/"> October 2013 </option>
+<option value="https://wolfstreet.com/2013/09/"> September 2013 </option>
+<option value="https://wolfstreet.com/2013/08/"> August 2013 </option>
+<option value="https://wolfstreet.com/2013/07/"> July 2013 </option>
+<option value="https://wolfstreet.com/2013/06/"> June 2013 </option>
+<option value="https://wolfstreet.com/2013/05/"> May 2013 </option>
+<option value="https://wolfstreet.com/2013/04/"> April 2013 </option>
+<option value="https://wolfstreet.com/2013/03/"> March 2013 </option>
+<option value="https://wolfstreet.com/2013/02/"> February 2013 </option>
+<option value="https://wolfstreet.com/2013/01/"> January 2013 </option>
+<option value="https://wolfstreet.com/2012/12/"> December 2012 </option>
+<option value="https://wolfstreet.com/2012/11/"> November 2012 </option>
+<option value="https://wolfstreet.com/2012/10/"> October 2012 </option>
+<option value="https://wolfstreet.com/2012/09/"> September 2012 </option>
+<option value="https://wolfstreet.com/2012/08/"> August 2012 </option>
+<option value="https://wolfstreet.com/2012/07/"> July 2012 </option>
+<option value="https://wolfstreet.com/2012/06/"> June 2012 </option>
+<option value="https://wolfstreet.com/2012/05/"> May 2012 </option>
+<option value="https://wolfstreet.com/2012/04/"> April 2012 </option>
+<option value="https://wolfstreet.com/2012/03/"> March 2012 </option>
+<option value="https://wolfstreet.com/2012/02/"> February 2012 </option>
+<option value="https://wolfstreet.com/2012/01/"> January 2012 </option>
+<option value="https://wolfstreet.com/2011/12/"> December 2011 </option>
+<option value="https://wolfstreet.com/2011/11/"> November 2011 </option>
+<option value="https://wolfstreet.com/2011/10/"> October 2011 </option>
+<option value="https://wolfstreet.com/2011/09/"> September 2011 </option>
+<option value="https://wolfstreet.com/2011/08/"> August 2011 </option>
+<option value="https://wolfstreet.com/2011/07/"> July 2011 </option>
+</select>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-4" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+</aside><aside class="widget_text footer-widget c4 widget_custom_html" id="custom_html-64"><div class="textwidget custom-html-widget">
+ 
+
+<strong>RSS feed:</strong>  wolfstreet.com/feed</div></aside> </div><!-- .row -->
+<div class="row">
+<p class="copyright c12">
+<span class="line active"></span>
+<span class="fl">Copyright © 2011 - 2021 Wolf Street Corp. All Rights Reserved.  See our  <a href="http://wolfstreet.com/privacy-policy/" target="_blank">Privacy Policy</a></span>
+</p><!-- .c12 -->
+</div><!-- .row -->
+</div><!-- #footer-content.grid -->
+</footer><!-- #footer -->
+<span class="dashicons dashicons-arrow-up-alt2" id="to_top_scrollup"><span class="screen-reader-text">Scroll Up</span></span><script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script><script id="bootstrap-js" src="https://wolfstreet.com/wp-content/themes/magazine-premium/library/js/bootstrap.min.js?ver=2.2.2" type="text/javascript"></script>
+<script id="harvey-js" src="https://wolfstreet.com/wp-content/themes/magazine-premium/library/js/harvey.min.js?ver=05325e190a914cac36743a0c31bc8404" type="text/javascript"></script>
+<script id="theme_js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var theme_js_vars = {"carousel":"","tooltip":"","tabs":"","type":"scrollerota","autoplay":"","interval":"4000"};
+/* ]]> */
+</script>
+<script id="theme_js-js" src="https://wolfstreet.com/wp-content/themes/magazine-premium/library/js/theme.js?ver=05325e190a914cac36743a0c31bc8404" type="text/javascript"></script>
+<script id="jquery-effects-core-js" src="https://wolfstreet.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.12.1" type="text/javascript"></script>
+<script id="slider-js" src="https://wolfstreet.com/wp-content/themes/magazine-premium/library/js/slider.min.js?ver=05325e190a914cac36743a0c31bc8404" type="text/javascript"></script>
+<script id="htmlparse-js" src="https://wolfstreet.com/wp-content/themes/magazine-premium/library/js/htmlparser.min.js?ver=05325e190a914cac36743a0c31bc8404" type="text/javascript"></script>
+<script id="postscribe-js" src="https://wolfstreet.com/wp-content/themes/magazine-premium/library/js/postscribe.min.js?ver=05325e190a914cac36743a0c31bc8404" type="text/javascript"></script>
+<script id="load-ads-js" src="https://wolfstreet.com/wp-content/themes/magazine-premium/library/js/load-ads.js?ver=05325e190a914cac36743a0c31bc8404" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://wolfstreet.com/wp-includes/js/wp-embed.min.js?ver=05325e190a914cac36743a0c31bc8404" type="text/javascript"></script>
+<script id="mc4wp-forms-api-js" src="https://wolfstreet.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.min.js?ver=4.8.3" type="text/javascript"></script>
+<script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.5',blog:'70527402',post:'0',tz:'-5',srv:'wolfstreet.com'} ]);
+	_stq.push([ 'clickTrackerInit', '70527402', '0' ]);
+</script>
+<!-- Magazine Premium created by c.bavota - http://themes.bavotasan.com -->
+</body>
+</html>

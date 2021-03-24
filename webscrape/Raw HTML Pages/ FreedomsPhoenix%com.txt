@@ -1,0 +1,3121 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="width=992" name="viewport"/>
+<meta content="Freedoms Phoenix is reigniting the flames of Freedom, Liberty, Peace and Love by uncovering the secrets and exposing the lies all over the globe." name="description">
+<title>Freedoms Phoenix – Your Real Global News and Politics Portal</title>
+<meta content="239305205400" property="fb:pages"/>
+<link href="/Content/layout?v=us6J3NB04NgzjdXB0IGaxmxzYad8wad2ij1_SGkBHZc1" rel="stylesheet"/>
+<link href="/Scripts/video-js/video-js.css" rel="stylesheet"/>
+<script src="/Scripts/video-js/video.js"></script>
+<script src="/Scripts/video-js/videojs-http-streaming.js"></script>
+<script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-54330322-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+        <script src="/scripts/html5shiv.min.js"></script>
+        <script src="/scripts/respond.min.js"></script>
+    <![endif]-->
+</meta></head>
+<body data-spy="scroll" data-target=".scrollspy">
+<header class="navbar navbar-inverse navbar-fixed-top fp-head" id="head">
+<div class="row">
+<div class="head-cell col-md-2 col-sm-3 col-xs-7"><a href="/"><div class="head-bg" id="head-bg-site"></div><h1>Freedoms Phoenix</h1></a></div>
+<div class="head-cell col-md-2 col-sm-3 hidden-xs"><a href="https://www.freedomsphoenix.com/Magazine/Issue-List.htm"><div class="head-bg"></div><h2>Online Magazine</h2></a></div>
+<div class="head-cell col-md-2 col-sm-3 hidden-xs"><a href="/Join"><div class="head-bg"></div><h2>Join-Us</h2></a></div>
+<div class="head-cell col-md-2 hidden-sm hidden-xs"><a href="https://www.freedomsphoenix.com/Newspaper/Newspaper-Issue-List.htm"><div class="head-bg"></div><h2>Newspaper</h2></a></div>
+<div class="head-cell col-md-2 hidden-sm hidden-xs"><a href="https://www.freedomsphoenix.com/Article/190231-2016-01-22-declare-your-independence-app-now-on-google-play.htm"><div class="head-bg"></div><h2>Phone Apps</h2></a></div>
+<div class="head-cell col-md-2 col-sm-3 col-xs-5 bg-white">
+<a href="/declare-your-independence-with-ernest-hancock">
+<div class="head-bg" id="head-bg-dyi"></div>
+<h2 class="head-dyi">Declare Your Independence with Ernest Hancock</h2>
+</a>
+<p class="player-controls" style="display:none;"><span class="glyphicon glyphicon-play" style="display:none;"></span><span class="glyphicon glyphicon-pause" style="display:none;"></span></p>
+<p class="onair">ON AIR NOW<br/>Click to Play</p>
+</div>
+</div>
+</header>
+<div id="wrapper">
+<!-- Sidebar -->
+<div class="fp-left" id="sidebar-wrapper">
+<div class="sidebar-nav" id="sidebar">
+<p style="padding:10px 0 0 3px;font-weight:bolder;">Bitcoin Cash: $<span id="bch-price"></span> USD</p>
+<script src="//robotsandrobots.com/api/script/34"></script>
+<div class="text-center" id="dyi-stream-wrapper" style="display:none; background:#eee">
+<video-js controls="" crossorigin="anonymous" id="video-dyi-stream" poster="//www.freedomsphoenix.com/Uploads/129/Graph/Ernie_Studio_Headshot_smaller.jpg" width="174">
+<source src="https://liquidphoenix.alienseed.com/hls/live.m3u8" type="application/x-mpegURL"/>
+</video-js>
+<h4 style="margin-bottom:0">Live Broadcast</h4>
+<div style="margin-bottom:5px">
+                        Watch: <a href="https://flote.app/LoveBusLibertyTour" target="_blank" title="Watch Ernest Hancock on Flote">Flote</a> | <a href="https://dlive.tv/ErnestHancock" target="_blank">DLive</a>
+</div>
+</div>
+<div class="text-center">
+<a href="http://t.me/dyiweh" target="_blank" title="Declare Your Independence on Telegram">
+<img alt="Join the Declare Your Independence channel on Telegram" src="/Content/images/telegram-join.png" style="margin-bottom:4px;" width="160"/>
+</a>
+</div>
+<a href="http://pirateswithoutborders.com" target="_blank">
+<img src="/Content/images/PWB_181x290.png"/>
+</a>
+<div style="margin: 7px;text-align:center;">
+<a href="https://ipfs.io/ipns/QmW6iyZ27fYAwd15CQ9nDkLhZPa5QsfbZ8EuSoncHgwA8Y/" target="_blank" title="View site on IPFS">
+<img height="25" src="/Content/images/IPFS_logo.png" style="max-height: 25px;"/><img height="25" src="/Content/head/button.png" style="max-height: 25px;"/>
+</a>
+</div>
+<a class="btn btn-default" href="http://libertytalk.fm/" id="ltfmPlayer_show" onclick="showLtfm();return false;" style="text-align:right; vertical-align:middle; width:90%; height:40px; margin:5%; padding:5px; background-size:contain; background-repeat:no-repeat; background-position:left; background-image:url('/Content/images/LibertyTalkFM-LOGO_v003.png')" target="_blank" title="Live streaming talk radio and news 24 hours Monday through Friday"><span class="glyphicon glyphicon-play-circle" style="font-size:24px;"></span></a>
+<iframe frameborder="0" height="365" id="ltfmPlayer" scrolling="no" style="overflow-x:hidden;overflow-y:hidden;border:0px; display:none;" width="181"></iframe>
+<div class="row nav" id="player-show" style="display: none;">
+<a href="#">Show Media Player</a>
+</div>
+<div id="player" style="display: none;">
+<header>
+<h4>Declare Your Independence</h4>
+<p class="subheading default" id="default">Streaming Live from LRN.fm</p>
+<p class="subheading meta" style="display:none;">Streaming Live from LRN.fm</p>
+</header>
+<div id="audio-wrapper">
+<audio controls="controls" id="lrn" preload="none" src="http://s2.voscast.com:7392/;"></audio>
+</div>
+<p><a href="#" id="player-pop-out">Pop Out Audio Window</a></p>
+</div>
+<div class="row nav">
+</div>
+<div class="row nav">
+<a href="https://www.freedomsphoenix.com/Secure/Join-Us.htm">Free Daily Newsletter</a><br/>
+</div>
+<div class="row nav">
+<a href="https://www.freedomsphoenix.com/RSS/RSS-Feed.xml">RSS FEEDS</a>
+</div>
+<section class="top-links" title="Top Links">
+<div class="row">
+<span class="title"><a href="https://www.freedomsphoenix.com/Subjects/TopTech">TOP TECH NEWS</a></span>
+</div>
+<div class="row top-link" data-rankno="569146">
+<a href="/News/301374-2021-03-16-googles-nest-adds-sleep-tracking-in-new-health-tech-foray.htm" title="Google's Nest Adds Sleep Tracking in New Health Tech Foray">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0316114802.jpg"/>
+</a>
+<a href="/News/301374-2021-03-16-googles-nest-adds-sleep-tracking-in-new-health-tech-foray.htm" itemprop="url" title="Google's Nest unit is expanding into health technology with a feature that tracks sleep patterns, offering a potential new revenue stream but also raising privacy concerns.
+
+">Google's Nest Adds Sleep Tracking in New Health Tech Foray</a>
+</div>
+<div class="row top-link" data-rankno="568823">
+<a href="/News/301228-2021-03-13-amperetime-victron-budget-lifepo4-battery-system.htm" title="AmpereTime + Victron = Budget LiFePO4 Battery System">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0313103546.jpg"/>
+</a>
+<a href="/News/301228-2021-03-13-amperetime-victron-budget-lifepo4-battery-system.htm" itemprop="url" title="The VE Network is not a Wi-fi network!! Some people below are thinking that you need internet to run this or set it up. Absolutely false. It is the bluetooth network system for victron energy components. Not a wifi network! You can use this network s">AmpereTime + Victron = Budget LiFePO4 Battery System</a>
+</div>
+<div class="row top-link" data-rankno="568820">
+<a href="/News/301227-2021-03-13-overkill-solar-12-24-48v-bms-high-quality-and-beginner.htm" title="Overkill Solar 12/24/48V BMS: High Quality and Beginner Friendly!">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0313102952.jpg"/>
+</a>
+<a href="/News/301227-2021-03-13-overkill-solar-12-24-48v-bms-high-quality-and-beginner.htm" itemprop="url" title="12V Battery Build - Bluetooth Connection - Charging/ Low Temp - Protection Test -  Max Current Test - 24V Battery Build - 24V BMS Low Temp Charting Protection Test - 24V BMS Continuous Current Test
+Max Load Till OCP is Triggered - Conclusion">Overkill Solar 12/24/48V BMS: High Quality and Beginner Friendly!</a>
+</div>
+<div class="row top-link" data-rankno="568868">
+<a href="/News/301253-2021-03-14-insta360s-go-2-actioncam-is-still-tiny-but-more-capable.htm" title="Insta360's Go 2 actioncam is still tiny, but more capable">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0314114322.jpg"/>
+</a>
+<a href="/News/301253-2021-03-14-insta360s-go-2-actioncam-is-still-tiny-but-more-capable.htm" itemprop="url" title="Although Insta360 is known for its panoramic video cameras, two years ago it released a tiny conventional actioncam called the Go. This week the company announced that model's new-and-improved sibling, the Go 2.
+
+">Insta360's Go 2 actioncam is still tiny, but more capable</a>
+</div>
+<div class="row top-link" data-rankno="568940">
+<a href="/News/301285-2021-03-14-jfks-dream-of-breakthrough-energy-technology-it-was-real-it.htm" title="JFK's Dream of Breakthrough Energy Technology: It Was Real; It Was Passamaquoddy">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/522-0314131737.jpg"/>
+</a>
+<a href="/News/301285-2021-03-14-jfks-dream-of-breakthrough-energy-technology-it-was-real-it.htm" itemprop="url" title="Discussion of reviving the Passamaquoddy Tidal Power Project has surfaced every few years, with studies undertaken and debates renewed. Each time, most people agree that the engineering plan is sound: the project could be built and it would work. Oth">JFK's Dream of Breakthrough Energy Technology: It Was Real; It Was Passamaquoddy</a>
+</div>
+<div class="row top-link" data-rankno="568851">
+<a href="/News/301242-2021-03-13-libertarians-want-to-make-new-hampshire-a-flying-car-mecca.htm" title="Libertarians Want to Make New Hampshire a Flying Car Mecca">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0313201323.jpg"/>
+</a>
+<a href="/News/301242-2021-03-13-libertarians-want-to-make-new-hampshire-a-flying-car-mecca.htm" itemprop="url" title="Talk about nosedives.
+
+">Libertarians Want to Make New Hampshire a Flying Car Mecca</a>
+</div>
+<div class="row top-link" data-rankno="568754">
+<a href="/News/301203-2021-03-13-gravity-and-radiation-will-not-be-problems-on-mars-moon.htm" title="Gravity and Radiation Will Not Be Problems on Mars, Moon or Orbital Space Colonies">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0313045957.jpg"/>
+</a>
+<a href="/News/301203-2021-03-13-gravity-and-radiation-will-not-be-problems-on-mars-moon.htm" itemprop="url" title="Many in the space community are very concerned about low-gravity, no-gravity and radiation for people living for long durations in space colonies on planets, moons, asteroids or orbital bases. ">Gravity and Radiation Will Not Be Problems on Mars, Moon or Orbital Space Colonies</a>
+</div>
+<div class="row top-link" data-rankno="568748">
+<a href="/News/301200-2021-03-13-first-to-orbit-spacex-starship-blue-origin-new-glenn-or.htm" title="First to Orbit ? SpaceX Starship, Blue Origin New Glenn or ULA SLS">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0313045535.jpg"/>
+</a>
+<a href="/News/301200-2021-03-13-first-to-orbit-spacex-starship-blue-origin-new-glenn-or.htm" itemprop="url" title="Which of the major new rockets (SpaceX Starship, Blue Origin New Glenn or United Launch Alliance SLS) will reach orbit first? Below are the current target dates. Obviously I believe SpaceX Starship will get to orbit first.
+
+">First to Orbit ? SpaceX Starship, Blue Origin New Glenn or ULA SLS</a>
+</div>
+<div class="row top-link" data-rankno="568771">
+<a href="/News/301213-2021-03-13-experimental-microsphere-anodes-triple-capacity-of-lithium-batteries.htm" title="Experimental microsphere anodes triple capacity of lithium batteries">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/522-0313053331.jpg"/>
+</a>
+<a href="/News/301213-2021-03-13-experimental-microsphere-anodes-triple-capacity-of-lithium-batteries.htm" itemprop="url" title="Through experimentation with a newly created type of material, scientists in Russia have landed on a battery design with a number of promising performance benefits, in particular an ability to offer triple the capacity of today's solutions.">Experimental microsphere anodes triple capacity of lithium batteries</a>
+</div>
+<div class="row top-link" data-rankno="568749">
+<a href="/News/301201-2021-03-13-future-happening-now-trillions-in-flying-cars-quantum-computers-evs.htm" title="Future Happening Now – Trillions in Flying Cars, Quantum Computers, EVs">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0313045757.jpg"/>
+</a>
+<a href="/News/301201-2021-03-13-future-happening-now-trillions-in-flying-cars-quantum-computers-evs.htm" itemprop="url" title="The technology that we long believed would characterize the future has not just gotten billions in investment but there are many companies with multi-billion valuations to transform the world to future technology. ">Future Happening Now – Trillions in Flying Cars, Quantum Computers, EVs</a>
+</div>
+<div class="row top-link" data-rankno="568787">
+<a href="/News/301221-2021-03-13-security-experts-raise-red-flags-on-dubai-airports-new-iris.htm" title="Security Experts &quot;Raise Red Flags&quot; On Dubai Airport's New Iris Scan Technology ">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0313062311.jpg"/>
+</a>
+<a href="/News/301221-2021-03-13-security-experts-raise-red-flags-on-dubai-airports-new-iris.htm" itemprop="url" title="Travelers at Dubai International Airport are now greeted by iris-scanners that are connected with the country's facial recognition database, according to the Associated Press (AP). ">Security Experts "Raise Red Flags" On Dubai Airport's New Iris Scan Technology </a>
+</div>
+<div class="row top-link" data-rankno="568621">
+<a href="/News/301140-2021-03-11-tesla-current-10-30-battery-cost-advantage-is-still-improving.htm" title="Tesla Current 10-30% Battery Cost Advantage is Still Improving">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/522-0311134656.jpg"/>
+</a>
+<a href="/News/301140-2021-03-11-tesla-current-10-30-battery-cost-advantage-is-still-improving.htm" itemprop="url" title="Cairn Energy Research Advisors reports that Tesla has the lowest cost batteries by at least 10% and over 24% versus other car companies. This is before the cost reductions that Tesla is implementing from 2020 Battery Day.">Tesla Current 10-30% Battery Cost Advantage is Still Improving</a>
+</div>
+</section>
+<div class="row">
+<div class="sidebar-donate">
+<header>
+<h4>Donate Crypto</h4>
+</header>
+<ul class="nav nav-pills nav-justified">
+<li class="active"><a data-toggle="tab" href="#tab-pane-donate-btc2203348">Bitcoin</a></li>
+<li><a data-toggle="tab" href="#tab-pane-donate-bch2203348">Bitcoin Cash</a></li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane fade in active" id="tab-pane-donate-btc2203348">
+<span class="donate_qr_btc"><img src="https://www.freedomsphoenix.com/images/qr/1NmeJhLcHb2T1njCkWb3UF1tLyyan2B2dx_125.png"/></span>
+<div class="donate_addr_btc paymentaddress">1NmeJhLcHb2T1njCkWb3UF1tLyyan2B2dx</div>
+</div>
+<div class="tab-pane fade" id="tab-pane-donate-bch2203348">
+<span class="donate_qr_bch"></span>
+<div class="donate_addr_bch paymentaddress">1NmeJhLcHb2T1njCkWb3UF1tLyyan2B2dx</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row nav">
+<a href="https://www.freedomsphoenix.com/Report-the-News.htm">Be a Reporter</a>
+</div>
+<div class="row nav">
+<a href="https://www.freedomsphoenix.com/List-of-Letters.htm">Letters To The Editor</a>
+</div>
+<div class="row nav">
+<a href="https://www.freedomsphoenix.com/Subjects/00219-LAST-freedomsphoenix-tutorials.htm">Tutorials</a>
+</div>
+<div class="row nav">
+<a href="https://www.freedomsphoenix.com/Advertising-Rates.htm">Advertise</a>
+</div>
+<div class="row nav">
+<a href="https://www.freedomsphoenix.com/Page-Two.htm">More News / Page 2</a>
+</div>
+<div class="ad">
+<a class="ad-link" href="https://www.freedomsphoenix.com/SendTo.htm?AdNo=1554&amp;EdNo=1" target="_blank"><img alt="https://secure.cryptohippie.com/" height="600" src="https://www.freedomsphoenix.com/_Ads/Graphics/Ernest-Hancock-027.png" width="160"/></a>
+</div>
+<div class="ad">
+<a class="ad-link" href="https://www.freedomsphoenix.com/SendTo.htm?AdNo=1618&amp;EdNo=1" target="_blank"><img alt="https://onegreatworknetwork.com/" height="600" src="https://www.freedomsphoenix.com/_Ads/Graphics/Ernest-Hancock-123.jpg" width="160"/></a>
+</div>
+<div class="ad">
+<a class="ad-link" href="https://www.freedomsphoenix.com/SendTo.htm?AdNo=1554&amp;EdNo=1" target="_blank"><img alt="https://secure.cryptohippie.com/" height="600" src="https://www.freedomsphoenix.com/_Ads/Graphics/Ernest-Hancock-027.png" width="160"/></a>
+</div>
+</div>
+</div>
+<!-- /#sidebar-wrapper -->
+<!-- Page Content -->
+<div id="page-content-wrapper">
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm-12">
+<div class="row fp-main-top">
+<div class="col-md-9 col-sm-9 col-xs-12 top-ad">
+<a class="ad-link" href="https://www.freedomsphoenix.com/SendTo.htm?AdNo=1550&amp;EdNo=1" target="_blank"><img alt="CryptoHippie" height="90" src="https://www.freedomsphoenix.com/_Ads/Graphics/Ernest-Hancock-023.png" width="728"/></a>
+</div>
+<div class="col-md-3 col-sm-3 hidden-xs box">
+<div class="row" style="margin-top: -5px">
+<a href="/Join">Join-Us</a>                                         |
+<a href="https://www.freedomsphoenix.com/Secure/Log-In.htm">Log-In</a> </div>
+<div class="row" style="margin-top: -8px">
+<a href="/Forum">Freedom Forum</a>
+                                                                             | <a href="https://translate.google.com/translate?hl=en&amp;sl=auto&amp;tl=es&amp;u=https%3a%2f%2fwww.freedomsphoenix.com%2f%3fEdNo%3d001" target="_blank">Translate</a>
+</div>
+<div class="row" style="padding-top: 8px; background-color: #FFFF55">
+<form action="https://www.freedomsphoenix.com/Search-Site.htm" method="POST">
+<div id="TopSearchBox" style="display: block; width: 90%; margin: 0 5%">
+<input name="SearchText" size="10" style="font-family: Arial; font-size: 9pt; border: 1px solid #0000FF; padding: 1px 3px; width: 75%; min-width: 60px; max-width: 180px; max-height: 20px; vertical-align: top; margin: 0 0 5px 0" type="text"/>
+<input name="SearchBoxGo" src="/Content/images/Search-Icon-30x30.png" style="width: 25%; max-width: 20px;" type="image"/>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="body-content">
+<main id="main" role="main">
+<section class="main-info">
+<div class="summary-column info-left col-xs-6">
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301375" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301375-2021-03-16-hbos-qanon-docuseries-q-into-the-storm-believes-it-has.htm" title="HBO's QAnon Docuseries 'Q: Into the Storm' Believes It Has Discovered Q's Identity">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0316115024.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00731-LAST-q-and-the-anons.htm" itemprop="about" rel="category">
+                            Q and the Anons
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301375-2021-03-16-hbos-qanon-docuseries-q-into-the-storm-believes-it-has.htm" itemprop="url">HBO's QAnon Docuseries 'Q: Into the Storm' Believes It Has Discovered Q's Identity</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://www.thedailybeast.com, Nick Schager</span></small>
+</header>
+<p itemprop="description">The six-part docuseries, premiering March 21 on HBO, examines the Trump-centric conspiracy theory/movement--and makes a convincing case for exactly who is posing as Q.
+
+</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301375">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569149">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569149">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301378" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301378-2021-03-16-scientists-stunned-to-discover-plants-beneath-mile-deep-greenland-ice.htm" title="Scientists stunned to discover plants beneath mile-deep Greenland ice">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0316120013.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00235-LAST-climate-change.htm" itemprop="about" rel="category">
+                            Climate Change
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301378-2021-03-16-scientists-stunned-to-discover-plants-beneath-mile-deep-greenland-ice.htm" itemprop="url">Scientists stunned to discover plants beneath mile-deep Greenland ice</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://www.sciencedaily.com,University of Vermont</span></small>
+</header>
+<p itemprop="description">Long-lost ice core provides direct evidence that giant ice sheet melted off within the last million years and is highly vulnerable to a warming climate
+</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301378">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569154">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569154">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301376" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301376-2021-03-16-mars-has-much-more-water-than-previously-known-but-theres.htm" title="Mars Has Much More Water Than Previously Known--But There's a Catch">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0316115407.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00098-LAST-space-travel-and-exploration.htm" itemprop="about" rel="category">
+                            Space Travel and Exploration
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301376-2021-03-16-mars-has-much-more-water-than-previously-known-but-theres.htm" itemprop="url">Mars Has Much More Water Than Previously Known--But There's a Catch</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://time.com, BY JEFFREY KLUGER </span></small>
+</header>
+<p itemprop="description">There's never been much mystery surrounding the murder of Mars. Once a warm, wet world, Mars lost its magnetic field more than 4 billion years ago when its outer core cooled, shutting off the dynamo that kept the field in place.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301376">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569150">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569150">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301382" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301382-2021-03-16-for-crying-out-loud-dutch-scientists-grow-human-tear-glands.htm" title="For crying out loud: Dutch scientists grow human tear glands">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/522-0316140237.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00120-LAST-science-medicine-and-technology.htm" itemprop="about" rel="category">
+                            Science, Medicine and Technology
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301382-2021-03-16-for-crying-out-loud-dutch-scientists-grow-human-tear-glands.htm" itemprop="url">For crying out loud: Dutch scientists grow human tear glands</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://www.theguardian.com, Natalie Grover </span></small>
+</header>
+<p itemprop="description">Creation of mini-organs using stem cells will help research into tear-related disorders</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301382">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569165">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569165">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=522" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Lee
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301384" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301384-2021-03-16-spirit-airlines-kicks-four-year-old-boy-with-autism-off.htm" title="Spirit Airlines kicks four-year-old boy with autism off flight for not wearing mask">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/522-0316140819.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00082-LAST-transportation-air-travel.htm" itemprop="about" rel="category">
+                            Transportation: Air Travel
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301384-2021-03-16-spirit-airlines-kicks-four-year-old-boy-with-autism-off.htm" itemprop="url">Spirit Airlines kicks four-year-old boy with autism off flight for not wearing mask</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://www.cbsnews.com, CBS News </span></small>
+</header>
+<p itemprop="description">An Arkansas woman says Spirit Airlines kicked her son and husband off a flight Monday because the four year old, who's non-verbal with autism, wasn't wearing a mask.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301384">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569170">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569170">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=522" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Lee
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<div class="info-donate">
+<span class="title">HELP FUND FREEDOM'S PHOENIX!</span>
+<a href="https://www.freedomsphoenix.com/Secure/Contributions.htm" title="Support Freedoms Phoenix">Make a one-time or periodic contribution.</a>
+<span>Use your credit card or PayPal account.</span>
+</div>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301386" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301386-2021-03-16-physicist-dr-lubos-motls-book-review-of-moranos-green-fraud.htm" title="Physicist Dr. Lubos Motl's book review of Morano's Green Fraud: 'Amazing…entertained…sou">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/284-0316145250.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00235-LAST-climate-change.htm" itemprop="about" rel="category">
+                            Climate Change
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301386-2021-03-16-physicist-dr-lubos-motls-book-review-of-moranos-green-fraud.htm" itemprop="url">Physicist Dr. Lubos Motl's book review of Morano's Green Fraud: 'Amazing…entertained…sou</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">arclein</span></small>
+</header>
+<p itemprop="description">Before you get to that chapter, you see that this book has been praised by heavyweights such as Sean Hannity, Will Happer, and the late Rush Limbaugh (plus Levin, Inhofe, Bozell). Later, you may read quite some entertaining praise from other sources </p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301386">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569174">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569174">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=284" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Klein
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301387" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301387-2021-03-16-can-cars-run-on-water.htm" title="Can cars run on water?">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/284-0316145622.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00120-LAST-science-medicine-and-technology.htm" itemprop="about" rel="category">
+                            Science, Medicine and Technology
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301387-2021-03-16-can-cars-run-on-water.htm" itemprop="url">Can cars run on water?</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">arclein</span></small>
+</header>
+<p itemprop="description">"Problem: It takes exactly the same amount of energy to pry those hydrogen and oxygen atoms apart inside the electrolysis cell as you get back when they recombine inside the fuel cell. The laws of thermodynamics haven't changed, in spite of any h</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301387">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569175">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569175">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=284" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Klein
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301379" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301379-2021-03-16-sky-globals-ceo-responds-to-recent-news-reports.htm" title="Sky Global's CEO responds to recent news reports">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316124238.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00639-LAST-investigations.htm" itemprop="about" rel="category">
+                            Investigations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301379-2021-03-16-sky-globals-ceo-responds-to-recent-news-reports.htm" itemprop="url">Sky Global's CEO responds to recent news reports</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">GlobeNewswire</span></small>
+</header>
+<p itemprop="description">"To date, the authorities have not informed us of any of the proceedings which have been reported in the media."</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301379">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569156">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569156">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-radio" data-infono="301349" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/Media/301349-2021-03-16-03-16-21-todays-show-will-be-a-podcast-paul.htm" title="03-16-21 -- Today's show will be a PODCAST - Paul Rosenberg - Doug Hodges (LOADED)">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/images/Media-Logos/Pix/DYIwEH-Radio-Show-Pix.jpg"/>
+</a>
+<small>
+                    Radio/TV •
+                        <a href="/Subjects/00189-LAST-declare-your-independence-with-ernest-hancock.htm" itemprop="about" rel="category">
+                            Declare Your Independence with Ernest Hancock
+                        </a>
+</small>
+<div class="category">
+<a href="/Program-Page.htm?No=1" itemprop="about" title="Declare Your Independence with Ernest Hancock - Radio program archives">Declare Your Independence with Ernest Hancock - Radio</a>
+</div>
+<span class="cite">
+                        Host:
+                            <a href="/Writer-Bio-Page.htm?EditNo=001" rel="author"> Ernest Hancock</a>
+</span>
+<h1 itemprop="headline">
+<a href="/Media/301349-2021-03-16-03-16-21-todays-show-will-be-a-podcast-paul.htm" itemprop="url">03-16-21 -- Today's show will be a PODCAST - Paul Rosenberg - Doug Hodges (LOADED)</a>
+</h1>
+<span class="cite">Program Date: <time datetime="03-16-2021" itemprop="datePublished" pubdate="">03-16-2021</time></span>
+</header>
+<p itemprop="description">Ernest will do a podcast with Paul Rosenberg (Freeman's Perspective) where Paul discusses his newest Parallel Society's Newsletter titled 'Our Moment of Opportunity' - Doug Hodges (Phoenix Crypto) on Bitcoin; Bitcoin ATM's; the crypto market, etc... </p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=Media&amp;Info=301349">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569080">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569080">Send Letter to Editor</a>
+            
+                 •
+<a href="https://www.freedomsphoenix.com/Print-Page.htm?EdNo=001&amp;Info=0569080">View for Print</a> </div>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301356" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301356-2021-03-16-sn11-static-fire-test-was-damaged-the-reason-was-because.htm" title="SN11 static fire test was damaged, the reason was because the engine was on fire">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316080451.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00098-LAST-space-travel-and-exploration.htm" itemprop="about" rel="category">
+                            Space Travel and Exploration
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301356-2021-03-16-sn11-static-fire-test-was-damaged-the-reason-was-because.htm" itemprop="url">SN11 static fire test was damaged, the reason was because the engine was on fire</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">SPACEX FANS - YouTube.com</span></small>
+</header>
+<p itemprop="description">SN11 static fire test was damaged, the reason was because the engine was on fire. SPACEX is expected to launch the Starship SN11 this week.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301356">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569096">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569096">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301370" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301370-2021-03-16-voice-of-dr-maurice-hilleman-aids-and-cancer.htm" title="VOICE OF DR. MAURICE HILLEMAN - AIDS AND CANCER">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316104912.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00287-LAST-vaccines-and-vaccinations.htm" itemprop="about" rel="category">
+                            Vaccines and Vaccinations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301370-2021-03-16-voice-of-dr-maurice-hilleman-aids-and-cancer.htm" itemprop="url">VOICE OF DR. MAURICE HILLEMAN - AIDS AND CANCER</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Maybe No Limit - Bitchute</span></small>
+</header>
+<p itemprop="description">Vaccines are the cause of AIDS and Cancer from the head of MERCK</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301370">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569134">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569134">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301364" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301364-2021-03-16-freetalklive-com-raided-1acommunity.htm" title="FREETALKLIVE.COM RAIDED!!! #1ACOMMUNITY">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316101450.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00113-LAST-revolutions-rebellions-uprisings.htm" itemprop="about" rel="category">
+                            Revolutions, Rebellions &amp; Uprisings
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301364-2021-03-16-freetalklive-com-raided-1acommunity.htm" itemprop="url">FREETALKLIVE.COM RAIDED!!! #1ACOMMUNITY</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Breaking the Flaw</span></small>
+</header>
+<p itemprop="description"></p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301364">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569118">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569118">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301361" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301361-2021-03-16-vatican-running-out-of-money-due-to-pedophilia-costs.htm" title="Vatican running out of money due to pedophilia costs
+">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316095207.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00640-LAST-religon-pope-news.htm" itemprop="about" rel="category">
+                            Religon: Pope News
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301361-2021-03-16-vatican-running-out-of-money-due-to-pedophilia-costs.htm" itemprop="url">Vatican running out of money due to pedophilia costs
+</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Nexus News Feed</span></small>
+</header>
+<p itemprop="description">Vatican admits it has nearly depleted its financial reserves and pleads for more donations from the faithful</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301361">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569109">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569109">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301357" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301357-2021-03-16-lockdowns-wrecked-democracy-around-the-world.htm" title="Lockdowns Wrecked Democracy around the World
+">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316093605.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00259-LAST-pandemic.htm" itemprop="about" rel="category">
+                            Pandemic
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301357-2021-03-16-lockdowns-wrecked-democracy-around-the-world.htm" itemprop="url">Lockdowns Wrecked Democracy around the World
+</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">American Institute for Economic Research</span></small>
+</header>
+<p itemprop="description">While the number of fatalities attributed to Covid-19 is carefully tracked by governments, few people have recognized how pandemic-spurred crackdowns have devastated democracy around the world.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301357">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569097">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569097">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301355" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301355-2021-03-16-us-retail-sales-collapse-in-february-online-sales-plunge.htm" title="US Retail Sales Collapse In February, Online Sales Plunge
+">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316075917.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00094-LAST-economy-economics-usa.htm" itemprop="about" rel="category">
+                            Economy - Economics USA
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301355-2021-03-16-us-retail-sales-collapse-in-february-online-sales-plunge.htm" itemprop="url">US Retail Sales Collapse In February, Online Sales Plunge
+</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Zero Hedge - Tyler Durden</span></small>
+</header>
+<p itemprop="description">There appear to be three reasons for huge retail sales miss...1. payback from the stimulus-induced gain in January; 2. delayed tax refunds; 3. Winter blizzard.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301355">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569095">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569095">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301353" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301353-2021-03-16-us-industrial-production-unexpectedly-plunged-in-february-auto-manufacturing-c.htm" title="US Industrial Production Unexpectedly Plunged In February, Auto Manufacturing Crashed">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316075240.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00728-LAST-manufacturing-u-s-a.htm" itemprop="about" rel="category">
+                            Manufacturing-U.S.A
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301353-2021-03-16-us-industrial-production-unexpectedly-plunged-in-february-auto-manufacturing-c.htm" itemprop="url">US Industrial Production Unexpectedly Plunged In February, Auto Manufacturing Crashed</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Zero Hedge - Tyler Durden</span></small>
+</header>
+<p itemprop="description">...pushed the YoY drop in production down to 4.25%...</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301353">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569090">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569090">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301373" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00377-LAST-according-to-morpheus.htm" itemprop="about" rel="category">
+                            According to Morpheus
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301373-2021-03-16-can-you-say-targeted.htm" itemprop="url">Can you say targeted?</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">US Attorney</span></small>
+</header>
+<p itemprop="description">Six Charged with Crimes Related to Virtual Currency Exchange Business</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301373">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569141">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569141">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=090" itemprop="creator" rel="author" title="Visit editor bio page">
+    Morpheus Titania
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-article" data-infono="301347" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/Article/301347-2021-03-16-lrn-fm-studios-just-raided-by-feds.htm" title="LRN.FM Studios just raided by Feds...">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316064240.jpg"/>
+</a>
+<small>
+                    Feature Article •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00639-LAST-investigations.htm" itemprop="about" rel="category">
+                            Investigations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/Article/301347-2021-03-16-lrn-fm-studios-just-raided-by-feds.htm" itemprop="url">LRN.FM Studios just raided by Feds...</a>
+</h1>
+<span class="cite">
+<a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</header>
+<p itemprop="description">FBI, ATF, treasury department are on scene. Ian Freeman has been taken into custody; others may have been arrested as well (can't confirm at the moment). We will post updates as we get more information.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=Article&amp;Info=301347">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569076">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569076">Send Letter to Editor</a>
+            
+                 •
+<a href="https://www.freedomsphoenix.com/Print-Page.htm?EdNo=001&amp;Info=0569076">View for Print</a> </div>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301366" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301366-2021-03-16-weekly-update-is-biden-holding-america-hostage-until-independence-day.htm" title="Weekly Update --- Is Biden Holding America Hostage Until 'Independence' Day?">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316102326.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00304-LAST-ron-paul-says.htm" itemprop="about" rel="category">
+                            Ron Paul Says...
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301366-2021-03-16-weekly-update-is-biden-holding-america-hostage-until-independence-day.htm" itemprop="url">Weekly Update --- Is Biden Holding America Hostage Until 'Independence' Day?</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Ron Paul Liberty Report</span></small>
+</header>
+<p itemprop="description">Do we need permission from the government to hold gatherings?</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301366">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569123">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569123">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301362" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301362-2021-03-16-dr-carrie-madej-warns-about-coronavirus-vaccines-and-transhumanism-nanotechnol.htm" title="Dr. Carrie Madej warns about coronavirus vaccines and transhumanism nanotechnology...">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316100323.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00287-LAST-vaccines-and-vaccinations.htm" itemprop="about" rel="category">
+                            Vaccines and Vaccinations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301362-2021-03-16-dr-carrie-madej-warns-about-coronavirus-vaccines-and-transhumanism-nanotechnol.htm" itemprop="url">Dr. Carrie Madej warns about coronavirus vaccines and transhumanism nanotechnology...</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Brighteon - Health Ranger Report</span></small>
+</header>
+<p itemprop="description">...to alter your DNA</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301362">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569112">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569112">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-article" data-infono="301346" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/Article/301346-2021-03-16-confessions-of-medical-truth-tellers.htm" title="Confessions of Medical Truth-Tellers">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0316071830.jpg"/>
+</a>
+<small>
+                    Feature Article •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00287-LAST-vaccines-and-vaccinations.htm" itemprop="about" rel="category">
+                            Vaccines and Vaccinations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/Article/301346-2021-03-16-confessions-of-medical-truth-tellers.htm" itemprop="url">Confessions of Medical Truth-Tellers</a>
+</h1>
+<span class="cite">
+<a href="/Writer-Bio-Page.htm?EditNo=045" itemprop="creator" rel="author" title="Visit editor bio page">
+    Stephen Lendman
+</a>
+</span>
+</header>
+<p itemprop="description">covid -- Since garden variety seasonal flu was renamed covid early last year to kick off the greatest ever public health scam in modern memory, we've been lied to and mass deceived by duplicitous politicians, their public health handmaidens, and pres</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=Article&amp;Info=301346">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569075">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569075">Send Letter to Editor</a>
+            
+                 •
+<a href="https://www.freedomsphoenix.com/Print-Page.htm?EdNo=001&amp;Info=0569075">View for Print</a> </div>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-article" data-infono="301344" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/Article/301344-2021-03-16-us-war-on-iran-by-other-means-continues-unchanged.htm" title="US War on Iran by Other Means Continues Unchanged">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0316071524.jpg"/>
+</a>
+<small>
+                    Feature Article •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00164-LAST-iran.htm" itemprop="about" rel="category">
+                            Iran
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/Article/301344-2021-03-16-us-war-on-iran-by-other-means-continues-unchanged.htm" itemprop="url">US War on Iran by Other Means Continues Unchanged</a>
+</h1>
+<span class="cite">
+<a href="/Writer-Bio-Page.htm?EditNo=045" itemprop="creator" rel="author" title="Visit editor bio page">
+    Stephen Lendman
+</a>
+</span>
+</header>
+<p itemprop="description">Iran -- Chances for Biden regime hardliners to ease hostile actions on Iran are virtually nil.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=Article&amp;Info=301344">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569073">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569073">Send Letter to Editor</a>
+            
+                 •
+<a href="https://www.freedomsphoenix.com/Print-Page.htm?EdNo=001&amp;Info=0569073">View for Print</a> </div>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301337" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301337-2021-03-15-youtube-and-patreon-taking-down-the-corbett-report.htm" title="YouTube and Patreon taking down The Corbett Report
+">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0315163448.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00104-LAST-media-internet.htm" itemprop="about" rel="category">
+                            Media: Internet
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301337-2021-03-15-youtube-and-patreon-taking-down-the-corbett-report.htm" itemprop="url">YouTube and Patreon taking down The Corbett Report
+</a>
+</h1>
+<small class="cite"><time datetime="03-15-2021" pubdate="">03-15-2021</time> • <span itemprop="citation">https://www.lewrockwell.com, OffGuardian</span></small>
+</header>
+<p itemprop="description">James Corbett is likely not long for the YouTube world, having received his second warning his channel is on the chopping block.
+
+</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301337">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569062">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569062">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301336" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301336-2021-03-15-what-are-you-going-to-do-with-your-banked-money.htm" title="What Are You Going To Do With Your Banked Money After March 31st?">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0315163127.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00464-LAST-central-banks-banking.htm" itemprop="about" rel="category">
+                            Central Banks/Banking
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301336-2021-03-15-what-are-you-going-to-do-with-your-banked-money.htm" itemprop="url">What Are You Going To Do With Your Banked Money After March 31st?</a>
+</h1>
+<small class="cite"><time datetime="03-15-2021" pubdate="">03-15-2021</time> • <span itemprop="citation">https://www.lewrockwell.com, By Bill Sardi</span></small>
+</header>
+<p itemprop="description">Looming Negative Interest Rates, Bank Runs, Run-Away Inflation, Rush To Buy Gold &amp; Silver Predicted
+</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301336">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569060">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569060">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301330" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301330-2021-03-15-psychedelic-therapy-could-reset-depressed-brain.htm" title="Psychedelic therapy could 'reset' depressed brain
+">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0315160641.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00010-LAST-health-and-physical-fitness.htm" itemprop="about" rel="category">
+                            Health and Physical Fitness
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301330-2021-03-15-psychedelic-therapy-could-reset-depressed-brain.htm" itemprop="url">Psychedelic therapy could 'reset' depressed brain
+</a>
+</h1>
+<small class="cite"><time datetime="03-15-2021" pubdate="">03-15-2021</time> • <span itemprop="citation">https://www.bbc.com, By Rachel Schraer</span></small>
+</header>
+<p itemprop="description">A powerful hallucinogenic drug known for its part in shamanic rituals is being trialled as a potential cure for depression for the first time.
+
+</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301330">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569046">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569046">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<div class="info-sub">
+<div class="info-sub2">
+<span class="title">Subscribe to Freedom's Phoenix!</span>
+<p>
+                    Enjoy "Insider" articles, your own Favorites page,
+                    and links to many resources that Free Access doesn't provide.
+                </p>
+<p><a href="/Join">More information</a><span class="red">•</span> <a href="/Join">Sign-up Now!</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="summary-column info-right col-xs-6">
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301381" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301381-2021-03-16-jet-packs-are-on-their-way-to-a-battlefield-near.htm" title="Jet packs are on their way to a battlefield near you">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/522-0316135736.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00502-LAST-darpa.htm" itemprop="about" rel="category">
+                            Darpa
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301381-2021-03-16-jet-packs-are-on-their-way-to-a-battlefield-near.htm" itemprop="url">Jet packs are on their way to a battlefield near you</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://www.militarytimes.com, Sarah Sicard</span></small>
+</header>
+<p itemprop="description"> It's 2021, and although I thought by now there would be flying cars, cities on the moon and the ability to teleport from my bed to my couch instead of walking, I guess I'll settle for a jet pack, or as DARPA is calling it, a "Portable Personal</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301381">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569162">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569162">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=522" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Lee
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301377" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301377-2021-03-16-2-000-year-old-biblical-texts-found-in-israel-1st.htm" title="2,000-year-old biblical texts found in Israel, 1st since Dead Sea Scrolls">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0316115751.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00288-LAST-archaeology.htm" itemprop="about" rel="category">
+                            Archaeology
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301377-2021-03-16-2-000-year-old-biblical-texts-found-in-israel-1st.htm" itemprop="url">2,000-year-old biblical texts found in Israel, 1st since Dead Sea Scrolls</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://www.jpost.com, By ROSSELLA TERCATIN  </span></small>
+</header>
+<p itemprop="description">6,000-year-old child skeleton found together with world's oldest woven basket in Judean Desert cave • First discovery of this kind since Dead Sea Scrolls.
+</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301377">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569151">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569151">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301374" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301374-2021-03-16-googles-nest-adds-sleep-tracking-in-new-health-tech-foray.htm" title="Google's Nest Adds Sleep Tracking in New Health Tech Foray">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0316114802.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+                                             •
+<a href="https://www.freedomsphoenix.com/Subjects/TopTech">Top Tech</a> </small>
+<div class="category">
+<a href="/Subjects/00374-LAST-surveillance.htm" itemprop="about" rel="category">
+                            Surveillance
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301374-2021-03-16-googles-nest-adds-sleep-tracking-in-new-health-tech-foray.htm" itemprop="url">Google's Nest Adds Sleep Tracking in New Health Tech Foray</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://finance.yahoo.com, Nico Grant</span></small>
+</header>
+<p itemprop="description">Google's Nest unit is expanding into health technology with a feature that tracks sleep patterns, offering a potential new revenue stream but also raising privacy concerns.
+
+</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301374">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569146">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569146">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301383" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301383-2021-03-16-faa-to-extend-zero-tolerance-policy-for-bad-behavior-while.htm" title="FAA to extend 'zero-tolerance' policy for bad behavior while federal mask mandate is in plac">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/522-0316140520.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00082-LAST-transportation-air-travel.htm" itemprop="about" rel="category">
+                            Transportation: Air Travel
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301383-2021-03-16-faa-to-extend-zero-tolerance-policy-for-bad-behavior-while.htm" itemprop="url">FAA to extend 'zero-tolerance' policy for bad behavior while federal mask mandate is in plac</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">https://www.msn.com, Ian Duncan</span></small>
+</header>
+<p itemprop="description">The Federal Aviation Administration said it is reviewing some 450 cases of passengers behaving badly on airline flights and has opened 20 formal enforcement cases as flight attendants continue to grapple with people refusing to comply with orders to </p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301383">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569167">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569167">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=522" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Lee
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301385" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301385-2021-03-16-escaping-technology-stagnation-and-reaching-true-technology-acceleration.htm" title="Escaping Technology Stagnation and Reaching True Technology Acceleration">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/284-0316144940.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00120-LAST-science-medicine-and-technology.htm" itemprop="about" rel="category">
+                            Science, Medicine and Technology
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301385-2021-03-16-escaping-technology-stagnation-and-reaching-true-technology-acceleration.htm" itemprop="url">Escaping Technology Stagnation and Reaching True Technology Acceleration</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">arclein</span></small>
+</header>
+<p itemprop="description">People could travel 25-30 miles a day by horse or bicycle but traveling 50-150 miles per day in one of the 2-6 million cars in the 1920s was difficult. The reason is that the roads were mostly dirt and poorly connected. The interstate highway system </p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301385">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569173">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569173">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=284" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Klein
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301388" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301388-2021-03-16-clayton-mack-encountered-aquatic-dinosaur.htm" title="Clayton Mack encountered aquatic Dinosaur">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/284-0316145908.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00184-LAST-u-f-o-and-other-unidentified-stuff.htm" itemprop="about" rel="category">
+                            U F O  and Other Unidentified Stuff
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301388-2021-03-16-clayton-mack-encountered-aquatic-dinosaur.htm" itemprop="url">Clayton Mack encountered aquatic Dinosaur</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">arclein</span></small>
+</header>
+<p itemprop="description">Clayton Mack was born in 1910, at Nieumiamus Creek - "place of flies." He went to a residential school and worked as a logger, fisherman and a rancher before becoming a tracker and hunting guide. Descended from a long line of Bella Coola chiefs, he</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301388">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569176">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569176">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=284" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Klein
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301380" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301380-2021-03-16-fbi-investigating-properties-associated-with-free-keene-in-city.htm" title="FBI investigating properties associated with Free Keene in city">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316124439.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00639-LAST-investigations.htm" itemprop="about" rel="category">
+                            Investigations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301380-2021-03-16-fbi-investigating-properties-associated-with-free-keene-in-city.htm" itemprop="url">FBI investigating properties associated with Free Keene in city</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Sentinel Source</span></small>
+</header>
+<p itemprop="description">This is "court-authorized law-enforcement activity" in connection with an ongoing federal investigation, said spokeswoman Kristen Setera.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301380">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569159">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569159">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301371" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301371-2021-03-16-fbi-descends-on-keene-6-people-facing-federal-charges-in.htm" title="FBI descends on Keene, 6 people facing federal charges in connection with Bitcoin">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316110539.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00639-LAST-investigations.htm" itemprop="about" rel="category">
+                            Investigations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301371-2021-03-16-fbi-descends-on-keene-6-people-facing-federal-charges-in.htm" itemprop="url">FBI descends on Keene, 6 people facing federal charges in connection with Bitcoin</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Manchester Ink Link</span></small>
+</header>
+<p itemprop="description">Those charged include: Ian Freeman (formerly Ian Bernard), 40, of Keene:
+Colleen Fordham, 60, of Alstead; Renee Spinella, 23, of Derry ; Andrew Spinella, 35, of Derry ; Nobody (formerly Richard Paul), 52, of Keene
+Aria DiMezzo (formerly James Baker</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301371">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569137">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569137">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301363" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301363-2021-03-16-cheapest-48-volt-lifepo4-battery-pre-built-with-bms-testing.htm" title="Cheapest 48 volt LiFePO4 Battery, Pre-Built with BMS, Testing and Review, Gyll from Signature Solar">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316100627.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00422-LAST-battery-project.htm" itemprop="about" rel="category">
+                            Battery Project
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301363-2021-03-16-cheapest-48-volt-lifepo4-battery-pre-built-with-bms-testing.htm" itemprop="url">Cheapest 48 volt LiFePO4 Battery, Pre-Built with BMS, Testing and Review, Gyll from Signature Solar</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">David Poz - YouTube.com</span></small>
+</header>
+<p itemprop="description">This is the cheapest pre-built battery for 48 volt off grid powerwalls.  At only $300/kwh nothing else comes close.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301363">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569115">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569115">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301358" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301358-2021-03-16-warning-a-coming-covid-catastrophe.htm" title="WARNING: A COMING COVID CATASTROPHE
+">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316094145.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00287-LAST-vaccines-and-vaccinations.htm" itemprop="about" rel="category">
+                            Vaccines and Vaccinations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301358-2021-03-16-warning-a-coming-covid-catastrophe.htm" itemprop="url">WARNING: A COMING COVID CATASTROPHE
+</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">LBRY - Truth Health Freedom</span></small>
+</header>
+<p itemprop="description">In what may be one of the most important stories ever covered by The Highwire, the vaccine developer shared his extreme concerns about these vaccines in particular and why we may be on track to creating a global immunity catastrophe.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301358">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569100">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569100">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301369" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301369-2021-03-16-americans-arent-experiencing-real-shortages-yet-were-just-living-with.htm" title="Americans Aren't Experiencing REAL Shortages Yet. We're Just Living with Limited Options">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316103736.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00378-LAST-self-help-rational-living.htm" itemprop="about" rel="category">
+                            Self-Help: Rational Living
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301369-2021-03-16-americans-arent-experiencing-real-shortages-yet-were-just-living-with.htm" itemprop="url">Americans Aren't Experiencing REAL Shortages Yet. We're Just Living with Limited Options</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Organic Prepper - Daisy Luther</span></small>
+</header>
+<p itemprop="description">Americans are experiencing limited options, not shortages. The sooner you adapt to limitations, the better off you will be when true shortages occur. Here's how to handle the differences in the supply chain.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301369">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569132">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569132">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301360" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301360-2021-03-16-news-roundup-egypt-ivermectin-based-study-results-are-in.htm" title="News Roundup | Egypt Ivermectin-based Study Results Are In">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316094836.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00120-LAST-science-medicine-and-technology.htm" itemprop="about" rel="category">
+                            Science, Medicine and Technology
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301360-2021-03-16-news-roundup-egypt-ivermectin-based-study-results-are-in.htm" itemprop="url">News Roundup | Egypt Ivermectin-based Study Results Are In</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Trial Site News</span></small>
+</header>
+<p itemprop="description">A highly ranked academic medical research center within this Middle East nation, a team of investigators there led by two doctors and faculty of medicine professors, sought to test whether the combination of Nitazoxanide, Ribavirin, zinc and Ivermect</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301360">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569106">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569106">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301359" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301359-2021-03-16-international-criminal-court-accepts-complaint-of-violation-of-nuremberg-code.htm" title="International Criminal Court accepts complaint of violation of Nuremberg Code by Israeli government">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316094535.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00287-LAST-vaccines-and-vaccinations.htm" itemprop="about" rel="category">
+                            Vaccines and Vaccinations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301359-2021-03-16-international-criminal-court-accepts-complaint-of-violation-of-nuremberg-code.htm" itemprop="url">International Criminal Court accepts complaint of violation of Nuremberg Code by Israeli government</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Great Reject</span></small>
+</header>
+<p itemprop="description">On March 5, it was announced that the "People of Truth" organization filed a complaint with the Hague Tribunal against the Israeli government for conducting illegal experiments on Israeli citizens through Pfizer.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301359">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569103">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569103">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301354" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301354-2021-03-16-volkswagen-soars-30-on-profit-upgrade-plan-to-dethrone-tesla.htm" title="Volkswagen Soars 30% On Profit Upgrade, Plan To Dethrone Tesla">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316075623.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00469-LAST-stock-market.htm" itemprop="about" rel="category">
+                            Stock Market
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301354-2021-03-16-volkswagen-soars-30-on-profit-upgrade-plan-to-dethrone-tesla.htm" itemprop="url">Volkswagen Soars 30% On Profit Upgrade, Plan To Dethrone Tesla</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Zero Hedge - Tyler Durden</span></small>
+</header>
+<p itemprop="description">Look out, Tesla. There could be another mainstream FOMO electric vehicle stock coming.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301354">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569092">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569092">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301350" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301350-2021-03-16-drugmakers-push-vaccines-for-kids-amid-debate-over-need-for.htm" title="Drugmakers Push Vaccines for Kids Amid Debate Over Need for Shot">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316073227.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00287-LAST-vaccines-and-vaccinations.htm" itemprop="about" rel="category">
+                            Vaccines and Vaccinations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301350-2021-03-16-drugmakers-push-vaccines-for-kids-amid-debate-over-need-for.htm" itemprop="url">Drugmakers Push Vaccines for Kids Amid Debate Over Need for Shot</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">MSN</span></small>
+</header>
+<p itemprop="description">Children have fared better than adults in the coronavirus pandemic, a fact that makes the development of vaccines for them a unique effort in the annals of medical science.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301350">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569083">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569083">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301352" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301352-2021-03-16-italy-launches-manslaughter-investigation-as-teacher-dies-hours-after-getting.htm" title="Italy Launches Manslaughter Investigation As Teacher Dies Hours After Getting AstraZeneca Jab">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316074037.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00287-LAST-vaccines-and-vaccinations.htm" itemprop="about" rel="category">
+                            Vaccines and Vaccinations
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301352-2021-03-16-italy-launches-manslaughter-investigation-as-teacher-dies-hours-after-getting.htm" itemprop="url">Italy Launches Manslaughter Investigation As Teacher Dies Hours After Getting AstraZeneca Jab</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Zero Hedge - Tyler Durden</span></small>
+</header>
+<p itemprop="description">Officials said a criminal investigation was launched to be "completely sure" that the man's death "cannot be attributed to the above-mentioned inoculation"</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301352">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569087">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569087">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301367" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301367-2021-03-16-how-we-beat-weaponized-hypochondria.htm" title="How We Beat Weaponized Hypochondria">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316102810.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00767-LAST-social-justice-warriors-sjw-q-s.htm" itemprop="about" rel="category">
+                            Social Justice Warriors-SJW's
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301367-2021-03-16-how-we-beat-weaponized-hypochondria.htm" itemprop="url">How We Beat Weaponized Hypochondria</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Eric Peters Autos</span></small>
+</header>
+<p itemprop="description">Why does the Left win? The main reason is that the opposition - such as it is - agrees with the Left.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301367">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569126">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569126">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301368" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301368-2021-03-16-the-safe-car.htm" title='The "Safe" Car'>
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316103107.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00767-LAST-social-justice-warriors-sjw-q-s.htm" itemprop="about" rel="category">
+                            Social Justice Warriors-SJW's
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301368-2021-03-16-the-safe-car.htm" itemprop="url">The "Safe" Car</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Eric Peters Autos</span></small>
+</header>
+<p itemprop="description">Some people are confused - as well as neurotic.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301368">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569129">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569129">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301365" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301365-2021-03-16-she-wouldnt-wear-a-mask-galveston-police-broke-her-foot.htm" title="She Wouldn't Wear A Mask...Galveston Police Broke Her Foot">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316101747.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00304-LAST-ron-paul-says.htm" itemprop="about" rel="category">
+                            Ron Paul Says...
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301365-2021-03-16-she-wouldnt-wear-a-mask-galveston-police-broke-her-foot.htm" itemprop="url">She Wouldn't Wear A Mask...Galveston Police Broke Her Foot</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Ron Paul Liberty Report</span></small>
+</header>
+<p itemprop="description">A 65 year old Galveston woman found herself tackled, handcuffed, arrested, and with a broken foot after she refused to leave a local Bank of America branch without her money. The bank demanded she put on a mask, she refused, so they called in the pol</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301365">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569120">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569120">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301351" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301351-2021-03-16-crypto-trading-platform-etoro-set-to-go-public-via-spac.htm" title="Crypto Trading Platform eToro Set To Go Public Via SPAC At $10 Billion Valuation">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0316073650.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00415-LAST-bitcoin.htm" itemprop="about" rel="category">
+                            Bitcoin
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301351-2021-03-16-crypto-trading-platform-etoro-set-to-go-public-via-spac.htm" itemprop="url">Crypto Trading Platform eToro Set To Go Public Via SPAC At $10 Billion Valuation</a>
+</h1>
+<small class="cite"><time datetime="03-16-2021" pubdate="">03-16-2021</time> • <span itemprop="citation">Zero Hedge - Tyler Durden</span></small>
+</header>
+<p itemprop="description">Just days after it was reported that crypto giant Coinbase had amassed a $90 billion valuation, another major coin wallet is throwing its hat into the ring.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301351">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569086">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569086">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-article" data-infono="301345" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/Article/301345-2021-03-16-militarizing-the-south-china-sea-by-imperial-usa.htm" title="Militarizing the South China Sea: By Imperial USA">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0316071303.jpg"/>
+</a>
+<small>
+                    Feature Article •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00217-LAST-china.htm" itemprop="about" rel="category">
+                            China
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/Article/301345-2021-03-16-militarizing-the-south-china-sea-by-imperial-usa.htm" itemprop="url">Militarizing the South China Sea: By Imperial USA</a>
+</h1>
+<span class="cite">
+<a href="/Writer-Bio-Page.htm?EditNo=045" itemprop="creator" rel="author" title="Visit editor bio page">
+    Stephen Lendman
+</a>
+</span>
+</header>
+<p itemprop="description">US -- US forces are deployed in parts of the world not its own to wage forever wars by hot and/or other means against nonbelligerent nations threatening no one.</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=Article&amp;Info=301345">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569074">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569074">Send Letter to Editor</a>
+            
+                 •
+<a href="https://www.freedomsphoenix.com/Print-Page.htm?EdNo=001&amp;Info=0569074">View for Print</a> </div>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301338" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301338-2021-03-15-i-want-to-live-in-ross-ulbrichts-world.htm" title="I Want To Live In Ross Ulbricht's World
+">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0315163722.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00113-LAST-revolutions-rebellions-uprisings.htm" itemprop="about" rel="category">
+                            Revolutions, Rebellions &amp; Uprisings
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301338-2021-03-15-i-want-to-live-in-ross-ulbrichts-world.htm" itemprop="url">I Want To Live In Ross Ulbricht's World
+</a>
+</h1>
+<small class="cite"><time datetime="03-15-2021" pubdate="">03-15-2021</time> • <span itemprop="citation">https://freemansperspective.com</span></small>
+</header>
+<p itemprop="description">When I say "Ross Ulbricht's world," I'm not referring to his present circumstances, of course; he's presently in a prison cell. </p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301338">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569064">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569064">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301324" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301324-2021-03-15-towards-one-world-currency.htm" title='Towards "One" World Currency'>
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/522-0315144255.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00185-LAST-future-predictions.htm" itemprop="about" rel="category">
+                            Future Predictions
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301324-2021-03-15-towards-one-world-currency.htm" itemprop="url">Towards "One" World Currency</a>
+</h1>
+<small class="cite"><time datetime="03-15-2021" pubdate="">03-15-2021</time> • <span itemprop="citation">https://www.zerohedge.com,by Tyler Durden</span></small>
+</header>
+<p itemprop="description">Expect Government Crackdowns In A "Global Depression"</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301324">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569036">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569036">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=522" itemprop="creator" rel="author" title="Visit editor bio page">
+    Robert Lee
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301335" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301335-2021-03-15-a-producer-price-index-inflation-spike-is-on-the-way.htm" title="A Producer Price Index Inflation Spike Is On The Way Too">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/533-0315162746.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00604-LAST-inflation.htm" itemprop="about" rel="category">
+                            Inflation
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301335-2021-03-15-a-producer-price-index-inflation-spike-is-on-the-way.htm" itemprop="url">A Producer Price Index Inflation Spike Is On The Way Too</a>
+</h1>
+<small class="cite"><time datetime="03-15-2021" pubdate="">03-15-2021</time> • <span itemprop="citation">https://www.thestreet.com, Mish</span></small>
+</header>
+<p itemprop="description">As with the CPI, a PPI year-over-year inflation spike is baked in the cake.
+Producer Price Index Month-Over-Month April 2020
+
+</p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301335">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0569059">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0569059">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=533" itemprop="creator" rel="author" title="Visit editor bio page">
+    Freedomsphoenix Readerfour
+</a>
+</span>
+</footer>
+</article>
+</div>
+<div class="summary col-sm-12">
+<article class="info-news" data-infono="301305" itemscope="" itemtype="http://schema.org/Article">
+<header>
+<a href="/News/301305-2021-03-15-whos-responsible-for-the-notorious-inflation-lies.htm" title="Who's Responsible For The Notorious Inflation Lies?">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/687-0315090418.jpg"/>
+</a>
+<small>
+                    News Link •
+                        <a href="Front-Page.htm?EdNo=001">Global</a>
+</small>
+<div class="category">
+<a href="/Subjects/00304-LAST-ron-paul-says.htm" itemprop="about" rel="category">
+                            Ron Paul Says...
+                        </a>
+</div>
+<h1 itemprop="headline">
+<a href="/News/301305-2021-03-15-whos-responsible-for-the-notorious-inflation-lies.htm" itemprop="url">Who's Responsible For The Notorious Inflation Lies?</a>
+</h1>
+<small class="cite"><time datetime="03-15-2021" pubdate="">03-15-2021</time> • <span itemprop="citation">Ron Paul Liberty Report</span></small>
+</header>
+<p itemprop="description">As Americans watch their bills relentlessly rise, they're repeatedly told by official sources that there is no inflation, or 'not enough' inflation. According to the Fed, prices aren't rising fast enough! They've yet to hit their "inflation target." </p>
+<footer>
+<meta content="UserComments:0" itemprop="interactionCount"/>
+<div class="links">
+<b><a href="/Forum/Add?EdNo=001&amp;Type=News&amp;Info=301305">Make a Comment</a></b>
+            •
+            <a href="https://www.freedomsphoenix.com/Email-Story.htm?EdNo=001&amp;Info=0568980">Email Link</a>
+            •
+            <a href="/Letter?EdNo=001&amp;Info=0568980">Send Letter to Editor</a>
+</div>
+<span class="reporter">
+                Reported By <a href="/Writer-Bio-Page.htm?EditNo=129" itemprop="creator" rel="author" title="Visit editor bio page">
+    Donna Hancock
+</a>
+</span>
+</footer>
+</article>
+</div>
+</div>
+</section>
+<div class="AdSpot_FPB">
+<a class="ad-link" href="https://www.freedomsphoenix.com/SendTo.htm?AdNo=1526&amp;EdNo=1" target="_blank"><img alt="thelibertyadvisor.com/declare" height="90" src="https://www.freedomsphoenix.com/_Ads/Graphics/Ernest-Hancock-008.gif" width="728"/></a>
+</div>
+<div class="navbar navbar-default navbar-static-top" id="fp-nav">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target=".navbar-static-top .navbar-collapse" data-toggle="collapse" type="button">
+<h4 style="display:inline-block; padding:0 0 0 15px; margin:0; vertical-align:top;">MENU</h4>
+<div style="float:left">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</div>
+</button>
+</div>
+<div class="navbar-collapse collapse">
+<div class="container">
+<ul class="nav navbar-nav">
+<li>
+<div class="dropdown hidden-sm hidden-xs">
+<a href="/">More News</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="https://www.freedomsphoenix.com/Page-Two.htm">Page Two</a></li>
+<li><a href="https://www.freedomsphoenix.com/Current-News-List.htm">News Links</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="dropdown">
+<a href="/Articles-List.htm">Anarchives</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="/Search-Page.htm">Search by Keyword</a></li>
+<li><a href="https://www.freedomsphoenix.com/Contents-List.htm">Contents By Subject</a></li>
+<li><a href="/Radio-TV-Archives.htm">Radio/TV Shows</a></li>
+<li><a href="/Articles-List.htm">Feature Articles</a></li>
+<li><a href="/Editorials-List.htm">Opinion Columns</a></li>
+<li><a href="https://www.freedomsphoenix.com/Current-News-List.htm">News Stories</a></li>
+<li><a href="/Newsletters-List.htm">Newsletters List</a></li>
+<li><a href="/Reference-List.htm?EdNo=001">Reference Links</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="dropdown">
+<a href="/Radio-TV-Archives.htm">Radio/TV</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="/Program-Page.htm?No=0001">Declare Your Independence with Ernest Hancock</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="dropdown">
+<a href="/List-of-Letters.htm">Letters To Editor</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="https://www.freedomsphoenix.com/List-of-Letters.htm">List of Letters</a></li>
+<li><a href="/Letter">Write a Letter</a></li>
+</ul>
+</div>
+</li>
+<li class="an">
+<div class="dropdown">
+<a href="https://www.freedomsphoenix.com/Secure/Join-Us.htm?AddFrom=JoinUs">Join Us</a> <ul class="dropdown-menu sub-menu">
+<li class="an">
+<a href="https://www.freedomsphoenix.com/Secure/Join-Us.htm?AddFrom=JoinUs">Membership Sign-up (free)</a> </li>
+<li>
+<a href="https://www.freedomsphoenix.com/Secure/Join-Us.htm?AddFrom=JoinUs">Be a Reporter</a> </li>
+<li><a href="https://www.freedomsphoenix.com/Secure/Join-Us.htm?AddFrom=JoinUs">Be a Writer</a></li>
+<li><a href="https://www.freedomsphoenix.com/Secure/Contributions.htm">Contribute Funding</a></li>
+<li><a href="/Link-To-Us.htm">Link To Us</a></li>
+<li><a href="https://www.freedomsphoenix.com/Advertising-Rates.htm">Advertise</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="dropdown">
+<a href="/Market/Marketplace.htm">Marketplace</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="/Market/Marketplace.htm">Buy Stuff - Sell Stuff</a></li>
+<li><a href="http://www.cafepress.com/freedomsphoenix" target="_blank">Store on CafePress.com</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="dropdown hidden-sm">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Special Editions</a>
+<ul class="dropdown-menu sub-menu comp">
+<li><a href="/Front-Page.htm?EdNo=001">Global</a></li>
+<li><a href="/Front-Page.htm?EdNo=255">Due Diligence</a></li>
+<li><a href="/Front-Page.htm?EdNo=253">Love Bus Liberty Tour</a></li>
+<li><a href="/Front-Page.htm?EdNo=250">Vaccine Education Summit</a></li>
+<li><a href="/Front-Page.htm?EdNo=247">Bitcoin Summit</a></li>
+<li><a href="/Front-Page.htm?EdNo=002">US-Arizona</a></li>
+<li><a href="/Front-Page.htm?EdNo=044">US-Tennessee</a></li>
+<li><a href="/Front-Page.htm?EdNo=200">Ernie's Favorites</a></li>
+<li><a href="/Front-Page.htm?EdNo=202">THE R3VOLUTION CONTINUES</a></li>
+<li><a href="/Front-Page.htm?EdNo=215">"It's Not My Debt"</a></li>
+<li><a href="/Front-Page.htm?EdNo=216">Fascist Nation's Favorites</a></li>
+<li><a href="/Front-Page.htm?EdNo=218">Surviving the Greatest Depression</a></li>
+<li><a href="/Front-Page.htm?EdNo=221">The Only Solution - Direct Action Revolution</a></li>
+<li><a href="/Front-Page.htm?EdNo=222">Western Libertarian</a></li>
+<li><a href="/Front-Page.htm?EdNo=224">S.A.F.E. - Second Amendment is For Everyone </a></li>
+<li><a href="/Front-Page.htm?EdNo=225">Freedom Summit</a></li>
+<li><a href="/Front-Page.htm?EdNo=226">Declare Your Independence</a></li>
+<li><a href="/Front-Page.htm?EdNo=229">FreedomsPhoenix Speakers Bureau</a></li>
+<li><a href="/Front-Page.htm?EdNo=233">Wallet Voting</a></li>
+<li><a href="/Front-Page.htm?EdNo=237">Harhea Phoenix</a></li>
+<li><a href="/Front-Page.htm?EdNo=240">Black Market Friday</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">RSS Feeds</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="/RSS/RSS-Feed.xml?EdNo=001&amp;Page=Art">Articles Feed</a></li>
+<li><a href="/RSS/RSS-Feed.xml?EdNo=001&amp;Page=Col">Opinions Feed</a></li>
+<li><a href="/RSS/RSS-Feed.xml?EdNo=001&amp;Page=Med">Media Feed</a></li>
+<li><a href="/RSS/News-Feed.xml">Newsletter Feed</a></li>
+<li><a href="/RSS/Top-News-Feed.xml">Top News Feed</a></li>
+<li><a href="/RSS/Top-News-Feed.xml">Smartphone Feed</a></li>
+<li><a href="/RSS/Pod-Cast-Feed.xml">Podcast Feed</a></li>
+</ul>
+</div>
+</li>
+<li>
+<div class="dropdown">
+<a href="/About-Us.htm">About Us</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="/About-Us.htm">About Us</a></li>
+<li><a href="/Contact-Us.htm">Contact Us</a></li>
+<li><a href="/Terms-of-Use.htm">Terms of Use</a></li>
+<li><a href="/Privacy-Policy.htm">Privacy Policy</a></li>
+<li><a href="/Writers-List.htm">Writers List</a></li>
+</ul>
+</div>
+</li>
+<li class="hidden-xs hidden-sm">
+<div>
+<a href="https://www.freedomsphoenix.com/Secure/Log-In.htm">Log-In</a> </div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<section class="headlines" title="Articles">
+<div class="summary-column col-xs-6">
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301302-2021-03-15-fcc-falsely-designates-five-chinese-telecom-firms-us-threats.htm" title="FCC Falsely Designates Five Chinese Telecom Firms US Threats">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0315092740.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00461-LAST-united-states.htm" itemprop="about" rel="category">
+            United States
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301302-2021-03-15-fcc-falsely-designates-five-chinese-telecom-firms-us-threats.htm" itemprop="url" title="US -- Biden regime hardliners continue Trump's war on China by other means.">FCC Falsely Designates Five Chinese Telecom Firms US Threats</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301236-2021-03-13-the-prelude-to-world-war-ii-the-spanish-civil-war.htm" title="The Prelude to World War II: The Spanish Civil War and Today's America">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/834-0313154359.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00172-LAST-history.htm" itemprop="about" rel="category">
+            History
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301236-2021-03-13-the-prelude-to-world-war-ii-the-spanish-civil-war.htm" itemprop="url" title="On this week's episode of the Resistance Library Podcast Dave and Sam discuss what is considered by historians to be the prelude to World War II, the Spanish Civil War.
+">The Prelude to World War II: The Spanish Civil War and Today's America</a></h1>
+<p class="reporter" infoprop="creator">
+<a>
+            Sam Jacobs
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301249-2021-03-14-coalition-against-sanctions.htm" title="Coalition Against Sanctions">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0314083437.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00666-LAST-sanctions.htm" itemprop="about" rel="category">
+            Sanctions
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301249-2021-03-14-coalition-against-sanctions.htm" itemprop="url" title="sanctions -- Unilaterally imposed sanctions by one nation on others breach the UN Charter and other international law.">Coalition Against Sanctions</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301247-2021-03-13-your-life-one-step-at-a-time.htm" title="Your life: One Step At A Time">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/036-0313221901.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00378-LAST-self-help-rational-living.htm" itemprop="about" rel="category">
+            Self-Help: Rational Living
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301247-2021-03-13-your-life-one-step-at-a-time.htm" itemprop="url" title='If you look to the universe; stars, planets, moons and galaxies exist in a symbiotic gathering.  They co-exist in a mutual dance based on physics and the "Law of Attraction."  Their energy via movement flourishes in every sector of the cosmos.'>Your life: One Step At A Time</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=036">
+            Frosty Wooldridge
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00455-LAST-russia.htm" itemprop="about" rel="category">
+            Russia
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301212-2021-03-13-russia-bashing-security-council-session.htm" itemprop="url" title="Russia">Russia Bashing Security Council Session</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00461-LAST-united-states.htm" itemprop="about" rel="category">
+            United States
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301208-2021-03-13-millions-harmed-by-the-mother-of-all-con-games.htm" itemprop="url" title="US">Millions Harmed by the Mother of All Con Games</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-radio" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Media/301172-2021-03-12-03-12-21-live-from-flotefest-david-croisant-start9-labs.htm" title="03-12-21 -- LIVE from FloteFest - David Croisant (Start9 Labs) - Mike Swatek - Chuck Williams - (MP3">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/images/Media-Logos/Pix/DYIwEH-Radio-Show-Pix.jpg"/>
+</a>
+<div class="category">
+        Radio/TV •
+        <a href="/Subjects/00189-LAST-declare-your-independence-with-ernest-hancock.htm" itemprop="about" rel="category">
+            Declare Your Independence with Ernest Hancock
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Media/301172-2021-03-12-03-12-21-live-from-flotefest-david-croisant-start9-labs.htm" itemprop="url" title="David Croisant (Start9 Labs) on the self-sovereign, private internet solution - Mike Swaterk (PPM Silver Cosmetics; Coder/Developer) joins the conversation to discuss 'pirate communications' - Chuck Williams (Flote.app) on processing">03-12-21 -- LIVE from FloteFest - David Croisant (Start9 Labs) - Mike Swatek - Chuck Williams - (MP3</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=129">
+            Donna Hancock
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301170-2021-03-12-dems-irreparably-sabotaged-the-jcpoa.htm" title="Dems Irreparably Sabotaged the JCPOA?">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0312070504.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00164-LAST-iran.htm" itemprop="about" rel="category">
+            Iran
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301170-2021-03-12-dems-irreparably-sabotaged-the-jcpoa.htm" itemprop="url" title="Iran -- Actions and body language by undemocratic Dems strongly suggest that Biden regime hardliners and complicit congressional lawmakers intend to irreparably sabotage the landmark JCPOA nuclear deal with Iran.">Dems Irreparably Sabotaged the JCPOA?</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-column" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Opinion/301168-2021-03-11-watering-down-america-into-a-conglomeration-of-strangers.htm" title="Watering Down America Into A Conglomeration of Strangers">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/images/Editors/Frosty-Wooldridge.jpg"/>
+</a>
+<div class="category">
+        Opinion •
+        <a href="/Subjects/00088-LAST-politics-general-activism.htm" itemprop="about" rel="category">
+            Politics: General Activism
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Opinion/301168-2021-03-11-watering-down-america-into-a-conglomeration-of-strangers.htm" itemprop="url" title='The philosopher Emanuel Kant said, "The two greatest dividers in a country are language and religion." It could be cogently added that "Intermingling races in a country is one of the greatest causes of collapsing a country." '>Watering Down America Into A Conglomeration of Strangers</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=036">
+            Frosty Wooldridge
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-column" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Opinion/301144-2021-03-11-we-are-all-palestinians-now.htm" title='"We Are All Palestinians Now" '>
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/images/Editors/Chuck-Baldwin-001.jpg"/>
+</a>
+<div class="category">
+        Opinion •
+        <a href="/Subjects/00628-LAST-social-engineering.htm" itemprop="about" rel="category">
+            Social Engineering
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Opinion/301144-2021-03-11-we-are-all-palestinians-now.htm" itemprop="url" title="If Gates and Fauci have their way, the U.S. and rest of the world will remain in fear-mongering lockdown mode for at least another year or two. If they could make it happen, their fear-mongering lockdowns would last indefinitely.  ">"We Are All Palestinians Now" </a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=067">
+            Chuck Baldwin
+        </a>
+</p>
+</div>
+</div>
+<div class="col-xs-6">
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301303-2021-03-15-urgency-of-addressing-covid-mass-jabbing-hazards.htm" title="Urgency of Addressing Covid Mass Jabbing Hazards">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0315092944.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00287-LAST-vaccines-and-vaccinations.htm" itemprop="about" rel="category">
+            Vaccines and Vaccinations
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301303-2021-03-15-urgency-of-addressing-covid-mass-jabbing-hazards.htm" itemprop="url" title="mass-jabbing -- There's nothing safe about experimental, unapproved, DNA altering, rushed to market drugs for seasonal flu-renamed covid mass-jabbing.">Urgency of Addressing Covid Mass Jabbing Hazards</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301301-2021-03-15-us-indo-pacific-quad-alliance.htm" title="US/Indo-Pacific Quad Alliance">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0315092125.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00217-LAST-china.htm" itemprop="about" rel="category">
+            China
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301301-2021-03-15-us-indo-pacific-quad-alliance.htm" itemprop="url" title="US -- US-cobbled together multi-nation alliances most often have diabolical aims in mind -- notably what's true about colonized EU/NATO countries to further Washington's imperial aims.">US/Indo-Pacific Quad Alliance</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301250-2021-03-14-hell-on-earth-exists.htm" title="Hell on Earth Exists">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0314084230.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00528-LAST-yemen.htm" itemprop="about" rel="category">
+            Yemen
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301250-2021-03-14-hell-on-earth-exists.htm" itemprop="url" title="Yemen - Made in the USA, assisted by its imperial partners, hell exists in raped and destroyed nations by US-led aggression.">Hell on Earth Exists</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301248-2021-03-14-us-israeli-alliance-against-iran-and-regional-peace.htm" title="US/Israeli Alliance Against Iran and Regional Peace">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0314083219.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00164-LAST-iran.htm" itemprop="about" rel="category">
+            Iran
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301248-2021-03-14-us-israeli-alliance-against-iran-and-regional-peace.htm" itemprop="url" title="Iran -- The US and Israel are belligerent states -- hostile to peace, stability and the rule of law.">US/Israeli Alliance Against Iran and Regional Peace</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00461-LAST-united-states.htm" itemprop="about" rel="category">
+            United States
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301208-2021-03-13-millions-harmed-by-the-mother-of-all-con-games.htm" itemprop="url" title="US">Millions Harmed by the Mother of All Con Games</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00525-LAST-coup.htm" itemprop="about" rel="category">
+            Coup
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301211-2021-03-13-former-us-installed-bolivian-coup-detat-president-arrested.htm" itemprop="url" title="Bolivia">Former US-Installed Bolivian Coup d'Etat President Arrested</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-column" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Opinion/301197-2021-03-12-semi-news-semi-satire-march-14-2021-edition.htm" title="SEMI-NEWS/SEMI-SATIRE: March 14, 2021 Edition">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/images/Editors/John-Semmens-001.jpg"/>
+</a>
+<div class="category">
+        Opinion •
+        <a href="/Subjects/00118-LAST-humor.htm" itemprop="about" rel="category">
+            Humor
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Opinion/301197-2021-03-12-semi-news-semi-satire-march-14-2021-edition.htm" itemprop="url" title='Biden May Allow "Small July 4th Gatherings"
+
+In his first prime time address to the nation President Joe Biden boosted American morale by promising "we may be able to allow small July 4th gatherings, but only if everyone behaves between now a'>SEMI-NEWS/SEMI-SATIRE: March 14, 2021 Edition</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=534">
+            John Semmens
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301171-2021-03-12-get-jabbed-for-covid-in-israel-or-be-left-behind.htm" title="Get Jabbed for Covid in Israel or Be Left Behind">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0312070959.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00100-LAST-israel.htm" itemprop="about" rel="category">
+            Israel
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301171-2021-03-12-get-jabbed-for-covid-in-israel-or-be-left-behind.htm" itemprop="url" title="Israel -- Is Israel heading for mandatory covid jabbing or the equivalent through draconian policies?">Get Jabbed for Covid in Israel or Be Left Behind</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301169-2021-03-12-seven-eu-countries-suspend-use-of-astrazenecas-covid-vaccine.htm" title="Seven EU Countries Suspend Use of AstraZeneca's Covid Vaccine">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/045-0312070813.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00210-LAST-european-union.htm" itemprop="about" rel="category">
+            European Union
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301169-2021-03-12-seven-eu-countries-suspend-use-of-astrazenecas-covid-vaccine.htm" itemprop="url" title="EU -- No one should go near them. Halting AZ's entry is inadequate because of adverse events that include blood clots.">Seven EU Countries Suspend Use of AstraZeneca's Covid Vaccine</a></h1>
+<p class="reporter" infoprop="creator">
+<a href="/Writer-Bio-Page.htm?EditNo=045">
+            Stephen Lendman
+        </a>
+</p>
+</div>
+<div class="headline col-sm-12 info-article" itemscope="" itemtype="http://schema.org/Article">
+<a href="/Article/301166-2021-03-11-elmer-keith-the-forgotten-history-of-the-firearms-author-and.htm" title="Elmer Keith: The Forgotten History of the Firearms Author and Father of Big Bore Handgunning">
+<img align="left" alt="Article Image" src="https://www.freedomsphoenix.com/Uploads/Pix/834-0311182908.jpg"/>
+</a>
+<div class="category">
+        Feature Article •
+        <a href="/Subjects/00336-LAST-american-history.htm" itemprop="about" rel="category">
+            American History
+        </a>
+</div>
+<h1 itemprop="headline"><a href="/Article/301166-2021-03-11-elmer-keith-the-forgotten-history-of-the-firearms-author-and.htm" itemprop="url" title="Prolific gun writer and even more prolific wildcatter, Elmer Keith remains a legend in the gun community. Learn how he became the father of the magnum cartridges we use today – the 357, the 41, and the 44.
+
+">Elmer Keith: The Forgotten History of the Firearms Author and Father of Big Bore Handgunning</a></h1>
+<p class="reporter" infoprop="creator">
+<a>
+            Sam Jacobs
+        </a>
+</p>
+</div>
+</div>
+</section>
+<div class="AdSpot_FPB">
+<a class="ad-link" href="https://www.freedomsphoenix.com/SendTo.htm?AdNo=1580&amp;EdNo=1" target="_blank"><img alt="https://insurityfinancialservices.com/masa-coverage" height="90" src="https://www.freedomsphoenix.com/_Ads/Graphics/Ernest-Hancock-100.jpg" width="728"/></a>
+</div>
+<nav class="mid_menu" role="navigation">
+<a href="https://www.freedomsphoenix.com/Page-Two.htm" title="More News">Page Two</a>
+    • <a href="https://www.freedomsphoenix.com/Contents-List.htm" title="Subjects Index">Contents By Subject</a>
+    • <a href="Articles-List.htm?EdNo=001">Articles</a>
+    • <a href="Editorials-List.htm?EdNo=001">Opinions</a>
+    • <a href="List-of-Letters.htm?EdNo=001">Letters</a>
+    • <a href="https://www.freedomsphoenix.com/Current-News-List.htm" title="Current News Links">More News</a>
+</nav>
+<div id="debugger_ian" style="display:none">
+    Cookie Null
+    1/1/0001 12:00:00 AM
+</div>
+<style>
+        #join-bird {
+            z-index: 2;
+        }
+
+        #join-bird-glowing {
+            z-index: 1;
+            transform: scale(1.01) translate(-50%, -50%);
+            -webkit-transform: scale(1.01) translate(-50%, -50%);
+            filter: brightness(0) invert(1) blur(5px);
+            -webkit-filter: brightness(0) invert(1) blur(5px);
+        }
+
+        #join-bird, #join-bird-glowing {
+            padding-right: 10px;
+            max-height: 90%;
+            top: 50%;
+            left: 22%;
+            transform: translate(-50%, -50%);
+            -webkit-transform: translate(-50%, -50%);
+            transform-origin: 0 0;
+            -webkit-transform-origin: 0 0;
+            position: absolute;
+        }
+
+        #join-bird-glowing {
+            -webkit-animation: glowing 1500ms infinite;
+            -moz-animation: glowing 1500ms infinite;
+            -o-animation: glowing 1500ms infinite;
+            animation: glowing 1500ms infinite;
+        }
+
+        @-webkit-keyframes glowing {
+            0% {
+                opacity: 0;
+            }
+
+            10% {
+                opacity: 0.2;
+            }
+
+            20% {
+                opacity: 0.4;
+            }
+
+            30% {
+                opacity: 0.6;
+            }
+
+            40% {
+                opacity: 0.8;
+            }
+
+            50% {
+                opacity: 1;
+            }
+
+            60% {
+                opacity: 0.8;
+            }
+
+            70% {
+                opacity: 0.6;
+            }
+
+            80% {
+                opacity: 0.4;
+            }
+
+            100% {
+                opacity: 0.2;
+            }
+        }
+
+        a#join:hover div#join-inner {
+            display: block;
+            position: fixed;
+            bottom: 50px;
+            right: 15px;
+        }
+
+        #dismiss-join {
+            top: -30px;
+            left: -5px;
+            font-size: 18px;
+        }
+
+            #dismiss-join:hover {
+                text-decoration: none;
+            }
+
+        #join {
+            display: none;
+            position: fixed;
+            bottom: 15px;
+            right: 0px;
+            z-index: 1000;
+        }
+
+            #join a:hover {
+                text-decoration: none;
+            }
+    </style>
+<div id="join">
+<a href="/Join">
+<div class="btn btn-primary btn-lg">
+<div style="overflow:hidden;display:inline-block;"><img id="join-bird" src="/Content/head/bird.svg"><img id="join-bird-glowing" src="/Content/head/bird.svg"/></img></div>
+<div style="margin-left:80px;margin-top:-20px;font-size:28px">Join Us!</div>
+</div>
+</a>
+<a class="glyphicon glyphicon-remove" id="dismiss-join" title="Don't show me this again"></a>
+</div>
+<script>
+
+        function getCookie(name) {
+            var value = "; " + document.cookie;
+            var parts = value.split("; " + name + "=");
+            if (parts.length == 2) return parts.pop().split(";").shift();
+        }
+
+        $(document).ready(function () {
+            var showAlert = true;
+            var joinCookie = getCookie('fp_join_dismissed');
+            if (joinCookie != null) {
+                var check = Date.parse(joinCookie);
+                if (Date.now() < check) {
+                    showAlert = false;
+                }
+            }
+
+            if (showAlert) {
+                $("#join").delay(5000).fadeIn(1000);
+            }
+        });
+
+        $("#dismiss-join").click(function () {
+            setJoinDismissCookie();
+            $("#join").hide();
+        });
+
+
+    </script>
+;
+
+
+                    </main>
+</div>
+<div class="row menu-bottom" id="Menu">
+<div class="col-sm-1 hidden-xs"></div>
+<div class="col-sm-2 col-xs-4" role="navigation">
+<ul>
+<li>
+                Magazine / Newspaper
+                <ul>
+<li><a href="/Magazine/Subscription-Information.htm">Magazine Subscription Info</a></li>
+<li><a href="/Magazine/Issue-List.htm">Online Magazine List</a></li>
+<li><a href="/Newspaper/Newspaper-Subscription.htm">Newspaper Subscription Info</a></li>
+<li><a href="/Newspaper/Newspaper-Issue-List.htm">Newspaper Issue List</a></li>
+</ul>
+</li>
+<li>
+                RSS Feeds
+                <ul>
+<li><a href="/RSS/RSS-Feed.xml?Page=Art">Articles RSS Feed</a></li>
+<li><a href="/RSS/RSS-Feed.xml?Page=Col">Opinions RSS Feed</a></li>
+<li><a href="/RSS/RSS-Feed.xml?Page=Med">Media RSS Feed</a></li>
+<li><a href="/RSS/News-Feed.xml">Newsletter RSS Feed</a></li>
+<li><a href="/RSS/Top-News-Feed.xml">Smartphone Feed</a></li>
+<li><a href="/RSS/Pod-Cast-Feed.xml">Podcast Feed</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-sm-2 col-xs-4">
+<ul>
+<li>
+                Radio / TV
+                <ul>
+<li><a href="/Program-Page.htm?No=0001">Declare Your Independence</a></li>
+<li><a href="/Program-Page.htm?No=0001">with Ernest Hancock</a></li>
+</ul>
+</li>
+<li>
+                Anarchives
+                <ul>
+<li> <a href="/Search-Page.htm">Search by Keyword</a></li>
+<li><a href="https://www.freedomsphoenix.com/Contents-List.htm">Contents Listed by Subject</a></li>
+<li><a href="/Radio-TV-Archives.htm">Radio / TV Show Archives</a></li>
+<li><a href="/Newsletters-List.htm">Newsletter Archives</a></li>
+<li><a href="https://www.freedomsphoenix.com/Current-News-List.htm" title="More News">News Links</a></li>
+<li><a href="/Articles-List.htm">Feature Articles</a></li>
+<li><a href="/Editorials-List.htm">Opinion Columns</a></li>
+<li><a href="/Reference-List.htm">Reference Links</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-sm-2 col-xs-4">
+<ul>
+<li>
+                Letters to the Editor
+                <ul>
+<li><a href="https://www.freedomsphoenix.com/List-of-Letters.htm">List of Letters</a></li>
+<li><a href="/Letter">Write a Letter</a></li>
+</ul>
+</li>
+<li>
+                Join Us
+                <ul>
+<li><a href="/Subscribe-Now.htm">Subscribe to Magazine</a></li>
+<li><a href="/Secure/Join-Us.htm?AddFrom=JoinUs">Membership Sign-Up</a></li>
+<li><a href="/Secure/Join-Us.htm?AddFrom=JoinUs">Be a Writer</a></li>
+<li><a href="https://www.freedomsphoenix.com/Report-the-News.htm" title="Report the News">Be a Reporter</a></li>
+<li><a href="/Link-To-Us.htm">Link to Us</a></li>
+</ul>
+</li>
+<li>
+                Marketplace
+                <ul>
+<li><a href="/Marketplace.htm">Buy Stuff – Sell Stuff</a></li>
+<li><a href="http://www.cafepress.com/freedomsphoenix">Store on CafePress.com</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-sm-2 col-xs-4">
+<ul>
+<li>
+                More News
+                <ul>
+<li><a href="https://www.freedomsphoenix.com/Page-Two.htm" title="More News">Page Two</a></li>
+<li><a href="https://www.freedomsphoenix.com/Current-News-List.htm" title="More News">Current News</a></li>
+</ul>
+</li>
+<li>
+                Discussions
+                <ul>
+<li><a href="/Forum">Freedom Forum</a></li>
+</ul>
+</li>
+<li>
+                Advertise
+                <ul>
+<li><a href="/Promotion-Page.htm?ProNo=02">Intro to Advertising with Us</a></li>
+<li><a href="/Promotion-Page.htm?ProNo=09">Radio Advertising Rates</a></li>
+<li><a href="https://www.freedomsphoenix.com/Advertising-Rates.htm">Website Advertising Rates</a></li>
+</ul>
+</li>
+<li>
+                Funding Center
+                <ul>
+<li><a href="/Funding/Funding-Center.htm">Support or Promote a Project</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-sm-3 col-xs-4">
+<ul>
+<li>
+                About Freedom's Phoenix
+                <ul>
+<li><a href="/About-Us.htm">About Us</a></li>
+<li><a href="/Contact-Us.htm">Contact Us</a></li>
+<li><a href="/Terms-of-Use.htm">Terms of Use</a></li>
+<li><a href="/Privacy-Policy.htm">Privacy Policy</a></li>
+<li><a href="/Writers-List.htm">Writers List</a></li>
+</ul>
+</li>
+<li>
+                Tutorials – Using This Site
+                <ul>
+<li><a href="/Subjects/00219-LAST-freedomsphoenix-tutorials.htm?EdNo=001">List of Tutorials</a></li>
+</ul>
+</li>
+<li>
+                Media Resources
+                <ul>
+<li><a href="/Subjects/00109-LAST-media-news-references.htm">News References</a></li>
+<li><a href="/Subjects/00158-LAST-media-blog-references.htm">Blog References</a></li>
+<li><a href="/Subjects/00159-LAST-media-government-references.htm">Government References</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="row site-footer text-center">
+<div class="mid">
+<h3>FreedomsPhoenix.com</h3>
+        The domain and name of this website are servicemarks of Ernest Hancock.<br/>
+        Website is Copyright © 2021 by Ernest Hancock.  All rights reserved worldwide.<br/>
+        PO Box 1681, Sun City, AZ 85372 USA.
+        <p>
+<!-- Start of StatCounter Code for FreedomsPhoenix.com -->
+<script type="text/javascript">
+                var sc_project = 4384403;
+                var sc_invisible = 0;
+                var sc_security = "d7067884";
+            </script>
+<script src="https://statcounter.com/counter/counter.js" type="text/javascript"></script>
+<!-- End of StatCounter Code for FreedomsPhoenix.com -->
+<br/><a href="https://statcounter.com/p4384403/?guest=1">Stats by StatCounter</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<!-- /#page-content-wrapper -->
+</div>
+<script src="/bundles/layout?v=TxGWNCoWGTJ0_BWDurxzI8XL-bf3fd7vYavhSdLagU81"></script>
+<script>
+        $(document).ready(function () {
+            document.estOffset=-4;
+            FPScripts.initLayout();
+            FPScripts.initPlayer();
+
+
+        });
+
+        function setJoinDismissCookie() {
+            var expires = new Date();
+            expires.setTime(expires.getTime() + (5 * 24 * 60 * 60 * 1000));
+            document.cookie = "fp_join_dismissed" + '=' + expires.toUTCString() + ';expires=' + expires.toUTCString();
+        }
+
+        function showLtfm()
+        {
+            $('#ltfmPlayer').show();
+            $('#ltfmPlayer').attr("src", "https://libertytalk.fm/player/v5/ltfm-player005-embed-enc.php");
+            $('#ltfmPlayer_show').hide()
+        }
+
+        $(function () {
+            $('.paymentaddress').addClass('copyable');
+            $('.copyable').click(function () {
+                copyToClipboard($(this).text());
+            });
+            $('.copyable').attr('title', "Click to copy address.");
+
+
+            UpdateAddressForTag("FPbitcoin", "bitcoin", 'donate_addr_btc', 'donate_qr_btc');
+            UpdateAddressForTag("FPbch", "bitcoincash", 'donate_addr_bch', 'donate_qr_bch');
+
+            $('.donate_qr_btc').click(function () { $('.donate_addr_btc').click(); });
+            $('.donate_qr_bch').click(function () { $('.donate_addr_bch').click(); });
+
+            function UpdateAddressForTag(tag, addressprefix, txtclass, imageclass) {
+                var baseUrl = "https://agoristhosting.com/api/HdAddressWidget/";
+                var url = baseUrl + tag + '?usev0ForBch=true';
+
+                var xhttp = new XMLHttpRequest();
+                xhttp.onreadystatechange = function () {
+                    if (this.readyState == 4 && this.status == 200) {
+                        var addr = this.responseText;
+                        $('.' + txtclass).html(addr);
+                        var imgs = $('.' + imageclass);
+                        $.each(imgs, function (i, img) {
+                            img.innerHTML = "";
+                            new QRCode(img, {
+                                text: addressprefix + ':' + addr,
+                                width: 140,
+                                height: 140,
+                                correctLevel: QRCode.CorrectLevel.M
+                            });
+                        });
+                    }
+                };
+                xhttp.open("GET", url, true);
+                xhttp.send();
+            }
+        });
+
+        function UpdateFavorites() {
+            var favs = $('#module-favorites-refresh');
+            if (favs.length) {
+                favs.click();
+                console.log("Favorites refreshed.")
+            }
+        }
+    </script>
+<script>
+        $(function () {
+            var settings = {
+                "async": true,
+                "crossDomain": true,
+                "url": "https://cex.io/api/last_price/BCH/USD",
+                "method": "GET"
+            }
+
+            $.ajax(settings).done(function (response) {
+                console.log(response);
+                $('#bch-price').html(response.lprice);
+            });
+        });
+    </script>
+<div class="aletr" id="loader" style="display:none">
+        Loading...<img src="/Content/images/ajax-loader.gif">
+</img></div>
+</body>
+</html>

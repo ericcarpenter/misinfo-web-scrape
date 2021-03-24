@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="http://bients.com/xmlrpc.php" rel="pingback"/>
+<meta content="max-image-preview:large, index, follow, max-snippet:-1, max-video-preview:-1" name="robots">
+<title>Bi'en'ts -</title>
+<link href="https://bients.com/" rel="canonical">
+<meta content="en_US" property="og:locale">
+<meta content="website" property="og:type"/>
+<meta content="Bi'en'ts -" property="og:title"/>
+<meta content="https://bients.com/" property="og:url"/>
+<meta content="Bi'en'ts" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://bients.com/#website","url":"https://bients.com/","name":"Bi&#039;en&#039;ts","description":"","potentialAction":[{"@type":"SearchAction","target":"https://bients.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://bients.com/#webpage","url":"https://bients.com/","name":"Bi&#039;en&#039;ts -","isPartOf":{"@id":"https://bients.com/#website"},"breadcrumb":{"@id":"https://bients.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://bients.com/"]}]},{"@type":"BreadcrumbList","@id":"https://bients.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://bients.com/","url":"https://bients.com/","name":"Home"}}]}]}</script>
+<link href="//fonts.googleapis.com" rel="dns-prefetch">
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://bients.com/feed/" rel="alternate" title="Bi'en'ts » Feed" type="application/rss+xml"/>
+<link href="https://bients.com/comments/feed/" rel="alternate" title="Bi'en'ts » Comments Feed" type="application/rss+xml"/>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="http://bients.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://bients.com/wp-content/themes/bestwp/style.css" id="bestwp-maincss-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://bients.com/wp-content/themes/bestwp/assets/css/font-awesome.min.css" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i|Domine:400,700|Oswald:400,700|Patua+One&amp;display=swap" id="bestwp-webfont-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://bients.com/wp-content/themes/bestwp/assets/css/owl.carousel.min.css" id="owl-carousel-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://bients.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" id="addtoany-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="http://bients.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="http://bients.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script data-rocketlazyloadscript="http://bients.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-js" type="text/javascript"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://bients.com/wp-content/themes/bestwp/assets/js/html5shiv.min.js' id='html5shiv-js'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://bients.com/wp-content/themes/bestwp/assets/js/respond.min.js' id='respond-js'></script>
+<![endif]-->
+<link href="https://bients.com/wp-json/" rel="https://api.w.org/"/><link href="https://bients.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://bients.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.7" name="generator"/>
+<script data-cfasync="false" data-rocketlazyloadscript="data:text/javascript;base64,CndpbmRvdy5hMmFfY29uZmlnPXdpbmRvdy5hMmFfY29uZmlnfHx7fTthMmFfY29uZmlnLmNhbGxiYWNrcz1bXTthMmFfY29uZmlnLm92ZXJsYXlzPVtdO2EyYV9jb25maWcudGVtcGxhdGVzPXt9OwooZnVuY3Rpb24oZCxzLGEsYil7YT1kLmNyZWF0ZUVsZW1lbnQocyk7Yj1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdO2EuYXN5bmM9MTthLnNyYz0iaHR0cHM6Ly9zdGF0aWMuYWRkdG9hbnkuY29tL21lbnUvcGFnZS5qcyI7Yi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLGIpO30pKGRvY3VtZW50LCJzY3JpcHQiKTsK"></script>
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style> <style type="text/css">
+            .bestwp-site-title, .bestwp-site-title a, .bestwp-site-description {color: #0a0200;}
+        </style>
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-image: url("http://bients.com/wp-content/themes/bestwp/assets/images/background.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
+</style>
+<link href="https://bients.com/wp-content/uploads/2021/03/cropped-1132075-2-32x32.jpg" rel="icon" sizes="32x32"/>
+<link href="https://bients.com/wp-content/uploads/2021/03/cropped-1132075-2-192x192.jpg" rel="icon" sizes="192x192"/>
+<link href="https://bients.com/wp-content/uploads/2021/03/cropped-1132075-2-180x180.jpg" rel="apple-touch-icon"/>
+<meta content="https://bients.com/wp-content/uploads/2021/03/cropped-1132075-2-270x270.jpg" name="msapplication-TileImage"/>
+</link></meta></link></meta></head>
+<body class="home blog custom-background bestwp-animated bestwp-fadein bestwp-header-banner" id="bestwp-site-body" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<a class="skip-link screen-reader-text" href="#bestwp-posts-wrapper">Skip to content</a>
+<div class="bestwp-container bestwp-primary-menu-container clearfix">
+<div class="bestwp-primary-menu-container-inside clearfix">
+<nav aria-label="Primary Menu" class="bestwp-nav-primary" id="bestwp-primary-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<div class="bestwp-outer-wrapper">
+<button aria-controls="bestwp-menu-primary-navigation" aria-expanded="false" class="bestwp-primary-responsive-menu-icon">Menu</button>
+<ul class="bestwp-primary-nav-menu bestwp-menu-primary" id="bestwp-menu-primary-navigation"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-80" id="menu-item-80"><a aria-current="page" href="https://bients.com">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59" id="menu-item-59"><a href="https://bients.com/category/news/">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60" id="menu-item-60"><a href="https://bients.com/category/cryptonews/">Cryptonews</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61" id="menu-item-61"><a href="https://bients.com/category/health-fitnes/">Health &amp; Fitnes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62" id="menu-item-62"><a href="https://bients.com/category/coronavirus/">Coronavirus</a></li>
+</ul>
+<div class="bestwp-top-social-icons">
+<a class="bestwp-social-icon-search" href="#" title="Search"><i class="fa fa-search"></i></a>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div class="bestwp-search-overlay" id="bestwp-search-overlay-wrap">
+<button aria-label="Close Search" class="bestwp-search-closebtn" title="Close Search">×</button>
+<div class="bestwp-search-overlay-content">
+<form action="https://bients.com/" class="bestwp-search-form" method="get" role="search">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="bestwp-search-field" name="s" placeholder="Search …" type="search" value=""/>
+</label>
+<input class="bestwp-search-submit" type="submit" value=""/>
+</form> </div>
+</div>
+<div class="bestwp-container" id="bestwp-header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+<div class="bestwp-head-content clearfix" id="bestwp-head-content">
+<div class="bestwp-outer-wrapper">
+<div class="bestwp-header-inside clearfix">
+<div id="bestwp-logo">
+<div class="site-branding">
+<h1 class="bestwp-site-title"><a href="https://bients.com/" rel="home">Bi'en'ts</a></h1>
+<p class="bestwp-site-description"></p>
+</div>
+</div>
+<div id="bestwp-header-banner">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bestwp-container bestwp-secondary-menu-container clearfix">
+<div class="bestwp-secondary-menu-container-inside clearfix">
+<nav aria-label="Secondary Menu" class="bestwp-nav-secondary" id="bestwp-secondary-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<div class="bestwp-outer-wrapper">
+<button aria-controls="bestwp-menu-secondary-navigation" aria-expanded="false" class="bestwp-secondary-responsive-menu-icon">Menu</button>
+<ul class="bestwp-secondary-nav-menu bestwp-menu-secondary" id="bestwp-menu-secondary-navigation"><li class="current_page_item"><a href="https://bients.com/">Home</a></li></ul></div>
+</nav>
+</div>
+</div>
+<div class="bestwp-outer-wrapper"><div class="bestwp-posts-carousel-wrapper">
+<div class="bestwp-posts-carousel">
+<div class="bestwp-box">
+<div class="bestwp-box-inside">
+<div class="owl-carousel">
+<div class="bestwp-slide-item">
+<img alt="" class="bestwp-slider-post-thumbnail-img wp-post-image" height="360" loading="lazy" src="https://bients.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-01.43.24-480x360.png" title="Cops arrest indignant anti-masker — after she rants ‘What are you going to do, arrest me?’" width="480"/> <div class="text-over">
+<div class="bestwp-carousel-post-categories"><span class="screen-reader-text">Posted in </span><a href="https://bients.com/category/news/" rel="category tag">News</a></div> <h4 class="bestwp-carousel-title"><a href="https://bients.com/cops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me/" rel="bookmark" title="Permanent Link to Cops arrest indignant anti-masker — after she rants ‘What are you going to do, arrest me?’">Cops arrest indignant anti-masker — after she rants ‘What are you going to do, arrest me?’</a></h4>
+<div class="bestwp-carousel-post-footer">
+<span class="bestwp-carousel-post-author bestwp-carousel-post-meta"><i class="fa fa-user-circle-o"></i> <a href="https://bients.com/author/John.E.Heffron/"><span class="screen-reader-text">Author: </span>John.E.Heffron</a></span>
+<span class="bestwp-carousel-post-date bestwp-carousel-post-meta"><i class="fa fa-clock-o"></i> <span class="screen-reader-text">Published Date: </span>2021-03-16</span>
+</div>
+</div>
+</div>
+<div class="bestwp-slide-item">
+<img alt="" class="bestwp-slider-post-thumbnail-img wp-post-image" height="360" loading="lazy" src="https://bients.com/wp-content/uploads/2021/03/5000-480x360.jpeg" title="Sandstorm creates ‘airpocalypse’ in China" width="480"/> <div class="text-over">
+<div class="bestwp-carousel-post-categories"><span class="screen-reader-text">Posted in </span><a href="https://bients.com/category/news/" rel="category tag">News</a></div> <h4 class="bestwp-carousel-title"><a href="https://bients.com/sandstorm-creates-airpocalypse-in-china/" rel="bookmark" title="Permanent Link to Sandstorm creates ‘airpocalypse’ in China">Sandstorm creates ‘airpocalypse’ in China</a></h4>
+<div class="bestwp-carousel-post-footer">
+<span class="bestwp-carousel-post-author bestwp-carousel-post-meta"><i class="fa fa-user-circle-o"></i> <a href="https://bients.com/author/John.E.Heffron/"><span class="screen-reader-text">Author: </span>John.E.Heffron</a></span>
+<span class="bestwp-carousel-post-date bestwp-carousel-post-meta"><i class="fa fa-clock-o"></i> <span class="screen-reader-text">Published Date: </span>2021-03-16</span>
+</div>
+</div>
+</div>
+<div class="bestwp-slide-item">
+<img alt="" class="bestwp-slider-post-thumbnail-img wp-post-image" height="354" loading="lazy" src="https://bients.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-01.32.51-480x354.png" title="Prime minister of Estonia tests positive for COVID-19" width="480"/> <div class="text-over">
+<div class="bestwp-carousel-post-categories"><span class="screen-reader-text">Posted in </span><a href="https://bients.com/category/coronavirus/" rel="category tag">Coronavirus</a></div> <h4 class="bestwp-carousel-title"><a href="https://bients.com/prime-minister-of-estonia-tests-positive-for-covid-19/" rel="bookmark" title="Permanent Link to Prime minister of Estonia tests positive for COVID-19">Prime minister of Estonia tests positive for COVID-19</a></h4>
+<div class="bestwp-carousel-post-footer">
+<span class="bestwp-carousel-post-author bestwp-carousel-post-meta"><i class="fa fa-user-circle-o"></i> <a href="https://bients.com/author/John.E.Heffron/"><span class="screen-reader-text">Author: </span>John.E.Heffron</a></span>
+<span class="bestwp-carousel-post-date bestwp-carousel-post-meta"><i class="fa fa-clock-o"></i> <span class="screen-reader-text">Published Date: </span>2021-03-16</span>
+</div>
+</div>
+</div>
+<div class="bestwp-slide-item">
+<img alt="" class="bestwp-slider-post-thumbnail-img wp-post-image" height="358" loading="lazy" src="https://bients.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-01.29.23-480x358.png" title="CDC: Most people get both coronavirus vaccine doses on time" width="480"/> <div class="text-over">
+<div class="bestwp-carousel-post-categories"><span class="screen-reader-text">Posted in </span><a href="https://bients.com/category/coronavirus/" rel="category tag">Coronavirus</a></div> <h4 class="bestwp-carousel-title"><a href="https://bients.com/cdc-most-people-get-both-coronavirus-vaccine-doses-on-time/" rel="bookmark" title="Permanent Link to CDC: Most people get both coronavirus vaccine doses on time">CDC: Most people get both coronavirus vaccine doses on time</a></h4>
+<div class="bestwp-carousel-post-footer">
+<span class="bestwp-carousel-post-author bestwp-carousel-post-meta"><i class="fa fa-user-circle-o"></i> <a href="https://bients.com/author/John.E.Heffron/"><span class="screen-reader-text">Author: </span>John.E.Heffron</a></span>
+<span class="bestwp-carousel-post-date bestwp-carousel-post-meta"><i class="fa fa-clock-o"></i> <span class="screen-reader-text">Published Date: </span>2021-03-16</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bestwp-outer-wrapper">
+</div>
+<div class="bestwp-outer-wrapper">
+<div class="bestwp-container clearfix" id="bestwp-wrapper">
+<div class="bestwp-content-wrapper clearfix" id="bestwp-content-wrapper">
+<div class="bestwp-main-wrapper clearfix" id="bestwp-main-wrapper" itemscope="itemscope" itemtype="http://schema.org/Blog" role="main">
+<div class="theiaStickySidebar">
+<div class="bestwp-main-wrapper-inside clearfix">
+<div class="bestwp-posts-wrapper" id="bestwp-posts-wrapper">
+<div class="bestwp-posts bestwp-box">
+<div class="bestwp-box-inside">
+<h1 class="bestwp-posts-heading"><span>Recent Posts</span></h1>
+<div class="bestwp-posts-content">
+<div class="bestwp-posts-container">
+<div class="bestwp-fp04-post" id="post-115">
+<div class="bestwp-fp04-post-thumbnail">
+<a href="https://bients.com/cops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me/" title="Permanent Link to Cops arrest indignant anti-masker — after she rants ‘What are you going to do, arrest me?’"><img alt="" class="bestwp-fp04-post-thumbnail-img wp-post-image" height="360" loading="lazy" src="https://bients.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-01.43.24-480x360.png" width="480"/></a>
+</div>
+<div class="bestwp-fp04-post-details">
+<div class="bestwp-fp04-post-categories"><span class="screen-reader-text">Posted in </span><a href="https://bients.com/category/news/" rel="category tag">News</a></div>
+<h3 class="bestwp-fp04-post-title"><a href="https://bients.com/cops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me/" rel="bookmark">Cops arrest indignant anti-masker — after she rants ‘What are you going to do, arrest me?’</a></h3>
+<div class="bestwp-fp04-post-footer">
+<span class="bestwp-fp04-post-author bestwp-fp04-post-meta"><i aria-hidden="true" class="fa fa-user-circle-o"></i> <a href="https://bients.com/author/John.E.Heffron/"><span class="screen-reader-text">Author: </span>John.E.Heffron</a></span> <span class="bestwp-fp04-post-date bestwp-fp04-post-meta"><i aria-hidden="true" class="fa fa-clock-o"></i> <span class="screen-reader-text">Published Date: </span>March 16, 2021</span> </div>
+<div class="bestwp-fp04-post-snippet"><p>Police in Galveston, Texas last week arrested a woman who refused to wear a face mask in a bank — after she taunted them and…</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="addtoany_header">Share This</div><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-title="Cops arrest indignant anti-masker — after she rants ‘What are you going to do, arrest me?’" data-a2a-url="https://bients.com/cops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbients.com%2Fcops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me%2F&amp;linkname=Cops%20arrest%20indignant%20anti-masker%20%E2%80%94%20after%20she%20rants%20%E2%80%98What%20are%20you%20going%20to%20do%2C%20arrest%20me%3F%E2%80%99" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbients.com%2Fcops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me%2F&amp;linkname=Cops%20arrest%20indignant%20anti-masker%20%E2%80%94%20after%20she%20rants%20%E2%80%98What%20are%20you%20going%20to%20do%2C%20arrest%20me%3F%E2%80%99" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbients.com%2Fcops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me%2F&amp;linkname=Cops%20arrest%20indignant%20anti-masker%20%E2%80%94%20after%20she%20rants%20%E2%80%98What%20are%20you%20going%20to%20do%2C%20arrest%20me%3F%E2%80%99" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div></div>
+<div class="bestwp-fp04-post-read-more"><a href="https://bients.com/cops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me/">Continue Reading<span class="screen-reader-text"> Cops arrest indignant anti-masker — after she rants ‘What are you going to do, arrest me?’</span></a></div>
+</div>
+</div>
+<div class="bestwp-fp04-post" id="post-111">
+<div class="bestwp-fp04-post-thumbnail">
+<a href="https://bients.com/sandstorm-creates-airpocalypse-in-china/" title="Permanent Link to Sandstorm creates ‘airpocalypse’ in China"><img alt="" class="bestwp-fp04-post-thumbnail-img wp-post-image" height="360" loading="lazy" src="https://bients.com/wp-content/uploads/2021/03/5000-480x360.jpeg" width="480"/></a>
+</div>
+<div class="bestwp-fp04-post-details">
+<div class="bestwp-fp04-post-categories"><span class="screen-reader-text">Posted in </span><a href="https://bients.com/category/news/" rel="category tag">News</a></div>
+<h3 class="bestwp-fp04-post-title"><a href="https://bients.com/sandstorm-creates-airpocalypse-in-china/" rel="bookmark">Sandstorm creates ‘airpocalypse’ in China</a></h3>
+<div class="bestwp-fp04-post-footer">
+<span class="bestwp-fp04-post-author bestwp-fp04-post-meta"><i aria-hidden="true" class="fa fa-user-circle-o"></i> <a href="https://bients.com/author/John.E.Heffron/"><span class="screen-reader-text">Author: </span>John.E.Heffron</a></span> <span class="bestwp-fp04-post-date bestwp-fp04-post-meta"><i aria-hidden="true" class="fa fa-clock-o"></i> <span class="screen-reader-text">Published Date: </span>March 16, 2021</span> </div>
+<div class="bestwp-fp04-post-snippet"><p>The strongest dust storm in 10 years hit northern China on Monday, illustrating what conservation groups have called an “ecological crisis.” Li Shuo, policy director…</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="addtoany_header">Share This</div><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-title="Sandstorm creates ‘airpocalypse’ in China" data-a2a-url="https://bients.com/sandstorm-creates-airpocalypse-in-china/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbients.com%2Fsandstorm-creates-airpocalypse-in-china%2F&amp;linkname=Sandstorm%20creates%20%E2%80%98airpocalypse%E2%80%99%20in%20China" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbients.com%2Fsandstorm-creates-airpocalypse-in-china%2F&amp;linkname=Sandstorm%20creates%20%E2%80%98airpocalypse%E2%80%99%20in%20China" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbients.com%2Fsandstorm-creates-airpocalypse-in-china%2F&amp;linkname=Sandstorm%20creates%20%E2%80%98airpocalypse%E2%80%99%20in%20China" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div></div>
+<div class="bestwp-fp04-post-read-more"><a href="https://bients.com/sandstorm-creates-airpocalypse-in-china/">Continue Reading<span class="screen-reader-text"> Sandstorm creates ‘airpocalypse’ in China</span></a></div>
+</div>
+</div>
+<div class="bestwp-fp04-post" id="post-106">
+<div class="bestwp-fp04-post-thumbnail">
+<a href="https://bients.com/prime-minister-of-estonia-tests-positive-for-covid-19/" title="Permanent Link to Prime minister of Estonia tests positive for COVID-19"><img alt="" class="bestwp-fp04-post-thumbnail-img wp-post-image" height="354" loading="lazy" src="https://bients.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-01.32.51-480x354.png" width="480"/></a>
+</div>
+<div class="bestwp-fp04-post-details">
+<div class="bestwp-fp04-post-categories"><span class="screen-reader-text">Posted in </span><a href="https://bients.com/category/coronavirus/" rel="category tag">Coronavirus</a></div>
+<h3 class="bestwp-fp04-post-title"><a href="https://bients.com/prime-minister-of-estonia-tests-positive-for-covid-19/" rel="bookmark">Prime minister of Estonia tests positive for COVID-19</a></h3>
+<div class="bestwp-fp04-post-footer">
+<span class="bestwp-fp04-post-author bestwp-fp04-post-meta"><i aria-hidden="true" class="fa fa-user-circle-o"></i> <a href="https://bients.com/author/John.E.Heffron/"><span class="screen-reader-text">Author: </span>John.E.Heffron</a></span> <span class="bestwp-fp04-post-date bestwp-fp04-post-meta"><i aria-hidden="true" class="fa fa-clock-o"></i> <span class="screen-reader-text">Published Date: </span>March 16, 2021</span> </div>
+<div class="bestwp-fp04-post-snippet"><p>The prime minister of Estonia announced on Monday that she tested positive for COVID-19 and will self-isolate. Kaja Kallas, 43, who became the country’s youngest…</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="addtoany_header">Share This</div><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-title="Prime minister of Estonia tests positive for COVID-19" data-a2a-url="https://bients.com/prime-minister-of-estonia-tests-positive-for-covid-19/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbients.com%2Fprime-minister-of-estonia-tests-positive-for-covid-19%2F&amp;linkname=Prime%20minister%20of%20Estonia%20tests%20positive%20for%20COVID-19" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbients.com%2Fprime-minister-of-estonia-tests-positive-for-covid-19%2F&amp;linkname=Prime%20minister%20of%20Estonia%20tests%20positive%20for%20COVID-19" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbients.com%2Fprime-minister-of-estonia-tests-positive-for-covid-19%2F&amp;linkname=Prime%20minister%20of%20Estonia%20tests%20positive%20for%20COVID-19" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div></div>
+<div class="bestwp-fp04-post-read-more"><a href="https://bients.com/prime-minister-of-estonia-tests-positive-for-covid-19/">Continue Reading<span class="screen-reader-text"> Prime minister of Estonia tests positive for COVID-19</span></a></div>
+</div>
+</div>
+<div class="bestwp-fp04-post" id="post-102">
+<div class="bestwp-fp04-post-thumbnail">
+<a href="https://bients.com/cdc-most-people-get-both-coronavirus-vaccine-doses-on-time/" title="Permanent Link to CDC: Most people get both coronavirus vaccine doses on time"><img alt="" class="bestwp-fp04-post-thumbnail-img wp-post-image" height="358" loading="lazy" src="https://bients.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-01.29.23-480x358.png" width="480"/></a>
+</div>
+<div class="bestwp-fp04-post-details">
+<div class="bestwp-fp04-post-categories"><span class="screen-reader-text">Posted in </span><a href="https://bients.com/category/coronavirus/" rel="category tag">Coronavirus</a></div>
+<h3 class="bestwp-fp04-post-title"><a href="https://bients.com/cdc-most-people-get-both-coronavirus-vaccine-doses-on-time/" rel="bookmark">CDC: Most people get both coronavirus vaccine doses on time</a></h3>
+<div class="bestwp-fp04-post-footer">
+<span class="bestwp-fp04-post-author bestwp-fp04-post-meta"><i aria-hidden="true" class="fa fa-user-circle-o"></i> <a href="https://bients.com/author/John.E.Heffron/"><span class="screen-reader-text">Author: </span>John.E.Heffron</a></span> <span class="bestwp-fp04-post-date bestwp-fp04-post-meta"><i aria-hidden="true" class="fa fa-clock-o"></i> <span class="screen-reader-text">Published Date: </span>March 16, 2021</span> </div>
+<div class="bestwp-fp04-post-snippet"><p>Most people who have received their first dose of the coronavirus vaccine from Pfizer-BioNTech or Moderna are receiving the second dose on time, according to…</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="addtoany_header">Share This</div><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-title="CDC: Most people get both coronavirus vaccine doses on time" data-a2a-url="https://bients.com/cdc-most-people-get-both-coronavirus-vaccine-doses-on-time/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbients.com%2Fcdc-most-people-get-both-coronavirus-vaccine-doses-on-time%2F&amp;linkname=CDC%3A%20Most%20people%20get%20both%20coronavirus%20vaccine%20doses%20on%20time" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbients.com%2Fcdc-most-people-get-both-coronavirus-vaccine-doses-on-time%2F&amp;linkname=CDC%3A%20Most%20people%20get%20both%20coronavirus%20vaccine%20doses%20on%20time" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fbients.com%2Fcdc-most-people-get-both-coronavirus-vaccine-doses-on-time%2F&amp;linkname=CDC%3A%20Most%20people%20get%20both%20coronavirus%20vaccine%20doses%20on%20time" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div></div>
+<div class="bestwp-fp04-post-read-more"><a href="https://bients.com/cdc-most-people-get-both-coronavirus-vaccine-doses-on-time/">Continue Reading<span class="screen-reader-text"> CDC: Most people get both coronavirus vaccine doses on time</span></a></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bestwp-sidebar-one-wrapper bestwp-sidebar-widget-areas clearfix" id="bestwp-sidebar-one-wrapper" itemscope="itemscope" itemtype="http://schema.org/WPSideBar" role="complementary">
+<div class="theiaStickySidebar">
+<div class="bestwp-sidebar-one-wrapper-inside clearfix">
+<div class="bestwp-side-widget widget bestwp-box widget_search" id="search-2"><div class="bestwp-side-widget-inside bestwp-box-inside">
+<form action="https://bients.com/" class="bestwp-search-form" method="get" role="search">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="bestwp-search-field" name="s" placeholder="Search …" type="search" value=""/>
+</label>
+<input class="bestwp-search-submit" type="submit" value=""/>
+</form></div></div>
+<div class="bestwp-side-widget widget bestwp-box widget_recent_entries" id="recent-posts-2"><div class="bestwp-side-widget-inside bestwp-box-inside">
+<h2 class="bestwp-widget-title"><span>Recent Posts</span></h2>
+<ul>
+<li>
+<a href="https://bients.com/cops-arrest-indignant-anti-masker-after-she-rants-what-are-you-going-to-do-arrest-me/">Cops arrest indignant anti-masker — after she rants ‘What are you going to do, arrest me?’</a>
+</li>
+<li>
+<a href="https://bients.com/sandstorm-creates-airpocalypse-in-china/">Sandstorm creates ‘airpocalypse’ in China</a>
+</li>
+<li>
+<a href="https://bients.com/prime-minister-of-estonia-tests-positive-for-covid-19/">Prime minister of Estonia tests positive for COVID-19</a>
+</li>
+<li>
+<a href="https://bients.com/cdc-most-people-get-both-coronavirus-vaccine-doses-on-time/">CDC: Most people get both coronavirus vaccine doses on time</a>
+</li>
+</ul>
+</div></div><div class="bestwp-side-widget widget bestwp-box widget_recent_comments" id="recent-comments-2"><div class="bestwp-side-widget-inside bestwp-box-inside"><h2 class="bestwp-widget-title"><span>Recent Comments</span></h2><ul id="recentcomments"></ul></div></div>
+</div>
+</div>
+</div>
+<div class="bestwp-sidebar-two-wrapper bestwp-sidebar-widget-areas clearfix" id="bestwp-sidebar-two-wrapper" itemscope="itemscope" itemtype="http://schema.org/WPSideBar" role="complementary">
+<div class="theiaStickySidebar">
+<div class="bestwp-sidebar-two-wrapper-inside clearfix">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix" id="bestwp-footer">
+<div class="bestwp-foot-wrap bestwp-container">
+<div class="bestwp-outer-wrapper">
+<p class="bestwp-copyright">Copyright © 2021 Bi'en'ts</p>
+<p class="bestwp-credit"><a href="https://themesdna.com/">Design by ThemesDNA.com</a></p>
+</div>
+</div>
+</div>
+<button class="bestwp-scroll-top" title="Scroll to Top"><span aria-hidden="true" class="fa fa-arrow-up"></span><span class="screen-reader-text">Scroll to Top</span></button>
+<script id="rocket-browser-checker-js-after" type="text/javascript">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-delay-js-js-after" type="text/javascript">
+(function() {
+"use strict";var e=function(){function n(e,t){for(var r=0;r<t.length;r++){var n=t[r];n.enumerable=n.enumerable||!1,n.configurable=!0,"value"in n&&(n.writable=!0),Object.defineProperty(e,n.key,n)}}return function(e,t,r){return t&&n(e.prototype,t),r&&n(e,r),e}}();function n(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function r(e,t){n(this,r),this.attrName="data-rocketlazyloadscript",this.browser=t,this.options=this.browser.options,this.triggerEvents=e,this.userEventListener=this.triggerListener.bind(this)}return e(r,[{key:"init",value:function(){this._addEventListener(this)}},{key:"reset",value:function(){this._removeEventListener(this)}},{key:"_addEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.addEventListener(e,t.userEventListener,t.options)})}},{key:"_removeEventListener",value:function(t){this.triggerEvents.forEach(function(e){return window.removeEventListener(e,t.userEventListener,t.options)})}},{key:"_loadScriptSrc",value:function(){var r=this,e=document.querySelectorAll("script["+this.attrName+"]");0!==e.length&&Array.prototype.slice.call(e).forEach(function(e){var t=e.getAttribute(r.attrName);e.setAttribute("src",t),e.removeAttribute(r.attrName)}),this.reset()}},{key:"triggerListener",value:function(){this._loadScriptSrc(),this._removeEventListener(this)}}],[{key:"run",value:function(){RocketBrowserCompatibilityChecker&&new r(["keydown","mouseover","touchmove","touchstart","wheel"],new RocketBrowserCompatibilityChecker({passive:!0})).init()}}]),r}();t.run();
+}());
+</script>
+<script id="rocket-preload-links-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?embed\/|\/(index\\.php\/)?wp\\-json(\/.*|$)|\/wp-admin\/|\/logout\/|https:\/\/bients.com\/wp-login.php","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|php|pdf|html|htm","siteUrl":"https:\/\/bients.com","onHoverDelay":"100","rateThrottle":"3"};
+/* ]]> */
+</script>
+<script id="rocket-preload-links-js-after" type="text/javascript">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script id="fitvids-js" src="http://bients.com/wp-content/themes/bestwp/assets/js/jquery.fitvids.min.js" type="text/javascript"></script>
+<script id="ResizeSensor-js" src="http://bients.com/wp-content/themes/bestwp/assets/js/ResizeSensor.min.js" type="text/javascript"></script>
+<script id="theia-sticky-sidebar-js" src="http://bients.com/wp-content/themes/bestwp/assets/js/theia-sticky-sidebar.min.js" type="text/javascript"></script>
+<script id="owl-carousel-js" src="http://bients.com/wp-content/themes/bestwp/assets/js/owl.carousel.min.js" type="text/javascript"></script>
+<script id="imagesloaded-js" src="http://bients.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" type="text/javascript"></script>
+<script id="bestwp-navigation-js" src="http://bients.com/wp-content/themes/bestwp/assets/js/navigation.js" type="text/javascript"></script>
+<script id="bestwp-skip-link-focus-fix-js" src="http://bients.com/wp-content/themes/bestwp/assets/js/skip-link-focus-fix.js" type="text/javascript"></script>
+<script id="bestwp-customjs-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var bestwp_ajax_object = {"ajaxurl":"https:\/\/bients.com\/wp-admin\/admin-ajax.php","primary_menu_active":"1","secondary_menu_active":"1","sticky_menu":"1","sticky_menu_mobile":"","sticky_sidebar":"1","slider":"1"};
+/* ]]> */
+</script>
+<script id="bestwp-customjs-js" src="http://bients.com/wp-content/themes/bestwp/assets/js/custom.js" type="text/javascript"></script>
+<script id="wp-embed-js" src="http://bients.com/wp-includes/js/wp-embed.min.js?ver=5.7" type="text/javascript"></script>
+</body>
+</html>

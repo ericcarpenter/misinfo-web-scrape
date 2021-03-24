@@ -1,0 +1,1478 @@
+<!DOCTYPE html>
+
+<!--[if IE 7]>
+<html class="ie ie7" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width" name="viewport"/>
+<title></title>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://adobochronicles.com/xmlrpc.php" rel="pingback"/>
+<!--[if lt IE 9]>
+	<script src="https://s2.wp.com/wp-content/themes/pub/twentyfourteen/js/html5.js?ver=3.7.0"></script>
+	<![endif]-->
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Lato:r,i,b,bi:latin,latin-ext","Merriweather:r:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active .site-title{font-family:"Merriweather",serif;font-weight:400;font-style:normal}.wf-active body{font-family:"Lato",sans-serif}.wf-active body, .wf-active input, .wf-active select, .wf-active textarea{font-family:"Lato",sans-serif}.wf-active #page .entry-content div.sharedaddy h3, .wf-active #page .entry-summary div.sharedaddy h3, .wf-active #page .entry-content h3.sd-title, .wf-active #page .entry-summary h3.sd-title, .wf-active #primary div.sharedaddy .jp-relatedposts-headline em, .wf-active .pd-rating{font-family:"Lato",sans-serif}.wf-active h1, .wf-active h2:not(.site-description), .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Merriweather",serif;font-weight:400;font-style:normal}.wf-active h1{font-style:normal;font-weight:400}.wf-active h2:not(.site-description){font-style:normal;font-weight:400}.wf-active h3{font-style:normal;font-weight:400}.wf-active h4{font-style:normal;font-weight:400}.wf-active h5{font-style:normal;font-weight:400}.wf-active h6{font-style:normal;font-weight:400}.wf-active th{font-weight:400;font-style:normal}.wf-active .entry-title{font-weight:400;font-style:normal}</style>
+<meta content="max-image-preview:large" name="robots">
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+						+ '//' + window.location.hostname;
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9hZG9ib2Nocm9uaWNsZXMuY29t"
+		+ "&wpcomid=54447745"
+		+ "&time=1615961094";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link href="//s2.wp.com" rel="dns-prefetch">
+<link href="//s1.wp.com" rel="dns-prefetch">
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//adobochroniclesdotcom.wordpress.com" rel="dns-prefetch"/>
+<link href="//s.pubmine.com" rel="dns-prefetch"/>
+<link href="//x.bidswitch.net" rel="dns-prefetch"/>
+<link href="//static.criteo.net" rel="dns-prefetch"/>
+<link href="//ib.adnxs.com" rel="dns-prefetch"/>
+<link href="//aax.amazon-adsystem.com" rel="dns-prefetch"/>
+<link href="//bidder.criteo.com" rel="dns-prefetch"/>
+<link href="//cas.criteo.com" rel="dns-prefetch"/>
+<link href="//gum.criteo.com" rel="dns-prefetch"/>
+<link href="//ads.pubmatic.com" rel="dns-prefetch"/>
+<link href="//gads.pubmatic.com" rel="dns-prefetch"/>
+<link href="//tpc.googlesyndication.com" rel="dns-prefetch"/>
+<link href="//ad.doubleclick.net" rel="dns-prefetch"/>
+<link href="//googleads.g.doubleclick.net" rel="dns-prefetch"/>
+<link href="//www.googletagservices.com" rel="dns-prefetch"/>
+<link href="//cdn.switchadhub.com" rel="dns-prefetch"/>
+<link href="//delivery.g.switchadhub.com" rel="dns-prefetch"/>
+<link href="//delivery.swid.switchadhub.com" rel="dns-prefetch"/>
+<link href="//a.teads.tv" rel="dns-prefetch"/>
+<link href="//prebid.media.net" rel="dns-prefetch"/>
+<link href="//adserver-us.adtech.advertising.com" rel="dns-prefetch"/>
+<link href="//fastlane.rubiconproject.com" rel="dns-prefetch"/>
+<link href="//prebid-server.rubiconproject.com" rel="dns-prefetch"/>
+<link href="//hb-api.omnitagjs.com" rel="dns-prefetch"/>
+<link href="//mtrx.go.sonobi.com" rel="dns-prefetch"/>
+<link href="//apex.go.sonobi.com" rel="dns-prefetch"/>
+<link href="//u.openx.net" rel="dns-prefetch"/>
+<link href="https://adobochronicles.com/feed/" rel="alternate" title=" » Feed" type="application/rss+xml"/>
+<link href="https://adobochronicles.com/comments/feed/" rel="alternate" title=" » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s2.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1612197847h&ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://s2.wp.com/_static/??-eJytkktSwzAMhi+EY1JopxuGs9ixatT6NbbckNvjpLRkEhKyYOPR4/9kSSPeBtZ4R+CI28yCyRpd4m1ovGXJooFu4lVNSk98hEnj9Q/ooxIqcW28FGabltqS6k4+RwJw7LqbYaPODF4g8TNQEM2FDd6aHN0JHVL3MGbiu1Ln4kqIumQi8Gv9XNVVzWVGo/q+h99kFLHjiToD/1GIPsBuKTRQo6lF5zMxHVFt7mVSIgpCp9MfeOO/sV21r164wkSPGPsdHe2+H7/EbRDUKywoFGDKxI7WsBaVBip4utuM4HMdGQ5UyhAhJVZei9myYbur16HBQcSSWDBn7K0kD1lOrnZhkcv6frrbInvo3b7Vh/p1dzge6/35C1S3Wdc=?cssminify=yes" id="all-css-0-1" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css">
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='https://s2.wp.com/wp-content/themes/pub/twentyfourteen/css/ie.css?m=1405358337h&#038;ver=20140701' media='all' />
+<![endif]-->
+<link href="https://s1.wp.com/_static/??-eJyNj0EKAjEMRS9kjCIqsxDP0qmZWidtyjSlzu2tIqgbdfdfPu9DsCawEpWiop4pUMZUetTaDvMgZVKiiDZnzDozQU1WwrLxAt/MUCBxcT5mrP7kSDNSaa2MnoBNRaWQ2Cg9Z/4ZGIylvi0A+7GF62/TkQCLNeolfgAMbPz0TZ2oZ3EtusevL7xLx3BY71abzb7ruu3lBkK6cxk=?cssminify=yes" id="all-css-2-1" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://s2.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&amp;cssminify=yes" id="print-css-3-1" media="print" rel="stylesheet" type="text/css"/>
+<link href="https://s1.wp.com/wp-content/mu-plugins/infinity/themes/pub/twentyfourteen.css?m=1409049292h&amp;cssminify=yes" id="all-css-4-1" media="all" rel="stylesheet" type="text/css"/>
+<style id="jetpack-global-styles-frontend-style-inline-css">
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link href="https://s1.wp.com/_static/??-eJxti0EKgCAQAD+ULUaJl+gtJqbG6opr9P3o0CHqNAzMwFmEpdxcbpAOUfDwMTMU4iY2NLECB1Nj9g97y9zB/8Vko0GB5Oktn6kFlxxDGMEjrQbvYEmzVHIclNZy2i9lFDfR?cssminify=yes" id="all-css-6-1" media="all" rel="stylesheet" type="text/css"/>
+<script id="wpcom-actionbar-placeholder-js-extra">
+var actionbardata = {"siteID":"54447745","siteName":"adobochronicles.com","siteURL":"https:\/\/adobochronicles.com","icon":"<img alt='' src='https:\/\/secure.gravatar.com\/blavatar\/e69426190fddae1fd0a9801e0e206bc2?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/twentyfourteen","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fadobochronicles.com%2F2021%2F03%2F16%2Fphilippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo%2F&signup_flow=account&domain=adobochronicles.com","themeURL":"https:\/\/wordpress.com\/theme\/twentyfourteen\/","xhrURL":"https:\/\/adobochronicles.com\/wp-admin\/admin-ajax.php","nonce":"3b54919842","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"93b763f133\" \/>","referer":"https:\/\/adobochronicles.com\/","canFollow":"1","feedID":"12136945","statusMessage":"","customizeLink":"https:\/\/adobochroniclesdotcom.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fadobochroniclesdotcom.wordpress.com%2F","i18n":{"view":"View site","follow":"Follow","following":"Following","edit":"Edit","login":"Log in","signup":"Sign up","customize":"Customize","report":"Report this content","themeInfo":"Get theme: Twenty Fourteen","shortlink":"Copy shortlink","copied":"Copied","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","editSubs":"Manage subscriptions","viewReader":"View site in Reader","viewReadPost":"View post in Reader","subscribe":"Sign me up","enterEmail":"Enter your email address","followers":"Join 21,148 other followers","alreadyUser":"Already have a WordPress.com account? <a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fadobochronicles.com%2F2021%2F03%2F16%2Fphilippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo%2F&signup_flow=account&domain=adobochronicles.com\">Log in now.<\/a>","stats":"Stats"}};
+</script>
+<script src="https://s2.wp.com/_static/??-eJyFyk0KgCAQQOELZaKB0SI6i9UkIzqWP0S3z8B9qwePj98n2wJloMxt4j6s6ICVBFGb+hjSEXqbOl4d0ubKDumD9ioQn5beI/0i5tFEnaHhxc9CCTmMclLSvnPgMRs=" type="text/javascript"></script>
+<link href="https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1530132353h&amp;cssminify=yes" id="all-css-0-2" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s2.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' media='all' />
+<![endif]-->
+<link href="https://adobochroniclesdotcom.wordpress.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://s1.wp.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress.com" name="generator">
+<link href="https://wp.me/3Gslr" rel="shortlink"/>
+<!-- Jetpack Open Graph Tags -->
+<meta content="website" property="og:type"/>
+<meta content="(no title)" property="og:title"/>
+<meta content="https://adobochronicles.com/" property="og:url"/>
+<meta content="https://secure.gravatar.com/blavatar/e69426190fddae1fd0a9801e0e206bc2?s=200&amp;ts=1615961094" property="og:image"/>
+<meta content="200" property="og:image:width"/>
+<meta content="200" property="og:image:height"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="@AdoboChronicles" name="twitter:creator"/>
+<meta content="@AdoboChronicles" name="twitter:site"/>
+<!-- End Jetpack Open Graph Tags -->
+<link href="https://secure.gravatar.com/blavatar/e69426190fddae1fd0a9801e0e206bc2?s=32" rel="shortcut icon" sizes="16x16" type="image/x-icon"/>
+<link href="https://secure.gravatar.com/blavatar/e69426190fddae1fd0a9801e0e206bc2?s=32" rel="icon" sizes="16x16" type="image/x-icon"/>
+<link href="https://secure.gravatar.com/blavatar/e69426190fddae1fd0a9801e0e206bc2?s=114" rel="apple-touch-icon"/>
+<link href="https://adobochronicles.com/?openidserver=1" rel="openid.server"/>
+<link href="https://adobochronicles.com/" rel="openid.delegate"/>
+<link href="https://adobochronicles.com/osd.xml" rel="search" title="" type="application/opensearchdescription+xml"/>
+<link href="https://s1.wp.com/opensearch.xml" rel="search" title="WordPress.com" type="application/opensearchdescription+xml"/>
+<meta content="#131019" name="theme-color"/>
+<meta content="WordPress.com" name="application-name"/><meta content="width=device-width;height=device-height" name="msapplication-window"/><meta content="name=Subscribe;action-uri=https://adobochronicles.com/feed/;icon-uri=https://secure.gravatar.com/blavatar/e69426190fddae1fd0a9801e0e206bc2?s=16" name="msapplication-task"/><meta content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" name="msapplication-task"/><meta content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" name="msapplication-task"/> <style id="twentyfourteen-header-css" type="text/css">
+				.site-title,
+		.site-description {
+			clip: rect(1px 1px 1px 1px); /* IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+			position: absolute;
+		}
+				</style>
+<style id="custom-background-css">
+body.custom-background { background-color: #131019; }
+</style>
+<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { 'pt': 0, 'ht': 1, 'tn': 'twentyfourteen', 'amp': false, 'consent': __ATA_CC(), 'gdpr_applies': false, 'ad': { 'label': { 'text': 'Advertisements' }, 'reportAd': { 'text': 'Report this ad' } }, 'siteid': 54447745 };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script><style id="custom-colors-css" type="text/css">	.site-description {
+		margin-top: 13px;
+	}
+
+	.search-box .search-field {
+		border-style: solid;
+		border-width: 1px;
+	}
+
+	.primary-sidebar .widget input,
+	.primary-sidebar .widget textarea,
+	.footer-sidebar .widget input,
+	.footer-sidebar .widget textarea {
+		background-color: #fff;
+		color: #2b2b2b;
+	}
+
+	@media screen and (max-width: 782px) {
+		.primary-navigation ul ul,
+		.primary-navigation ul ul a:hover,
+		.primary-navigation ul ul li.focus > a,
+		.primary-navigation li:hover > a,
+		.primary-navigation li.focus > a,
+		.secondary-navigation ul ul,
+		.secondary-navigation ul ul a:hover,
+		.secondary-navigation ul ul li.focus > a,
+		.secondary-navigation li:hover > a,
+		.secondary-navigation li.focus > a {
+			background-color: transparent !important;
+		}
+	}
+
+	.featured-content,
+	.featured-content .entry-header,
+	.slider-direction-nav a {
+		background-color: #efefef;
+	}
+
+	.grid .featured-content .entry-header {
+		border-color: #efefef;
+	}
+
+	.featured-content .hentry,
+	.featured-content a,
+	.featured-content .entry-meta,
+	.slider-direction-nav a:before {
+		color: #2b2b2b;
+	}
+
+	.slider-control-paging a:before {
+		background-color: #ccc;
+	}
+
+	.slider-control-paging a:hover:before {
+		background-color: #777;
+	}
+
+	.slider-control-paging .slider-active:before,
+	.slider-control-paging .slider-active:hover:before {
+		background-color: #222;
+	}
+body { background-color: #131019;}
+.page-links a,
+			#secondary,
+			.content-sidebar .widget_twentyfourteen_ephemera .widget-title:before,
+			.site-footer,
+			.site:before,
+			.primary-sidebar.widget-area .milestone-countdown,
+			.footer-sidebar.widget-area .milestone-countdown { background-color: #000200;}
+.site-header { background-color: #000000;}
+.page-links a,
+			.paging-navigation { border-color: #000200;}
+#secondary,
+			.content-sidebar .widget .widget-title { border-top-color: #000200;}
+.widget mark,
+			.widget ins { color: #000200;}
+.site-navigation li,
+			.primary-navigation .nav-menu,
+			.secondary-navigation,
+			#secondary,
+			#supplementary + .site-info,
+			.secondary-navigation  li,
+			.primary-sidebar .widget pre,
+			.primary-sidebar .widget fieldset,
+			.primary-sidebar .widget table,
+			.primary-sidebar .widget th,
+			.primary-sidebar .widget td,
+			.primary-sidebar .widget hr,
+			.primary-sidebar .widget input,
+			.primary-sidebar .widget textarea,
+			.primary-sidebar .widget_twentyfourteen_ephemera > ol > li,
+			.primary-sidebar .widget_archive li,
+			.primary-sidebar .widget_categories li,
+			.primary-sidebar .widget_links li,
+			.primary-sidebar .widget_meta li,
+			.primary-sidebar .widget_nav_menu li,
+			.primary-sidebar .widget_pages li,
+			.primary-sidebar .widget_recent_comments li,
+			.primary-sidebar .widget_recent_entries li,
+			.primary-sidebar .widget_jp_blogs_i_follow li,
+			.primary-sidebar .widget_delicious li,
+			.primary-sidebar .widgets-list-layout li,
+			.primary-sidebar .widget_top-clicks li,
+			.primary-sidebar .widget_top-posts li,
+			.primary-sidebar .top_rated li,
+			.primary-sidebar .widget_upcoming_events_widget .upcoming-events li,
+			.primary-sidebar.widget-area .milestone-header,
+			.primary-sidebar.widget-area .milestone-countdown,
+			.footer-sidebar .widget pre,
+			.footer-sidebar .widget fieldset,
+			.footer-sidebar .widget table,
+			.footer-sidebar .widget th,
+			.footer-sidebar .widget td,
+			.footer-sidebar .widget hr,
+			.footer-sidebar .widget input,
+			.footer-sidebar .widget textarea,
+			.footer-sidebar .widget_twentyfourteen_ephemera > ol > li,
+			.footer-sidebar .widget_archive li,
+			.footer-sidebar .widget_categories li,
+			.footer-sidebar .widget_links li,
+			.footer-sidebar .widget_meta li,
+			.footer-sidebar .widget_nav_menu li,
+			.footer-sidebar .widget_pages li,
+			.footer-sidebar .widget_recent_comments li,
+			.footer-sidebar .widget_recent_entries li,
+			.footer-sidebar .widget_jp_blogs_i_follow li,
+			.footer-sidebar .widget_delicious li,
+			.footer-sidebar .widgets-list-layout li,
+			.footer-sidebar .widget_top-clicks li,
+			.footer-sidebar .widget_top-posts li,
+			.footer-sidebar .top_rated li,
+			.footer-sidebar .widget_upcoming_events_widget .upcoming-events li,
+			.footer-sidebar .widget-area .milestone-header,
+			.footer-sidebar.widget-area .milestone-message { border-color: #003800;}
+.primary-sidebar .widget input:focus,
+			.primary-sidebar .widget textarea:focus,
+			.footer-sidebar .widget input:focus,
+			.footer-sidebar .widget textarea:focus { border-color: #005600;}
+.primary-sidebar .widget del,
+			.footer-sidebar .widget del { color: #007500;}
+.primary-sidebar .widget abbr[title],
+			.footer-sidebar .widget abbr[title] { border-color: #00D100;}
+#secondary,
+			.primary-sidebar .widget blockquote,
+			.primary-sidebar .widget .wp-caption,
+			.primary-sidebar .widget_twentyfourteen_ephemera .entry-meta a,
+			.primary-sidebar .entry-meta,
+			.footer-sidebar .widget blockquote,
+			.footer-sidebar .widget .wp-caption,
+			.footer-sidebar .widget_twentyfourteen_ephemera .entry-meta a,
+			.footer-sidebar .entry-meta,
+			.site-footer,
+			.site-info,
+			.site-info a { color: #00D100;}
+.site-title a,
+			.site-title a:hover,
+			.primary-navigation .menu-item-has-children a:after,
+			.primary-navigation .page_item_has_children a:after,
+			.secondary-navigation .menu-item-has-children > a:after,
+			.site-navigation a,
+			.page-links a,
+			.page-links a:hover,
+			.content-sidebar .widget_twentyfourteen_ephemera .widget-title:before,
+			.primary-sidebar .widget a,
+			.primary-sidebar .widget blockquote cite,
+			.primary-sidebar .widget-title,
+			.primary-sidebar .widget-title a,
+			.primary-sidebar .widget_calendar caption,
+			.primary-sidebar .widget_calendar tbody a,
+			.primary-sidebar .widget_flickr #flickr_badge_uber_wrapper a:link,
+			.primary-sidebar .widget_flickr #flickr_badge_uber_wrapper a:active,
+			.primary-sidebar .widget_flickr #flickr_badge_uber_wrapper a:visited,
+			.primary-sidebar.widget-area .milestone-countdown,
+			.primary-sidebar.widget-area .milestone-header,
+			.footer-sidebar .widget a,
+			.footer-sidebar .widget blockquote cite,
+			.footer-sidebar .widget-title,
+			.footer-sidebar .widget-title a,
+			.footer-sidebar .widget_calendar caption,
+			.footer-sidebar .widget_calendar tbody a,
+			.footer-sidebar .widget_flickr #flickr_badge_uber_wrapper a:link,
+			.footer-sidebar .widget_flickr #flickr_badge_uber_wrapper a:active,
+			.footer-sidebar .widget_flickr #flickr_badge_uber_wrapper a:visited,
+			.footer-sidebar.widget-area .milestone-countdown,
+			.footer-sidebar.widget-area .milestone-header { color: #94F994;}
+.primary-sidebar .widget mark,
+			.primary-sidebar .widget ins,
+			.footer-sidebar .widget mark,
+			.footer-sidebar .widget ins { background-color: #94F994;}
+::selection { background-color: #000002;}
+::-moz-selection { background-color: #000002;}
+.search-toggle,
+			.search-toggle:hover,
+			.search-toggle.active,
+			.search-box,
+			.slider-direction-nav a:hover,
+			.primary-navigation ul ul,
+			.primary-navigation li:hover > a,
+			.primary-navigation li.focus > a,
+			#infinite-handle span,
+			.secondary-navigation ul ul,
+			.secondary-navigation li:hover > a,
+			.secondary-navigation li.focus > a,
+			button,
+			.contributor-posts-link,
+			input[type="button"],
+			input[type="reset"],
+			input[type="submit"],
+			.primary-sidebar .widget button,
+			.primary-sidebar .widget input[type="button"],
+			.primary-sidebar .widget input[type="reset"],
+			.primary-sidebar .widget input[type="submit"],
+			.primary-sidebar .widget_calendar tbody a,
+			.footer-sidebar .widget button,
+			.footer-sidebar .widget input[type="button"],
+			.footer-sidebar .widget input[type="reset"],
+			.footer-sidebar .widget input[type="submit"],
+			.footer-sidebar .widget_calendar tbody a,
+			.content-sidebar .widget button,
+			.content-sidebar .widget input[type="button"],
+			.content-sidebar .widget input[type="reset"],
+			.content-sidebar .widget input[type="submit"],
+			.content-sidebar .widget_calendar tbody a { background-color: #000002;}
+.paging-navigation .page-numbers.current { border-top-color: #000002;}
+a,
+			.content-sidebar .widget a,
+			.content-sidebar .widget_flickr #flickr_badge_uber_wrapper a:link,
+			.content-sidebar .widget_flickr #flickr_badge_uber_wrapper a:active,
+			.content-sidebar .widget_flickr #flickr_badge_uber_wrapper a:visited { color: #000002;}
+::selection { color: #E0E0FF;}
+::-moz-selection { color: #E0E0FF;}
+.search-toggle:before,
+			.search-toggle:hover:before,
+			.search-toggle.active:before,
+			.slider-direction-nav a:hover:before,
+			.primary-navigation li:hover a,
+			.primary-navigation li.focus a,
+			.primary-navigation .menu-item-has-children:hover a:after,
+			.primary-navigation .page_item_has_children:hover a:after,
+			.primary-navigation .menu-item-has-children.focus a:after,
+			.primary-navigation .page_item_has_children.focus a:after,
+			.secondary-navigation li:hover a,
+			.secondary-navigation li.focus a,
+			.secondary-navigation .menu-item-has-children:hover a:after { color: #E0E0FF;}
+button,
+			.contributor-posts-link,
+			input[type="button"],
+			input[type="reset"],
+			input[type="submit"],
+			.primary-sidebar .widget button,
+			.primary-sidebar .widget input[type="button"],
+			.primary-sidebar .widget input[type="reset"],
+			.primary-sidebar .widget input[type="submit"],
+			.primary-sidebar .widget_calendar tbody a,
+			.footer-sidebar .widget button,
+			.footer-sidebar .widget input[type="button"],
+			.footer-sidebar .widget input[type="reset"],
+			.footer-sidebar .widget input[type="submit"],
+			.footer-sidebar .widget_calendar tbody a,
+			.content-sidebar .widget button,
+			.content-sidebar .widget input[type="button"],
+			.content-sidebar .widget input[type="reset"],
+			.content-sidebar .widget input[type="submit"],
+			.content-sidebar .widget_calendar tbody a,
+			#infinite-handle span { color: #E0E0FF;}
+.featured-content a:hover { color: #000002;}
+.entry-meta .tag-links a:hover,
+			.page-links a:hover,
+			.primary-navigation ul ul a:hover,
+			.primary-navigation ul ul li.focus > a,
+			.secondary-navigation ul ul a:hover,
+			.secondary-navigation ul ul li.focus > a,
+			button:hover,
+			button:focus,
+			.contributor-posts-link:hover,
+			input[type="button"]:hover,
+			input[type="button"]:focus,
+			input[type="reset"]:hover,
+			input[type="reset"]:focus,
+			input[type="submit"]:hover,
+			input[type="submit"]:focus,
+			.primary-sidebar .widget input[type="button"]:hover,
+			.primary-sidebar .widget input[type="button"]:focus,
+			.primary-sidebar .widget input[type="reset"]:hover,
+			.primary-sidebar .widget input[type="reset"]:focus,
+			.primary-sidebar .widget input[type="submit"]:hover,
+			.primary-sidebar .widget input[type="submit"]:focus,
+			.primary-sidebar .widget_calendar tbody a:hover,
+			.footer-sidebar .widget input[type="button"]:hover,
+			.footer-sidebar .widget input[type="button"]:focus,
+			.footer-sidebar .widget input[type="reset"]:hover,
+			.footer-sidebar .widget input[type="reset"]:focus,
+			.footer-sidebar .widget input[type="submit"]:hover,
+			.footer-sidebar .widget input[type="submit"]:focus,
+			.footer-sidebar .widget_calendar tbody a:hover,
+			.content-sidebar .widget input[type="button"]:hover,
+			.content-sidebar .widget input[type="button"]:focus,
+			.content-sidebar .widget input[type="reset"]:hover,
+			.content-sidebar .widget input[type="reset"]:focus,
+			.content-sidebar .widget input[type="submit"]:hover,
+			.content-sidebar .widget input[type="submit"]:focus,
+			.content-sidebar .widget_calendar tbody a:hover,
+			#infinite-handle span:hover { background-color: #070601;}
+.entry-meta .tag-links a:hover:before { border-right-color: #070601;}
+.page-links a:hover { border-color: #070601;}
+.paging-navigation a:hover { border-top-color: #070601;}
+.entry-meta .tag-links a:hover { color: #8E8000;}
+.tag-links a:hover:after { background-color: #8E8000;}
+.search-box .search-field { border-color: #363001;}
+a:active,
+			a:hover,
+			.entry-title a:hover,
+			.entry-meta a:hover,
+			.cat-links a:hover,
+			.entry-content .edit-link a:hover,
+			.post-navigation a:hover,
+			.image-navigation a:hover,
+			.comment-author a:hover,
+			.comment-list .pingback a:hover,
+			.comment-list .trackback a:hover,
+			.comment-metadata a:hover,
+			.comment-reply-title small a:hover,
+			.content-sidebar .widget a:hover,
+			.content-sidebar .widget .widget-title a:hover,
+			.content-sidebar .widget_twentyfourteen_ephemera .entry-meta a:hover,
+			.content-sidebar .widget_flickr #flickr_badge_uber_wrapper a:hover,
+			#infinite-footer .blog-info a:hover,
+			#infinite-footer .blog-credits a:hover { color: #070601;}
+.primary-sidebar .widget a:hover,
+			.primary-sidebar .widget-title a:hover,
+			.primary-sidebar .widget_twentyfourteen_ephemera .entry-meta a:hover,
+			.primary-sidebar .widget_flickr #flickr_badge_uber_wrapper a:hover,
+			.footer-sidebar .widget a:hover,
+			.footer-sidebar .widget-title a:hover,
+			.footer-sidebar .widget_twentyfourteen_ephemera .entry-meta a:hover,
+			.footer-sidebar .widget_flickr #flickr_badge_uber_wrapper a:hover,
+			.site-info a:hover { color: #A39200;}
+button:active,
+			.contributor-posts-link:active,
+			input[type="button"]:active,
+			input[type="reset"]:active,
+			input[type="submit"]:active,
+			.primary-sidebar .widget input[type="button"]:active,
+			.primary-sidebar .widget input[type="reset"]:active,
+			.primary-sidebar .widget input[type="submit"]:active,
+			.footer-sidebar .widget input[type="button"]:active,
+			.footer-sidebar .widget input[type="reset"]:active,
+			.footer-sidebar .widget input[type="submit"]:active,
+			.content-sidebar .widget input[type="button"]:active,
+			.content-sidebar .widget input[type="reset"]:active,
+			.content-sidebar .widget input[type="submit"]:active,
+			#infinite-handle span:active { background-color: #1F1A04;}
+.site-navigation .current_page_item > a,
+			.site-navigation .current_page_ancestor > a,
+			.site-navigation .current-menu-item > a,
+			.site-navigation .current-menu-ancestor > a,
+			.site-navigation .current_page_item > a:after,
+			.site-navigation .current_page_ancestor > a:after,
+			.site-navigation .current-menu-item > a:after,
+			.site-navigation .current-menu-ancestor > a:after { color: #D6C000;}
+.primary-sidebar .widget button:hover,
+			.primary-sidebar .widget button:focus,
+			.primary-sidebar .widget input[type="button"]:hover,
+			.primary-sidebar .widget input[type="button"]:focus,
+			.primary-sidebar .widget input[type="reset"]:hover,
+			.primary-sidebar .widget input[type="reset"]:focus,
+			.primary-sidebar .widget input[type="submit"]:hover,
+			.primary-sidebar .widget input[type="submit"]:focus,
+			.primary-sidebar .widget_calendar tbody a:hover,
+			.footer-sidebar .widget button:hover,
+			.footer-sidebar .widget button:focus,
+			.footer-sidebar .widget input[type="button"]:hover,
+			.footer-sidebar .widget input[type="button"]:focus,
+			.footer-sidebar .widget input[type="reset"]:hover,
+			.footer-sidebar .widget input[type="reset"]:focus,
+			.footer-sidebar .widget input[type="submit"]:hover,
+			.footer-sidebar .widget input[type="submit"]:focus,
+			.footer-sidebar .widget_calendar tbody a:hover,
+			.content-sidebar .widget button:hover,
+			.content-sidebar .widget button:focus,
+			.content-sidebar .widget input[type="button"]:hover,
+			.content-sidebar .widget input[type="button"]:focus,
+			.content-sidebar .widget input[type="reset"]:hover,
+			.content-sidebar .widget input[type="reset"]:focus,
+			.content-sidebar .widget input[type="submit"]:hover,
+			.content-sidebar .widget input[type="submit"]:focus,
+			.content-sidebar .widget_calendar tbody a:hover,
+			.primary-navigation ul ul a:hover,
+			.primary-navigation ul ul li.focus > a,
+			.primary-navigation .menu-item-has-children li a:hover:after,
+			.primary-navigation .page_item_has_children li a:hover:after,
+			.primary-navigation .menu-item-has-children.focus .menu-item-has-children.focus a:after,
+			.primary-navigation .page_item_has_children.focus .page_item_has_children.focus a:after,
+			.secondary-navigation ul ul a:hover,
+			.secondary-navigation ul ul li.focus > a,
+			.secondary-navigation .menu-item-has-children li a:hover:after
+			 { color: #FFE605;}
+</style>
+<link href="https://s1.wp.com/?custom-css=1&amp;csblog=3Gslr&amp;cscache=6&amp;csrev=146" id="custom-css-css" rel="stylesheet" type="text/css"/>
+<!-- Your Google Analytics Plugin is missing the tracking ID -->
+</meta></link></link></meta></head>
+<body class="home blog custom-background wp-embed-responsive customizer-styles-applied header-image list-view grid highlander-enabled highlander-light custom-colors">
+<div class="hfeed site" id="page">
+<div id="site-header">
+<a href="https://adobochronicles.com/" rel="home">
+<img alt="" height="51" src="https://adobochroniclesdotcom.files.wordpress.com/2015/04/capture2.jpg" width="628"/>
+</a>
+</div>
+<header class="site-header" id="masthead" role="banner">
+<div class="header-main">
+<h1 class="site-title"><a href="https://adobochronicles.com/" rel="home"></a></h1>
+<div class="search-toggle">
+<a aria-controls="search-container" aria-expanded="false" class="screen-reader-text" href="#search-container">Search</a>
+</div>
+<nav class="site-navigation primary-navigation" id="primary-navigation" role="navigation">
+<button class="menu-toggle">Primary Menu</button>
+<a class="screen-reader-text skip-link" href="#content">Skip to content</a>
+<div class="menu-menu-container"><ul class="nav-menu" id="primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6188" id="menu-item-6188"><a href="https://adobochronicles.com/what-is-adobo/">Adobo What?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6190" id="menu-item-6190"><a href="https://adobochronicles.com/about/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6183" id="menu-item-6183"><a href="https://adobochronicles.com/the-adobo-chronicles-book-version/">The Book Version</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6185" id="menu-item-6185"><a href="https://adobochronicles.com/charities-projects-we-support/">Projects We Support</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6187" id="menu-item-6187"><a href="https://adobochronicles.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48985" id="menu-item-48985"><a href="https://adobochronicles.com/adobo-chronicles-films/">Adobo Chronicles FILMS</a></li>
+</ul></div> </nav>
+</div>
+<div class="search-box-wrapper hide" id="search-container">
+<div class="search-box">
+<form action="https://adobochronicles.com/" class="search-form" method="get" role="search">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="search-field" name="s" placeholder="Search …" type="search" value=""/>
+</label>
+<input class="search-submit" type="submit" value="Search"/>
+</form> </div>
+</div>
+</header><!-- #masthead -->
+<div class="site-main" id="main">
+<div class="main-content" id="main-content">
+<div class="featured-content" id="featured-content">
+<div class="featured-content-inner">
+<article class="post-32871 post type-post status-publish format-standard has-post-thumbnail hentry category-government-2 category-religion category-travel tag-featured" id="post-32871">
+<a class="post-thumbnail" href="https://adobochronicles.com/2016/10/28/what-really-transpired-between-god-and-president-duterte/">
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="32941" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="img_6737" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg" data-orig-size="1777,679" data-permalink="https://adobochronicles.com/2016/10/28/what-really-transpired-between-god-and-president-duterte/img_6737-2/" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg?w=672&amp;h=372&amp;crop=1" srcset="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg?w=672&amp;h=372&amp;crop=1 672w, https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg?w=150&amp;h=83&amp;crop=1 150w, https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg?w=300&amp;h=166&amp;crop=1 300w, https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg?w=768&amp;h=425&amp;crop=1 768w, https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_67371.jpg?w=1024&amp;h=567&amp;crop=1 1024w" width="672"> </img></a>
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://adobochronicles.com/category/government-2/" rel="category tag">Government</a>, <a href="https://adobochronicles.com/category/religion/" rel="category tag">Religion</a>, <a href="https://adobochronicles.com/category/travel/" rel="category tag">Travel</a></span>
+</div><!-- .entry-meta -->
+<h1 class="entry-title"><a href="https://adobochronicles.com/2016/10/28/what-really-transpired-between-god-and-president-duterte/" rel="bookmark">What Really Transpired Between God And President Duterte</a></h1> </header><!-- .entry-header -->
+</article><!-- #post-32871 -->
+<article class="post-32667 post type-post status-publish format-standard has-post-thumbnail hentry category-tourism category-travel tag-featured" id="post-32667">
+<a class="post-thumbnail" href="https://adobochronicles.com/2016/10/26/tutorial-riding-the-philippine-jeepney/">
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="32699" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="img_6705" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_6705.jpg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_6705.jpg?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_6705.jpg" data-orig-size="922,635" data-permalink="https://adobochronicles.com/2016/10/26/tutorial-riding-the-philippine-jeepney/img_6705/" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_6705.jpg?w=672&amp;h=372&amp;crop=1" srcset="https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_6705.jpg?w=672&amp;h=372&amp;crop=1 672w, https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_6705.jpg?w=150&amp;h=83&amp;crop=1 150w, https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_6705.jpg?w=300&amp;h=166&amp;crop=1 300w, https://adobochroniclesdotcom.files.wordpress.com/2016/10/img_6705.jpg?w=768&amp;h=425&amp;crop=1 768w" width="672"/> </a>
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://adobochronicles.com/category/tourism/" rel="category tag">Tourism</a>, <a href="https://adobochronicles.com/category/travel/" rel="category tag">Travel</a></span>
+</div><!-- .entry-meta -->
+<h1 class="entry-title"><a href="https://adobochronicles.com/2016/10/26/tutorial-riding-the-philippine-jeepney/" rel="bookmark">Tutorial: Riding The Philippine Jeepney</a></h1> </header><!-- .entry-header -->
+</article><!-- #post-32667 -->
+<article class="post-12441 post type-post status-publish format-standard has-post-thumbnail hentry category-international tag-binondo tag-china tag-chinatown tag-featured tag-manila tag-philippines tag-south-china-sea tag-spratly-islands tag-territorial-dispute" id="post-12441">
+<a class="post-thumbnail" href="https://adobochronicles.com/2015/06/08/china-lays-claim-over-manilas-chinatown/">
+<img alt="" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" data-attachment-id="12448" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="image" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg" data-orig-size="2560,1920" data-permalink="https://adobochronicles.com/2015/06/08/china-lays-claim-over-manilas-chinatown/image-1135/" height="372" loading="lazy" sizes="(max-width: 672px) 100vw, 672px" src="https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=672&amp;h=372&amp;crop=1" srcset="https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=672&amp;h=372&amp;crop=1 672w, https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=1344&amp;h=744&amp;crop=1 1344w, https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=150&amp;h=83&amp;crop=1 150w, https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=300&amp;h=166&amp;crop=1 300w, https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=768&amp;h=425&amp;crop=1 768w, https://adobochroniclesdotcom.files.wordpress.com/2015/06/image17.jpg?w=1024&amp;h=567&amp;crop=1 1024w" width="672"/> </a>
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://adobochronicles.com/category/international/" rel="category tag">International</a></span>
+</div><!-- .entry-meta -->
+<h1 class="entry-title"><a href="https://adobochronicles.com/2015/06/08/china-lays-claim-over-manilas-chinatown/" rel="bookmark">CHINA LAYS CLAIM OVER MANILA’S CHINATOWN</a></h1> </header><!-- .entry-header -->
+</article><!-- #post-12441 -->
+</div><!-- .featured-content-inner -->
+</div><!-- #featured-content .featured-content -->
+<div class="content-area" id="primary">
+<div class="site-content" id="content" role="main">
+<article class="post-58823 post type-post status-publish format-standard hentry category-government-2 category-politics category-social-media-2 category-technology" id="post-58823">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://adobochronicles.com/category/government-2/" rel="category tag">Government</a>, <a href="https://adobochronicles.com/category/politics/" rel="category tag">Politics</a>, <a href="https://adobochronicles.com/category/social-media-2/" rel="category tag">Social Media</a>, <a href="https://adobochronicles.com/category/technology/" rel="category tag">Technology</a></span>
+</div>
+<h1 class="entry-title"><a href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/" rel="bookmark">Philippine VP Leni Robredo To Facebook: Why did You Blur My Photo?</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/" rel="bookmark"><time class="entry-date" datetime="2021-03-16T15:01:22-07:00">March 16, 2021</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://adobochronicles.com/author/adobochron/" rel="author">Pol Pinoy</a></span></span> <span class="comments-link"><a href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/#respond">Leave a comment</a></span>
+</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+<div class="entry-content">
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-58826" data-attachment-id="58826" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="A8B783BB-57E3-4146-B4BE-F742D68BC2EC" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg?w=225" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg" data-orig-size="1114,1485" data-permalink="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/a8b783bb-57e3-4146-b4be-f742d68bc2ec/" sizes="(max-width: 474px) 100vw, 474px" src="https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg?w=474" srcset="https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg?w=474 474w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg?w=948 948w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg?w=113 113w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg?w=225 225w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/a8b783bb-57e3-4146-b4be-f742d68bc2ec.jpeg?w=768 768w"/></figure></div>
+<p></p>
+<p><strong>QUEZON CITY, </strong>Philippines (<em>The Adobo Chronicles, </em> Quezon City Bureau) –  A PR photo showing Leni Robredo inspecting one of her rural toilet projects is now the source of bad blood between the Philippine Vice President and Facebook.</p>
+<p>It all started when <em>writer/blogger Krizette Laureta Chu posted an opinion piece on her Facebook page in which she talked about Robredo’s project. Her post came with a photo of Robredo during her inspection.</em></p>
+<p><em>Alas, Facebook blurred the photo, saying that it may be sensitive to some people.  Facebook did not specify whether the sensitive issue was the toilet bowl in the photo, or of Robredo herself.</em></p>
+<p>Immediately, the Office of the Vice President sent a “note verbale” (Robredo has been making the rounds of foreign diplomatic offices lately) to Facebook protesting the giant social media platform’s action.</p>
+<p>“How could Facebook decide on its own that the Vice President’s photo is sensitive to some people,” the OVP asked. “She was dressed appropriately in her favorite lavander color, and she was wearing a face mask as required in public,” it added.</p>
+<p><em>The Adobo Chronicles</em> tried to get the side of Mark Zuckerberg, but his staff told us he was working from home when we called, and they could not give us his home phone number because it was confidential.</p>
+<p>This is a developing story.</p>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-58832" data-attachment-id="58832" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="5672e493-d359-4390-b979-679460edabf8" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/5672e493-d359-4390-b979-679460edabf8.jpeg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/5672e493-d359-4390-b979-679460edabf8.jpeg?w=158" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/5672e493-d359-4390-b979-679460edabf8.jpeg" data-orig-size="598,1134" data-permalink="https://adobochronicles.com/5672e493-d359-4390-b979-679460edabf8/" sizes="(max-width: 540px) 100vw, 540px" src="https://adobochroniclesdotcom.files.wordpress.com/2021/03/5672e493-d359-4390-b979-679460edabf8.jpeg?w=540" srcset="https://adobochroniclesdotcom.files.wordpress.com/2021/03/5672e493-d359-4390-b979-679460edabf8.jpeg?w=540 540w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/5672e493-d359-4390-b979-679460edabf8.jpeg?w=79 79w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/5672e493-d359-4390-b979-679460edabf8.jpeg?w=158 158w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/5672e493-d359-4390-b979-679460edabf8.jpeg 598w"/></figure></div>
+<div id="atatags-544477451-60519c0684e60"></div>
+<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-544477451-60519c0684e60',
+						location: 120,
+						formFactor: '001',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								
+							}
+						}
+					});
+				});
+			</script><div class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled" id="jp-post-flair"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-reddit"><a class="share-reddit sd-button share-icon" data-shared="" href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/?share=reddit" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-58823" href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-58823" href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-58823" href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-pinterest"><a class="share-pinterest sd-button share-icon" data-shared="sharing-pinterest-58823" href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/?share=pinterest" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" data-name="like-post-frame-54447745-58823-60519c0685950" data-src="//widgets.wp.com/likes/index.html?ver=20210317#blog_id=54447745&amp;post_id=58823&amp;origin=adobochroniclesdotcom.wordpress.com&amp;obj_id=54447745-58823-60519c0685950&amp;domain=adobochronicles.com" id="like-post-wrapper-54447745-58823-60519c0685950"><h3 class="sd-title">Like this:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px;"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><span class="sd-text-color"></span><a class="sd-link-color"></a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-58823 -->
+<article class="post-58811 post type-post status-publish format-standard hentry category-government-2 category-politics" id="post-58811">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://adobochronicles.com/category/government-2/" rel="category tag">Government</a>, <a href="https://adobochronicles.com/category/politics/" rel="category tag">Politics</a></span>
+</div>
+<h1 class="entry-title"><a href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/" rel="bookmark">Leni Robredo’s Camp Confirms Maria Ressa’s ‘War Zone Philippines’</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/" rel="bookmark"><time class="entry-date" datetime="2021-03-15T01:49:25-07:00">March 15, 2021</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://adobochronicles.com/author/adobochron/" rel="author">Pol Pinoy</a></span></span> <span class="comments-link"><a href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/#respond">Leave a comment</a></span>
+</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+<div class="entry-content">
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-58813" data-attachment-id="58813" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="3f890e7c-f2db-4889-a089-fd6765a9ae79" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/3f890e7c-f2db-4889-a089-fd6765a9ae79.jpeg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/3f890e7c-f2db-4889-a089-fd6765a9ae79.jpeg?w=225" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/3f890e7c-f2db-4889-a089-fd6765a9ae79.jpeg" data-orig-size="563,750" data-permalink="https://adobochronicles.com/3f890e7c-f2db-4889-a089-fd6765a9ae79/" sizes="(max-width: 563px) 100vw, 563px" src="https://adobochroniclesdotcom.files.wordpress.com/2021/03/3f890e7c-f2db-4889-a089-fd6765a9ae79.jpeg?w=563" srcset="https://adobochroniclesdotcom.files.wordpress.com/2021/03/3f890e7c-f2db-4889-a089-fd6765a9ae79.jpeg 563w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/3f890e7c-f2db-4889-a089-fd6765a9ae79.jpeg?w=113 113w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/3f890e7c-f2db-4889-a089-fd6765a9ae79.jpeg?w=225 225w"/></figure></div>
+<p></p>
+<p><strong>MANILA, </strong>Philippines (<em>The Adobo Chronicles, </em>Manila Bureau) – The camp of Vice President Leni Robredo has confirmed what Rappler CEO Maria Ressa has been saying all along — that the Philippines is a “war zone.”</p>
+<p><em>“It’s the worst war zone I’ve ever been in,” Ressa likes to say whenever she is interviewed by the Western media.</em></p>
+<p><em>The Robredo camp’s confirmation came through what appeared like a 2022 Presidential campaign poster which shows the VP in front of the Philippine flag.</em></p>
+<p>But there is one problem.</p>
+<p><em>The law and protocols dictate that when hanging or displaying the Philippine flag vertically, the red stripe should be on the right side of the person looking at the flag.  The Robredo poster had the red stripe on the left.</em></p>
+<p><em>Every Filipino who has gone through civics lessons in school knows that when the red stripe is on the left, it means the Philippines is at war.</em></p>
+<p>Yes, a war zone, as per Ressa.</p>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img alt="" class="wp-image-58818" data-attachment-id="58818" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="1b063ed2-3561-4525-a5d7-79cde162f60e" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/1b063ed2-3561-4525-a5d7-79cde162f60e.jpeg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/1b063ed2-3561-4525-a5d7-79cde162f60e.jpeg?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/1b063ed2-3561-4525-a5d7-79cde162f60e.jpeg" data-orig-size="584,388" data-permalink="https://adobochronicles.com/1b063ed2-3561-4525-a5d7-79cde162f60e/" sizes="(max-width: 584px) 100vw, 584px" src="https://adobochroniclesdotcom.files.wordpress.com/2021/03/1b063ed2-3561-4525-a5d7-79cde162f60e.jpeg?w=584" srcset="https://adobochroniclesdotcom.files.wordpress.com/2021/03/1b063ed2-3561-4525-a5d7-79cde162f60e.jpeg 584w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/1b063ed2-3561-4525-a5d7-79cde162f60e.jpeg?w=150 150w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/1b063ed2-3561-4525-a5d7-79cde162f60e.jpeg?w=300 300w"/></figure></div>
+<div id="atatags-544477455-60519c068bbe0">
+<script type="text/javascript">
+            __ATA.cmd.push(function() {
+                __ATA.initVideoSlot('atatags-544477455-60519c068bbe0', {
+                    sectionId: '544477455',
+                    format: 'inread'
+                });
+            });
+        </script>
+</div><div class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled" id="jp-post-flair"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-reddit"><a class="share-reddit sd-button share-icon" data-shared="" href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/?share=reddit" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-58811" href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-58811" href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-58811" href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-pinterest"><a class="share-pinterest sd-button share-icon" data-shared="sharing-pinterest-58811" href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/?share=pinterest" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" data-name="like-post-frame-54447745-58811-60519c068c573" data-src="//widgets.wp.com/likes/index.html?ver=20210317#blog_id=54447745&amp;post_id=58811&amp;origin=adobochroniclesdotcom.wordpress.com&amp;obj_id=54447745-58811-60519c068c573&amp;domain=adobochronicles.com" id="like-post-wrapper-54447745-58811-60519c068c573"><h3 class="sd-title">Like this:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px;"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><span class="sd-text-color"></span><a class="sd-link-color"></a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-58811 -->
+<article class="post-58804 post type-post status-publish format-standard hentry category-government-2 category-international category-law-enforcement category-travel" id="post-58804">
+<header class="entry-header">
+<div class="entry-meta">
+<span class="cat-links"><a href="https://adobochronicles.com/category/government-2/" rel="category tag">Government</a>, <a href="https://adobochronicles.com/category/international/" rel="category tag">International</a>, <a href="https://adobochronicles.com/category/law-enforcement/" rel="category tag">Law Enforcement</a>, <a href="https://adobochronicles.com/category/travel/" rel="category tag">Travel</a></span>
+</div>
+<h1 class="entry-title"><a href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/" rel="bookmark">Los Angeles Police Subpoenas Philippine President Duterte</a></h1>
+<div class="entry-meta">
+<span class="entry-date"><a href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/" rel="bookmark"><time class="entry-date" datetime="2021-03-13T23:38:55-08:00">March 13, 2021</time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="https://adobochronicles.com/author/adobochron/" rel="author">Pol Pinoy</a></span></span> <span class="comments-link"><a href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/#respond">Leave a comment</a></span>
+</div><!-- .entry-meta -->
+</header><!-- .entry-header -->
+<div class="entry-content">
+<figure class="wp-block-image size-large"><img alt="" class="wp-image-58806" data-attachment-id="58806" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}' data-image-title="4e5d1782-123f-432b-ba7f-c9c0de2afc71" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg" data-orig-size="1412,968" data-permalink="https://adobochronicles.com/4e5d1782-123f-432b-ba7f-c9c0de2afc71/" sizes="(max-width: 1024px) 100vw, 1024px" src="https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg?w=1024" srcset="https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg?w=1024 1024w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg?w=150 150w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg?w=300 300w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg?w=768 768w, https://adobochroniclesdotcom.files.wordpress.com/2021/03/4e5d1782-123f-432b-ba7f-c9c0de2afc71.jpeg 1412w"/></figure>
+<p><strong>LOS ANGELES, </strong>California (<em>The Adobo Chronicles, </em>L.A. Bureau) – The Los Angeles Police Department (LAPD) has issued as subpoena to Rodrigo Duterte to appear in California to explain <em>what police found to be the Philippine President’s fake driver license. </em> <em>The California ID was found in an undisclosed location, and it had the President’s photograph.  The license was under the name of a “Norman D.”</em></p>
+<p>LAPD told <em>The Adobo Chronicles</em> that it has launched an investigation for possible violation of federal and state laws on falsification of public documents.</p>
+<p>“It’s either Duterte stole and faked the license of Norman D, or Norman D faked his license using Duterte’s photo,” LAPD said.</p>
+<p>The LAPD acknowledges that it would be very difficult for Duterte to personally appear in California because of current Covid-19 travel restrictions, particularly for senior citizens. <em>Duterte turns 76 on March 28. </em>However, the Department said Duterte can designate an alter ego who is able to travel and personally appear in Los Angeles as soon as possible.</p>
+<p>When asked about the subpoena, Presidential Spokesperson Harry Roque said, “Hindi ko po alam.  Wala pong nabanggit ang Pangulo sa akin.” (I don’t know. The President has not mentioned anything to me.)</p>
+<p>This is a developing story.</p>
+<div class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled" id="jp-post-flair"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-reddit"><a class="share-reddit sd-button share-icon" data-shared="" href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/?share=reddit" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-linkedin"><a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-58804" href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-facebook"><a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-58804" href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-58804" href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-email"><a class="share-email sd-button share-icon" data-shared="" href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-pinterest"><a class="share-pinterest sd-button share-icon" data-shared="sharing-pinterest-58804" href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/?share=pinterest" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-end"></li></ul></div></div></div><div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" data-name="like-post-frame-54447745-58804-60519c0691acf" data-src="//widgets.wp.com/likes/index.html?ver=20210317#blog_id=54447745&amp;post_id=58804&amp;origin=adobochroniclesdotcom.wordpress.com&amp;obj_id=54447745-58804-60519c0691acf&amp;domain=adobochronicles.com" id="like-post-wrapper-54447745-58804-60519c0691acf"><h3 class="sd-title">Like this:</h3><div class="likes-widget-placeholder post-likes-widget-placeholder" style="height: 55px;"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></div><span class="sd-text-color"></span><a class="sd-link-color"></a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-58804 -->
+<nav class="navigation paging-navigation" role="navigation">
+<h1 class="screen-reader-text">Posts navigation</h1>
+<div class="pagination loop-pagination">
+<span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://adobochronicles.com/page/2/">2</a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="https://adobochronicles.com/page/1722/">1,722</a>
+<a class="next page-numbers" href="https://adobochronicles.com/page/2/">Next →</a> </div><!-- .pagination -->
+</nav><!-- .navigation -->
+</div><!-- #content -->
+</div><!-- #primary -->
+<div class="content-sidebar widget-area" id="content-sidebar" role="complementary">
+<div id="atatags-544477453-60519c0691d58"></div>
+<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-544477453-60519c0691d58',
+						location: 140,
+						formFactor: '003',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								
+							}
+						}
+					});
+				});
+			</script><aside class="widget widget_media_image" id="media_image-11"><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><img alt="" class="image wp-image-52839 attachment-1000x1000 size-1000x1000" data-attachment-id="52839" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="A834BF4A-8EE1-4F8D-B254-F9E9BC869AC5" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2019/04/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5.png?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2019/04/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5.png?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2019/04/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5.png" data-orig-size="1000,1000" data-permalink="https://adobochronicles.com/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5/" height="1000" loading="lazy" sizes="(max-width: 1000px) 100vw, 1000px" src="https://adobochroniclesdotcom.files.wordpress.com/2019/04/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5.png?w=1000" srcset="https://adobochroniclesdotcom.files.wordpress.com/2019/04/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5.png 1000w, https://adobochroniclesdotcom.files.wordpress.com/2019/04/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5.png?w=150 150w, https://adobochroniclesdotcom.files.wordpress.com/2019/04/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5.png?w=300 300w, https://adobochroniclesdotcom.files.wordpress.com/2019/04/a834bf4a-8ee1-4f8d-b254-f9e9bc869ac5.png?w=768 768w" style="max-width: 100%; height: auto;" width="1000"/></aside><aside class="widget widget_text" id="text-8"><h1 class="widget-title">GLOBAL EDITION</h1> <div class="textwidget"><p>The Adobo Chronicles is a registered trademark with the U.S. Patent and Trademark Office | Registration # 4711386</p>
+</div>
+</aside><aside class="widget widget_blog-stats" id="blog-stats-3"><h1 class="widget-title">Views</h1> <ul>
+<li>27,243,319 hits</li>
+</ul>
+</aside><aside class="widget widget_text" id="text-6"><h1 class="widget-title">Follow us on Twitter</h1> <div class="textwidget"><a class="twitter-follow-button" href="https://twitter.com/adobochronicles">Follow @adobochronicles</a></div>
+</aside><aside class="widget widget_media_image" id="media_image-8"><h1 class="widget-title">NEW!!!</h1><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><figure class="wp-caption alignnone" style="width: 919px"><a href="https://adobochronicles.com/adobo-chronicles-films/"><img alt="" class="image wp-image-48987 aligncenter attachment-full size-full" data-attachment-id="48987" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="602ED8B6-401B-415A-AD51-F94FB22C78BA" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg" data-orig-size="919,516" data-permalink="https://adobochronicles.com/adobo-chronicles-films/602ed8b6-401b-415a-ad51-f94fb22c78ba/" height="266" loading="lazy" sizes="(max-width: 474px) 100vw, 474px" src="https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg" srcset="https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg?w=474&amp;h=266 474w, https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg?w=150&amp;h=84 150w, https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg?w=300&amp;h=168 300w, https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg?w=768&amp;h=431 768w, https://adobochroniclesdotcom.files.wordpress.com/2018/04/602ed8b6-401b-415a-ad51-f94fb22c78ba.jpeg 919w" style="max-width: 100%; height: auto;" width="474"/></a><figcaption class="wp-caption-text">Click on image to view our films.</figcaption></figure></aside><aside class="widget widget_search" id="search-3"><h1 class="widget-title">SEARCH BY KEY WORDS</h1><form action="https://adobochronicles.com/" class="search-form" method="get" role="search">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="search-field" name="s" placeholder="Search …" type="search" value=""/>
+</label>
+<input class="search-submit" type="submit" value="Search"/>
+</form></aside><aside class="widget widget_media_image" id="media_image-9"><h1 class="widget-title">Support Us!</h1><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Q6999R4YGMLGU"><img alt="" class="image wp-image-37747 alignnone attachment-full size-full" data-attachment-id="37747" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="img_8805" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2017/01/img_8805.png?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2017/01/img_8805.png?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2017/01/img_8805.png" data-orig-size="600,192" data-permalink="https://adobochronicles.com/2017/01/27/bishop-bacani-on-p10-million-offer-to-president-duterte-i-was-misquoted/img_8805/" height="152" loading="lazy" sizes="(max-width: 474px) 100vw, 474px" src="https://adobochroniclesdotcom.files.wordpress.com/2017/01/img_8805.png" srcset="https://adobochroniclesdotcom.files.wordpress.com/2017/01/img_8805.png?w=474&amp;h=152 474w, https://adobochroniclesdotcom.files.wordpress.com/2017/01/img_8805.png?w=150&amp;h=48 150w, https://adobochroniclesdotcom.files.wordpress.com/2017/01/img_8805.png?w=300&amp;h=96 300w, https://adobochroniclesdotcom.files.wordpress.com/2017/01/img_8805.png 600w" style="max-width: 100%; height: auto;" width="474"/></a></aside>
+<aside class="widget widget_recent_entries" id="recent-posts-3">
+<h1 class="widget-title">Recent Posts</h1><nav aria-label="Recent Posts" role="navigation">
+<ul>
+<li>
+<a href="https://adobochronicles.com/2021/03/16/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo/">Philippine VP Leni Robredo To Facebook: Why did You Blur My Photo?</a>
+<span class="post-date">March 16, 2021</span>
+</li>
+<li>
+<a href="https://adobochronicles.com/2021/03/15/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines/">Leni Robredo’s Camp Confirms Maria Ressa’s ‘War Zone Philippines’</a>
+<span class="post-date">March 15, 2021</span>
+</li>
+<li>
+<a href="https://adobochronicles.com/2021/03/13/los-angeles-police-subpoenas-philippine-president-duterte/">Los Angeles Police Subpoenas Philippine President Duterte</a>
+<span class="post-date">March 13, 2021</span>
+</li>
+<li>
+<a href="https://adobochronicles.com/2021/03/13/vice-president-leni-robredos-statement-on-pi-day/">Vice President Leni Robredo’s Statement On Pi Day</a>
+<span class="post-date">March 13, 2021</span>
+</li>
+<li>
+<a href="https://adobochronicles.com/2021/03/12/leni-robredo-questions-senator-lacsons-math/">LENI ROBREDO QUESTIONS SENATOR LACSON’S MATH</a>
+<span class="post-date">March 12, 2021</span>
+</li>
+</ul>
+</nav></aside><aside class="widget widget_follow_button_widget" id="follow_button_widget-2">
+<a class="wordpress-follow-button" data-blog="54447745" data-lang="en" href="https://adobochronicles.com">Follow  on WordPress.com</a>
+<script type="text/javascript">(function(d){var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');p.type = 'text/javascript';p.async = true;p.src = '//widgets.wp.com/platform.js';f.parentNode.insertBefore(p,f);}(document));</script>
+</aside><aside class="widget widget_facebook_likebox" id="facebook-likebox-3"><h1 class="widget-title"><a href="https://www.facebook.com/TheAdoboChronicles">LIKE US ON FACEBOOK</a></h1> <div id="fb-root"></div>
+<div class="fb-page" data-height="130" data-hide-cover="false" data-hide-cta="false" data-href="https://www.facebook.com/TheAdoboChronicles" data-show-facepile="false" data-small-header="false" data-tabs="false" data-width="200">
+<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/TheAdoboChronicles"><a href="https://www.facebook.com/TheAdoboChronicles">LIKE US ON FACEBOOK</a></blockquote></div>
+</div>
+</aside><aside class="widget widget_blog_subscription jetpack_subscription_widget" id="blog_subscription-3"><h1 class="widget-title"><label for="subscribe-field">Follow Blog via Email</label></h1>
+<form accept-charset="utf-8" action="https://subscribe.wordpress.com" id="" method="post">
+<p>Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+<div class="jetpack-subscribe-count">
+<p>
+						Join 21,148 other followers						</p>
+</div>
+<p id="subscribe-email">
+<label class="screen-reader-text" for="subscribe-field" id="subscribe-field-label">
+						Email Address:					</label>
+<input id="subscribe-field" name="email" placeholder="Enter your email address" style="width: 95%; padding: 1px 10px" type="text" value=""/> </p>
+<p id="subscribe-submit">
+<input name="action" type="hidden" value="subscribe"/>
+<input name="blog_id" type="hidden" value="54447745"/>
+<input name="source" type="hidden" value="https://adobochronicles.com/"/>
+<input name="sub-type" type="hidden" value="widget"/>
+<input name="redirect_fragment" type="hidden" value="blog_subscription-3"/>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="93b763f133"/> <button type="submit">
+	                    Follow                    </button>
+</p>
+</form>
+</aside><aside class="widget widget_media_gallery" id="media_gallery-2"><h1 class="widget-title">Gallery Of Our Most Viewed Stories</h1><p class="jetpack-slideshow-noscript robots-nocontent">This slideshow requires JavaScript.</p><div class="slideshow-window jetpack-slideshow slideshow-black" data-autostart="1" data-gallery='[{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2014\/03\/adobochron1.jpg?w=474","id":"3218","title":"adobochron1.jpg","alt":"","caption":"","itemprop":"image"},{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2015\/02\/image12.jpg?w=474","id":"9798","title":"image","alt":"","caption":"Kanye West Banned","itemprop":"image"},{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2013\/12\/image17.jpg?w=474","id":"1844","title":"image17","alt":"","caption":"Megan Young Miss World","itemprop":"image"},{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2013\/12\/image101.jpg?w=300","id":"1861","title":"image10","alt":"","caption":"Ambassador Cooper","itemprop":"image"},{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2014\/03\/image45.jpg?w=474","id":"3674","title":"image","alt":"","caption":"Selfitis","itemprop":"image"},{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2015\/05\/image7.jpg?w=448","id":"11669","title":"Fight of the Century","alt":"","caption":"Fight of the Century","itemprop":"image"},{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2014\/04\/image26.jpg?w=474","id":"4026","title":"image","alt":"","caption":"No more U.S. visa for Pinoys","itemprop":"image"},{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2013\/12\/image23.jpg?w=374","id":"1970","title":"image","alt":"","caption":"Banned From Beauty Pageants","itemprop":"image"},{"src":"https:\/\/adobochroniclesdotcom.files.wordpress.com\/2014\/11\/image27.jpg?w=474","id":"8095","title":"image","alt":"","caption":"Pope Francis Visits PH","itemprop":"image"}]' data-trans="fade" id="gallery-58804-1-slideshow" itemscope="" itemtype="https://schema.org/ImageGallery"></div></aside><aside class="widget widget_archive" id="archives-3"><h1 class="widget-title">ARCHIVES</h1> <label class="screen-reader-text" for="archives-dropdown-3">ARCHIVES</label>
+<select id="archives-dropdown-3" name="archive-dropdown">
+<option value="">Select Month</option>
+<option value="https://adobochronicles.com/2021/03/"> March 2021 </option>
+<option value="https://adobochronicles.com/2021/02/"> February 2021 </option>
+<option value="https://adobochronicles.com/2021/01/"> January 2021 </option>
+<option value="https://adobochronicles.com/2020/12/"> December 2020 </option>
+<option value="https://adobochronicles.com/2020/11/"> November 2020 </option>
+<option value="https://adobochronicles.com/2020/10/"> October 2020 </option>
+<option value="https://adobochronicles.com/2020/09/"> September 2020 </option>
+<option value="https://adobochronicles.com/2020/08/"> August 2020 </option>
+<option value="https://adobochronicles.com/2020/07/"> July 2020 </option>
+<option value="https://adobochronicles.com/2020/06/"> June 2020 </option>
+<option value="https://adobochronicles.com/2020/05/"> May 2020 </option>
+<option value="https://adobochronicles.com/2020/04/"> April 2020 </option>
+<option value="https://adobochronicles.com/2020/03/"> March 2020 </option>
+<option value="https://adobochronicles.com/2020/02/"> February 2020 </option>
+<option value="https://adobochronicles.com/2020/01/"> January 2020 </option>
+<option value="https://adobochronicles.com/2019/12/"> December 2019 </option>
+<option value="https://adobochronicles.com/2019/11/"> November 2019 </option>
+<option value="https://adobochronicles.com/2019/10/"> October 2019 </option>
+<option value="https://adobochronicles.com/2019/09/"> September 2019 </option>
+<option value="https://adobochronicles.com/2019/08/"> August 2019 </option>
+<option value="https://adobochronicles.com/2019/07/"> July 2019 </option>
+<option value="https://adobochronicles.com/2019/06/"> June 2019 </option>
+<option value="https://adobochronicles.com/2019/05/"> May 2019 </option>
+<option value="https://adobochronicles.com/2019/04/"> April 2019 </option>
+<option value="https://adobochronicles.com/2019/03/"> March 2019 </option>
+<option value="https://adobochronicles.com/2019/02/"> February 2019 </option>
+<option value="https://adobochronicles.com/2019/01/"> January 2019 </option>
+<option value="https://adobochronicles.com/2018/12/"> December 2018 </option>
+<option value="https://adobochronicles.com/2018/11/"> November 2018 </option>
+<option value="https://adobochronicles.com/2018/10/"> October 2018 </option>
+<option value="https://adobochronicles.com/2018/09/"> September 2018 </option>
+<option value="https://adobochronicles.com/2018/08/"> August 2018 </option>
+<option value="https://adobochronicles.com/2018/07/"> July 2018 </option>
+<option value="https://adobochronicles.com/2018/06/"> June 2018 </option>
+<option value="https://adobochronicles.com/2018/05/"> May 2018 </option>
+<option value="https://adobochronicles.com/2018/04/"> April 2018 </option>
+<option value="https://adobochronicles.com/2018/03/"> March 2018 </option>
+<option value="https://adobochronicles.com/2018/02/"> February 2018 </option>
+<option value="https://adobochronicles.com/2018/01/"> January 2018 </option>
+<option value="https://adobochronicles.com/2017/12/"> December 2017 </option>
+<option value="https://adobochronicles.com/2017/11/"> November 2017 </option>
+<option value="https://adobochronicles.com/2017/10/"> October 2017 </option>
+<option value="https://adobochronicles.com/2017/09/"> September 2017 </option>
+<option value="https://adobochronicles.com/2017/08/"> August 2017 </option>
+<option value="https://adobochronicles.com/2017/07/"> July 2017 </option>
+<option value="https://adobochronicles.com/2017/06/"> June 2017 </option>
+<option value="https://adobochronicles.com/2017/05/"> May 2017 </option>
+<option value="https://adobochronicles.com/2017/04/"> April 2017 </option>
+<option value="https://adobochronicles.com/2017/03/"> March 2017 </option>
+<option value="https://adobochronicles.com/2017/02/"> February 2017 </option>
+<option value="https://adobochronicles.com/2017/01/"> January 2017 </option>
+<option value="https://adobochronicles.com/2016/12/"> December 2016 </option>
+<option value="https://adobochronicles.com/2016/11/"> November 2016 </option>
+<option value="https://adobochronicles.com/2016/10/"> October 2016 </option>
+<option value="https://adobochronicles.com/2016/09/"> September 2016 </option>
+<option value="https://adobochronicles.com/2016/08/"> August 2016 </option>
+<option value="https://adobochronicles.com/2016/07/"> July 2016 </option>
+<option value="https://adobochronicles.com/2016/06/"> June 2016 </option>
+<option value="https://adobochronicles.com/2016/05/"> May 2016 </option>
+<option value="https://adobochronicles.com/2016/04/"> April 2016 </option>
+<option value="https://adobochronicles.com/2016/03/"> March 2016 </option>
+<option value="https://adobochronicles.com/2016/02/"> February 2016 </option>
+<option value="https://adobochronicles.com/2016/01/"> January 2016 </option>
+<option value="https://adobochronicles.com/2015/12/"> December 2015 </option>
+<option value="https://adobochronicles.com/2015/11/"> November 2015 </option>
+<option value="https://adobochronicles.com/2015/10/"> October 2015 </option>
+<option value="https://adobochronicles.com/2015/09/"> September 2015 </option>
+<option value="https://adobochronicles.com/2015/08/"> August 2015 </option>
+<option value="https://adobochronicles.com/2015/07/"> July 2015 </option>
+<option value="https://adobochronicles.com/2015/06/"> June 2015 </option>
+<option value="https://adobochronicles.com/2015/05/"> May 2015 </option>
+<option value="https://adobochronicles.com/2015/04/"> April 2015 </option>
+<option value="https://adobochronicles.com/2015/03/"> March 2015 </option>
+<option value="https://adobochronicles.com/2015/02/"> February 2015 </option>
+<option value="https://adobochronicles.com/2015/01/"> January 2015 </option>
+<option value="https://adobochronicles.com/2014/12/"> December 2014 </option>
+<option value="https://adobochronicles.com/2014/11/"> November 2014 </option>
+<option value="https://adobochronicles.com/2014/10/"> October 2014 </option>
+<option value="https://adobochronicles.com/2014/09/"> September 2014 </option>
+<option value="https://adobochronicles.com/2014/08/"> August 2014 </option>
+<option value="https://adobochronicles.com/2014/07/"> July 2014 </option>
+<option value="https://adobochronicles.com/2014/06/"> June 2014 </option>
+<option value="https://adobochronicles.com/2014/05/"> May 2014 </option>
+<option value="https://adobochronicles.com/2014/04/"> April 2014 </option>
+<option value="https://adobochronicles.com/2014/03/"> March 2014 </option>
+<option value="https://adobochronicles.com/2014/02/"> February 2014 </option>
+<option value="https://adobochronicles.com/2014/01/"> January 2014 </option>
+<option value="https://adobochronicles.com/2013/12/"> December 2013 </option>
+<option value="https://adobochronicles.com/2013/11/"> November 2013 </option>
+<option value="https://adobochronicles.com/2013/10/"> October 2013 </option>
+<option value="https://adobochronicles.com/2013/09/"> September 2013 </option>
+<option value="https://adobochronicles.com/2013/08/"> August 2013 </option>
+<option value="https://adobochronicles.com/2013/07/"> July 2013 </option>
+<option value="https://adobochronicles.com/2013/06/"> June 2013 </option>
+</select>
+<script>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-3" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+</aside><aside class="widget widget_media_image" id="media_image-2"><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><figure class="wp-caption alignnone" style="width: 279px"><a href="http://www.humorfeed.com"><img alt="" class="image alignnone" height="59" src="http://humorfeed.com/templates/bootstrap/img/logoD-2015.png" width="279"/></a><figcaption class="wp-caption-text">Your Source of the Best News Satire on the Web.  And we're a proud member!</figcaption></figure></aside><aside class="widget widget_media_image" id="media_image-10"><h1 class="widget-title">The Otter Side Of The Exotic Animal Trade</h1><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><figure class="wp-caption alignnone" style="width: 2010px"><a href="https://adobochronicles.com/2019/02/17/feature-the-otter-side-of-the-exotic-animal-trade-via-facebook/"><img alt="" class="image wp-image-52279 attachment-2010x1279 size-2010x1279" data-attachment-id="52279" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="A78C8A3C-7D1B-4EE0-8808-855537CEA86F" data-large-file="https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg?w=474" data-medium-file="https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg?w=300" data-orig-file="https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg" data-orig-size="2010,1279" data-permalink="https://adobochronicles.com/2019/02/17/feature-the-otter-side-of-the-exotic-animal-trade-via-facebook/a78c8a3c-7d1b-4ee0-8808-855537cea86f/" height="1279" loading="lazy" sizes="(max-width: 2010px) 100vw, 2010px" src="https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg?w=2010" srcset="https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg 2010w, https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg?w=150 150w, https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg?w=300 300w, https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg?w=768 768w, https://adobochroniclesdotcom.files.wordpress.com/2019/02/a78c8a3c-7d1b-4ee0-8808-855537cea86f.jpeg?w=1024 1024w" style="max-width: 100%; height: auto;" width="2010"/></a><figcaption class="wp-caption-text">The Otter Side Of The Exotic Animal Trade</figcaption></figure></aside> <div id="atatags-544477453-60519c0697715"></div>
+<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-544477453-60519c0697715',
+						location: 140,
+						formFactor: '003',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								
+							}
+						}
+					});
+				});
+			</script></div><!-- #content-sidebar -->
+</div><!-- #main-content -->
+<div id="secondary">
+</div><!-- #secondary -->
+</div><!-- #main -->
+<footer class="site-footer" id="colophon" role="contentinfo">
+<div class="site-info">
+<a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a>
+</div><!-- .site-info -->
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = JSON.parse( decodeURIComponent( '%7B%22settings%22%3A%7B%22id%22%3A%22content%22%2C%22ajaxurl%22%3A%22https%3A%5C%2F%5C%2Fadobochronicles.com%5C%2F%3Finfinity%3Dscrolling%22%2C%22type%22%3A%22click%22%2C%22wrapper%22%3Atrue%2C%22wrapper_class%22%3A%22infinite-wrap%22%2C%22footer%22%3A%22page%22%2C%22click_handle%22%3A%221%22%2C%22text%22%3A%22Older%20posts%22%2C%22totop%22%3A%22Scroll%20back%20to%20top%22%2C%22currentday%22%3A%2213.03.21%22%2C%22order%22%3A%22DESC%22%2C%22scripts%22%3A%5B%5D%2C%22styles%22%3A%5B%5D%2C%22google_analytics%22%3Afalse%2C%22offset%22%3A1%2C%22history%22%3A%7B%22host%22%3A%22adobochronicles.com%22%2C%22path%22%3A%22%5C%2Fpage%5C%2F%25d%5C%2F%22%2C%22use_trailing_slashes%22%3Atrue%2C%22parameters%22%3A%22%22%7D%2C%22query_args%22%3A%7B%22error%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A0%2C%22post_parent%22%3A%22%22%2C%22subpost%22%3A%22%22%2C%22subpost_id%22%3A%22%22%2C%22attachment%22%3A%22%22%2C%22attachment_id%22%3A0%2C%22name%22%3A%22%22%2C%22pagename%22%3A%22%22%2C%22page_id%22%3A0%2C%22second%22%3A%22%22%2C%22minute%22%3A%22%22%2C%22hour%22%3A%22%22%2C%22day%22%3A0%2C%22monthnum%22%3A0%2C%22year%22%3A0%2C%22w%22%3A0%2C%22category_name%22%3A%22%22%2C%22tag%22%3A%22%22%2C%22cat%22%3A%22%22%2C%22tag_id%22%3A%22%22%2C%22author%22%3A%22%22%2C%22author_name%22%3A%22%22%2C%22feed%22%3A%22%22%2C%22tb%22%3A%22%22%2C%22paged%22%3A0%2C%22meta_key%22%3A%22%22%2C%22meta_value%22%3A%22%22%2C%22preview%22%3A%22%22%2C%22s%22%3A%22%22%2C%22sentence%22%3A%22%22%2C%22title%22%3A%22%22%2C%22fields%22%3A%22%22%2C%22menu_order%22%3A%22%22%2C%22embed%22%3A%22%22%2C%22category__in%22%3A%5B%5D%2C%22category__not_in%22%3A%5B%5D%2C%22category__and%22%3A%5B%5D%2C%22post__in%22%3A%5B%5D%2C%22post__not_in%22%3A%5B32871%2C32667%2C12441%5D%2C%22post_name__in%22%3A%5B%5D%2C%22tag__in%22%3A%5B%5D%2C%22tag__not_in%22%3A%5B%5D%2C%22tag__and%22%3A%5B%5D%2C%22tag_slug__in%22%3A%5B%5D%2C%22tag_slug__and%22%3A%5B%5D%2C%22post_parent__in%22%3A%5B%5D%2C%22post_parent__not_in%22%3A%5B%5D%2C%22author__in%22%3A%5B%5D%2C%22author__not_in%22%3A%5B%5D%2C%22lazy_load_term_meta%22%3Afalse%2C%22posts_per_page%22%3A3%2C%22ignore_sticky_posts%22%3Afalse%2C%22suppress_filters%22%3Afalse%2C%22cache_results%22%3Afalse%2C%22update_post_term_cache%22%3Atrue%2C%22update_post_meta_cache%22%3Atrue%2C%22post_type%22%3A%22%22%2C%22nopaging%22%3Afalse%2C%22comments_per_page%22%3A%2250%22%2C%22no_found_rows%22%3Afalse%2C%22order%22%3A%22DESC%22%7D%2C%22query_before%22%3A%222021-03-16%2023%3A04%3A54%22%2C%22last_post_date%22%3A%222021-03-13%2023%3A38%3A55%22%2C%22body_class%22%3A%22infinite-scroll%22%2C%22loading_text%22%3A%22Loading%20new%20page%22%2C%22stats%22%3A%22blog%3D54447745%26v%3Dwpcom%26tz%3D-7%26user_id%3D0%26subd%3Dadobochroniclesdotcom%26x_pagetype%3Dinfinite-click%22%7D%7D' ) );
+		//]]>
+		</script>
+<!-- -->
+<script id="grofiles-cards-js" src="//0.gravatar.com/js/gprofiles.js?ver=202111y"></script>
+<script id="wpgroho-js-extra">
+var WPGroHo = {"my_hash":""};
+</script>
+<script src="https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240h" type="text/javascript"></script>
+<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+<div style="display:none">
+</div>
+<script id="highlander-comments-js-extra">
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/adobochroniclesdotcom.wordpress.com\/public.api\/connect\/?action=request&domain=adobochronicles.com","logoutURL":"https:\/\/adobochroniclesdotcom.wordpress.com\/wp-login.php?action=logout&_wpnonce=0653a70ef7","homeURL":"https:\/\/adobochronicles.com\/","postID":"58823","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"1","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+</script>
+<script src="https://s0.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1573483029j" type="text/javascript"></script>
+<script type="text/javascript">
+			( function( $ ) {
+				$( document.body ).on( 'post-load', function () {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
+					}
+				} );
+			} )( jQuery );
+			</script> <div id="atatags-544477452-60519c06980e4"></div>
+<script>jQuery('#atatags-544477452-60519c06980e4').insertBefore('#page');</script>
+<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-544477452-60519c06980e4',
+						location: 110,
+						formFactor: '002',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								
+							}
+						}
+					});
+				});
+			</script>
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20201002";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20201002";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+<div id="carousel-reblog-box">
+<form action="#" name="carousel-reblog">
+<label class="screen-reader-text" for="carousel-reblog-content" id="carousel-reblog-lblogcontent">Add your thoughts here... (optional)</label>
+<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+<select id="carousel-reblog-to-blog-id" name="carousel-reblog-to-blog-id">
+</select>
+<div class="submit">
+<span class="canceltext"><a class="cancel" href="#">Cancel</a></span>
+<input class="button" id="carousel-reblog-submit" name="carousel-reblog-submit" type="submit" value="Reblog Post"/>
+<input id="carousel-reblog-blog-id" type="hidden" value="54447745"/>
+<input id="carousel-reblog-blog-url" type="hidden" value="https://adobochronicles.com"/>
+<input id="carousel-reblog-blog-title" type="hidden" value=""/>
+<input id="carousel-reblog-post-url" type="hidden" value=""/>
+<input id="carousel-reblog-post-title" type="hidden" value=""/>
+</div>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="71d76a6c4b"/><input name="_wp_http_referer" type="hidden" value="/"/> </form>
+<div class="arrow"></div>
+</div>
+<div class="jp-carousel-wrap jp-carousel-transitions" itemscope="" itemtype="https://schema.org/ImageGallery" style="display: none;">
+<div class="jp-carousel-overlay"></div>
+<div class="jp-carousel"></div>
+<div class="jp-carousel-fadeaway"></div>
+<div class="jp-carousel-info">
+<div class="jp-carousel-photo-info">
+<h2 class="jp-carousel-caption" itemprop="caption description"></h2>
+</div>
+<div class="jp-carousel-info-columns">
+<div class="jp-carousel-left-column-wrapper">
+<div class="jp-carousel-titleanddesc"></div>
+<!-- Intentional duplicate -->
+<div class="jp-carousel-photo-info">
+<h2 class="jp-carousel-caption" itemprop="caption description"></h2>
+</div>
+<div id="jp-carousel-comment-form-container">
+<div id="jp-carousel-comment-form-commenting-as">
+<p id="jp-carousel-commenting-as">
+												You must be <a class="jp-carousel-comment-login" href="#">logged in</a> to post a comment.											</p>
+</div>
+</div>
+<div class="jp-carousel-comments"></div>
+<div id="jp-carousel-comments-loading">
+<span>Loading Comments...</span>
+</div>
+</div>
+<div class="jp-carousel-image-meta">
+<div class="jp-carousel-buttons">
+<a class="jp-carousel-commentlink" href="#">Comment</a>
+</div>
+<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+<a class="jp-carousel-image-download" style="display: none;"></a>
+<div class="jp-carousel-image-map" style="display: none;"></div>
+</div>
+</div>
+</div>
+<div class="jp-carousel-next-button" style="display: none;">
+<span></span>
+</div>
+<div class="jp-carousel-previous-button" style="display: none;">
+<span></span>
+</div>
+<div class="jp-carousel-close-hint"><span>×</span></div>
+</div>
+<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/adobochronicles.com\/2021\/03\/16\/philippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo\/":58823,"https:\/\/adobochronicles.com\/2021\/03\/15\/leni-robredos-camp-confirms-maria-ressas-war-zone-philippines\/":58811,"https:\/\/adobochronicles.com\/2021\/03\/13\/los-angeles-police-subpoenas-philippine-president-duterte\/":58804};
+	</script>
+<div id="sharing_email" style="display: none;">
+<form action="/" method="post">
+<label for="target_email">Send to Email Address</label>
+<input id="target_email" name="target_email" type="email" value=""/>
+<label for="source_name">Your Name</label>
+<input id="source_name" name="source_name" type="text" value=""/>
+<label for="source_email">Your Email Address</label>
+<input id="source_email" name="source_email" type="email" value=""/>
+<input autocomplete="off" class="input" id="jetpack-source_f_name" name="source_f_name" size="25" title="This field is for validation and should not be changed" type="text" value=""/>
+<div class="g-recaptcha" data-lazy="true" data-sitekey="6LcmyE0UAAAAALID28yVNg7pFCodGaArJzHitez_" data-tabindex="0" data-theme="light" data-type="image" data-url="https://www.google.com/recaptcha/api.js?hl=en"></div>
+<img alt="loading" class="loading" height="16" src="https://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif" style="float: right; display: none" width="16"/>
+<input class="sharing_send" type="submit" value="Send Email"/>
+<a class="sharing_cancel" href="#cancel" rel="nofollow" role="button">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+</form>
+</div>
+<link href="https://s2.wp.com/_static/??-eJx9y9sKwjAMBuAXMoaKdN6Iz1KysHVmbWlSxt7eeqEgDO/+Ax9uBSgn42S4NijSppgUKdTclAUXthLoCZ/hTKonPEY652qUR+5ee5XY45w3+B7/tEXhEaYgwnX/bW/2WO/Ou6u/3Jwflhc0WURY?cssminify=yes" id="all-css-0-3" media="all" rel="stylesheet" type="text/css"/>
+<script id="jetpack-facebook-embed-js-extra">
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+</script>
+<script id="jetpack-carousel-js-extra">
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/adobochronicles.com\/wp-admin\/admin-ajax.php","nonce":"dd8688520f","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"1","require_name_email":"1","login_url":"https:\/\/adobochroniclesdotcom.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fadobochronicles.com%2F2021%2F03%2F16%2Fphilippine-vp-leni-robredo-to-facebook-why-did-you-blur-my-photo%2F","blog_id":"54447745","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=54447745&v=wpcom&tz=-7&user_id=0&subd=adobochroniclesdotcom","is_public":"1","reblog_enabled":""};
+</script>
+<script id="jetpack-slideshow-js-extra">
+var jetpackSlideshowSettings = {"spinner":"https:\/\/s2.wp.com\/wp-content\/mu-plugins\/shortcodes\/img\/slideshow-loader.gif","speed":"4000","blog_id":"54447745","blog_subdomain":"adobochroniclesdotcom","user_id":"0"};
+</script>
+<script id="sharing-js-js-extra">
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script src="https://s2.wp.com/_static/??-eJyNU+FSwyAMfiFpblOnfzwfxaOQtmkpVBJW69NLvXV32xT9leTL94UkAMyTMsELeoGeweKRDE4fVc93cJmaAsuIzLrFH7L9e8K4nExF/kg4/0nrUSZtBhWR6fOm6pjU5FJLnsHRgAxZlLDT3jqMBTL5hjzJcnauuRvRhNoFMzDsq8fqHizxd48brBy1ndThZhnSYV4ETKkGmTOwNCFFQfSrukneCAXPhQ5nsi0KA6acDQOhcnoGwXFyWvAKL9Q57Q/eyBtotME6qxSONdqCStuRvKp1hFGzYMyekpjrlFo2OobE6LYz1QYUNNyFKCbYPNH56iuzGIdV7uDfQnaUvS7M6oxv2jy3SxttbkLdo5HfrvuYywTQzOvq+1M85bdXmlvIoVWtdm59txdRQbX+FdU4TTHPoiP5drNZ9Dq+7A67h8P+eXd46r8AhO5SMA==" type="text/javascript"></script>
+<script type="text/javascript">
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-linkedin' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-linkedin' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+			(function() {
+				var extend = function(out) {
+					out = out || {};
+
+					for (var i = 1; i < arguments.length; i++) {
+						if (!arguments[i])
+						continue;
+
+						for (var key in arguments[i]) {
+						if (arguments[i].hasOwnProperty(key))
+							out[key] = arguments[i][key];
+						}
+					}
+
+					return out;
+				};
+				extend( window.infiniteScroll.settings.scripts, ["mobile-useragent-info","jquery-core","jquery-migrate","jquery","wpcom-actionbar-placeholder","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","postmessage","jquery_inview","jetpack_resize","jetpack_likes_queuehandler","the-neverending-homepage","coblocks-lightbox","twentyfourteen-script","eu-cookie-law-script","jetpack-facebook-embed","wpcom-masterbar-tracks-js","jetpack-carousel","jquery-cycle","jetpack-slideshow","swfobject","videopress","tiled-gallery","sharing-js"] );
+				extend( window.infiniteScroll.settings.styles, ["wpcom-smileys","wordads-global","wordads-twentyfourteen","jetpack_likes","the-neverending-homepage","wp-block-library","wp-block-library-theme","jetpack-layout-grid","jetpack-ratings","coblocks-frontend","wpcom-core-compat-playlist-styles","wpcom-text-widget-styles","wpcom-bbpress2-staff-css","genericons","twentyfourteen-style","twentyfourteen-block-style","twentyfourteen-wpcom-style","eu-cookie-law-style","jetpack_facebook_likebox","geo-location-flair","reblogging","a8c-global-print","infinity-twentyfourteen","sharedaddy","social-logos","h4-global","twentyfourteen-ie","jetpack-global-styles-frontend-style","highlander-comments","highlander-comments-ie7","jetpack-carousel","jetpack-slideshow","tiled-gallery"] );
+			})();
+		</script>
+<span aria-live="assertive" id="infinite-aria"></span>
+<iframe id="likes-master" name="likes-master" scrolling="no" src="https://widgets.wp.com/likes/master.html?ver=20210317#ver=20210317&amp;origin=https://adobochronicles.com" style="display:none;"></iframe>
+<div id="likes-other-gravatars"><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+<script defer="" src="//stats.wp.com/w.js?61"></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'54447745','blog_tz':'-7','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'54447745','v':'wpcom','tz':'-7','user_id':'0','subd':'adobochroniclesdotcom'}]);
+_stq.push(['extra', {'crypt':'UE5tW3cvZGQ/JUs1UEpqTEJUUE5JaFo0OVtmenYtJnY5WnxkNjJtLlZURGQvOTgrbVouTmJ8RjddXXJod0czK2FORFBUXW0sbnNsWXNoMTVORVQtaVN2b0ljUmlBPV1FcG9FRkNVUiZMTFNdVnVwa0dueXpkJU1EQTVCOURlPW5jeG9wNm8/RjJ3UkE0RVF2RkR1c2tbXy44R355WnY0JkdpQWVFcDguQk5+Vj1IZ3lwT2YlZX5qeWF6UGFhY2M0ZSVTVF1bYnpQSm9CcEFYRmktJnclY0tlJV9ubnAwVkhKMWFbLEI1flZKZixfP1RwZ2YsOVE0TnB5ZUIvcXNSR3hGLj8vNyYlNzJxfkIx'}]);
+_stq.push([ 'clickTrackerInit', '54447745', '0' ]);
+	</script>
+<noscript><img alt="" src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;"/></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>
