@@ -1,0 +1,1150 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<!--<meta charset="">-->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<!--<link rel="profile" href="http://gmpg.org/xfn/11">-->
+<!--<link rel="pingback" href="https://orientalreview.org/xmlrpc.php">-->
+<title>OrientalReview.org – Open Dialogue Research Journal</title>
+<meta content="max-image-preview:large" name="robots">
+<link href="//secure.gravatar.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<link href="//jetpack.wordpress.com" rel="dns-prefetch"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
+<link href="//s1.wp.com" rel="dns-prefetch"/>
+<link href="//s2.wp.com" rel="dns-prefetch"/>
+<link href="//public-api.wordpress.com" rel="dns-prefetch"/>
+<link href="//0.gravatar.com" rel="dns-prefetch"/>
+<link href="//1.gravatar.com" rel="dns-prefetch"/>
+<link href="//2.gravatar.com" rel="dns-prefetch"/>
+<link href="https://orientalreview.org/feed/" rel="alternate" title="OrientalReview.org » Feed" type="application/rss+xml"/>
+<link href="https://orientalreview.org/comments/feed/" rel="alternate" title="OrientalReview.org » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/orientalreview.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://orientalreview.org/wp-includes/css/dist/block-library/style.min.css?ver=5.7" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="https://orientalreview.org/wp-content/plugins/social-icons-widget-by-wpzoom/block/dist/blocks.style.build.css?ver=1603884638" id="wpzoom-social-icons-block-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-includes/css/dist/components/style.min.css?ver=5.7" id="wp-components-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/plugins/wptelegram-widget/blocks/dist/blocks-build.css?ver=1.9.5" id="wptelegram_widget-blocks-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/plugins/captcha/css/front_end_style.css?ver=7.4.5" id="cptch_stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-includes/css/dashicons.min.css?ver=5.7" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/plugins/captcha/css/desktop_style.css?ver=7.4.5" id="cptch_desktop_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.3.1" id="post-views-counter-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/plugins/simple-news/css/news-min.css?ver=5.7" id="news-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/plugins/wptelegram-widget/public/css/wptelegram-widget-public.min.css?ver=1.9.5" id="wptelegram_widget-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/themes/domino/functions/wpzoom/assets/css/theme-utils.css?ver=5.7" id="zoom-theme-utils-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Libre+Franklin%3Aregular%2C700%2C700i%2Citalic%7CRoboto+Condensed&amp;display=swap&amp;ver=5.7" id="domino-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Playfair+Display%3A400%2C700&amp;ver=5.7" id="domino-google-font-default-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/themes/domino-child/style.css?ver=2.0.1" id="domino-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/themes/domino/css/media-queries.css?ver=2.0.1" id="media-queries-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/themes/domino/styles/default.css?ver=2.0.1" id="domino-style-color-default-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://orientalreview.org/wp-content/plugins/jetpack/css/jetpack.css?ver=9.2" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://orientalreview.org/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://orientalreview.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="wptelegram_widget-js" src="https://orientalreview.org/wp-content/plugins/wptelegram-widget/public/js/wptelegram-widget-public.min.js?ver=1.9.5" type="text/javascript"></script>
+<script id="wpzoom-init-js" src="https://orientalreview.org/wp-content/themes/domino/js/init.js?ver=5.7" type="text/javascript"></script>
+<link href="https://orientalreview.org/wp-json/" rel="https://api.w.org/"/><link href="https://orientalreview.org/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://orientalreview.org/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<script type="text/javascript">document.write('<style type="text/css">.tabber{display:none;}</style>');</script>
+<!-- Begin Theme Custom CSS -->
+<style id="domino-custom-css" type="text/css">
+.navbar-brand-wpz a{color:#e8a02c;}.navbar-brand-wpz a:hover{color:#a0a09b;}.navbar-brand-wpz .tagline{color:#a0a09b;font-size:18px;}a:hover, #news-ticker dd a:hover, .widget .tabbernav li a:hover, .recent-posts .cat-links a:hover, .readmore_button a:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:not(.alt):hover, .woocommerce input.button:hover{color:#e8a02c;}button, input[type=button], input[type=reset], input[type=submit]{background:#e8a02c;}.top-navbar .navbar-nav > li > a:hover{color:#e8a02c;}.top-navbar .navbar-nav .current-menu-item > a, .top-navbar .navbar-nav .current_page_item > a, .top-navbar .navbar-nav .current-menu-parent > a{color:#e8a02c;}.main-navbar .navbar-nav > li > a:hover{color:#e8a02c;}.main-navbar .navbar-nav > .current-menu-item > a, .main-navbar .navbar-nav > .current_page_item > a, .main-navbar .navbar-nav > .current-menu-parent > a{color:#e8a02c;}.main-navbar .navbar-nav > .current-menu-item > a,.main-navbar .navbar-nav > .current_page_item > a, .main-navbar .navbar-nav >  .current-menu-parent > a, .main-navbar .navbar-nav > .current_page_parent > a{background-color:#e8a02c;}#news-ticker h3{color:#e8a02c;}.entry-title a:hover{color:#e8a02c;}.entry-meta a:hover{color:#e8a02c;}.infinite-scroll #infinite-handle span{background:#e8a02c;}.single .entry-meta a:hover{color:#e8a02c;}.entry-content a{color:#e8a02c;}.site-info-top a{color:#e8a02c;}.site-info-top a:hover{color:#ffffff;}.navbar-brand-wpz h1 a{font-size:68px;}
+</style>
+<!-- End Theme Custom CSS -->
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css">
+.avatar {vertical-align:middle; margin-right:5px;}
+.credit {font-size: 50%;}
+</style>
+<!-- Jetpack Open Graph Tags -->
+<meta content="website" property="og:type">
+<meta content="OrientalReview.org" property="og:title"/>
+<meta content="Open Dialogue Research Journal" property="og:description"/>
+<meta content="https://orientalreview.org/" property="og:url"/>
+<meta content="OrientalReview.org" property="og:site_name"/>
+<meta content="https://orientalreview.org/wp-content/uploads/2017/06/cropped-LOGO_180.jpg" property="og:image"/>
+<meta content="512" property="og:image:width"/>
+<meta content="512" property="og:image:height"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="@orientalreview" name="twitter:creator"/>
+<meta content="@orientalreview" name="twitter:site"/>
+<!-- End Jetpack Open Graph Tags -->
+<link href="https://orientalreview.org/wp-content/uploads/2017/06/cropped-LOGO_180-32x32.jpg" rel="icon" sizes="32x32"/>
+<link href="https://orientalreview.org/wp-content/uploads/2017/06/cropped-LOGO_180-192x192.jpg" rel="icon" sizes="192x192"/>
+<link href="https://orientalreview.org/wp-content/uploads/2017/06/cropped-LOGO_180-180x180.jpg" rel="apple-touch-icon"/>
+<meta content="https://orientalreview.org/wp-content/uploads/2017/06/cropped-LOGO_180-270x270.jpg" name="msapplication-TileImage"/>
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-15353139-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+<!-- https://developers.facebook.com/docs/sharing/webmasters/ -->
+<!-- https://ru.wordpress.org/support/topic/jetpack-%d0%b4%d0%b5%d0%bb%d0%b0%d0%b5%d1%82-%d0%bf%d0%be%d1%81%d1%82-%d0%bd%d0%b0-facebook-%d0%b1%d0%b5%d0%b7-%d1%84%d0%be%d1%82%d0%be/ -->
+<!-- http://shakin.ru/socialnye-seti/facebook-comments.html -->
+<meta content="Oriental.Review" property="fb:admins"/>
+<!-- https://habr.com/ru/post/142039/ -->
+<!-- http://wordpress-life.ru/izobrazhenie-miniatyura-dlya-sotssetey-chast-2.html -->
+<link href="https://orientalreview.org/wp-content/uploads/2021/03/Boris-Johnson.jpg" rel="image_src"/>
+<meta content="https://orientalreview.org/wp-content/uploads/2021/03/Boris-Johnson.jpg" itemprop="image"/>
+<meta content="https://orientalreview.org/wp-content/uploads/2021/03/Boris-Johnson.jpg" property="og:image:url">
+</meta></meta></meta></head>
+<body class="home blog wpz_layout_full">
+<div class="page-wrap">
+<div class="domino_boxed_layout">
+<header id="header">
+<nav class="navbar" role="navigation">
+<nav class="top-navbar" role="navigation">
+<div class="inner-wrap">
+<div class="header_social">
+</div>
+<div class="navbar-header">
+<a class="navbar-toggle" href="#menu-top-slide">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div class="menu-pages-container" id="menu-top-slide"><ul class="menu" id="menu-pages"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-15472" id="menu-item-15472"><a aria-current="page" href="https://orientalreview.org">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15475" id="menu-item-15475"><a href="https://orientalreview.org/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15474" id="menu-item-15474"><a href="https://orientalreview.org/submission-guidelines/">Submission Guidelines</a></li>
+</ul></div>
+</div>
+<div id="navbar-top">
+<div class="menu-pages-container"><ul class="nav navbar-nav dropdown sf-menu" id="menu-pages-1"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-15472"><a aria-current="page" href="https://orientalreview.org">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15475"><a href="https://orientalreview.org/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15474"><a href="https://orientalreview.org/submission-guidelines/">Submission Guidelines</a></li>
+</ul></div>
+</div><!-- #navbar-top -->
+</div><!-- ./inner-wrap -->
+</nav><!-- .navbar -->
+<div class="clear"></div>
+</nav><!-- .navbar -->
+<div class="inner-wrap">
+<div class="navbar-brand-wpz">
+<a href="/">Oriental<span style="color: #a0a09b">Review<span style="font-size: 60%">.org</span></span></a>
+<p class="tagline">Open Dialogue Research Journal</p>
+</div><!-- .navbar-brand -->
+</div><!-- /.inner-wrap -->
+<div class="clear"></div>
+<nav class="navbar" role="navigation">
+<nav class="main-navbar" role="navigation">
+<div class="inner-wrap clearfix">
+<div class="sb-search" id="sb-search">
+<form action="https://orientalreview.org/" id="searchform" method="get">
+<input autocomplete="off" class="sb-search-input" id="s" name="s" placeholder="Search..." type="search"/>
+<input class="sb-search-submit" id="searchsubmit" type="submit" value="Search"/>
+<span class="sb-icon-search"></span>
+</form> </div>
+<div class="navbar-header">
+<a class="navbar-toggle" href="#menu-main-slide">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<div class="menu-main-container" id="menu-main-slide"><ul class="menu" id="menu-main"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15494" id="menu-item-15494"><a href="https://orientalreview.org/category/issues/">Journal Issues</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15498" id="menu-item-15498"><a href="https://orientalreview.org/category/issues/anti-human-rughts/">Anti-Human Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15497" id="menu-item-15497"><a href="https://orientalreview.org/category/issues/chaosistan/">Chaosistan</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15504" id="menu-item-15504"><a href="https://orientalreview.org/category/issues/cold-war-2-0/">Cold War 2.0</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15502" id="menu-item-15502"><a href="https://orientalreview.org/category/issues/global-meltdown/">Global Meltdown</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15496" id="menu-item-15496"><a href="https://orientalreview.org/category/issues/phenomenon-of-terrorism/">Phenomenon of Terrorism</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17141" id="menu-item-17141"><a href="https://orientalreview.org/category/issues/information-warfare/">Information Warfare</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15503" id="menu-item-15503"><a href="https://orientalreview.org/category/issues/unknown-wwii/">Unknown WWII</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15500" id="menu-item-15500"><a href="https://orientalreview.org/category/issues/the-others-alliances/">‘The Others’ Alliances</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15508" id="menu-item-15508"><a href="https://orientalreview.org/category/issues/global-surveillance/">Global Surveillance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15499" id="menu-item-15499"><a href="https://orientalreview.org/category/issues/fettering-global-aggressor/">Strategic Deterrence</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15501" id="menu-item-15501"><a href="https://orientalreview.org/category/issues/war-and-peace-in-afghanistan/">War and Peace in Afghanistan</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15506" id="menu-item-15506"><a href="https://orientalreview.org/category/issues/narco-sphere/">Narco-Sphere</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15505" id="menu-item-15505"><a href="https://orientalreview.org/category/issues/iranian-dilemma/">Iranian Dilemma</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15507" id="menu-item-15507"><a href="https://orientalreview.org/category/issues/way-to-palestine/">Way to the New Palestine</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15495" id="menu-item-15495"><a href="https://orientalreview.org/category/regions/">Regions</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15521" id="menu-item-15521"><a href="https://orientalreview.org/category/regions/north-america/">Anglosphere</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15524" id="menu-item-15524"><a href="https://orientalreview.org/category/regions/north-america/united-states/">United States</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15541" id="menu-item-15541"><a href="https://orientalreview.org/category/regions/north-america/canada-north-america/">Canada</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15720" id="menu-item-15720"><a href="https://orientalreview.org/category/regions/north-america/united-kingdom/">United Kingdom</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15721" id="menu-item-15721"><a href="https://orientalreview.org/category/regions/north-america/scotland/">Scotland</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15722" id="menu-item-15722"><a href="https://orientalreview.org/category/regions/north-america/australia/">Australia</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15512" id="menu-item-15512"><a href="https://orientalreview.org/category/regions/europe/">Europe</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15530" id="menu-item-15530"><a href="https://orientalreview.org/category/regions/europe/balkans/">Balkans</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15535" id="menu-item-15535"><a href="https://orientalreview.org/category/regions/europe/germany/">Germany</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15540" id="menu-item-15540"><a href="https://orientalreview.org/category/regions/europe/france/">France</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15518" id="menu-item-15518"><a href="https://orientalreview.org/category/regions/eurasian-union/">Eurasian Union</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15523" id="menu-item-15523"><a href="https://orientalreview.org/category/regions/eurasian-union/russia/">Russia</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15525" id="menu-item-15525"><a href="https://orientalreview.org/category/regions/eurasian-union/ukraine/">Ukraine</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15511" id="menu-item-15511"><a href="https://orientalreview.org/category/regions/middle-east/">Middle East</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15526" id="menu-item-15526"><a href="https://orientalreview.org/category/regions/middle-east/syria/">Syria</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15534" id="menu-item-15534"><a href="https://orientalreview.org/category/regions/middle-east/iraq/">Iraq</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15539" id="menu-item-15539"><a href="https://orientalreview.org/category/regions/middle-east/egypt/">Egypt</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15532" id="menu-item-15532"><a href="https://orientalreview.org/category/regions/middle-east/turkey/">Turkey</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15536" id="menu-item-15536"><a href="https://orientalreview.org/category/regions/middle-east/israel-middle-east-regions/">Israel</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15519" id="menu-item-15519"><a href="https://orientalreview.org/category/regions/east-asia/">East Asia</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15527" id="menu-item-15527"><a href="https://orientalreview.org/category/regions/east-asia/china/">China</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15538" id="menu-item-15538"><a href="https://orientalreview.org/category/regions/east-asia/japan/">Japan</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15520" id="menu-item-15520"><a href="https://orientalreview.org/category/regions/south-asia/">South Asia</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15531" id="menu-item-15531"><a href="https://orientalreview.org/category/regions/south-asia/india/">India</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15515" id="menu-item-15515"><a href="https://orientalreview.org/category/regions/south-east-asia/">South East Asia</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15514" id="menu-item-15514"><a href="https://orientalreview.org/category/regions/central-asia/">Central Asia</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15529" id="menu-item-15529"><a href="https://orientalreview.org/category/regions/central-asia/iran/">Iran</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15528" id="menu-item-15528"><a href="https://orientalreview.org/category/regions/central-asia/afghanistan/">Afghanistan</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15533" id="menu-item-15533"><a href="https://orientalreview.org/category/regions/central-asia/pakistan/">Pakistan</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15517" id="menu-item-15517"><a href="https://orientalreview.org/category/regions/caucasus/">Caucasus</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15516" id="menu-item-15516"><a href="https://orientalreview.org/category/regions/latin-america/">Latin America</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15537" id="menu-item-15537"><a href="https://orientalreview.org/category/regions/latin-america/brasil/">Brasil</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15513" id="menu-item-15513"><a href="https://orientalreview.org/category/regions/africa/">Africa</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15510" id="menu-item-15510"><a href="https://orientalreview.org/category/hybrid-wars/">Hybrid Wars</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15492" id="menu-item-15492"><a href="https://orientalreview.org/category/the-episodes/">The Episodes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15493" id="menu-item-15493"><a href="https://orientalreview.org/category/sunday-reading/">Sunday reading</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15491" id="menu-item-15491"><a href="https://orientalreview.org/category/video/">Video</a></li>
+</ul></div>
+</div>
+<div id="navbar-main">
+<div class="menu-main-container"><ul class="nav navbar-nav dropdown sf-menu" id="menu-main-1"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15494"><a href="https://orientalreview.org/category/issues/">Journal Issues</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15498"><a href="https://orientalreview.org/category/issues/anti-human-rughts/">Anti-Human Rights</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15497"><a href="https://orientalreview.org/category/issues/chaosistan/">Chaosistan</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15504"><a href="https://orientalreview.org/category/issues/cold-war-2-0/">Cold War 2.0</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15502"><a href="https://orientalreview.org/category/issues/global-meltdown/">Global Meltdown</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15496"><a href="https://orientalreview.org/category/issues/phenomenon-of-terrorism/">Phenomenon of Terrorism</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17141"><a href="https://orientalreview.org/category/issues/information-warfare/">Information Warfare</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15503"><a href="https://orientalreview.org/category/issues/unknown-wwii/">Unknown WWII</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15500"><a href="https://orientalreview.org/category/issues/the-others-alliances/">‘The Others’ Alliances</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15508"><a href="https://orientalreview.org/category/issues/global-surveillance/">Global Surveillance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15499"><a href="https://orientalreview.org/category/issues/fettering-global-aggressor/">Strategic Deterrence</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15501"><a href="https://orientalreview.org/category/issues/war-and-peace-in-afghanistan/">War and Peace in Afghanistan</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15506"><a href="https://orientalreview.org/category/issues/narco-sphere/">Narco-Sphere</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15505"><a href="https://orientalreview.org/category/issues/iranian-dilemma/">Iranian Dilemma</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15507"><a href="https://orientalreview.org/category/issues/way-to-palestine/">Way to the New Palestine</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15495"><a href="https://orientalreview.org/category/regions/">Regions</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15521"><a href="https://orientalreview.org/category/regions/north-america/">Anglosphere</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15524"><a href="https://orientalreview.org/category/regions/north-america/united-states/">United States</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15541"><a href="https://orientalreview.org/category/regions/north-america/canada-north-america/">Canada</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15720"><a href="https://orientalreview.org/category/regions/north-america/united-kingdom/">United Kingdom</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15721"><a href="https://orientalreview.org/category/regions/north-america/scotland/">Scotland</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15722"><a href="https://orientalreview.org/category/regions/north-america/australia/">Australia</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15512"><a href="https://orientalreview.org/category/regions/europe/">Europe</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15530"><a href="https://orientalreview.org/category/regions/europe/balkans/">Balkans</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15535"><a href="https://orientalreview.org/category/regions/europe/germany/">Germany</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15540"><a href="https://orientalreview.org/category/regions/europe/france/">France</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15518"><a href="https://orientalreview.org/category/regions/eurasian-union/">Eurasian Union</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15523"><a href="https://orientalreview.org/category/regions/eurasian-union/russia/">Russia</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15525"><a href="https://orientalreview.org/category/regions/eurasian-union/ukraine/">Ukraine</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15511"><a href="https://orientalreview.org/category/regions/middle-east/">Middle East</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15526"><a href="https://orientalreview.org/category/regions/middle-east/syria/">Syria</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15534"><a href="https://orientalreview.org/category/regions/middle-east/iraq/">Iraq</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15539"><a href="https://orientalreview.org/category/regions/middle-east/egypt/">Egypt</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15532"><a href="https://orientalreview.org/category/regions/middle-east/turkey/">Turkey</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15536"><a href="https://orientalreview.org/category/regions/middle-east/israel-middle-east-regions/">Israel</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15519"><a href="https://orientalreview.org/category/regions/east-asia/">East Asia</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15527"><a href="https://orientalreview.org/category/regions/east-asia/china/">China</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15538"><a href="https://orientalreview.org/category/regions/east-asia/japan/">Japan</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15520"><a href="https://orientalreview.org/category/regions/south-asia/">South Asia</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15531"><a href="https://orientalreview.org/category/regions/south-asia/india/">India</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15515"><a href="https://orientalreview.org/category/regions/south-east-asia/">South East Asia</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15514"><a href="https://orientalreview.org/category/regions/central-asia/">Central Asia</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15529"><a href="https://orientalreview.org/category/regions/central-asia/iran/">Iran</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15528"><a href="https://orientalreview.org/category/regions/central-asia/afghanistan/">Afghanistan</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15533"><a href="https://orientalreview.org/category/regions/central-asia/pakistan/">Pakistan</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15517"><a href="https://orientalreview.org/category/regions/caucasus/">Caucasus</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-15516"><a href="https://orientalreview.org/category/regions/latin-america/">Latin America</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15537"><a href="https://orientalreview.org/category/regions/latin-america/brasil/">Brasil</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15513"><a href="https://orientalreview.org/category/regions/africa/">Africa</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15510"><a href="https://orientalreview.org/category/hybrid-wars/">Hybrid Wars</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15492"><a href="https://orientalreview.org/category/the-episodes/">The Episodes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15493"><a href="https://orientalreview.org/category/sunday-reading/">Sunday reading</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15491"><a href="https://orientalreview.org/category/video/">Video</a></li>
+</ul></div>
+</div><!-- #navbar-main -->
+</div><!-- /.inner-wrap -->
+<div class="clear"></div>
+</nav><!-- .main-navbar -->
+</nav><!-- .navbar -->
+</header>
+<div class="featured_area">
+<div class="inner-wrap">
+<div id="slider">
+<h3 class="section-title">Featured</h3>
+<ul class="slides clearfix">
+<li class="slide" style="background-image:url('https://orientalreview.org/wp-content/uploads/2021/03/Macron-vs-NATO-700x460.jpg')">
+<div class="slide-overlay">
+<div class="slide-header">
+<h3><a href="https://orientalreview.org/2021/03/01/what-will-macron-achieve-by-selfish-opposition-in-nato/">What Will Macron Achieve By Selfish Opposition In NATO</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-01T16:10:00+03:00">01/03/2021</time></span> <br/><span class="comments-link"><a href="https://orientalreview.org/2021/03/01/what-will-macron-achieve-by-selfish-opposition-in-nato/#respond"></a></span> </div>
+</div>
+</div>
+</li>
+<li class="slide" style="background-image:url('https://orientalreview.org/wp-content/uploads/2021/02/Nakasone-700x460.jpg')">
+<div class="slide-overlay">
+<div class="slide-header">
+<h3><a href="https://orientalreview.org/2021/02/22/how-russia-is-being-made-out-to-be-a-cyber-aggressor/">How Russia Is Being Made Out To Be A Cyber Aggressor</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-02-22T16:02:37+03:00">22/02/2021</time></span> <br/><span class="comments-link"><a href="https://orientalreview.org/2021/02/22/how-russia-is-being-made-out-to-be-a-cyber-aggressor/#respond"></a></span> </div>
+</div>
+</div>
+</li>
+</ul>
+</div><!-- /#slider -->
+<div class="slider_widgets">
+<div class="widget wpzoom-featured-cat" id="wpzoom-featured-cat-2"><h3 class="title title-color-red"><a href="https://orientalreview.org/category/editorial/">Editorial</a></h3>
+<div class="featured-grid-2 featured-style-style_block">
+<div class="post-item post-28300 post type-post status-publish format-standard has-post-thumbnail category-editorial category-united-states tag-democracy tag-donald-trump tag-elections tag-globalists tag-joe-biden" id="post-28300">
+<a href="https://orientalreview.org/2020/11/14/collapse-of-american-democracy-is-packaged-as-its-triumph/" title="Collapse Of American Democracy Is Packaged As Its Triumph">
+<div class="background-overlay"></div>
+<div class="post-thumb">
+<img alt="" class="attachment-widget-2posts size-widget-2posts wp-post-image" data-attachment-id="28303" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="joebiden" data-large-file="https://orientalreview.org/wp-content/uploads/2020/11/joebiden-1024x578.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2020/11/joebiden-300x169.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2020/11/joebiden.jpg" data-orig-size="1200,677" data-permalink="https://orientalreview.org/2020/11/14/collapse-of-american-democracy-is-packaged-as-its-triumph/joebiden/" height="329" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://orientalreview.org/wp-content/uploads/2020/11/joebiden-500x329.jpg" srcset="https://orientalreview.org/wp-content/uploads/2020/11/joebiden-500x329.jpg 500w, https://orientalreview.org/wp-content/uploads/2020/11/joebiden-200x131.jpg 200w, https://orientalreview.org/wp-content/uploads/2020/11/joebiden-350x230.jpg 350w, https://orientalreview.org/wp-content/uploads/2020/11/joebiden-334x219.jpg 334w, https://orientalreview.org/wp-content/uploads/2020/11/joebiden-165x109.jpg 165w, https://orientalreview.org/wp-content/uploads/2020/11/joebiden-700x460.jpg 700w" width="500"/> </div><!-- /.post-thumb -->
+<div class="post-item-content">
+<h3 class="entry-title">Collapse Of American Democracy Is Packaged As Its Triumph</h3>
+<div class="entry-meta">
+<span class="entry-date">14/11/2020</span> <span class="comments-link">0 comments</span> </div>
+</div><!-- /.post-item-content -->
+</a>
+</div><!-- /.post -->
+<div class="post-item post-26238 post type-post status-publish format-standard has-post-thumbnail category-china category-editorial category-europe category-global-meltdown category-information-warfare category-middle-east category-russia category-fettering-global-aggressor category-united-states tag-corona-virus tag-dollar-system tag-donald-trump tag-epidemic tag-federal-reserve tag-globalists tag-new-world-order tag-oil tag-opec tag-putin" id="post-26238">
+<a href="https://orientalreview.org/2020/03/31/putin-and-trump-vs-the-new-world-order-the-final-battle/" title="Putin And Trump vs The New World Order: The Final Battle">
+<div class="background-overlay"></div>
+<div class="post-thumb">
+<img alt="Trump and Putin" class="attachment-widget-2posts size-widget-2posts wp-post-image" data-attachment-id="26247" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Trump and Putin" data-large-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-1024x698.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-300x204.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin.jpg" data-orig-size="2048,1395" data-permalink="https://orientalreview.org/2020/03/31/putin-and-trump-vs-the-new-world-order-the-final-battle/trump-and-putin-2/" height="329" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-500x329.jpg" srcset="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-500x329.jpg 500w, https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-200x131.jpg 200w, https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-350x230.jpg 350w, https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-334x219.jpg 334w, https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-165x109.jpg 165w, https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-700x460.jpg 700w" width="500"/> </div><!-- /.post-thumb -->
+<div class="post-item-content">
+<h3 class="entry-title">Putin And Trump vs The New World Order: The Final Battle</h3>
+<div class="entry-meta">
+<span class="entry-date">31/03/2020</span> <span class="comments-link">112 comments</span> </div>
+</div><!-- /.post-item-content -->
+</a>
+</div><!-- /.post -->
+</div><!-- /.featured-grid -->
+<div class="clear"></div></div><div class="widget wpzoom-featured-cat" id="wpzoom-featured-cat-3"><h3 class="title title-color-blue"><a href="https://orientalreview.org/category/our-picks/">Our Picks</a></h3>
+<div class="featured-grid-2 featured-style-style_block">
+<div class="post-item post-28201 post type-post status-publish format-standard has-post-thumbnail category-europe category-global-meltdown category-our-picks category-united-kingdom category-united-states tag-democratic-party tag-donald-trump tag-elections tag-globalists tag-great-reset tag-pandemic" id="post-28201">
+<a href="https://orientalreview.org/2020/11/02/globalist-slaves-or-free-patriots/" title="Globalist Slaves Or Free Patriots">
+<div class="background-overlay"></div>
+<div class="post-thumb">
+<img alt="Trump seriuos" class="attachment-widget-2posts size-widget-2posts wp-post-image" data-attachment-id="28203" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Trump seriuos" data-large-file="https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-1024x682.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-300x200.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos.jpg" data-orig-size="1600,1066" data-permalink="https://orientalreview.org/2020/11/02/globalist-slaves-or-free-patriots/trump-seriuos/" height="329" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-500x329.jpg" srcset="https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-500x329.jpg 500w, https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-83x55.jpg 83w, https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-200x131.jpg 200w, https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-350x230.jpg 350w, https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-334x219.jpg 334w, https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-165x109.jpg 165w, https://orientalreview.org/wp-content/uploads/2020/11/Trump-seriuos-700x460.jpg 700w" width="500"/> </div><!-- /.post-thumb -->
+<div class="post-item-content">
+<h3 class="entry-title">Globalist Slaves Or Free Patriots</h3>
+<div class="entry-meta">
+<span class="entry-date">02/11/2020</span> <span class="comments-link">6 comments</span> </div>
+</div><!-- /.post-item-content -->
+</a>
+</div><!-- /.post -->
+<div class="post-item post-24862 post type-post status-publish format-standard has-post-thumbnail category-editorial category-europe category-global-meltdown category-hybrid-wars category-iraq category-our-picks category-russia category-syria category-united-kingdom category-united-states tag-cia tag-deep-state tag-donald-trump tag-nato tag-new-world-order tag-north-korea tag-rothschilds tag-smedley-butler tag-venezuela tag-putin" id="post-24862">
+<a href="https://orientalreview.org/2019/11/15/about-trump/" title="About Trump">
+<div class="background-overlay"></div>
+<div class="post-thumb">
+<img alt="Trump at White house" class="attachment-widget-2posts size-widget-2posts wp-post-image" data-attachment-id="24864" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Trump at White house" data-large-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-1024x703.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-300x206.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house.jpg" data-orig-size="3805,2613" data-permalink="https://orientalreview.org/2019/11/15/about-trump/trump-at-white-house/" height="329" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-500x329.jpg" srcset="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-500x329.jpg 500w, https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-200x131.jpg 200w, https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-350x230.jpg 350w, https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-334x219.jpg 334w, https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-165x109.jpg 165w, https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-700x460.jpg 700w" width="500"/> </div><!-- /.post-thumb -->
+<div class="post-item-content">
+<h3 class="entry-title">About Trump</h3>
+<div class="entry-meta">
+<span class="entry-date">15/11/2019</span> <span class="comments-link">152 comments</span> </div>
+</div><!-- /.post-item-content -->
+</a>
+</div><!-- /.post -->
+</div><!-- /.featured-grid -->
+<div class="clear"></div></div> </div><div class="clear"></div>
+<div class="home_widgets">
+<div class="widget widget_wptelegram_widget_join_channel" id="wptelegram_widget_join_channel-7"> <div>
+<div class="wp-block-wptelegram-widget-join-channel aligncenter">
+<a class="components-button join-link is-large has-text has-icon" href="https://t.me/joinchat/AAAAAFhqqUnBVZR6pKaWpg" rel="noopener noreferrer">
+<svg aria-hidden="true" focusable="false" height="16px" role="img" viewbox="0 0 19 16" width="19px">
+<g fill="none">
+<path d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z" fill="#ffffff"></path>
+</g>
+</svg>
+		Telegram	</a>
+</div>
+</div>
+<div class="clear"> </div></div> <div class="clear"></div>
+</div>
+</div><!-- /.inner-wrap -->
+</div><!--/.featured_area -->
+<div id="main" role="main">
+<div class="inner-wrap">
+<section class="content-area">
+<h2 class="section-title">
+
+                        
+                            Latest posts
+                        
+                     </h2>
+<section class="recent-posts" id="recent-posts">
+<article class="post-29277 post type-post status-publish format-standard has-post-thumbnail category-anti-human-rughts category-hybrid-wars category-latin-america category-united-kingdom tag-bolivia tag-boris-johnson tag-evo-morales tag-lithium tag-nato tag-organisation-of-american-states" id="post-29277">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/16/the-overthrow-of-evo-morales-and-the-first-lithium-war/" title="The Overthrow Of Evo Morales And The First Lithium War">
+<img alt="Boris-Johnson" class="attachment-loop size-loop wp-post-image" data-attachment-id="29278" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Boris-Johnson" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Boris-Johnson-1024x682.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Boris-Johnson-300x200.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Boris-Johnson.jpg" data-orig-size="1280,853" data-permalink="https://orientalreview.org/2021/03/16/the-overthrow-of-evo-morales-and-the-first-lithium-war/boris-johnson-4/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/Boris-Johnson-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/16/the-overthrow-of-evo-morales-and-the-first-lithium-war/" rel="bookmark">The Overthrow Of Evo Morales And The First Lithium War</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-16T16:20:23+03:00">16/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/ts/" rel="author" title="Posts by Thierry MEYSSAN">Thierry MEYSSAN</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/16/the-overthrow-of-evo-morales-and-the-first-lithium-war/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>The world was used to oil wars since the end of the 19th century. Now the wars over lithium, a mineral that is essential for mobile phones, but above all for electric cars, are beginning. Foreign Office documents obtained by a British historian and journalist show that the UK engineered the overthrow of Bolivian president Evo Morales to steal the country’s lithium reserves.</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/16/the-overthrow-of-evo-morales-and-the-first-lithium-war/" rel="bookmark" title="Permalink to The Overthrow Of Evo Morales And The First Lithium War">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29277 -->
+<article class="post-29274 post type-post status-publish format-standard has-post-thumbnail category-north-america category-australia category-europe category-information-warfare category-united-states tag-climate-change tag-european-union tag-oecd tag-united-nations" id="post-29274">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/16/a-climate-change-vandal-goes-to-paris-mathias-cormann-and-the-oecd/" title="A Climate Change Vandal Goes To Paris: Mathias Cormann And The OECD">
+<img alt="mathias-cormann-oecd" class="attachment-loop size-loop wp-post-image" data-attachment-id="29275" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="mathias-cormann-oecd" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/mathias-cormann-oecd-1024x576.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/mathias-cormann-oecd-300x169.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/mathias-cormann-oecd.jpg" data-orig-size="1200,675" data-permalink="https://orientalreview.org/2021/03/16/a-climate-change-vandal-goes-to-paris-mathias-cormann-and-the-oecd/mathias-cormann-oecd/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/mathias-cormann-oecd-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/16/a-climate-change-vandal-goes-to-paris-mathias-cormann-and-the-oecd/" rel="bookmark">A Climate Change Vandal Goes To Paris: Mathias Cormann And The OECD</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-16T09:04:21+03:00">16/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/bk/" rel="author" title="Posts by Binoy KAMPMARK">Binoy KAMPMARK</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/16/a-climate-change-vandal-goes-to-paris-mathias-cormann-and-the-oecd/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>The hallmark of any institution is the ability to withstand ironic dysfunction.  The United States under the stewardship of that unintentional comic George W. Bush made John Bolton ambassador to the United Nations.  Bolton had loathed the body, wishing for it to implode under its own weight.  The parliamentary chamber […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/16/a-climate-change-vandal-goes-to-paris-mathias-cormann-and-the-oecd/" rel="bookmark" title="Permalink to A Climate Change Vandal Goes To Paris: Mathias Cormann And The OECD">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29274 -->
+<article class="post-29270 post type-post status-publish format-standard has-post-thumbnail category-north-america category-china category-cold-war-2-0 category-europe category-hybrid-wars category-information-warfare category-russia category-united-states tag-democracy tag-freedom-house" id="post-29270">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/15/how-rights-and-liberties-ratings-are-fabricated/" title="How Rights And Liberties Ratings Are Fabricated">
+<img alt="Freedom-House-logo" class="attachment-loop size-loop wp-post-image" data-attachment-id="29272" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Freedom-House-logo" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Freedom-House-logo-1024x782.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Freedom-House-logo-300x229.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Freedom-House-logo.jpg" data-orig-size="2048,1563" data-permalink="https://orientalreview.org/2021/03/15/how-rights-and-liberties-ratings-are-fabricated/freedom-house-logo/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/Freedom-House-logo-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/15/how-rights-and-liberties-ratings-are-fabricated/" rel="bookmark">How Rights And Liberties Ratings Are Fabricated</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-15T16:06:08+03:00">15/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/ls/" rel="author" title="Posts by Leonid SAVIN">Leonid SAVIN</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/15/how-rights-and-liberties-ratings-are-fabricated/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>The US organisation Freedom House recently published its latest report on the state of civil liberties around the world. It should be mentioned straight away that its authors have a particular understanding of freedom. This is John Stuart Mill’s transformed idea of negative freedom; i.e., freedom from obligations, traditions, values, […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/15/how-rights-and-liberties-ratings-are-fabricated/" rel="bookmark" title="Permalink to How Rights And Liberties Ratings Are Fabricated">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29270 -->
+<article class="post-29265 post type-post status-publish format-standard has-post-thumbnail category-north-america category-anti-human-rughts category-australia category-europe category-information-warfare category-united-states tag-education" id="post-29265">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/15/the-university-deception-rankings-and-academic-freedom/" title="The University Deception: Rankings and Academic Freedom">
+<img alt="The University Deception" class="attachment-loop size-loop wp-post-image" data-attachment-id="29266" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="The University Deception" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/The-University-Deception-1024x698.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/The-University-Deception-300x205.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/The-University-Deception.jpg" data-orig-size="2000,1364" data-permalink="https://orientalreview.org/2021/03/15/the-university-deception-rankings-and-academic-freedom/the-university-deception/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/The-University-Deception-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/15/the-university-deception-rankings-and-academic-freedom/" rel="bookmark">The University Deception: Rankings and Academic Freedom</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-15T09:00:47+03:00">15/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/bk/" rel="author" title="Posts by Binoy KAMPMARK">Binoy KAMPMARK</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/15/the-university-deception-rankings-and-academic-freedom/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>Forget the global university rankings of any list.  The global university promotion exercise is filled with snake oil and perfumed refuse, an effort to corrupt the unknowing and steal from the gullible.  The aim here is to convince parents, potential students and academics that their institutions of white collar crime […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/15/the-university-deception-rankings-and-academic-freedom/" rel="bookmark" title="Permalink to The University Deception: Rankings and Academic Freedom">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29265 -->
+<article class="post-29261 post type-post status-publish format-standard has-post-thumbnail category-sunday-reading" id="post-29261">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/14/the-great-unmasking/" title="The Great Unmasking">
+<img alt="The Great Unmasking" class="attachment-loop size-loop wp-post-image" data-attachment-id="29264" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="The Great Unmasking" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/The-Great-Unmasking-1-1024x934.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/The-Great-Unmasking-1-300x274.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/The-Great-Unmasking-1.jpg" data-orig-size="1200,1094" data-permalink="https://orientalreview.org/2021/03/14/the-great-unmasking/the-great-unmasking-2/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/The-Great-Unmasking-1-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/14/the-great-unmasking/" rel="bookmark">The Great Unmasking</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-14T11:30:12+03:00">14/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/flf/" rel="author" title="Posts by Fr. Lawrence FARLEY">Fr. Lawrence FARLEY</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/14/the-great-unmasking/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>Everyone you meet and have ever met wears a mask. You do too. (And no, I am not talking about the current pandemic.) From the time we were children, we have been taught that certain things were acceptable and certain other things were definitely unacceptable. For example, when confronted with […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/14/the-great-unmasking/" rel="bookmark" title="Permalink to The Great Unmasking">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29261 -->
+<article class="post-29257 post type-post status-publish format-standard has-post-thumbnail category-europe category-hybrid-wars category-information-warfare category-united-kingdom tag-astrazeneca tag-coronavirus tag-covid-19 tag-european-union tag-pandemic tag-vaccine" id="post-29257">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/13/matters-of-communication-handelsblatting-the-oxford-astrazeneca-vaccine/" title="Matters Of Communication: Handelsblatting The Oxford-AstraZeneca Vaccine">
+<img alt="Oxford-AstraZeneca Vaccine" class="attachment-loop size-loop wp-post-image" data-attachment-id="29258" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Oxford-AstraZeneca Vaccine" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Oxford-AstraZeneca-Vaccine.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Oxford-AstraZeneca-Vaccine-300x190.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Oxford-AstraZeneca-Vaccine.jpg" data-orig-size="1024,648" data-permalink="https://orientalreview.org/2021/03/13/matters-of-communication-handelsblatting-the-oxford-astrazeneca-vaccine/oxford-astrazeneca-vaccine/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/Oxford-AstraZeneca-Vaccine-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/13/matters-of-communication-handelsblatting-the-oxford-astrazeneca-vaccine/" rel="bookmark">Matters Of Communication: Handelsblatting The Oxford-AstraZeneca Vaccine</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-13T17:24:37+03:00">13/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/bk/" rel="author" title="Posts by Binoy KAMPMARK">Binoy KAMPMARK</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/13/matters-of-communication-handelsblatting-the-oxford-astrazeneca-vaccine/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>The Oxford-AstraZeneca COVID-19 vaccine is fast becoming a subject of notoriety. First, will States obtain it? Second, will they use it? The first answer has generally been affirmative, given the vaccine’s ease of storage and relative cheapness. The second is becoming increasingly difficult. Orders have been made and supplies – […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/13/matters-of-communication-handelsblatting-the-oxford-astrazeneca-vaccine/" rel="bookmark" title="Permalink to Matters Of Communication: Handelsblatting The Oxford-AstraZeneca Vaccine">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29257 -->
+<article class="post-29253 post type-post status-publish format-standard has-post-thumbnail category-uncategorized tag-asean tag-bri tag-colour-revolution tag-covid-19 tag-cpec tag-foreign-policy tag-wang-yi" id="post-29253">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/13/foreign-minister-wang-yi-articulated-chinas-new-model-of-international-relations/" title="Foreign Minister Wang Yi Articulated China’s New Model Of International Relations">
+<img alt="China global map" class="attachment-loop size-loop wp-post-image" data-attachment-id="29254" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="China global map" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/China-global-map-1024x683.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/China-global-map-300x200.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/China-global-map.jpg" data-orig-size="1200,800" data-permalink="https://orientalreview.org/2021/03/13/foreign-minister-wang-yi-articulated-chinas-new-model-of-international-relations/china-global-map/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/China-global-map-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/13/foreign-minister-wang-yi-articulated-chinas-new-model-of-international-relations/" rel="bookmark">Foreign Minister Wang Yi Articulated China’s New Model Of International Relations</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-13T08:57:17+03:00">13/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/ak/" rel="author" title="Posts by Andrew KORYBKO">Andrew KORYBKO</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/13/foreign-minister-wang-yi-articulated-chinas-new-model-of-international-relations/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>China’s new model of International Relations actually isn’t all that new but is basically a revival of the world order that the UN originally envisioned since its founding but which had yet to materialize due to the Cold War and America’s subsequently failed efforts to impose its unipolar hegemony. Chinese […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/13/foreign-minister-wang-yi-articulated-chinas-new-model-of-international-relations/" rel="bookmark" title="Permalink to Foreign Minister Wang Yi Articulated China’s New Model Of International Relations">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29253 -->
+<article class="post-29250 post type-post status-publish format-standard has-post-thumbnail category-the-others-alliances category-brasil category-china category-india category-latin-america category-united-states tag-bric tag-luiz-inacio-lula-da-silva" id="post-29250">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/12/return-of-pink-tide-in-brazil-viva-brics/" title="Return Of ‘Pink Tide’ In Brazil. Viva BRICS!">
+<img alt="Lula da Silva" class="attachment-loop size-loop wp-post-image" data-attachment-id="29251" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Lula da Silva" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Lula-da-Silva-1024x679.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Lula-da-Silva-300x199.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Lula-da-Silva.jpg" data-orig-size="1220,809" data-permalink="https://orientalreview.org/2021/03/12/return-of-pink-tide-in-brazil-viva-brics/lula-da-silva/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/Lula-da-Silva-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/12/return-of-pink-tide-in-brazil-viva-brics/" rel="bookmark">Return Of ‘Pink Tide’ In Brazil. Viva BRICS!</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-12T16:08:56+03:00">12/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/mkb/" rel="author" title="Posts by M. K. BHADRAKUMAR">M. K. BHADRAKUMAR</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/12/return-of-pink-tide-in-brazil-viva-brics/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>Brazil’s former president Luiz Inácio Lula da Silva has hit the political turf running. He was catapulted back on to the frontline of Brazilian politics only on Monday by the surprise decision of the country’s Supreme Court to declare that the anti-corruption operation that scuppered Lula’s bid to reclaim presidency […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/12/return-of-pink-tide-in-brazil-viva-brics/" rel="bookmark" title="Permalink to Return Of ‘Pink Tide’ In Brazil. Viva BRICS!">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29250 -->
+<article class="post-29247 post type-post status-publish format-standard has-post-thumbnail category-europe category-germany category-hybrid-wars category-information-warfare category-russia tag-angela-merkel tag-putin" id="post-29247">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/12/bilds-libelous-spy-claim-against-rt-is-part-of-the-german-hybrid-war-on-russia/" title="Bild’s Libelous Spy Claim Against RT Is Part Of The German Hybrid War On Russia">
+<img alt="German Chancellor Angela Merkel and Russian President Vladimir Putin" class="attachment-loop size-loop wp-post-image" data-attachment-id="29248" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"REUTERS","camera":"","caption":"German Chancellor Angela Merkel and Russian President Vladimir Putin attend a news conference during the Syria summit in Istanbul, Turkey, October 27, 2018.   Maxim Shipenkov\/Pool via REUTERS","created_timestamp":"1540665613","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"German Chancellor Angela Merkel and Russian President Vladimir Putin attend a news conference during the Syria summit in Istanbul","orientation":"0"}' data-image-title="German Chancellor Angela Merkel and Russian President Vladimir Putin" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Merkel-and-Putin-1024x675.jpeg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Merkel-and-Putin-300x198.jpeg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Merkel-and-Putin.jpeg" data-orig-size="2000,1318" data-permalink="https://orientalreview.org/2021/03/12/bilds-libelous-spy-claim-against-rt-is-part-of-the-german-hybrid-war-on-russia/german-chancellor-angela-merkel-and-russian-president-vladimir-putin-attend-a-news-conference-during-the-syria-summit-in-istanbul/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/Merkel-and-Putin-380x280.jpeg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/12/bilds-libelous-spy-claim-against-rt-is-part-of-the-german-hybrid-war-on-russia/" rel="bookmark">Bild’s Libelous Spy Claim Against RT Is Part Of The German Hybrid War On Russia</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-12T09:07:25+03:00">12/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/ak/" rel="author" title="Posts by Andrew KORYBKO">Andrew KORYBKO</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/12/bilds-libelous-spy-claim-against-rt-is-part-of-the-german-hybrid-war-on-russia/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>Russian-German relations continue to tank after Bild’s libelous spy claim against RT left little doubt that Germany is waging a Hybrid War on Russia, though Berlin still hopes to complete Nord Stream II in order to retain a limited degree of strategic autonomy in Europe vis-a-vis its Washington patron and […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/12/bilds-libelous-spy-claim-against-rt-is-part-of-the-german-hybrid-war-on-russia/" rel="bookmark" title="Permalink to Bild’s Libelous Spy Claim Against RT Is Part Of The German Hybrid War On Russia">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29247 -->
+<article class="post-29242 post type-post status-publish format-standard has-post-thumbnail category-chaosistan category-hybrid-wars category-iran category-middle-east category-united-states tag-houthis tag-mohammed-bin-salman tag-saudi-arabia tag-yemen" id="post-29242">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/11/yemen-war-a-quagmire-for-saudi-arabia/" title="Yemen War A Quagmire For Saudi Arabia">
+<img alt="Yemen" class="attachment-loop size-loop wp-post-image" data-attachment-id="29243" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Yemen" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Yemen-1024x576.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Yemen-300x169.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Yemen.jpg" data-orig-size="1138,640" data-permalink="https://orientalreview.org/2021/03/11/yemen-war-a-quagmire-for-saudi-arabia/yemen-3/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/Yemen-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/11/yemen-war-a-quagmire-for-saudi-arabia/" rel="bookmark">Yemen War A Quagmire For Saudi Arabia</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-11T15:42:19+03:00">11/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/mkb/" rel="author" title="Posts by M. K. BHADRAKUMAR">M. K. BHADRAKUMAR</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/11/yemen-war-a-quagmire-for-saudi-arabia/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>With the world’s largest oil export terminal coming under missile and drone attack — a giant Saudi Aramco complex capable of exporting roughly 6.5m barrels a day, nearly 7% of global oil demand — the war in Yemen surges in the global media. During the night on Saturday, the Houthis […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/11/yemen-war-a-quagmire-for-saudi-arabia/" rel="bookmark" title="Permalink to Yemen War A Quagmire For Saudi Arabia">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29242 -->
+<article class="post-29239 post type-post status-publish format-standard has-post-thumbnail category-north-america category-australia category-china category-hybrid-wars category-india category-japan category-united-states tag-asian-nato tag-indo-pacific tag-quad" id="post-29239">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/11/eyes-on-china-the-quad-takes-scattered-aim/" title="Eyes On China: The Quad Takes Scattered Aim">
+<img alt="Quad" class="attachment-loop size-loop wp-post-image" data-attachment-id="29240" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Quad" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Quad.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Quad-300x214.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Quad.jpg" data-orig-size="1000,714" data-permalink="https://orientalreview.org/2021/03/11/eyes-on-china-the-quad-takes-scattered-aim/quad/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/Quad-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/11/eyes-on-china-the-quad-takes-scattered-aim/" rel="bookmark">Eyes On China: The Quad Takes Scattered Aim</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-11T09:28:32+03:00">11/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/bk/" rel="author" title="Posts by Binoy KAMPMARK">Binoy KAMPMARK</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/11/eyes-on-china-the-quad-takes-scattered-aim/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>The Quadrilateral Security Dialogue has had its fits and starts, but nothing encourages such chats than threats, actual or perceived.  In 2017, Japanese Foreign Minister Taro Kono felt that it was time that a strategic dialogue between Japan, the United States, Australia and India should be revived.  The Quad, as […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/11/eyes-on-china-the-quad-takes-scattered-aim/" rel="bookmark" title="Permalink to Eyes On China: The Quad Takes Scattered Aim">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29239 -->
+<article class="post-29215 post type-post status-publish format-standard has-post-thumbnail category-europe tag-european-union tag-globalization" id="post-29215">
+<div class="post-thumb">
+<a href="https://orientalreview.org/2021/03/10/the-european-union-unity-in-diversity-or-unity-vs-diversity-i/" title="The European Union: Unity in Diversity or Unity vs Diversity? (I)">
+<img alt="Unity in diversity" class="attachment-loop size-loop wp-post-image" data-attachment-id="29236" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"6.3","credit":"","camera":"NIKON D4S","caption":"","created_timestamp":"1489140924","copyright":"","focal_length":"70","iso":"2500","shutter_speed":"0.005","title":"","orientation":"0"}' data-image-title="Unity in diversity" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Unity-in-diversity-1024x683.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Unity-in-diversity-300x200.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Unity-in-diversity.jpg" data-orig-size="1200,800" data-permalink="https://orientalreview.org/2021/03/10/the-european-union-unity-in-diversity-or-unity-vs-diversity-i/unity-in-diversity/" height="280" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2021/03/Unity-in-diversity-380x280.jpg" width="380"/> </a>
+</div>
+<section class="entry-body">
+<h3 class="entry-title"><a href="https://orientalreview.org/2021/03/10/the-european-union-unity-in-diversity-or-unity-vs-diversity-i/" rel="bookmark">The European Union: Unity in Diversity or Unity vs Diversity? (I)</a></h3>
+<div class="entry-meta">
+<span class="entry-date"><time class="entry-date" datetime="2021-03-10T16:08:11+03:00">10/03/2021</time></span> <span class="entry-author">by <a href="https://orientalreview.org/author/vs/" rel="author" title="Posts by Vladislav B. SOTIROVIC">Vladislav B. SOTIROVIC</a></span> <span class="comments-link"><a href="https://orientalreview.org/2021/03/10/the-european-union-unity-in-diversity-or-unity-vs-diversity-i/#respond"></a></span>
+</div>
+<div class="entry-content">
+<p>The concept of globalization is one of those concepts which is widely used in academic writings, debates in politics and sociology, and the media during the last three decades. Before the end of the Cold War in 1989/1990, even the term and notion of “globalization” have been relatively unknown but […]</p>
+</div>
+<div class="readmore_button">
+<a href="https://orientalreview.org/2021/03/10/the-european-union-unity-in-diversity-or-unity-vs-diversity-i/" rel="bookmark" title="Permalink to The European Union: Unity in Diversity or Unity vs Diversity? (I)">Continue Reading →</a>
+</div>
+</section>
+<div class="clearfix"></div>
+</article><!-- #post-29215 -->
+</section>
+<div class="navigation"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://orientalreview.org/page/2/">2</a>
+<a class="page-numbers" href="https://orientalreview.org/page/3/">3</a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="https://orientalreview.org/page/317/">317</a>
+<a class="next page-numbers" href="https://orientalreview.org/page/2/">Next  →</a></div>
+</section><!-- .content-area -->
+<section id="sidebar">
+<div class="theiaStickySidebar">
+<div class="widget tabbertabs" id="wpzoom-tabber-3"><div class="tabber"><style>
+	.widget_post_views_counter_list_widget ul li { margin-bottom: 10px; }
+	.tabberlive .tabbernav li#ddd1 { display: none; } <!-- Совместно используется файл /wp-content/themes/domino/js/tabs.js -->
+</style>
+<div class="tabbertab widget_post_views_counter_list_widget" id="post_views_counter_list_widget-2" title="Popular"><ul><li><span class="post-thumbnail"><img alt="Bill Gates" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="26506" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Bill Gates" data-large-file="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-1024x682.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-300x200.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates.jpg" data-orig-size="2000,1333" data-permalink="https://orientalreview.org/2020/04/29/bill-gates-vaccinations-microchips-and-patent-060606/bill-gates/" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-150x150.jpg" srcset="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-150x150.jpg 150w, https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-700x700.jpg 700w" width="150"/></span><a class="post-title" href="https://orientalreview.org/2020/04/29/bill-gates-vaccinations-microchips-and-patent-060606/">Bill Gates, Vaccinations, Microchips, And Patent 060606</a> <span class="count">(9,653)</span><div class="clear"></div></li><li><span class="post-thumbnail"><img alt="Trump and Putin" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="26247" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Trump and Putin" data-large-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-1024x698.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-300x204.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin.jpg" data-orig-size="2048,1395" data-permalink="https://orientalreview.org/2020/03/31/putin-and-trump-vs-the-new-world-order-the-final-battle/trump-and-putin-2/" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-150x150.jpg" srcset="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-150x150.jpg 150w, https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-700x700.jpg 700w" width="150"/></span><a class="post-title" href="https://orientalreview.org/2020/03/31/putin-and-trump-vs-the-new-world-order-the-final-battle/">Putin And Trump vs The New World Order: The Final Battle</a> <span class="count">(2,866)</span><div class="clear"></div></li><li><span class="post-thumbnail"><img alt="Colombo Port" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="29187" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Colombo Port" data-large-file="https://orientalreview.org/wp-content/uploads/2021/03/Colombo-Port-1024x818.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/03/Colombo-Port-300x240.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/03/Colombo-Port.jpg" data-orig-size="2048,1635" data-permalink="https://orientalreview.org/2021/03/04/colombo-port-deal-calms-indias-paranoia/colombo-port/" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://orientalreview.org/wp-content/uploads/2021/03/Colombo-Port-150x150.jpg" srcset="https://orientalreview.org/wp-content/uploads/2021/03/Colombo-Port-150x150.jpg 150w, https://orientalreview.org/wp-content/uploads/2021/03/Colombo-Port-700x700.jpg 700w" width="150"/></span><a class="post-title" href="https://orientalreview.org/2021/03/04/colombo-port-deal-calms-indias-paranoia/">Colombo Port Deal Calms India’s Paranoia</a> <span class="count">(1,349)</span><div class="clear"></div></li><li><span class="post-thumbnail"><img alt="Putin Davos speech" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="28924" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Putin Davos speech" data-large-file="https://orientalreview.org/wp-content/uploads/2021/01/Putin-Davos-speech-1024x632.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2021/01/Putin-Davos-speech-300x185.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2021/01/Putin-Davos-speech.jpg" data-orig-size="1751,1080" data-permalink="https://orientalreview.org/2021/01/30/president-putins-davos-speech-defined-the-world-war-c-era/putin-davos-speech/" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://orientalreview.org/wp-content/uploads/2021/01/Putin-Davos-speech-150x150.jpg" srcset="https://orientalreview.org/wp-content/uploads/2021/01/Putin-Davos-speech-150x150.jpg 150w, https://orientalreview.org/wp-content/uploads/2021/01/Putin-Davos-speech-700x700.jpg 700w" width="150"/></span><a class="post-title" href="https://orientalreview.org/2021/01/30/president-putins-davos-speech-defined-the-world-war-c-era/">President Putin’s Davos Speech Defined The World War C Era</a> <span class="count">(858)</span><div class="clear"></div></li><li><span class="post-thumbnail"><img alt="Trump at White house" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="24864" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Trump at White house" data-large-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-1024x703.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-300x206.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house.jpg" data-orig-size="3805,2613" data-permalink="https://orientalreview.org/2019/11/15/about-trump/trump-at-white-house/" height="150" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-150x150.jpg" width="150"/></span><a class="post-title" href="https://orientalreview.org/2019/11/15/about-trump/">About Trump</a> <span class="count">(789)</span><div class="clear"></div></li></ul></div><div class="tabbertab widget_post_views_counter_list_widget" id="post_views_counter_list_widget-4"><h2 class="widgettitle">Popular</h2>
+<ul>
+<li>
+<span class="post-thumbnail">
+<img alt="Trump and Putin" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="26247" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Trump and Putin" data-large-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-1024x698.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-300x204.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin.jpg" data-orig-size="2048,1395" data-permalink="https://orientalreview.org/2020/03/31/putin-and-trump-vs-the-new-world-order-the-final-battle/trump-and-putin-2/" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-150x150.jpg" srcset="https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-150x150.jpg 150w, https://orientalreview.org/wp-content/uploads/2020/03/Trump-and-Putin-700x700.jpg 700w" width="150"/>
+</span>
+<a class="post-title" href="https://orientalreview.org/2020/03/31/putin-and-trump-vs-the-new-world-order-the-final-battle/">Putin And Trump vs The New World Order: The Final Battle</a> <span class="count">(506,668)</span><div class="clear"></div>
+</li>
+<li>
+<span class="post-thumbnail">
+<img alt="Trump at White house" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="24864" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Trump at White house" data-large-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-1024x703.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-300x206.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house.jpg" data-orig-size="3805,2613" data-permalink="https://orientalreview.org/2019/11/15/about-trump/trump-at-white-house/" height="150" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2019/11/Trump-at-White-house-150x150.jpg" width="150"/>
+</span>
+<a class="post-title" href="https://orientalreview.org/2019/11/15/about-trump/">About Trump</a> <span class="count">(336,691)</span><div class="clear"></div>
+</li>
+<li>
+<span class="post-thumbnail">
+<img alt="Bill Gates" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="26506" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Bill Gates" data-large-file="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-1024x682.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-300x200.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates.jpg" data-orig-size="2000,1333" data-permalink="https://orientalreview.org/2020/04/29/bill-gates-vaccinations-microchips-and-patent-060606/bill-gates/" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-150x150.jpg" srcset="https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-150x150.jpg 150w, https://orientalreview.org/wp-content/uploads/2020/04/Bill-Gates-700x700.jpg 700w" width="150"/>
+</span>
+<a class="post-title" href="https://orientalreview.org/2020/04/29/bill-gates-vaccinations-microchips-and-patent-060606/">Bill Gates, Vaccinations, Microchips, And Patent 060606</a> <span class="count">(210,457)</span><div class="clear"></div>
+</li>
+<li>
+<span class="post-thumbnail">
+<img alt="" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="16085" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="gatesofheaven" data-large-file="https://orientalreview.org/wp-content/uploads/2015/03/gatesofheaven.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2015/03/gatesofheaven-300x200.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2015/03/gatesofheaven.jpg" data-orig-size="808,540" data-permalink="https://orientalreview.org/2015/03/04/an-isis-fighter-i-was-fodbidden-at-the-gates-of-heaven/gatesofheaven/" height="150" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2015/03/gatesofheaven-150x150.jpg" width="150"/>
+</span>
+<a class="post-title" href="https://orientalreview.org/2015/03/04/an-isis-fighter-i-was-fodbidden-at-the-gates-of-heaven/">An ISIS fighter: ‘I was forbidden at the Gates of Heaven…’</a> <span class="count">(166,511)</span><div class="clear"></div>
+</li>
+<li>
+<span class="post-thumbnail">
+<img alt="Ratification of the Peace of Münster (Gerard ter Borch, Münster, 1648)" class="attachment-thumbnail size-thumbnail wp-post-image" data-attachment-id="17691" data-comments-opened="1" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="Westphalia" data-large-file="https://orientalreview.org/wp-content/uploads/2017/12/Westphalia.jpg" data-medium-file="https://orientalreview.org/wp-content/uploads/2017/12/Westphalia-300x229.jpg" data-orig-file="https://orientalreview.org/wp-content/uploads/2017/12/Westphalia.jpg" data-orig-size="785,600" data-permalink="https://orientalreview.org/2017/12/09/peace-treaty-westphalia-1648-consequences-international-relations/westphalia/" height="150" loading="lazy" src="https://orientalreview.org/wp-content/uploads/2017/12/Westphalia-150x150.jpg" width="150"/>
+</span>
+<a class="post-title" href="https://orientalreview.org/2017/12/09/peace-treaty-westphalia-1648-consequences-international-relations/">The Peace Treaty of Westphalia (1648) and its Consequences for International Relations</a> <span class="count">(66,435)</span><div class="clear"></div>
+</li>
+</ul></div><div class="tabbertab widget_recent_comments" id="recent-comments-3"><h2 class="widgettitle">Comments</h2>
+<ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a class="url" href="https://myassignmenthelp.com.au" rel="external nofollow ugc">Daniel Hobart</a></span> on <a href="https://orientalreview.org/2018/03/28/salisbury-incident-hard-evidence-for-soft-minds/comment-page-2/#comment-3087838">Salisbury Incident Report: Hard Evidence For Soft Minds</a></li><li class="recentcomments"><span class="comment-author-link"><a class="url" href="http://gardendecorindia.wordpress.com" rel="external nofollow ugc">gardendecorindia</a></span> on <a href="https://orientalreview.org/2018/05/04/whats-the-meaning-of-morocco-cutting-off-ties-with-iran/comment-page-1/#comment-3087837">What’s The Meaning Of Morocco Cutting Off Ties With Iran?</a></li><li class="recentcomments"><span class="comment-author-link"><a class="url" href="https://pokretzaodbranukosovaimetohije.rs/%d0%b5%d0%bd%d0%b4%d1%80%d1%83-%d0%ba%d0%be%d1%80%d0%b8%d0%b1%d0%ba%d0%be-%d1%83%d0%b1%d1%80%d0%b7%d0%b0%d1%9a%d0%b5-%d1%83%d0%bd%d1%83%d1%82%d1%80%d0%b0%d1%8" rel="external nofollow ugc">Ендру Корибко: Убрзање унутрашњег растакања Македоније - Покрет за одбрану Косова и Метохије</a></span> on <a href="https://orientalreview.org/2015/11/04/greater-albania-is-a-myth-to-preserve-the-countrys-unity-ii/comment-page-1/#comment-3087835">“Greater Albania” Is A Myth To Preserve The Country’s Unity (II)</a></li><li class="recentcomments"><span class="comment-author-link"><a class="url" href="https://pokretzaodbranukosovaimetohije.rs/%d0%b5%d0%bd%d0%b4%d1%80%d1%83-%d0%ba%d0%be%d1%80%d0%b8%d0%b1%d0%ba%d0%be-%d1%83%d0%b1%d1%80%d0%b7%d0%b0%d1%9a%d0%b5-%d1%83%d0%bd%d1%83%d1%82%d1%80%d0%b0%d1%8" rel="external nofollow ugc">Ендру Корибко: Убрзање унутрашњег растакања Македоније - Покрет за одбрану Косова и Метохије</a></span> on <a href="https://orientalreview.org/2017/12/01/will-macedonia-removed-map-2018/comment-page-1/#comment-3087834">Will Macedonia Be Removed From The Map In 2018?</a></li><li class="recentcomments"><span class="comment-author-link">BU Student</span> on <a href="https://orientalreview.org/2018/12/11/the-great-war-in-1914-and-the-balkans-i/comment-page-1/#comment-3087824">The Great War In 1914 And The Balkans (I)</a></li></ul></div><div class="tabbertab widget_tag_cloud" id="tag_cloud-5"><h2 class="widgettitle">Tags</h2>
+<div class="tagcloud"><a aria-label="2014 coup d'etat in Kiev (71 items)" class="tag-cloud-link tag-link-1203 tag-link-position-1" href="https://orientalreview.org/tag/2014-neo-nazi-coup-in-kiev/" style="font-size: 10.947368421053pt;">2014 coup d'etat in Kiev</a>
+<a aria-label="Al-Qaeda (118 items)" class="tag-cloud-link tag-link-65 tag-link-position-2" href="https://orientalreview.org/tag/al-qaeda/" style="font-size: 14.189473684211pt;">Al-Qaeda</a>
+<a aria-label="Barack Obama (88 items)" class="tag-cloud-link tag-link-70 tag-link-position-3" href="https://orientalreview.org/tag/obama/" style="font-size: 12.273684210526pt;">Barack Obama</a>
+<a aria-label="Bashar Assad (58 items)" class="tag-cloud-link tag-link-338 tag-link-position-4" href="https://orientalreview.org/tag/bashar-assad/" style="font-size: 9.6210526315789pt;">Bashar Assad</a>
+<a aria-label="BRICS (69 items)" class="tag-cloud-link tag-link-51 tag-link-position-5" href="https://orientalreview.org/tag/bric/" style="font-size: 10.8pt;">BRICS</a>
+<a aria-label="CIA (163 items)" class="tag-cloud-link tag-link-31 tag-link-position-6" href="https://orientalreview.org/tag/cia/" style="font-size: 16.105263157895pt;">CIA</a>
+<a aria-label="Coronavirus (85 items)" class="tag-cloud-link tag-link-4671 tag-link-position-7" href="https://orientalreview.org/tag/coronavirus/" style="font-size: 11.978947368421pt;">Coronavirus</a>
+<a aria-label="COVID-19 (133 items)" class="tag-cloud-link tag-link-4656 tag-link-position-8" href="https://orientalreview.org/tag/covid-19/" style="font-size: 14.926315789474pt;">COVID-19</a>
+<a aria-label="Crimea (54 items)" class="tag-cloud-link tag-link-1201 tag-link-position-9" href="https://orientalreview.org/tag/crimea/" style="font-size: 9.1789473684211pt;">Crimea</a>
+<a aria-label="Crisis in Ukraine (161 items)" class="tag-cloud-link tag-link-1177 tag-link-position-10" href="https://orientalreview.org/tag/crisis-in-ukraine-2013-2014/" style="font-size: 16.105263157895pt;">Crisis in Ukraine</a>
+<a aria-label="Donald Trump (409 items)" class="tag-cloud-link tag-link-2276 tag-link-position-11" href="https://orientalreview.org/tag/donald-trump/" style="font-size: 22pt;">Donald Trump</a>
+<a aria-label="elections (79 items)" class="tag-cloud-link tag-link-4148 tag-link-position-12" href="https://orientalreview.org/tag/elections/" style="font-size: 11.536842105263pt;">elections</a>
+<a aria-label="Erdogan (77 items)" class="tag-cloud-link tag-link-240 tag-link-position-13" href="https://orientalreview.org/tag/erdogan/" style="font-size: 11.389473684211pt;">Erdogan</a>
+<a aria-label="EU (109 items)" class="tag-cloud-link tag-link-30 tag-link-position-14" href="https://orientalreview.org/tag/eu/" style="font-size: 13.6pt;">EU</a>
+<a aria-label="Euromaidan (45 items)" class="tag-cloud-link tag-link-1147 tag-link-position-15" href="https://orientalreview.org/tag/euromaidan/" style="font-size: 8pt;">Euromaidan</a>
+<a aria-label="European Union (109 items)" class="tag-cloud-link tag-link-1493 tag-link-position-16" href="https://orientalreview.org/tag/european-union/" style="font-size: 13.6pt;">European Union</a>
+<a aria-label="Gaddafi (69 items)" class="tag-cloud-link tag-link-283 tag-link-position-17" href="https://orientalreview.org/tag/gaddafi/" style="font-size: 10.8pt;">Gaddafi</a>
+<a aria-label="Hitler (54 items)" class="tag-cloud-link tag-link-47 tag-link-position-18" href="https://orientalreview.org/tag/hitler/" style="font-size: 9.1789473684211pt;">Hitler</a>
+<a aria-label="IS/Daesh (49 items)" class="tag-cloud-link tag-link-2179 tag-link-position-19" href="https://orientalreview.org/tag/isdaesh/" style="font-size: 8.5894736842105pt;">IS/Daesh</a>
+<a aria-label="ISIS (55 items)" class="tag-cloud-link tag-link-1163 tag-link-position-20" href="https://orientalreview.org/tag/isis/" style="font-size: 9.3263157894737pt;">ISIS</a>
+<a aria-label="Islam (46 items)" class="tag-cloud-link tag-link-73 tag-link-position-21" href="https://orientalreview.org/tag/islam/" style="font-size: 8.1473684210526pt;">Islam</a>
+<a aria-label="Joe Biden (57 items)" class="tag-cloud-link tag-link-4493 tag-link-position-22" href="https://orientalreview.org/tag/joe-biden/" style="font-size: 9.4736842105263pt;">Joe Biden</a>
+<a aria-label="Julian Assange (59 items)" class="tag-cloud-link tag-link-681 tag-link-position-23" href="https://orientalreview.org/tag/julian-assange/" style="font-size: 9.7684210526316pt;">Julian Assange</a>
+<a aria-label="Kosovo (75 items)" class="tag-cloud-link tag-link-162 tag-link-position-24" href="https://orientalreview.org/tag/kosovo/" style="font-size: 11.242105263158pt;">Kosovo</a>
+<a aria-label="Kurdistan (45 items)" class="tag-cloud-link tag-link-597 tag-link-position-25" href="https://orientalreview.org/tag/kurdistan/" style="font-size: 8pt;">Kurdistan</a>
+<a aria-label="Libya (118 items)" class="tag-cloud-link tag-link-284 tag-link-position-26" href="https://orientalreview.org/tag/lybia/" style="font-size: 14.189473684211pt;">Libya</a>
+<a aria-label="Macedonia (48 items)" class="tag-cloud-link tag-link-707 tag-link-position-27" href="https://orientalreview.org/tag/macedonia/" style="font-size: 8.4421052631579pt;">Macedonia</a>
+<a aria-label="Muslim Brotherhood (51 items)" class="tag-cloud-link tag-link-291 tag-link-position-28" href="https://orientalreview.org/tag/muslim-brotherhood/" style="font-size: 8.8842105263158pt;">Muslim Brotherhood</a>
+<a aria-label="NATO (367 items)" class="tag-cloud-link tag-link-13 tag-link-position-29" href="https://orientalreview.org/tag/nato/" style="font-size: 21.410526315789pt;">NATO</a>
+<a aria-label="Novorossiya (47 items)" class="tag-cloud-link tag-link-1273 tag-link-position-30" href="https://orientalreview.org/tag/2014-ukrainian-uprising/" style="font-size: 8.2947368421053pt;">Novorossiya</a>
+<a aria-label="Nuclear Weapons (57 items)" class="tag-cloud-link tag-link-25 tag-link-position-31" href="https://orientalreview.org/tag/nuclear-weapons/" style="font-size: 9.4736842105263pt;">Nuclear Weapons</a>
+<a aria-label="Pandemic (87 items)" class="tag-cloud-link tag-link-4659 tag-link-position-32" href="https://orientalreview.org/tag/pandemic/" style="font-size: 12.126315789474pt;">Pandemic</a>
+<a aria-label="Pentagon (48 items)" class="tag-cloud-link tag-link-1073 tag-link-position-33" href="https://orientalreview.org/tag/pentagon/" style="font-size: 8.4421052631579pt;">Pentagon</a>
+<a aria-label="Poland (62 items)" class="tag-cloud-link tag-link-920 tag-link-position-34" href="https://orientalreview.org/tag/poland/" style="font-size: 10.063157894737pt;">Poland</a>
+<a aria-label="Saudi Arabia (100 items)" class="tag-cloud-link tag-link-459 tag-link-position-35" href="https://orientalreview.org/tag/saudi-arabia/" style="font-size: 13.010526315789pt;">Saudi Arabia</a>
+<a aria-label="Serbia (61 items)" class="tag-cloud-link tag-link-1338 tag-link-position-36" href="https://orientalreview.org/tag/serbia/" style="font-size: 9.9157894736842pt;">Serbia</a>
+<a aria-label="Serbs (54 items)" class="tag-cloud-link tag-link-2787 tag-link-position-37" href="https://orientalreview.org/tag/serbs/" style="font-size: 9.1789473684211pt;">Serbs</a>
+<a aria-label="Soviet Union (45 items)" class="tag-cloud-link tag-link-14 tag-link-position-38" href="https://orientalreview.org/tag/soviet-union/" style="font-size: 8pt;">Soviet Union</a>
+<a aria-label="Syrian conflict (47 items)" class="tag-cloud-link tag-link-3264 tag-link-position-39" href="https://orientalreview.org/tag/syrian-conflict/" style="font-size: 8.2947368421053pt;">Syrian conflict</a>
+<a aria-label="Taliban (99 items)" class="tag-cloud-link tag-link-15 tag-link-position-40" href="https://orientalreview.org/tag/taliban/" style="font-size: 13.010526315789pt;">Taliban</a>
+<a aria-label="Vladimir Putin (219 items)" class="tag-cloud-link tag-link-68 tag-link-position-41" href="https://orientalreview.org/tag/putin/" style="font-size: 18.021052631579pt;">Vladimir Putin</a>
+<a aria-label="War in Syria (166 items)" class="tag-cloud-link tag-link-483 tag-link-position-42" href="https://orientalreview.org/tag/2011-syrian-revolution/" style="font-size: 16.252631578947pt;">War in Syria</a>
+<a aria-label="Wikileaks (59 items)" class="tag-cloud-link tag-link-191 tag-link-position-43" href="https://orientalreview.org/tag/wikileaks/" style="font-size: 9.7684210526316pt;">Wikileaks</a>
+<a aria-label="WWII (103 items)" class="tag-cloud-link tag-link-46 tag-link-position-44" href="https://orientalreview.org/tag/wwii/" style="font-size: 13.305263157895pt;">WWII</a>
+<a aria-label="Yugoslavia (62 items)" class="tag-cloud-link tag-link-738 tag-link-position-45" href="https://orientalreview.org/tag/yugoslavia/" style="font-size: 10.063157894737pt;">Yugoslavia</a></div>
+</div></div>
+<div class="clear"></div></div> <div class="widget widget_authors" id="authors-3"> <h3 class="title">Authors</h3> <ul><li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/07/korybko-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/ak/" title="Posts by Andrew KORYBKO">Andrew KORYBKO</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/08/Binoy-Kampmark-150x150.jpeg" width="48"/><a href="https://orientalreview.org/author/bk/" title="Posts by Binoy KAMPMARK">Binoy KAMPMARK</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/11/sotirovic-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/vs/" title="Posts by Vladislav B. SOTIROVIC">Vladislav B. SOTIROVIC</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2018/03/thierry_meyssan-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/ts/" title="Posts by Thierry MEYSSAN">Thierry MEYSSAN</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/12/fr-stephen-freeman_orig-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/sf/" title="Posts by Fr. Stephen FREEMAN">Fr. Stephen FREEMAN</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/07/eric-margolis-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/em/" title="Posts by Eric MARGOLIS">Eric MARGOLIS</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2018/03/savin_0-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/ls/" title="Posts by Leonid SAVIN">Leonid SAVIN</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/10/FLF-150x150.png" width="48"/><a href="https://orientalreview.org/author/flf/" title="Posts by Fr. Lawrence FARLEY">Fr. Lawrence FARLEY</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/07/NVS-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/nvs/" title="Posts by Nikolay STARIKOV">Nikolay STARIKOV</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/07/kozin1-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/vk/" title="Posts by Vladimir KOZIN">Vladimir KOZIN</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/11/Avatar2_Gulam-e1512072347751-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/gam/" title="Posts by Gulam ASGAR MITHA">Gulam ASGAR MITHA</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2019/11/Zamir-Awan-1-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/za/" title="Posts by Zamir AWAN">Zamir AWAN</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2018/02/1-Rick-Sterling-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/rs/" title="Posts by Rick STERLING">Rick STERLING</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2018/03/nafeez_ahmed-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/nma/" title="Posts by Nafeez AHMED">Nafeez AHMED</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/07/averko-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/ma/" title="Posts by Michael AVERKO">Michael AVERKO</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2018/02/andreytkachev-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/fat/" title="Posts by Fr. Andrey TKACHEV">Fr. Andrey TKACHEV</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2017/12/IA-150x150.jpeg" width="48"/><a href="https://orientalreview.org/author/ia/" title="Posts by Iqbal ALIMOHAMED">Iqbal ALIMOHAMED</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2020/01/Sabtain-DAR-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/sad/" title="Posts by Sabtain Ahmed DAR">Sabtain Ahmed DAR</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2018/08/Sylvain-Laforest-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/sl/" title="Posts by Sylvain LAFOREST">Sylvain LAFOREST</a> </li>
+<li><img alt="mm" class="avatar avatar-48 photo" height="48" src="https://orientalreview.org/wp-content/uploads/2019/07/Grey-CARTER-150x150.jpg" width="48"/><a href="https://orientalreview.org/author/gc/" title="Posts by Grey CARTER">Grey CARTER</a> </li>
+</ul> <div class="clear"></div></div> <div class="widget widget_paypal_donations" id="paypal_donations-5"><h3 class="title">Support our contributors</h3><p>ORIENTAL REVIEW reckons on your donations to develop the project into the global online Research Centre. All accumulated funds to be forwarded monthly to our outstanding authors. Thank you in advance!</p>
+<!-- Begin PayPal Donations by https://www.tipsandtricks-hq.com/paypal-donations-widgets-plugin -->
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<div class="paypal-donations">
+<input name="cmd" type="hidden" value="_donations"/>
+<input name="bn" type="hidden" value="TipsandTricks_SP"/>
+<input name="business" type="hidden" value="editor@orientalreview.org"/>
+<input name="page_style" type="hidden" value="ORIENTAL REVIEW"/>
+<input name="rm" type="hidden" value="0"/>
+<input name="currency_code" type="hidden" value="USD"/>
+<input alt="PayPal - The safer, easier way to pay online." name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" style="cursor: pointer;" type="image"/>
+<img alt="" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1"/>
+</div>
+</form>
+<!-- End PayPal Donations -->
+<div class="clear"></div></div>
+</div>
+<div class="clear"></div>
+</section>
+<div class="clear"></div>
+</div><!-- /.inner-wrap -->
+<div class="clear"></div>
+</div><!-- /#main -->
+<footer class="site-footer" id="colophon" role="contentinfo">
+<div class="footer-widgets widgets widget-columns-3">
+<div class="inner-wrap">
+<div class="column">
+<div class="widget widget_calendar" id="calendar-4"><h3 class="title">Calendar</h3><div class="calendar_wrap" id="calendar_wrap"><table class="wp-calendar-table" id="wp-calendar">
+<caption>March 2021</caption>
+<thead>
+<tr>
+<th scope="col" title="Monday">M</th>
+<th scope="col" title="Tuesday">T</th>
+<th scope="col" title="Wednesday">W</th>
+<th scope="col" title="Thursday">T</th>
+<th scope="col" title="Friday">F</th>
+<th scope="col" title="Saturday">S</th>
+<th scope="col" title="Sunday">S</th>
+</tr>
+</thead>
+<tbody>
+<tr><td><a aria-label="Posts published on March 1, 2021" href="https://orientalreview.org/2021/03/01/">1</a></td><td><a aria-label="Posts published on March 2, 2021" href="https://orientalreview.org/2021/03/02/">2</a></td><td><a aria-label="Posts published on March 3, 2021" href="https://orientalreview.org/2021/03/03/">3</a></td><td><a aria-label="Posts published on March 4, 2021" href="https://orientalreview.org/2021/03/04/">4</a></td><td><a aria-label="Posts published on March 5, 2021" href="https://orientalreview.org/2021/03/05/">5</a></td><td><a aria-label="Posts published on March 6, 2021" href="https://orientalreview.org/2021/03/06/">6</a></td><td><a aria-label="Posts published on March 7, 2021" href="https://orientalreview.org/2021/03/07/">7</a></td>
+</tr>
+<tr>
+<td><a aria-label="Posts published on March 8, 2021" href="https://orientalreview.org/2021/03/08/">8</a></td><td><a aria-label="Posts published on March 9, 2021" href="https://orientalreview.org/2021/03/09/">9</a></td><td><a aria-label="Posts published on March 10, 2021" href="https://orientalreview.org/2021/03/10/">10</a></td><td><a aria-label="Posts published on March 11, 2021" href="https://orientalreview.org/2021/03/11/">11</a></td><td><a aria-label="Posts published on March 12, 2021" href="https://orientalreview.org/2021/03/12/">12</a></td><td><a aria-label="Posts published on March 13, 2021" href="https://orientalreview.org/2021/03/13/">13</a></td><td><a aria-label="Posts published on March 14, 2021" href="https://orientalreview.org/2021/03/14/">14</a></td>
+</tr>
+<tr>
+<td><a aria-label="Posts published on March 15, 2021" href="https://orientalreview.org/2021/03/15/">15</a></td><td><a aria-label="Posts published on March 16, 2021" href="https://orientalreview.org/2021/03/16/">16</a></td><td id="today">17</td><td>18</td><td>19</td><td>20</td><td>21</td>
+</tr>
+<tr>
+<td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td>
+</tr>
+<tr>
+<td>29</td><td>30</td><td>31</td>
+<td class="pad" colspan="4"> </td>
+</tr>
+</tbody>
+</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
+<span class="wp-calendar-nav-prev"><a href="https://orientalreview.org/2021/02/">« Feb</a></span>
+<span class="pad"> </span>
+<span class="wp-calendar-nav-next"> </span>
+</nav></div><div class="clear"></div></div> </div><!-- .column -->
+<div class="column">
+</div><!-- .column -->
+<div class="column">
+<div class="widget widget_text" id="text-4"> <div class="textwidget"><div style="display: none;">agen judi poker tempat terbaik saat ini <a href="https://sgsqq.com/poker">https://sgsqq.com/poker</a><br>
+Situs Judi Poker Agen QQ Online Terbaik <a href="https://liga-qq.org/poker">https://liga-qq.org/poker</a><br>
+Situs Poker Online Terpercaya Gampang Menang <a href="https://bandarbolaibc.com/">https://bandarbolaibc.com/</a><br/>
+Caturqq ada situs judi <b><a href="https://caturkiu.com/">poker online</a></b> aman dan terpercaya.<br/>
+Agen situs <b><a href="http://www.ccedhec.com/">idn poker</a></b> yang sangat bermanfaat<br/>
+<b><a href="https://rajadewa.vip/">agen sbobet</a></b> bandar bola terpercaya.<br/>
+<a href="https://caraloginpkvgames.com/">Cara Login Pkv Games</a> Terpercaya BukaQQ Melalui Android dan Smartphone Secara Mudah<br/>
+<b><a href="http://180.215.14.103/">http://180.215.14.103/</a><b> merupakan situs pkv qq online terpercaya dengan games populer seperti pkv, qq online, dominoqq dengan deposit pulsa.<br/>
+PROQQ sebagai situs <b><a href="http://180.215.14.104/">dominoqq</a></b> terpercaya juga sudah dilengkapi sistem teknologi terbaru yang akan memberikan permainan poker online, dominoqq, bandar q, adu q, sakong, bandar poker, capsa susun dan bandar 66 semakin seru saat dimainkan. </b></b><br/>
+<a href="https://situs.page.link/sakongkiu">sakong pkv games</a><br/>
+<a href="https://situs.page.link/masterkiu">master pkv games</a><br/>
+<a href="https://situs.page.link/okepkv">oke pkv games</a><br/>
+<a href="https://situs.page.link/liga188">judi bola 188</a>
+</br></br></div>
+</div>
+<div class="clear"></div></div> </div><!-- .column -->
+<div class="clear"></div>
+</div><!-- .inner-wrap -->
+</div><!-- .footer-widgets -->
+<div class="site-info-top">
+<div class="inner-wrap">
+<div class="navbar-brand">
+<span><a href="/" title="Open Dialogue Research Journal">OrientalReview.org</a></span>
+</div><!-- .navbar-brand -->
+<div class="footer-menu">
+<ul class="menu" id="secondmenu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-15472"><a aria-current="page" href="https://orientalreview.org">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15475"><a href="https://orientalreview.org/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15474"><a href="https://orientalreview.org/submission-guidelines/">Submission Guidelines</a></li>
+</ul> </div>
+<div class="clear"></div>
+</div><!-- .inner-wrap -->
+</div><!-- .site-info-top -->
+<div class="site-info">
+<div class="inner-wrap">
+<p class="copyright">
+<span class="">Copyright © 2010–2019 Oriental Review</span>
+</p>
+</div><!-- .inner-wrap -->
+</div><!-- .site-info -->
+</footer><!-- #colophon -->
+</div><!-- /.domino_boxed_layout -->
+</div><!-- /.page-wrap -->
+<div style="display:none">
+<div class="grofile-hash-map-4b26c0889b6b59524aa77a5dfaef16e0">
+</div>
+<div class="grofile-hash-map-3b84ef1d4c57f7d3d09d328e9a903183">
+</div>
+<div class="grofile-hash-map-2157ccf7cd6ea851957db76a2e30bd88">
+</div>
+<div class="grofile-hash-map-a891d491ba0fd2ee10ad6ca7f23a7725">
+</div>
+<div class="grofile-hash-map-2b8b9da9ff43d688067b9846d9aa5b7b">
+</div>
+<div class="grofile-hash-map-ce1cf41e6a23b58ad4b61258cf890d08">
+</div>
+<div class="grofile-hash-map-246a06a38826d7219b400bfadcc148da">
+</div>
+<div class="grofile-hash-map-f0dd4f5394a2524ba9e7009586d208cf">
+</div>
+<div class="grofile-hash-map-b635bd2459222d3e399f1211634fe447">
+</div>
+<div class="grofile-hash-map-2801f853c0baa0886e1d9a010165c4ef">
+</div>
+<div class="grofile-hash-map-35359d62ec7fbfe50a6907ce3ce1551c">
+</div>
+<div class="grofile-hash-map-49b1e01be3cfc8f84ee9b26ecd41e8a5">
+</div>
+<div class="grofile-hash-map-5588bafe8f451098ebd147e9fcf82aa8">
+</div>
+<div class="grofile-hash-map-be8eaa63c6e93623d273af990ca0d503">
+</div>
+<div class="grofile-hash-map-0aada2b258219446bb2815357e64de4a">
+</div>
+<div class="grofile-hash-map-1d2fd61cece84d79562674cda31a880e">
+</div>
+<div class="grofile-hash-map-bfd3256eb6545e1eeca79497d1919b37">
+</div>
+<div class="grofile-hash-map-e26ffb98b93d75f53daef60fb45f5753">
+</div>
+<div class="grofile-hash-map-0fb157b4e840141dbe6272e4ed3c539a">
+</div>
+<div class="grofile-hash-map-5e56502910884b21bcf6f9dedf0b2a2e">
+</div>
+<div class="grofile-hash-map-f1a1e7a8e6f402d74ef8550805eb4d88">
+</div>
+<div class="grofile-hash-map-36c75f2c648d15d73f264f8052abfcf9">
+</div>
+<div class="grofile-hash-map-212d8faf28de18e4b86fd4f8aa6adaeb">
+</div>
+<div class="grofile-hash-map-3b0e342c823997fc723cdb86c16bb4c7">
+</div>
+<div class="grofile-hash-map-a4ba3a2b05279d94e7654677e353170d">
+</div>
+<div class="grofile-hash-map-caa8a89deb47ab1995027ed4ded61590">
+</div>
+<div class="grofile-hash-map-270a28560e2ab4cfd3c22cc033a62f49">
+</div>
+<div class="grofile-hash-map-a358ac02276d06481360756b1644025e">
+</div>
+<div class="grofile-hash-map-c50bac7df5dd34228211f4d66d662971">
+</div>
+<div class="grofile-hash-map-4bbf57f12e1c9c1e0ad60187610f581f">
+</div>
+<div class="grofile-hash-map-ea533b4fc5eb0b480759116368e41017">
+</div>
+<div class="grofile-hash-map-7411170bda2cb0186b553d1becbbf263">
+</div>
+<div class="grofile-hash-map-5fbee486e5e497e53d7a86cf161c16ef">
+</div>
+<div class="grofile-hash-map-d18421bcf0c235d98606122f4a171c49">
+</div>
+<div class="grofile-hash-map-898c0da41740729c4f9825d77432cc80">
+</div>
+<div class="grofile-hash-map-d0c276bb19ac2030ebf32895a0759478">
+</div>
+<div class="grofile-hash-map-9deed6e4e2af9a8a1907da479dc5bc43">
+</div>
+<div class="grofile-hash-map-7bf19b4c592fc062e2dd443bcd7ef404">
+</div>
+<div class="grofile-hash-map-ce76897b8d5c0440669590419d0ad6fb">
+</div>
+<div class="grofile-hash-map-0752a2d5259e2fa4838a88065c10724e">
+</div>
+<div class="grofile-hash-map-d741c0f7eb31bda4436a50c40f7633cf">
+</div>
+<div class="grofile-hash-map-c2f8b810ca0eb8ea58491abe77e7c5b5">
+</div>
+<div class="grofile-hash-map-9d20ab44c8496b13fbd3e4b94822809e">
+</div>
+<div class="grofile-hash-map-983aed1317aadd65ba1e3ef694e86b4c">
+</div>
+<div class="grofile-hash-map-102ed08b5a68d4515bb3ad15d3535bd7">
+</div>
+<div class="grofile-hash-map-89dc84c012d5830309bbfc652b1b0633">
+</div>
+<div class="grofile-hash-map-f20dff5e75014de2312ea84ae2077c5d">
+</div>
+<div class="grofile-hash-map-3b75aa976dda91f25bcb1cdbe7f41248">
+</div>
+<div class="grofile-hash-map-86fc258a898bc045f0bc6cf8e338186f">
+</div>
+<div class="grofile-hash-map-ca7176b789d2f177bf096f9fb2dfab9a">
+</div>
+<div class="grofile-hash-map-30cdabbd8e070600a1f8d4cb9525559d">
+</div>
+<div class="grofile-hash-map-13108d992585f214eb206d99004e4565">
+</div>
+<div class="grofile-hash-map-ebf8e743d651c1932d3dbe9368320b1b">
+</div>
+<div class="grofile-hash-map-06ec9c6613bd7e77e44293f52bfb4255">
+</div>
+<div class="grofile-hash-map-62455825406bd0f2c7c913ff53451c6e">
+</div>
+<div class="grofile-hash-map-d6fbf703484c052867e9b080b136deb4">
+</div>
+<div class="grofile-hash-map-09bc8c184758a92c9f3f7c05df3421d6">
+</div>
+<div class="grofile-hash-map-0eb3acc7472dcf0c8bd22e0f84a661b4">
+</div>
+<div class="grofile-hash-map-161ee1aee6ec4659ac7dc7f02bc4c868">
+</div>
+<div class="grofile-hash-map-306fc979db344f14892ea297841758f0">
+</div>
+<div class="grofile-hash-map-c99f663a4a1dffd1c5757a508e83cd73">
+</div>
+<div class="grofile-hash-map-d283ae459c3575134d4bcde0c35c958b">
+</div>
+<div class="grofile-hash-map-0727f7722b7e8d7a59483a3726bcb89b">
+</div>
+<div class="grofile-hash-map-162e857afc03d7099227097060e3363d">
+</div>
+<div class="grofile-hash-map-e2f26fc68487a7e21e32ea90dad71c3b">
+</div>
+<div class="grofile-hash-map-cb0067bd47ba739b2750f700bf6ac004">
+</div>
+<div class="grofile-hash-map-2d0336da217bfa709c81ff4c43a0f3ab">
+</div>
+<div class="grofile-hash-map-65b4ab622e8465e571f8e4c79c4f04c9">
+</div>
+<div class="grofile-hash-map-fc505f0c26ca5bc3d8ccc08daa2b7f39">
+</div>
+<div class="grofile-hash-map-ac5cfddf9586020d1cda1eef4cc3c4a1">
+</div>
+<div class="grofile-hash-map-df87cd32eecc61349b8308334fd5525a">
+</div>
+<div class="grofile-hash-map-66aa1acd6747bd783fefe4bda8de1c02">
+</div>
+<div class="grofile-hash-map-967fc49331862e83d49e4c4442ccbdaa">
+</div>
+<div class="grofile-hash-map-5a5fcd5aedb1abd46afcb1ff4607a12d">
+</div>
+<div class="grofile-hash-map-f99d9e7266df9f5aeddcfd8de2a92651">
+</div>
+<div class="grofile-hash-map-d4fd06a2b117b85067183d60ac73f6ff">
+</div>
+<div class="grofile-hash-map-45067216caf4b9f49d7b6193d110bec7">
+</div>
+<div class="grofile-hash-map-8d2a2877c25211c2f19adbaf55f99f22">
+</div>
+<div class="grofile-hash-map-697f51edf5d6847edfec3ec739d1ef82">
+</div>
+<div class="grofile-hash-map-3badf33ce91cb1c73836f9507534a080">
+</div>
+<div class="grofile-hash-map-e1232889c35bc126455a39f93f988365">
+</div>
+<div class="grofile-hash-map-61c8832d9042ea88bb7e50eb91554c0c">
+</div>
+<div class="grofile-hash-map-9582471b6f5d73f54a7baf4bb2c77a96">
+</div>
+<div class="grofile-hash-map-b94e1a29ef735052cedabcf30e4d693e">
+</div>
+<div class="grofile-hash-map-54f66ccb222abf1a3d6a76fd7784024d">
+</div>
+<div class="grofile-hash-map-b67a37bb4135a6c563446e29927dd039">
+</div>
+<div class="grofile-hash-map-d4cdca054748999fe9276b2224505e63">
+</div>
+<div class="grofile-hash-map-babb4555e76001908cba810f7f840b6a">
+</div>
+<div class="grofile-hash-map-2188b113bf1cc202968f3ab84bf10031">
+</div>
+<div class="grofile-hash-map-b62a5dcb47e935bc83a297486f3d63f0">
+</div>
+<div class="grofile-hash-map-6c22d3bc586e4e3f71fadcde59f8a5d3">
+</div>
+<div class="grofile-hash-map-96f938c492d3429ac8021098b0da4832">
+</div>
+<div class="grofile-hash-map-a384be217c89fa06600b04377a6d6372">
+</div>
+<div class="grofile-hash-map-5d5b7d9e3fb9332a4fd194d093372e74">
+</div>
+<div class="grofile-hash-map-0e6e4ce163cc444f87db1cedf1c0b010">
+</div>
+<div class="grofile-hash-map-f3153a7cc2307bf054c101855b1274f7">
+</div>
+<div class="grofile-hash-map-4d13d51e4457a64defe1da08dfc7d8e4">
+</div>
+<div class="grofile-hash-map-fb68ffad400fbf456352b02bc58c437c">
+</div>
+</div>
+<script type="text/javascript">
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '0';
+          var pfImagesSize = 'full-size';
+          var pfImageDisplayStyle = 'none';
+          var pfEncodeImages = '0';
+          var pfDisableEmail = '0';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+          var pfPlatform = 'Wordpress';
+        </script>
+<script async="" src="https://cdn.printfriendly.com/printfriendly.js"></script>
+<script id="grofiles-cards-js" src="https://secure.gravatar.com/js/gprofiles.js?ver=202111" type="text/javascript"></script>
+<script id="wpgroho-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script id="wpgroho-js" src="https://orientalreview.org/wp-content/plugins/jetpack/modules/wpgroho.js?ver=9.2" type="text/javascript"></script>
+<script id="mmenu-js" src="https://orientalreview.org/wp-content/themes/domino/js/jquery.mmenu.min.all.js?ver=2.0.1" type="text/javascript"></script>
+<script id="flickity-js" src="https://orientalreview.org/wp-content/themes/domino/js/flickity.pkgd.min.js?ver=2.0.1" type="text/javascript"></script>
+<script id="carouFredSel-js" src="https://orientalreview.org/wp-content/themes/domino/js/jquery.carouFredSel-6.2.1-packed.js?ver=2.0.1" type="text/javascript"></script>
+<script id="search_button-js" src="https://orientalreview.org/wp-content/themes/domino/js/search_button.js?ver=2.0.1" type="text/javascript"></script>
+<script id="fitvids-js" src="https://orientalreview.org/wp-content/themes/domino/js/jquery.fitvids.js?ver=2.0.1" type="text/javascript"></script>
+<script id="sticky-sidebar-js" src="https://orientalreview.org/wp-content/themes/domino/js/theia-sticky-sidebar.js?ver=2.0.1" type="text/javascript"></script>
+<script id="superfish-js" src="https://orientalreview.org/wp-content/themes/domino/js/superfish.min.js?ver=2.0.1" type="text/javascript"></script>
+<script id="tabber-tabs-js" src="https://orientalreview.org/wp-content/themes/domino/js/tabs.js?ver=2.0.1" type="text/javascript"></script>
+<script id="domino-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var zoomOptions = {"slideshow_auto":"","slideshow_speed":"3000"};
+/* ]]> */
+</script>
+<script id="domino-script-js" src="https://orientalreview.org/wp-content/themes/domino/js/functions.js?ver=2.0.1" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://orientalreview.org/wp-includes/js/wp-embed.min.js?ver=5.7" type="text/javascript"></script>
+<script id="jetpack-carousel-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/orientalreview.org\/wp-admin\/admin-ajax.php","nonce":"ca9d63d716","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/orientalreview.org\/wp-login.php?redirect_to=https%3A%2F%2Forientalreview.org%2F2021%2F03%2F16%2Fa-climate-change-vandal-goes-to-paris-mathias-cormann-and-the-oecd%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script id="jetpack-carousel-js" src="https://orientalreview.org/wp-content/plugins/jetpack/_inc/build/carousel/jetpack-carousel.min.js?ver=9.2" type="text/javascript"></script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-202111.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.2',blog:'11808251',post:'0',tz:'3',srv:'orientalreview.org'} ]);
+	_stq.push([ 'clickTrackerInit', '11808251', '0' ]);
+</script>
+<!-- https://zmoe.ru/sokratite-vremya-otveta-servera/ -->
+<!--noindex-->
+<center style="color: #aaa;">499, 0.845306</center>
+<!--/noindex-->
+</body>
+</html>

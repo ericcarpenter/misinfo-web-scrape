@@ -1,0 +1,655 @@
+
+<!DOCTYPE html>
+
+<html lang="en"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Redstate News" name="description"/>
+<meta content="" name="author"/>
+<meta content="RedStateWatcher.com" property="og:title">
+<meta content="Redstate News" property="og:description">
+<meta content="http://redstatewatcher.com/redstatewatchercoversocial.jpg" property="og:image">
+<link href="favicon.ico" rel="icon"/>
+<title>RedStateWatcher</title>
+<!-- Bootstrap core CSS -->
+<!-- Latest compiled and minified CSS -->
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" rel="stylesheet"/>
+<!-- Optional theme -->
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" rel="stylesheet"/>
+<!-- Custom styles for this template -->
+<link href="css/ikwizresponsive-template.css" rel="stylesheet"/>
+<link href="css/sticky-footer.css" rel="stylesheet"/>
+<!-- Squatchable Scripts -->
+<script src="js/squatchable.js"></script>
+<script src="js/jquery.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+<!-- auto ads -->
+<script async="" data-ad-client="ca-pub-5288750259682605" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<style>
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.jumbotron {
+    position: relative;
+    background: #000 url("redstatewatchercover.png") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+/* Container holding the image and the text */
+.feature-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom left text */
+.feature-bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/* Top left text */
+.feature-top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+/* Top right text */
+.feature-top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.feature-bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.feature-centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+</style>
+<script>
+
+function GetAjax()
+{
+	if (window.XMLHttpRequest)
+	{
+	   return new window.XMLHttpRequest();
+	}
+	else 
+	{
+		return new ActiveXObject("Microsoft.XMLHTTP");
+	}	
+
+}
+
+// Init
+// **************************
+function Init()
+{
+
+
+	// init embedly cards
+	(function(w, d){
+	var id='embedly-platform', n = 'script';
+	if (!d.getElementById(id)){
+	 w.embedly = w.embedly || function() {(w.embedly.q = w.embedly.q || []).push(arguments);};
+	 var e = d.createElement(n); e.id = id; e.async=1;
+	 e.src = ('https:' === document.location.protocol ? 'https' : 'http') + '://cdn.embedly.com/widgets/platform.js';
+	 var s = d.getElementsByTagName(n)[0];
+	 s.parentNode.insertBefore(e, s);
+	}
+	})(window, document);
+	
+
+
+
+
+}
+
+// News Viewed Unfiltered
+// ****************************************
+function NewsViewedUnfiltered(id)
+{
+
+	var xmlBasic;
+
+			
+	xmlBasic = GetAjax();
+	
+	xmlBasic.open("GET", "newsviewed.asp?id="+encodeURI(id), true);
+
+	xmlBasic.onreadystatechange = function()
+	{
+		if (this.readyState == 4 && this.status==200)
+		{
+			//alert(this.responseText);
+
+		}
+	};
+
+	xmlBasic.send();
+
+
+
+}
+
+
+</script>
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12909087-19', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</meta></meta></meta></head>
+<body onload="Init()">
+<div class="navbar navbar-default navbar-fixed-top" id="custom-bootstrap-menu" role="navigation">
+<div class="container-fluid">
+<div class="navbar-header"><a class="navbar-brand" href="./">RedStateWatcher</a>
+<button class="navbar-toggle" data-target=".navbar-menubuilder" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse navbar-menubuilder">
+<ul class="nav navbar-nav navbar-left">
+<li><a href="./">Home</a></li>
+<!--
+				<li><a href="polls.asp">Polls</a></li>
+				-->
+<!--
+				<li><a href="trivias.asp">Trivias</a></li>
+				-->
+<li><a href="http://maganews.io">Trending</a></li>
+<li><a href="news.asp">News</a></li>
+<!--
+				<li><a href="memes.asp">Memes</a></li>		
+				-->
+</ul>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<img class="img-responsive text-center" src="redstatewatchercover2.jpg"/>
+</div>
+<br/>
+<p>
+<h4>TRENDING</h4>
+<div class="row">
+<div class="col-md-6">
+<div class="feature-container">
+<a href="aggregate.asp?id=184324"><img src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20181127%252D2049371369%252Ejpg%26width%3D500%26height%3D400%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width:100%;"/></a>
+<div class="feature-bottom-right" style="background-color: rgba(0,0,0,0.5)"><a href="aggregate.asp?id=184324"><h4><a href="aggregate.asp?id=184324" style="color:white;">President Trump says election 'should have been overturned' </a> <a data-disqus-identifier="184324" href="aggregate.asp?id=184324" style="font-size:smaller">Comments</a></h4></a></div>
+</div>
+<br/>
+</div>
+<div class="col-md-6">
+<div class="media">
+<a class="pull-left" href="article.asp?id=184320">
+<img class="media-object" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1652814789%252Ejpg%26width%3D100%26height%3D100%26option%3Dcrop%26darken%3D0%26blur%3D0"/>
+</a>
+<div class="media-body">
+<div>
+<h4 class="media-heading"><a href="article.asp?id=184320" style="color: rgb(50,50,50)">Trump says he’s “NOT A FAN” of Meghan Markle &amp; hopes she WOULD run for President, as he’d have “an EVEN STRONGER feeling toward running”</a></h4>
+<a data-disqus-identifier="184320" href="article.asp?id=184320">Comments</a>
+</div>
+</div>
+</div>
+<div class="media">
+<a class="pull-left" href="aggregate.asp?id=184319">
+<img class="media-object" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1652924832%252Ejpeg%26width%3D100%26height%3D100%26option%3Dcrop%26darken%3D0%26blur%3D0"/>
+</a>
+<div class="media-body">
+<div>
+<h4 class="media-heading"><a href="aggregate.asp?id=184319" style="color: rgb(50,50,50)">Watch: Trump teases 2024, said he would go head to head vs Meghan Markle </a></h4>
+<a data-disqus-identifier="184319" href="aggregate.asp?id=184319">Comments</a>
+</div>
+</div>
+</div>
+<div class="media">
+<a class="pull-left" href="aggregate.asp?id=184317">
+<img class="media-object" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1655035073%252Ejpeg%26width%3D100%26height%3D100%26option%3Dcrop%26darken%3D0%26blur%3D0"/>
+</a>
+<div class="media-body">
+<div>
+<h4 class="media-heading"><a href="aggregate.asp?id=184317" style="color: rgb(50,50,50)">'Don't come over': Biden tells migrants to stay back amid surge at the border</a></h4>
+<a data-disqus-identifier="184317" href="aggregate.asp?id=184317">Comments</a>
+</div>
+</div>
+</div>
+<div class="media">
+<a class="pull-left" href="article.asp?id=184318">
+<img class="media-object" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1654176303%252Ejpeg%26width%3D100%26height%3D100%26option%3Dcrop%26darken%3D0%26blur%3D0"/>
+</a>
+<div class="media-body">
+<div>
+<h4 class="media-heading"><a href="article.asp?id=184318" style="color: rgb(50,50,50)">Trump on border: "I have great respect for the president of Mexico. We had a very good relationship."</a></h4>
+<a data-disqus-identifier="184318" href="article.asp?id=184318">Comments</a>
+</div>
+</div>
+</div>
+<br/>
+</div>
+</div>
+</p>
+<h4><a class="btn btn-primary" href="discussion.asp?date=3/16/2021" role="button">Got news we missed? Discuss here</a></h4>
+<div><a data-disqus-identifier="3/16/2021" href="discussion.asp?date=3/16/2021#disqus_thread">Comments</a></div>
+<br/>
+<br/>
+<div class="row">
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184342"><img alt="Biden’s blunt message to migrants at border: ‘Don’t come’" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210127%252D260699026%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184342" style="color: #222;"><h1 class="newsheaderpreview">Biden’s blunt message to migrants at border: ‘Don’t come’</h1></a></p>
+<p><a data-disqus-identifier="184342" href="aggregate.asp?id=184342#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184341"><img alt="Trump Says Biden Admin ‘Destroying Our Country’ With Border Policies, Predicts Situation Will Worsen" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20180116%252D506886029%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184341" style="color: #222;"><h1 class="newsheaderpreview">Trump Says Biden Admin ‘Destroying Our Country’ With Border Policies, Predicts Situation Will Worsen</h1></a></p>
+<p><a data-disqus-identifier="184341" href="aggregate.asp?id=184341#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184340"><img alt="Assembly speaker wants Gov. Cuomo’s accusers interviewed ‘under oath’" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20200723352786121%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184340" style="color: #222;"><h1 class="newsheaderpreview">Assembly speaker wants Gov. Cuomo’s accusers interviewed ‘under oath’</h1></a></p>
+<p><a data-disqus-identifier="184340" href="aggregate.asp?id=184340#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="article.asp?id=184339"><img alt="Trump says he'll make a decision about running again in 2024 after the midterms" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20181127%252D2049371369%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="article.asp?id=184339" style="color: #222;"><h1 class="newsheaderpreview">Trump says he'll make a decision about running again in 2024 after the midterms</h1></a></p>
+<p><a data-disqus-identifier="184339" href="article.asp?id=184339#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184338"><img alt="‘That Is Not The Story’: Greg Gutfeld Rebukes Juan Williams For Making WaPo Correction About Trump" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20190521972145424%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184338" style="color: #222;"><h1 class="newsheaderpreview">‘That Is Not The Story’: Greg Gutfeld Rebukes Juan Williams For Making WaPo Correction About Trump</h1></a></p>
+<p><a data-disqus-identifier="184338" href="aggregate.asp?id=184338#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184337"><img alt="'Of course, I’m worried about it': Gavin Newsom shifts to campaign mode as California recall gets real" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20200911399774263%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184337" style="color: #222;"><h1 class="newsheaderpreview">'Of course, I’m worried about it': Gavin Newsom shifts to campaign mode as California recall gets real</h1></a></p>
+<p><a data-disqus-identifier="184337" href="aggregate.asp?id=184337#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184336"><img alt="Gavin Newsom's French Laundry friend banned from lobbying administration under expanded policy" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20200911399774263%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184336" style="color: #222;"><h1 class="newsheaderpreview">Gavin Newsom's French Laundry friend banned from lobbying administration under expanded policy</h1></a></p>
+<p><a data-disqus-identifier="184336" href="aggregate.asp?id=184336#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184335"><img alt="House Administration Committee Chief Suggests Republican Colleagues Helped Instigate Breach of Capitol" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210106%252D2072865905%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184335" style="color: #222;"><h1 class="newsheaderpreview">House Administration Committee Chief Suggests Republican Colleagues Helped Instigate Breach of Capitol</h1></a></p>
+<p><a data-disqus-identifier="184335" href="aggregate.asp?id=184335#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="article.asp?id=184334"><img alt='Rep. Marjorie Taylor Greene: "The Democrats need to stop using them as political theatre and drama on Capitol Hill"' class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210315%252D1734651556%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="article.asp?id=184334" style="color: #222;"><h1 class="newsheaderpreview">Rep. Marjorie Taylor Greene: "The Democrats need to stop using them as political theatre and drama on Capitol Hill"</h1></a></p>
+<p><a data-disqus-identifier="184334" href="article.asp?id=184334#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184333"><img alt="Trump Tells His Supporters To Get The Coronavirus Vaccine: ‘It Is A Safe Vaccine’" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20181009%252D2014386337%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184333" style="color: #222;"><h1 class="newsheaderpreview">Trump Tells His Supporters To Get The Coronavirus Vaccine: ‘It Is A Safe Vaccine’</h1></a></p>
+<p><a data-disqus-identifier="184333" href="aggregate.asp?id=184333#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184332"><img alt="Cardi B Takes Swipe At Melania During Twitter Fight With Candace Owens" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210314%252D1807485381%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184332" style="color: #222;"><h1 class="newsheaderpreview">Cardi B Takes Swipe At Melania During Twitter Fight With Candace Owens</h1></a></p>
+<p><a data-disqus-identifier="184332" href="aggregate.asp?id=184332#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184331"><img alt="New York teens charged with setting man on fire inside his own home" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1649613102%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184331" style="color: #222;"><h1 class="newsheaderpreview">New York teens charged with setting man on fire inside his own home</h1></a></p>
+<p><a data-disqus-identifier="184331" href="aggregate.asp?id=184331#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184330"><img alt="Georgia massage parlors turn into war zones as police unravel deadly shooting scenes" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1649762099%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184330" style="color: #222;"><h1 class="newsheaderpreview">Georgia massage parlors turn into war zones as police unravel deadly shooting scenes</h1></a></p>
+<p><a data-disqus-identifier="184330" href="aggregate.asp?id=184330#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184329"><img alt="Kamala Harris continues to avoid commenting on Cuomo sexual misconduct allegations" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F201904232028290579%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184329" style="color: #222;"><h1 class="newsheaderpreview">Kamala Harris continues to avoid commenting on Cuomo sexual misconduct allegations</h1></a></p>
+<p><a data-disqus-identifier="184329" href="aggregate.asp?id=184329#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="article.asp?id=184328"><img alt='Reporter to Joe: "Do you have any plans to travel to the southern border?"' class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1649976741%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="article.asp?id=184328" style="color: #222;"><h1 class="newsheaderpreview">Reporter to Joe: "Do you have any plans to travel to the southern border?"</h1></a></p>
+<p><a data-disqus-identifier="184328" href="article.asp?id=184328#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184327"><img alt="David Hogg’s Progressive ‘My Pillow’ Competitor Forgot To Trademark Company Name" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1649986616%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184327" style="color: #222;"><h1 class="newsheaderpreview">David Hogg’s Progressive ‘My Pillow’ Competitor Forgot To Trademark Company Name</h1></a></p>
+<p><a data-disqus-identifier="184327" href="aggregate.asp?id=184327#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184326"><img alt="Biden: Cuomo Should Resign If Sexual Misconduct Allegations Are Confirmed" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210127%252D260699026%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184326" style="color: #222;"><h1 class="newsheaderpreview">Biden: Cuomo Should Resign If Sexual Misconduct Allegations Are Confirmed</h1></a></p>
+<p><a data-disqus-identifier="184326" href="aggregate.asp?id=184326#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184325"><img alt="Biden Will Hold First Press Conference March 25, White House Says" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210202272414360%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184325" style="color: #222;"><h1 class="newsheaderpreview">Biden Will Hold First Press Conference March 25, White House Says</h1></a></p>
+<p><a data-disqus-identifier="184325" href="aggregate.asp?id=184325#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184324"><img alt="President Trump says election 'should have been overturned' " class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20181127%252D2049371369%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184324" style="color: #222;"><h1 class="newsheaderpreview">President Trump says election 'should have been overturned' </h1></a></p>
+<p><a data-disqus-identifier="184324" href="aggregate.asp?id=184324#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="article.asp?id=184323"><img alt="Trump: &quot;They're pouring into our country. It's a disgrace, they're going to destroy our country if they don't do something about it.&quot;" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20180116%252D506886029%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="article.asp?id=184323" style="color: #222;"><h1 class="newsheaderpreview">Trump: "They're pouring into our country. It's a disgrace, they're going to destroy our country if they don't do something about it."</h1></a></p>
+<p><a data-disqus-identifier="184323" href="article.asp?id=184323#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184322"><img alt="Tiger Woods returns home to South Florida to continue recovery from car accident" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20180826%252D1508530180%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184322" style="color: #222;"><h1 class="newsheaderpreview">Tiger Woods returns home to South Florida to continue recovery from car accident</h1></a></p>
+<p><a data-disqus-identifier="184322" href="aggregate.asp?id=184322#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184321"><img alt="Trump: I Would Recommend People Get Vaccines" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20181127%252D2049371369%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184321" style="color: #222;"><h1 class="newsheaderpreview">Trump: I Would Recommend People Get Vaccines</h1></a></p>
+<p><a data-disqus-identifier="184321" href="aggregate.asp?id=184321#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="article.asp?id=184320"><img alt="Trump says he’s “NOT A FAN” of Meghan Markle &amp; hopes she WOULD run for President, as he’d have “an EVEN STRONGER feeling toward running”" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1652814789%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="article.asp?id=184320" style="color: #222;"><h1 class="newsheaderpreview">Trump says he’s “NOT A FAN” of Meghan Markle &amp; hopes she WOULD run for President, as he’d have “an EVEN STRONGER feeling toward running”</h1></a></p>
+<p><a data-disqus-identifier="184320" href="article.asp?id=184320#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184319"><img alt="Watch: Trump teases 2024, said he would go head to head vs Meghan Markle " class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1652924832%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184319" style="color: #222;"><h1 class="newsheaderpreview">Watch: Trump teases 2024, said he would go head to head vs Meghan Markle </h1></a></p>
+<p><a data-disqus-identifier="184319" href="aggregate.asp?id=184319#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="article.asp?id=184318"><img alt='Trump on border: "I have great respect for the president of Mexico. We had a very good relationship."' class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1654176303%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="article.asp?id=184318" style="color: #222;"><h1 class="newsheaderpreview">Trump on border: "I have great respect for the president of Mexico. We had a very good relationship."</h1></a></p>
+<p><a data-disqus-identifier="184318" href="article.asp?id=184318#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184317"><img alt="'Don't come over': Biden tells migrants to stay back amid surge at the border" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1655035073%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184317" style="color: #222;"><h1 class="newsheaderpreview">'Don't come over': Biden tells migrants to stay back amid surge at the border</h1></a></p>
+<p><a data-disqus-identifier="184317" href="aggregate.asp?id=184317#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184316"><img alt="Trump to appear exclusively on 'Fox News Primetime' with Maria Bartiromo" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20181009%252D2014386337%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184316" style="color: #222;"><h1 class="newsheaderpreview">Trump to appear exclusively on 'Fox News Primetime' with Maria Bartiromo</h1></a></p>
+<p><a data-disqus-identifier="184316" href="aggregate.asp?id=184316#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184315"><img alt="GOP Rep. Miller-Meeks Says ‘People Should Be Outraged’ House Could Unseat Her From Congress" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F202011271050192227%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184315" style="color: #222;"><h1 class="newsheaderpreview">GOP Rep. Miller-Meeks Says ‘People Should Be Outraged’ House Could Unseat Her From Congress</h1></a></p>
+<p><a data-disqus-identifier="184315" href="aggregate.asp?id=184315#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184314"><img alt="New poll shows Cuban-American voters align with GOP" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F2018041986938343%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184314" style="color: #222;"><h1 class="newsheaderpreview">New poll shows Cuban-American voters align with GOP</h1></a></p>
+<p><a data-disqus-identifier="184314" href="aggregate.asp?id=184314#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184313"><img alt="Navy won't remove ‘anti-American’ books from reading list despite House Republicans’ concerns" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20191226%252D140793460%252Epng%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184313" style="color: #222;"><h1 class="newsheaderpreview">Navy won't remove ‘anti-American’ books from reading list despite House Republicans’ concerns</h1></a></p>
+<p><a data-disqus-identifier="184313" href="aggregate.asp?id=184313#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184312"><img alt="Glenn Greenwald blasts liberal media for 'deceitful playbook' of 'corroborating' false stories" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20180116%252D506886029%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184312" style="color: #222;"><h1 class="newsheaderpreview">Glenn Greenwald blasts liberal media for 'deceitful playbook' of 'corroborating' false stories</h1></a></p>
+<p><a data-disqus-identifier="184312" href="aggregate.asp?id=184312#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184311"><img alt="Washington Post runs correction admitting it ‘misquoted’ Trump in Georgia election story" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20180116%252D506886029%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184311" style="color: #222;"><h1 class="newsheaderpreview">Washington Post runs correction admitting it ‘misquoted’ Trump in Georgia election story</h1></a></p>
+<p><a data-disqus-identifier="184311" href="aggregate.asp?id=184311#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184310"><img alt="‘Asian Graduation,’ ‘Black Graduation’: Columbia University Holding 7 Different Ceremonies For Students" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20191226%252D140793460%252Epng%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184310" style="color: #222;"><h1 class="newsheaderpreview">‘Asian Graduation,’ ‘Black Graduation’: Columbia University Holding 7 Different Ceremonies For Students</h1></a></p>
+<p><a data-disqus-identifier="184310" href="aggregate.asp?id=184310#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184309"><img alt="Gavin Newsom Blames QAnon, 'Anti-vaxxers,' 'Anti-Immigrant Trump Supporters' for Recall" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20200911399774263%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184309" style="color: #222;"><h1 class="newsheaderpreview">Gavin Newsom Blames QAnon, 'Anti-vaxxers,' 'Anti-Immigrant Trump Supporters' for Recall</h1></a></p>
+<p><a data-disqus-identifier="184309" href="aggregate.asp?id=184309#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184308"><img alt="NY lawmakers want probe of how Cuomo also ordered homes for disabled to accept coronavirus patients" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20200723352786121%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184308" style="color: #222;"><h1 class="newsheaderpreview">NY lawmakers want probe of how Cuomo also ordered homes for disabled to accept coronavirus patients</h1></a></p>
+<p><a data-disqus-identifier="184308" href="aggregate.asp?id=184308#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184307"><img alt="Scarborough faults Biden for 'permissive' border message" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F2017111156699452%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184307" style="color: #222;"><h1 class="newsheaderpreview">Scarborough faults Biden for 'permissive' border message</h1></a></p>
+<p><a data-disqus-identifier="184307" href="aggregate.asp?id=184307#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184306"><img alt="California Uber passenger accused of coughing on driver posts bail within hours of arrest" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210316%252D1670167045%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184306" style="color: #222;"><h1 class="newsheaderpreview">California Uber passenger accused of coughing on driver posts bail within hours of arrest</h1></a></p>
+<p><a data-disqus-identifier="184306" href="aggregate.asp?id=184306#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184305"><img alt="Omar pitches national cancellation of rent and mortgage payments until April 2022" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20200911353149604%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184305" style="color: #222;"><h1 class="newsheaderpreview">Omar pitches national cancellation of rent and mortgage payments until April 2022</h1></a></p>
+<p><a data-disqus-identifier="184305" href="aggregate.asp?id=184305#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184304"><img alt="Tombstones toppled at historic Hollywood Cemetery in Richmond" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20191226%252D140793460%252Epng%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184304" style="color: #222;"><h1 class="newsheaderpreview">Tombstones toppled at historic Hollywood Cemetery in Richmond</h1></a></p>
+<p><a data-disqus-identifier="184304" href="aggregate.asp?id=184304#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184303"><img alt="Psaki: Biden Looks Forward to Repealing Gun Maker 'Liability Shields'" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210121%252D777191645%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184303" style="color: #222;"><h1 class="newsheaderpreview">Psaki: Biden Looks Forward to Repealing Gun Maker 'Liability Shields'</h1></a></p>
+<p><a data-disqus-identifier="184303" href="aggregate.asp?id=184303#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184302"><img alt="Poll: Despite Flood Of Accusations, Most NY Democrats Don’t Want Cuomo To Resign" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttps%253A%252F%252Fpbs%252Etwimg%252Ecom%252Famplify%255Fvideo%255Fthumb%252F1243603350475747336%252Fimg%252FnzYYph4aAIJnXAhP%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184302" style="color: #222;"><h1 class="newsheaderpreview">Poll: Despite Flood Of Accusations, Most NY Democrats Don’t Want Cuomo To Resign</h1></a></p>
+<p><a data-disqus-identifier="184302" href="aggregate.asp?id=184302#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184301"><img alt="Gov. Gavin Newsom blasts 'extremists' pushing for his recall, says they're 'partisan,' 'anti-mask,' 'anti-vax,' and 'pro-Trump'" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20200911399774263%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184301" style="color: #222;"><h1 class="newsheaderpreview">Gov. Gavin Newsom blasts 'extremists' pushing for his recall, says they're 'partisan,' 'anti-mask,' 'anti-vax,' and 'pro-Trump'</h1></a></p>
+<p><a data-disqus-identifier="184301" href="aggregate.asp?id=184301#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184300"><img alt="Reporter confronts Psaki over inhumane conditions at migrant facilities: 'How is the administration not stopping that today?'" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210121%252D777191645%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184300" style="color: #222;"><h1 class="newsheaderpreview">Reporter confronts Psaki over inhumane conditions at migrant facilities: 'How is the administration not stopping that today?'</h1></a></p>
+<p><a data-disqus-identifier="184300" href="aggregate.asp?id=184300#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184299"><img alt="Bill Burr Wife Nia Hill Fires Back After Husband Accused Of ‘Racism’" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F202010111265609809%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184299" style="color: #222;"><h1 class="newsheaderpreview">Bill Burr Wife Nia Hill Fires Back After Husband Accused Of ‘Racism’</h1></a></p>
+<p><a data-disqus-identifier="184299" href="aggregate.asp?id=184299#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184298"><img alt="Green groups press Biden, Democrats to boost climate spending with ad blitz" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20210127%252D260699026%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184298" style="color: #222;"><h1 class="newsheaderpreview">Green groups press Biden, Democrats to boost climate spending with ad blitz</h1></a></p>
+<p><a data-disqus-identifier="184298" href="aggregate.asp?id=184298#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184297"><img alt="‘SNL’ jabs at Cuomo, Newsom, Whitmer in Fauci-hosted coronavirus game-show sketch" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20200723352786121%252Ejpeg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184297" style="color: #222;"><h1 class="newsheaderpreview">‘SNL’ jabs at Cuomo, Newsom, Whitmer in Fauci-hosted coronavirus game-show sketch</h1></a></p>
+<p><a data-disqus-identifier="184297" href="aggregate.asp?id=184297#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184296"><img alt="Dan Bongino slams Biden immigration agenda: Without a border, 'you don't have a country'" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttp%253A%252F%252Fnoiimages%252Es3%252Dus%252Dwest%252D1%252Eamazonaws%252Ecom%252Fimages%252Fredstate%252F20201031%252D1282069412%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184296" style="color: #222;"><h1 class="newsheaderpreview">Dan Bongino slams Biden immigration agenda: Without a border, 'you don't have a country'</h1></a></p>
+<p><a data-disqus-identifier="184296" href="aggregate.asp?id=184296#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="col-md-4">
+<div>
+<p><a href="aggregate.asp?id=184295"><img alt="Fauci Warns Against Declaring Victory over Coronavirus Too Quickly -- 'We Can Risk a Surge'" class="img-responsive" src="http://images.weserv.nl/?url=http%3A%2F%2Fredstatewatcher%2Ecom%3A5301%2Fresize%3Furl%3Dhttps%253A%252F%252Fpbs%252Etwimg%252Ecom%252Fmedia%252FEX1WQx2XkAAaaOl%252Ejpg%26width%3D400%26height%3D200%26option%3Dcrop%26darken%3D0%26blur%3D0" style="width: 100%"/></a></p>
+<p><a href="aggregate.asp?id=184295" style="color: #222;"><h1 class="newsheaderpreview">Fauci Warns Against Declaring Victory over Coronavirus Too Quickly -- 'We Can Risk a Surge'</h1></a></p>
+<p><a data-disqus-identifier="184295" href="aggregate.asp?id=184295#disqus_thread">Comments</a></p>
+</div>
+</div>
+<div class="clearfix visible-xs-block visible-sm-block visible-md-block visible-lg-block"></div>
+</div>
+<p><a href="news.asp">More News...</a></p>
+<hr/>
+<!--
+		<hr>
+		
+
+						
+			
+	
+		<h3>Latest Polls</h3>
+		
+		<p><a href="polls.asp">More Polls...</a></p>
+		-->
+<hr/>
+<p>
+</p>
+</div>
+<!-- /.container -->
+<!-- Footer -->
+<div class="footer">
+<div class="container">
+<ul class="list-inline text-muted">
+<li>© 2021 RedStateWatcher.com All rights reserved</li>
+<li><a href="disclaimer.asp">Disclaimer</a></li>
+<li>Privacy Policy</li>
+<li>Contact Us</li>
+</ul>
+</div>
+</div>
+<!-- Footer End -->
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script async="" charset="UTF-8" src="//cdn.embedly.com/widgets/platform.js"></script>
+<script async="" id="dsq-count-scr" src="//redstatewatcher-1.disqus.com/count.js"></script>
+</body></html>

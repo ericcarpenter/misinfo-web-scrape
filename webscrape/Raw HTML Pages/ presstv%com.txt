@@ -1,0 +1,1791 @@
+<!DOCTYPE html>
+
+<html id="windows" lang="en">
+<head>
+<title>PressTV</title>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="en" http-equiv="content-language">
+<meta content="private" http-equiv="Cache-control"/>
+<meta content="no-cache, no-store, must-revalidate" http-equiv="Cache-Control">
+<meta content="no-cache" http-equiv="Pragma">
+<meta content="0" http-equiv="Expires">
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="PressTV" property="og:site_name"/>
+<meta content="PressTV" name="title"/>
+<meta content="PressTV" property="og:title"/>
+<meta content="Press TV is an Iranian news and documentary network that broadcasts in the English and French-language. It is affiliated with Islamic Republic of Iran Broadcasting, the only organisation legally able to transmit radio and TV broadcasts in Iran." name="description"/>
+<meta content="Presstv" name="author"/>
+<link href="/custom/images/icon.png" rel="shortcut icon"/>
+<script src="/custom/bootstrap/js/jquery-3.4.1.min.js"></script>
+<script src="https://momentjs.com/downloads/moment.min.js"></script>
+<link href="/manifest.json" rel="manifest"/>
+<script src="/pwa.js"></script>
+<link href="/pwa.min.css" rel="stylesheet">
+<link href="/custom/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/custom/css/site.min.css" rel="stylesheet">
+<meta content="##00001e" name="theme-color"/>
+<meta content="##00001e" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="##00001e" name="msapplication-navbutton-color"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<link href="/custom/images/logo-app/LOGO_57x57.jpg" rel="shortcut icon" sizes="57x57"/>
+<link href="/custom/images/logo-app/LOGO_72x72.jpg" rel="shortcut icon" sizes="72x72"/>
+<link href="/custom/images/logo-app/LOGO_114x114.jpg" rel="shortcut icon" sizes="114x114"/>
+<link href="/custom/images/logo-app/LOGO_128x128.jpg" rel="shortcut icon" sizes="128x128"/>
+<link href="/custom/images/logo-app/LOGO_192x192.jpg" rel="shortcut icon" sizes="192x192"/>
+<link href="/custom/images/logo-app/LOGO_57x57.jpg" rel="apple-touch-icon" sizes="57x57"/>
+<link href="/custom/images/logo-app/LOGO_72x72.jpg" rel="apple-touch-icon" sizes="72x72"/>
+<link href="/custom/images/logo-app/LOGO_114x114.jpg" rel="apple-touch-icon" sizes="114x114"/>
+<link href="/custom/images/logo-app/LOGO_128x128.jpg" rel="apple-touch-icon" sizes="128x128"/>
+<link href="/custom/images/logo-app/LOGO_144x144.jpg" rel="apple-touch-icon" sizes="144x144"/>
+<meta content="300" http-equiv="refresh">
+<link href="/swiper-4.5.0/dist/css/swiper.min.css" rel="stylesheet">
+<script src="/swiper-4.5.0/dist/js/swiper.min.js"></script>
+<script>
+        var loadsm = "";
+        var moresm = "";
+
+        /**/</script>
+</link></meta></link></link></meta></meta></meta></meta></head>
+<body lang="en">
+<div class="pwa-banner" id="ad2hs-prompt">
+<div class="pwa-banner-close"><span class="pwa-close" onclick="closePwaPrompt()"></span></div>
+<div class="pwa-banner-icon">
+<img src="/custom/images/logo-app/LOGO_192x192.jpg"/>
+</div>
+<div class="pwa-banner-clickable-area" id="installPwaOnAndroid">
+<div class="pwa-banner-text">Install the new version of PressTv application </div>
+<div class="pwa-banner-btn">
+<span class="pwa-banner-btn-link">
+<span>
+<svg viewbox="0 0 6.81 14.45" xmlns="http://www.w3.org/2000/svg"><g data-name="Layer 2"><path d="M5.81 14.45L0 6.83 5.83 0l.96.82-5.17 6.05 5.19 6.82-1 .76z" data-name="Layer 1" fill="#000"></path></g></svg>
+</span>
+</span>
+</div>
+</div>
+</div>
+<div class="menu-mobile">
+<ul>
+<li>
+<input id="openmenu" type="checkbox"/>
+<label class="menu-link" for="openmenu"><i class="icon-presstv icon-p-list"></i></label>
+<ul class="nav navbar-nav">
+<li>
+<strong>NEWS<span class="caret"></span></strong>
+<ul class="swiper-container">
+<li class="swiper-wrapper">
+<p class="swiper-slide">
+<a href="/">NEWS</a>
+<a href="/Section/102">MIDDLE EAST</a>
+<a href="/Section/104">ASIA-PACIFIC</a>
+<a href="/Section/105">AFRICA</a>
+<a href="/Section/106">EUROPE</a>
+<a href="/Section/107">AMERICAS</a>
+<a href="/Section/12001">SOCIETY</a>
+<a href="/Section/12002">ARTS</a>
+<a href="/Section/12004">BUSINESS</a>
+<a href="/Section/12005">SPORTS</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<strong>IRAN<span class="caret"></span></strong>
+<ul class="swiper-container">
+<li class="swiper-wrapper">
+<p class="swiper-slide">
+<a href="/Section/101">IRAN</a>
+<a href="/Section/10101">POLITICS</a>
+<a href="/Section/10102">ECONOMY</a>
+<a href="/Section/10103">ENERGY</a>
+<a href="/Section/10104">NUCLEAR ENERGY</a>
+<a href="/Section/10105">CULTURE</a>
+<a href="/Section/10106">DEFENSE</a>
+<a href="/Section/10107">SPORTS</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<a class="col-md-4 col-lg-3 col-sm-6" href="/Section/103">US</a>
+</li>
+<li>
+<a class="col-md-4 col-lg-3 col-sm-6" href="/Section/108">UK</a>
+</li>
+<li>
+<a class="col-md-4 col-lg-3 col-sm-6" href="/Section/130">VIDEO</a>
+</li>
+<li>
+<strong>SHOWS<span class="caret"></span></strong>
+<ul class="swiper-container">
+<li class="swiper-wrapper">
+<p class="swiper-slide">
+<a href="/Section/150">SHOWS</a>
+<a href="/Section/15034">AFRICA TODAY</a>
+<a href="/Section/15099">BAZAAR</a>
+<a href="/Section/150103">CATS AND DOGS</a>
+<a href="/Section/15008">DECISION 2020</a>
+<a href="/Section/15067">ECONOMIC DIVIDE</a>
+<a href="/Section/15031">FACE TO FACE</a>
+<a href="/Section/15071">FOOD FOR THOUGHT</a>
+<a href="/Section/15093">INSIDE ISRAEL</a>
+<a href="/Section/15015">IRAN</a>
+<a href="/Section/150100">IRAN ART GUIDE</a>
+<a href="/Section/15006">IRAN TODAY</a>
+<a href="/Section/15095">MIDEASTREAM</a>
+<a href="/Section/15070">ON THE NEWS LINE</a>
+<a href="/Section/15080">PICTURES THAT SHAKE THE WORLD</a>
+<a href="/Section/15057">THE DEBATE</a>
+<a href="/Section/150104">THE OTHER SIDE</a>
+<a href="/Section/150101">THE SUBCONTINENT</a>
+<a href="/Section/15092">TRENDING</a>
+<a href="/Section/15087">UNDER REPORTED</a>
+<a href="/Section/150102">THE COMMUNIQUÉ WITH RICHARD MEDHURST</a>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<a class="col-md-4 col-lg-3 col-sm-6" href="/doc">DOCUMENTARIES</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="wrap">
+<div class="nav-container">
+<nav class="navbar" id="topnavbar">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/"><img alt="Logo" src="/custom/images/site/LOGO.gif" style="height: 88px;"/></a>
+</div>
+<ul class="nav navbar-nav">
+<li class="nav-parent-li">
+<a class="dropdown-toggle" href="/">NEWS<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/102">MIDDLE EAST</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/104">ASIA-PACIFIC</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/105">AFRICA</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/106">EUROPE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/107">AMERICAS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/12001">SOCIETY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/12002">ARTS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/12004">BUSINESS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/12005">SPORTS</a></li>
+</ul>
+</li>
+<li class="nav-parent-li">
+<a class="dropdown-toggle" href="/Section/101">IRAN<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10101">POLITICS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10102">ECONOMY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10103">ENERGY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10104">NUCLEAR ENERGY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10105">CULTURE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10106">DEFENSE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10107">SPORTS</a></li>
+</ul>
+</li>
+<li>
+<a href="/Section/103">US</a>
+</li>
+<li>
+<a href="/Section/108">UK</a>
+</li>
+<li>
+<a href="/Section/130">VIDEO</a>
+</li>
+<li class="nav-parent-li">
+<a class="dropdown-toggle" href="/Section/150">SHOWS<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15034">AFRICA TODAY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15099">BAZAAR</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150103">CATS AND DOGS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15008">DECISION 2020</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15067">ECONOMIC DIVIDE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15031">FACE TO FACE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15071">FOOD FOR THOUGHT</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15093">INSIDE ISRAEL</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15015">IRAN</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150100">IRAN ART GUIDE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15006">IRAN TODAY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15095">MIDEASTREAM</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15070">ON THE NEWS LINE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15080">PICTURES THAT SHAKE THE WORLD</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15057">THE DEBATE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150104">THE OTHER SIDE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150101">THE SUBCONTINENT</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15092">TRENDING</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15087">UNDER REPORTED</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150102">THE COMMUNIQUÉ WITH RICHARD MEDHURST</a></li>
+</ul>
+</li>
+<li>
+<a href="/doc">DOCUMENTARIES</a>
+</li>
+</ul>
+<div class="nav-rght-main">
+<a class="nav-right-item menu-line menu-schedule-link" href="/default/Schedule"><i class="icon-presstv icon-p-calender"></i></a>
+<a class="nav-right-item menu-search-link" href="/default/search"><i class="icon-presstv icon-p-search"></i></a>
+<a class="nav-right-item search-item" href="/Live">
+<img src="/custom/images/site/live2.gif"/>
+</a>
+<a class="nav-right-item search-item" href="/Radio">
+<img src="/custom/images/site/radio.jpg"/>
+</a>
+<a class="nav-right-item menu-line menu-schedule-link" href="https://french.presstv.com" style="width:57px;font-size:15px;">French</a>
+</div>
+</div>
+</nav>
+<nav class="navbar Fixed-navbar" id="topnavbar" style="display:none;">
+<div class="container">
+<div class="navbar-header">
+<a class="navbar-brand" href="/"><img alt="Logo" src="/custom/images/site/LOGO.gif" style="height: 88px;"/></a>
+</div>
+<ul class="nav navbar-nav">
+<li class="nav-parent-li">
+<a class="dropdown-toggle" href="/">NEWS<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/102">MIDDLE EAST</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/104">ASIA-PACIFIC</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/105">AFRICA</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/106">EUROPE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/107">AMERICAS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/12001">SOCIETY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/12002">ARTS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/12004">BUSINESS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/12005">SPORTS</a></li>
+</ul>
+</li>
+<li class="nav-parent-li">
+<a class="dropdown-toggle" href="/Section/101">IRAN<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10101">POLITICS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10102">ECONOMY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10103">ENERGY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10104">NUCLEAR ENERGY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10105">CULTURE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10106">DEFENSE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/10107">SPORTS</a></li>
+</ul>
+</li>
+<li>
+<a href="/Section/103">US</a>
+</li>
+<li>
+<a href="/Section/108">UK</a>
+</li>
+<li>
+<a href="/Section/130">VIDEO</a>
+</li>
+<li class="nav-parent-li">
+<a class="dropdown-toggle" href="/Section/150">SHOWS<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15034">AFRICA TODAY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15099">BAZAAR</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150103">CATS AND DOGS</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15008">DECISION 2020</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15067">ECONOMIC DIVIDE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15031">FACE TO FACE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15071">FOOD FOR THOUGHT</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15093">INSIDE ISRAEL</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15015">IRAN</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150100">IRAN ART GUIDE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15006">IRAN TODAY</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15095">MIDEASTREAM</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15070">ON THE NEWS LINE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15080">PICTURES THAT SHAKE THE WORLD</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15057">THE DEBATE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150104">THE OTHER SIDE</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150101">THE SUBCONTINENT</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15092">TRENDING</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/15087">UNDER REPORTED</a></li>
+<li class="col-md-4 col-lg-3 col-sm-6"><a href="/Section/150102">THE COMMUNIQUÉ WITH RICHARD MEDHURST</a></li>
+</ul>
+</li>
+<li>
+<a href="/doc">DOCUMENTARIES</a>
+</li>
+</ul>
+<div class="nav-rght-main">
+<a class="nav-right-item menu-line menu-schedule-link" href="/default/Schedule"><i class="icon-presstv icon-p-calender"></i></a>
+<a class="nav-right-item menu-search-link" href="/default/search"><i class="icon-presstv icon-p-search"></i></a>
+<a class="nav-right-item search-item" href="/Live">
+<img src="/custom/images/site/live2.gif"/>
+</a>
+</div>
+</div>
+</nav>
+<a class="breaking-news" href="#" style="display:none;">
+<h4>BREAKING NEWS</h4>
+<p>#</p>
+</a>
+<div class="trending-topics-container">
+<div class="trending-topics">
+<div class="trending-sub trending-label">TRENDING TOPICS:</div>
+<div class="trending-sub trending-content">
+<a class="trending-tag" href="/Tags/1">Iran</a>
+<a class="trending-tag" href="/Tags/30">US</a>
+<a class="trending-tag" href="/Tags/44">Israel</a>
+<a class="trending-tag" href="/Tags/36">Syria</a>
+<a class="trending-tag" href="/Tags/305">Middle East</a>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="social-icon-header">
+<div class="container">
+<a class="social-link" href="https://vk.com/presstvnews" target="_blank"><i class="icon-presstv icon-p-vk"></i></a>
+<a class="social-link" href="https://urmedium.com/c/presstv" target="_blank"><i class="icon-presstv icon-p-urmedium"></i></a>
+<a class="social-link" href="https://www.facebook.com/PRESSTV?_fb_noscript=1" target="_blank"><i class="icon-presstv icon-p-facebook"></i></a>
+<a class="social-link" href="https://twitter.com/PressTV" target="_blank"><i class="icon-presstv icon-p-twiter"></i></a>
+<a class="social-link" href="https://soundcloud.com/presstv" target="_blank"><i class="icon-presstv icon-p-soundcloud"></i></a>
+<a class="social-link" href="http://instagram.com/presstvchannel" target="_blank"><i class="icon-presstv icon-p-instagram"></i></a>
+<a class="social-link" href="/RSS" target="_blank"><i class="icon-presstv icon-p-rss"></i></a>
+<a class="social-link" href="https://www.youtube.com/channel/UCTr6zdEqh4ZQJ3AeKPWWw1g?view_as=subscriber" target="_blank"><i class="icon-presstv icon-p-youtube"></i></a>
+</div>
+</div>
+<div class="body-content">
+<div class="container index-page">
+<div class="index-container">
+<div class="box-1">
+<div class="topnews-image">
+<a class="hover-effect" href="/Detail/2021/03/16/647440/Rouhani-Iran-US-mistakes-energy-ministry-">
+<img alt="a" class="topnews-image" src="https://cdn.presstv.com/Photo/2021/3/16/819040a9-353e-4cce-9a08-ff8abadea495.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">POLITICS</span>
+</div>
+<div class="topnews-title">New US administration did nothing to make up for past mistakes: Rouhani</div>
+</a>
+<a class="none-style-link hover-effect" href="/Detail/2021/03/16/647414/iran-US-talks-diplomacy">
+<div class="normal-news-title">
+ No indirect diplomacy between Iran, US: Security source tells Press TV
+                    </div>
+</a>
+<a class="none-style-link hover-effect" href="/Detail/2021/03/13/647216/Iran-United-States-nuclear-deal-sanctions-step-for-step-proposal-JCPOA-Europe-Press-TV-editorial-">
+<div class="normal-news-title">
+Press TV investigates: Birth &amp; death of 'a-step-for-a-step' proposal
+                    </div>
+</a>
+</div>
+<div class="secondnews-image">
+<a class="hover-effect" href="/Detail/2021/03/17/647470/Iran-Mohammad-Javad-Zarif-British-utter-hypocrisy-peaceful-nuclear-program">
+<img alt="Iran decries British hypocrisy, urges global eradication of nukes 	" class="secondnews-image" src="https://cdn.presstv.com/photo/20210317/0f6a882e-4c2e-4b36-af39-ffa151fa6ece.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">POLITICS</span>
+</div>
+<div class="news-title">Iran decries British hypocrisy, urges global eradication of nukes 	 </div>
+</a>
+<div class="secondnews-sub-image">
+<a class="hover-effect" href="/Detail/2021/03/16/647446/IAEA-Iran-Rafael-Grossi-JCPOA-US-E3-return-camera-agreement-opportunity">
+<img alt="IAEA: Iran’s deal partners should seize 3-month chance to revive JCPOA" class="secondnews-sub-image" src="https://cdn.presstv.com/Photo/2021/3/16/bdb9da54-a742-4bd5-b755-65bffe16bf89.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">NUCLEAR ENERGY</span>
+</div>
+<div class="news-title">IAEA: Iran’s deal partners should seize 3-month chance to revive JCPOA</div>
+</a>
+</div>
+<div class="secondnews-sub-image second">
+<a class="hover-effect" href="/Detail/2021/03/16/647447/Yemen-United-States-al-Qaeda-direct-relationship-Ali-Abdullah-Saleh">
+<img alt="Yemen sheds light on ‘direct US-Qaeda relationship under Saleh’" class="secondnews-sub-image" src="https://cdn.presstv.com/Photo/2021/3/16/e862ec68-e729-4d2e-ae3e-131334918954.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">YEMEN</span>
+</div>
+<div class="news-title">Yemen sheds light on ‘direct US-Qaeda relationship under Saleh’</div>
+</a>
+</div>
+<div class="clear"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647433/Tehran-Dialogue-Forum-2021-hosts-FMs-of-Iran,-Afghanistan,-Turkey">
+<div class="normal-news-title">
+<span !important"="" arial,="" helvetica="" helvetica,="" neue",="" sans-serif="" style="font-size: 15px;color: #1794cd;font-weight: bolder;font-family:'Roboto Condensed', ">VIDEO | </span>
+Zarif slams US meddling: No need for outsiders to decide Mideast’s future <span style="font-size: 10pt;color: gray;"></span>
+</div>
+</a>
+</div>
+<div class="sectionnews-top">
+<a class="topnews hover-effect" href="/Detail/2021/03/16/647426/coronavirus-test-kits-Iran-IRGC-rapid-Hossein-Salami-">
+<img alt="Iran’s IRGC unveils homegrown rapid test kits for coronavirus" class="sectionnews-top" src="https://cdn.presstv.com/Photo/2021/3/16/de1ac9fc-cc61-42da-a777-bc38a7475e83.jpg" video-src=""/>
+</a>
+<div class="clear"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647426/coronavirus-test-kits-Iran-IRGC-rapid-Hossein-Salami-">
+<div class="normal-news-title">
+Iran’s IRGC unveils homegrown rapid test kits for coronavirus <span style="font-size: 10pt;color: gray;"></span>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647439/UK-Integrated-Review-China-Threat-Nuclear-Warheads-Stockpile">
+<div class="normal-news-title">
+Ambitious Integrated Review identifies China as biggest threat to UK   <span style="font-size: 10pt;color: gray;"></span>
+</div>
+</a>
+<div class="view-point">
+<a class="header-panel" href="/Section/12013"><img src="/custom/images/logo-app/view-point.jpg"/></a>
+<a class="hover-effect" href="/Detail/2021/03/17/647471/Iran--will-offer-no-concession-to-Biden">
+<img alt="Iran will offer no concession to Biden’s will for giving nothing and getting many" class="sectionnews-top" src="https://cdn.presstv.com/Photo/2021/3/17/c8f0fb16-1abe-44f7-a06d-6f3280660ac5.jpg" video-src=""/>
+<h5>Iran will offer no concession to Biden’s will for giving nothing and getting many</h5>
+</a>
+</div>
+</div>
+</div>
+<div class="election-style">
+<a href="https://www.presstv.com/Section/10112">
+<img alt="FajrFestival" src="/custom/images/42 years strong.jpg">
+</img></a>
+</div>
+<div class="box-2">
+<div class="latestnews-container">
+<a class="link-no-underline" href="/Section/13013"><div class="latestnews-title">LATEST NEWS</div></a>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<a class="hover-effect" href="/Detail/2021/03/17/647470/Iran-Mohammad-Javad-Zarif-British-utter-hypocrisy-peaceful-nuclear-program">
+<div class="latest-news-title">
+Iran decries British hypocrisy, urges global eradication of nukes 	<time class="age" datetime="3/17/2021 3:09:02 AM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">1hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/17/647471/Iran--will-offer-no-concession-to-Biden">
+<div class="latest-news-title">
+Iran will offer no concession to Biden’s will for giving nothing and getting many<time class="age" datetime="3/17/2021 2:59:03 AM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">2hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/17/647469/Man-City-eliminates-Monchengladbach">
+<div class="latest-news-title">
+<span !important"="" arial,="" helvetica="" helvetica,="" neue",="" sans-serif="" style="font-size: 15px;color: #1794cd;font-weight: bolder;font-family:'Roboto Condensed', ">VIDEO | </span>
+UEFA Champions League: Man City eliminates Monchengladbach<time class="age" datetime="3/17/2021 2:46:10 AM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">2hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/17/647466/Catalonia--amnesty-bill">
+<div class="latest-news-title">
+<span !important"="" arial,="" helvetica="" helvetica,="" neue",="" sans-serif="" style="font-size: 15px;color: #1794cd;font-weight: bolder;font-family:'Roboto Condensed', ">VIDEO | </span>
+Catalonia separatists push amnesty bill through Spain's Congress<time class="age" datetime="3/17/2021 2:05:27 AM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">3hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/17/647465/UK-anti-police-protest">
+<div class="latest-news-title">
+<span !important"="" arial,="" helvetica="" helvetica,="" neue",="" sans-serif="" style="font-size: 15px;color: #1794cd;font-weight: bolder;font-family:'Roboto Condensed', ">VIDEO | </span>
+Anti-police protest staged outside British parliament<time class="age" datetime="3/17/2021 2:04:25 AM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">3hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/17/647467/Syria-SANA-Israeli-missiles-Damascus">
+<div class="latest-news-title">
+<span !important"="" arial,="" helvetica="" helvetica,="" neue",="" sans-serif="" style="font-size: 15px;color: #1794cd;font-weight: bolder;font-family:'Roboto Condensed', ">VIDEO | </span>
+Syria’s air defenses repel Israeli aggression near Damascus<time class="age" datetime="3/17/2021 2:03:18 AM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">3hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/17/647468/US-blames-Russia-for-influencing-2020-election">
+<div class="latest-news-title">
+US blames Russia for influencing 2020 election<time class="age" datetime="3/17/2021 2:00:14 AM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">3hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/17/647464/Lebanon-Hezbollah-resistance-movement-active-pivotal-role-West-Asia-region">
+<div class="latest-news-title">
+Hezbollah plays ‘pivotal’ role in resolving regional challenges: Analyst<time class="age" datetime="3/17/2021 12:33:59 AM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">4hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647463/Texas-Griddy-energy-provider-files-for-bankruptcy">
+<div class="latest-news-title">
+Texas energy provider files for bankruptcy<time class="age" datetime="3/16/2021 11:49:38 PM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">5hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647461/AstraZeneca-vaccine-safety-">
+<div class="latest-news-title">
+<span !important"="" arial,="" helvetica="" helvetica,="" neue",="" sans-serif="" style="font-size: 15px;color: #1794cd;font-weight: bolder;font-family:'Roboto Condensed', ">VIDEO | </span>
+More countries cast doubt on safety of AstraZeneca vaccine<time class="age" datetime="3/16/2021 10:42:05 PM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">6hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647459/3-dead,-1-hurt-in-small-plane-crash-in-Florida">
+<div class="latest-news-title">
+3 dead, 1 hurt in small plane crash in Florida<time class="age" datetime="3/16/2021 8:39:50 PM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">8hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647455/Libyan-government-hands-power-to-unity-team">
+<div class="latest-news-title">
+Libyan government hands power to unity team<time class="age" datetime="3/16/2021 7:15:54 PM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">9hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647456/US-American-COVID-Stimulus-Check">
+<div class="latest-news-title">
+Anxious Americans to pay debt, taxes with COVID-19 stimulus checks<time class="age" datetime="3/16/2021 7:13:06 PM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">9hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647452/UK-Former-MI6-Chief-Depicts-China-As-Generational-Threat-">
+<div class="latest-news-title">
+Former MI6 Chief depicts China as 'generational threat'<time class="age" datetime="3/16/2021 7:11:43 PM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">9hr</time>
+</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647457/Iran-energy-projects-water-electricity-fiscal-year">
+<div class="latest-news-title">
+Iran finishes $3.25bn worth of water, power projects in year to March<time class="age" datetime="3/16/2021 7:06:28 PM" style="padding-left: 8px;font-size: 10pt;color: gray;font-style: italic;">10hr</time>
+</div>
+</a>
+</div>
+</div>
+<div class="swiper-scrollbar"></div>
+</div>
+<div class="more-latest">
+<a class="link-no-underline more" href="/Section/13013">MORE</a>
+</div>
+<a class="urmedium-box hover-effect" href="https://urmedium.com/c/presstv">
+<img src="/custom/images/b3.jpg"/>
+</a>
+</div>
+<div class="editorchoice-container">
+<a class="link-no-underline" href="/Section/13006"><div class="section-title"><span>EDITOR’S CHOICE</span></div></a>
+<a class="btn-ad-3" href="https://m.soundcloud.com/presstv">
+<img src="/custom/images/soundscloud.jpg"/>
+</a>
+<div class="editorchoice-box">
+<a class="Editorchoice-big hover-effect" href="/Detail/2021/03/16/647441/Saudi-regime-to-displace-521-families,-raze-houses-in-Shia-majority-Qatif">
+<img alt="a" class="editorchoice-image" src="https://cdn.presstv.com/photo/20210316/b1dd612e-5972-432d-8b01-d6f7ebcb8fec.jpg" video-src=""/>
+<div class="news-tag-over" style="visibility:visible;">Saudi regime to displace 521 families, raze houses in Shia-majority Qatif</div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/16/647413/Jordan-police-clash-anti-lockdown-protesters">
+<div class="latest-news-title">
+<span !important"="" arial,="" helvetica="" helvetica,="" neue",="" sans-serif="" style="font-size: 15px;color: #1794cd;font-weight: bolder;font-family:'Roboto Condensed', ">VIDEO | </span>
+Police clash with anti-lockdown protesters in Jordan
+                        </div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/15/647369/Syria-Nasser-Qandil">
+<div class="latest-news-title">
+Syria survived major onslaughts in decade of foreign-backed war: Journalist tells Press TV
+                        </div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/15/647377/UK-Boris-Johnson-defends-Cressida-Dick-Sarah-Everard-Vigil">
+<div class="latest-news-title">
+Boris Johnson leaps to embattled Met commander’s defense  
+                        </div>
+</a>
+<a class="hover-effect" href="/Detail/2021/03/15/647374/Velayati-Shafiq-Dayoub-Iran-Syria-Bashar-Assad-coronavirus">
+<div class="latest-news-title">
+<span !important"="" arial,="" helvetica="" helvetica,="" neue",="" sans-serif="" style="font-size: 15px;color: #1794cd;font-weight: bolder;font-family:'Roboto Condensed', ">VIDEO | </span>
+Leader’s advisor: Syria important pillar of resistance front despite enemies’ plots
+                        </div>
+</a>
+</div>
+</div>
+<div class="newsnormalpanel pad-top-20">
+<div class="newsnormal-image">
+<a class="hover-effect" href="/Detail/2021/03/16/647418/New-GBSD-nuclear-missiles-twenty-times-as-powerful-as-Hiroshima-bomb">
+<img alt="jean-yves le drian" class="newsnormal-image" src="https://cdn.presstv.com/Photo/2021/3/16/ddd96628-72ae-490c-b619-eb2a1de16891.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">IN-DEPTH</span>
+</div>
+<div class="news-title">GBSD: more destructive, longer range, US nuclear missiles on the way</div>
+</a>
+</div>
+<div class="newsnormal-image">
+<a class="hover-effect" href="/Detail/2021/03/16/647406/Iran-deal-US-return-Biden-Israel-Patrick-Lawrence">
+<img alt="jean-yves le drian" class="newsnormal-image" src="https://cdn.presstv.com/Photo/2021/3/16/db9e8753-1717-4d43-b334-19ae7a3fee8d.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">POLITICS</span>
+</div>
+<div class="news-title">Analyst casts doubt on US willingness to return to Iran deal</div>
+</a>
+</div>
+<div class="newsnormal-image">
+<a class="hover-effect" href="/Detail/2021/03/16/647408/US">
+<img alt="jean-yves le drian" class="newsnormal-image" src="https://cdn.presstv.com/Photo/2021/3/16/f092222e-4f9f-47de-9946-329bd97cce0c.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">POLITICS</span>
+</div>
+<div class="news-title">US admits to pressuring virus-hit Brazil to reject Russian Sputnik V vaccine amid rising toll </div>
+</a>
+</div>
+</div>
+<div class="newsnormalpanel pad-top-20">
+<div class="newsnormal-image">
+<a class="hover-effect" href="/Detail/2021/03/15/647356/Syria-terrorist-attack-Damascus">
+<img alt="jean-yves le drian" class="newsnormal-image" src="https://cdn.presstv.com/Photo/2021/3/15/e35e220a-68ad-476f-8321-9d0afee354f9.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">SYRIA</span>
+</div>
+<div class="news-title">Syria foils ‘large-scale’ terrorist attack on Damascus: SANA</div>
+</a>
+</div>
+<div class="newsnormal-image">
+<a class="hover-effect" href="/Detail/2021/03/15/647342/US-Interview-Wilkerson-Syria-OPCW-">
+<img alt="jean-yves le drian" class="newsnormal-image" src="https://cdn.presstv.com/Photo/2021/3/15/db20cd58-86b2-4305-a59e-7b2c9680ed08.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">SYRIA</span>
+</div>
+<div class="news-title">'External pressure behind OPCW altering facts on Douma attack'</div>
+</a>
+</div>
+<div class="newsnormal-image">
+<a class="hover-effect" href="/Detail/2021/03/15/647345/US">
+<img alt="jean-yves le drian" class="newsnormal-image" src="https://cdn.presstv.com/Photo/2021/3/15/0b0ddf90-bb4d-44b3-a0c2-ac12f399cf24.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">POLITICS</span>
+</div>
+<div class="news-title">US military presence in Afghanistan much larger than disclosed: US media </div>
+</a>
+</div>
+</div>
+</div>
+<div class="row-container">
+<div class="section-title"><a href="/Section/10209"><span>YEMEN</span></a></div>
+</div>
+<div class="news-fullrow-panel mostWatch-part">
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/16/647447/Yemen-United-States-al-Qaeda-direct-relationship-Ali-Abdullah-Saleh">
+<img alt="Yemen sheds light on ‘direct US-Qaeda relationship under Saleh’" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/16/e862ec68-e729-4d2e-ae3e-131334918954.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">YEMEN</span>
+</div>
+<div class="news-title">Yemen sheds light on ‘direct US-Qaeda relationship under Saleh’</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/16/647403/Yemen-US-Saudi-war-siege-political-process">
+<img alt="Yemen: US must stop Saudi war, siege to set stage for political process" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210316/3f63aabf-13b7-45b6-b9c6-5f4ef2de65aa.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">YEMEN</span>
+</div>
+<div class="news-title">Yemen: US must stop Saudi war, siege to set stage for political process</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647375/Yemen-Sam-Mahdi-Torabi-Saudi-invasion-bombing">
+<img alt="Yemen’s targeting of Saudi oil industry ‘not simply a tactical decision in war’" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/15/1f9783f6-0b79-4319-9eff-dfa50a8fda75.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">YEMEN</span>
+</div>
+<div class="news-title">Yemen’s targeting of Saudi oil industry ‘not simply a tactical decision in war’</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647357/American-proposal-has-nothing-new-in-it,-serves-Washington-interests-Top-Yemeni-official">
+<img alt="Yemen official: US proposal offers nothing new, only serves its own interests" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/15/4ab64f76-434d-4fd8-9a1d-a0ca2e3f4c7e.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">YEMEN</span>
+</div>
+<div class="news-title">Yemen official: US proposal offers nothing new, only serves its own interests</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647360/80--of-Yemeni-city-of-Ma’rib-is-liberated">
+<img alt="Yemeni forces liberate 80% of city of Ma’rib " class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210315/cafe70b3-4a77-42a5-ba5a-224a69899bd8.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210315/abw_sanaa.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> YEMEN</span>
+</div>
+<div class="news-title">Yemeni forces liberate 80% of city of Ma’rib </div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="row-container">
+<div class="section-title"><a href="/Section/122"><span>IN-DEPTH</span></a></div>
+</div>
+<div class="news-fullrow-panel mostWatch-part">
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/16/647418/New-GBSD-nuclear-missiles-twenty-times-as-powerful-as-Hiroshima-bomb">
+<img alt="GBSD: more destructive, longer range, US nuclear missiles on the way" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/16/ddd96628-72ae-490c-b619-eb2a1de16891.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">IN-DEPTH</span>
+</div>
+<div class="news-title">GBSD: more destructive, longer range, US nuclear missiles on the way</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647337/JCPOA-misconceptions-hypocrisy-and-deception">
+<img alt="Restarting JCPOA, misconceptions and deception" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/15/00bcf1b4-7f34-4cdc-92a3-4ae5ca5c4c0c.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">IN-DEPTH</span>
+</div>
+<div class="news-title">Restarting JCPOA, misconceptions and deception</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/14/647276/UNHRC-fails-to-protect-human-rights">
+<img alt="UNHRC fails to protect human rights" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/14/deb06e56-567f-4629-8f8b-9a655485acfb.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">IN-DEPTH</span>
+</div>
+<div class="news-title">UNHRC fails to protect human rights</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/11/647107/Sheikh-Tahnoon-bin-Zayed-al-Nahyan-second-man-in-UAE-wields-power-from-the-shadows">
+<img alt="Sheikh Tahnoon: second most influential man in UAE" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/11/936de1fa-0bd9-4b79-aa02-f19282db709a.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">IN-DEPTH</span>
+</div>
+<div class="news-title">Sheikh Tahnoon: second most influential man in UAE</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/10/646978/Hypocritical-FCO-sought-to-spread-anti-Russian-propaganda">
+<img alt="FCO recruited media outlets to spread anti Russian propaganda " class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/10/655d6ed7-f5c4-49f5-8acc-f7fc66f629ab.jpg" video-src=""/>
+<div class="news-tag-over">
+<span class="tags">IN-DEPTH</span>
+</div>
+<div class="news-title">FCO recruited media outlets to spread anti Russian propaganda </div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="row-container">
+<div class="section-title"><span>MOST READ</span></div>
+</div>
+<div class="news-fullrow-panel">
+<div class="newsnormal mostread-section">
+<div class="largindex">1</div>
+<div class="news-content">
+<div class="tags"><a class="hover-effect" href="/Section/101" target="_blank"><span class="tags">POLITICS</span></a></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647414/iran-US-talks-diplomacy">
+<div class="title">
+                            No indirect diplomacy between Iran, US: Security source tells Press TV
+                        </div>
+</a>
+</div>
+</div>
+<div class="newsnormal mostread-section">
+<div class="largindex">2</div>
+<div class="news-content">
+<div class="tags"><a class="hover-effect" href="/Section/101" target="_blank"><span class="tags">YEMEN</span></a></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647375/Yemen-Sam-Mahdi-Torabi-Saudi-invasion-bombing">
+<div class="title">
+                            Yemen’s targeting of Saudi oil industry ‘not simply a tactical decision in war’
+                        </div>
+</a>
+</div>
+</div>
+<div class="newsnormal mostread-section">
+<div class="largindex">3</div>
+<div class="news-content">
+<div class="tags"><a class="hover-effect" href="/Section/101" target="_blank"><span class="tags">SAUDI ARABIA</span></a></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647351/US-is-world’s-top-weapons-supplier,-Saudi-Arabia-top-importer,-SIPRI-report-says">
+<div class="title">
+                            Report: Saudi Arabia world's largest arms importer, US biggest exporter
+                        </div>
+</a>
+</div>
+</div>
+<div class="newsnormal mostread-section">
+<div class="largindex">4</div>
+<div class="news-content">
+<div class="tags"><a class="hover-effect" href="/Section/101" target="_blank"><span class="tags">SYRIA</span></a></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647356/Syria-terrorist-attack-Damascus">
+<div class="title">
+                            Syria foils ‘large-scale’ terrorist attack on Damascus: SANA
+                        </div>
+</a>
+</div>
+</div>
+<div class="newsnormal mostread-section">
+<div class="largindex">5</div>
+<div class="news-content">
+<div class="tags"><a class="hover-effect" href="/Section/101" target="_blank"><span class="tags">PALESTINE</span></a></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647410/Israel-will-be-hit-by-2,000-missiles-a-day-in-future-war-with-Hezbollah--General">
+<div class="title">
+                            Israel: Hezbollah can fire 2,000 missiles per day in future war
+                        </div>
+</a>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="row-container">
+<div class="section-title"><a href="/Section/12005"><span>SPORTS</span></a></div>
+</div>
+<div class="news-fullrow-panel mostWatch-part">
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/17/647469/Man-City-eliminates-Monchengladbach">
+<img alt="UEFA Champions League: Man City eliminates Monchengladbach" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210317/52a0fc6c-49e6-4b95-a03f-27e3a52e6c7d.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210317/city_win.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> SPORTS</span>
+</div>
+<div class="news-title">UEFA Champions League: Man City eliminates Monchengladbach</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/16/647395/Spanish-La-Liga--Messi-scores-twice-as-Barcelona-top-Huesca-4-1">
+<img alt="Messi scores twice as Barcelona top Huesca 4-1" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210316/4c9ac4d6-613a-431c-81e2-a4c523ed7f2f.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210316/sport_football.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> SPORTS</span>
+</div>
+<div class="news-title">Messi scores twice as Barcelona top Huesca 4-1</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647363/NBA--Sixers-crush-Spurs-134-99-in-Philadelphia">
+<img alt="NBA: Sixers crush Spurs 134-99 in Philadelphia" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210315/95ce79f4-f2da-4ad8-b69e-3b1a0e6ed236.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210315/sport_nba.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> SPORTS</span>
+</div>
+<div class="news-title">NBA: Sixers crush Spurs 134-99 in Philadelphia</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647324/Serie-A-Inter-Milan-Torino">
+<img alt="Serie A: Inter Milan 2-1 Torino" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210315/89e9519e-f5c7-4a63-8d02-00fce50b0a3b.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210315/sport.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> SPORTS</span>
+</div>
+<div class="news-title">Serie A: Inter Milan 2-1 Torino</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/14/647257/English-Premier-League-Fulham-Manchester-City-">
+<img alt="English Premier League: Fulham 0-3 Manchester City " class="newsnormal-image lazy" data-src="https://cdn.presstv.com/Photo/2021/3/14/aab1fca9-d3a3-4ee0-8e94-891997bdc17f.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//iran/20210314/sport_mancity.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> SPORTS</span>
+</div>
+<div class="news-title">English Premier League: Fulham 0-3 Manchester City </div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="news-fullrow-panel video-panel">
+<ul class="titles nav nav-tabs">
+<li>
+<a class="active show" data-toggle="tab" href="#reprotcontent">REPORTS</a>
+</li>
+<li>
+<a class="" data-toggle="tab" href="#interviewcontent">INTERVIEWS</a>
+</li>
+<li>
+<a class="" data-toggle="tab" href="#showcontent">SHOWS</a>
+</li>
+<li>
+<a class="" data-toggle="tab" href="#headlinecontent">INFO CLIPS</a>
+</li>
+<li>
+<a class="" data-toggle="tab" href="#bulletencontent">NEWS BULLETIN</a>
+</li>
+</ul>
+<div class="tab-content">
+<div class="active show tab-pane fade" id="reprotcontent">
+<div class="topvideo">
+<div class="demo-layout-content">
+<div class="player-container">
+<div class="player-position">
+<div id="player-report">
+</div>
+<div style="position:relative;">
+<div id="player-report-w" style="width:100%; height:0; padding:0 0 56.5% 0"> </div>
+<div id="loading" style="position:absolute;right:0; left:1px; width:100%; text-align:center; bottom:45%; color:white; z-index:200000;font-size:1.5rem"></div>
+</div>
+</div>
+</div>
+</div>
+<a class="hover-effect" href="/Detail/2021/03/17/647466/Catalonia--amnesty-bill">
+<div class="video-title">Catalonia separatists push amnesty bill through Spain's Congress</div>
+</a>
+</div>
+<div class="listvideo-container">
+<div class="listvideo-title"><img alt="" src="/custom/images/pin.png"/>   <span>FEATURED VIDEOS</span></div>
+<a class="more-style" href="/section/13001">More</a>
+<div class="listvideo">
+<a class="hover-effect" href="/Detail/2021/03/17/647466/Catalonia--amnesty-bill">
+<div class="featuredvideo-item">
+<img alt="Catalonia separatists push amnesty bill through Spain's Congress" class="lazy" data-src="https://cdn.presstv.com/photo/20210317/8c705f29-c386-4648-8d19-810aa96b4c84.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210317/kdr_amnisty_push.smil/playlist.m3u8">
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">Catalonia separatists push amnesty bill through Spain's Congress</div>
+</div>
+<div class="clear"></div>
+</img></div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647461/AstraZeneca-vaccine-safety-">
+<div class="featuredvideo-item">
+<img alt="More countries cast doubt on safety of AstraZeneca vaccine" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/e25d90d2-3bbf-4e3c-aedc-1457c5921ff1.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/spr_astrazeneca.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">More countries cast doubt on safety of AstraZeneca vaccine</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647454/Afghans-get-ready-to-mark-ancient-Nowruz-festival">
+<div class="featuredvideo-item">
+<img alt="Afghans get ready to mark ancient Nowruz festival" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/03f97cb8-87f5-4472-bb71-cca36e1fd281.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/kabul_aal.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">Afghans get ready to mark ancient Nowruz festival</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647433/Tehran-Dialogue-Forum-2021-hosts-FMs-of-Iran,-Afghanistan,-Turkey">
+<div class="featuredvideo-item">
+<img alt="Zarif slams US meddling: No need for outsiders to decide Mideast’s future" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/ffa8085d-5461-49d7-a266-aa6f354d4ff4.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/tehran_yj.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">Zarif slams US meddling: No need for outsiders to decide Mideast’s future</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647435/New-Iranian-made-Covid-19-vaccine-unveiled-in-Tehran">
+<div class="featuredvideo-item">
+<img alt="New Iranian-made COVID-19 vaccine unveiled in Tehran" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/8bfc42d0-3d3b-4bab-abab-12827ca90d01.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/tehran_sk.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">New Iranian-made COVID-19 vaccine unveiled in Tehran</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647393/Ambassadors-celebrate-Nowruz-at-Iran’s-Foreign-Ministry">
+<div class="featuredvideo-item">
+<img alt="Ambassadors celebrate Nowruz at Iran’s Foreign Ministry" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/f1d7b91c-db99-487a-aeb5-520ea8001d30.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/hab_tehran.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">Ambassadors celebrate Nowruz at Iran’s Foreign Ministry</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647392/UK-parliament-debates-govt--bill-that-clamps-down-on-protests">
+<div class="featuredvideo-item">
+<img alt="UK parliament debates bill that clamps down on protests" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/a64afa53-9961-4910-b161-11d0874924b3.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/spr_london.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">UK parliament debates bill that clamps down on protests</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647391/AIHRC--Civilian-casualties-on-rise-amid-hope-on-peace-process">
+<div class="featuredvideo-item">
+<img alt="Civilian casualties on rise as Afghan peace process ongoing" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/e3a45f2c-ac8d-43d8-9b1d-f36b7bd9ac5f.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/aal_kabul.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">Civilian casualties on rise as Afghan peace process ongoing</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647388/Registration-for-City-Council-vote-underway-in-Iran">
+<div class="featuredvideo-item">
+<img alt="Registration for City Council vote underway in Iran" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/29d2b809-75de-451b-b720-2ef2204b672d.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210315/ysj_tehran_02.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">Registration for City Council vote underway in Iran</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647359/COVIRAN-vaccine-starts-efficacy-tests-after-proving-safe">
+<div class="featuredvideo-item">
+<img alt="COVIRAN vaccine starts efficacy tests after proving safe" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/91830b29-bf69-4742-9109-8eee563bd5b5.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210315/ysj_tehran.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Reports</div>
+<div class="featuredvideo-title">COVIRAN vaccine starts efficacy tests after proving safe</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="tab-pane fade" id="interviewcontent">
+<div class="topvideo">
+<div class="demo-layout-content">
+<div class="player-container">
+<div class="player-position">
+<div id="player-interview">
+</div>
+<div style="position:relative;">
+<div id="player-interview-w" style="width:100%; height:0; padding:0 0 56.5% 0"></div>
+<div id="loading" style="position:absolute;right:0; left:1px; width:100%; text-align:center; bottom:45%; color:white; z-index:200000;font-size:1.5rem"></div>
+</div>
+</div>
+</div>
+</div>
+<a href="/Detail/2021/03/09/646903/Trial-of-Sheikh-Zakzaky-in-Nigeria-mockery-of-justice--Activist">
+<div class="video-title">Trial of Sheikh Zakzaky in Nigeria mockery of justice: Activist</div>
+</a>
+</div>
+<div class="listvideo-container">
+<div class="listvideo-title"><img alt="" src="/custom/images/pin.png"/>   <span>FEATURED VIDEOS</span></div>
+<a class="more-style" href="/section/13002">MORE</a>
+<div class="listvideo">
+<a class="hover-effect" href="/Detail/2021/03/09/646903/Trial-of-Sheikh-Zakzaky-in-Nigeria-mockery-of-justice--Activist">
+<div class="featuredvideo-item">
+<img alt="Trial of Sheikh Zakzaky in Nigeria mockery of justice: Activist" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/9/4e03f9aa-126f-4341-b485-891a3f83c161.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210309/interview_massoud_shadjareh_full.smil/playlist.m3u8">
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Interviews</div>
+<div class="featuredvideo-title">Trial of Sheikh Zakzaky in Nigeria mockery of justice: Activist</div>
+</div>
+<div class="clear"></div>
+</img></div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/01/646312/US-Lucrative-Ties-Kingdom">
+<div class="featuredvideo-item">
+<img alt="'US wants to keep lucrative ties with Saudi Kingdom'" class="lazy" data-src="https://cdn.presstv.com/photo/20210301/65053a06-a017-4bda-876f-e8188b42bdb7.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210301/interview.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Interviews</div>
+<div class="featuredvideo-title">'US wants to keep lucrative ties with Saudi Kingdom'</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/02/27/646159/Little-action-taken-stop-Israeli-crime">
+<div class="featuredvideo-item">
+<img alt="Little action taken to stop Israeli crimes: Commentator" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/2/27/770036b9-8077-4b26-9ce8-97c50ff04f98.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210227/interview_paul_larudee_full.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Interviews</div>
+<div class="featuredvideo-title">Little action taken to stop Israeli crimes: Commentator</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/02/20/645658/Biden-admin--in-footstep-predecessor">
+<div class="featuredvideo-item">
+<img alt="Biden follows in Trump's footsteps on Iran: Analyst " class="lazy" data-src="https://cdn.presstv.com/Photo/2021/2/20/b7926237-feeb-4c1b-bc2a-bf8ae62f17b8.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210220/interview_tohid_asadi_full.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Interviews</div>
+<div class="featuredvideo-title">Biden follows in Trump's footsteps on Iran: Analyst </div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/02/20/645652/Modi-government-discriminating-against-Muslims">
+<div class="featuredvideo-item">
+<img alt="Modi government discriminating against Muslims: Analyst" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/2/20/12539da6-4de8-430d-86d3-66bfd854c6dd.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210220/interview_kevin_barrett_full.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Interviews</div>
+<div class="featuredvideo-title">Modi government discriminating against Muslims: Analyst</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/02/13/645162/US-unlikely-soften-Venezuela-sanctions-regime">
+<div class="featuredvideo-item">
+<img alt="'US unlikely to soften Venezuela’s sanctions regime'" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/2/13/7a37cd15-6d00-4ec6-adc4-e251f17bab01.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210213/interview_david_barkin_full.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Foreign Policy</div>
+<div class="featuredvideo-title">'US unlikely to soften Venezuela’s sanctions regime'</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/02/13/645161/Ending-war-Yemen-Western-propaganda">
+<div class="featuredvideo-item">
+<img alt="Ending war on Yemen Western propaganda: Commentator" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/2/13/eba4a811-2671-43b6-a87b-d32c53b5a1ef.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210213/interview_firas_alnajim_full.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Interviews</div>
+<div class="featuredvideo-title">Ending war on Yemen Western propaganda: Commentator</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/02/12/645083/US-Israel-Middle-East-wars-military-spending-">
+<div class="featuredvideo-item">
+<img alt="US is a ‘state of war’: Bush-era official " class="lazy" data-src="https://cdn.presstv.com/Photo/2021/2/12/20c8a9b4-4e83-4bce-ba3a-feed5bc69453.jpg" video-src=""/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Interviews</div>
+<div class="featuredvideo-title">US is a ‘state of war’: Bush-era official </div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/02/09/644916/WHO-findings-rebuffed-anti-China-conspiracy-theory--Analyst">
+<div class="featuredvideo-item">
+<img alt="WHO findings rebuffed anti-China conspiracy theory: Analyst" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/2/9/32b74b08-f30f-47af-9bb4-32aab30a385f.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210209/interview_qinduo_xu_full.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Interviews</div>
+<div class="featuredvideo-title">WHO findings rebuffed anti-China conspiracy theory: Analyst</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/02/09/644884/Islamic-Revolution-turned-Iran-into-democracy--American-professor">
+<div class="featuredvideo-item">
+<img alt="Islamic Revolution turned Iran into democracy: American professor" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/2/9/8c391256-2b13-48b5-868b-6546248dffb7.jpg" video-src=""/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Politics</div>
+<div class="featuredvideo-title">Islamic Revolution turned Iran into democracy: American professor</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="tab-pane fade" id="bulletencontent">
+<div class="topvideo">
+<div class="demo-layout-content">
+<div class="player-container">
+<div class="player-position">
+<div id="player-bulleten">
+</div>
+<div style="position:relative;">
+<div id="player-bulleten-w" style="width:100%; height:0; padding:0 0 56.5% 0"></div>
+<div id="loading" style="position:absolute;right:0; left:1px; width:100%; text-align:center; bottom:45%; color:white; z-index:200000;font-size:1.5rem"></div>
+</div>
+</div>
+</div>
+</div>
+<a href="/Detail/2021/03/17/647465/UK-anti-police-protest">
+<div class="video-title">Anti-police protest staged outside British parliament</div>
+</a>
+</div>
+<div class="listvideo-container">
+<div class="listvideo-title"><img alt="" src="/custom/images/pin.png"/>   <span>FEATURED VIDEOS</span></div>
+<a class="more-style" href="/section/13012">MORE</a>
+<div class="listvideo">
+<a class="hover-effect" href="/Detail/2021/03/17/647465/UK-anti-police-protest">
+<div class="featuredvideo-item">
+<img alt="Anti-police protest staged outside British parliament" class="lazy" data-src="https://cdn.presstv.com/photo/20210317/439effbe-eb56-4a60-a9e4-e8306f2195a0.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210317/london_kill_bill_protest.smil/playlist.m3u8">
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Society</div>
+<div class="featuredvideo-title">Anti-police protest staged outside British parliament</div>
+</div>
+<div class="clear"></div>
+</img></div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647462/Chahar-Shanbeh-Suri-Fire-festival">
+<div class="featuredvideo-item">
+<img alt="Press TV The Lite Bulletin" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/c63f279e-4039-4ab5-ab5e-88b9ed7a7154.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210317/the_lite.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">News Bulletin</div>
+<div class="featuredvideo-title">Press TV The Lite Bulletin</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647394/Uganda-opposition-leader-arrested-in-anti-Museveni-protest">
+<div class="featuredvideo-item">
+<img alt="Uganda opposition leader arrested" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/371db1ef-37db-4bb0-a59d-15a20fcf8b32.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210316/uganda.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">More</div>
+<div class="featuredvideo-title">Uganda opposition leader arrested</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647362/Russian--Factory-designing-faces-for-humanoid-robots">
+<div class="featuredvideo-item">
+<img alt="Russian: Factory designing faces for humanoid robots" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/c76501a8-4789-4924-99fe-ce2fe525c127.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210315/russian_factory.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">News Bulletin</div>
+<div class="featuredvideo-title">Russian: Factory designing faces for humanoid robots</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647334/Beijing-Hazardous-Yellow-Smog">
+<div class="featuredvideo-item">
+<img alt="Beijing smothered by hazardous yellow smog" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/09fb5aeb-ddf1-409b-9fcf-fac9956d8926.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210315/beijing.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">China</div>
+<div class="featuredvideo-title">Beijing smothered by hazardous yellow smog</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/14/647297/Protest-Myanmar-Yangon-tear-gas-shooting-">
+<div class="featuredvideo-item">
+<img alt="Myanmar protesters defiant as security forces open fire" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/14/007da88c-4976-44d7-a873-b8cefad00258.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210314/myanmar.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">More</div>
+<div class="featuredvideo-title">Myanmar protesters defiant as security forces open fire</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/14/647287/Russia-Maslenitsa-festival-winter-Moscow-">
+<div class="featuredvideo-item">
+<img alt="Russians wave winter goodbye at Maslenitsa festival" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/14/22ad660f-3363-4c08-9ff9-90bb2f456968.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210314/festival.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">News Bulletin</div>
+<div class="featuredvideo-title">Russians wave winter goodbye at Maslenitsa festival</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/14/647248/Several-detained-at-vigil-for-woman-murdered-in-London">
+<div class="featuredvideo-item">
+<img alt="Several detained at vigil for woman murdered in London" class="lazy" data-src="https://cdn.presstv.com/photo/20210314/4017219e-cdaa-4e8f-93ed-2ba65073ac7e.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210314/london.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Society</div>
+<div class="featuredvideo-title">Several detained at vigil for woman murdered in London</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/13/647206/Memorial-Christchurch-Mosque-Shootings">
+<div class="featuredvideo-item">
+<img alt="Memorial marks two years since NZ mosque carnage " class="lazy" data-src="https://cdn.presstv.com/photo/20210313/62fd5e29-ff5f-48cd-a045-bbd589213532.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210313/new_zealand.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">More</div>
+<div class="featuredvideo-title">Memorial marks two years since NZ mosque carnage </div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/13/647195/Nurse-Elderly-Woman-Empty-Syringe-Colombia-Covid-19-Vaccine-Clinic">
+<div class="featuredvideo-item">
+<img alt="Clinic gives elderly woman empty shot of COVID-19 vaccine " class="lazy" data-src="https://cdn.presstv.com/photo/20210313/0a7567cd-4bcd-488e-81b6-3df5c7a4923f.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210313/colombia.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Colombia</div>
+<div class="featuredvideo-title">Clinic gives elderly woman empty shot of COVID-19 vaccine </div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="tab-pane fade" id="showcontent">
+<div class="topvideo">
+<div class="demo-layout-content">
+<div class="player-container">
+<div class="player-position">
+<div id="player-showcontent">
+</div>
+<div style="position:relative;">
+<div id="player-showcontent-w" style="width:100%; height:0; padding:0 0 56.5% 0"></div>
+<div id="loading" style="position:absolute;right:0; left:1px; width:100%; text-align:center; bottom:45%; color:white; z-index:200000;font-size:1.5rem"></div>
+</div>
+</div>
+</div>
+</div>
+<a href="/Detail/2021/03/16/647460/U.S.-FOREIGN-INTERVENTIONS">
+<div class="video-title">US foreign interventions</div>
+</a>
+</div>
+<div class="listvideo-container">
+<div class="listvideo-title"><img alt="" src="/custom/images/pin.png"/>   <span>FEATURED VIDEOS</span></div>
+<a class="more-style" href="/section/150">MORE</a>
+<div class="listvideo">
+<a class="hover-effect" href="/Detail/2021/03/16/647460/U.S.-FOREIGN-INTERVENTIONS">
+<div class="featuredvideo-item">
+<img alt="US foreign interventions" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/ae203640-9467-4063-a3cd-7cb0996b5790.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210316/The-Debate16032021.smil/playlist.m3u8">
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">The Debate</div>
+<div class="featuredvideo-title">US foreign interventions</div>
+</div>
+<div class="clear"></div>
+</img></div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647443/A-DECADE-OF-SYRIAN-PAIN">
+<div class="featuredvideo-item">
+<img alt="A decade of Syrian pain" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/b08b37ec-d0a2-40aa-bcd8-39d36140c312.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210316/MDS16032021Ep98.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Mideastream</div>
+<div class="featuredvideo-title">A decade of Syrian pain</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647424/Battle-against-Coronavirus">
+<div class="featuredvideo-item">
+<img alt="Battle against Coronavirus" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/16/2271786a-2147-4d6d-86ff-9ea1d88cca7a.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210316/IRT16032021-ep908-25min.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Iran Today</div>
+<div class="featuredvideo-title">Battle against Coronavirus</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/16/647398/WAR-ON-SYRIA">
+<div class="featuredvideo-item">
+<img alt="War on Syria" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/8dd56420-6c38-44df-a89b-cbafb0b7e227.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210315/The-Debate-15032021.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">The Debate</div>
+<div class="featuredvideo-title">War on Syria</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647368/US-nuclear-bomb-upgrades">
+<div class="featuredvideo-item">
+<img alt="US nuclear bomb upgrades" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/78e194d8-be31-4aea-aa37-e975a9677796.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210315/WEB-1755.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">On The News Line</div>
+<div class="featuredvideo-title">US nuclear bomb upgrades</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647367/IranNuclearDeal">
+<div class="featuredvideo-item">
+<img alt="Iran nuclear deal" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/64b8b263-77cd-4c2f-9c71-deb56490995c.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210315/13N704-TRD-M-EP88.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Trending</div>
+<div class="featuredvideo-title">Iran nuclear deal</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647364/Coalition-of-sanction-rejection">
+<div class="featuredvideo-item">
+<img alt="Coalition of sanction rejection" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/55999868-8200-44dd-acff-63d594fc251c.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210315/WEB-1756.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">On The News Line</div>
+<div class="featuredvideo-title">Coalition of sanction rejection</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647319/Why’s-Britain-Colonizing-Chagos?">
+<div class="featuredvideo-item">
+<img alt="Why’s Britain colonizing Chagos?" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/84e14b78-60c5-4f1d-b0ff-8a0bb2acc436.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210315/AFT---EP---599---New.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">Africa Today</div>
+<div class="featuredvideo-title">Why’s Britain colonizing Chagos?</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/15/647318/Syria,-Venezuela-Sanctions">
+<div class="featuredvideo-item">
+<img alt="Syria, Venezuela sanctions" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/fa146a9e-70b4-44af-bec1-e5773331d467.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210315/the_communique.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">The Communiqué with Richard Medhurst</div>
+<div class="featuredvideo-title">Syria, Venezuela sanctions</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/14/647312/U.S-Anti-Racist-Protests">
+<div class="featuredvideo-item">
+<img alt="US anti-racist protests" class="lazy" data-src="https://cdn.presstv.com/photo/20210315/dea58246-d5f9-4ab7-9b7a-b9a1e10e4ebd.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//program/20210314/The-Debate14032021.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">The Debate</div>
+<div class="featuredvideo-title">US anti-racist protests</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<div class="featuredvideo-divider"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="tab-pane fade" id="headlinecontent">
+<div class="topvideo">
+<div class="demo-layout-content">
+<div class="player-container">
+<div class="player-position">
+<div id="player-headline">
+</div>
+<div style="position:relative;">
+<div id="player-headline-w" style="width:100%; height:0; padding:0 0 56.5% 0"></div>
+<div id="loading" style="position:absolute;right:0; left:1px; width:100%; text-align:center; bottom:45%; color:white; z-index:200000;font-size:1.5rem"></div>
+</div>
+</div>
+</div>
+</div>
+<a href="/Detail/2021/03/16/647396/IRGC-s-naval-force-unveils-new-missile-site">
+<div class="video-title">IRGC's naval force unveils new missile site</div>
+</a>
+</div>
+<div class="listvideo-container">
+<div class="listvideo-title"><img alt="" src="/custom/images/pin.png"/>   <span>FEATURED VIDEOS</span></div>
+<a class="more-style" href="/section/12009">MORE</a>
+<div class="listvideo">
+<a class="hover-effect" href="/Detail/2021/03/16/647396/IRGC-s-naval-force-unveils-new-missile-site">
+<div class="featuredvideo-item">
+<img alt="IRGC's naval force unveils new missile site" class="lazy" data-src="https://cdn.presstv.com/photo/20210316/aaf8e40e-823c-42e0-a2e1-76791baeac6e.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//iran/20210316/irgc.smil/playlist.m3u8">
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">IRGC's naval force unveils new missile site</div>
+</div>
+<div class="clear"></div>
+</img></div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/14/647300/JCPOA-revival-US-sanctions-Iran-">
+<div class="featuredvideo-item">
+<img alt="Iran dismisses ‘a-step-for-a-step’ proposal for JCPOA revival " class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/14/8f46aade-f780-4b7f-80bc-7494dbe4dc5d.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210314/iran_jcpoa_tv.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">Iran dismisses ‘a-step-for-a-step’ proposal for JCPOA revival </div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/13/647237/Iran-cargo-ship-terrorist-attack-Israel-">
+<div class="featuredvideo-item">
+<img alt="Iran cargo ship targeted by  'terrorist attack'" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/13/ee77fc60-17dc-446d-a69d-06c36865caa8.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210313/iran_ship_tv_new.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">Iran cargo ship targeted by  'terrorist attack'</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/13/647191/Yemenis-Domestic-Military-Hardware">
+<div class="featuredvideo-item">
+<img alt="Besieged Yemenis unveil domestic military hardware" class="lazy" data-src="https://cdn.presstv.com/photo/20210313/604f189a-9dac-4bd2-b364-7428e041cebb.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210313/infoclip_firday.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">Besieged Yemenis unveil domestic military hardware</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/11/647087/US-Allies-326,000-Bombs-">
+<div class="featuredvideo-item">
+<img alt="US, allies dropped 326,000 bombs on countries since 2001" class="lazy" data-src="https://cdn.presstv.com/photo/20210311/2efc73a8-9e0b-42ae-a390-3a4c74ba3f2b.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//iran/20210311/infoclip_march_9th.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">US, allies dropped 326,000 bombs on countries since 2001</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/11/647071/President-Rouhani-Boris-Johnson-Washington-sanctions-">
+<div class="featuredvideo-item">
+<img alt="President Rouhani to Johnson: No negotiations until Washington lifts all sanctions" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/11/0be8a5ca-74ec-4246-8a68-8664bc02fe16.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//iran/20210311/rouhani.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">President Rouhani to Johnson: No negotiations until Washington lifts all sanctions</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/10/647019/Iran-Dismisses-Step-for-step-Nuclear-Deal-Revival-">
+<div class="featuredvideo-item">
+<img alt="Iran dismisses step-for-step nuclear deal revival " class="lazy" data-src="https://cdn.presstv.com/photo/20210310/5c6ecc6d-f6ee-463a-9a35-37f9e84668cf.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//iran/20210310/infoclip.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">Iran dismisses step-for-step nuclear deal revival </div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/09/646923/Najaf-grateful-Pope-is-welcomed-Iraq-top-Shia-cleric">
+<div class="featuredvideo-item">
+<img alt="In Najaf, a grateful Pope is welcomed by Iraq’s top Shia cleric" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/9/6dacbdb2-b4a5-44ae-ac4d-9b5f08266423.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210309/infoclip_najaf_pope.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">In Najaf, a grateful Pope is welcomed by Iraq’s top Shia cleric</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/07/646775/Syria-war-children-victim-Humanitarian-aid-">
+<div class="featuredvideo-item">
+<img alt="Syrian children, main victims of decade-long conflict  " class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/7/a3b486c0-5346-4ebe-808b-9733600755eb.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210307/syria_tv.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">Syrian children, main victims of decade-long conflict  </div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+<a class="hover-effect" href="/Detail/2021/03/06/646703/Iran-Israel-ship-incident-UN-ambassador-">
+<div class="featuredvideo-item">
+<img alt="Iran warns Israel of any miscalculation regarding ship incident" class="lazy" data-src="https://cdn.presstv.com/Photo/2021/3/6/2a624433-9226-475b-9c5c-627e92f2759c.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210306/iran_tv.smil/playlist.m3u8"/>
+<div class="featuredvideo-text">
+<div class="featuredvideo-tag">InfoClips</div>
+<div class="featuredvideo-title">Iran warns Israel of any miscalculation regarding ship incident</div>
+</div>
+<div class="clear"></div>
+</div>
+</a>
+<div class="featuredvideo-divider"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="row-container">
+<div class="section-title"><span>MOST WATCHED</span></div>
+</div>
+<div class="news-fullrow-panel mostWatch-part">
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647360/80--of-Yemeni-city-of-Ma’rib-is-liberated">
+<img alt="Yemeni forces liberate 80% of city of Ma’rib " class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210315/cafe70b3-4a77-42a5-ba5a-224a69899bd8.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210315/abw_sanaa.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> YEMEN</span>
+</div>
+<div class="news-title">Yemeni forces liberate 80% of city of Ma’rib </div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/16/647433/Tehran-Dialogue-Forum-2021-hosts-FMs-of-Iran,-Afghanistan,-Turkey">
+<img alt="Zarif slams US meddling: No need for outsiders to decide Mideast’s future" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210316/ffa8085d-5461-49d7-a266-aa6f354d4ff4.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/tehran_yj.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> POLITICS</span>
+</div>
+<div class="news-title">Zarif slams US meddling: No need for outsiders to decide Mideast’s future</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647362/Russian--Factory-designing-faces-for-humanoid-robots">
+<img alt="Russian: Factory designing faces for humanoid robots" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210315/c76501a8-4789-4924-99fe-ce2fe525c127.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210315/russian_factory.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> NEWS BULLETIN</span>
+</div>
+<div class="news-title">Russian: Factory designing faces for humanoid robots</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/16/647393/Ambassadors-celebrate-Nowruz-at-Iran’s-Foreign-Ministry">
+<img alt="Ambassadors celebrate Nowruz at Iran’s Foreign Ministry" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210316/f1d7b91c-db99-487a-aeb5-520ea8001d30.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210316/hab_tehran.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> REPORTS</span>
+</div>
+<div class="news-title">Ambassadors celebrate Nowruz at Iran’s Foreign Ministry</div>
+</a>
+</div>
+<div class="newsnormal-image first-row-seleted-section">
+<a class="hover-effect" href="/Detail/2021/03/15/647334/Beijing-Hazardous-Yellow-Smog">
+<img alt="Beijing smothered by hazardous yellow smog" class="newsnormal-image lazy" data-src="https://cdn.presstv.com/photo/20210315/09fb5aeb-ddf1-409b-9fcf-fac9956d8926.jpg" video-src="https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210315/beijing.smil/playlist.m3u8"/>
+<div class="news-tag-over">
+<span class="tags"><i class="glyphicon glyphicon-play"></i> CHINA</span>
+</div>
+<div class="news-title">Beijing smothered by hazardous yellow smog</div>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<a class="adv-4" href="https://channelstore.roku.com/en-gb/details/591419/presstv-news">
+<img alt="Press TV News Roku" src="/custom/images/LOGO-NEW1.png"/>
+</a>
+<footer class="footer-links">
+<div class="social-media-footer">
+<div class="container">
+<a class="social-link" href="https://www.facebook.com/PRESSTV?_fb_noscript=1" target="_blank"><i class="icon-presstv icon-p-facebook"></i></a>
+<a class="social-link" href="https://twitter.com/PressTV" target="_blank"><i class="icon-presstv icon-p-twiter"></i></a>
+<a class="social-link" href="https://soundcloud.com/presstv" target="_blank"><i class="icon-presstv icon-p-soundcloud"></i></a>
+<a class="social-link" href="http://instagram.com/presstvchannel" target="_blank"><i class="icon-presstv icon-p-instagram"></i></a>
+<a class="social-link" href="/RSS" target="_blank"><i class="icon-presstv icon-p-rss"></i></a>
+<a class="social-link" href="https://www.liveleak.com/c/PressTV" target="_blank"><i class="icon-presstv icon-p-liveleak"></i></a>
+<a class="social-link" href="https://www.youtube.com/channel/UCTr6zdEqh4ZQJ3AeKPWWw1g?view_as=subscriber" target="_blank"><i class="icon-presstv icon-p-youtube"></i></a>
+</div>
+</div>
+<div class="container">
+<div class="footer-links-part col-md-3">
+<div class="footer-links-part-title"><a href="#">News</a></div>
+<ol>
+<li><a href="/Section/101">Iran</a></li>
+<li><a href="/Section/102">West Asia</a></li>
+<li><a href="/Section/103">US</a></li>
+<li><a href="/Section/108">UK</a></li>
+<li><a href="/Section/104">Asia-Pacific</a></li>
+<li><a href="/Section/105">Africa</a></li>
+</ol>
+<ol></ol>
+<div class="clear"></div>
+</div>
+<div class="footer-links-part col-md-3">
+<div class="footer-links-part-title"><a href="/Section/130">Video</a></div>
+<ol>
+<li><a href="/Section/13012">News Bulletin</a></li>
+<li><a href="/Section/13001">Reports</a></li>
+<li><a href="/Section/13002">Interviews</a></li>
+<li><a href="/Section/12009">Infoclips</a></li>
+<li><a href="/Section/150">Shows</a></li>
+</ol>
+<ol></ol>
+<div class="clear"></div>
+</div>
+<div class="footer-links-part col-md-3">
+<div class="footer-links-part-title"><a href="#">TV</a></div>
+<ol>
+<li><a href="/Live">Watch Live</a></li>
+<li><a href="/default/Schedule">Schedule</a></li>
+<li><a href="/doc">Documentaries</a></li>
+</ol>
+<ol></ol>
+<div class="clear"></div>
+</div>
+<div class="footer-links-part col-md-3">
+<div class="footer-links-part-title"><a href="#">Press TV</a></div>
+<ol>
+<li><a href="/aboutus/WhatPressTVis">About Press TV</a></li>
+<li><a href="/Satellites">How to Watch</a></li>
+<li><a href="/Vacancies">Vacancies</a></li>
+<li><a href="/aboutus/contactus">Contact Us</a></li>
+</ol>
+<ol></ol>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="Logo_footer">
+<strong>PRESS</strong><span>TV</span>© Copyright 2021 PressTV. All rights reserved.
+            </div>
+</div>
+</footer>
+<div class="mobile-notify" style="display:none">
+<div>
+<img src="/custom/images/logo-app/LOGO_192x192.jpg"/>
+<strong>This makes it easy to access the Press TV website</strong>
+<hr/>
+<p>IOS : </p>
+<p>1. Click the "share" button in the bottom bar</p>
+<p>2. Select the "Add to home screen" option</p>
+<p>3. Click "Add" at the top</p>
+<hr/>
+<p>ANDROID : </p>
+<p>1. Click the "..." button </p>
+<p>2. Select the "Add to home screen" option</p>
+<p><button class="btn btn-ok" id="#addhomescreen" onclick="addhomescreen()">Ok!</button></p>
+</div>
+</div>
+<script src="/custom/bootstrap/js/bootstrap.min.js"></script>
+<script src="/custom/js/site.min.js?5f8174ff-75dc-4358-ae6d-e4ff2eb1f9af"></script>
+<link href="/lib/swiper-4.5.0/dist/css/swiper.min.css" rel="stylesheet">
+<script src="/swiper-4.5.0/dist/js/swiper.min.js"></script>
+<script src="/custom/js/jquery.lazy.min.js"></script>
+<script type="text/javascript">
+        $(function () {
+            $('.lazy').Lazy();
+        });
+        var swiper = new Swiper('.menu-mobile .swiper-container', {
+            direction: 'vertical',
+            slidesPerView: '1',
+            freeMode: false,
+            scrollbar: {
+                el: '.swiper-scrollbar',
+            },
+            mousewheel: true,
+        });
+        function isIOS() {
+            var userAgent = window.navigator.userAgent.toLowerCase();
+            return /iphone|ipad|ipod/.test(userAgent);
+        };
+
+        function isStandalone() {
+            return (ismobile() && window.navigator.standalone);
+        };
+        function addhomescreen() {
+            setCookie('addhomescreen', '1', 1);
+            $(".mobile-notify").css('display', 'none');
+        }
+    </script>
+<link href="/lib/videojs-hls-quality-selector-master/css/Video.Js.min.css" rel="stylesheet">
+<script src="/lib/videojs-hls-quality-selector-master/js/VideoJs.plug.min.js"></script>
+<script src="/lib/jw/JWFunc.js"></script>
+<script type="text/javascript">
+
+                        $().MasPlayerVideoJs({ container: '.player-container', player: 'player-report-w', video: 'https://video.presstv.com/vod/_definst_/smil:path1//newsroom/20210317/kdr_amnisty_push.smil/playlist.m3u8', image: 'https://cdn.presstv.com/photo/20210317/8c705f29-c386-4648-8d19-810aa96b4c84.jpg', float: false, download: false });
+                        $().MasPlayerVideoJs({ container: '.player-container', player: 'player-interview-w', video: 'https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210309/interview_massoud_shadjareh_full.smil/playlist.m3u8', image: 'https://cdn.presstv.com/Photo/2021/3/9/4e03f9aa-126f-4341-b485-891a3f83c161.jpg', float: false, download: false });
+                        $().MasPlayerVideoJs({ container: '.player-container', player: 'player-bulleten-w', video: 'https://video.presstv.com/vod/_definst_/smil:path1//SiteVideo/20210317/london_kill_bill_protest.smil/playlist.m3u8', image: 'https://cdn.presstv.com/photo/20210317/439effbe-eb56-4a60-a9e4-e8306f2195a0.jpg', float: false, download: false });
+                        $().MasPlayerVideoJs({ container: '.player-container', player: 'player-showcontent-w', video: 'https://video.presstv.com/vod/_definst_/smil:path1//program/20210316/The-Debate16032021.smil/playlist.m3u8', image: 'https://cdn.presstv.com/photo/20210316/ae203640-9467-4063-a3cd-7cb0996b5790.jpg', float: false, download: false });
+                        $().MasPlayerVideoJs({ container: '.player-container', player: 'player-headline-w', video: 'https://video.presstv.com/vod/_definst_/smil:path1//iran/20210316/irgc.smil/playlist.m3u8', image: 'https://cdn.presstv.com/photo/20210316/aaf8e40e-823c-42e0-a2e1-76791baeac6e.jpg', float: false, download: false });
+                        $().MasSwiper({class:'.latestnews-container'});
+                        $().Masimage();
+                                    //$().MasSwiper({ class: '.listvideo', count: '4' });
+                                //$('.nav-tabs a').click(function () {
+                                //    $().MasSwiper({ class: '.listvideo', count: '4' });
+                                //});
+                    
+            </script>
+<script>
+        var swiper = new Swiper('.home-page-slider .swiper-container', {
+            slidesPerView: '1',
+            loop: true,
+            autoplay: {
+                delay: 10000,
+                disableOnInteraction: true,
+            },
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            }
+        });
+        var swiper = new Swiper('.swiper-container');
+        $(".grow-image").MashoveGrow();
+        $('.fill-box').fillBox();
+    </script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+        _atrk_opts = { atrk_acct: "I6qat1Y1Mn20Io", domain: "presstv.com", dynamic: true };
+        (function () { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://certify-js.alexametrics.com/atrk.js"; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(as, s); })();
+    </script>
+<noscript><img alt="" height="1" src="https://certify.alexametrics.com/atrk.gif?account=I6qat1Y1Mn20Io" style="display:none" width="1"/></noscript>
+<!-- End Alexa Certify Javascript -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-152698772-1"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-152698772-1');
+    </script>
+<script>
+        let installPromptEvent;
+        window.addEventListener('beforeinstallprompt', (event) => {
+            // Prevent Chrome <= 67 from automatically showing the prompt
+            event.preventDefault();
+            // Stash the event so it can be triggered later.
+            installPromptEvent = event;
+            // Update the install UI to notify the user app can be installed
+            document.querySelector('#install-button').disabled = false;
+        });
+
+    </script>
+<!-- PushAlert -->
+<script type="text/javascript">
+        (function (d, t) {
+            var g = d.createElement(t),
+                s = d.getElementsByTagName(t)[0];
+            g.src = "https://cdn.pushalert.co/integrate_3be7b97a0c199964fc5ce688ba7fed96.js";
+            s.parentNode.insertBefore(g, s);
+        }(document, "script"));
+    </script>
+<script src="/sw.js"></script>
+<!-- End PushAlert -->
+</link></link></body>
+</html>

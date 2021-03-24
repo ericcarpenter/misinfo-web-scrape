@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+
+<!--
+Þ²ÛÛ°° °±±° ÜÜ±²Ý±ßÜ  ²²²ßßßßß  °     °               ßßß Üß±Þ²±ÜÜ °±±° °°ÛÛ²Ý
+Þ²²ÛÛ±°°° Üß  ß² °                                         ° ²ß  ßÜ °°°±ÛÛ²²Ý°
+±° ß²Ü±ß²²²ÛÜ        ²²²Ü °         ._ ±°     .___          .__       ²²²±ÛÛÛÛ
+°ß²²²Û±±±eeÛ    ____________   ____ |° |    __| _/ ßß  ____ |  |   Û²±± ²²²ß°±
+²ÛÜÜ²ß  ß²ÛÜ   /  ___/\____ \_/ __ \|  |   / __ |     /    \|  |          ÛÛÛß
+ß Ü²ÛÛßß °Û    \___ \ |  |_> >  ___/|  |__/ /_/ |    | ° |  \  |±_     ÛÛÛß  Û
+±° ßÜ±ß²²²ÛÜ  /____  >| ² __/ \___  >____/\____ | /\ |___|  /____/       ÛÛÛÝ°
+²ÛÜÜ²ß ±±²Û        \/ |__|        \/           \/ \/      \/          Üß±Ü²²ßß
+±° ßÜ±ß²²²ÛÜ      ²²²²ß      Uw vaste prik voor betrouwbaar nieuws  ²²ß±Üß °±²
+ß²²Ü±ßÜÜßß²²²Ü   Ü       ß           ÜÜÜ                       Ü²²²ßßÜÜß±Ü²²ßß
+°°°ßÛ²ÜÜ²²ÜÜþ   ÜÜÜ²²²²²ßßþ   ÜÜÜÜÛ²²±±±²²ÛÜÜÜÜÜ  þßß²    ÜÜÜ   þÜÜ²²ÜÜ²Ûß°°°Ü
+± °  Û²ßÛ²ÜÜÜ²ÛÛßß±±±²ÛÛÜÜ²²²²ß²ß    °±°    ß²ß²ÛÛÜÜÜÛÛ²±±±ßßÛÛ²ÜÜÜ²Ûß²Û  ° ±²
+²ÛÜÜ²ß   ß²²ßß°   °°   ßß²²  °±±ßþ Ü  °  Ü þß±±°  ²²ßß   °°   °ßß²²ß   ß²ÜÜÛ²²
+ß²ÛÛÜ °  °±°      °        ß þ °°     ß     °° þ ß        °      °±°  ° ÜÛÛ²ß±
+-->
+<!--[if lt IE 7]><html lang="nl" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="nl" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="nl" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="nl"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<title>De Speld - Uw vaste prik voor betrouwbaar nieuws.</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="True" name="HandheldFriendly"/>
+<meta content="320" name="MobileOptimized"/>
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<link href="https://hooiberg.speld.nl/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/manifest.json" rel="manifest"/>
+<!-- meta -->
+<meta content="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/fav/ms-icon-144x144.png" name="msapplication-TileImage"/>
+<meta content="#ffffff" name="theme-color"/>
+<meta content="De Speld" name="apple-mobile-web-app-title"/>
+<meta content="De Speld" name="application-name"/>
+<meta content="#da532c" name="msapplication-TileColor"/>
+<link href="https://speld.nl/xmlrpc.php" rel="pingback"/>
+<!-- FONTS AND ICONS -->
+<link href="https://use.typekit.net/gxs0cvb.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet"/>
+<!-- This site is optimized with the Yoast SEO plugin v15.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="Uw vaste prik voor betrouwbaar nieuws." name="description">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots">
+<link href="https://speld.nl/" rel="canonical">
+<link href="https://speld.nl/page/2/" rel="next">
+<meta content="nl_NL" property="og:locale">
+<meta content="website" property="og:type">
+<meta content="De Speld - Uw vaste prik voor betrouwbaar nieuws." property="og:title">
+<meta content="Uw vaste prik voor betrouwbaar nieuws." property="og:description">
+<meta content="https://speld.nl/" property="og:url">
+<meta content="De Speld" property="og:site_name">
+<meta content="summary_large_image" name="twitter:card">
+<meta content="@despeld" name="twitter:site"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://speld.nl/#website","url":"https://speld.nl/","name":"De Speld","description":"Uw vaste prik voor betrouwbaar nieuws.","potentialAction":[{"@type":"SearchAction","target":"https://speld.nl/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"nl"},{"@type":"CollectionPage","@id":"https://speld.nl/#webpage","url":"https://speld.nl/","name":"De Speld - Uw vaste prik voor betrouwbaar nieuws.","isPartOf":{"@id":"https://speld.nl/#website"},"description":"Uw vaste prik voor betrouwbaar nieuws.","breadcrumb":{"@id":"https://speld.nl/#breadcrumb"},"inLanguage":"nl","potentialAction":[{"@type":"ReadAction","target":["https://speld.nl/"]}]},{"@type":"BreadcrumbList","@id":"https://speld.nl/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://speld.nl/","url":"https://speld.nl/","name":"Home"}}]}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link href="//s.w.org" rel="dns-prefetch">
+<link href="https://speld.nl/feed/" rel="alternate" title="De Speld » Feed" type="application/rss+xml">
+<link href="https://speld.nl/comments/feed/" rel="alternate" title="De Speld » Reactiesfeed" type="application/rss+xml">
+<link href="https://hooiberg.speld.nl/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://hooiberg.speld.nl/wp-content/plugins/wp-email/email-css.css" id="wp-email-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://hooiberg.speld.nl/wp-content/plugins/wp-polls/polls-css.css" id="wp-polls-css" media="all" rel="stylesheet" type="text/css">
+<style id="wp-polls-inline-css" type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background: #FF9B00;
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link href="https://hooiberg.speld.nl/wp-content/plugins/wp-quiz-pro/assets/frontend/css/animate.css" id="animate-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://hooiberg.speld.nl/wp-content/plugins/wp-quiz-pro/assets/frontend/css/wp-quiz.css" id="wp-quiz-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://hooiberg.speld.nl/wp-content/plugins/holler-box/assets/css/holler-frontend.min.css" id="holler-css-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://hooiberg.speld.nl/wp-content/themes/speld/library/css/style.css?1615291775" id="bones-stylesheet-css" media="all" rel="stylesheet" type="text/css">
+<script id="jquery-core-js" src="https://hooiberg.speld.nl/wp-includes/js/jquery/jquery.min.js" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://hooiberg.speld.nl/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
+<script id="vk_ajax-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var vk_ajax_data = {"action_add_favorite":"vk_add_favorite","action_delete_favorite":"vk_delete_favorite","nonce":"98d4e3731a","ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script id="vk_ajax-js" src="https://hooiberg.speld.nl/wp-content/plugins/speld-vage-kennis/assets/js/ajax.js" type="text/javascript"></script>
+<script id="wp-sentry-browser-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wp_sentry = {"dsn":"https:\/\/2290398a236b4569af498588b5548741@o454586.ingest.sentry.io\/5444781","tracesSampleRate":"0","release":"1.91","environment":"Production","content":{"user":{"id":0,"name":"anonymous"},"tags":{"wordpress":"5.6.2","language":"nl-NL"}},"whitelistUrls":["https:\/\/speld.nl\/","regex:\\w+\\.speld\\.nl"]};
+/* ]]> */
+</script>
+<script id="wp-sentry-browser-js" src="https://hooiberg.speld.nl/wp-content/plugins/wp-sentry-integration/public/wp-sentry-browser.min.js" type="text/javascript"></script>
+<link href="https://speld.nl/wp-json/" rel="https://api.w.org/"><meta content="" property="fb:pages"/>
+<script type="text/javascript">
+        var msTag = { site: 'speld',
+                      page: 'home',
+                      data: {
+                        loadAds: true,
+                        campaign: "",
+                                              }
+                    };
+    </script>
+<script src="https://massariuscdn.com/pubs/speld/speld_hb_setup.js" type="text/javascript"></script>
+<meta content="wordpress-plugin" name="onesignal"/>
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://speld.nl");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '790d96e6-6f67-4276-aea1-1b8fd5e3d19c';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "De Speld";
+oneSignal_options['welcomeNotification']['message'] = "Bedankt voor je aanmelding!";
+oneSignal_options['path'] = "https://speld.nl/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.548f76b5-1495-4e31-bc8e-b1b76d8ec8fd";
+oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = 'Ik blijf graag in zijn algemeenheid op de hoogte van betrouwbaar nieuws';
+oneSignal_options['promptOptions']['exampleNotificationCaption'] = 'Je kunt je op ieder moment afmelden';
+oneSignal_options['promptOptions']['acceptButtonText'] = 'Ja, graag';
+oneSignal_options['promptOptions']['cancelButtonText'] = 'Nee, bedankt';
+oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Klik op &#039;toestaan&#039;';
+              /* OneSignal: onesignal_initialize_sdk filter preventing SDK initialization. */
+              OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style id="wp-custom-css" type="text/css">
+			/* Christmas card generator */
+.postnl-quiz ol {
+	list-style-type: decimal;
+	list-style-position: inside;
+}
+
+.postnl-quiz .quiz-result {
+	display: flex;
+	justify-content: space-between;
+	padding: 2rem 0 1rem;
+}
+	
+.postnl-quiz .quiz-link {
+	display: inline-block;
+    padding: 8px 16px;
+    border: 0;
+    background-color: #ff6400;
+}
+
+.postnl-quiz a.quiz-link {
+    color: #fff;
+}
+
+.postnl-quiz .app-badge {
+	max-width: 175px;
+}
+
+.postnl-quiz .mobile-text,
+.postnl-quiz .ios-link,
+.postnl-quiz .android-link {
+	display: none;
+}
+
+.ios .postnl-quiz .desktop-text,
+.android .postnl-quiz .desktop-text {
+	display: none;
+}
+
+.ios .postnl-quiz .mobile-text,
+.android .postnl-quiz .mobile-text {
+	display: block;
+}
+
+
+.ios .postnl-quiz .ios-link,
+.android .postnl-quiz .android-link {
+	display: inline-block;
+}		</style>
+<script src="https://videoplayer.vice.technology/js/vice-digital-monetizer.js" type="text/javascript"></script>
+<!-- Google Tag Manager -->
+<script type="text/javascript">
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-NSVJZWJ');
+        </script>
+<!-- End Google Tag Manager -->
+</link></link></link></link></link></link></link></link></link></link></link></meta></meta></meta></meta></meta></meta></meta></link></link></meta></meta></meta></head>
+<body class="home blog" data-wp-home="https://speld.nl" itemscope="" itemtype="http://schema.org/WebPage">
+<!-- Facebook Pixel -->
+<script>
+                window.fbAsyncInit = function() {
+                    FB.init({
+                    appId      : '376599163393937',
+                    cookie     : true,
+                    xfbml      : true,
+                    version    : 'v9.0'
+                    });
+                    FB.AppEvents.logPageView();
+                };
+
+                (function(d, s, id){
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {return;}
+                js = d.createElement(s); js.id = id;
+                js.src = "https://connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));
+            </script>
+<!-- End Facebook Pixel -->
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NSVJZWJ" style="display:none;visibility:hidden" width="0"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Class specific to IOS devices -->
+<div class="ios-status-bar"></div>
+<div id="container">
+<header class="header" itemscope="" itemtype="http://schema.org/WPHeader" role="banner">
+<div class="orange-bar"></div>
+<div class="cf" id="inner-header">
+<!-- TOP MENU -->
+<nav class="js-sticky-nav menu-one sticky-nav" id="sticky-nav">
+<div class="wrap">
+<a class="nav-icon-back js-nav-back-button"><img class="nav-icon-back__image" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/back-arrow.png"/></a>
+<a href="https://speld.nl" rel="nofollow">
+<div class="h1 cf" id="logo" itemscope="" itemtype="http://schema.org/Organization"></div>
+</a>
+<!-- SOCIAL MEDIA MENU -->
+<div class="social-menu nav">
+<ul>
+<li>
+<a href="https://www.facebook.com/pages/De-Speld/31292063411" target="_blank" title="Facebook"><i class="ion-social-facebook"><span class="screen-reader-text">De Speld op Facebook</span></i></a>
+</li>
+<li>
+<a href="https://www.twitter.com/DeSpeld" target="_blank" title="Twitter"><i class="ion-social-twitter"><span class="screen-reader-text">De Speld op Twitter"</span></i></a>
+</li>
+<li>
+<a href="https://instagram.com/de_speld" target="_blank" title="Instagram"><i class="ion-social-instagram-outline"><span class="screen-reader-text">De Speld op Instagram</span></i> </a>
+</li>
+<li>
+<a href="https://www.youtube.com/user/speldnl?feature=watch" target="_blank" title="Youtube"><i class="ion-social-youtube"><span class="screen-reader-text">De Speld op Youtube</span></i></a>
+</li>
+<li>
+<a href="https://itunes.apple.com/us/app/de-speld/id592223490?Is=1&amp;mt=8" target="_blank" title="Mobiele app"><i class="ion-social-apple"><span class="screen-reader-text">De Speld mobile app op ios</span></i></a>
+</li>
+<li>
+<a href="https://play.google.com/store/apps/details?id=com.asdapps.android.speld&amp;hl=en" target="_blank" title="Mobiele app"><i class="ion-social-android"><span class="screen-reader-text">De Speld Mobile app op android</span></i></a>
+</li>
+</ul>
+</div>
+<!-- END SOCIAL MEDIA MENU -->
+<a class="c-button c-button--login" href="https://speld.nl/login?redirect=https://speld.nl">
+<svg class="c-button--login__logo" id="Layer_1" style="enable-background:new 0 0 50 50;" version="1.1" viewbox="0 0 50 50" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+<style type="text/css">
+	.st0{fill:#FF6400;}
+</style>
+<path class="st0" d="M12.9,44.5l-1.2,3.6H7.3V33l4.4,0.1c1.3,8.6,6.9,12.2,13,12.2c5,0,7.7-2.3,7.7-6c0-4.2-3.2-5.9-11.1-8.4  c-9.4-2.8-14-7.7-14-15.5C7.3,5.6,14.6,0,23.4,0c5.3,0,9.2,2,11.4,5.1l1.2-3.4H40v12.7h-4.4c-1.5-5.7-5.7-9.7-12-9.7  c-4.7,0-7.1,2.3-7.1,5.5c0,4,3.5,5.2,11.6,7.7c7.9,2.5,14.5,6.3,14.5,15.9c0,9.7-6.5,16.2-17.1,16.2C19.9,50,15.8,48.2,12.9,44.5"></path>
+</svg>
+    Login</a>
+<!-- MENU ONE TOP MENU -->
+<nav id="hover-nav">
+<ul class="nav">
+<li id="nav-menu">
+<a>
+<h4>Menu</h4>
+</a>
+<!-- MENU -->
+<div class="menu-sitenav-container"><ul class="menu" id="menu-sitenav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88761" id="menu-item-88761"><a href="https://speld.nl/vagekennis/">Vage Kennis</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45603" id="menu-item-45603"><a href="https://speld.nl/live/">Speld LIVE (online)</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21212" id="menu-item-21212"><a href="https://speld.nl/adverteren/">Adverteren</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88762" id="menu-item-88762"><a href="https://speld.nl/nieuwsbrief/">Nieuwsbrief</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20829" id="menu-item-20829"><a href="https://speld.nl/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61790" id="menu-item-61790"><a href="https://speld.nl/vacatures/">Vacatures</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-85492" id="menu-item-85492"><a href="https://speld.nl/privacyverklaring/">Privacyverklaring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75996" id="menu-item-75996"><a href="https://speld.nl/europeesnetwerk/">Europees netwerk</a></li>
+</ul></div> </li>
+<li id="nav-categorie">
+<a href="#">
+<h4>Categorieën</h4>
+</a>
+<div class="menu-mainnav-container"><ul class="menu" id="menu-mainnav"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-88798" id="menu-item-88798"><a aria-current="page" href="https://speld.nl">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88799" id="menu-item-88799"><a href="https://speld.nl/category/video/">Video</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120158" id="menu-item-120158"><a href="https://speld.nl/dedespeldpodcast/">Podcast</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88771" id="menu-item-88771"><a href="https://speld.nl/category/politiek/">Politiek</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88767" id="menu-item-88767"><a href="https://speld.nl/category/binnenland/">Binnenland</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88770" id="menu-item-88770"><a href="https://speld.nl/category/buitenland/">Buitenland</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88769" id="menu-item-88769"><a href="https://speld.nl/category/lifestyle/">Lifestyle</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88768" id="menu-item-88768"><a href="https://speld.nl/category/cultuur/">Cultuur</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88774" id="menu-item-88774"><a href="https://speld.nl/category/wetenschap/">Wetenschap</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88772" id="menu-item-88772"><a href="https://speld.nl/category/sport/">De Speld Sport</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92970" id="menu-item-92970"><a href="https://speld.nl/category/pin/">De Pin</a></li>
+</ul></div> <ul class="hover-nav-ul">
+</ul>
+</li>
+<li id="nav-webshop">
+<a href="https://speld.nl/shop/">
+<h4>Webshop</h4>
+</a>
+</li>
+<li>
+<form action="https://speld.nl/" method="get">
+<input id="input-form-search" name="s" placeholder="Zoeken..." type="text" value=""/>
+</form>
+<a href="#" id="search">
+<h4>Zoeken</h4>
+</a>
+</li>
+</ul>
+</nav>
+<!-- END MENU ONE TOP MENU -->
+<a class="js-nav-btn nav-icon-close test hamburger-menu-close remove-highlight-mobile">
+<svg height="100%" version="1.1" viewbox="0 0 44 44" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs></defs>
+<g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+<g fill="#333333" id="Group">
+<rect height="8" id="Rectangle-2-Copy" transform="translate(21.914214, 21.914214) rotate(45.000000) translate(-21.914214, -21.914214) " width="53.9827561" x="-5.07716447" y="17.9142136"></rect>
+<rect height="8" id="Rectangle-2-Copy-2" transform="translate(21.914214, 21.914214) rotate(-45.000000) translate(-21.914214, -21.914214) " width="53.9827561" x="-5.07716447" y="17.9142136"></rect>
+</g>
+</g>
+</svg>
+</a>
+<a class="js-nav-btn nav-icon-hamburger hamburger-menu-home remove-highlight-mobile"> <img alt="mobile-menu-icon" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/hamburger-menu_03.png"/></a>
+<nav class="js-mobile-nav mobile-nav" id="mobile-nav">
+<div class="menu-mobilenav-container"><ul class="menu" id="menu-mobilenav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-88801" id="menu-item-88801"><a href="https://speld.nl/mijnvagekennis/">Mijn Vage Kennis</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-88802" id="menu-item-88802"><a aria-current="page" href="https://speld.nl">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120159" id="menu-item-120159"><a href="https://speld.nl/dedespeldpodcast/">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88810" id="menu-item-88810"><a href="https://shop.speld.nl">Webshop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89044" id="menu-item-89044"><a href="https://speld.nl/nieuwsbrief/">Nieuwsbrief</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88803" id="menu-item-88803"><a href="https://speld.nl/category/video/">Video</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88809" id="menu-item-88809"><a href="https://speld.nl/category/sport/">De Speld Sport</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92971" id="menu-item-92971"><a href="https://speld.nl/category/pin/">De Pin</a></li>
+</ul></div> </nav>
+</div><!-- wrap -->
+</nav><!-- END TOP MENU -->
+<!-- MAIN NAVIGATION MENU -->
+<nav class="main-menu nav" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<div class="container wrap">
+<div class="menu-mainnav-container"><ul class="menu" id="menu-mainnav-1"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-88798"><a aria-current="page" href="https://speld.nl">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88799"><a href="https://speld.nl/category/video/">Video</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120158"><a href="https://speld.nl/dedespeldpodcast/">Podcast</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88771"><a href="https://speld.nl/category/politiek/">Politiek</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88767"><a href="https://speld.nl/category/binnenland/">Binnenland</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88770"><a href="https://speld.nl/category/buitenland/">Buitenland</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88769"><a href="https://speld.nl/category/lifestyle/">Lifestyle</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88768"><a href="https://speld.nl/category/cultuur/">Cultuur</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88774"><a href="https://speld.nl/category/wetenschap/">Wetenschap</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-88772"><a href="https://speld.nl/category/sport/">De Speld Sport</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-92970"><a href="https://speld.nl/category/pin/">De Pin</a></li>
+</ul></div> </div>
+</nav>
+</div>
+<!-- END MAIN NAVIGATION MENU -->
+<script type="text/javascript">
+                    // Initialize Massarius properties
+                    var googletag = googletag || {};
+                    googletag.cmd = googletag.cmd || [];
+                </script>
+</header>
+<div class="content">
+<div class="wrap cf" id="inner-content">
+<!-- Massarius ad position: /13436254/Speld_ROS_Header_ATF -->
+<div class="c-ad c-ad--header" id="div-gpt-ad-1530014938962-0">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530014938962-0'); });</script>
+</div>
+<main class="cf" id="main" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/Blog" role="main">
+<time class="time"><p>woensdag 17 maart, 2021</p></time>
+<section class="main-container cf">
+<article class="carousel cf" id="home-slideshow" role="article">
+<ul class="bjqs">
+<li>
+<a href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/"><img alt="" class="carousel__image wp-post-image" height="375" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916.png 670w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916-450x252.png 450w" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Seks bij de eerste keer winkelen op afspraak, not done?</h2>
+<span class="carousel__excerpt">Sinds een week is het toegestaan om naar een winkel te gaan, mits je ruim van tevoren belt of mailt om een afspraak te maken.                             <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+</span>
+</div>
+</a>
+</li>
+<li>
+<a href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/"><img alt="" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/jessetrudeau-670x370.png" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?</h2>
+<span class="carousel__excerpt">De populariteit van Jesse Klaver lijkt niet meer wat het geweest is.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+</span>
+</div>
+</a>
+</li>
+<li>
+<a href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/"><img alt="" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/lilian-670x370.png" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen</h2>
+<span class="carousel__excerpt">In de aanloop naar de Tweede Kamerverkiezingen op 17 maart krijgen de lijstrekkers te maken met veel kritiekloze interviews.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+</span>
+</div>
+</a>
+</li>
+<li>
+<a href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/"><img alt="" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/stembureau-nos1-670x370.png" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Ongeldig stevent af op historische verkiezingsoverwinning</h2>
+<span class="carousel__excerpt">Ongeldig stevent af op een historische verkiezingsoverwinning.                             <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+</span>
+</div>
+</a>
+</li>
+<li>
+<a href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/"><img alt="" class="carousel__image wp-post-image" height="375" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539.png 670w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539-450x252.png 450w" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Stel heeft sinds corona volop quantity time</h2>
+<span class="carousel__excerpt">Voor veel mensen zijn het coronavirus en de bijbehorende maatregelen een vervelende verstoring van het dagelijks leven.                             <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+</span>
+</div>
+</a>
+</li>
+<li>
+<a href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/"><img alt="" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/Wilders-Rutte-670x370.png" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders</h2>
+<span class="carousel__excerpt">Ines weet nog niet op wie ze wil stemmen.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+</span>
+</div>
+</a>
+</li>
+</ul>
+</article>
+<article class="articles cf" id="133273" role="article">
+<figure class="cf entry-figure">
+<a class="divlink" href="https://speld.nl/2021/03/11/kabinet-maakt-zich-zorgen-250-000-kinderen-leven-in-armoede-waarom-geven-veel-ouders-zo-weinig-zakgeld/" rel="bookmark" title="Kabinet maakt zich zorgen: 250.000 kinderen leven in armoede, waarom geven veel ouders zo weinig zakgeld?"></a>
+<div class="img-container">
+<div class="c-sponsored-label">
+<span class="c-sponsored-label__inner">Gesponsord</span>
+</div>
+<img alt="" id="black-overlay-for-icons" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/black-overlay-min.png"/>
+<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/SIRE-beeld2-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/SIRE-beeld2-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/SIRE-beeld2-450x259.png 450w" width="300"> </img></div>
+</figure>
+<div class="articles-content">
+<a class="divlink" href="https://speld.nl/2021/03/11/kabinet-maakt-zich-zorgen-250-000-kinderen-leven-in-armoede-waarom-geven-veel-ouders-zo-weinig-zakgeld/" rel="bookmark" title="Kabinet maakt zich zorgen: 250.000 kinderen leven in armoede, waarom geven veel ouders zo weinig zakgeld?"></a>
+<header class="articles-header">
+<h2 class="h2 entry-title">
+<a href="https://speld.nl/2021/03/11/kabinet-maakt-zich-zorgen-250-000-kinderen-leven-in-armoede-waarom-geven-veel-ouders-zo-weinig-zakgeld/" rel="bookmark" title="Kabinet maakt zich zorgen: 250.000 kinderen leven in armoede, waarom geven veel ouders zo weinig zakgeld?">Kabinet maakt zich zorgen: 250.000 kinderen leven in armoede, waarom geven veel ouders zo weinig zakgeld?</a>
+</h2>
+</header>
+<section class="articles-entry-content cf">
+<p class="entry-content">“We kunnen de ouders er wel op aanspreken, maar meer kunnen we niet doen”, legt Mark Rutte uit.</p>
+</section>
+<footer class="articles-footer cf">
+<p>
+<a href="https://speld.nl/2021/03/11/kabinet-maakt-zich-zorgen-250-000-kinderen-leven-in-armoede-waarom-geven-veel-ouders-zo-weinig-zakgeld/">Lees Verder</a>
+<i class="ion-ios-play"></i>
+</p>
+</footer>
+</div>
+</article>
+<article class="articles cf" id="132896" role="article">
+<figure class="cf entry-figure">
+<a class="divlink" href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/" rel="bookmark" title="Doe hier De Speldwijzer voor bindend stemadvies"></a>
+<div class="img-container">
+<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/uitkomsten2-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/uitkomsten2-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/uitkomsten2-450x259.png 450w" width="300"/> </div>
+</figure>
+<div class="articles-content">
+<a class="divlink" href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/" rel="bookmark" title="Doe hier De Speldwijzer voor bindend stemadvies"></a>
+<header class="articles-header">
+<h2 class="h2 entry-title">
+<a href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/" rel="bookmark" title="Doe hier De Speldwijzer voor bindend stemadvies">Doe hier De Speldwijzer voor bindend stemadvies</a>
+</h2>
+</header>
+<section class="articles-entry-content cf">
+<p class="entry-content">Vul De Speld Stemwijzer in en ontvang bindend stemadvies.</p>
+</section>
+<footer class="articles-footer cf">
+<p>
+<a href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/">Lees Verder</a>
+<i class="ion-ios-play"></i>
+</p>
+</footer>
+</div>
+</article>
+<article class="articles cf" id="133707" role="article">
+<figure class="cf entry-figure">
+<a class="divlink" href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/" rel="bookmark" title="Seks bij de eerste keer winkelen op afspraak, not done?"></a>
+<div class="img-container">
+<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916-450x259.png 450w" width="300"/> </div>
+</figure>
+<div class="articles-content">
+<a class="divlink" href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/" rel="bookmark" title="Seks bij de eerste keer winkelen op afspraak, not done?"></a>
+<header class="articles-header">
+<h2 class="h2 entry-title">
+<a href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/" rel="bookmark" title="Seks bij de eerste keer winkelen op afspraak, not done?">Seks bij de eerste keer winkelen op afspraak, not done?</a>
+</h2>
+</header>
+<section class="articles-entry-content cf">
+<p class="entry-content">Sinds een week is het toegestaan om naar een winkel te gaan, mits je ruim van tevoren belt of mailt om een afspraak te maken. </p>
+</section>
+<footer class="articles-footer cf">
+<p>
+<a href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/">Lees Verder</a>
+<i class="ion-ios-play"></i>
+</p>
+</footer>
+</div>
+</article>
+<aside class="aside-news cf">
+<header>
+<h4 class="aside-border-header-left">
+<span class="aside-header-box">Kort Nieuws</span>
+</h4>
+</header>
+<article class="aside-news-article cf">
+<a class="divlink" href="https://speld.nl/2021/03/15/265-miljoen-coronadoden-ontsnapt-aan-mogelijke-bijwerking-astrazeneca-vaccin/"></a>
+<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
+<h3>2,65 miljoen coronadoden ontsnapt aan mogelijke bijwerking AstraZeneca-vaccin</h3>
+<p>'Gelukkig heeft mijn Sjaak onderzoek naar hoogst onwaarschijnlijk verband niet hoeven meemaken'<i class="ion-ios-play"></i></p>
+</div>
+</article>
+<article class="aside-news-article cf">
+<a class="divlink" href="https://speld.nl/2021/03/10/wilders-nieuwsuur-heeft-de-linkse-kliek-van-landverraders-veel-te-hard-aangepakt/"></a>
+<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Wilders: ‘Nieuwsuur heeft de linkse kliek van landverraders veel te hard aangepakt’</h3>
+<p>PVV-leider legt uit waarom hij kritisch interview overslaat<i class="ion-ios-play"></i></p>
+</div>
+</article>
+<article class="aside-news-article cf">
+<a class="divlink" href="https://speld.nl/2021/03/08/koningin-elizabeth-bekent-bemoeienis-kleur-bang-dat-achterkleinzoon-rood-haar-zou-krijgen/"></a>
+<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/Queen-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/Queen-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/Queen-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Koningin Elizabeth bekent bemoeienis kleur: ‘Bang dat achterkleinzoon rood haar zou krijgen’</h3>
+<p><i class="ion-ios-play"></i></p>
+</div>
+</article>
+</aside>
+<article class="video-home hentry" role="article">
+<figure class="video-wrapper">
+<img class="make-video-responsive-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAABLCAYAAAC1D//7AAAABGdBTUEAALGPC/xhBQAAAU1JREFUeAHt0rENwDAMBDHF+++cpHAj4EagARf68sBnZt7/ewqsAmddDgVuATBQyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4EsAEZmMYLBQBYAI7MYwWAgC4CRWYxgMJAFwMgsRjAYyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4EsAEZmMYLBQBYAI7MYwWAgC4CRWYxgMJAFwMgsRjAYyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4EsAEZmMYLBQBYAI7MYwWAgC4CRWYxgMJAFwMgsRjAYyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4EsAEZmMYLBQBYAI7MYwWAgC4CRWYxgMJAFwMgsRjAYyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4Es8AFyOgGVosq9uwAAAABJRU5ErkJggg=="/>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="375" src="https://www.youtube.com/embed/BtHeGK59TyY" width="670"></iframe> </figure>
+<p class="video-header-seemore">
+<a href="https://speld.nl/category/video/">
+            Meer video’s van De Speld</a>
+<i class="ion-ios-play"></i>
+</p>
+</article>
+<article class="articles cf" id="133680" role="article">
+<figure class="cf entry-figure">
+<a class="divlink" href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/" rel="bookmark" title="Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?"></a>
+<div class="img-container">
+<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/jessetrudeau-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/jessetrudeau-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/jessetrudeau-450x259.png 450w" width="300"> </img></div>
+</figure>
+<div class="articles-content">
+<a class="divlink" href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/" rel="bookmark" title="Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?"></a>
+<header class="articles-header">
+<h2 class="h2 entry-title">
+<a href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/" rel="bookmark" title="Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?">Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?</a>
+</h2>
+</header>
+<section class="articles-entry-content cf">
+<p class="entry-content">De populariteit van Jesse Klaver lijkt niet meer wat het geweest is.</p>
+</section>
+<footer class="articles-footer cf">
+<p>
+<a href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/">Lees Verder</a>
+<i class="ion-ios-play"></i>
+</p>
+</footer>
+</div>
+</article>
+<article class="articles cf" id="133471" role="article">
+<figure class="cf entry-figure">
+<a class="divlink" href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/" rel="bookmark" title="Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen"></a>
+<div class="img-container">
+<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/lilian-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/lilian-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/lilian-450x259.png 450w" width="300"/> </div>
+</figure>
+<div class="articles-content">
+<a class="divlink" href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/" rel="bookmark" title="Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen"></a>
+<header class="articles-header">
+<h2 class="h2 entry-title">
+<a href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/" rel="bookmark" title="Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen">Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen</a>
+</h2>
+</header>
+<section class="articles-entry-content cf">
+<p class="entry-content">In de aanloop naar de Tweede Kamerverkiezingen op 17 maart krijgen de lijstrekkers te maken met veel kritiekloze interviews.</p>
+</section>
+<footer class="articles-footer cf">
+<p>
+<a href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/">Lees Verder</a>
+<i class="ion-ios-play"></i>
+</p>
+</footer>
+</div>
+</article>
+<article class="articles cf" id="133670" role="article">
+<figure class="cf entry-figure">
+<a class="divlink" href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/" rel="bookmark" title="Ongeldig stevent af op historische verkiezingsoverwinning"></a>
+<div class="img-container">
+<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/stembureau-nos1-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/stembureau-nos1-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/stembureau-nos1-450x259.png 450w" width="300"/> </div>
+</figure>
+<div class="articles-content">
+<a class="divlink" href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/" rel="bookmark" title="Ongeldig stevent af op historische verkiezingsoverwinning"></a>
+<header class="articles-header">
+<h2 class="h2 entry-title">
+<a href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/" rel="bookmark" title="Ongeldig stevent af op historische verkiezingsoverwinning">Ongeldig stevent af op historische verkiezingsoverwinning</a>
+</h2>
+</header>
+<section class="articles-entry-content cf">
+<p class="entry-content">Ongeldig stevent af op een historische verkiezingsoverwinning. </p>
+</section>
+<footer class="articles-footer cf">
+<p>
+<a href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/">Lees Verder</a>
+<i class="ion-ios-play"></i>
+</p>
+</footer>
+</div>
+</article>
+<article class="articles cf" id="133644" role="article">
+<figure class="cf entry-figure">
+<a class="divlink" href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/" rel="bookmark" title="Stel heeft sinds corona volop quantity time"></a>
+<div class="img-container">
+<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539-450x259.png 450w" width="300"/> </div>
+</figure>
+<div class="articles-content">
+<a class="divlink" href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/" rel="bookmark" title="Stel heeft sinds corona volop quantity time"></a>
+<header class="articles-header">
+<h2 class="h2 entry-title">
+<a href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/" rel="bookmark" title="Stel heeft sinds corona volop quantity time">Stel heeft sinds corona volop quantity time</a>
+</h2>
+</header>
+<section class="articles-entry-content cf">
+<p class="entry-content">Voor veel mensen zijn het coronavirus en de bijbehorende maatregelen een vervelende verstoring van het dagelijks leven. </p>
+</section>
+<footer class="articles-footer cf">
+<p>
+<a href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/">Lees Verder</a>
+<i class="ion-ios-play"></i>
+</p>
+</footer>
+</div>
+</article>
+<article class="articles cf" id="133613" role="article">
+<figure class="cf entry-figure">
+<a class="divlink" href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/" rel="bookmark" title="Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders"></a>
+<div class="img-container">
+<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/Wilders-Rutte-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/Wilders-Rutte-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/Wilders-Rutte-450x259.png 450w" width="300"/> </div>
+</figure>
+<div class="articles-content">
+<a class="divlink" href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/" rel="bookmark" title="Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders"></a>
+<header class="articles-header">
+<h2 class="h2 entry-title">
+<a href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/" rel="bookmark" title="Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders">Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders</a>
+</h2>
+</header>
+<section class="articles-entry-content cf">
+<p class="entry-content">Ines weet nog niet op wie ze wil stemmen.</p>
+</section>
+<footer class="articles-footer cf">
+<p>
+<a href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/">Lees Verder</a>
+<i class="ion-ios-play"></i>
+</p>
+</footer>
+</div>
+</article>
+<!-- Massarius ad position: /13436254/Speld_ROS_BTF -->
+<div class="massarius-dfp-unit c-ad c-ad--btf" id="div-gpt-ad-1530014938962-3">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530014938962-3'); });</script>
+</div>
+<div class="ajax-load-more-wrap default" data-alm-id="" data-canonical-url="https://speld.nl/" data-localized="ajax_load_more_vars" data-post-id="0" data-slug="home" id="ajax-load-more"><div aria-atomic="true" aria-live="polite" class="alm-listing alm-ajax" data-button-label="Laad meer berichten" data-category-not-in="4763,10316,10317" data-container-type="div" data-max-pages="5" data-offset="6" data-order="DESC" data-orderby="date" data-pause="true" data-pause-override="true" data-post-type="post" data-posts-per-page="10" data-scroll="true" data-scroll-distance="-250" data-theme-repeater="home.php"></div><div class="alm-btn-wrap" style="visibility: hidden;"><button class="alm-load-more-btn more" rel="next" type="button">Laad meer berichten</button></div></div> </section>
+<section class="sidebar-container sidebar-home" role="complementary">
+<aside class="aside-news cf">
+<header>
+<h4 class="aside-border-header-left">
+<span class="aside-header-box">Kort Nieuws</span>
+</h4>
+</header>
+<article class="aside-news-article cf">
+<a class="divlink" href="https://speld.nl/2021/03/15/265-miljoen-coronadoden-ontsnapt-aan-mogelijke-bijwerking-astrazeneca-vaccin/"></a>
+<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
+<h3>2,65 miljoen coronadoden ontsnapt aan mogelijke bijwerking AstraZeneca-vaccin</h3>
+<p>'Gelukkig heeft mijn Sjaak onderzoek naar hoogst onwaarschijnlijk verband niet hoeven meemaken'<i class="ion-ios-play"></i></p>
+</div>
+</article>
+<article class="aside-news-article cf">
+<a class="divlink" href="https://speld.nl/2021/03/10/wilders-nieuwsuur-heeft-de-linkse-kliek-van-landverraders-veel-te-hard-aangepakt/"></a>
+<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Wilders: ‘Nieuwsuur heeft de linkse kliek van landverraders veel te hard aangepakt’</h3>
+<p>PVV-leider legt uit waarom hij kritisch interview overslaat<i class="ion-ios-play"></i></p>
+</div>
+</article>
+<article class="aside-news-article cf">
+<a class="divlink" href="https://speld.nl/2021/03/08/koningin-elizabeth-bekent-bemoeienis-kleur-bang-dat-achterkleinzoon-rood-haar-zou-krijgen/"></a>
+<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/Queen-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/Queen-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/Queen-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Koningin Elizabeth bekent bemoeienis kleur: ‘Bang dat achterkleinzoon rood haar zou krijgen’</h3>
+<p><i class="ion-ios-play"></i></p>
+</div>
+</article>
+</aside>
+<!-- Massarius ad position: /13436254/Speld_ROS_MPU1 -->
+<div class="massarius-dfp-unit c-ad c-ad--sidebar" id="div-gpt-ad-1530014938962-1">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530014938962-1'); });</script>
+</div>
+<a class="sidebar__banner" href="https://shop.speld.nl/collections/best-sellers/products/shirt-zak-er-maar-in-partij-tegen-de-burger?utm_source=house-ad&amp;utm_campaign=zak-er-maar-in" target="_blank" title="">
+<img alt="" class="sidebar__banner__image" src="https://hooiberg.speld.nl/wp-content/uploads/house-ad3.png"/>
+</a>
+<!-- ASIDE POLL WIDGET -->
+<aside class="aside-widget-poll clearfix">
+<h4 class="aside-border-header-right">De Speld Kiest</h4>
+<div class="aside-widget-poll-container">
+<div class="wp-polls" id="polls-207">
+<form action="/index.php" class="wp-polls-form" id="polls_form_207" method="post">
+<p style="display: none;"><input id="poll_207_nonce" name="wp-polls-nonce" type="hidden" value="5f5c47e5e2"/></p>
+<p style="display: none;"><input name="poll_id" type="hidden" value="207"/></p>
+<h5>Welke maatregel die jou niet raakt moet de overheid NU nemen?</h5>
+<ul>
+<li>
+<input id="poll-answer-761" name="poll_207" type="radio" value="761"/> <label for="poll-answer-761">Verpleeghuizen op slot; ik ken daar niemand</label>
+</li>
+<li>
+<input id="poll-answer-762" name="poll_207" type="radio" value="762"/> <label for="poll-answer-762">Publiek bij sportwedstrijden verbieden; ik haat voetbal</label>
+</li>
+<li>
+<input id="poll-answer-763" name="poll_207" type="radio" value="763"/> <label for="poll-answer-763">Mondkapjesplicht; ik heb geen gezicht</label>
+</li>
+<li>
+<input id="poll-answer-764" name="poll_207" type="radio" value="764"/> <label for="poll-answer-764">OV afschalen; ik heb een auto</label>
+</li>
+</ul>
+<a class="poll-link" href="#ViewPollResults" onclick="poll_result(207); return false;" title="View Results Of This Poll">Zie resultaten</a>
+<input class="poll-button" name="vote" onclick="poll_vote(207);" type="button" value="Stem"/>
+</form>
+</div>
+</div>
+</aside>
+<aside class="aside-populair cf">
+<header>
+<h4 class="aside-border-header-left">
+<span class="aside-header-box">Populair</span>
+</h4>
+</header>
+<div class="aside-populair-container">
+<a href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/">
+<header class="cf">
+<img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/1.svg">
+<p>Doe hier De Speldwijzer voor bindend stemadvies</p>
+</img></header>
+</a>
+<a href="https://speld.nl/2021/03/10/mark-rutte-wordt-jihadist-vvd-zakt-een-zetel-in-peilingen/">
+<header class="cf">
+<img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/2.svg"/>
+<p>Mark Rutte wordt jihadist, VVD zakt één zetel in peilingen</p>
+</header>
+</a>
+<a href="https://speld.nl/2021/03/13/we-omschreven-politieke-partijen-in-termen-van-andere-politieke-partijen/">
+<header class="cf">
+<img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/3.svg"/>
+<p>We omschreven politieke partijen in termen van andere politieke partijen</p>
+</header>
+</a>
+<a href="https://speld.nl/2021/03/10/denise-maakt-apart-boodschappenlijstje-met-producten-die-ze-later-weg-gaat-gooien/">
+<header class="cf">
+<img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/4.svg"/>
+<p>Denise maakt apart boodschappenlijstje met producten die ze later weg gaat gooien</p>
+</header>
+</a>
+<a href="https://speld.nl/2021/03/15/265-miljoen-coronadoden-ontsnapt-aan-mogelijke-bijwerking-astrazeneca-vaccin/">
+<header class="cf">
+<img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/5.svg"/>
+<p>2,65 miljoen coronadoden ontsnapt aan mogelijke bijwerking AstraZeneca-vaccin</p>
+</header>
+</a>
+<a href="https://speld.nl/2021/03/13/podcast-interview-partij-tegen-de-burger-samen-tegen-u/">
+<header class="cf">
+<img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/6.svg"/>
+<p>Podcast – interview Partij tegen de Burger: ‘Samen tegen u’</p>
+</header>
+</a>
+</div></aside>
+<section class="email-subscription cf">
+<div class="c-email-subscription" id="mc_embed_signup">
+<form action="https://speld.us2.list-manage.com/subscribe/post?u=053e08139a955ebf7170aac89&amp;id=be08d0c274" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<div class="mc-field-group">
+<h3 class="c-email-subscription__title"><label for="mce-EMAIL">
+                Blijf globaal op de hoogte met onze nieuwsbrief!                </label></h3>
+<input class="c-email-subscription__email required email" id="mce-EMAIL" name="EMAIL" placeholder="Je e-mailadres" type="email" value=""/>
+</div>
+<div class="mc-field-group input-group c-email-subscription__row">
+<ul class="c-email-subscription__list">
+<li class="c-email-subscription__list-item">
+<label class="c-email-subscription__label">
+<input class="c-email-subscription__checkbox" id="mce-group[1]-1-0" name="group[1][1]" type="checkbox" value="1"/>
+<span class="c-email-subscription__checkbox-text">Dagelijks</span>
+</label>
+</li>
+<li class="c-email-subscription__list-item">
+<label class="c-email-subscription__label">
+<input class="c-email-subscription__checkbox" id="mce-group[1]-1-1" name="group[1][2]" type="checkbox" value="2"/>
+<span class="c-email-subscription__checkbox-text">Wekelijks</span>
+</label>
+</li>
+</ul>
+<input class="c-button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Aanmelden"/>
+</div>
+<div class="clear" id="mce-responses">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div> <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div aria-hidden="true" style="position: absolute; left: -5000px;">
+<input name="b_053e08139a955ebf7170aac89_be08d0c274" tabindex="-1" type="text" value=""/>
+</div>
+</div>
+</form>
+</div>
+</section>
+<!-- Massarius ad position: /13436254/Speld_Homepage_MPU2 -->
+<div class="massarius-dfp-unit c-ad c-ad--sidebar" id="div-gpt-ad-1530014938962-2">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530014938962-2'); });</script>
+</div>
+<aside class="aside-nav"><div class="menu-rubrieken-container"><ul class="menu" id="menu-rubrieken"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58869" id="menu-item-58869"><a href="https://speld.nl/category/rubrieken/">Rubrieken</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64493" id="menu-item-64493"><a href="https://speld.nl/category/de-speld-weekend-magazine/">Weekend Magazine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58873" id="menu-item-58873"><a href="https://speld.nl/category/rubrieken/kundige-trudie/">Kundige Trudie</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58872" id="menu-item-58872"><a href="https://speld.nl/category/rubrieken/horoscoop-rubrieken/">Horoscoop</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58871" id="menu-item-58871"><a href="https://speld.nl/category/rubrieken/cartoon-rubrieken/">Cartoon</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58870" id="menu-item-58870"><a href="https://speld.nl/category/rubrieken/beeld/">Beeld</a></li>
+</ul></div></aside>
+</section>
+</main>
+</div>
+</div>
+<footer class="footer" itemscope="" itemtype="http://schema.org/WPFooter" role="contentinfo">
+<ul class="footer__socials">
+<li>
+<a href="https://www.facebook.com/pages/De-Speld/31292063411" target="_blank" title="Facebook">
+<i class="footer__block footer__socials--facebook ion-social-facebook"></i>
+</a>
+</li>
+<li>
+<a href="https://www.twitter.com/DeSpeld" target="_blank" title="Twitter">
+<i class="footer__block footer__socials--twitter ion-social-twitter"></i>
+</a>
+</li>
+<li>
+<a href="https://instagram.com/de_speld" target="_blank" title="Instagram">
+<i class="footer__block footer__socials--instagram ion-social-instagram-outline"></i>
+</a>
+</li>
+</ul>
+<ul class="footer__nav">
+<li class="footer__block">
+<a class="footer__nav__link" href="https://speld.nl/vacatures">Vacatures</a>
+</li>
+<li class="footer__block">
+<a class="footer__nav__link" href="https://speld.nl/contact">Contact</a>
+</li>
+<li class="footer__block">
+<a class="footer__nav__link" href="https://speld.nl/adverteren">Adverteren</a>
+</li>
+</ul>
+</footer>
+<style type="text/css">
+            #hwp-119505, #hwp-119505 a, #hwp-119505 i, #hwp-119505 .holler-inside { color: #ffffff !important; }
+            #hwp-119505, #hwp-119505 .hwp-row { background-color: #ff6400 }
+            #hwp-119505 .hwp-email-btn, .hwp-floating-btn.hwp-btn-119505 { background-color: ; }
+            </style>
+<div class="hwp-floating-btn hwp-btn-119505 hwp-bottomleft" data-id="119505"><i class="icon icon-chat"></i></div>
+<div class="holler-box hwp-hide hwp-bottomleft notification" id="hwp-119505">
+<div class="holler-inside">
+<div class="hwp-close"><i class="icon icon-cancel"></i></div>
+<div class="hwp-box-rows">
+<div class="hwp-row hwp-first-row">
+
+                            Wil jij de nieuwsbrief van De Speld elke dag (of elke week) ontvangen? <strong><a href="https://speld.nl/nieuwsbrief/">Klik dan hier</a></strong>
+</div>
+</div>
+<div class="hwp-row hwp-note-optin hwp-email-row hwp-hide">
+<div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="hwp_hp" tabindex="-1" type="text" value=""/></div>
+<input autocapitalize="off" autocomplete="on" class="hwp-email-input" name="email" placeholder="Enter email" type="email">
+<button class="hwp-email-btn">Send</button>
+</input></div>
+<div class="hwp-chat hwp-hide">
+<div class="hwp-row hwp-text">
+<input class="hwp-text-input" placeholder="Type your message" type="text">
+<i class="icon icon-mail"></i>
+</input></div>
+</div>
+</div>
+</div>
+<script id="wp-email-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var emailL10n = {"ajax_url":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"The Following Error Occurs:","text_name_invalid":"- Your Name is empty\/invalid","text_email_invalid":"- Your Email is empty\/invalid","text_remarks_invalid":"- Your Remarks is invalid","text_friend_names_empty":"- Friend Name(s) is empty","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 5 Friend Names allowed","text_friend_emails_empty":"- Friend Email(s) is empty","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 5 Friend Emails allowed","text_friends_tally":"- Friend Name(s) count does not tally with Friend Email(s) count","text_image_verify_empty":"- Image Verification is empty"};
+/* ]]> */
+</script>
+<script id="wp-email-js" src="https://hooiberg.speld.nl/wp-content/plugins/wp-email/email-js.js" type="text/javascript"></script>
+<script id="wp-polls-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","text_wait":"Je deelname wordt nog behandeld. Een moment geduld...","text_valid":"Maak een geldige keuze","text_multiple":"Maximaal mogelijk aantal antwoorden:","show_loading":"0","show_fading":"1"};
+/* ]]> */
+</script>
+<script id="wp-polls-js" src="https://hooiberg.speld.nl/wp-content/plugins/wp-polls/polls-js.js" type="text/javascript"></script>
+<script id="holler-js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var hollerVars = {"ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","pluginUrl":"https:\/\/speld.nl\/wp-content\/plugins\/holler-box\/","hwpNonce":"adafb37dbb","expires":"999","isMobile":"","disable_tracking":"","active":["119505"],"119505":{"type":"notification","showEmail":"","showChat":"","emailProvider":"default","redirect":"","ckApi":"","visitor":"all","hideBtn":"","optinMsg":"","placeholder":"Enter your email","confirmMsg":"","emailErr":"Please enter a valid email address.","display_when":"delay","delay":"60","showSettings":"interacts","hideForDays":"1","hide_after":"never","hide_after_delay":"3","devices":"all","bgColor":"#ff6400","btnColor1":"","position":"hwp-bottomleft"}};
+/* ]]> */
+</script>
+<script id="holler-js-js" src="https://hooiberg.speld.nl/wp-content/plugins/holler-box/assets/js/holler-frontend.min.js" type="text/javascript"></script>
+<script id="paywall-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var speld_paywall = [{"allowedVisits":3,"showPaywallOnPage":false,"showPaywallToUser":true,"imageRoot":"https:\/\/speld.nl\/wp-content\/plugins\/speld-paywall\/dist\/img","allowedVisitsText":"Je bent voor de derde keer deze maand te gast bij De Speld.","explanationText":"Steun nu betrouwbaar nieuws","priceText":"Word Vage Kennis en ontvang Nederland: het boek","noticeRemainingVisitsText":"Je hebt deze maand nog %s aan De Speld over. Onbeperkt toegang?","noticeFinalVisitText":"Dit is je laatste gratis artikel deze maand. Onbeperkt toegang?","landingLinkURL":"https:\/\/speld.nl\/vagekennis?utm_source=speld&utm_medium=popup&utm_campaign=paywall","loginLinkURL":"https:\/\/speld.nl\/mijnvagekennis\/login\/?redirect=https:\/\/speld.nl","landingLinkText":"Word Vage Kennis","loginLinkText":"Ik ben al Vage Kennis"}];
+/* ]]> */
+</script>
+<script id="paywall-js" src="https://hooiberg.speld.nl/wp-content/plugins/speld-paywall/dist/js/bundle.js" type="text/javascript"></script>
+<script id="fixto-js" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/js/libs/fixto.min.js" type="text/javascript"></script>
+<script id="waypoint-js" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/js/libs/jquery.waypoints.min.js" type="text/javascript"></script>
+<script id="bones-js-js" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/js/scripts.js" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://hooiberg.speld.nl/wp-includes/js/wp-embed.min.js" type="text/javascript"></script>
+<script async="async" id="remote_sdk-js" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?" type="text/javascript"></script>
+<script id="ajax-load-more-legacy-callbacks-js" src="https://hooiberg.speld.nl/wp-content/plugins/ajax-load-more/vendor/js/alm/legacy-callbacks.js" type="text/javascript"></script>
+<script id="ajax-load-more-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","alm_nonce":"5334a90e47","rest_api":"https:\/\/speld.nl\/wp-json\/","rest_nonce":"7715364783","pluginurl":"http:\/\/speld.nl\/wp-content\/plugins\/ajax-load-more","speed":"200","ga_debug":"false","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1","site_title":"De Speld","site_tagline":"Uw vaste prik voor betrouwbaar nieuws."};
+var ajax_load_more_vars = {"id":"ajax-load-more"};
+/* ]]> */
+</script>
+<script id="ajax-load-more-js" src="https://hooiberg.speld.nl/wp-content/plugins/ajax-load-more/core/dist/js/ajax-load-more.min.js" type="text/javascript"></script>
+<!-- Place this in the function.php later -->
+<script src="https://hooiberg.speld.nl/wp-content/themes/speld/library/js/libs/fixto.min.js"></script>
+<script src="https://hooiberg.speld.nl/wp-content/themes/speld/library/js/libs/bjqs-1.3.min.js"></script>
+<!-- Check if its the app -->
+</div></body>
+</html>
