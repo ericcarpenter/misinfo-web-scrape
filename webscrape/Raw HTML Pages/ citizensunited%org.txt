@@ -1,0 +1,503 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>Citizens United : Dedicated to restoring our government to citizen control.</title>
+<meta content="Citizens United" name="title"/>
+<meta content="Dedicated to restoring our government to citizens' control" name="description"/>
+<link href="http://www.citizensunited.org/favicon.ico" mce_href="http://www.citizensunited.org/favicon.ico" rel="shortcut icon"/>
+<link href="http://www.citizensunited.org/images/cu-logo-82x82.jpg" rel="image_src"/>
+<link href="assists/flyout-nav.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="css-dualslider/clearfix.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="css-dualslider/jquery.dualSlider.0.3.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="default.css" media="all" rel="stylesheet" type="text/css"/>
+<script src="scripts-dualslider/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="scripts-dualslider/jquery.easing.1.3.js" type="text/javascript"></script>
+<script src="scripts-dualslider/jquery.timers-1.2.js" type="text/javascript"></script>
+<script src="scripts-dualslider/jquery.dualSlider.0.3.js" type="text/javascript"></script>
+<script src="assists/jcarousellite_1.0.1.min.js" type="text/javascript"></script>
+<script src="assists/inc-analytics.js" type="text/javascript"></script>
+<!-- Google Tag Manager (will hold FB pixel, Google remarketing tag, analytics) -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDN7GSP');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+$(document).ready(function() {
+	$(".carousel").dualSlider({
+		auto:true,
+		autoDelay: 8000,
+		easingCarousel: "swing",
+		easingDetails: "easeOutBack",
+		durationCarousel: 600,
+		durationDetails: 0
+	});
+});
+</script>
+<script type="text/javascript">  
+$(function() {  
+	$(".newsticker-jcarousellite").jCarouselLite({  
+        vertical: true,  
+        visible: 1,  
+        auto:1000,  
+        speed:2400  
+    });  
+});  
+</script>
+<link href="styles.css" rel="stylesheet" type="text/css"/>
+</head>
+<body id="frontpage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NDN7GSP" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="header">
+<a href="index.aspx" id="homeLink"></a>
+<table align="center" width="70%">
+<tr>
+<td align="center">
+</td>
+<p>
+                Dedicated To Restoring Our Government to Citizens' Control</p>
+</tr>
+</table>
+<div class="headerm">
+<div class="example">
+<ul class="adxm menu">
+<li><a href="index.aspx">Home</a></li>
+<li><a href="#">About</a>
+<ul>
+<li><a href="who-we-are.aspx">Who We Are</a></li>
+<li><a href="what-we-do.aspx">What Is Citizens United</a></li>
+<li><a href="fulfilling-our-mission.aspx">Fulfilling Our Mission</a></li>
+<li><a href="http://www.cuvfec.com/" target="_blank">CU v FEC</a></li>
+<li><a href="contact-us.aspx">Contact Us</a></li>
+<li><a href="Internship.aspx">Internship</a></li>
+</ul>
+</li>
+<li><a href="News.aspx">News</a>
+<ul>
+<li><a href="latest-updates.aspx">Latest Updates</a></li>
+<li><a href="cu-in-the-news.aspx">CU In The News</a></li>
+<li><a href="press-releases.aspx">Press Releases</a></li>
+<li><a href="editorials.aspx">Editorials</a></li>
+</ul>
+</li>
+<li><a href="#">Videos</a>
+<ul>
+<li><a href="film-trailers.aspx">Film Trailers</a></li>
+<li><a href="issue-ads.aspx">Issue Ads</a></li>
+</ul>
+</li>
+<li><a href="https://secure.donationreport.com/productlist.html?key=1QSEBUQ9MLSW" target="_blank">Film Library</a>
+<ul>
+<li><a href="all-films.aspx" target="_blank">Torchbearer</a></li>
+<li><a href="http://www.rockymountainheist.com/" target="_blank">Rocky Mountain Heist</a></li>
+<li><a href="http://www.fastterry.com/" target="_blank">Fast Terry</a></li>
+<li><a href="http://www.OurSacredHonorMovie.com/" target="_blank">Our Sacred Honor</a></li>
+<li><a href="http://www.TheHopeAndTheChange.com/" target="_blank">The Hope &amp; The Change</a></li>
+<li><a href="http://www.occupyunmasked.com/" target="_blank">Occupy Unmasked</a></li>
+<li><a href="http://www.TheGiftOfLifeMovie.com" target="_blank">The Gift Of Life</a></li>
+<li><a href="http://www.cityuponahill.com/" target="_blank">A City Upon A Hill</a></li>
+<li><a href="http://www.americaatrisk.com/" target="_blank">America At Risk</a></li>
+<li><a href="http://www.ninedaysthatchangedtheworld.com/" target="_blank">Nine Days That<br/>  Changed The World</a></li>
+<li><a href="http://www.reagandocumentary.com/" target="_blank">Ronald Reagan</a></li>
+<li><a href="all-films.aspx">See all 25 documentaries</a></li>
+</ul>
+</li>
+<li><a href="https://secure.donationreport.com/productlist.html?key=1QSEBUQ9MLSW" target="_blank">Store</a></li>
+<li><a class="yellow" href="https://secure.donationreport.com/donate.html?key=ME6AVZNKIFP2" target="_blank">Support Us</a>
+<ul>
+<li><a href="#">Ways To Donate</a>
+<ul>
+<li><a href="https://secure.donationreport.com/donate.html?key=ME6AVZNKIFP2" target="_blank">Online</a></li>
+<li><a href="donate-by-phone-or-mail.aspx">By Phone Or Mail </a></li>
+<li><a href="planned-giving.aspx">Planned Giving </a></li>
+</ul>
+<li><a href="planned-giving.aspx">Planned Giving </a></li>
+<li><a href="legacy-society.aspx">Legacy Society </a></li>
+<li><a href="frequently-asked-questions.aspx">FAQs </a></li>
+</li></ul>
+</li>
+</ul>
+
+
+</div>
+</div>
+</div>
+<table class="wrapper clearfix">
+<tr>
+<td align="right" width="960px">
+<div id="cse-search-form" style="width: 35%; text-align:right; ">Loading</div>
+</td>
+</tr>
+<tr>
+<td>
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+                google.load('search', '1', { language: 'en' });
+                google.setOnLoadCallback(function() {
+                    var customSearchControl = new google.search.CustomSearchControl('008100904655565687031:ptuqvew8b8s');
+                    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                    var options = new google.search.DrawOptions();
+                    options.setSearchFormRoot('cse-search-form');
+                    // options.enableSearchboxOnly("http://localhost:49425/CUNew/results.aspx");
+                    options.enableSearchboxOnly("http://citizensunited.org/results.aspx");
+                    options.setAutoComplete(true);
+                    customSearchControl.draw('cse', options);
+                }, true);
+            </script>
+</td>
+</tr>
+</table>
+<div class="wrapper clearfix; height:100px;">
+<div class="carousel clearfix">
+<div class="panel">
+<div class="details_wrapper">
+<div class="details">
+<div class="detail">
+<h2><a class="more" href="http://www.stopbidenagenda.com" target="_blank" title="Stop the Biden Agenda">New Website Launched!</a></h2>
+<p><a class="more" href="http://www.stopbidenagenda.com" target="_blank" title="">Joe Biden did not receive a mandate from the American people to impose his radical agenda on America.<br/><br/>
+
+In fact, Republicans picked up seats in the U.S. House, the U.S. Senate is split down the middle at 50 â 50 and the presidential election was decided by tens of thousands of votes in a handful of states. <br/><br/>
+
+The American people did not vote for progressivism, radicalism, or socialism. This project exists to oppose the radical Biden agenda. <br/><br/>
+
+Tour the new website today!
+	    </a></p>
+</div>
+<!-- /detail -->
+<div class="detail">
+<h2><a class="more" href="http://www.citizensunited.org/editorials.aspx?article=11801" target="_blank" title="Restore Trust In Our Elections">Restore Trust In Our Elections</a></h2>
+<p><a class="more" href="http://www.citizensunited.org/editorials.aspx?article=11801" target="_blank" title="Restore Trust In Our Elections">In promoting national vote-by-mail legislation, Speaker Nancy Pelosi and her caucus of radical House Democrats are following the advice of Rahm Emanuel, who famously said while Obama chief of staff, âYou never want a serious crisis to go to waste. And what I mean by that [is] it's an opportunity to do things that you think you could not do before."?
+
+	    </a></p>
+</div>
+<!-- /detail -->
+<div class="detail">
+<h2><a class="more" href="https://www.scribd.com/lists/24037237/Citizens-United-s-Biden-FOIA-Litigation" target="_blank" title="What is Joe Biden Hiding?">What is Joe Biden Hiding?</a></h2>
+<p><a class="more" href="https://www.scribd.com/lists/24037237/Citizens-United-s-Biden-FOIA-Litigation" target="_blank" title="What is Joe Biden Hiding?">"If Biden keeps the vault sealed, the chants of "what's Biden hiding" will grow louder every day." <br/><br/>
+Does he really think the American people arenât paying attention?</a></p>
+</div>
+<!-- /detail -->
+<div class="detail">
+<h2><a class="more" href="https://www.foxnews.com/opinion/biden-wrong-china-career-check-record-david-bossie" target="_blank" title="Biden wrong on China his entire career â let's look at the record">Biden wrong on China his entire career â let's look at the record</a></h2>
+<p><a class="more" href="https://www.foxnews.com/opinion/biden-wrong-china-career-check-record-david-bossie" target="_blank" title="Biden wrong on China his entire career â let's look at the record">Joe Biden has been wrong on U.S. policy toward China virtually his entire career. In fact, Biden and other establishment politicians in Washington have been instrumental in China's meteoric rise from a developing nation into a Communist power with global ambitions.<br/><br/>
+
+For decades, China has executed a foreign policy focused on replacing the United States as the world's leading economy.<br/><br/>
+</a></p>
+</div>
+<!-- /detail -->
+<div class="detail">
+<h2><a class="more" href="https://www.washingtontimes.com/news/2021/mar/3/liberals-attack-first-amendment-again-with-hr-1/" target="_blank" title="Citizens United Releases Documentary For 10th Anniversary Of Landmark Supreme Court Victory">Citizens United Releases Documentary For 10th Anniversary Of Landmark Supreme Court Victory</a></h2>
+<p><a class="more" href="https://www.washingtontimes.com/news/2021/mar/3/liberals-attack-first-amendment-again-with-hr-1/" target="_blank" title="Citizens United Releases Documentary For 10th Anniversary Of Landmark Supreme Court Victory">Once again this year, as part of their anti-freedom "cancel culture" agenda, House Democrats have introduced H.R. 1. and labeled it the highly misleading "For The People Act." After all, who could be against that? But once you get past the title and read the bill, it's a piece of legislation that should be of great concern to every citizen who values robust free speech rights and trustworthy elections.<br/><br/>
+
+It's inaccurately described by the biased mainstream media as a measure to combat corruption so Mrs. Pelosi's cronies can be seen as being in favor of "good government." Nothing could be further from the truth. </a></p>
+</div>
+<!-- /detail -->
+<div class="detail">
+<h2><a class="more" href="http://thehill.com/opinion/immigration/395536-who-really-wants-to-abolish-ice-surely-not-the-american-people" target="_blank" title="Support ICE!">Support ICE!</a></h2>
+<p><a class="more" href="http://thehill.com/opinion/immigration/395536-who-really-wants-to-abolish-ice-surely-not-the-american-people" target="_blank" title="Support ICE!.">Reasonable people can plainly see that ICE officials are under immense pressure on a multitude of fronts each and every day. They cannot let their guard down for one minute. President Trump thoroughly understands this and has been working with congressional Republicans for months to try to come up with commonsense solutions to reform our immigration system to help ICE do its job of keeping Americans safe. But the Democrats have been nowhere to be found. They do not seem interested in compromise simply because of their juvenile dislike of President Trump.</a></p>
+</div>
+<!-- /detail -->
+<div class="detail">
+<h2><a class="more" href="https://www.youtube.com/watch?v=nslp-Bz0eSw" target="_blank" title="Support Common Sense Conservative Immigration Reform Today!">Support Common Sense Conservative Immigration Reform Today!</a></h2>
+<p><a class="more" href="https://www.youtube.com/watch?v=nslp-Bz0eSw" target="_blank" title="Support Common Sense Conservative Immigration Reform Today!">Congress Must Prioritize American Security:<br/><br/>
+* Build The Wall<br/>
+* End Sanctuary Cities<br/>
+* Remove Criminals<br/>
+* Enforce The Rule Of Law<br/>
+* No Amnesty<br/><br/>
+ 
+
+Congress Should Prioritize American Security With Commonsense Conservative Immigration Reform!</a></p>
+</div>
+<!-- /detail -->
+<div class="detail">
+<h2><a class="more" href="https://www.washingtonexaminer.com/tag/donald-trump?source=%2Fnow-is-the-time-to-pass-term-limits" target="_blank" title="Its Time For Term Limits!">Itâs time for Congress to pass a constitutional amendment for term limits!</a></h2>
+<p><a class="more" href="https://www.washingtonexaminer.com/tag/donald-trump?source=%2Fnow-is-the-time-to-pass-term-limits" target="_blank" title="Its Time For Term Limits!">Our nation is facing countless problems that need to be handled immediately.
+
+Border security.  Out of control spending and debt.  High taxes and unfair regulations.   An unchecked IRS.  A struggling economy.
+
+But Washington is brokenâ¦and it all leads back to the career politicians who donât want to change the failed status quo.</a></p>
+</div>
+<!-- /detail -->
+<div class="detail">
+<h2><a class="more" href="https://www.youtube.com/watch?v=wPYgGiI1nxU" target="_blank" title="Torchbearer: Starring Phil Robertson">Torchbearer: Starring Phil Robertson</a></h2>
+<p><a class="more" href="https://www.youtube.com/watch?v=wPYgGiI1nxU" target="_blank" title="Torchbearer: Starring Phil Robertson">Citizens United Productions is pleased to announce our latest film, Torchbearer, starring Phil Robertson. "When man stops believing in God, he'll believe in anything."<br/><br/>
+			Now Available on DVD!<br/><br/>
+			Watch the trailer, and order your copy today!!</a></p>
+</div>
+<!-- /detail -->
+</div>
+<!-- /details -->
+</div>
+<!-- /details_wrapper -->
+<div class="paging">
+<div id="numbers"></div>
+<a class="previous" href="javascript:void(0);" title="Previous">Previous</a> <a class="next" href="javascript:void(0);" title="Next">Next</a> </div>
+<!-- /paging -->
+<a class="play" href="javascript:void(0);" title="Turn on autoplay">Play</a> <a class="pause" href="javascript:void(0);" title="Turn off autoplay">Pause</a> </div>
+<!-- /panel -->
+<div class="backgrounds">
+<div class="item item_1"> <a class="more" href="http://www.stopbidenagenda.com" target="_blank" title="http://www.stopbidenagenda.com"><img alt="http://www.stopbidenagenda.com" border="0" height="387" src="images/main-box-biden-agenda.png" width="619"/></a> </div>
+<!-- /item -->
+<div class="item item_2"> <a class="more" href="http://www.citizensunited.org/editorials.aspx?article=11801" target="_blank" title="Restore Trust In Our Elections"><img alt="Restore Trust In Our Elections" border="0" height="387" src="images/main-box-Restore-Elections.jpg" width="619"/></a> </div>
+<!-- /item -->
+<div class="item item_3"> <a class="more" href="https://www.scribd.com/lists/24037237/Citizens-United-s-Biden-FOIA-Litigation" target="_blank" title="What is Joe Biden Hiding?"><img alt="What is Joe Biden Hiding?" border="0" height="387" src="images/What-is-joe-biden-hiding.jpg" width="619"/></a> </div>
+<!-- /item -->
+<div class="item item_4"> <a class="more" href="https://www.foxnews.com/opinion/biden-wrong-china-career-check-record-david-bossie" target="_blank" title=""><img alt="Stop the Liberals, Support Free Speech, Defend Citizens United" border="0" height="387" src="images/BidenPostcard-619.jpg" width="619"/></a> </div>
+<!-- /item -->
+<div class="item item_5"> <a class="more" href="https://www.washingtontimes.com/news/2021/mar/3/liberals-attack-first-amendment-again-with-hr-1/" target="_blank" title=""><img alt="Stop the Liberals, Support Free Speech, Defend Citizens United" border="0" height="387" src="images/main-box-Defend-Citizens-United-.jpg" width="619"/></a> </div>
+<!-- /item -->
+<div class="item item_6"> <a class="more" href="http://thehill.com/opinion/immigration/395536-who-really-wants-to-abolish-ice-surely-not-the-american-people" target="_blank" title="Support ICE!"><img alt="Support ICE!" border="0" height="387" src="images/main-box-Support-ICE.jpg" width="619"/></a> </div>
+<!-- /item -->
+<div class="item item_7"> <a class="more" href="https://www.youtube.com/watch?v=nslp-Bz0eSw" target="_blank" title="Support Common Sense Conservative Immigration Reform Today!"><img alt="Support Common Sense Conservative Immigration Reform Today!" border="0" height="387" src="images/Build-The-Wall-619x387v2.jpg" width="619"/></a> </div>
+<!-- /item -->
+<div class="item item_8"> <a class="more" href="https://www.washingtonexaminer.com/tag/donald-trump?source=%2Fnow-is-the-time-to-pass-term-limits" target="_blank" title="Its Time For Term Limits!"><img alt="Its Time For Term Limits!" border="0" height="387" src="images/main-box-term-limits.jpg" width="619"/></a> </div>
+<!-- /item -->
+<div class="item item_9"> <a class="more" href="https://www.youtube.com/watch?v=wPYgGiI1nxU" target="_blank" title="Torchbearer: Starring Phil Robertson"><img alt="Torchbearer: Starring Phil Robertson" border="0" height="387" src="images/Main-box-Torchbearer-dvd.jpg" width="619"/></a> </div>
+<!-- /item -->
+</div>
+<!-- /backgrounds -->
+</div>
+<!-- /carousel -->
+</div>
+<!-- /wrapper -->
+<div id="newsticker-demo">
+<div class="newsticker-latestheadlines">
+<a href="News.aspx">Latest News</a> | <br/>
+<a class="newsticker-smaller" href="News.aspx">(See all)</a>
+</div>
+<div class="newsticker-jcarousellite">
+<ul>
+<table border="0" cellspacing="0" id="dtlNewsDatalist">
+<tr>
+<td>
+<li>
+<div class="info">
+<a href="cu-in-the-news.aspx?article=12115">
+					JTN: David Bossie: Xavier Becerra is a "Left-wing ideologue" - 03/09/2021</a>
+<a href="cu-in-the-news.aspx?article=12115">
+<span class="cat"><i>David Bossie, President of Citizens United, on Biden's nomination of...</i></span></a>
+</div>
+<div class="clear"><image height="10" src="images/empty.gif" width="1"/></div>
+</li>
+</td>
+</tr><tr>
+<td>
+<li>
+<div class="info">
+<a href="cu-in-the-news.aspx?article=12113">
+					Breitbart: Dave Bossie: RNC Will Not Depend on Establishment Media - 03/09/2021</a>
+<a href="cu-in-the-news.aspx?article=12113">
+<span class="cat"><i>ORLANDO, Florida â David Bossie, a veteran conservative operative and...</i></span></a>
+</div>
+<div class="clear"><image height="10" src="images/empty.gif" width="1"/></div>
+</li>
+</td>
+</tr><tr>
+<td>
+<li>
+<div class="info">
+<a href="cu-in-the-news.aspx?article=12103">
+					JTN: David Bossie On New Effort To Defeat The Biden - 03/03/2021</a>
+<a href="cu-in-the-news.aspx?article=12103">
+<span class="cat"><i>Top Conservative Dave Bossie says Democrats bill called, "HR1" will,...</i></span></a>
+</div>
+<div class="clear"><image height="10" src="images/empty.gif" width="1"/></div>
+</li>
+</td>
+</tr><tr>
+<td>
+<li>
+<div class="info">
+<a href="latest-updates.aspx?article=12099">
+					Americans for Prosperity Foundation v. Becerra Amicus Brief - 03/02/2021</a>
+<a href="latest-updates.aspx?article=12099">
+<span class="cat"><i>Citizens United and Citizens United Foundation have filed an amicus...</i></span></a>
+</div>
+<div class="clear"><image height="10" src="images/empty.gif" width="1"/></div>
+</li>
+</td>
+</tr><tr>
+<td>
+<li>
+<div class="info">
+<a href="cu-in-the-news.aspx?article=12097">
+					JTN: Mystery deepens over Biden Interior nominee's finances as she - 03/02/2021</a>
+<a href="cu-in-the-news.aspx?article=12097">
+<span class="cat"><i>Deb Haaland erases $40k in income from 2018, now claims...</i></span></a>
+</div>
+<div class="clear"><image height="10" src="images/empty.gif" width="1"/></div>
+</li>
+</td>
+</tr><tr>
+<td>
+<li>
+<div class="info">
+<a href="cu-in-the-news.aspx?article=12085">
+					BPR: Citizens United to expose Biden's 'radical' agenda, fight for - 02/26/2021</a>
+<a href="cu-in-the-news.aspx?article=12085">
+<span class="cat"><i>The conservative and pro-Trump Citizens United nonprofit organization that was...</i></span></a>
+</div>
+<div class="clear"><image height="10" src="images/empty.gif" width="1"/></div>
+</li>
+</td>
+</tr>
+</table>
+</ul>
+</div>
+<!-- /newsticker-jcarousellite -->
+</div>
+<!-- /newsticker-demo -->
+<div id="fourboxes">
+<div class="boxes" id="box1"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="131" src="https://www.youtube.com/embed/E3GOT2c1UUc?autoplay=1" width="232"></iframe></div>
+<div class="boxes" id="box2"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="131" src="https://www.youtube.com/embed/QihLJEMg5xA" width="232"></iframe></div>
+<div class="boxes" id="box3"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="131" src="https://www.youtube.com/embed/glKXlJsjsQU" width="232"></iframe></div>
+<div class="boxes" id="box4"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="131" src="https://www.youtube.com/embed/6L4NI6pVZZk" width="232"></iframe></div>
+</div>
+
+<div id="footer">
+<div class="footercolumn">
+<h2>About</h2>
+<ul class="footersections">
+<li><a href="who-we-are.aspx">Who We Are</a></li>
+<li><a href="what-we-do.aspx">What Is Citizens United</a></li>
+<li><a href="fulfilling-our-mission.aspx">Fulfilling Our Mission</a></li>
+<li><a href="http://www.cuvfec.com" target="_blank">CU v. FEC</a></li>
+<li><a href="contact-us.aspx">Contact Us</a></li>
+<li><a href="http://citizensunited.org/Internship.aspx">Internship</a></li>
+</ul>
+</div>
+<div class="footercolumn">
+<h2>    </h2>
+</div>
+<div class="footercolumn">
+<h2>News</h2>
+<ul class="footersections">
+<li><a href="latest-updates.aspx">Latest Updates</a></li>
+<li><a href="cu-in-the-news.aspx">CU In The News</a></li>
+<li><a href="press-releases.aspx">Press Releases</a></li>
+<li><a href="editorials.aspx">Editorials</a></li>
+<li><a href="rss.aspx"><img alt="" src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" style="border:0"/>Subscribe RSS</a></li>
+</ul>
+</div>
+<div class="footercolumn">
+<h2>   </h2>
+</div>
+<div class="footercolumn">
+<h2>Videos</h2>
+<ul class="footersections">
+<li><a href="film-trailers.aspx">Film Trailers</a></li>
+<li><a href="issue-ads.aspx">Issue Ads</a></li>
+</ul>
+</div>
+<div class="footercolumn">
+<h2> </h2>
+</div>
+<div class="footercolumn">
+<h2>Film Library</h2>
+<ul class="footersections">
+<li><a href="all-films.aspx" target="_blank">Torchbearer</a></li>
+<li><a href="http://www.rockymountainheist.com/" target="_blank">Rocky Mountain Heist</a></li>
+<li><a href="http://www.fastterry.com/" target="_blank">Fast Terry</a></li>
+<li><a href="http://www.OurSacredHonorMovie.com/" target="_blank">Our Sacred Honor</a></li>
+<li><a href="http://www.TheHopeAndTheChange.com/" target="_blank">The Hope &amp; The Change</a></li>
+<li><a href="http://www.OccupyUnmasked.com/" target="_blank">Occupy Unmasked</a></li>
+<li><a href="http://www.ninedaysthatchangedtheworld.com/" target="_blank">Nine Days That Changed<br/> The World</a></li>
+<li><a href="http://www.reagandocumentary.com/" target="_blank">Ronald Reagan</a></li>
+<li><a href="all-films.aspx">See all 25 documentaries</a></li>
+</ul>
+</div>
+<div class="footercolumn">
+<a href="https://secure.donationreport.com/productlist.html?key=1QSEBUQ9MLSW" target="_blank"><h2>   Store</h2></a>
+</div>
+<div class="footercolumn">
+<h2>       </h2>
+</div>
+<div class="footercolumn">
+<h2>Support Us</h2>
+<ul class="footersections">
+<li><a href="https://secure.donationreport.com/donate.html?key=ME6AVZNKIFP2" target="_blank">Donate Online</a></li>
+<li><a href="donate-by-phone-or-mail.aspx">Donate Phone/Mail</a></li>
+<li><a href="planned-giving.aspx">Planned Giving </a></li>
+<li><a href="legacy-society.aspx">Legacy Society </a></li>
+<li><a href="frequently-asked-questions.aspx">FAQs </a></li>
+</ul>
+</div>
+<div class="footercolumn">
+<h2>       </h2>
+</div>
+<div class="footercolumn">
+<h2> Social Networks</h2>
+<ul class="footersections" id="footer-social">
+<li><a href="http://www.facebook.com/CitizensUnitedDC/" target="_blank"><img alt="Facebook" src="http://citizensunited.org/images/32/facebook.png"/>Facebook</a></li>
+<li><a href="http://twitter.com/Citizens_United" target="_blank"><img alt="Twitter" src="http://citizensunited.org/images/32/twitter.png"/>Twitter</a></li>
+<li><a href="http://www.youtube.com/user/citizensunited07" target="_blank"><img alt="YouTube" src="http://citizensunited.org/images/32/youtube.png"/>YouTube</a></li>
+<li><a href="http://www.scribd.com/CitizensUnited" target="_blank"><img alt="Scribd" src="http://citizensunited.org/images/32/scribd_30x30.gif"/> Scribd</a></li>
+<li> <br/> </li>
+</ul>
+</div>
+<div class="footercolumn">
+<h2>  </h2>
+</div><br/>
+<script language="javascript" src="http://paracom.paramountcommunication.com/phase2/bhecho_files/smartlists/check_entry.js"></script>
+<script language="javascript">
+	<!--
+		function check_cdfs(form) {
+			return true;
+		}
+	-->
+</script><script language="javascript" type="text/javascript">
+<!--
+    function doSubmit() {
+        if (check_cdfs(document.survey)) {
+			window.open('','signup','resizable=1,scrollbars=0,width=300,height=150,top=450,left=500');
+            return true;
+        }
+        else { return false; }
+    }
+-->
+</script>
+<form action="https://paracom.paramountcommunication.com/phase2/bullseye/contactupdate1.php3" id="bullseye" method="post" name="bullseye" target="_blank">
+<input name="cid" type="hidden" value="4e1cbd6b1e5a5dafb474ac92ffebc505"/>
+<div class="button">
+<input name="email" onclick="this.value=''" size="15" type="text" value="Email Subscribe"/>
+<input name="SubmitBullsEye" type="submit" value="Submit"/>
+<input name="grp[]" type="hidden" value="870126"/>
+<!--<input type='hidden' name='redirect_url' value='http://localhost:59632/test/thankyou.aspx'>
+	For production -->
+<input name="redirect_url" type="hidden" value="http://www.citizensunited.org/thankyou.aspx"/>
+</div>
+</form>
+</div>
+<div id="footer2">
+<p>© 2021 - <a href="index.aspx">Citizens United</a> - 202-547-5420<br/>
+1006 Pennsylvania Ave SE - Washington, DC 20003<br/>
+<a href="privacy.aspx">Privacy Policy</a></p>
+</div>
+<!-- Google Code for Remarketing tag -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 990766099;
+var google_conversion_label = "7BIfCI32kwQQk8i32AM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+</script>
+<noscript>
+<div style="display:inline;">
+<img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990766099/?value=0&amp;label=7BIfCI32kwQQk8i32AM&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+</div>
+</noscript>
+<script>
+    (function(e){var t="789",n=document,r,i,s={http:"http://cdn.mplxtms.com/s/MasterTMS.min.js",https:"https://secure-cdn.mplxtms.com/s/MasterTMS.min.js"},o=s[/\w+/.exec(window.location.protocol)[0]];i=n.createElement("script"),i.type="text/javascript",i.async=!0,i.src=o+"#"+t,r=n.getElementsByTagName("script")[0],r.parentNode.insertBefore(i,r),i.readyState?i.onreadystatechange=function(){if(i.readyState==="loaded"||i.readyState==="complete")i.onreadystatechange=null}:i.onload=function(){try{e()}catch(t){}}})(function(){});
+</script>
+</body></html>

@@ -1,0 +1,1152 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en-US"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="Copyright © 2008-2015 DailyDiscord.com" name="copyright">
+<meta content="oqOIW0J9N00XWNVi7XDdsI41pvkt_k2rWc54v2TwhYk" name="google-site-verification">
+<meta content="The Most Trusted Name in Blog. Home of the Transcosmetic Party, a place for raging moderates, tragic optimists, and integral outcasts" name="description"/>
+<meta content="index, follow" name="robots"/>
+<meta content="The Daily Discord | www.DailyDiscord.com" name="author"/>
+<title>The Daily Discord | Home to an eclectic band of pseudo-journalistic couch potatoes &amp; team Search Truth Quest: paranormal researchers determined to search for the truth in quest form.</title>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="http://www.dailydiscord.com/wordpress/xmlrpc.php" rel="pingback"/>
+<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript">function ctSetCookie___from_backend(c_name, value) {document.cookie = c_name + "=" + encodeURIComponent(value) + "; path=/; samesite=lax";}ctSetCookie___from_backend('ct_checkjs', '9257', '0');</script><link href="//secure.gravatar.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//netdna.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<link href="http://www.dailydiscord.com" rel="alternate" title="The Daily Discord » Feed" type="application/rss+xml"/>
+<link href="http://www.dailydiscord.com/?feed=comments-rss2" rel="alternate" title="The Daily Discord » Comments Feed" type="application/rss+xml"/>
+<!-- This site uses the Google Analytics by ExactMetrics plugin v6.6.2 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+<script data-cfasync="false" src="//www.googletagmanager.com/gtag/js?id=UA-65429244-1" type="text/javascript"></script>
+<script data-cfasync="false" type="text/javascript">
+				var em_version = '6.6.2';
+				var em_track_user = true;
+				var em_no_track_reason = '';
+				
+								var disableStr = 'ga-disable-UA-65429244-1';
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					return document.cookie.indexOf( disableStr + '=true' ) > - 1;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if ( __gtagTrackerIsOptedOut() ) {
+					window[disableStr] = true;
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+					window[disableStr] = true;
+				}
+
+				if ( 'undefined' === typeof gaOptout ) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+				if ( em_track_user ) {
+					function __gtagTracker() {dataLayer.push( arguments );}
+					__gtagTracker( 'js', new Date() );
+					__gtagTracker( 'set', {
+						'developer_id.dNDMyYj' : true,
+						                    });
+					__gtagTracker( 'config', 'UA-65429244-1', {
+						forceSSL:true,					} );
+										window.gtag = __gtagTracker;										(
+						function () {
+							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+							/* ga and __gaTracker compatibility shim. */
+							var noopfn = function () {
+								return null;
+							};
+							var newtracker = function () {
+								return new Tracker();
+							};
+							var Tracker = function () {
+								return null;
+							};
+							var p = Tracker.prototype;
+							p.get = noopfn;
+							p.set = noopfn;
+							p.send = function (){
+								var args = Array.prototype.slice.call(arguments);
+								args.unshift( 'send' );
+								__gaTracker.apply(null, args);
+							};
+							var __gaTracker = function () {
+								var len = arguments.length;
+								if ( len === 0 ) {
+									return;
+								}
+								var f = arguments[len - 1];
+								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+									if ( 'send' === arguments[0] ) {
+										var hitConverted, hitObject = false, action;
+										if ( 'event' === arguments[1] ) {
+											if ( 'undefined' !== typeof arguments[3] ) {
+												hitObject = {
+													'eventAction': arguments[3],
+													'eventCategory': arguments[2],
+													'eventLabel': arguments[4],
+													'value': arguments[5] ? arguments[5] : 1,
+												}
+											}
+										}
+										if ( typeof arguments[2] === 'object' ) {
+											hitObject = arguments[2];
+										}
+										if ( 'undefined' !== typeof (
+											arguments[1].hitType
+										) ) {
+											hitObject = arguments[1];
+										}
+										if ( hitObject ) {
+											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+											hitConverted = mapArgs( hitObject );
+											__gtagTracker( 'event', action, hitConverted );
+										}
+									}
+									return;
+								}
+
+								function mapArgs( args ) {
+									var gaKey, hit = {};
+									var gaMap = {
+										'eventCategory': 'event_category',
+										'eventAction': 'event_action',
+										'eventLabel': 'event_label',
+										'eventValue': 'event_value',
+										'nonInteraction': 'non_interaction',
+										'timingCategory': 'event_category',
+										'timingVar': 'name',
+										'timingValue': 'value',
+										'timingLabel': 'event_label',
+									};
+									for ( gaKey in gaMap ) {
+										if ( 'undefined' !== typeof args[gaKey] ) {
+											hit[gaMap[gaKey]] = args[gaKey];
+										}
+									}
+									return hit;
+								}
+
+								try {
+									f.hitCallback();
+								} catch ( ex ) {
+								}
+							};
+							__gaTracker.create = newtracker;
+							__gaTracker.getByName = newtracker;
+							__gaTracker.getAll = function () {
+								return [];
+							};
+							__gaTracker.remove = noopfn;
+							__gaTracker.loaded = true;
+							window['__gaTracker'] = __gaTracker;
+						}
+					)();
+									} else {
+										console.log( "" );
+					( function () {
+							function __gtagTracker() {
+								return null;
+							}
+							window['__gtagTracker'] = __gtagTracker;
+							window['gtag'] = __gtagTracker;
+					} )();
+									}
+			</script>
+<!-- / Google Analytics by ExactMetrics -->
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.dailydiscord.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/cv.css?ver=2.3.4" id="pt-cv-public-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/plugins/acurax-social-media-widget/css/style.css?v=3.2.10&amp;ver=5.6.2" id="acx_smw_widget_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/plugins/bbpress/templates/default/css/bbpress.min.css?ver=2.6.6" id="bbp-default-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/css/sfsi-style.css?ver=5.6.2" id="SFSIPLUSmainCss-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/plugins/google-analytics-dashboard-for-wp/assets/css/frontend.min.css?ver=6.6.2" id="exactmetrics-popular-posts-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://fonts.googleapis.com/css?family=Nobile|Droid+Sans|Copse|" id="google_fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/themes/magazine-premium/style.css?ver=5.6.2" id="theme_stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" id="font_awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/plugins/advanced-random-posts-widget/assets/css/arpw-frontend.css?ver=5.6.2" id="arpw-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" id="addtoany-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/plugins/jetpack/css/jetpack.css?ver=9.4" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="http://www.dailydiscord.com/wordpress/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="http://www.dailydiscord.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="exactmetrics-frontend-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"http:\/\/www.dailydiscord.com","hash_tracking":"false","ua":"UA-65429244-1"};
+/* ]]> */
+</script>
+<script id="exactmetrics-frontend-script-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min.js?ver=6.6.2" type="text/javascript"></script>
+<script id="addtoany-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" type="text/javascript"></script>
+<script id="ct_public-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var ctPublic = {"_ajax_nonce":"c7f2834877","_ajax_url":"http:\/\/www.dailydiscord.com\/wordpress\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script id="ct_public-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/cleantalk-spam-protect/js/apbct-public.min.js?ver=5.153.3" type="text/javascript"></script>
+<script id="cleantalk-modal-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/cleantalk-spam-protect/js/cleantalk-modal.min.js?ver=5.153.3" type="text/javascript"></script>
+<script id="ct_nocache-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var ctNocache = {"ajaxurl":"http:\/\/www.dailydiscord.com\/wordpress\/wp-admin\/admin-ajax.php","info_flag":"","set_cookies_flag":"","blog_home":"http:\/\/www.dailydiscord.com\/"};
+/* ]]> */
+</script>
+<script id="ct_nocache-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/cleantalk-spam-protect/js/cleantalk_nocache.min.js?ver=5.153.3" type="text/javascript"></script>
+<link href="http://www.dailydiscord.com/index.php?rest_route=/" rel="https://api.w.org/"/><link href="http://www.dailydiscord.com/wordpress/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.6.2" name="generator"/>
+<link href="https://wp.me/6wDny" rel="shortlink"/>
+<!-- Starting Styles For Social Media Icon From Acurax International www.acurax.com -->
+<style type="text/css">
+#acx_social_widget img 
+{
+width: 32px; 
+}
+#acx_social_widget 
+{
+min-width:0px; 
+position: static; 
+}
+</style>
+<!-- Ending Styles For Social Media Icon From Acurax International www.acurax.com -->
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<script>
+		window.addEventListener("sfsi_plus_functions_loaded", function() {
+			var body = document.getElementsByTagName('body')[0];
+			// console.log(body);
+			body.classList.add("sfsi_plus_3.47");
+		})
+		// window.addEventListener('sfsi_plus_functions_loaded',function(e) {
+		// 	jQuery("body").addClass("sfsi_plus_3.47")
+		// });
+		jQuery(document).ready(function(e) {
+			jQuery("body").addClass("sfsi_plus_3.47")
+		});
+
+		function sfsi_plus_processfurther(ref) {
+			var feed_id = 'aFF6WGw5eUFVSmNwLzJ3cUlINU83cWN2Qk16MkEyMXdsT0llbE9mL29RWkdrM1ZuaDQ0SURqamwwS2VjL3FKZFZZNlIxeENPN1pBTWxtVmFCWkttOTJYV0g3SVJwSlpPZ1UwYlM4T0xZODVvVkF1VW4vNkxld1lNZUtXd3VNNmZ8akxSQ0FKOWpxZCt0Nk1YZlRpT0FOSkZLT0Z4cHkzNUIyNXR6SUYzMHp4WT0=';
+			var feedtype = 8;
+			var email = jQuery(ref).find('input[name="email"]').val();
+			var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+			if ((email != "Enter your email") && (filter.test(email))) {
+				if (feedtype == "8") {
+					var url = "https://api.follow.it/subscription-form/" + feed_id + "/" + feedtype;
+					window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+					return true;
+				}
+			} else {
+				alert("Please enter email address");
+				jQuery(ref).find('input[name="email"]').focus();
+				return false;
+			}
+		}
+	</script>
+<style>
+		.sfsi_plus_subscribe_Popinner {
+			width: 100% !important;
+			height: auto !important;
+			border: 1px solid #b5b5b5 !important;
+			padding: 18px 0px !important;
+			background-color: #ffffff !important;
+		}
+
+		.sfsi_plus_subscribe_Popinner form {
+			margin: 0 20px !important;
+		}
+
+		.sfsi_plus_subscribe_Popinner h5 {
+			font-family: Helvetica,Arial,sans-serif !important;
+
+			font-weight: bold !important;
+			color: #000000 !important;
+			font-size: 16px !important;
+			text-align: center !important;
+			margin: 0 0 10px !important;
+			padding: 0 !important;
+		}
+
+		.sfsi_plus_subscription_form_field {
+			margin: 5px 0 !important;
+			width: 100% !important;
+			display: inline-flex;
+			display: -webkit-inline-flex;
+		}
+
+		.sfsi_plus_subscription_form_field input {
+			width: 100% !important;
+			padding: 10px 0px !important;
+		}
+
+		.sfsi_plus_subscribe_Popinner input[type=email] {
+			font-family: Helvetica,Arial,sans-serif !important;
+
+			font-style: normal !important;
+			color: #000000 !important;
+			font-size: 14px !important;
+			text-align: center !important;
+		}
+
+		.sfsi_plus_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+			font-family: Helvetica,Arial,sans-serif !important;
+
+			font-style: normal !important;
+			color: #000000 !important;
+			font-size: 14px !important;
+			text-align: center !important;
+		}
+
+		.sfsi_plus_subscribe_Popinner input[type=email]:-moz-placeholder {
+			/* Firefox 18- */
+			font-family: Helvetica,Arial,sans-serif !important;
+
+			font-style: normal !important;
+			color: #000000 !important;
+			font-size: 14px !important;
+			text-align: center !important;
+		}
+
+		.sfsi_plus_subscribe_Popinner input[type=email]::-moz-placeholder {
+			/* Firefox 19+ */
+			font-family: Helvetica,Arial,sans-serif !important;
+
+			font-style: normal !important;
+			color: #000000 !important;
+			font-size: 14px !important;
+			text-align: center !important;
+		}
+
+		.sfsi_plus_subscribe_Popinner input[type=email]:-ms-input-placeholder {
+			font-family: Helvetica,Arial,sans-serif !important;
+
+			font-style: normal !important;
+			color: #000000 !important;
+			font-size: 14px !important;
+			text-align: center !important;
+		}
+
+		.sfsi_plus_subscribe_Popinner input[type=submit] {
+			font-family: Helvetica,Arial,sans-serif !important;
+
+			font-weight: bold !important;
+			color: #000000 !important;
+			font-size: 16px !important;
+			text-align: center !important;
+			background-color: #dedede !important;
+		}
+	</style>
+<meta content="yxTLd1Kn2ZELbHh8zrKm" name="follow.it-verification-code-aFF6WGw5eUFVSmNwLzJ3cUlINU83cWN2Qk16MkEyMXdsT0llbE9mL29RWkdrM1ZuaDQ0SURqamwwS2VjL3FKZFZZNlIxeENPN1pBTWxtVmFCWkttOTJYV0g3SVJwSlpPZ1UwYlM4T0xZODVvVkF1VW4vNkxld1lNZUtXd3VNNmZ8akxSQ0FKOWpxZCt0Nk1YZlRpT0FOSkZLT0Z4cHkzNUIyNXR6SUYzMHp4WT0="/><style type="text/css">img#wpstats{display:none}</style><style>
+body { color: #000000; font-family: ; font-weight: normal; font-size: px; }
+#page { background-color: ; }
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #000000; font-family: Garamond, "Hoefler Text", Times New Roman, Times, serif; font-weight: normal }
+#site-title a,#site-description{}
+#site-title a { font-family: Garamond, "Hoefler Text", Times New Roman, Times, serif; font-weight: normal; font-size: 14px; }
+#site-description { font-family: Nobile, sans-serif; font-weight: normal; font-size: 14px; }
+#site-navigation, #site-sub-navigation { font-family: Copse, sans-serif; font-weight: normal; }
+#site-navigation { font-size: px; background-color: #312b70; }
+#site-navigation li:hover, #site-navigation ul ul { background-color: #000000; }
+#site-navigation li a { color: #ffffff; }
+#site-navigation li a:hover { color: #ffffff; }
+#site-sub-navigation { font-size: px; }
+a, .entry-meta a, .format-link .entry-title a { color: ; }
+a:hover, .entry-meta a:hover, .format-link .entry-title a:hover { color: ; }
+.more-link, #posts-pagination a, input[type="submit"], .comment-reply-link, .more-link:hover, #posts-pagination a:hover, input[type="submit"]:hover, .comment-reply-link:hover { color: ; background-color: ; }
+.widget { background-color: ; }
+.entry-title, .entry-title a { font-family: Droid Sans, sans-serif; font-weight: normal; font-size: px; }
+.entry-meta, .entry-meta a { font-family: Droid Sans, sans-serif; font-weight: normal; font-size: 12px; }
+.post-category, .post-category a, .post-format, .post-format a { font-family: Copse, sans-serif; font-weight: normal; font-size: px; }
+</style>
+<!-- Jetpack Open Graph Tags -->
+<meta content="website" property="og:type"/>
+<meta content="The Daily Discord" property="og:title"/>
+<meta content="Home to an eclectic band of pseudo-journalistic couch potatoes &amp; team Search Truth Quest: paranormal researchers determined to search for the truth in quest form." property="og:description"/>
+<meta content="http://www.dailydiscord.com/" property="og:url"/>
+<meta content="The Daily Discord" property="og:site_name"/>
+<meta content="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/06/cropped-dd-logo-big-copy.png" property="og:image"/>
+<meta content="512" property="og:image:width"/>
+<meta content="512" property="og:image:height"/>
+<meta content="en_US" property="og:locale"/>
+<!-- End Jetpack Open Graph Tags -->
+<link href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/06/cropped-dd-logo-big-copy-32x32.png" rel="icon" sizes="32x32"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/06/cropped-dd-logo-big-copy-192x192.png" rel="icon" sizes="192x192"/>
+<link href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/06/cropped-dd-logo-big-copy-180x180.png" rel="apple-touch-icon"/>
+<meta content="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/06/cropped-dd-logo-big-copy-270x270.png" name="msapplication-TileImage"/>
+<style id="tt-easy-google-font-styles" type="text/css">p { }
+h1 { }
+h2 { }
+h3 { }
+h4 { }
+h5 { }
+h6 { }
+</style></meta></meta></head>
+<body class="home blog left-sidebar">
+<div class="grid" id="page">
+<header class="row" id="header" role="banner">
+<div class="c12">
+<div id="mobile-menu">
+<a class="left-menu" href="#"><i class="icon-reorder"></i></a>
+<a href="#"><i class="icon-search"></i></a>
+</div>
+<div id="drop-down-search"><form action="http://www.dailydiscord.com/" class="slide" id="searchform" method="get" role="search">
+<label class="assistive-text" for="site-search">Search for:</label>
+<input id="site-search" name="s" placeholder="Search…" type="search" value=""/>
+</form></div>
+<div class="title-logo-wrapper center">
+<a href="http://www.dailydiscord.com" id="site-logo" rel="home" title="The Daily Discord"><img alt="The Daily Discord" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2016/02/cropped-logofinalzML.jpg"/></a>
+<div id="title-wrapper">
+<h1 class="remove" id="site-title"><a href="http://www.dailydiscord.com" rel="home" title="The Daily Discord">The Daily Discord</a></h1>
+<h2 id="site-description">Home to an eclectic band of pseudo-journalistic couch potatoes &amp; team Search Truth Quest: paranormal researchers determined to search for the truth in quest form.</h2> </div>
+</div>
+<div class="center" id="header-widgets">
+<aside class="header-widget widget_search" id="search-4"><form action="http://www.dailydiscord.com/" class="slide" id="searchform" method="get" role="search">
+<label class="assistive-text" for="site-search">Search for:</label>
+<input id="site-search" name="s" placeholder="Search…" type="search" value=""/>
+</form></aside> </div>
+<nav id="site-navigation" role="navigation">
+<h3 class="assistive-text">Main menu</h3>
+<a class="assistive-text" href="#primary" title="Skip to content">Skip to content</a>
+<div class="menu"><ul>
+<li class="page_item page-item-3750"><a href="http://www.dailydiscord.com/?page_id=3750">Dumb Texts</a>
+<li class="page_item page-item-180"><a href="http://www.dailydiscord.com/?page_id=180">Ghetto Shaman</a>
+<li class="page_item page-item-135"><a href="http://www.dailydiscord.com/?page_id=135">Podcasts</a>
+<li class="page_item page-item-79 page_item_has_children"><a href="http://www.dailydiscord.com/?page_id=79">Search Brew Quest</a>
+<ul class="children">
+<li class="page_item page-item-83"><a href="http://www.dailydiscord.com/?page_id=83">Beer Review</a>
+</li></ul>
+<li class="page_item page-item-102"><a href="http://www.dailydiscord.com/?page_id=102">Sports</a>
+<li class="page_item page-item-100"><a href="http://www.dailydiscord.com/?page_id=100">Toons</a>
+<li class="page_item page-item-89"><a href="http://www.dailydiscord.com/?page_id=89">Videos</a>
+<li class="page_item page-item-93 page_item_has_children"><a href="http://www.dailydiscord.com/?page_id=93">News</a>
+<ul class="children">
+<li class="page_item page-item-95"><a href="http://www.dailydiscord.com/?page_id=95">Features</a>
+<li class="page_item page-item-97"><a href="http://www.dailydiscord.com/?page_id=97">Spoof News</a>
+</li></li></ul>
+<li class="page_item page-item-2 page_item_has_children"><a href="http://www.dailydiscord.com/?page_id=2">Search Truth Quest</a>
+<ul class="children">
+<li class="page_item page-item-76"><a href="http://www.dailydiscord.com/?page_id=76">Paranormal Features</a>
+<li class="page_item page-item-19"><a href="http://www.dailydiscord.com/?page_id=19">STQ Videos</a>
+</li></li></ul>
+</li></li></li></li></li></li></li></li></li></ul></div>
+</nav><!-- #site-navigation -->
+<nav id="site-sub-navigation" role="navigation">
+<h3 class="assistive-text">Sub menu</h3>
+</nav><!-- #site-sub-navigation -->
+</div><!-- .c12 -->
+</header><!-- #header .row -->
+<div id="main">
+<div class="row">
+<div id="left-nav"></div>
+<div class="c9" id="primary" role="main" style="float: right;">
+<div class="row">
+<article class="c12 bottom-border post-24212 post type-post status-publish format-standard hentry category-features category-mickzano category-newsandpolitics" id="post-24212">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=24212" rel="bookmark" title="">
+					The GOP Isn’t Dead, It’s Simply MAGAmorphosing		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-03-14">March 14, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/03/neococoon.jpg"><img alt="" class="wp-image-24249 aligncenter" height="414" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/03/neococoon.jpg" width="596"/></a></p>
+<p>Enters the much-anticipated Democratic victory lap! The mighty stimulus has arrived thus slaying the austerity dragon. So let’s all do the libby jig, which, like dancing with the rest of the Riffraff, is just a Trump to the left. Covid slew Goliath, republicanism is in its death throes and ding dong the Mitch is finally dead, or at least dead-<em>ish. </em>We even have a new commander in chief calling his good friends across the aisle neanderthals. It’s a brand new day, a place where insight is once again valued and Trumpism has been relegated to the dustbin of Hannity. We can all breathe a sigh of relief at the now reopened pubs, right? Sadly, this is more wishful thinking from our intellgiencier, courtesy of those ivory towers of crapademia. Speaking of neanderthals, if someone could just drag Marjorie Taylor Greene back to her cave that would be great. Don’t judge me for that, after all, it’s common Pleistocene behavior. Fine, just tear up a Captain Caveman comic strip somewhere and get it out of your system. Fucking liberals. I know Trump is declaring war on all RINOS and he’s splitting the donations between the GOP and his legal GoFundMe page, but the bottom line is this: the republican party will climb back into its neococoon and will undergo a profound and radical transformation only to emerge once again as something …well, even more radical.</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=24212">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="The GOP Isn’t Dead, It’s Simply MAGAmorphosing" data-a2a-url="http://www.dailydiscord.com/?p=24212"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24212&amp;linkname=The%20GOP%20Isn%E2%80%99t%20Dead%2C%20It%E2%80%99s%20Simply%20MAGAmorphosing" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24212&amp;linkname=The%20GOP%20Isn%E2%80%99t%20Dead%2C%20It%E2%80%99s%20Simply%20MAGAmorphosing" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24212&amp;linkname=The%20GOP%20Isn%E2%80%99t%20Dead%2C%20It%E2%80%99s%20Simply%20MAGAmorphosing" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24212&amp;linkname=The%20GOP%20Isn%E2%80%99t%20Dead%2C%20It%E2%80%99s%20Simply%20MAGAmorphosing" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24212&amp;linkname=The%20GOP%20Isn%E2%80%99t%20Dead%2C%20It%E2%80%99s%20Simply%20MAGAmorphosing" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24212&amp;linkname=The%20GOP%20Isn%E2%80%99t%20Dead%2C%20It%E2%80%99s%20Simply%20MAGAmorphosing" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-24212 --><!-- 2 cols --><div class="two-col-wrapper"> <article class="two-col c6 post-24208 post type-post status-publish format-standard hentry category-mickzano category-newsandpolitics category-spoof-news" id="post-24208">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=24208" rel="bookmark" title="">
+					To Meet GOP Halfway Biden Opens Child-Sex-Trafficking Ring In Pizza Parlor Basement		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-03-06">March 6, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/03/PizzaHillary-1.jpg"><img alt="" class="size-full wp-image-24214 aligncenter" height="442" loading="lazy" sizes="(max-width: 749px) 100vw, 749px" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/03/PizzaHillary-1.jpg" srcset="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/03/PizzaHillary-1.jpg 749w, http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/03/PizzaHillary-1-300x177.jpg 300w" width="749"/></a></p>
+<p>In true bipartisan fashion, President Biden has decided to fulfill at least one QAnon inspired prediction by opening a liberal run, child-sex-trafficking operation out of the basement of Pop’s Pizza in Clifton, NJ. The president hopes this political laurel-leaf will help republicans accept a wildly progressive agenda, not the least of which involves AOC just printing money willy nilly and handing it out to those most undeserving among us. Biden told reporters, “I want to extend universal healthcare to the whole universe, all on the backs of the American entrepreneur. I want it to include illegal aliens, those reptilians, the greys, and those green women Captain Kirk kept banging. Then I’m going to build solar panels on top of wind farms. And I will fund these green monstrosities by taxing the shit out of anyone not driving a Prius or a Tesla. Nuclear facilities will be turned into mall-sized dispensaries, and coal plants will be fumigated and converted into safe spaces for our LGBT communities. Then I’m going to shove Exxon so far up Shell’s ass they will both be thankful they’re petroleum producing companies. Then next week shit’s gonna get progressive.”</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=24208">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="To Meet GOP Halfway Biden Opens Child-Sex-Trafficking Ring In Pizza Parlor Basement" data-a2a-url="http://www.dailydiscord.com/?p=24208"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24208&amp;linkname=To%20Meet%20GOP%20Halfway%20Biden%20Opens%20Child-Sex-Trafficking%20Ring%20In%20Pizza%20Parlor%20Basement" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24208&amp;linkname=To%20Meet%20GOP%20Halfway%20Biden%20Opens%20Child-Sex-Trafficking%20Ring%20In%20Pizza%20Parlor%20Basement" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24208&amp;linkname=To%20Meet%20GOP%20Halfway%20Biden%20Opens%20Child-Sex-Trafficking%20Ring%20In%20Pizza%20Parlor%20Basement" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24208&amp;linkname=To%20Meet%20GOP%20Halfway%20Biden%20Opens%20Child-Sex-Trafficking%20Ring%20In%20Pizza%20Parlor%20Basement" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24208&amp;linkname=To%20Meet%20GOP%20Halfway%20Biden%20Opens%20Child-Sex-Trafficking%20Ring%20In%20Pizza%20Parlor%20Basement" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24208&amp;linkname=To%20Meet%20GOP%20Halfway%20Biden%20Opens%20Child-Sex-Trafficking%20Ring%20In%20Pizza%20Parlor%20Basement" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-24208 --> <article class="two-col c6 post-23906 post type-post status-publish format-standard hentry category-featuresarticles category-features category-mickzano category-newsandpolitics" id="post-23906">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23906" rel="bookmark" title="">
+					Purge The Red Hat Menace! Report Any Deplorable Activity Today		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-03-01">March 1, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/redscare-1.jpg"><img alt="" class="wp-image-24182 aligncenter" height="412" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/redscare-1.jpg" width="723"/></a></p>
+<p><strong>Does your neighbor drive a gas-guzzling truck? Do they wear red hats? Do they suspiciously disappear for a couple of hours on Sunday mornings? Do they tend to switch from CNN to Fox News when left unsupervised? If the answer to any of these questions is <em>yes</em>, you may be living next to a Proud Boy or, worse, a republican sympathizer! Wake up, real left-America, and ask yourself were your neighbors <em>really</em> just fishing on January 6th? Please report any potentially conservative activity to your local Safe Space Hall Monitor.</strong></p>
+<p>Tongue in cheek or not, we’ve all contemplated purging the MAGA-ranks with some Thanoesque snap of the finger or my Zanoesque equivalent where you just have to market it as the rapture. <em>Two for one, today only!</em> <em>All souls final!</em> </p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23906">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Purge The Red Hat Menace! Report Any Deplorable Activity Today" data-a2a-url="http://www.dailydiscord.com/?p=23906"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23906&amp;linkname=Purge%20The%20Red%20Hat%20Menace%21%20Report%20Any%20Deplorable%20Activity%20Today" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23906&amp;linkname=Purge%20The%20Red%20Hat%20Menace%21%20Report%20Any%20Deplorable%20Activity%20Today" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23906&amp;linkname=Purge%20The%20Red%20Hat%20Menace%21%20Report%20Any%20Deplorable%20Activity%20Today" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23906&amp;linkname=Purge%20The%20Red%20Hat%20Menace%21%20Report%20Any%20Deplorable%20Activity%20Today" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23906&amp;linkname=Purge%20The%20Red%20Hat%20Menace%21%20Report%20Any%20Deplorable%20Activity%20Today" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23906&amp;linkname=Purge%20The%20Red%20Hat%20Menace%21%20Report%20Any%20Deplorable%20Activity%20Today" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23906 --> <article class="two-col c6 top-border post-24139 post type-post status-publish format-standard hentry category-tonyballz category-vids" id="post-24139">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=24139" rel="bookmark" title="">
+					The Cactus Phone Lawsuit Saga Begins		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-02-20">February 20, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="484" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/mIPqauquj5E?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" style="border:0;" width="860"></iframe></span></p>
+<h3 style="text-align: center;"><strong>We just need a warning label and face and ear-guards. Easy fix.</strong></h3>
+<p><a href="http://www.dailydiscord.com/?cat=18"><img alt="" class="size-full wp-image-2853 aligncenter" height="51" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/04/button4.png" width="169"/></a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="The Cactus Phone Lawsuit Saga Begins" data-a2a-url="http://www.dailydiscord.com/?p=24139"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24139&amp;linkname=The%20Cactus%20Phone%20Lawsuit%20Saga%20Begins" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24139&amp;linkname=The%20Cactus%20Phone%20Lawsuit%20Saga%20Begins" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24139&amp;linkname=The%20Cactus%20Phone%20Lawsuit%20Saga%20Begins" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24139&amp;linkname=The%20Cactus%20Phone%20Lawsuit%20Saga%20Begins" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24139&amp;linkname=The%20Cactus%20Phone%20Lawsuit%20Saga%20Begins" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24139&amp;linkname=The%20Cactus%20Phone%20Lawsuit%20Saga%20Begins" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-24139 --> <article class="two-col c6 top-border post-24143 post type-post status-publish format-standard hentry category-cartoons category-mickzano" id="post-24143">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=24143" rel="bookmark" title="">
+					Name The Band!		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-02-20">February 20, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/qvJnj-1.jpg"><img alt="" class="wp-image-24137 aligncenter" height="367" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/qvJnj-1.jpg" width="573"/></a></p>
+<h3 style="text-align: center;"><strong>I would go with The Traveling Dingleberry.</strong></h3>
+<p><a href="http://www.dailydiscord.com/?cat=19"><img alt="" class="size-full wp-image-4468 aligncenter" height="51" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/11/button5.png" width="186"/></a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Name The Band!" data-a2a-url="http://www.dailydiscord.com/?p=24143"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24143&amp;linkname=Name%20The%20Band%21" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24143&amp;linkname=Name%20The%20Band%21" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24143&amp;linkname=Name%20The%20Band%21" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24143&amp;linkname=Name%20The%20Band%21" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24143&amp;linkname=Name%20The%20Band%21" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24143&amp;linkname=Name%20The%20Band%21" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-24143 --> <article class="two-col c6 top-border post-23781 post type-post status-publish format-standard hentry category-featuresarticles category-features category-mickzano category-newsandpolitics" id="post-23781">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23781" rel="bookmark" title="">
+					The Sociopathic Rightwing Cult Of Anti-Personality		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-02-19">February 19, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p style="text-align: center;"><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/DiscordDexter.jpg"><img alt="" class="wp-image-24123 aligncenter" height="315" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/DiscordDexter.jpg" width="496"/></a></p>
+<p>Now that this dark chapter of our country has officially ended, or more accurately <em>begun in earnest</em>, it should be crystal clear how the GOP has created an alternate universe, a place to act out their more basal impulses in the guise of freedom. True to form they continue to contribute nothing, predict nothing, provide excuses for everything and obstruct the rest. More pathetic still is how, when cornered, they either cling to their factoids or flee to their patented <em>all politicians are the problem</em> stance. Biden and his semi-supermajority do represent a different and welcome political chapter, but having so many Americans entrenched in a sociopathic mindset is daunting. As their disorder of choice has blossomed, I warned how it would eventually endanger our republic. Rush Limbaugh’s contributions have not gone unnoticed in this dystopic endeavor and, as for his passing, let’s just say prehensile pundits everywhere have dropped a collective diastolic point today. I still can’t fathom the sheer number of citizens willing to take a stab at psychopathy. Whereas the DSM-V quantifies the anti-social prevalence at about one percent of the population, the GOP represents an astounding thirty-five. So what gives? New studies may add some insights to the terminally insightless.</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23781">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="The Sociopathic Rightwing Cult Of Anti-Personality" data-a2a-url="http://www.dailydiscord.com/?p=23781"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23781&amp;linkname=The%20Sociopathic%20Rightwing%20Cult%20Of%20Anti-Personality" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23781&amp;linkname=The%20Sociopathic%20Rightwing%20Cult%20Of%20Anti-Personality" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23781&amp;linkname=The%20Sociopathic%20Rightwing%20Cult%20Of%20Anti-Personality" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23781&amp;linkname=The%20Sociopathic%20Rightwing%20Cult%20Of%20Anti-Personality" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23781&amp;linkname=The%20Sociopathic%20Rightwing%20Cult%20Of%20Anti-Personality" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23781&amp;linkname=The%20Sociopathic%20Rightwing%20Cult%20Of%20Anti-Personality" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23781 --> <article class="two-col c6 top-border post-23883 post type-post status-publish format-standard hentry category-mickzano category-newsandpolitics category-spoof-news" id="post-23883">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23883" rel="bookmark" title="">
+					Biden Hits 1.5 Million Dose-A-Day Goal But Sole Recipient Has Died		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-02-16">February 16, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/imageslonoinoi.jpg"><img alt="" class="wp-image-23886 aligncenter" height="226" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/imageslonoinoi.jpg" width="385"/></a></p>
+<p><em>Cedar Rapids, IA</em>—Earlier today, Iowian native Betty Flood was ‘accidentally’ the recipient of 1.5 million doses of the Pfizer COVID vaccination. While some are calling this injecticide “politically motivated,” others believe this was an attempt by the Biden Administration to appear COVID-competent as they grapple with the logistics of this massive nationwide rollout. An eyewitness claims Mrs. Flood became concerned something was wrong during her five thousandth and twenty-first injection, at which time she was reminded by staff that she was “doing a great thing for America.” One nurse even said not to worry, because “the first million shots were covered under Obamacare.” Shortly before opting out of her health plan and then her life, she told the charge nurse, “Sorry to be a bother, but I was really holding out for Moderna.”</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23883">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Biden Hits 1.5 Million Dose-A-Day Goal But Sole Recipient Has Died" data-a2a-url="http://www.dailydiscord.com/?p=23883"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23883&amp;linkname=Biden%20Hits%201.5%20Million%20Dose-A-Day%20Goal%20But%20Sole%20Recipient%20Has%20Died" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23883&amp;linkname=Biden%20Hits%201.5%20Million%20Dose-A-Day%20Goal%20But%20Sole%20Recipient%20Has%20Died" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23883&amp;linkname=Biden%20Hits%201.5%20Million%20Dose-A-Day%20Goal%20But%20Sole%20Recipient%20Has%20Died" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23883&amp;linkname=Biden%20Hits%201.5%20Million%20Dose-A-Day%20Goal%20But%20Sole%20Recipient%20Has%20Died" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23883&amp;linkname=Biden%20Hits%201.5%20Million%20Dose-A-Day%20Goal%20But%20Sole%20Recipient%20Has%20Died" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23883&amp;linkname=Biden%20Hits%201.5%20Million%20Dose-A-Day%20Goal%20But%20Sole%20Recipient%20Has%20Died" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23883 --> <article class="two-col c6 top-border post-24048 post type-post status-publish format-standard hentry category-uncategorized" id="post-24048">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=24048" rel="bookmark" title="">
+					Cactuus Phoooone! Yeah, We Sold Out For Sponsors And Shit		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-02-13">February 13, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="484" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/6i6OTmGzVEU?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" style="border:0;" width="860"></iframe></span></p>
+<p> </p>
+<p><a href="http://www.dailydiscord.com/?cat=11"><img alt="" class="size-full wp-image-5863 aligncenter" height="51" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2016/03/button11-1.png" width="242"/></a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Cactuus Phoooone! Yeah, We Sold Out For Sponsors And Shit" data-a2a-url="http://www.dailydiscord.com/?p=24048"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24048&amp;linkname=Cactuus%20Phoooone%21%20Yeah%2C%20We%20Sold%20Out%20For%20Sponsors%20And%20Shit" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24048&amp;linkname=Cactuus%20Phoooone%21%20Yeah%2C%20We%20Sold%20Out%20For%20Sponsors%20And%20Shit" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24048&amp;linkname=Cactuus%20Phoooone%21%20Yeah%2C%20We%20Sold%20Out%20For%20Sponsors%20And%20Shit" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24048&amp;linkname=Cactuus%20Phoooone%21%20Yeah%2C%20We%20Sold%20Out%20For%20Sponsors%20And%20Shit" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24048&amp;linkname=Cactuus%20Phoooone%21%20Yeah%2C%20We%20Sold%20Out%20For%20Sponsors%20And%20Shit" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24048&amp;linkname=Cactuus%20Phoooone%21%20Yeah%2C%20We%20Sold%20Out%20For%20Sponsors%20And%20Shit" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-24048 --> <article class="two-col c6 top-border post-24012 post type-post status-publish format-standard hentry category-featuresarticles category-features category-mickzano category-newsandpolitics" id="post-24012">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=24012" rel="bookmark" title="">
+					Factoids Damaging To The Public Discourse		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-02-01">February 1, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/truth2.jpg"><img alt="" class="size-full wp-image-23997 aligncenter" height="334" loading="lazy" sizes="(max-width: 474px) 100vw, 474px" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/truth2.jpg" srcset="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/truth2.jpg 474w, http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/truth2-300x211.jpg 300w" width="474"/></a></p>
+<p>In the interest of combating online and ongoing fake news when posting on social media I started labeling all of my work either ‘opinion’ or ‘satire’. And I am suggesting my friend similarly labels his posts: Factoids Damaging To The Public Discourse. For the latest example, my friend offered his Facebook wisdom entitled: LET ME GET THIS STRAIGHT but, as most of you are aware, republicans are simply not capable of getting anything straight. They do get louder and wronger and then resort to all caps, which must be part of the ideologically-dying-process. Face it, ‘straight’ is not their forte. Were any of them handed something straight, they’d immediately jump in a centrifuge and drive Plastic Man to a gay bar in South Bend. Stick with your strengths, Poke, which today is more of a crookedy, pretzely chaos-spiral-like-thing. I almost hate to tell him that the four best ‘points’ he’s made during the pandemic can be categorized as a presidential crime, a lie, an impeachable offense, and a seditious act. Who’s going to tell him? Let’s just drop this post in the cue with a scheduled date, and back away slowly…</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=24012">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Factoids Damaging To The Public Discourse" data-a2a-url="http://www.dailydiscord.com/?p=24012"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24012&amp;linkname=Factoids%20Damaging%20To%20The%20Public%20Discourse" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24012&amp;linkname=Factoids%20Damaging%20To%20The%20Public%20Discourse" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24012&amp;linkname=Factoids%20Damaging%20To%20The%20Public%20Discourse" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24012&amp;linkname=Factoids%20Damaging%20To%20The%20Public%20Discourse" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24012&amp;linkname=Factoids%20Damaging%20To%20The%20Public%20Discourse" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D24012&amp;linkname=Factoids%20Damaging%20To%20The%20Public%20Discourse" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-24012 --> <article class="two-col c6 top-border post-23943 post type-post status-publish format-standard hentry category-uncategorized" id="post-23943">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23943" rel="bookmark" title="">
+					Is Bison Boy The Missing Political Link?		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-02-01">February 1, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/68bca25e-86d7-4235-bf79-b50e2fe237c4-DW1_0120.jpg"><img alt="" class="wp-image-23947 aligncenter" height="300" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/02/68bca25e-86d7-4235-bf79-b50e2fe237c4-DW1_0120.jpg" width="525"/></a></p>
+<p>Watching the foundations of our republic’s recent rumblings evoked some mixed emotions for this blogger. My sister was furious with my <em>dimsurrection day</em> aloofness. On 1/6 I was more about grabbing the popcorn and watching the show than any angst over our flailing democracy. Look, when you warn of an encroaching problem for decades there’s a certain detachment when said problem finally manifests, in this case in bison-shaman form. I must admit to being a little jealous of our organically grown, free-range seditionist. When the day comes that I storm the Bastille<strong>—</strong>for the good guys, of course<strong>—</strong>I hope I can pull off a costume half as epic. He certainly exudes a certain approachable vibe; he’s a snazzy charismatic character, a natural leader, and he prefers organic food. More than any republican politician, journalist, or even your average MAGA-citizen, I believe I can don my cape &amp; banana suit combo, sit down with this man, and bridge our epic ideological divide. Zanonon will grant you an audience, well, provided you make bail.</p>
+<p>And where’s that progressive agenda we ordered?! There’s only one way to get progressivism rammed through and I am concerned about unity Joe throwing the hail mary.</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23943">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Is Bison Boy The Missing Political Link?" data-a2a-url="http://www.dailydiscord.com/?p=23943"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23943&amp;linkname=Is%20Bison%20Boy%20The%20Missing%20Political%20Link%3F" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23943&amp;linkname=Is%20Bison%20Boy%20The%20Missing%20Political%20Link%3F" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23943&amp;linkname=Is%20Bison%20Boy%20The%20Missing%20Political%20Link%3F" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23943&amp;linkname=Is%20Bison%20Boy%20The%20Missing%20Political%20Link%3F" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23943&amp;linkname=Is%20Bison%20Boy%20The%20Missing%20Political%20Link%3F" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23943&amp;linkname=Is%20Bison%20Boy%20The%20Missing%20Political%20Link%3F" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23943 --> <article class="two-col c6 top-border post-23914 post type-post status-publish format-standard hentry category-stq-videos category-stq category-tonyballz category-vids" id="post-23914">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23914" rel="bookmark" title="">
+					The Mime Versus Alien Chronicles		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-01-30">January 30, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="484" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/6RBEwyst2I0?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;wmode=transparent" style="border:0;" width="860"></iframe></span></p>
+<p> </p>
+<p style="text-align: center;"><strong>This is a Searth Truth Quest Video that changes everything …just not for the better.</strong></p>
+<p> </p>
+<p><a href="http://www.dailydiscord.com/?cat=50"><img alt="" class="size-full wp-image-2802 aligncenter" height="51" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/04/button1.png" width="216"/></a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="The Mime Versus Alien Chronicles" data-a2a-url="http://www.dailydiscord.com/?p=23914"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23914&amp;linkname=The%20Mime%20Versus%20Alien%20Chronicles" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23914&amp;linkname=The%20Mime%20Versus%20Alien%20Chronicles" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23914&amp;linkname=The%20Mime%20Versus%20Alien%20Chronicles" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23914&amp;linkname=The%20Mime%20Versus%20Alien%20Chronicles" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23914&amp;linkname=The%20Mime%20Versus%20Alien%20Chronicles" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23914&amp;linkname=The%20Mime%20Versus%20Alien%20Chronicles" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23914 --> <article class="two-col c6 top-border post-23870 post type-post status-publish format-standard hentry category-mickzano category-newsandpolitics category-spoof-news" id="post-23870">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23870" rel="bookmark" title="">
+					Facebook Jail! Please Send E-Cigarettes Via Paypal		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-01-26">January 26, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/White_fullpppp.jpg"><img alt="" class="wp-image-23876 aligncenter" height="335" loading="lazy" sizes="(max-width: 359px) 100vw, 359px" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/White_fullpppp.jpg" srcset="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/White_fullpppp.jpg 697w, http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/White_fullpppp-300x279.jpg 300w" width="359"/></a></p>
+<p>Today, the Land of Social Media Censorship—which is also the worst theme park <em>ever</em>—has taken a turn for the worse. President Trump’s recent ban from Twitter on the way out has birther’d a slew of social media rules of engagement, or at least a new emphasis on enforcing terms and conditions of use.  As a result, a friend of mine is serving a 12-day Twitter jail sentence, while still another was relegated to 30-day stint behind enemy lines in fascist-controlled Zuckerberg. Both incidents were rather tame, unless <em>schadenfreude</em> is now a crime. My friend Dan’s comment involved wishing Mike Pence an untimely demise, not sure of the exact details, but Dan does tend to get rather colorful with his comments. It’s Okay, <em>he’s British</em>. To quote Douglas Adams, he’s <em>mostly harmless. </em>Meanwhile, another acquaintance abused social media by hoping Ted Cruz’s recent seditious antics landed him in some Texas jail in which, as karma would dictate, he’d eventually be “raped by a cactus.” Now I understand about specific threats, but I am not sure this is what anyone would consider actionable intelligence. Granted, there are a lot of indigenous cacti in the region in question, but then his intentions would need to be somehow relayed to a plant in the succulent family, who would then agree to carry out this heinous act. <strong>[The following <em>‘prison succulent’</em> joke was removed by WordPress.]</strong> In other words, there’s a very low percentage of pulling this off. Granted, if someone ever managed, Ted would be doing some <em>pulling off</em> of his own. On a side note, if he loses his job in the Senate, it would be a <em>real</em> shame if he wouldn’t qualify for Obamacare.</p>
+<p style="text-align: center;"><strong>[‘<em>Thornographic’</em> joke deemed insensitive to desert flora.]</strong></p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23870">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Facebook Jail! Please Send E-Cigarettes Via Paypal" data-a2a-url="http://www.dailydiscord.com/?p=23870"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23870&amp;linkname=Facebook%20Jail%21%20Please%20Send%20E-Cigarettes%20Via%20Paypal" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23870&amp;linkname=Facebook%20Jail%21%20Please%20Send%20E-Cigarettes%20Via%20Paypal" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23870&amp;linkname=Facebook%20Jail%21%20Please%20Send%20E-Cigarettes%20Via%20Paypal" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23870&amp;linkname=Facebook%20Jail%21%20Please%20Send%20E-Cigarettes%20Via%20Paypal" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23870&amp;linkname=Facebook%20Jail%21%20Please%20Send%20E-Cigarettes%20Via%20Paypal" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23870&amp;linkname=Facebook%20Jail%21%20Please%20Send%20E-Cigarettes%20Via%20Paypal" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23870 --> <article class="two-col c6 top-border post-23849 post type-post status-publish format-standard hentry category-mickzano category-newsandpolitics category-spoof-news" id="post-23849">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23849" rel="bookmark" title="">
+					Yuuge Comeback Planned From New Trump Basecamp In Guyana		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-01-22">January 22, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/Rf0359af2bb0c488f0e3f0e5cf18396d1.jpg"><img alt="" class="wp-image-23851 aligncenter" height="321" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/Rf0359af2bb0c488f0e3f0e5cf18396d1.jpg" width="491"/></a></p>
+<p><em>Donaldtown, GY</em>—Mark your calendars, folks, because next November former president Donald J. Trump will be taking his whole <em>basket of deplorables</em> on a magical mystery rally for even more bigly winning! Cult-45 is cordially inviting all of his key peeps to join him at a newly established city of gold, deep in the jungles of South America. The president is believed to have built something he calls a ‘metopia,’ because, as he told his new legal defense team, “There’s no <em>you</em> in <em>you-</em>topia.” He also added, “We have all the merch! MAGA hats, MAGA shirts, MAGA buttons, and all at MAGA discounts!!” When asked to clarify, he said, “Oh, yeah we changed my slogan to Make America Guyana Again. I’ve been trying to get the locals to start hauling blocks to build my Trumple, but so far they’re refusing to drink the—well, you know.”</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23849">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Yuuge Comeback Planned From New Trump Basecamp In Guyana" data-a2a-url="http://www.dailydiscord.com/?p=23849"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23849&amp;linkname=Yuuge%20Comeback%20Planned%20From%20New%20Trump%20Basecamp%20In%20Guyana" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23849&amp;linkname=Yuuge%20Comeback%20Planned%20From%20New%20Trump%20Basecamp%20In%20Guyana" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23849&amp;linkname=Yuuge%20Comeback%20Planned%20From%20New%20Trump%20Basecamp%20In%20Guyana" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23849&amp;linkname=Yuuge%20Comeback%20Planned%20From%20New%20Trump%20Basecamp%20In%20Guyana" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23849&amp;linkname=Yuuge%20Comeback%20Planned%20From%20New%20Trump%20Basecamp%20In%20Guyana" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23849&amp;linkname=Yuuge%20Comeback%20Planned%20From%20New%20Trump%20Basecamp%20In%20Guyana" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23849 --> <article class="two-col c6 top-border post-23769 post type-post status-publish format-standard hentry category-mickzano category-newsandpolitics category-spoof-news" id="post-23769">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23769" rel="bookmark" title="">
+					Bipartisan Agreement To Remove POTUS But 25th Amendment Instructions Arrive To Congress Via IKEA		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-01-09">January 9, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/fuckphotoshop.jpg"><img alt="" class="wp-image-23771 aligncenter" height="289" loading="lazy" sizes="(max-width: 460px) 100vw, 460px" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/fuckphotoshop.jpg" srcset="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/fuckphotoshop.jpg 898w, http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/fuckphotoshop-300x189.jpg 300w, http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/fuckphotoshop-768x483.jpg 768w" width="460"/></a></p>
+<p><em><del>Tweet</del> Tower</em>—President Trump’s actions in his waning days in office demand his immediate removal and yet somehow the instructions, that should be clearly laid out in the US Constitution, have arrived via Amazon from the Netherlands with some assembly required. Congress is working feverishly to remedy the situation as the fate of our republic hangs in the balance. Amazon is tracking the package of the actual amendment itself, as the instructions seem to have arrived separately. During a press conference, Jeff Bezos admits the package was mistakenly sent to Outer Mongolia but that it is currently being safely sherpa’d to a small town in the Himalayas by a Yeti. Elon Musk has offered to have the package and the Yeti rocketed back to the US, and that Asian physicist with the white hair has offered to help with the assembly of the 25th Amendment, if and when it arrives safely. Thus far Congress remains unsure how to proceed during this anxious waiting period and is flirting with the idea of invoking the: “Hey, do you mind just wandering off quietly” clause.</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23769">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Bipartisan Agreement To Remove POTUS But 25th Amendment Instructions Arrive To Congress Via IKEA" data-a2a-url="http://www.dailydiscord.com/?p=23769"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23769&amp;linkname=Bipartisan%20Agreement%20To%20Remove%20POTUS%20But%2025th%20Amendment%20Instructions%20Arrive%20To%20Congress%20Via%20IKEA" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23769&amp;linkname=Bipartisan%20Agreement%20To%20Remove%20POTUS%20But%2025th%20Amendment%20Instructions%20Arrive%20To%20Congress%20Via%20IKEA" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23769&amp;linkname=Bipartisan%20Agreement%20To%20Remove%20POTUS%20But%2025th%20Amendment%20Instructions%20Arrive%20To%20Congress%20Via%20IKEA" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23769&amp;linkname=Bipartisan%20Agreement%20To%20Remove%20POTUS%20But%2025th%20Amendment%20Instructions%20Arrive%20To%20Congress%20Via%20IKEA" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23769&amp;linkname=Bipartisan%20Agreement%20To%20Remove%20POTUS%20But%2025th%20Amendment%20Instructions%20Arrive%20To%20Congress%20Via%20IKEA" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23769&amp;linkname=Bipartisan%20Agreement%20To%20Remove%20POTUS%20But%2025th%20Amendment%20Instructions%20Arrive%20To%20Congress%20Via%20IKEA" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23769 --> <article class="two-col c6 top-border post-23763 post type-post status-publish format-standard hentry category-uncategorized" id="post-23763">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23763" rel="bookmark" title="">
+					The Curious Case Of The Invisible Porcupine		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-01-08">January 8, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><span class="embed-youtube" style="text-align:center; display: block;"><iframe allowfullscreen="true" class="youtube-player" height="484" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation" src="https://www.youtube.com/embed/DAnxGJDX9Dg?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en-US&amp;autohide=2&amp;start=3&amp;wmode=transparent" style="border:0;" width="860"></iframe></span></p>
+<p style="text-align: center;"><strong>Has team STQ finally met their match? Other than local bouncers?</strong></p>
+<p><a href="http://www.dailydiscord.com/?cat=50"><img alt="" class="size-full wp-image-2799 aligncenter" height="51" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/04/button.png" width="168"/></a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="The Curious Case Of The Invisible Porcupine" data-a2a-url="http://www.dailydiscord.com/?p=23763"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23763&amp;linkname=The%20Curious%20Case%20Of%20The%20Invisible%20Porcupine" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23763&amp;linkname=The%20Curious%20Case%20Of%20The%20Invisible%20Porcupine" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23763&amp;linkname=The%20Curious%20Case%20Of%20The%20Invisible%20Porcupine" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23763&amp;linkname=The%20Curious%20Case%20Of%20The%20Invisible%20Porcupine" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23763&amp;linkname=The%20Curious%20Case%20Of%20The%20Invisible%20Porcupine" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23763&amp;linkname=The%20Curious%20Case%20Of%20The%20Invisible%20Porcupine" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23763 --> <article class="two-col c6 top-border post-23743 post type-post status-publish format-standard hentry category-bestof category-mickzano category-newsandpolitics category-spoof-news" id="post-23743">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23743" rel="bookmark" title="">
+					Registered Republicans Are To Report To Socialism Reprogramming Pods		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-01-07">January 7, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/11274_10151440857337290_1534669744_n-1.jpg"><img alt="" class="wp-image-23747 aligncenter" height="270" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/11274_10151440857337290_1534669744_n-1.jpg" width="468"/> </a></p>
+<p>The Biden-Harris Administration has leaked its plan to move swiftly toward a more socialized democracy. In the coming weeks, all MAGA members will be required to report to reprogramming pods for immediate social assimilation. This will be done by name and region and will coincide with a mandatory Covid vaccination (rectal). At that time your gas-guzzling vehicle will be traded out for an electric car, which is about the size of your recliner. You do get to pick the color, because freedom. Your guns will be collected at that time as well, but they will be upgraded to fully loaded semi-automatic, affirmation guns. These will shoot unlimited rounds of positive affirmations up to twenty feet (with the volume up), and all weapons come with a rapid-glitter-firing-feature. You get to choose the color of the glitter as well, because freedom.</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23743">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Registered Republicans Are To Report To Socialism Reprogramming Pods" data-a2a-url="http://www.dailydiscord.com/?p=23743"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23743&amp;linkname=Registered%20Republicans%20Are%20To%20Report%20To%20Socialism%20Reprogramming%20Pods" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23743&amp;linkname=Registered%20Republicans%20Are%20To%20Report%20To%20Socialism%20Reprogramming%20Pods" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23743&amp;linkname=Registered%20Republicans%20Are%20To%20Report%20To%20Socialism%20Reprogramming%20Pods" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23743&amp;linkname=Registered%20Republicans%20Are%20To%20Report%20To%20Socialism%20Reprogramming%20Pods" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23743&amp;linkname=Registered%20Republicans%20Are%20To%20Report%20To%20Socialism%20Reprogramming%20Pods" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23743&amp;linkname=Registered%20Republicans%20Are%20To%20Report%20To%20Socialism%20Reprogramming%20Pods" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23743 --> <article class="two-col c6 top-border post-23695 post type-post status-publish format-standard hentry category-features category-mickzano category-newsandpolitics" id="post-23695">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23695" rel="bookmark" title="">
+					Spygate As Cover For Sedition, And Other Fun Things Republicans Do In Their Spare Time		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-01-06">January 6, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<h4><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/fallout-3FInal.jpg"><img alt="" class="wp-image-23711 aligncenter" height="366" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/fallout-3FInal.jpg" width="493"/></a></h4>
+<p>I’m aware the Spygate nonsense is among the least read articles on my blog, but it’s nevertheless important to identify how republicans operate and the associated dangers of allowing their lies to go unchallenged. Yes, Poke, a factoid blown out of proportion is a form of a lie, especially when these factoids are used to generate wild conspiracies as a means to distract the American public from sedition. Following this simple strategy, they can and will effectively tear down our republic. And they’ll do this willingly to aid and abet a known felon, work steadily against their own interests, while taking the word of a political party that has yet to get a scandal right, at least historically speaking. <em>But this time’s gonna be different!</em> No. No it’s not. It’s zenwrongness, or forever being wrong in the moment. And they will hold us all hostage until the last one of their fool inquiries are all answered to their satisfaction, which is impossible when it’s forever garbage in, garbage out. This has been a <a href="http://www.dailydiscord.com/?p=14235">key prediction of mine</a> for many years. Take Benghazi, no really, take it. Countless ongoing investigations, never-ending questions, nothing relevant to the initial inquiry ever surfaces yet they keep doubling down on their dipshit. It’s just one whopping MAGA-mega-audit fracturing into ever deeper labyrinthine layers of QDroppings and Foxal matter. The rabid hole. As for Spygate, my friend does not feel Crossfire Hurricane, or Razor, or even the investigation into Russian interference itself was properly predicated—all have zero merit. My friend somehow knows more than the Feds, the judges involved, a couple of AGs, our congressional intel committees, and all three special counsels combined. He must have had his Wheaties this morning. I just hope they weren’t laced.</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23695">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Spygate As Cover For Sedition, And Other Fun Things Republicans Do In Their Spare Time" data-a2a-url="http://www.dailydiscord.com/?p=23695"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23695&amp;linkname=Spygate%20As%20Cover%20For%20Sedition%2C%20And%20Other%20Fun%20Things%20Republicans%20Do%20In%20Their%20Spare%20Time" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23695&amp;linkname=Spygate%20As%20Cover%20For%20Sedition%2C%20And%20Other%20Fun%20Things%20Republicans%20Do%20In%20Their%20Spare%20Time" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23695&amp;linkname=Spygate%20As%20Cover%20For%20Sedition%2C%20And%20Other%20Fun%20Things%20Republicans%20Do%20In%20Their%20Spare%20Time" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23695&amp;linkname=Spygate%20As%20Cover%20For%20Sedition%2C%20And%20Other%20Fun%20Things%20Republicans%20Do%20In%20Their%20Spare%20Time" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23695&amp;linkname=Spygate%20As%20Cover%20For%20Sedition%2C%20And%20Other%20Fun%20Things%20Republicans%20Do%20In%20Their%20Spare%20Time" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23695&amp;linkname=Spygate%20As%20Cover%20For%20Sedition%2C%20And%20Other%20Fun%20Things%20Republicans%20Do%20In%20Their%20Spare%20Time" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23695 --> <article class="two-col c6 top-border post-23549 post type-post status-publish format-standard hentry category-featuresarticles category-features category-mickzano category-newsandpolitics" id="post-23549">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23549" rel="bookmark" title="">
+					Based On New Evidence Should Spygate Be Taken Seriously?		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2021-01-02">January 2, 2021</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/donkey_elephant_debateCrop.jpg"><img alt="" class="wp-image-23679 aligncenter" height="366" loading="lazy" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2021/01/donkey_elephant_debateCrop.jpg" width="426"/></a></p>
+<p>Spygate is back, kids, or how the Feds illegally spied on The Donald just for fun. My friend is sending me link after link and a clearer picture is emerging, but I don’t understand why he keeps casting me in the role of <em>spook defende</em>r. He ignores how I protested the broad tools handed to our intelligence community in the <a href="http://www.dailydiscord.com/?p=1297">aftermath of 9/11</a>, <a href="http://www.dailydiscord.com/?p=20804">predicted Fed screwups</a>, and approve of any agents frying for these aforementioned screwups. Also, I am not, nor have I ever been against these investigations. I am keenly aware that our intelligence community has been rogue, well, ever since republicans encouraged and enabled all their rogueness. The bigger problem is this scandal’s main premise. I mean, who would willingly listen to Donald Trump if they didn’t have to? He’s probably the only one the NSA is like: <em>Naaah, that chick in 13A is having sex again.</em> My friend’s prevailing argument, the bullshit part, is how this spying was politically motivated. There are serious breaches here, but the prime republican directive is that they land on the doorstep of either Joe, Hillary, or Barack. And until then they will leave no Stone verdict overturned. That’s their white whale, a liberal bogeyman, a theory <a href="http://www.dailydiscord.com/?p=22682">I predicted</a> would never pan out. The actual Trump situation is not unlike that of the gangster, Al Capone. Back in the day, the Feds could only nab him on tax evasion. Granted, it’s not the best example: whereas Capone developed a program during the Great Depression that provided milk deliveries to his fellow Chicagoans, Trump would have detained the milk trucks until his picture was added to each carton. I would actually support Trump on this one but only because it would also imply he was missing.</p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23549">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Based On New Evidence Should Spygate Be Taken Seriously?" data-a2a-url="http://www.dailydiscord.com/?p=23549"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23549&amp;linkname=Based%20On%20New%20Evidence%20Should%20Spygate%20Be%20Taken%20Seriously%3F" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23549&amp;linkname=Based%20On%20New%20Evidence%20Should%20Spygate%20Be%20Taken%20Seriously%3F" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23549&amp;linkname=Based%20On%20New%20Evidence%20Should%20Spygate%20Be%20Taken%20Seriously%3F" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23549&amp;linkname=Based%20On%20New%20Evidence%20Should%20Spygate%20Be%20Taken%20Seriously%3F" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23549&amp;linkname=Based%20On%20New%20Evidence%20Should%20Spygate%20Be%20Taken%20Seriously%3F" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23549&amp;linkname=Based%20On%20New%20Evidence%20Should%20Spygate%20Be%20Taken%20Seriously%3F" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23549 --> <article class="two-col c6 top-border post-23647 post type-post status-publish format-standard hentry category-mickzano category-newsandpolitics category-spoof-news" id="post-23647">
+<header>
+<h1 class="entry-title">
+<a href="http://www.dailydiscord.com/?p=23647" rel="bookmark" title="">
+					Trump Pardons Anakin Skywalker For Slaughtering Entire Village Of Sand People		</a> </h1>
+<h2 class="entry-meta">
+		by <a href="http://www.dailydiscord.com/?author=2" rel="author" title="Posts by Mick Zano">Mick Zano</a> • <time class="published updated" datetime="2020-12-30">December 30, 2020</time> </h2>
+</header>
+<div class="entry-content">
+<p><a href="http://www.dailydiscord.com/wordpress/wp-content/uploads/2020/12/anakin-killing-sandpeople.jpg"><img alt="" class="size-full wp-image-23648 aligncenter" height="266" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2020/12/anakin-killing-sandpeople.jpg" srcset="http://www.dailydiscord.com/wordpress/wp-content/uploads/2020/12/anakin-killing-sandpeople.jpg 450w, http://www.dailydiscord.com/wordpress/wp-content/uploads/2020/12/anakin-killing-sandpeople-300x177.jpg 300w" width="450"/></a><em>Tweet Tower</em>—President Trump further tested his pardon power today, presumably in preparation for himself and his family, by pardoning disgraced Jedi Knight, Anakin Skywalker. The Jedi High Council found Skywalker guilty of a genocidal rampage that ended the lives of an entire settlement of Sand People on the planet Tatooine in the aftermath of the unfortunate death of his mother. </p>
+<p class="more-link-p"><a class="more-link" href="http://www.dailydiscord.com/?p=23647">READ MORE -&gt;</a></p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_16 addtoany_list" data-a2a-title="Trump Pardons Anakin Skywalker For Slaughtering Entire Village Of Sand People" data-a2a-url="http://www.dailydiscord.com/?p=23647"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23647&amp;linkname=Trump%20Pardons%20Anakin%20Skywalker%20For%20Slaughtering%20Entire%20Village%20Of%20Sand%20People" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23647&amp;linkname=Trump%20Pardons%20Anakin%20Skywalker%20For%20Slaughtering%20Entire%20Village%20Of%20Sand%20People" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23647&amp;linkname=Trump%20Pardons%20Anakin%20Skywalker%20For%20Slaughtering%20Entire%20Village%20Of%20Sand%20People" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23647&amp;linkname=Trump%20Pardons%20Anakin%20Skywalker%20For%20Slaughtering%20Entire%20Village%20Of%20Sand%20People" rel="nofollow noopener" target="_blank" title="Pinterest"></a><a class="a2a_button_tumblr" href="https://www.addtoany.com/add_to/tumblr?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23647&amp;linkname=Trump%20Pardons%20Anakin%20Skywalker%20For%20Slaughtering%20Entire%20Village%20Of%20Sand%20People" rel="nofollow noopener" target="_blank" title="Tumblr"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Fwww.dailydiscord.com%2F%3Fp%3D23647&amp;linkname=Trump%20Pardons%20Anakin%20Skywalker%20For%20Slaughtering%20Entire%20Village%20Of%20Sand%20People" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_no_icon addtoany_share_save addtoany_share" href="https://www.addtoany.com/share">Share</a></div></div> </div><!-- .entry-content -->
+</article><!-- #post-23647 --></div><!-- eof 2 cols --> </div>
+<div id="pagination"><div class="total-pages">Page 1 of 185</div><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="http://www.dailydiscord.com/?paged=2">2</a>
+<a class="page-numbers" href="http://www.dailydiscord.com/?paged=3">3</a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="http://www.dailydiscord.com/?paged=185">185</a>
+<a class="next page-numbers" href="http://www.dailydiscord.com/?paged=2">»</a></div> </div><!-- #primary.c8 -->
+<div class="c3" id="secondary" role="complementary">
+<aside class="widget mp_authors" id="mp_authors-2"><h3 class="widget-title">Authors</h3> <ul>
+<li>
+<a href="http://www.dailydiscord.com/?author=16"><img alt="Cokie McGrath" class="photo" height="80" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/16.thumbnail.jpg" width="79"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=16">Cokie McGrath</a>
+</li>
+<li>
+<a href="http://www.dailydiscord.com/?author=11"><img alt="Mick Zano" class="photo" height="80" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/11.thumbnail.jpg" width="78"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=11">Mick Zano</a>
+</li>
+<li>
+<a href="http://www.dailydiscord.com/?author=15"><img alt="dailyDiscor" class="photo" height="68" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/1.thumbnail.jpg" width="80"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=15">Pierce Winslow</a>
+</li>
+<li>
+<a href="http://www.dailydiscord.com/?author=25"><img alt="The Ghetto Shaman" class="photo" height="80" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/25.thumbnail.gif" width="80"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=25">The Ghetto Shaman</a>
+</li>
+<li>
+<a href="http://www.dailydiscord.com/?author=13"><img alt="Tony Ballz" class="photo" height="80" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/13.thumbnail.png" width="80"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=13">Tony Ballz</a>
+</li>
+<li>
+<a href="http://www.dailydiscord.com/?author=19"><img alt="Bald Tony" class="photo" height="80" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/19.thumbnail.jpg" width="80"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=19">Bald Tony</a>
+</li>
+<li>
+<a href="http://www.dailydiscord.com/?author=12"><img alt="Alex Bone" class="photo" height="70" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/12.thumbnail.jpg" width="75"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=12">Alex Bone</a>
+</li>
+<li>
+<a href="http://www.dailydiscord.com/?author=36"><img alt="Mr. Sherman" class="photo" height="80" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/36.thumbnail.png" width="80"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=36">Mr. Sherman</a>
+</li>
+<li>
+<a href="http://www.dailydiscord.com/?author=2777"><img alt="Sean Null" class="photo" height="80" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/userphoto/2777.thumbnail.jpg" width="79"/></a>
+<a class="author-link" href="http://www.dailydiscord.com/?author=2777">Sean Null</a>
+</li>
+</ul>
+</aside><aside class="widget sfsi_plus" id="sfsi-plus-widget-6"> <div class="sfsi_plus_widget" data-position="widget">
+<div id="sfsi_plus_wDiv"></div>
+<script>
+			window.addEventListener('sfsi_plus_functions_loaded', function() {
+				if (typeof sfsi_plus_widget_set == 'function') {
+					sfsi_plus_widget_set();
+				}
+			})
+		</script>
+<div class="sfsiplus_norm_row sfsi_plus_wDiv" style="width:175px;position:absolute;;text-align:center"><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="http://www.dailydiscord.com/?feed=rss2" style="opacity:0.6" target="_blank"><img alt="RSS" class="sfcm sfsi_wicon sfsiplusid_round_icon_rss" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_rss.png" style="" title="RSS" width="30"/></a></div></div><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="https://www.facebook.com/pages/The-Daily-Discord/123967112058?fref=ts" style="opacity:0.6" target="_blank"><img alt="Facebook" class="sfcm sfsi_wicon sfsiplusid_round_icon_facebook" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_fb.png" style="" title="Facebook" width="30"/></a><div class="sfsi_plus_tool_tip_2 sfsi_plus_fb_tool_bdr sfsi_plus_Tlleft sfsiplusid_facebook" style="display:block;width:62px;opacity:0;z-index:-1;"><span class="bot_arow bot_fb_arow"></span><div class="sfsi_plus_inside"><div class="icon1"><a href="https://www.facebook.com/pages/The-Daily-Discord/123967112058?fref=ts" target="_blank"><img alt="Facebook" class="sfsi_plus_wicon" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/visit_icons/Visit_us_fb/icon_Visit_us_en_US.png" title="Facebook"/></a></div><div class="icon2"><div class="fb-like" data-action="like" data-href="http://www.dailydiscord.com" data-layout="button" data-show-faces="false" data-width="180"></div></div><div class="icon3"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dailydiscord.com" style="display:inline-block;"> <img '="" alt="fb-share-icon" class="sfsi_wicon" data-pin-nopin="true" height="auto" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/share_icons/fb_icons/en_US.svg" title="Facebook Share" width="auto"/></a></div></div></div></div></div><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="https://twitter.com/DailyDiscord" style="opacity:0.6" target="_blank"><img alt="Twitter" class="sfcm sfsi_wicon sfsiplusid_round_icon_twitter" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_twitter.png" style="" title="Twitter" width="30"/></a><div class="sfsi_plus_tool_tip_2 sfsi_plus_twt_tool_bdr sfsi_plus_Tlleft sfsiplusid_twitter" style="display:block;width:59px;opacity:0;z-index:-1;"><span class="bot_arow bot_twt_arow"></span><div class="sfsi_plus_inside"><div class="icon1"><a href="https://twitter.com/intent/user?screen_name=dailydiscord" target="_blank"><img '="" alt="Follow Me" class="sfsi_premium_wicon" nopin="nopin" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/share_icons/Twitter_Follow/en_US_Follow.svg" style="opacity: 1;" title="Follow Me" width="auto"/></a></div><div class="icon2"><div class="sf_twiter" style="display: inline-block;vertical-align: middle;width: auto;">
+<a href="https://twitter.com/intent/tweet?text=Hey%2C+check+out+this+cool+site+I+found%3A+www.yourname.com+%23Topic+via%40my_twitter_name http://www.dailydiscord.com" style="display:inline-block">
+<img alt="Tweet" class="sfsi_plus_wicon" nopin="nopin" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/share_icons/Twitter_Tweet/en_US_Tweet.svg" title="Tweet" width="auto"/>
+</a>
+</div></div></div></div></div></div><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="https://www.youtube.com/channel/UCDOxxAn1FECTY5dlUB_B0ag" style="opacity:0.6" target="_blank"><img alt="YouTube" class="sfcm sfsi_wicon sfsiplusid_round_icon_youtube" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_youtube.png" style="" title="YouTube" width="30"/></a><div class="sfsi_plus_tool_tip_2 utube_tool_bdr sfsi_plus_Tlleft sfsiplusid_youtube" style="display:block;width:96px;opacity:0;z-index:-1;"><span class="bot_arow bot_utube_arow"></span><div class="sfsi_plus_inside"><div class="icon1"><a href="https://www.youtube.com/channel/UCDOxxAn1FECTY5dlUB_B0ag" target="_blank"><img alt="YouTube" class="sfsi_plus_wicon" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/visit_icons/youtube.png" title="YouTube"/></a></div><div class="icon2"><div class="g-ytsubscribe" data-channel="" data-count="hidden" data-layout="default"></div></div></div></div></div></div><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="http://www.specificfeeds.com/widget/emailsubscribe/MTM2MTU3/OA==" style="opacity:0.6" target="_blank"><img alt="Follow by Email" class="sfcm sfsi_wicon sfsiplusid_round_icon_email" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_email.png" style="" title="Follow by Email" width="30"/></a></div></div></div><div class="sfsi_plus_holders" id="sfsi_holder" style="position: relative; float: left;width:100%;z-index:-1;"></div><script></script> <div style="clear: both;"></div>
+</div>
+</aside><aside class="widget widget_categories" id="categories-3"><h3 class="widget-title">Categories</h3>
+<ul>
+<li class="cat-item cat-item-17"><a href="http://www.dailydiscord.com/?cat=17" title="features">Articles</a>
+</li>
+<li class="cat-item cat-item-4"><a href="http://www.dailydiscord.com/?cat=4" title="Arts &amp; Culture">Arts &amp; Culture</a>
+</li>
+<li class="cat-item cat-item-3"><a href="http://www.dailydiscord.com/?cat=3" title="Best of">Best Of</a>
+</li>
+<li class="cat-item cat-item-19"><a href="http://www.dailydiscord.com/?cat=19" title="Cartoons, memes and more">Cartoons</a>
+</li>
+<li class="cat-item cat-item-166"><a href="http://www.dailydiscord.com/?cat=166">Dumb Texts</a>
+</li>
+<li class="cat-item cat-item-62"><a href="http://www.dailydiscord.com/?cat=62" title="Mick Zano">Mick Zano</a>
+</li>
+<li class="cat-item cat-item-2"><a href="http://www.dailydiscord.com/?cat=2" title="News &amp; Politics">News &amp; Politics</a>
+<ul class="children">
+<li class="cat-item cat-item-20"><a href="http://www.dailydiscord.com/?cat=20" title="Political features and current events">Features</a>
+</li>
+<li class="cat-item cat-item-11"><a href="http://www.dailydiscord.com/?cat=11" title="Satire at its finest. ">Spoof News</a>
+</li>
+</ul>
+</li>
+<li class="cat-item cat-item-5"><a href="http://www.dailydiscord.com/?cat=5" title="Science &amp; Technology">Science &amp; Technology</a>
+</li>
+<li class="cat-item cat-item-16"><a href="http://www.dailydiscord.com/?cat=16" title="Beer reviews and more">Search Brew Quest: Beer Reviews</a>
+</li>
+<li class="cat-item cat-item-6"><a href="http://www.dailydiscord.com/?cat=6" title="Spirituality &amp; Enlightenment">Spirituality &amp; Enlightenment</a>
+<ul class="children">
+<li class="cat-item cat-item-22"><a href="http://www.dailydiscord.com/?cat=22">Ghetto Shaman</a>
+</li>
+</ul>
+</li>
+<li class="cat-item cat-item-7"><a href="http://www.dailydiscord.com/?cat=7" title="Sports">Sports</a>
+</li>
+<li class="cat-item cat-item-10"><a href="http://www.dailydiscord.com/?cat=10" title="Team Search Truth Quest will answer your paranormal questions.">STQ: Cryptids, Ghosts and More</a>
+<ul class="children">
+<li class="cat-item cat-item-50"><a href="http://www.dailydiscord.com/?cat=50">STQ Videos</a>
+</li>
+</ul>
+</li>
+<li class="cat-item cat-item-37"><a href="http://www.dailydiscord.com/?cat=37" title="The Ghetto Shaman">The Ghetto Shaman</a>
+</li>
+<li class="cat-item cat-item-64"><a href="http://www.dailydiscord.com/?cat=64" title="Tony Ballz">Tony Ballz</a>
+</li>
+<li class="cat-item cat-item-1"><a href="http://www.dailydiscord.com/?cat=1">Uncategorized</a>
+</li>
+<li class="cat-item cat-item-18"><a href="http://www.dailydiscord.com/?cat=18" title="vids">Videos</a>
+</li>
+</ul>
+</aside><aside class="widget widget_text" id="text-13"><h3 class="widget-title">Ranked in the Top 50 Satire Blogs on the Internet</h3> <div class="textwidget"><p style="text-align: center;"><a href="http://blog.feedspot.com/satire_blogs/" rel="noopener" target="_blank"><strong>Ranked 35th Best Satire News Site By FeedSpot</strong><img alt="Visit Feedspot.com" class="size-full wp-image-2976 aligncenter" src="/wordpress/wp-content/uploads/2017/08/Top50Clipped.png"/></a></p></div>
+</aside><aside class="widget widget_text" id="text-15"> <div class="textwidget"><p style="text-align: center;"><a href="http://www.humorlinks.com/cgi-bin/sites/page.cgi?g=Spoof___Satire%2FSpoof_News%2Findex.html&amp;d=1&amp;set=1" rel="noopener" target="_blank"><strong>Ranked 3rd Best Spoof News Site By</strong><img alt="Visit HumorLinks.com" class="size-full wp-image-2976 aligncenter" src="/wordpress/wp-content/uploads/2017/08/humorLinksLogo206.png"/></a></p></div>
+</aside><aside class="widget widget_text" id="text-9"> <div class="textwidget"><p style="text-align: center;"><a href="http://humorfeed.com" rel="noopener" target="_blank"><strong>The Daily Discord is a proud member of Humorfeed</strong><img alt="Visit HumorFeed.com" class="size-full wp-image-2976 aligncenter" src="/resources/humorfeed.jpg"/></a></p></div>
+</aside><aside class="widget widget_text" id="text-5"> <div class="textwidget"><p style="text-align: center;"><a href="mailto:mick_zano@dailydiscord.com" rel="noopener" target="_blank"><img alt="dd logo big copy" class="size-full wp-image-2976 aligncenter" height="505" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/06/dd-logo-big-copy.png" width="604"/><strong>Do you want to write for the discord?</strong></a></p></div>
+</aside><aside class="widget widget_archive" id="archives-2"><h3 class="widget-title">Archives</h3> <label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+<select id="archives-dropdown-2" name="archive-dropdown">
+<option value="">Select Month</option>
+<option value="http://www.dailydiscord.com/?m=202103"> March 2021 </option>
+<option value="http://www.dailydiscord.com/?m=202102"> February 2021 </option>
+<option value="http://www.dailydiscord.com/?m=202101"> January 2021 </option>
+<option value="http://www.dailydiscord.com/?m=202012"> December 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202011"> November 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202010"> October 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202009"> September 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202008"> August 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202007"> July 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202006"> June 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202005"> May 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202004"> April 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202003"> March 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202002"> February 2020 </option>
+<option value="http://www.dailydiscord.com/?m=202001"> January 2020 </option>
+<option value="http://www.dailydiscord.com/?m=201912"> December 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201911"> November 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201910"> October 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201909"> September 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201908"> August 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201907"> July 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201906"> June 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201905"> May 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201904"> April 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201903"> March 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201902"> February 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201901"> January 2019 </option>
+<option value="http://www.dailydiscord.com/?m=201812"> December 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201811"> November 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201810"> October 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201809"> September 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201808"> August 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201807"> July 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201806"> June 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201805"> May 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201804"> April 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201803"> March 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201802"> February 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201801"> January 2018 </option>
+<option value="http://www.dailydiscord.com/?m=201712"> December 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201711"> November 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201710"> October 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201709"> September 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201708"> August 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201707"> July 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201706"> June 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201705"> May 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201704"> April 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201703"> March 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201702"> February 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201701"> January 2017 </option>
+<option value="http://www.dailydiscord.com/?m=201612"> December 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201611"> November 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201610"> October 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201609"> September 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201608"> August 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201607"> July 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201606"> June 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201605"> May 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201604"> April 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201603"> March 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201602"> February 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201601"> January 2016 </option>
+<option value="http://www.dailydiscord.com/?m=201512"> December 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201511"> November 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201510"> October 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201509"> September 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201508"> August 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201507"> July 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201506"> June 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201505"> May 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201504"> April 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201503"> March 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201502"> February 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201501"> January 2015 </option>
+<option value="http://www.dailydiscord.com/?m=201412"> December 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201411"> November 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201410"> October 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201409"> September 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201408"> August 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201407"> July 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201406"> June 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201405"> May 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201404"> April 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201403"> March 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201402"> February 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201401"> January 2014 </option>
+<option value="http://www.dailydiscord.com/?m=201312"> December 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201311"> November 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201310"> October 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201309"> September 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201308"> August 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201307"> July 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201306"> June 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201305"> May 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201304"> April 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201303"> March 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201302"> February 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201301"> January 2013 </option>
+<option value="http://www.dailydiscord.com/?m=201212"> December 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201211"> November 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201210"> October 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201209"> September 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201208"> August 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201207"> July 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201206"> June 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201205"> May 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201204"> April 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201203"> March 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201202"> February 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201201"> January 2012 </option>
+<option value="http://www.dailydiscord.com/?m=201112"> December 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201111"> November 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201110"> October 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201109"> September 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201108"> August 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201107"> July 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201106"> June 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201105"> May 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201104"> April 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201103"> March 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201102"> February 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201101"> January 2011 </option>
+<option value="http://www.dailydiscord.com/?m=201012"> December 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201011"> November 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201010"> October 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201009"> September 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201008"> August 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201007"> July 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201006"> June 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201005"> May 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201004"> April 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201003"> March 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201002"> February 2010 </option>
+<option value="http://www.dailydiscord.com/?m=201001"> January 2010 </option>
+<option value="http://www.dailydiscord.com/?m=200912"> December 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200911"> November 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200910"> October 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200909"> September 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200908"> August 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200907"> July 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200906"> June 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200905"> May 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200904"> April 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200903"> March 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200902"> February 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200901"> January 2009 </option>
+<option value="http://www.dailydiscord.com/?m=200812"> December 2008 </option>
+<option value="http://www.dailydiscord.com/?m=200811"> November 2008 </option>
+<option value="http://www.dailydiscord.com/?m=200810"> October 2008 </option>
+<option value="http://www.dailydiscord.com/?m=200809"> September 2008 </option>
+<option value="http://www.dailydiscord.com/?m=200807"> July 2008 </option>
+<option value="http://www.dailydiscord.com/?m=200806"> June 2008 </option>
+<option value="http://www.dailydiscord.com/?m=200804"> April 2008 </option>
+<option value="http://www.dailydiscord.com/?m=200006"> June 2000 </option>
+</select>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+</aside><aside class="widget arpw-widget-random" id="arpw-widget-2"><h3 class="widget-title">Random Posts</h3><div class="arpw-random-post"><ul class="arpw-ul"><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=680" rel="bookmark">Cluster Blank: the Movie</a><time class="arpw-time published" datetime="2013-10-29T00:00:00-04:00">October 29, 2013</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=647" rel="bookmark">Sardines Complain of Cramped Packing Conditions</a><time class="arpw-time published" datetime="2013-12-08T00:00:00-05:00">December 8, 2013</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=2021" rel="bookmark">Cultural Facilitation for Dummies</a><time class="arpw-time published" datetime="2009-11-16T00:00:00-05:00">November 16, 2009</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=1910" rel="bookmark">Southwest to Accommodate Kevin Smith</a><time class="arpw-time published" datetime="2010-03-10T00:00:00-05:00">March 10, 2010</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=2395" rel="bookmark">Enter the Ghetto Shaman</a><time class="arpw-time published" datetime="2008-09-24T00:00:00-04:00">September 24, 2008</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=9280" rel="bookmark">Ozzy Agrees To Inauguration Gig: “Only If I Can Play ‘Crazy Train’ And ‘War Pigs'”</a><time class="arpw-time published" datetime="2016-12-22T19:00:47-05:00">December 22, 2016</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=14356" rel="bookmark">Trump Books Justin Timberlake For Midterm Halftime Show</a><time class="arpw-time published" datetime="2018-02-07T15:49:46-05:00">February 7, 2018</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=2214" rel="bookmark">Ask The Ghetto Shaman</a><time class="arpw-time published" datetime="2009-04-03T00:00:00-04:00">April 3, 2009</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=10516" rel="bookmark">Let’s Shift Away From The Brewing Impeachment So We May Bring You Our Regularly Scheduled Crapola: Benghazi With Fried Rice?</a><time class="arpw-time published" datetime="2017-04-06T14:23:29-04:00">April 6, 2017</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=19381" rel="bookmark">After Disparaging Comments Trump Calls Winnie The Pooh A “Honey Addicted Loser”</a><time class="arpw-time published" datetime="2019-07-12T18:05:04-04:00">July 12, 2019</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=1298" rel="bookmark">Archeologists Discover Time when Earth was “One Big Party”</a><time class="arpw-time published" datetime="2011-12-11T00:00:00-05:00">December 11, 2011</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=8166" rel="bookmark">Fact Checkers Requesting Debate Be Extended Through Wednesday</a><time class="arpw-time published" datetime="2016-09-25T16:22:18-04:00">September 25, 2016</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=1333" rel="bookmark">The Haunted Weatherford and the Yahtzee Séance</a><time class="arpw-time published" datetime="2011-11-03T00:00:00-04:00">November 3, 2011</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=278" rel="bookmark">Paranormal Entities Sue Discord Over Rights Infringements</a><time class="arpw-time published" datetime="2015-01-30T00:00:00-05:00">January 30, 2015</time></li><li class="arpw-li arpw-clearfix"><a class="arpw-title" href="http://www.dailydiscord.com/?p=1017" rel="bookmark">Happy Halloween from the Discord Staff!</a><time class="arpw-time published" datetime="2012-10-31T00:00:00-04:00">October 31, 2012</time></li></ul></div><!-- Generated by https://wordpress.org/plugins/advanced-random-posts-widget/ --></aside> </div><!-- #secondary.widget-area -->
+</div><!-- .row -->
+<div class="row" id="image-bar">
+<div class="c12">
+<h1 class="page-title">Best Of</h1>
+<div class="c4">
+<p><a href="http://www.dailydiscord.com/?p=23743">Registered Republicans Are To Report To Socialism Reprogramming Pods</a></p>
+</div>
+<div class="c4">
+<p><a href="http://www.dailydiscord.com/?p=22736">Hutts Float “Kiddie Carbonite” For When It’s Safe To Go Back To School</a></p>
+</div>
+<div class="c4">
+<p><a href="http://www.dailydiscord.com/?p=21643">Trump Draws Record Crowds In Mordor’s Mt. Doom District</a></p>
+</div>
+</div>
+</div>
+</div> <!-- #main -->
+</div> <!-- #page.grid -->
+<footer id="footer" role="contentinfo">
+<div class="grid" id="footer-content">
+<div class="row">
+<aside class="footer-widget c12 widget_text" id="text-7"> <div class="textwidget"><p style="text-align: center;"><a href="mailto:mick_zano@dailydiscord.com" rel="noopener" target="_blank"><img alt="dd logo big copy" class="size-full wp-image-2976 aligncenter" height="505" src="http://www.dailydiscord.com/wordpress/wp-content/uploads/2015/06/dd-logo-big-copy.png" width="604"/><strong>Do you want to write for the discord?</strong></a></p></div>
+</aside><aside class="footer-widget c12 widget_meta" id="meta-5"><h3 class="widget-title">Meta</h3>
+<ul>
+<li><a href="http://www.dailydiscord.com/wordpress/wp-login.php">Log in</a></li>
+<li><a href="http://www.dailydiscord.com/?feed=rss2">Entries feed</a></li>
+<li><a href="http://www.dailydiscord.com/?feed=comments-rss2">Comments feed</a></li>
+<li><a href="https://wordpress.org/">WordPress.org</a></li>
+</ul>
+</aside><aside class="footer-widget c12 widget_text" id="text-3"><h3 class="widget-title">Follow Us</h3> <div class="textwidget"></div>
+</aside><aside class="footer-widget c12 sfsi_plus" id="sfsi-plus-widget-7"> <div class="sfsi_plus_widget" data-position="widget">
+<div id="sfsi_plus_wDiv"></div>
+<script>
+			window.addEventListener('sfsi_plus_functions_loaded', function() {
+				if (typeof sfsi_plus_widget_set == 'function') {
+					sfsi_plus_widget_set();
+				}
+			})
+		</script>
+<div class="sfsiplus_norm_row sfsi_plus_wDiv" style="width:175px;position:absolute;;text-align:center"><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="http://www.dailydiscord.com/?feed=rss2" style="opacity:0.6" target="_blank"><img alt="RSS" class="sfcm sfsi_wicon sfsiplusid_round_icon_rss" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_rss.png" style="" title="RSS" width="30"/></a></div></div><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="https://www.facebook.com/pages/The-Daily-Discord/123967112058?fref=ts" style="opacity:0.6" target="_blank"><img alt="Facebook" class="sfcm sfsi_wicon sfsiplusid_round_icon_facebook" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_fb.png" style="" title="Facebook" width="30"/></a><div class="sfsi_plus_tool_tip_2 sfsi_plus_fb_tool_bdr sfsi_plus_Tlleft sfsiplusid_facebook" style="display:block;width:62px;opacity:0;z-index:-1;"><span class="bot_arow bot_fb_arow"></span><div class="sfsi_plus_inside"><div class="icon1"><a href="https://www.facebook.com/pages/The-Daily-Discord/123967112058?fref=ts" target="_blank"><img alt="Facebook" class="sfsi_plus_wicon" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/visit_icons/Visit_us_fb/icon_Visit_us_en_US.png" title="Facebook"/></a></div><div class="icon2"><div class="fb-like" data-action="like" data-href="http://www.dailydiscord.com" data-layout="button" data-show-faces="false" data-width="180"></div></div><div class="icon3"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.dailydiscord.com" style="display:inline-block;"> <img '="" alt="fb-share-icon" class="sfsi_wicon" data-pin-nopin="true" height="auto" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/share_icons/fb_icons/en_US.svg" title="Facebook Share" width="auto"/></a></div></div></div></div></div><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="https://twitter.com/DailyDiscord" style="opacity:0.6" target="_blank"><img alt="Twitter" class="sfcm sfsi_wicon sfsiplusid_round_icon_twitter" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_twitter.png" style="" title="Twitter" width="30"/></a><div class="sfsi_plus_tool_tip_2 sfsi_plus_twt_tool_bdr sfsi_plus_Tlleft sfsiplusid_twitter" style="display:block;width:59px;opacity:0;z-index:-1;"><span class="bot_arow bot_twt_arow"></span><div class="sfsi_plus_inside"><div class="icon1"><a href="https://twitter.com/intent/user?screen_name=dailydiscord" target="_blank"><img '="" alt="Follow Me" class="sfsi_premium_wicon" nopin="nopin" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/share_icons/Twitter_Follow/en_US_Follow.svg" style="opacity: 1;" title="Follow Me" width="auto"/></a></div><div class="icon2"><div class="sf_twiter" style="display: inline-block;vertical-align: middle;width: auto;">
+<a href="https://twitter.com/intent/tweet?text=Hey%2C+check+out+this+cool+site+I+found%3A+www.yourname.com+%23Topic+via%40my_twitter_name http://www.dailydiscord.com" style="display:inline-block">
+<img alt="Tweet" class="sfsi_plus_wicon" nopin="nopin" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/share_icons/Twitter_Tweet/en_US_Tweet.svg" title="Tweet" width="auto"/>
+</a>
+</div></div></div></div></div></div><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="https://www.youtube.com/channel/UCDOxxAn1FECTY5dlUB_B0ag" style="opacity:0.6" target="_blank"><img alt="YouTube" class="sfcm sfsi_wicon sfsiplusid_round_icon_youtube" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_youtube.png" style="" title="YouTube" width="30"/></a><div class="sfsi_plus_tool_tip_2 utube_tool_bdr sfsi_plus_Tlleft sfsiplusid_youtube" style="display:block;width:96px;opacity:0;z-index:-1;"><span class="bot_arow bot_utube_arow"></span><div class="sfsi_plus_inside"><div class="icon1"><a href="https://www.youtube.com/channel/UCDOxxAn1FECTY5dlUB_B0ag" target="_blank"><img alt="YouTube" class="sfsi_plus_wicon" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/visit_icons/youtube.png" title="YouTube"/></a></div><div class="icon2"><div class="g-ytsubscribe" data-channel="" data-count="hidden" data-layout="default"></div></div></div></div></div></div><div class="sfsi_plus_wicons shuffeldiv" style="width:30px; height:30px;margin-left:5px;margin-bottom:5px;"><div class="sfsiplus_inerCnt"><a class="sficn" data-effect="fade_in" href="http://www.specificfeeds.com/widget/emailsubscribe/MTM2MTU3/OA==" style="opacity:0.6" target="_blank"><img alt="Follow by Email" class="sfcm sfsi_wicon sfsiplusid_round_icon_email" data-effect="fade_in" height="30" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/images/icons_theme/flat/flat_email.png" style="" title="Follow by Email" width="30"/></a></div></div></div><div class="sfsi_plus_holders" id="sfsi_holder" style="position: relative; float: left;width:100%;z-index:-1;"></div><script></script> <div style="clear: both;"></div>
+</div>
+</aside><aside class="footer-widget c12 widget_text" id="text-4"><h3 class="widget-title">Search the Daily Discord</h3> <div class="textwidget"></div>
+</aside><aside class="footer-widget c12 widget_search" id="search-6"><form action="http://www.dailydiscord.com/" class="slide" id="searchform" method="get" role="search">
+<label class="assistive-text" for="site-search">Search for:</label>
+<input id="site-search" name="s" placeholder="Search…" type="search" value=""/>
+</form></aside> </div><!-- .row -->
+<div class="row">
+<p class="copyright c12">
+<span class="line active"></span>
+<span class="fl"></span>
+<span class="fr"><i class="icon-leaf"></i><a href="http://themes.bavotasan.com/2010/magazine-premium/">Magazine Premium</a> created by <a href="http://themes.bavotasan.com">c.bavota</a>.</span>
+</p><!-- .c12 -->
+</div><!-- .row -->
+</div><!-- #footer-content.grid -->
+</footer><!-- #footer -->
+<!--facebook like and share js -->
+<div id="fb-root"></div>
+<script>
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s);
+				js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+<script>
+	window.addEventListener('sfsi_plus_functions_loaded', function() {
+		if (typeof sfsi_plus_responsive_toggle == 'function') {
+			sfsi_plus_responsive_toggle(0);
+			// console.log('sfsi_plus_responsive_toggle');
+		}
+	})
+</script>
+<div style="display:none">
+<div class="grofile-hash-map-13b26eb4ce328f595c55042413dbac80">
+</div>
+<div class="grofile-hash-map-82d44beccec08e0c05d4995b69efbf99">
+</div>
+<div class="grofile-hash-map-0abad0d253832669dad9f69a497848cc">
+</div>
+<div class="grofile-hash-map-ba26ed09db74d288ae537f6acf1d26f9">
+</div>
+<div class="grofile-hash-map-c7e0ae210c2e793306bf8db92c8ae90a">
+</div>
+<div class="grofile-hash-map-4a0cd1fd831e60d84108f3c1eeae7bb4">
+</div>
+<div class="grofile-hash-map-91bab0a291fc87ed9b0e6eaab779ed3a">
+</div>
+<div class="grofile-hash-map-e9fabf3e70442c4ff5dc8464a77d14ba">
+</div>
+<div class="grofile-hash-map-71bcc6ccfa4ba6b73a8e4142b4a65be7">
+</div>
+</div>
+<script id="pt-cv-content-views-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"1a73910d61","is_admin":"","is_mobile":"","ajaxurl":"http:\/\/www.dailydiscord.com\/wordpress\/wp-admin\/admin-ajax.php","lang":"","loading_image_src":"data:image\/gif;base64,R0lGODlhDwAPALMPAMrKygwMDJOTkz09PZWVla+vr3p6euTk5M7OzuXl5TMzMwAAAJmZmWZmZszMzP\/\/\/yH\/C05FVFNDQVBFMi4wAwEAAAAh+QQFCgAPACwAAAAADwAPAAAEQvDJaZaZOIcV8iQK8VRX4iTYoAwZ4iCYoAjZ4RxejhVNoT+mRGP4cyF4Pp0N98sBGIBMEMOotl6YZ3S61Bmbkm4mAgAh+QQFCgAPACwAAAAADQANAAAENPDJSRSZeA418itN8QiK8BiLITVsFiyBBIoYqnoewAD4xPw9iY4XLGYSjkQR4UAUD45DLwIAIfkEBQoADwAsAAAAAA8ACQAABC\/wyVlamTi3nSdgwFNdhEJgTJoNyoB9ISYoQmdjiZPcj7EYCAeCF1gEDo4Dz2eIAAAh+QQFCgAPACwCAAAADQANAAAEM\/DJBxiYeLKdX3IJZT1FU0iIg2RNKx3OkZVnZ98ToRD4MyiDnkAh6BkNC0MvsAj0kMpHBAAh+QQFCgAPACwGAAAACQAPAAAEMDC59KpFDll73HkAA2wVY5KgiK5b0RRoI6MuzG6EQqCDMlSGheEhUAgqgUUAFRySIgAh+QQFCgAPACwCAAIADQANAAAEM\/DJKZNLND\/kkKaHc3xk+QAMYDKsiaqmZCxGVjSFFCxB1vwy2oOgIDxuucxAMTAJFAJNBAAh+QQFCgAPACwAAAYADwAJAAAEMNAs86q1yaWwwv2Ig0jUZx3OYa4XoRAfwADXoAwfo1+CIjyFRuEho60aSNYlOPxEAAAh+QQFCgAPACwAAAIADQANAAAENPA9s4y8+IUVcqaWJ4qEQozSoAzoIyhCK2NFU2SJk0hNnyEOhKR2AzAAj4Pj4GE4W0bkJQIAOw=="};
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script id="pt-cv-content-views-script-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/cv.js?ver=2.3.4" type="text/javascript"></script>
+<script id="jquery-ui-core-js" src="http://www.dailydiscord.com/wordpress/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" type="text/javascript"></script>
+<script id="SFSIPLUSjqueryModernizr-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/js/shuffle/modernizr.custom.min.js?ver=5.6.2" type="text/javascript"></script>
+<script id="SFSIPLUSCustomJs-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var sfsi_plus_ajax_object = {"ajax_url":"http:\/\/www.dailydiscord.com\/wordpress\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/www.dailydiscord.com\/wordpress\/wp-content\/plugins\/ultimate-social-media-plus\/","rest_url":"http:\/\/www.dailydiscord.com\/index.php?rest_route=\/"};
+var sfsi_plus_links = {"admin_url":"http:\/\/www.dailydiscord.com\/wordpress\/wp-admin\/","plugin_dir_url":"http:\/\/www.dailydiscord.com\/wordpress\/wp-content\/plugins\/ultimate-social-media-plus\/","rest_url":"http:\/\/www.dailydiscord.com\/index.php?rest_route=\/","pretty_perma":"no"};
+/* ]]> */
+</script>
+<script id="SFSIPLUSCustomJs-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/ultimate-social-media-plus/js/custom.js?ver=5.6.2" type="text/javascript"></script>
+<script id="grofiles-cards-js" src="https://secure.gravatar.com/js/gprofiles.js?ver=202111" type="text/javascript"></script>
+<script id="wpgroho-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script id="wpgroho-js" src="http://www.dailydiscord.com/wordpress/wp-content/plugins/jetpack/modules/wpgroho.js?ver=9.4" type="text/javascript"></script>
+<script id="bootstrap-js" src="http://www.dailydiscord.com/wordpress/wp-content/themes/magazine-premium/library/js/bootstrap.min.js?ver=2.2.2" type="text/javascript"></script>
+<script id="harvey-js" src="http://www.dailydiscord.com/wordpress/wp-content/themes/magazine-premium/library/js/harvey.min.js?ver=5.6.2" type="text/javascript"></script>
+<script id="theme_js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var theme_js_vars = {"carousel":"","tooltip":"","tabs":"","type":"scrollerota","autoplay":"","interval":"4000"};
+/* ]]> */
+</script>
+<script id="theme_js-js" src="http://www.dailydiscord.com/wordpress/wp-content/themes/magazine-premium/library/js/theme.js?ver=5.6.2" type="text/javascript"></script>
+<script id="jquery-effects-core-js" src="http://www.dailydiscord.com/wordpress/wp-includes/js/jquery/ui/effect.min.js?ver=1.12.1" type="text/javascript"></script>
+<script id="slider-js" src="http://www.dailydiscord.com/wordpress/wp-content/themes/magazine-premium/library/js/slider.min.js?ver=5.6.2" type="text/javascript"></script>
+<script id="wp-embed-js" src="http://www.dailydiscord.com/wordpress/wp-includes/js/wp-embed.min.js?ver=5.6.2" type="text/javascript"></script>
+<script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.4',blog:'96435888',post:'0',tz:'-4',srv:'www.dailydiscord.com'} ]);
+	_stq.push([ 'clickTrackerInit', '96435888', '0' ]);
+</script>
+<!-- Magazine Premium created by c.bavota - http://themes.bavotasan.com -->
+</body>
+</html>
