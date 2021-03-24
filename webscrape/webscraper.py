@@ -15,7 +15,7 @@ class AppURLopener(urllib.request.FancyURLopener):
 
 def ReadInData():
   # Get CSV from file location
-  csvlocation = 'D:\Misinformation Intentiment Analysis\misinformation-intentiment-analysis\sources\sources.csv'
+  csvlocation = 'D:\Misinformation Intentiment Analysis\misinfo-web-scrape\sources\sources.csv'
   f = open(csvlocation, 'r')
   reader = csv.reader(f)
 
@@ -78,14 +78,14 @@ def createFile(url):
   textfile = ".txt"
   filename += textfile
 
-  filelocation = "D:\Misinformation Intentiment Analysis\misinformation-intentiment-analysis\webscrape\Raw HTML Pages\ "
+  filelocation = "D:\Misinformation Intentiment Analysis\misinfo-web-scrape\webscrape\Raw HTML Pages\ "
   filelocation.strip()
 
   finalfile = filelocation + filename
   return finalfile
 
 def addToErrorList(url, writefunction):
-  filelocation = "D:\Misinformation Intentiment Analysis\misinformation-intentiment-analysis\webscrape\ "
+  filelocation = "D:\Misinformation Intentiment Analysis\misinfo-web-scrape\webscrape\ "
   filelocation.strip()
   filename = "InaccessibleSites.txt"
   file = filelocation + filename
