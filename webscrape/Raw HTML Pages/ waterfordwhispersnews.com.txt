@@ -1,0 +1,1061 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<!-- Force IE to use the latest rendering engine available -->
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<!-- Mobile Meta -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?flags=gated&amp;features=es2015%2CArray.prototype.forEach%2Cfetch%2CPromise"></script>
+<!-- Icons & Favicons -->
+<link href="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/favicon.png" rel="icon"/>
+<link href="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/images/apple-icon-touch.png" rel="apple-touch-icon">
+<!--[if IE]>
+			<link rel="shortcut icon" href="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/favicon.ico">
+		<![endif]-->
+<meta content="#f01d4f" name="msapplication-TileColor"/>
+<meta content="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/images/win8-tile-icon.png" name="msapplication-TileImage"/>
+<meta content="#121212" name="theme-color"/>
+<link href="https://waterfordwhispersnews.com/xmlrpc.php" rel="pingback"/>
+<title>Waterford Whispers News – Irish Satire news</title>
+<link href="//cdnjs.cloudflare.com" rel="dns-prefetch">
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://waterfordwhispersnews.com/feed/" rel="alternate" title="Waterford Whispers News » Feed" type="application/rss+xml"/>
+<link href="https://waterfordwhispersnews.com/comments/feed/" rel="alternate" title="Waterford Whispers News » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/waterfordwhispersnews.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://waterfordwhispersnews.com/wp-includes/css/dist/block-library/style.min.css?ver=5.1.8" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link href="https://waterfordwhispersnews.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.3" id="wp-polls-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-polls-inline-css" type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background: #D52527;
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link href="https://waterfordwhispersnews.com/wp-content/plugins/wwn-core-plugin-V1.09-DFP/css/dfp-gdpr-wwn.css?ver=5.1.8" id="wwn-dfp-gdpr-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://waterfordwhispersnews.com/wp-content/plugins/wwn-core-plugin-V1.09-DFP/css/wwn-core-css.css?ver=5.1.8" id="wwn-core-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://waterfordwhispersnews.com/wp-content/plugins/wwn-quiz-plugin-v0.58/css/wwn-quiz-plugin-css.css?ver=5.1.8" id="pi-g-maps-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/vendor/foundation/css/normalize.min.css?ver=5.1.8" id="normalize-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/vendor/foundation/css/foundation.min.css?ver=5.1.8" id="foundation-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/css/style.css?0_2&amp;ver=5.1.8" id="site-css-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/vendor/foundation/js/vendor/jquery.js?ver=2.1.3-b-modified-1454746974" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js?ver=5.1.8" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/plugins/wwn-core-plugin-V1.09-DFP/js/dfp-gdpr-wwn.js?ver=-b-modified-1615544380" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/plugins/wwn-core-plugin-V1.09-DFP/js/ads.js?ver=-b-modified-1615544375" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/plugins/wwn-quiz-plugin-v0.58/js/wwn-quiz-core-js-v3.js?ver=-b-modified-1530716053" type="text/javascript"></script>
+<link href="https://waterfordwhispersnews.com/wp-json/" rel="https://api.w.org/"/>
+<meta content="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/?ia_markup=1" property="ia:markup_url">
+<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-13259461-1 ', 'auto');
+			ga('send', 'pageview');
+		</script>
+<script>
+		console.log('Video Ads Enabled');
+		var videoAdEnabled = true;
+	</script><script> console.log('Auto Ads Turned Off'); </script>
+<script>googletag = window.googletag || {cmd: []};</script>
+<script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+	var kvreferral = document.referrer;
+
+	function removebrackets(myString){
+         return myString.substr(1).slice(0, -1);
+    }
+	
+</script>
+<script>
+	var kvcategory = 'n/a';
+	var kvurl = 'n/a';
+	var pageURL= window.location.href;
+	var pageType = 'Home Page';
+     var Top, FloatingAd, RightSidebarTop, RightSidebarMid, HomeIndex, Wallpaper; +        googletag.cmd.push(function() {
+		var Topmapping = googletag.sizeMapping().
+		  addSize([1024, 200], [[970, 250], [970, 90], [728, 90]]).
+		  addSize([728, 200], [[300, 250], [728, 90]]).
+		  addSize([440, 200], [ [300, 250], [320, 100],[320, 50], [300, 100], [300, 50],[300, 75]]).
+		  addSize([0, 0], [[300, 250], [320, 100],[320, 50], [300, 100], [300, 50],[300, 75]]).
+		  build();
+		var RightSidebarTopmapping = googletag.sizeMapping().
+		  addSize([1024, 200], [300, 250]).
+		  addSize([0, 0], []).
+		  build();	
+		var RightSidebarMidmapping = googletag.sizeMapping().
+		  addSize([1024, 200], [[300, 600],[300, 250]]).
+		  addSize([0, 0], []).
+		  build();	
+		var HomeIndexmapping = googletag.sizeMapping().
+		  addSize([1024, 200], []).
+		  addSize([0, 0], [300, 250]).
+		  build();	
+		var Wallpapermapping = googletag.sizeMapping().
+		  addSize([1024, 200], [1, 1]).
+		  addSize([0, 0], []).
+		  build();		
+		var FloatingAdMapping =  googletag.sizeMapping().
+		  addSize([1024, 200], [[970, 90], [728, 90]]).
+		  addSize([728, 200],  [728, 90]).
+		  addSize([0, 0], [ [320, 100],[320, 50], [300, 100], [300, 50]]).
+		  build();  
+
+		Top = googletag.defineSlot('/428161112/wwn_top', [[970, 90], [728, 90], [300, 250], [970, 250]], 'div-gpt-ad-1480494466072-4')
+		.defineSizeMapping(Topmapping)
+		.setTargeting('kvreferral', [kvreferral]).setTargeting('kvcategory', [kvcategory]).setTargeting('kvHouseOnly', ['false']).setTargeting('kvurl', [kvurl]).setTargeting('personalised', [dfpPersonalise])
+		.addService(googletag.pubads());
+		 
+		FloatingAd = googletag.defineSlot('/428161112/wwn_top/wwn_website_float_bottom', [[728, 90], [320, 50], [300, 100]], 'div-gpt-ad-1569846246301-0')
+		.defineSizeMapping(FloatingAdMapping)
+		.setTargeting('kvreferral', [kvreferral]).setTargeting('kvcategory', [kvcategory]).setTargeting('kvHouseOnly', ['false']).setTargeting('kvurl', [kvurl]).setTargeting('personalised', [dfpPersonalise])
+		.addService(googletag.pubads());
+		
+		RightSidebarTop = googletag.defineSlot('/428161112/wwn_top/wwn_website_sidebar_top', [300, 250], 'div-gpt-ad-1480494466072-3')
+		.defineSizeMapping(RightSidebarTopmapping)
+		.setTargeting('kvreferral', [kvreferral]).setTargeting('kvcategory', [kvcategory]).setTargeting('kvHouseOnly', ['false']).setTargeting('kvurl', [kvurl]).setTargeting('personalised', [dfpPersonalise])
+		.addService(googletag.pubads());
+		RightSidebarMid = googletag.defineSlot('/428161112/wwn_top/wwn_website_sidebar_mid', [[300, 600], [300, 250]], 'div-gpt-ad-1480494466072-2')
+		.defineSizeMapping(RightSidebarMidmapping)
+		.setTargeting('kvreferral', [kvreferral]).setTargeting('kvcategory', [kvcategory]).setTargeting('kvHouseOnly', ['false']).setTargeting('kvurl', [kvurl]).setTargeting('personalised', [dfpPersonalise])
+		.addService(googletag.pubads());
+		HomeIndex = googletag.defineSlot('/428161112/wwn_top/wwn_Website_Incontent', [[300, 600], [300, 250]], 'div-gpt-ad-1481035909528-1')
+		.defineSizeMapping(HomeIndexmapping)
+		.setTargeting('kvreferral', [kvreferral]).setTargeting('kvcategory', [kvcategory]).setTargeting('kvHouseOnly', ['false']).setTargeting('kvurl', [kvurl]).setTargeting('personalised', [dfpPersonalise])
+		.addService(googletag.pubads());
+		Wallpaper = googletag.defineOutOfPageSlot('/428161112/wwn_top/wwn_skin_website_skin', 'div-gpt-ad-1480494466072-1')
+		.defineSizeMapping(Wallpapermapping)
+		.setTargeting('kvreferral', [kvreferral]).setTargeting('kvcategory', [kvcategory]).setTargeting('kvHouseOnly', ['false']).setTargeting('kvurl', [kvurl]).setTargeting('personalised', [dfpPersonalise])
+		.addService(googletag.pubads());
+		googletag.pubads().disableInitialLoad();
+		googletag.pubads().collapseEmptyDivs();
+		googletag.pubads().setTargeting('kvpagetype', []).setTargeting('kvreferral', []).setTargeting('kvcategory', []).setTargeting('kvHouseOnly', []).setTargeting('kvurl', []).setTargeting('personalised', []);
+        googletag.enableServices();
+      });
+    </script>
+<style type="text/css">
+	.lockScroll{
+		overflow: hidden;
+	}
+</style>
+<!--
+		<script src="https://contributor.google.com/scripts/21c0a253731d91b7/loader.js"></script><script>window.googlefc = window.googlefc || {}; googlefc.callbackQueue = googlefc.callbackQueue || [];</script><script src="https://fundingchoices.google.com/f/AGSKWxWTg9mI-DHXrMgoUYkkgv9VFnOFIhqYSW1DIBU7Ca5QVRlbocxP96vgzo6s4e-D1x8gnYnnll4="></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'display: none; width: 0px; height: 0px; border: none; ' + 'z-index: -1000; left: -1000px; top: -1000px;'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+	-->
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-13259461-1"></script>
+<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'UA-13259461-1');
+	</script>
+<!-- Twitter Card data -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@WhispersNewsLTD" name="twitter:site"/>
+<meta content="Waterford Whispers News" name="twitter:title"/>
+<meta content="Irish Satire news" name="twitter:description"/>
+<!--<meta name="twitter:creator" content="@author_handle"> -->
+<!-- Twitter Summary card images must be at least 120x120px -->
+<meta content="http://waterfordwhispersnews.com/wp-content/uploads/2017/08/social-logo-wwn.jpg" name="twitter:image"/>
+<!-- Open Graph data -->
+<meta content="213976052005783" property="fb:app_id">
+<meta content="Waterford Whispers News" property="og:title">
+<meta content="article" property="og:type">
+<meta content="https://waterfordwhispersnews.com:443/" property="og:url">
+<meta content="http://waterfordwhispersnews.com/wp-content/uploads/2017/08/social-logo-wwn.jpg" property="og:image">
+<meta content="Irish Satire news" property="og:description">
+<meta content="Waterford Whispers News" property="og:site_name">
+<style>
+@media only screen and (min-width: 40.063em)
+.featured-post-header {position: absolute;
+    color: white!important;
+    font-size: 1.2em!important;
+    font-weight: bold;
+    bottom: 10px;
+    background-color: rgba(0,0,0,0.6);
+    padding: .2em!important;
+    width: 100%;
+    text-align: center;
+    border-bottom: none!important;
+    left: 0;
+}
+}
+</style>
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<style id="custom-background-css" type="text/css">
+body.custom-background { background-image: url("https://waterfordwhispersnews.com/wp-content/uploads/2016/02/body-bg1.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+<!-- Drop Google Analytics here -->
+<!-- end analytics -->
+</meta></meta></meta></meta></meta></meta></meta></meta></link></link></meta></head>
+<body class="home blog custom-background woocommerce-no-js">
+<a href="#" id="skin-dfp" style="display:none;"></a>
+<div class="row show-for-large-up" role="banner">
+<div class="small-12 large-12 columns desktop-head">
+<div class="row ticker"> <!-- Start of Ticker Tape--><div class="large-2 columns tickertape"><h4>Breaking News</h4></div><div class="large-10 columns"><ul id="mywebticker" style="visibility: hidden;"><li><a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/">Becoming A Jockey ‘Never Occurred’ To Tiny Little Man</a></li><li><a href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/">New Evidence Reveals St. Patrick Died From Cirrhosis Of Liver</a></li><li><a href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/">St. Patrick Facts You May Not Know</a></li><li><a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/">“These Are The Worst Set Of Oscars Nominations Since Rochus Gliese Was Nominated For ‘Sunrise’ In 1929”</a></li><li><a href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/">Woman Just Wants To Find Someone Who’d Defend Her The Way Government Defends Varadkar</a></li></ul></div></div> <div class="row">
+<div class="large-3 columns header-info">
+					Wednesday 17th March 2021 <br/>
+					Wicked Mild | <img alt="weather" src="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/images/weather-icon-small.gif"/>
+</div>
+<div class="large-6 columns">
+<div class="site-logo">
+<a href="https://waterfordwhispersnews.com/" rel="home" title="Waterford Whispers News"><img alt="Waterford Whispers News" class="siteLogoImg" src="https://waterfordwhispersnews.com/wp-content/uploads/2018/01/HIGH-RES-LOGOG.jpg"/></a>
+</div>
+</div>
+<div class="large-3 columns">
+<div class="socialicons-desktop-wrapper"><div class="socialicon"><a class="" href="https://www.facebook.com/WhispersNews"><i class="icon-facebook"></i></a></div><div class="socialicon"><a href="https://twitter.com/whispersnewsltd"><i class="icon-twitter"></i></a></div><div class="socialicon"><a href="https://www.youtube.com/user/ColmWilliamson/videos"><i class="icon-youtube"></i></a></div><div class="socialseperator"> | </div><div class="socialimg"><a href="https://www.instagram.com/whispersnews/?ref=badge"><img alt="instagram" src="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/images/instagram_sm.gif"/></a></div></div> <div class="header-search-wrapper">
+<form action="https://waterfordwhispersnews.com/" class="search-block" id="searchform" method="get">
+<div class="search-desktop">
+<input class="search-desktop-box" id="s" name="s" onblur="if(this.value=='')this.value=this.defaultValue;" onfocus="if(this.value==this.defaultValue)this.value='';" size="put_a_size_here" type="text" value="Search"/>
+<input class="search-button" id="searchsubmit" type="submit" value="S"/>
+</div>
+</form>
+</div> </div>
+</div>
+</div>
+</div>
+<!-- <div class="row remove-bg" > -->
+<!--	<div class="off-canvas-wrap sticky" data-offcanvas> -->
+<div class="row remove-bg off-canvas-wrap sticky" data-offcanvas="">
+<div class="inner-wrap">
+<div id="container">
+<header class="header" role="banner">
+<!-- This navs will be applied to the topbar, above all content 
+							  To see additional nav styles, visit the /parts directory -->
+<div class="sticky show-for-large-up contain-to-grid">
+<nav class="top-bar" data-topbar="">
+<!--	
+		<ul class="title-area">
+			<li class="name">
+				<h1> <a href="https://waterfordwhispersnews.com" rel="nofollow">Waterford Whispers News</a></h1>
+			</li>
+		</ul>
+-->
+<section class="top-bar-section left">
+<ul class="top-bar-menu right" id="menu-main-menu"><li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-1583" id="menu-item-1583"><a href="https://waterfordwhispersnews.com/category/breaking-news/">BREAKING</a>
+<ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1474" id="menu-item-1474"><a href="https://waterfordwhispersnews.com/category/worldnews/">WORLD NEWS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1473" id="menu-item-1473"><a href="https://waterfordwhispersnews.com/category/waterfordnews/">LOCAL NEWS</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-82041" id="menu-item-82041"><a href="https://waterfordwhispersnews.com/category/gash/">GASH</a>
+<ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82050" id="menu-item-82050"><a href="https://waterfordwhispersnews.com/category/gash/gash-beauty/">Beauty</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82051" id="menu-item-82051"><a href="https://waterfordwhispersnews.com/category/gash/gash-food/">Food</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82052" id="menu-item-82052"><a href="https://waterfordwhispersnews.com/category/gash/gash-style/">Style</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82053" id="menu-item-82053"><a href="https://waterfordwhispersnews.com/category/gash/gash-wellness/">Wellness</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82054" id="menu-item-82054"><a href="https://waterfordwhispersnews.com/category/gash/gash-work/">Work</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-1479" id="menu-item-1479"><a href="https://waterfordwhispersnews.com/category/wwn-sports/">WWN SPORTS</a>
+<ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82055" id="menu-item-82055"><a href="https://waterfordwhispersnews.com/category/wwn-sports/wwn-football/">Football</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82056" id="menu-item-82056"><a href="https://waterfordwhispersnews.com/category/wwn-sports/wwn-gaa/">GAA</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82057" id="menu-item-82057"><a href="https://waterfordwhispersnews.com/category/wwn-sports/wwn-rugby/">Rugby</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-1472" id="menu-item-1472"><a href="https://waterfordwhispersnews.com/category/lifestyle/">LIFESTYLE</a>
+<ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1476" id="menu-item-1476"><a href="https://waterfordwhispersnews.com/category/health/">HEALTH/SCIENCE</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1478" id="menu-item-1478"><a href="https://waterfordwhispersnews.com/category/business/">BUSINESS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17580" id="menu-item-17580"><a href="https://waterfordwhispersnews.com/category/horoscopes/">HOROSCOPES</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1477" id="menu-item-1477"><a href="https://waterfordwhispersnews.com/category/politics/">POLITICS</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1475" id="menu-item-1475"><a href="https://waterfordwhispersnews.com/category/entertainment/">ENTERTAINMENT</a></li>
+<li class="divider"></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-17579" id="menu-item-17579"><a href="https://waterfordwhispersnews.com/category/segments/">FEATURES</a>
+<ul class="sub-menu dropdown">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17578" id="menu-item-17578"><a href="https://waterfordwhispersnews.com/category/shitlists/">Viral Content</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17582" id="menu-item-17582"><a href="https://waterfordwhispersnews.com/category/opinion/">Opinion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17583" id="menu-item-17583"><a href="https://waterfordwhispersnews.com/category/on-this-day/">On This Day</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17589" id="menu-item-17589"><a href="https://waterfordwhispersnews.com/category/wwn-poll/">WWN POLL</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41366" id="menu-item-41366"><a href="https://waterfordwhispersnews.com/category/1916/">1916</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94708" id="menu-item-94708"><a href="https://waterfordwhispersnews.com/tag/brexit/">BREXIT</a></li>
+</ul> </section>
+</nav>
+</div>
+<div class="hide-for-large-up">
+<nav class="tab-bar">
+<section class="middle tab-bar-section">
+<div class="site-logo">
+<a href="https://waterfordwhispersnews.com/" rel="home" title="Waterford Whispers News"><img alt="Waterford Whispers News" src="https://waterfordwhispersnews.com/wp-content/uploads/2019/01/mobile-logo-2019.jpg"/></a>
+</div>
+</section>
+<section class="left-small">
+<a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+</section>
+<section class="right-small">
+</section>
+</nav>
+</div>
+<aside class="left-off-canvas-menu hide-for-large-up">
+<ul class="off-canvas-list">
+<li><label>Navigation</label></li>
+<ul class="off-canvas-list" id="menu-main-menu-1"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-submenu menu-item-1583"><a href="https://waterfordwhispersnews.com/category/breaking-news/">BREAKING</a>
+<ul class="left-submenu">
+<li class="back"><a href="#">Back</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1474"><a href="https://waterfordwhispersnews.com/category/worldnews/">WORLD NEWS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1473"><a href="https://waterfordwhispersnews.com/category/waterfordnews/">LOCAL NEWS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-submenu menu-item-82041"><a href="https://waterfordwhispersnews.com/category/gash/">GASH</a>
+<ul class="left-submenu">
+<li class="back"><a href="#">Back</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82050"><a href="https://waterfordwhispersnews.com/category/gash/gash-beauty/">Beauty</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82051"><a href="https://waterfordwhispersnews.com/category/gash/gash-food/">Food</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82052"><a href="https://waterfordwhispersnews.com/category/gash/gash-style/">Style</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82053"><a href="https://waterfordwhispersnews.com/category/gash/gash-wellness/">Wellness</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82054"><a href="https://waterfordwhispersnews.com/category/gash/gash-work/">Work</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-submenu menu-item-1479"><a href="https://waterfordwhispersnews.com/category/wwn-sports/">WWN SPORTS</a>
+<ul class="left-submenu">
+<li class="back"><a href="#">Back</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82055"><a href="https://waterfordwhispersnews.com/category/wwn-sports/wwn-football/">Football</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82056"><a href="https://waterfordwhispersnews.com/category/wwn-sports/wwn-gaa/">GAA</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-82057"><a href="https://waterfordwhispersnews.com/category/wwn-sports/wwn-rugby/">Rugby</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-submenu menu-item-1472"><a href="https://waterfordwhispersnews.com/category/lifestyle/">LIFESTYLE</a>
+<ul class="left-submenu">
+<li class="back"><a href="#">Back</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1476"><a href="https://waterfordwhispersnews.com/category/health/">HEALTH/SCIENCE</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1478"><a href="https://waterfordwhispersnews.com/category/business/">BUSINESS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17580"><a href="https://waterfordwhispersnews.com/category/horoscopes/">HOROSCOPES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1477"><a href="https://waterfordwhispersnews.com/category/politics/">POLITICS</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1475"><a href="https://waterfordwhispersnews.com/category/entertainment/">ENTERTAINMENT</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-submenu menu-item-17579"><a href="https://waterfordwhispersnews.com/category/segments/">FEATURES</a>
+<ul class="left-submenu">
+<li class="back"><a href="#">Back</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17578"><a href="https://waterfordwhispersnews.com/category/shitlists/">Viral Content</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17582"><a href="https://waterfordwhispersnews.com/category/opinion/">Opinion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17583"><a href="https://waterfordwhispersnews.com/category/on-this-day/">On This Day</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-17589"><a href="https://waterfordwhispersnews.com/category/wwn-poll/">WWN POLL</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-41366"><a href="https://waterfordwhispersnews.com/category/1916/">1916</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94708"><a href="https://waterfordwhispersnews.com/tag/brexit/">BREXIT</a></li>
+</ul>
+</ul>
+</aside>
+<a class="exit-off-canvas"></a>
+</header> <!-- end .header -->
+<!-- Start Superbox Ad Unit -->
+<div id="RTETopAd">
+<center>
+<!-- WaterfordWhispersNews_Top -->
+<div id="div-gpt-ad-1480494466072-4">
+<script>
+				if(isInt(dfpPersonalise)){
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480494466072-4'); googletag.pubads().setRequestNonPersonalizedAds(dfpPersonalise).refresh([Top]);});
+				} else{
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480494466072-4');});
+				}
+			</script>
+</div>
+</center>
+</div><!-- #RTETopAd /--> <div class="cookie-mobile-wrapper">
+<h3>Important Information</h3>
+<p>We Use Cookies: <a href="https://waterfordwhispersnews.com/privacy/"> Our policy</a>
+<span class="cookie-close">[X]</span></p></div>
+</div> <!-- End Superbox Ad Unit -->
+<div id="content">
+<div class="row" id="inner-content">
+<div class="large-8 medium-12 columns" id="main" role="main">
+<div class="wwn-feature-post2">
+<div class="featured-post-category BebasNeue">BREAKING NEWS</div>
+<a href="https://waterfordwhispersnews.com/2021/03/12/is-it-a-depressing-one-year-into-covid-article-or-pictures-of-baby-goats/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/goats.jpg" width="100%"/> <span class="featured-post-header"><h2> Is It A Depressing 'One Year Into Covid' Article Or Pictures Of Baby Goats? </h2>
+<p>IS THIS just another in a long line of already redundant articles trying and failing …</p></span>
+</a>
+</div> <!-- End of Featured Post -->
+<hr/>
+<div class="show-for-large-up"> <!-- Start of Desktop Home Page -->
+<div class="row two-featured-articles">
+<article class="large-6 columns desktop second post-110743 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-wwn-sports tag-animals tag-horse-racing tag-instant tag-news tag-sport-2 wp-sticky" id="post-110743">
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue">BREAKING NEWS</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-300x165.jpg" width="300"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/">Becoming A Jockey ‘Never Occurred’ To Tiny Little Man</a></h2>
+</header>
+<a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/"><p>AS the Cheltenham Festival rolls around for another year, diminutive local man Eric Waverly is bracing himself for a slew of 'would you not have …</p></a>
+</div>
+</article>
+<article class="large-6 columns desktop second post-110741 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-waterfordnews tag-alcohol tag-instant tag-ireland tag-news tag-paddys-day wp-sticky" id="post-110741">
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue">BREAKING NEWS</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-300x165.jpg" width="300"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/">New Evidence Reveals St. Patrick Died From Cirrhosis Of Liver</a></h2>
+</header>
+<a href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/"><p>DNA tests into what is believed to be the remains of St. Patrick have spilled forth a sorry tale of a man who became so …</p></a>
+</div>
+</article>
+</div>
+<div class="stripe-line"></div>
+<div class="row" data-equalizer="">
+<div class="large-6 columns desktop-third post-110751 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news tag-health-2 tag-instant tag-ireland tag-news wp-sticky" data-equalizer-watch="" id="post-110751">
+<a href="https://waterfordwhispersnews.com/2021/03/16/local-man-done-with-this-fucking-news-throw-him-a-text-when-you-have-vaccine-for-him/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/16/local-man-done-with-this-fucking-news-throw-him-a-text-when-you-have-vaccine-for-him/">Local Man Done With This Fucking News, Throw Him A Text When You Have Vaccine For Him</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/16/local-man-done-with-this-fucking-news-throw-him-a-text-when-you-have-vaccine-for-him/"><p>DECIDING the final straw was the temporary suspension of the …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110727 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-shitlists tag-instant tag-ireland tag-news tag-paddys-day wp-sticky" data-equalizer-watch="" id="post-110727">
+<a href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/">How To Recreate The Carnage Of Paddy’s Day At Home</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/"><p>IT'S something we all miss but you don't have to …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110756 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-worldnews tag-instant tag-news tag-religion wp-sticky" data-equalizer-watch="" id="post-110756">
+<a href="https://waterfordwhispersnews.com/2021/03/16/theres-only-one-same-sex-union-well-let-slide-state-catholic-church/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/16/theres-only-one-same-sex-union-well-let-slide-state-catholic-church/">“There’s Only One Same-Sex Union We’ll Let Slide” State Catholic Church</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/16/theres-only-one-same-sex-union-well-let-slide-state-catholic-church/"><p>THE Vatican has once again shot down the notion that …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110733 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-politics tag-america tag-biden tag-fianna-fail tag-instant tag-ireland tag-news tag-paddys-day wp-sticky" data-equalizer-watch="" id="post-110733">
+<a href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/">Taoiseach Told To Ask Biden For A Few Spare Vaccines In Paddy’s Day Zoom</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/"><p>AHEAD of his St. Patrick Day's Zoom call audience with …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110214 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news tag-friends tag-instant tag-news wp-sticky" data-equalizer-watch="" id="post-110214">
+<a href="https://waterfordwhispersnews.com/2021/03/15/dont-tell-anyone-this-now-but-begins-local-gossip/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/15/dont-tell-anyone-this-now-but-begins-local-gossip/">“Don’t Tell Anyone This Now, But…” Begins Local Gossip</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/15/dont-tell-anyone-this-now-but-begins-local-gossip/"><p>MAKING sure to cover his ass over the information he's …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110700 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news tag-america tag-biden tag-fianna-fail tag-instant tag-ireland tag-news tag-politics-2 wp-sticky" data-equalizer-watch="" id="post-110700">
+<a href="https://waterfordwhispersnews.com/2021/03/15/micheal-martin-dons-oculus-for-3-day-virtual-visit-to-us/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1823310782-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1823310782-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1823310782-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1823310782-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1823310782-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1823310782-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/15/micheal-martin-dons-oculus-for-3-day-virtual-visit-to-us/">Micheál Martin Dons Oculus For 3-Day Virtual Visit To US</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/15/micheal-martin-dons-oculus-for-3-day-virtual-visit-to-us/"><p>"ONCE I put this thing on, I don't want to …</p></a>
+</div>
+</div> </div>
+<!-- Second Featured Post -->
+<div class="wwn-feature-post2">
+<div class="featured-post-category BebasNeue">BREAKING NEWS</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-620x280.jpg" width="100%"/> <span class="featured-post-header"><h2> Becoming A Jockey 'Never Occurred' To Tiny Little Man </h2>
+<p>AS the Cheltenham Festival rolls around for another year, diminutive local man Eric Waverly is …</p></span>
+</a>
+</div>
+<hr/>
+<!-- End of Second Featured Post -->
+<div class="row desktop-four-columns" data-equalizer="">
+<article class="large-3 columns desktop second post-110767 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-entertainment tag-film tag-instant tag-movies tag-news tag-oscars wp-sticky" id="post-110767">
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue">ENTERTAINMENT</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-300x165.jpg" width="300"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/">“These Are The Worst Set Of Oscars Nominations Since Rochus Gliese Was Nominated For ‘Sunrise’ In 1929”</a></h2>
+</header>
+<a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/"><p>WWN's preeminent armchair film critic Trevor Nolan rages at what must be the most disappointing, …</p></a>
+</div>
+</article>
+<article class="large-3 columns desktop second post-110675 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-entertainment tag-dublin tag-instant tag-ireland tag-news wp-sticky" id="post-110675">
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue">ENTERTAINMENT</div>
+<a href="https://waterfordwhispersnews.com/2021/03/12/we-owe-him-our-lives-dalkey-badgers-hail-pat-kenny/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-300x165.jpg" width="300"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/12/we-owe-him-our-lives-dalkey-badgers-hail-pat-kenny/">“We Owe Him Our Lives” Dalkey Badgers Hail Pat Kenny</a></h2>
+</header>
+<a href="https://waterfordwhispersnews.com/2021/03/12/we-owe-him-our-lives-dalkey-badgers-hail-pat-kenny/"><p>DALKEY'S large population of native badgers, once endangered by the prospect of a 104-bedroom nursing …</p></a>
+</div>
+</article>
+<article class="large-3 columns desktop second post-110507 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-entertainment tag-instant tag-news tag-television wp-sticky" id="post-110507">
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue">ENTERTAINMENT</div>
+<a href="https://waterfordwhispersnews.com/2021/03/10/cloning-technology-finally-allows-oprah-winfrey-to-interview-herself/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-300x165.jpg" width="300"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/10/cloning-technology-finally-allows-oprah-winfrey-to-interview-herself/">Cloning Technology Finally Allows Oprah Winfrey To Interview Herself</a></h2>
+</header>
+<a href="https://waterfordwhispersnews.com/2021/03/10/cloning-technology-finally-allows-oprah-winfrey-to-interview-herself/"><p>HAVING climbed every interview mountain there is to climb in the industry, Oprah Winfrey has …</p></a>
+</div>
+</article>
+<article class="large-3 columns desktop second post-110487 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-entertainment tag-instant tag-news tag-television wp-sticky" id="post-110487">
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue">ENTERTAINMENT</div>
+<a href="https://waterfordwhispersnews.com/2021/03/10/piers-morgan-longs-for-days-when-you-could-hack-someones-phone-destroy-them/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/morgan-300x165.jpg" width="300"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/10/piers-morgan-longs-for-days-when-you-could-hack-someones-phone-destroy-them/">Piers Morgan Longs For Days When You Could Hack Someone’s Phone &amp; Destroy Them</a></h2>
+</header>
+<a href="https://waterfordwhispersnews.com/2021/03/10/piers-morgan-longs-for-days-when-you-could-hack-someones-phone-destroy-them/"><p>FORMER Good Morning Britain host and professional gammon Piers Morgan has today defended his claim …</p></a>
+</div>
+</article>
+</div>
+<div class="stripe-line"></div>
+<div class="row" data-equalizer="">
+<div class="large-6 columns desktop-third post-110698 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-news tag-tech wp-sticky" data-equalizer-watch="" id="post-110698">
+<a href="https://waterfordwhispersnews.com/2021/03/15/hard-to-begrudge-the-collison-brothers-success-but-well-give-it-a-go/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/collison-brothers-100x100.png" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/collison-brothers-100x100.png 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/collison-brothers-150x150.png 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/collison-brothers-125x125.png 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/collison-brothers-75x75.png 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/collison-brothers-300x300.png 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/15/hard-to-begrudge-the-collison-brothers-success-but-well-give-it-a-go/">Hard To Begrudge The Collison Brothers’ Success, But We’ll Give It A Go</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/15/hard-to-begrudge-the-collison-brothers-success-but-well-give-it-a-go/"><p>MANY Irish people have given up trying to downplay the …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110678 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news tag-instant tag-ireland tag-news wp-sticky" data-equalizer-watch="" id="post-110678">
+<a href="https://waterfordwhispersnews.com/2021/03/15/staging-a-funeral-just-for-the-session-a-guide/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/drinks-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/drinks-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/drinks-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/drinks-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/drinks-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/drinks-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/15/staging-a-funeral-just-for-the-session-a-guide/">Staging A Funeral Just For The Session, A Guide</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/15/staging-a-funeral-just-for-the-session-a-guide/"><p>SOMETIMES extreme measures have to be taken during extreme lockdown …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110691 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-waterfordnews tag-education tag-instant tag-ireland tag-news tag-schools wp-sticky" data-equalizer-watch="" id="post-110691">
+<a href="https://waterfordwhispersnews.com/2021/03/15/350000-germ-factories-return-to-school/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_284501777-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_284501777-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_284501777-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_284501777-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_284501777-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_284501777-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/15/350000-germ-factories-return-to-school/">350,000 Germ Factories Return To School</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/15/350000-germ-factories-return-to-school/"><p>AS MANY AS 350,000 snot dripping, pants soiling, cough-while-not-covering-mouths, dirty …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110687 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-waterfordnews tag-animals tag-instant tag-ireland tag-nature tag-news wp-sticky" data-equalizer-watch="" id="post-110687">
+<a href="https://waterfordwhispersnews.com/2021/03/15/walrus-livid-to-find-out-st-patricks-day-cancelled/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1462110821-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1462110821-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1462110821-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1462110821-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1462110821-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1462110821-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/15/walrus-livid-to-find-out-st-patricks-day-cancelled/">Walrus Livid To Find Out St Patrick’s Day Cancelled</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/15/walrus-livid-to-find-out-st-patricks-day-cancelled/"><p>HAVING traveled all the way from an iceberg in the …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110683 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-waterfordnews category-politics tag-fine-gael tag-instant tag-ireland tag-news tag-politics-2 wp-sticky" data-equalizer-watch="" id="post-110683">
+<a href="https://waterfordwhispersnews.com/2021/03/15/varadkar-has-sleepless-night-over-how-much-mcdonald-is-probably-enjoying-this/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/15/varadkar-has-sleepless-night-over-how-much-mcdonald-is-probably-enjoying-this/">Varadkar Has Sleepless Night Over How Much McDonald Is Probably Enjoying This</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/15/varadkar-has-sleepless-night-over-how-much-mcdonald-is-probably-enjoying-this/"><p>A FORMAL gardaí investigation being launched into his leaking of …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110632 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-shitlists tag-alcohol tag-instant tag-ireland tag-news wp-sticky" data-equalizer-watch="" id="post-110632">
+<a href="https://waterfordwhispersnews.com/2021/03/12/so-the-cops-have-found-your-shebeen-heres-what-happens-next/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/12/so-the-cops-have-found-your-shebeen-heres-what-happens-next/">So The Cops Have Found Your Shebeen: Here’s What Happens Next</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/12/so-the-cops-have-found-your-shebeen-heres-what-happens-next/"><p>WELL, you had a good run throughout the whole pandemic, …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110621 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-politics tag-instant tag-ireland tag-news tag-politics-2 wp-sticky" data-equalizer-watch="" id="post-110621">
+<a href="https://waterfordwhispersnews.com/2021/03/12/helen-mcentee-to-take-six-month-break-from-listening-to-whingeing-crying-arse-wiping/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2020/11/mcentee-justice-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2020/11/mcentee-justice-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2020/11/mcentee-justice-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2020/11/mcentee-justice-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2020/11/mcentee-justice-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2020/11/mcentee-justice-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/12/helen-mcentee-to-take-six-month-break-from-listening-to-whingeing-crying-arse-wiping/">Helen McEntee To Take Six Month Break From Listening To Whingeing, Crying &amp; Arse Wiping</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/12/helen-mcentee-to-take-six-month-break-from-listening-to-whingeing-crying-arse-wiping/"><p>MINISTER For Justice Helen McEntee has expressed how much she's …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110654 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-waterfordnews category-politics tag-housing tag-instant tag-news wp-sticky" data-equalizer-watch="" id="post-110654">
+<a href="https://waterfordwhispersnews.com/2021/03/12/useless-housing-bill-everyone-fucking-hates-to-pass-dail-vote-with-flying-colours/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2020/07/darragh-obrien-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2020/07/darragh-obrien-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2020/07/darragh-obrien-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2020/07/darragh-obrien-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2020/07/darragh-obrien-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2020/07/darragh-obrien-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/12/useless-housing-bill-everyone-fucking-hates-to-pass-dail-vote-with-flying-colours/">Useless Housing Bill Everyone Fucking Hates To Pass Dáil Vote With Flying Colours</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/12/useless-housing-bill-everyone-fucking-hates-to-pass-dail-vote-with-flying-colours/"><p>ADVERTISED as a way to make it easier for councils …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110623 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-waterfordnews tag-bonzo tag-instant tag-ireland tag-news tag-television wp-sticky" data-equalizer-watch="" id="post-110623">
+<a href="https://waterfordwhispersnews.com/2021/03/12/bonzo-the-dog-returns-to-kill-kill-kill-and-kill-again/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/bonzo-ad-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/bonzo-ad-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/bonzo-ad-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/bonzo-ad-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/bonzo-ad-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/bonzo-ad-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/12/bonzo-the-dog-returns-to-kill-kill-kill-and-kill-again/">Bonzo The Dog Returns To Kill, Kill, Kill, And Kill Again</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/12/bonzo-the-dog-returns-to-kill-kill-kill-and-kill-again/"><p>LIKE a golden-haired demon from the bowels of hell itself, …</p></a>
+</div>
+</div>
+<div class="large-6 columns desktop-third post-110634 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" data-equalizer-watch="" id="post-110634">
+<a href="https://waterfordwhispersnews.com/2021/03/12/group-of-16-anonymous-bidders-ready-to-purchase-davy-stockbrokers/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/davygroup-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/davygroup-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/davygroup-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/davygroup-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/davygroup-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/davygroup-300x300.jpg 300w" width="100"/></a>
+<header>
+<b><a href="https://waterfordwhispersnews.com/2021/03/12/group-of-16-anonymous-bidders-ready-to-purchase-davy-stockbrokers/">Group Of 16 Anonymous Bidders Ready To Purchase Davy Stockbrokers</a></b>
+</header>
+<div class="entry-content clearfix">
+<a href="https://waterfordwhispersnews.com/2021/03/12/group-of-16-anonymous-bidders-ready-to-purchase-davy-stockbrokers/"><p>DAVY STOCKBROKERS decision to sell up has been welcomed by …</p></a>
+</div>
+</div> </div>
+<!-- Third Featured Post -->
+<div class="wwn-feature-post2">
+<div class="featured-post-category BebasNeue">BREAKING NEWS</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-620x280.jpg" width="100%"/> <span class="featured-post-header"><h2> New Evidence Reveals St. Patrick Died From Cirrhosis Of Liver </h2>
+<p>DNA tests into what is believed to be the remains of St. Patrick have spilled …</p></span>
+</a>
+</div>
+<!-- End of Third Featured Post -->
+</div><!-- End Desktop Home Page -->
+<div class="hide-for-large-up mobile-hide"> <!-- Start of Mobile Home Page -->
+<div class="stripe-line"></div>
+<div class="row mobile-homepage">
+<article class="index-card mobilearticle post-110743 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-wwn-sports tag-animals tag-horse-racing tag-instant tag-news tag-sport-2 wp-sticky" id="post-110743">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/">Becoming A Jockey ‘Never Occurred’ To Tiny Little Man</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/"><p>AS the Cheltenham Festival rolls around for another year, diminutive …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110741 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-waterfordnews tag-alcohol tag-instant tag-ireland tag-news tag-paddys-day wp-sticky" id="post-110741">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/patrickk-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/">New Evidence Reveals St. Patrick Died From Cirrhosis Of Liver</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/"><p>DNA tests into what is believed to be the remains …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/new-evidence-reveals-st-patrick-died-from-cirrhosis-of-liver/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110721 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-shitlists tag-instant tag-ireland tag-news tag-paddys-day tag-religion wp-sticky" id="post-110721">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/">St. Patrick Facts You May Not Know</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/"><p>GET to know Ireland's patron saint better with these lesser …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110767 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-entertainment tag-film tag-instant tag-movies tag-news tag-oscars wp-sticky" id="post-110767">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/">“These Are The Worst Set Of Oscars Nominations Since Rochus Gliese Was Nominated For ‘Sunrise’ In 1929”</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/"><p>WWN's preeminent armchair film critic Trevor Nolan rages at what …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110753 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-waterfordnews category-politics tag-crime tag-instant tag-ireland tag-news tag-politics-2 wp-sticky" id="post-110753">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/">Woman Just Wants To Find Someone Who’d Defend Her The Way Government Defends Varadkar</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/"><p>LOCAL woman Megan Loughlin has once again cursed her bad …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110751 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news tag-health-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110751">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/local-man-done-with-this-fucking-news-throw-him-a-text-when-you-have-vaccine-for-him/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/local-man-done-with-this-fucking-news-throw-him-a-text-when-you-have-vaccine-for-him/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1771220657-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/local-man-done-with-this-fucking-news-throw-him-a-text-when-you-have-vaccine-for-him/">Local Man Done With This Fucking News, Throw Him A Text When You Have Vaccine For Him</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/local-man-done-with-this-fucking-news-throw-him-a-text-when-you-have-vaccine-for-him/"><p>DECIDING the final straw was the temporary suspension of the …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/local-man-done-with-this-fucking-news-throw-him-a-text-when-you-have-vaccine-for-him/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110727 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-shitlists tag-instant tag-ireland tag-news tag-paddys-day wp-sticky" id="post-110727">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/">How To Recreate The Carnage Of Paddy’s Day At Home</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/"><p>IT'S something we all miss but you don't have to …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110756 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-worldnews tag-instant tag-news tag-religion wp-sticky" id="post-110756">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/theres-only-one-same-sex-union-well-let-slide-state-catholic-church/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/theres-only-one-same-sex-union-well-let-slide-state-catholic-church/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1535316704-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/theres-only-one-same-sex-union-well-let-slide-state-catholic-church/">“There’s Only One Same-Sex Union We’ll Let Slide” State Catholic Church</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/theres-only-one-same-sex-union-well-let-slide-state-catholic-church/"><p>THE Vatican has once again shot down the notion that …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/theres-only-one-same-sex-union-well-let-slide-state-catholic-church/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110733 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-politics tag-america tag-biden tag-fianna-fail tag-instant tag-ireland tag-news tag-paddys-day wp-sticky" id="post-110733">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/">Taoiseach Told To Ask Biden For A Few Spare Vaccines In Paddy’s Day Zoom</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/"><p>AHEAD of his St. Patrick Day's Zoom call audience with …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/">BREAKING NEWS</a>
+</div>
+</article>
+<article class="index-card mobilearticle post-110214 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news tag-friends tag-instant tag-news wp-sticky" id="post-110214">
+<a class="show-for-small-only" href="https://waterfordwhispersnews.com/2021/03/15/dont-tell-anyone-this-now-but-begins-local-gossip/"><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-300x300.jpg 300w" width="75"/></a>
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/15/dont-tell-anyone-this-now-but-begins-local-gossip/"><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_145530742-300x300.jpg 300w" width="100"/></a>
+<header>
+<h2><a href="https://waterfordwhispersnews.com/2021/03/15/dont-tell-anyone-this-now-but-begins-local-gossip/">“Don’t Tell Anyone This Now, But…” Begins Local Gossip</a></h2>
+</header>
+<div class="entry-content clearfix">
+<a class="show-for-medium-only" href="https://waterfordwhispersnews.com/2021/03/15/dont-tell-anyone-this-now-but-begins-local-gossip/"><p>MAKING sure to cover his ass over the information he's …</p></a>
+<a class="show-for-small-only category-mobile-display" href="https://waterfordwhispersnews.com/2021/03/15/dont-tell-anyone-this-now-but-begins-local-gossip/">BREAKING NEWS</a>
+</div>
+</article>
+</div>
+<div id="show-hidden-items">Show More Top Articles</div>
+<!-- Second Featured Post --> <div class="wwn-feature-post2"> <div class="featured-post-category BebasNeue">BREAKING NEWS</div> <a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-620x280.jpg" width="100%"/> <span class="featured-post-header"><h2> Becoming A Jockey 'Never Occurred' To Tiny Little Man </h2> <p>AS the Cheltenham Festival rolls around for another year, diminutive local man Eric Waverly is …</p></span> </a> </div> <hr/> <!-- End of Second Featured Post --> <div class="stripe-line"></div>
+<div class="hp-mobile-ad-unit"> <!-- /4844766/Waterford_Whispers_News/WaterfordWhispersNews_HomeIndex -->
+<div id="div-gpt-ad-1481035909528-1">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1481035909528-1'); });
+</script>
+</div></div>
+</div> <!-- End of Mobile Home Page -->
+</div> <!-- end #main -->
+<aside class="small-12 large-4 columns show-for-large-up" id="sidebar">
+<article class="panel widget My_Widget2" id="my_widget2-6"><div class="widget-top"><h4 class="BebasNeue"> </h4><div class="stripe-line"></div></div><div class="show-for-large-up widget-inner-wrapper"> <!-- /4844766/Waterford_Whispers_News/WaterfordWhispersNews_RightSidebarTop -->
+<div id="div-gpt-ad-1480494466072-3">
+<script>
+				if(isInt(dfpPersonalise)){
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480494466072-3'); googletag.pubads().setRequestNonPersonalizedAds(dfpPersonalise).refresh([RightSidebarTop]);});
+				} else{
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480494466072-3');});
+				}
+				</script>
+</div></div></article>
+<article class="panel widget widget_recent_entries" id="wwn-recent-posts-5">
+<div class="widget-top"><h4 class="BebasNeue">Recent Posts</h4><div class="stripe-line"></div></div><div class="show-for-large-up widget-inner-wrapper">
+<ul>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-300x100.jpg" width="300"><h4>St. Patrick Facts You May Not Know</h4></img></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-300x100.jpg" width="300"/><h4>“These Are The Worst Set Of Oscars Nominations Since Rochus Gliese Was Nominated For ‘Sunrise’ In 1929”</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-300x100.jpg" width="300"/><h4>Woman Just Wants To Find Someone Who’d Defend Her The Way Government Defends Varadkar</h4></a>
+</li>
+</ul>
+</div></article>
+<article class="panel widget widget_wwn_cookies_widget" id="wwn_cookies_widget-4"><div class="cookie-wrapper"><div class="widget-top"><h4 class="BebasNeue">Important Information</h4><div class="stripe-line"></div></div><div class="show-for-large-up widget-inner-wrapper"><p>Our website uses cookies, as almost all websites do, to help provide you with the best experience we can. By continuing to use this website you consent to the use of cookies in accordance with <a href="https://waterfordwhispersnews.com/privacy/"> our policy</a>.</p> <span class="cookie-close">[X]</span></div></div></article><article class="panel widget categort-posts" id="categort-posts-widget-7"><div class="widget-top"><h4 class="BebasNeue">Uplifting Viral Content
+		</h4><div class="stripe-line"></div></div><div class="show-for-large-up widget-inner-wrapper">
+<ul>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-300x100.jpg" width="300"/><h4>St. Patrick Facts You May Not Know</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-300x100.jpg" width="300"/><h4>How To Recreate The Carnage Of Paddy’s Day At Home</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/12/so-the-cops-have-found-your-shebeen-heres-what-happens-next/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-300x100.jpg" width="300"/><h4>So The Cops Have Found Your Shebeen: Here’s What Happens Next</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/12/is-it-a-depressing-one-year-into-covid-article-or-pictures-of-baby-goats/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/goats-300x100.jpg" width="300"/><h4>Is It A Depressing ‘One Year Into Covid’ Article Or Pictures Of Baby Goats?</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/11/guide-to-being-a-mature-student/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_117426607-300x100.jpg" width="300"/><h4>Guide To Being A Mature Student</h4></a>
+</li>
+</ul>
+<div class="clear"></div>
+</div></article><article class="panel widget My_Widget" id="my_widget-3"><div class="widget-top"><h4 class="BebasNeue"> </h4><div class="stripe-line"></div></div><div class="show-for-large-up widget-inner-wrapper"><!-- /4844766/Waterford_Whispers_News/WaterfordWhispersNews_RightSidebarMid -->
+<div id="div-gpt-ad-1480494466072-2">
+<script>
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480494466072-2'); });
+		</script>
+</div></div></article><article class="panel widget categort-posts" id="categort-posts-widget-9"><div class="widget-top"><h4 class="BebasNeue">Business
+		</h4><div class="stripe-line"></div></div><div class="show-for-large-up widget-inner-wrapper">
+<ul>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/15/hard-to-begrudge-the-collison-brothers-success-but-well-give-it-a-go/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/collison-brothers-300x100.png" width="300"/><h4>Hard To Begrudge The Collison Brothers’ Success, But We’ll Give It A Go</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/12/group-of-16-anonymous-bidders-ready-to-purchase-davy-stockbrokers/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/davygroup-300x100.jpg" width="300"/><h4>Group Of 16 Anonymous Bidders Ready To Purchase Davy Stockbrokers</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/12/fastway-couriers-deliver-news-of-customer-data-breach-4-days-late-to-the-wrong-house/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1195918915-300x100.jpg" width="300"/><h4>Fastway Couriers Deliver News Of Customer Data Breach 4 Days Late &amp; To The Wrong House</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/11/amazon-introduce-new-did-buying-this-product-momentarily-ease-your-anxiety-feature/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1126539725-300x100.jpg" width="300"/><h4>Amazon Introduce New ‘Did Buying This Product Momentarily Ease Your Anxiety?’ Feature</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/10/heres-how-compo-claims-will-be-calculated-under-new-guidelines/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_712795042-300x100.jpg" width="300"/><h4>Here’s How Compo Claims Will Be Calculated Under New Guidelines</h4></a>
+</li>
+<li class="widget-img-container">
+<a href="https://waterfordwhispersnews.com/2021/03/10/central-bank-promise-to-patch-things-up-with-davy-at-next-golf-society-meeting/"><img alt="" class="lazy-sidebar wp-post-image" height="100" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_280707518-300x100.jpg" width="300"/><h4>Central Bank Promise To Patch Things Up With Davy At Next Golf Society Meeting</h4></a>
+</li>
+</ul>
+<div class="clear"></div>
+</div></article></aside><!-- /#sidebar -->
+</div> <!-- end #inner-content -->
+<div class="row main-content-area">
+<div class="small-12 large-12 columns" id="homepage-cat-container" role="main">
+<div class="row cat-full-width show-for-large-up" style="border-top-color:#ea7c16;">
+<h2 style="color:#ea7c16;">ENTERTAINMENT</h2>
+<div class="show-for-large-up large-4 columns">
+<ul>
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue" style="background-color:#ea7c16;">
+							ENTERTAINMENT</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-300x165.jpg" width="300"/></a>
+<header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/">"These Are The Worst Set Of Oscars Nominations Since Rochus Gliese Was Nominated For 'Sunrise' In 1929"</a></h2> </header> <a href=""><p>WWN's preeminent armchair film critic Trevor Nolan rages at what must be the most disappointing, …</p></a> </div> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <li><a href="https://waterfordwhispersnews.com/2021/03/12/we-owe-him-our-lives-dalkey-badgers-hail-pat-kenny/">"We Owe Him Our Lives" Dalkey Badgers Hail Pat Kenny</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/10/cloning-technology-finally-allows-oprah-winfrey-to-interview-herself/">Cloning Technology Finally Allows Oprah Winfrey To Interview Herself</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/10/piers-morgan-longs-for-days-when-you-could-hack-someones-phone-destroy-them/">Piers Morgan Longs For Days When You Could Hack Someone's Phone &amp; Destroy Them</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/09/world-exclusive-read-our-interview-with-finbar-markle/">World Exclusive: Read Our Interview With Finbar Markle</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/08/man-sues-bryan-adams-in-historic-ear-abuse-case/">Man Sues Bryan Adams In Historic Ear Abuse Case</a> </li> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <div class="wwn-feature-post2"> <div class="featured-post-category BebasNeue" style="background-color:#ea7c16;">ENTERTAINMENT</div> <a href="https://waterfordwhispersnews.com/2021/03/08/all-the-shocking-revelations-from-meghan-harrys-interview/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/meghan-harry-oprah-300x300.jpg" width="100%"/> <span class="featured-post-header"><h2> All The Shocking Revelations From Meghan &amp; Harry's Interview </h2> </span> </a> </div> </ul> </div> </div> <!-- End of cat-full-width --> <div class="hide-for-large-up"> <!-- Start of Mobile Home Page --> <div class="stripe-line"></div> <div class="row mobile-homepage extra-padding-left" style="border-top-color:#ea7c16;"> <h1 style="color:#ea7c16;">ENTERTAINMENT</h1> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110767"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_87610327-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/these-are-the-worst-set-of-oscars-nominations-since-rochus-gliese-was-nominated-for-sunrise-in-1929/">"These Are The Worst Set Of Oscars Nominations Since Rochus Gliese Was Nominated For 'Sunrise' In 1929"</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>WWN's preeminent armchair film critic Trevor Nolan rages at what …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#ea7c16;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110675"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1523701514-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/12/we-owe-him-our-lives-dalkey-badgers-hail-pat-kenny/">"We Owe Him Our Lives" Dalkey Badgers Hail Pat Kenny</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>DALKEY'S large population of native badgers, once endangered by the …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#ea7c16;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110507"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_128934428-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/10/cloning-technology-finally-allows-oprah-winfrey-to-interview-herself/">Cloning Technology Finally Allows Oprah Winfrey To Interview Herself</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>HAVING climbed every interview mountain there is to climb in …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#ea7c16;">BUSINESS</a> </div></article> </div> </div> <!-- End of Mobile Home Page -->
+<div class="row cat-full-width show-for-large-up" style="border-top-color:;">
+<h2 style="color:;">Gash</h2>
+<div class="show-for-large-up large-4 columns">
+<ul>
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue" style="background-color:;">
+							Gash</div>
+<a href="https://waterfordwhispersnews.com/2021/02/10/nostril-plaits-the-next-big-fashion-trend/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-300x165.jpg" width="300"/></a>
+<header> <h2><a href="https://waterfordwhispersnews.com/2021/02/10/nostril-plaits-the-next-big-fashion-trend/">Nostril Plaits: The Next Big Fashion Trend?</a></h2> </header> <a href=""><p>NOSTRIL hair has long been frowned upon by society as a ghastly sight, forcing aging …</p></a> </div> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <li><a href="https://waterfordwhispersnews.com/2020/10/09/pulling-out-of-the-pull-out-method-how-these-brave-irish-men-copped-the-fuck-on/">Pulling Out Of The Pull-Out Method: How These Brave Irish Men Copped The Fuck On</a> </li> <li><a href="https://waterfordwhispersnews.com/2020/09/07/im-always-respectful-of-women-when-i-know-they-can-hear-me/">"I'm Always Respectful Of Women When I Know They Can Hear Me"</a> </li> <li><a href="https://waterfordwhispersnews.com/2020/08/31/meet-the-women-getting-ruler-tattoos-on-their-arms-to-bring-an-end-to-bullshitting-men/">Meet The Women Getting Ruler Tattoos On Their Arms To Bring An End To Bullshitting Men</a> </li> <li><a href="https://waterfordwhispersnews.com/2020/08/01/ah-jesus-claire-dont-be-throwing-terms-like-intersectional-feminism-at-your-poor-old-dad/">"Ah Jesus Claire, Don't Be Throwing Terms Like 'Intersectional Feminism' At Your Poor Old Dad"</a> </li> <li><a href="https://waterfordwhispersnews.com/2020/07/30/mothers-hushed-tone-suggests-this-next-gossip-is-going-to-be-real-good/">Mother’s Hushed Tone Suggests This Next Gossip Is Going To Be Real Good</a> </li> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <div class="wwn-feature-post2"> <div class="featured-post-category BebasNeue" style="background-color:;">Gash</div> <a href="https://waterfordwhispersnews.com/2020/04/09/we-need-to-talk-about-how-hot-jesus-is/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2020/04/92548444_1098992590499208_1329596607825444864_n-300x300.jpg" width="100%"/> <span class="featured-post-header"><h2> "We Need To Talk About How Hot Jesus Is" </h2> </span> </a> </div> </ul> </div> </div> <!-- End of cat-full-width --> <div class="hide-for-large-up"> <!-- Start of Mobile Home Page --> <div class="stripe-line"></div> <div class="row mobile-homepage extra-padding-left" style="border-top-color:;"> <h1 style="color:;">Gash</h1> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-109217"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_107023637-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/02/10/nostril-plaits-the-next-big-fashion-trend/">Nostril Plaits: The Next Big Fashion Trend?</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>NOSTRIL hair has long been frowned upon by society as …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-104523"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2020/08/shutterstock_521300323-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2020/10/09/pulling-out-of-the-pull-out-method-how-these-brave-irish-men-copped-the-fuck-on/">Pulling Out Of The Pull-Out Method: How These Brave Irish Men Copped The Fuck On</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>THE TRIED and tested contraceptive method beloved by Irish men …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-104939"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2020/09/shutterstock_254120815-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2020/09/07/im-always-respectful-of-women-when-i-know-they-can-hear-me/">"I'm Always Respectful Of Women When I Know They Can Hear Me"</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>ONE BRAVE man, committed to speaking up for and out …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> </div> </div> <!-- End of Mobile Home Page -->
+<div class="row cat-full-width show-for-large-up" style="border-top-color:;">
+<h2 style="color:;">HEALTH</h2>
+<div class="show-for-large-up large-4 columns">
+<ul>
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue" style="background-color:;">
+							HEALTH</div>
+<a href="https://waterfordwhispersnews.com/2021/02/12/nation-admits-it-would-lick-vaccine-off-a-scabby-leg-at-this-stage/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-300x165.jpg" width="300"/></a>
+<header> <h2><a href="https://waterfordwhispersnews.com/2021/02/12/nation-admits-it-would-lick-vaccine-off-a-scabby-leg-at-this-stage/">Nation Admits It Would Lick Vaccine Off A Scabby Leg At This Stage</a></h2> </header> <a href=""><p>CONCERNS surrounding the effectiveness of the Covid-19 vaccine or the possible side effects are not …</p></a> </div> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <li><a href="https://waterfordwhispersnews.com/2021/02/10/health-service-to-hire-out-of-work-bar-staff-to-mix-vaccine-cocktails/">Health Service To Hire Out-Of-Work Bar Staff To Mix Vaccine Cocktails</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/09/government-ask-burned-out-nurses-not-to-waste-remaining-energy-moaning/">Government Ask Burned Out Nurses Not To Waste Remaining Energy Moaning</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/08/hse-set-themselves-another-vaccination-deadline-to-miss/">HSE Set Themselves Another Vaccination Deadline To Miss</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/03/public-ask-that-new-e292000-dept-of-health-role-be-melted-down-turned-into-nurses/">Public Ask That New €292,000 Dept. Of Health Role Be Melted Down &amp; Turned Into Nurses</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/01/bang-and-the-virus-is-gone-barry-scott-unveils-cillit-bang-vaccine/">"Bang And The Virus Is Gone!" - Barry Scott Unveils Cillit Bang Vaccine</a> </li> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <div class="wwn-feature-post2"> <div class="featured-post-category BebasNeue" style="background-color:;">HEALTH</div> <a href="https://waterfordwhispersnews.com/2021/01/25/first-vaccine-death-confirmed-as-man-hit-by-pfizer-delivery-truck/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/01/shutterstock_777388687-300x300.jpg" width="100%"/> <span class="featured-post-header"><h2> First Vaccine Death Confirmed As Man Hit By Pfizer Delivery Truck </h2> </span> </a> </div> </ul> </div> </div> <!-- End of cat-full-width --> <div class="hide-for-large-up"> <!-- Start of Mobile Home Page --> <div class="stripe-line"></div> <div class="row mobile-homepage extra-padding-left" style="border-top-color:;"> <h1 style="color:;">HEALTH</h1> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-109647"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1742425910-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/02/12/nation-admits-it-would-lick-vaccine-off-a-scabby-leg-at-this-stage/">Nation Admits It Would Lick Vaccine Off A Scabby Leg At This Stage</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>CONCERNS surrounding the effectiveness of the Covid-19 vaccine or the …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-109512"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_177570872-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/02/10/health-service-to-hire-out-of-work-bar-staff-to-mix-vaccine-cocktails/">Health Service To Hire Out-Of-Work Bar Staff To Mix Vaccine Cocktails</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>WITH more and more evidence emerging regarding the effectiveness of …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-109573"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1823310788-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/02/09/government-ask-burned-out-nurses-not-to-waste-remaining-energy-moaning/">Government Ask Burned Out Nurses Not To Waste Remaining Energy Moaning</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>AFTER the Irish Midwives and Nurses Organisation told an Oireachtas …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> </div> </div> <!-- End of Mobile Home Page -->
+<div class="row cat-full-width show-for-large-up" style="border-top-color:#42b4e6;">
+<h2 style="color:#42b4e6;">LIFESTYLE</h2>
+<div class="show-for-large-up large-4 columns">
+<ul>
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue" style="background-color:#42b4e6;">
+							LIFESTYLE</div>
+<a href="https://waterfordwhispersnews.com/2021/03/10/celebrate-your-100th-rent-payment-in-style-with-these-simple-tips/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-300x165.jpg" width="300"/></a>
+<header> <h2><a href="https://waterfordwhispersnews.com/2021/03/10/celebrate-your-100th-rent-payment-in-style-with-these-simple-tips/">Celebrate Your 100th Rent Payment In Style With These Simple Tips!</a></h2> </header> <a href=""><p>THERE were times you didn’t think you were going to make it, but you did; …</p></a> </div> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <li><a href="https://waterfordwhispersnews.com/2021/03/09/is-your-teen-getting-their-daily-amount-of-drinking-and-smoking/">Is Your Teen Getting Their Daily Amount Of Drinking And Smoking?</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/25/mans-kettlebells-proving-hugely-effective-at-wide-range-of-non-exercise-uses/">Man’s Kettlebells Proving Hugely Effective At Wide Range Of Non-Exercise Uses</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/25/woman-might-wear-good-pajamas-today-to-feel-fancy/">Woman Might Wear Good Pajamas Today To Feel Fancy</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/23/morto-this-kids-parents-are-still-together/">Morto! This Kid's Parents Are Still Together!</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/16/local-mans-list-of-things-he-wants-to-do-after-lockdown-heartbreakingly-mundane/">Local Man's List Of Things He Wants To Do After Lockdown Heartbreakingly Mundane</a> </li> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <div class="wwn-feature-post2"> <div class="featured-post-category BebasNeue" style="background-color:#42b4e6;">LIFESTYLE</div> <a href="https://waterfordwhispersnews.com/2021/02/16/kid-takes-youve-watched-enough-tv-as-go-ahead-to-start-watching-tablet-instead/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_523949263-300x300.jpg" width="100%"/> <span class="featured-post-header"><h2> Kid Takes 'You've Watched Enough TV' As Go-Ahead To Start Watching Tablet Instead </h2> </span> </a> </div> </ul> </div> </div> <!-- End of cat-full-width --> <div class="hide-for-large-up"> <!-- Start of Mobile Home Page --> <div class="stripe-line"></div> <div class="row mobile-homepage extra-padding-left" style="border-top-color:#42b4e6;"> <h1 style="color:#42b4e6;">LIFESTYLE</h1> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110555"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1292051833-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/10/celebrate-your-100th-rent-payment-in-style-with-these-simple-tips/">Celebrate Your 100th Rent Payment In Style With These Simple Tips!</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>THERE were times you didn’t think you were going to …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#42b4e6;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110501"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/09/is-your-teen-getting-their-daily-amount-of-drinking-and-smoking/">Is Your Teen Getting Their Daily Amount Of Drinking And Smoking?</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>AFTER the latest research reveals an alarming drop in teenagers …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#42b4e6;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110044"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_1528267697-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/02/25/mans-kettlebells-proving-hugely-effective-at-wide-range-of-non-exercise-uses/">Man’s Kettlebells Proving Hugely Effective At Wide Range Of Non-Exercise Uses</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>ORIGINALLY bought as some sort of exercise regime or weight …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#42b4e6;">BUSINESS</a> </div></article> </div> </div> <!-- End of Mobile Home Page -->
+<div class="row cat-full-width show-for-large-up" style="border-top-color:#5a8c46;">
+<h2 style="color:#5a8c46;">POLITICS</h2>
+<div class="show-for-large-up large-4 columns">
+<ul>
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue" style="background-color:#5a8c46;">
+							POLITICS</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-300x165.jpg" width="300"/></a>
+<header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/">Woman Just Wants To Find Someone Who'd Defend Her The Way Government Defends Varadkar</a></h2> </header> <a href=""><p>LOCAL woman Megan Loughlin has once again cursed her bad luck in the dating world …</p></a> </div> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <li><a href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/">Taoiseach Told To Ask Biden For A Few Spare Vaccines In Paddy's Day Zoom</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/15/varadkar-has-sleepless-night-over-how-much-mcdonald-is-probably-enjoying-this/">Varadkar Has Sleepless Night Over How Much McDonald Is Probably Enjoying This</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/12/helen-mcentee-to-take-six-month-break-from-listening-to-whingeing-crying-arse-wiping/">Helen McEntee To Take Six Month Break From Listening To Whingeing, Crying &amp; Arse Wiping</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/12/useless-housing-bill-everyone-fucking-hates-to-pass-dail-vote-with-flying-colours/">Useless Housing Bill Everyone Fucking Hates To Pass Dáil Vote With Flying Colours</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/11/blessing-of-vaccines-may-be-slowing-down-delivery-government-admit/">Blessing Of Vaccines May Be Slowing Down Delivery, Government Admit</a> </li> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <div class="wwn-feature-post2"> <div class="featured-post-category BebasNeue" style="background-color:#5a8c46;">POLITICS</div> <a href="https://waterfordwhispersnews.com/2021/03/11/white-house-staff-beg-biden-to-not-do-that-thing-where-he-goes-quiet-doesnt-blink/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/joebiden-300x300.jpg" width="100%"/> <span class="featured-post-header"><h2> White House Staff Beg Biden To Not Do That Thing Where He Goes Quiet &amp; Doesn't Blink </h2> </span> </a> </div> </ul> </div> </div> <!-- End of cat-full-width --> <div class="hide-for-large-up"> <!-- Start of Mobile Home Page --> <div class="stripe-line"></div> <div class="row mobile-homepage extra-padding-left" style="border-top-color:#5a8c46;"> <h1 style="color:#5a8c46;">POLITICS</h1> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110753"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1173699865-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/woman-just-wants-to-find-someone-whod-defend-her-the-way-government-defends-varadkar/">Woman Just Wants To Find Someone Who'd Defend Her The Way Government Defends Varadkar</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>LOCAL woman Megan Loughlin has once again cursed her bad …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#5a8c46;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110733"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/mm-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/taoiseach-told-to-ask-biden-for-a-few-spare-vaccines-in-paddys-day-zoom/">Taoiseach Told To Ask Biden For A Few Spare Vaccines In Paddy's Day Zoom</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>AHEAD of his St. Patrick Day's Zoom call audience with …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#5a8c46;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110683"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1282944310-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/15/varadkar-has-sleepless-night-over-how-much-mcdonald-is-probably-enjoying-this/">Varadkar Has Sleepless Night Over How Much McDonald Is Probably Enjoying This</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>A FORMAL gardaí investigation being launched into his leaking of …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:#5a8c46;">BUSINESS</a> </div></article> </div> </div> <!-- End of Mobile Home Page -->
+<div class="row cat-full-width show-for-large-up" style="border-top-color:;">
+<h2 style="color:;">Sports</h2>
+<div class="show-for-large-up large-4 columns">
+<ul>
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue" style="background-color:;">
+							Sports</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-300x165.jpg" width="300"/></a>
+<header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/">Becoming A Jockey 'Never Occurred' To Tiny Little Man</a></h2> </header> <a href=""><p>AS the Cheltenham Festival rolls around for another year, diminutive local man Eric Waverly is …</p></a> </div> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <li><a href="https://waterfordwhispersnews.com/2021/03/09/celtic-fans-confirm-they-would-have-celebrated-historic-10-in-a-row-at-home-alone/">Celtic Fans Confirm They Would Have Celebrated Historic 10-In-A-Row At Home Alone</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/03/theres-only-two-bad-apples-please-dont-investigate-further-horse-racing-industry-begs/">"There's Only Two Bad Apples, Please Don't Investigate Further" Horse Racing Industry Begs</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/03/government-already-hiding-homeless-people-ahead-of-world-cup-2030-bid/">Government Already Hiding Homeless People Ahead Of World Cup 2030 Bid</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/01/20000-racehorses-deadsince-2017-kind-of-jealous-they-didnt-make-the-news-too/">20,000 Racehorses Dead Since 2017 Kind Of Jealous They Didn't Make The News Too</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/02/24/tiger-woods-emerges-from-surgery-with-golf-club-for-leg/">Tiger Woods Emerges From Surgery With Golf Club For Leg</a> </li> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <div class="wwn-feature-post2"> <div class="featured-post-category BebasNeue" style="background-color:;">Sports</div> <a href="https://waterfordwhispersnews.com/2021/02/18/gaa-to-make-up-for-e34mn-loss-in-earnings-with-one-big-raffle/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/02/shutterstock_110592326-300x300.jpg" width="100%"/> <span class="featured-post-header"><h2> GAA To Make Up For €34mn Loss In Earnings With One Big Raffle </h2> </span> </a> </div> </ul> </div> </div> <!-- End of cat-full-width --> <div class="hide-for-large-up"> <!-- Start of Mobile Home Page --> <div class="stripe-line"></div> <div class="row mobile-homepage extra-padding-left" style="border-top-color:;"> <h1 style="color:;">Sports</h1> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110743"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_382064161-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/becoming-a-jockey-never-occurred-to-tiny-little-man/">Becoming A Jockey 'Never Occurred' To Tiny Little Man</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>AS the Cheltenham Festival rolls around for another year, diminutive …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110493"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/rangers-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/09/celtic-fans-confirm-they-would-have-celebrated-historic-10-in-a-row-at-home-alone/">Celtic Fans Confirm They Would Have Celebrated Historic 10-In-A-Row At Home Alone</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>THE WORRYING sight of large crowds of celebrating Rangers supporters …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110376"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_658235146-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/03/theres-only-two-bad-apples-please-dont-investigate-further-horse-racing-industry-begs/">"There's Only Two Bad Apples, Please Don't Investigate Further" Horse Racing Industry Begs</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>THE ENTIRE horse racing industry has galloped over countless fences …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> </div> </div> <!-- End of Mobile Home Page -->
+<div class="row cat-full-width show-for-large-up" style="border-top-color:;">
+<h2 style="color:;">Uplifting Viral Content</h2>
+<div class="show-for-large-up large-4 columns">
+<ul>
+<div class="entry-content clearfix">
+<div class="featured-post-category BebasNeue" style="background-color:;">
+							Uplifting Viral Content</div>
+<a href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/"><img alt="" class="attachment-wwn-homepage-secondary-thumb size-wwn-homepage-secondary-thumb wp-post-image" height="165" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-300x165.jpg" width="300"/></a>
+<header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/">St. Patrick Facts You May Not Know</a></h2> </header> <a href=""><p>GET to know Ireland's patron saint better with these lesser known facts about St. Patrick:
+
+Credited …</p></a> </div> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <li><a href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/">How To Recreate The Carnage Of Paddy's Day At Home</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/12/so-the-cops-have-found-your-shebeen-heres-what-happens-next/">So The Cops Have Found Your Shebeen: Here’s What Happens Next</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/12/is-it-a-depressing-one-year-into-covid-article-or-pictures-of-baby-goats/">Is It A Depressing 'One Year Into Covid' Article Or Pictures Of Baby Goats?</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/11/guide-to-being-a-mature-student/">Guide To Being A Mature Student</a> </li> <li><a href="https://waterfordwhispersnews.com/2021/03/10/heres-how-compo-claims-will-be-calculated-under-new-guidelines/">Here's How Compo Claims Will Be Calculated Under New Guidelines</a> </li> </ul> </div> <div class="show-for-large-up large-4 columns"> <ul> <div class="wwn-feature-post2"> <div class="featured-post-category BebasNeue" style="background-color:;">Uplifting Viral Content</div> <a href="https://waterfordwhispersnews.com/2021/03/09/is-your-teen-getting-their-daily-amount-of-drinking-and-smoking/"> <img src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_201150542-300x300.jpg" width="100%"/> <span class="featured-post-header"><h2> Is Your Teen Getting Their Daily Amount Of Drinking And Smoking? </h2> </span> </a> </div> </ul> </div> </div> <!-- End of cat-full-width --> <div class="hide-for-large-up"> <!-- Start of Mobile Home Page --> <div class="stripe-line"></div> <div class="row mobile-homepage extra-padding-left" style="border-top-color:;"> <h1 style="color:;">Uplifting Viral Content</h1> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110721"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/paddyd-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/st-patrick-facts-you-may-not-know/">St. Patrick Facts You May Not Know</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>GET to know Ireland's patron saint better with these lesser …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110727"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/shutterstock_1860904603-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/16/how-to-recreate-the-carnage-of-paddys-day-at-home/">How To Recreate The Carnage Of Paddy's Day At Home</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>IT'S something we all miss but you don't have to …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> <article class="index-card post-110533 post type-post status-publish format-standard has-post-thumbnail hentry category-breaking-news category-business tag-business-2 tag-instant tag-ireland tag-news wp-sticky" id="post-110632"><a class="show-for-small-only" href=""><img alt="" class="attachment-wwn-mobile-75-thumb size-wwn-mobile-75-thumb wp-post-image" height="75" sizes="(max-width: 75px) 100vw, 75px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-75x75.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-300x300.jpg 300w" width="75"/></a><a class="show-for-medium-only" href=""><img alt="" class="attachment-wwn-mobile-thumb size-wwn-mobile-thumb wp-post-image" height="100" sizes="(max-width: 100px) 100vw, 100px" src="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-100x100.jpg" srcset="https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-100x100.jpg 100w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-150x150.jpg 150w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-125x125.jpg 125w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-75x75.jpg 75w, https://waterfordwhispersnews.com/wp-content/uploads/2021/03/cavan-sheb-300x300.jpg 300w" width="100"/></a> <header> <h2><a href="https://waterfordwhispersnews.com/2021/03/12/so-the-cops-have-found-your-shebeen-heres-what-happens-next/">So The Cops Have Found Your Shebeen: Here’s What Happens Next</a></h2> </header> <div class="entry-content clearfix"> <a class="show-for-medium-only" href=""><p>WELL, you had a good run throughout the whole pandemic, …</p></a> <a class="show-for-small-only category-mobile-display" href="" style="color:;">BUSINESS</a> </div></article> </div> </div> <!-- End of Mobile Home Page --> </div> </div> <!-- end #content -->
+<footer class="footer" role="contentinfo">
+<div class="row" id="inner-footer">
+<div class="large-12 medium-12 columns">
+<nav role="navigation">
+<ul class="sub-nav" id="menu-top-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10080" id="menu-item-10080"><a href="https://waterfordwhispersnews.com/privacy/">Privacy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85862" id="menu-item-85862"><a href="https://waterfordwhispersnews.com/your-privacy-settings/">Your Privacy Settings</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10084" id="menu-item-10084"><a href="https://waterfordwhispersnews.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10085" id="menu-item-10085"><a href="https://waterfordwhispersnews.com/disclaimer/">Disclaimer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87567" id="menu-item-87567"><a href="https://waterfordwhispersnews.com/competition-rules/">Competition Rules</a></li>
+</ul> </nav>
+</div>
+<hr/>
+<div class="large-12 medium-12 columns">
+<p class="source-org copyright">© 2021 Waterford Whispers News.</p>
+</div>
+</div> <!-- end #inner-footer -->
+</footer> <!-- end .footer -->
+</div> <!-- end #container -->
+</div> <!-- end .inner-wrap -->
+</div> <!-- end .off-canvas-wrap -->
+<script>
+		//alert (colorCodes.back);
+		console.log('Floating Ad Turned ON', dfpPersonalise);
+	</script>
+<div class="wwnFloatingAdContainer">
+<div class="wwnFloatingAdWrapper">
+<!-- /428161112/wwn_top/wwn_website_float_bottom -->
+<div class="wwnFlotingAd" id="div-gpt-ad-1569846246301-0">
+<script>
+					if(isInt(dfpPersonalise)){
+						googletag.cmd.push(function() { googletag.display('wwnFlotingAd'); googletag.pubads().setRequestNonPersonalizedAds(dfpPersonalise).refresh([FloatingAd]);});
+					} else{
+						googletag.cmd.push(function() { googletag.display('wwnFlotingAd');});
+					}
+				</script>
+</div>
+</div>
+<span alt-text="Close Ad Unit" class="wwnCloseFloatingAd">X</span>
+</div> <!-- /428161112/wwn_top/wwn_skin_website_skin -->
+<div id="div-gpt-ad-1480494466072-1">
+<script>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480494466072-1'); googletag.pubads().refresh([Wallpaper]); });
+		</script>
+</div><!-- /4844766/Waterford_Whispers_News/WaterfordWhispersNews_OutOfPage -->
+<div id="div-gpt-ad-1480494466072-1">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1480494466072-1'); googletag.pubads().refresh([Wallpaper]); });
+</script>
+</div> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/waterfordwhispersnews.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script src="https://waterfordwhispersnews.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.3-b-modified-1572190916" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/plugins/wwn-core-plugin-V1.09-DFP/js/wpsc-wwn-homepage.js?ver=-b-modified-1615544391" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/plugins/wwn-core-plugin-V1.09-DFP/js/js.cookie.js?ver=-b-modified-1615544382" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/vendor/foundation/js/vendor/modernizr.js?ver=2.8.3-b-modified-1454746974" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/vendor/foundation/js/foundation.min.js?ver=-b-modified-1454746974" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/js/scripts.js?ver=-b-modified-1454746975" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/js/jquery.lazyload.min.js?ver=-b-modified-1454746975" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-content/themes/WWN-Custom-Theme/assets/js/jquery.webticker.min.js?ver=-b-modified-1454746975" type="text/javascript"></script>
+<script src="https://waterfordwhispersnews.com/wp-includes/js/wp-embed.min.js?ver=5.1.8" type="text/javascript"></script>
+<script>
+/*
+	console.log('dfpPersonalise - footer', dfpPersonalise);
+
+
+
+	
+
+
+
+
+	
+	function setBackground(data) { 
+
+		var backgroundDiv = document.body; 
+			backgroundDiv.style.backgroundImage ="url('" + data.background_url + "') !important"; 
+			backgroundDiv.style.backgroundRepeat ="no-repeat"; 
+
+		var backgroundLayer = document.getElementById("skin-dfp"); 
+			backgroundLayer.setAttribute('href', data.click_tracker); 
+			backgroundLayer.setAttribute('target', '_blank'); 
+
+		var impresion_DFP = document.createElement( 'img' );  
+			impresion_DFP.setAttribute('src', decodeURIComponent(data.impressionTracker));  
+			impresion_DFP.setAttribute('id', 'ImpressionTracker');  
+			backgroundDiv.appendChild(impresion_DFP);  
+
+		var impresion_thirdParty = document.createElement( 'img' );  
+			impresion_thirdParty.setAttribute('src', data.thirdPartyImpressionTracker);  
+			impresion_thirdParty.setAttribute('id', 'ThirdPartyImpressionTracker');  
+			backgroundDiv.appendChild(impresion_thirdParty);
+			
+	}
+*/
+					//Scroll Lock for 1 Second 
+	//window.onscroll = function () { window.scrollTo(0, 0); };
+	var body = document.body;
+
+	body.classList.add("lockScroll");
+	setTimeout(function(){ 
+		body.classList.remove("lockScroll");
+	}, 1700);	
+	</script>
+<script type="text/javascript">
+				window._taboola = window._taboola || [];
+				_taboola.push({article:'auto'});
+				!function (e, f, u, i) {
+					if (!document.getElementById(i)){
+					e.async = 1;
+					e.src = u;
+					e.id = i;
+					f.parentNode.insertBefore(e, f);
+					}
+				}(document.createElement('script'),
+				document.getElementsByTagName('script')[0],
+				'//cdn.taboola.com/libtrc/whispersmedia/loader.js',
+				'tb_loader_script');
+				if(window.performance && typeof window.performance.mark == 'function')
+					{window.performance.mark('tbl_ic');}
+				</script> <script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({flush: true});
+		</script>
+<script>
+
+/*
+$(function() {
+	$("img.lazy").show().lazyload({
+		threshold : 200
+	});
+	$("img.lazy-sidebar").show().lazyload({
+		threshold : 200
+	});	
+});
+*/
+$(function(){
+	$("#mywebticker").webTicker();
+
+});
+</script>
+<script type="text/javascript">
+jQuery( document ).ready(function() {
+	//jQuery( "#mywebticker" ).show();	
+	jQuery( "#mywebticker" ).css("visibility", "visible");
+});
+</script>
+</body>
+</html> <!-- end page -->
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 0/0 objects using disk
+Page Caching using disk: enhanced 
+Database Caching 17/234 queries in 0.231 seconds using disk
+
+Served from: waterfordwhispersnews.com @ 2021-03-17 04:44:24 by W3 Total Cache
+-->
