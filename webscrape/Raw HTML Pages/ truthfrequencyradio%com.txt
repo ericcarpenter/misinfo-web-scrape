@@ -1,0 +1,2024 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html mlns="http://www.w3.org/1999/xhtml" x="">
+<head profile="http://gmpg.org/xfn/11">
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Truth Frequency Radio" property="og:title">
+<meta content="website" property="og:type"/>
+<meta content="https://tfrlive.com/images/facebookmain.png" property="og:image"/>
+<meta content="Tap into the world's last bastion of unadulterated truth!" property="og:description"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title> TFR LIVE : Truth Frequency Radio</title>
+<meta content="WordPress 5.5.3" name="generator"/>
+<meta content="7gQOcw0iz9HXfByc8BO6oR5wUe5nKY5cdR75v6A-_nc" name="google-site-verification"/>
+<meta content="WfzNjWuGfAIq-tzEd3_N9yvV7yNJe2HNXVXncOOwRpY" name="google-site-verification"/>
+<link href="https://tfrlive.com/wp-content/themes/wp-smooth/style.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://tfrlive.com/wp-content/themes/wp-smooth/css/responsive-css.css" id="style-responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://tfrlive.com/wp-content/themes/wp-smooth/truthfrequency_files/worldwide-updated.css" id="style-custom-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://tfrlive.com/wp-content/themes/wp-smooth/truthfrequency_files/flexslider.css" id="flex-slider-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://tfrlive.com/feed/" rel="alternate" title="TFR LIVE : Truth Frequency Radio RSS Feed" type="application/rss+xml">
+<link href="https://tfrlive.com/xmlrpc.php" rel="pingback">
+<link href="/images/favicon.ico" rel="shortcut icon"/>
+<link href="//cdn.jsdelivr.net" rel="dns-prefetch">
+<link href="//s.w.org" rel="dns-prefetch">
+<script data-cfasync="false" type="text/javascript">
+	var mi_version         = '7.12.2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-35307481-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-35307481-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<script type="7ca732c2d034a8df75c92c48-text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/tfrlive.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://tfrlive.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cdn.jsdelivr.net/alertifyjs/1.8.0/css/alertify.min.css?ver=1.5.3" id="w3dev-alertify-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//cdn.jsdelivr.net/alertifyjs/1.8.0/css/themes/default.min.css?ver=1.5.3" id="w3dev-alertify-theme-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://tfrlive.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" id="addtoany-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://tfrlive.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script id="monsterinsights-frontend-script-js-extra" type="7ca732c2d034a8df75c92c48-text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/tfrlive.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script id="monsterinsights-frontend-script-js" src="https://tfrlive.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.12.2" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script id="addtoany-js" src="https://tfrlive.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script id="w3dev-alertify-js-js" src="//cdn.jsdelivr.net/alertifyjs/1.8.0/alertify.min.js?ver=1.5.3" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<link href="https://tfrlive.com/wp-json/" rel="https://api.w.org/"/><link href="https://tfrlive.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://tfrlive.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.5.3" name="generator"/>
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<link href="https://tfrlive.com/" rel="canonical"/>
+<link href="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins/popup/files/colorbox.css" rel="stylesheet"/><script src="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins/popup/files/jquery.colorbox.js" type="7ca732c2d034a8df75c92c48-text/javascript"></script><script src="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins/js/show_form_function_1.js" type="7ca732c2d034a8df75c92c48-text/javascript"></script><link href="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins/css/formstyle.css" rel="stylesheet"/><style>.tfruserlogout { display:none !important; } </style><script type="7ca732c2d034a8df75c92c48-text/javascript">
+jQuery(document).ready(function () {
+    jQuery(".myBoxlink").click(function () {
+       window.location = jQuery(this).attr("data-href");
+        return false;
+    });
+});
+</script>
+<script type="7ca732c2d034a8df75c92c48-text/javascript">
+jQuery(document).ready(function () {
+    jQuery(".tfrsupporterlogin").click(function () {
+      ShowLightBoxLoginForm(104893);
+    });
+});
+</script>
+<link href="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins/jplayer/css/flat.audio.css" rel="stylesheet" type="text/css"/>
+<link href="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins/jplayer/css/flat.audio_stream.css" rel="stylesheet" type="text/css"/>
+<script src="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins/jplayer/js/jquery.jplayer.js" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script src="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins/jplayer/js/flat.audio_custom.js" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<meta content="#0a0a0a" name="theme-color"/>
+<meta content="#0a0a0a" name="msapplication-navbutton-color"/>
+<meta content="#0a0a0a" name="apple-mobile-web-app-status-bar-style"/>
+<script type="7ca732c2d034a8df75c92c48-text/javascript">window.ajaxurl="https://tfrlive.com/wp-admin/admin-ajax.php";window.dzsap_init_calls=[];window.dzsap_curr_user="0";window.dzsap_settings= { dzsap_site_url: "https://tfrlive.com/",wpurl: "https://tfrlive.com/",version: "5.31",ajax_url: "https://tfrlive.com/wp-admin/admin-ajax.php", debug_mode:"off" }; </script><style class="dzsap-extrastyling">.feed-dzsap{ display:none; }</style><script type="7ca732c2d034a8df75c92c48-text/javascript">try{window.webkit.messageHandlers.wpmobile.postMessage('resetbadge');} catch(err) {}</script> <style type="text/css"></style>
+<script type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<style>button#responsive-menu-button,
+#responsive-menu-container {
+    display: none;
+    -webkit-text-size-adjust: 100%;
+}
+
+@media screen and (max-width: 1023px) {
+
+    #responsive-menu-container {
+        display: block;
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        z-index: 99998;
+        padding-bottom: 5px;
+        margin-bottom: -5px;
+        outline: 1px solid transparent;
+        overflow-y: auto;
+        overflow-x: hidden;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box {
+        width: 100%;
+        padding: 0 2%;
+        border-radius: 2px;
+        height: 50px;
+        -webkit-appearance: none;
+    }
+
+    #responsive-menu-container.push-left,
+    #responsive-menu-container.slide-left {
+        transform: translateX(-100%);
+        -ms-transform: translateX(-100%);
+        -webkit-transform: translateX(-100%);
+        -moz-transform: translateX(-100%);
+    }
+
+    .responsive-menu-open #responsive-menu-container.push-left,
+    .responsive-menu-open #responsive-menu-container.slide-left {
+        transform: translateX(0);
+        -ms-transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+    }
+
+    #responsive-menu-container.push-top,
+    #responsive-menu-container.slide-top {
+        transform: translateY(-100%);
+        -ms-transform: translateY(-100%);
+        -webkit-transform: translateY(-100%);
+        -moz-transform: translateY(-100%);
+    }
+
+    .responsive-menu-open #responsive-menu-container.push-top,
+    .responsive-menu-open #responsive-menu-container.slide-top {
+        transform: translateY(0);
+        -ms-transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+    }
+
+    #responsive-menu-container.push-right,
+    #responsive-menu-container.slide-right {
+        transform: translateX(100%);
+        -ms-transform: translateX(100%);
+        -webkit-transform: translateX(100%);
+        -moz-transform: translateX(100%);
+    }
+
+    .responsive-menu-open #responsive-menu-container.push-right,
+    .responsive-menu-open #responsive-menu-container.slide-right {
+        transform: translateX(0);
+        -ms-transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+    }
+
+    #responsive-menu-container.push-bottom,
+    #responsive-menu-container.slide-bottom {
+        transform: translateY(100%);
+        -ms-transform: translateY(100%);
+        -webkit-transform: translateY(100%);
+        -moz-transform: translateY(100%);
+    }
+
+    .responsive-menu-open #responsive-menu-container.push-bottom,
+    .responsive-menu-open #responsive-menu-container.slide-bottom {
+        transform: translateY(0);
+        -ms-transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+    }
+
+    #responsive-menu-container,
+    #responsive-menu-container:before,
+    #responsive-menu-container:after,
+    #responsive-menu-container *,
+    #responsive-menu-container *:before,
+    #responsive-menu-container *:after {
+         box-sizing: border-box;
+         margin: 0;
+         padding: 0;
+    }
+
+    #responsive-menu-container #responsive-menu-search-box,
+    #responsive-menu-container #responsive-menu-additional-content,
+    #responsive-menu-container #responsive-menu-title {
+        padding: 25px 5%;
+    }
+
+    #responsive-menu-container #responsive-menu,
+    #responsive-menu-container #responsive-menu ul {
+        width: 100%;
+    }
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu {
+        display: none;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu.responsive-menu-submenu-open {
+         display: block;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-1 a.responsive-menu-item-link {
+        padding-left: 10%;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-2 a.responsive-menu-item-link {
+        padding-left: 15%;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-3 a.responsive-menu-item-link {
+        padding-left: 20%;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-4 a.responsive-menu-item-link {
+        padding-left: 25%;
+    }
+
+    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu-depth-5 a.responsive-menu-item-link {
+        padding-left: 30%;
+    }
+
+    #responsive-menu-container li.responsive-menu-item {
+        width: 100%;
+        list-style: none;
+    }
+
+    #responsive-menu-container li.responsive-menu-item a {
+        width: 100%;
+        display: block;
+        text-decoration: none;
+        
+        position: relative;
+    }
+
+
+     #responsive-menu-container #responsive-menu li.responsive-menu-item a {
+                    padding: 0   5%;
+            }
+
+    #responsive-menu-container .responsive-menu-submenu li.responsive-menu-item a {
+                    padding: 0   5%;
+            }
+
+    #responsive-menu-container li.responsive-menu-item a .fa {
+        margin-right: 15px;
+    }
+
+    #responsive-menu-container li.responsive-menu-item a .responsive-menu-subarrow {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        text-align: center;
+        overflow: hidden;
+    }
+
+    #responsive-menu-container li.responsive-menu-item a .responsive-menu-subarrow  .fa {
+        margin-right: 0;
+    }
+
+    button#responsive-menu-button .responsive-menu-button-icon-inactive {
+        display: none;
+    }
+
+    button#responsive-menu-button {
+        z-index: 99999;
+        display: none;
+        overflow: hidden;
+        outline: none;
+    }
+
+    button#responsive-menu-button img {
+        max-width: 100%;
+    }
+
+    .responsive-menu-label {
+        display: inline-block;
+        font-weight: 600;
+        margin: 0 5px;
+        vertical-align: middle;
+    }
+
+    .responsive-menu-label .responsive-menu-button-text-open {
+        display: none;
+    }
+
+    .responsive-menu-accessible {
+        display: inline-block;
+    }
+
+    .responsive-menu-accessible .responsive-menu-box {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .responsive-menu-label.responsive-menu-label-top,
+    .responsive-menu-label.responsive-menu-label-bottom
+    {
+        display: block;
+        margin: 0 auto;
+    }
+
+    button#responsive-menu-button {
+        padding: 0 0;
+        display: inline-block;
+        cursor: pointer;
+        transition-property: opacity, filter;
+        transition-duration: 0.15s;
+        transition-timing-function: linear;
+        font: inherit;
+        color: inherit;
+        text-transform: none;
+        background-color: transparent;
+        border: 0;
+        margin: 0;
+        overflow: visible;
+    }
+
+    .responsive-menu-box {
+        width: 25px;
+        height: 19px;
+        display: inline-block;
+        position: relative;
+    }
+
+    .responsive-menu-inner {
+        display: block;
+        top: 50%;
+        margin-top: -1.5px;
+    }
+
+    .responsive-menu-inner,
+    .responsive-menu-inner::before,
+    .responsive-menu-inner::after {
+         width: 25px;
+         height: 3px;
+         background-color: #ffffff;
+         border-radius: 4px;
+         position: absolute;
+         transition-property: transform;
+         transition-duration: 0.15s;
+         transition-timing-function: ease;
+    }
+
+    .responsive-menu-open .responsive-menu-inner,
+    .responsive-menu-open .responsive-menu-inner::before,
+    .responsive-menu-open .responsive-menu-inner::after {
+        background-color: #ffffff;
+    }
+
+    button#responsive-menu-button:hover .responsive-menu-inner,
+    button#responsive-menu-button:hover .responsive-menu-inner::before,
+    button#responsive-menu-button:hover .responsive-menu-inner::after,
+    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner,
+    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner::before,
+    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner::after,
+    button#responsive-menu-button:focus .responsive-menu-inner,
+    button#responsive-menu-button:focus .responsive-menu-inner::before,
+    button#responsive-menu-button:focus .responsive-menu-inner::after,
+    button#responsive-menu-button:focus .responsive-menu-open .responsive-menu-inner,
+    button#responsive-menu-button:focus .responsive-menu-open .responsive-menu-inner::before,
+    button#responsive-menu-button:focus .responsive-menu-open .responsive-menu-inner::after {
+        background-color: #ffffff;
+    }
+
+    .responsive-menu-inner::before,
+    .responsive-menu-inner::after {
+         content: "";
+         display: block;
+    }
+
+    .responsive-menu-inner::before {
+         top: -8px;
+    }
+
+    .responsive-menu-inner::after {
+         bottom: -8px;
+    }
+
+            .responsive-menu-boring .responsive-menu-inner,
+.responsive-menu-boring .responsive-menu-inner::before,
+.responsive-menu-boring .responsive-menu-inner::after {
+    transition-property: none;
+}
+
+.responsive-menu-boring.is-active .responsive-menu-inner {
+    transform: rotate(45deg);
+}
+
+.responsive-menu-boring.is-active .responsive-menu-inner::before {
+    top: 0;
+    opacity: 0;
+}
+
+.responsive-menu-boring.is-active .responsive-menu-inner::after {
+    bottom: 0;
+    transform: rotate(-90deg);
+}    
+    button#responsive-menu-button {
+        width: 100px;
+        height: 40px;
+        position: absolute;
+        top: 0px;
+        right: 3%;
+            }
+
+    
+    
+    button#responsive-menu-button .responsive-menu-box {
+        color: #ffffff;
+    }
+
+    .responsive-menu-open button#responsive-menu-button .responsive-menu-box {
+        color: #ffffff;
+    }
+
+    .responsive-menu-label {
+        color: #ffffff;
+        font-size: 14px;
+        line-height: 13px;
+            }
+
+    button#responsive-menu-button {
+        display: inline-block;
+        transition: transform   0.5s, background-color   0.5s;
+    }
+
+    
+    
+    #responsive-menu-container {
+        width: 75%;
+        left: 0;
+        transition: transform   0.5s;
+        text-align: left;
+                                            background-image: url('http://truthfrequency.com/images/blue_black_gradient.jpg');
+            background-size: cover;
+            }
+
+    #responsive-menu-container #responsive-menu-wrapper {
+        background: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu-additional-content {
+        color: #ffffff;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box {
+        background: #ffffff;
+        border: 2px solid   #dadada;
+        color: #333333;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box:-ms-input-placeholder {
+        color: #c7c7cd;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box::-webkit-input-placeholder {
+        color: #c7c7cd;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box:-moz-placeholder {
+        color: #c7c7cd;
+        opacity: 1;
+    }
+
+    #responsive-menu-container .responsive-menu-search-box::-moz-placeholder {
+        color: #c7c7cd;
+        opacity: 1;
+    }
+
+    #responsive-menu-container .responsive-menu-item-link,
+    #responsive-menu-container #responsive-menu-title,
+    #responsive-menu-container .responsive-menu-subarrow {
+        transition: background-color   0.5s, border-color   0.5s, color   0.5s;
+    }
+
+    #responsive-menu-container #responsive-menu-title {
+        background-color: #212121;
+        color: #ffffff;
+        font-size: 13px;
+        text-align: left;
+    }
+
+    #responsive-menu-container #responsive-menu-title a {
+        color: #ffffff;
+        font-size: 13px;
+        text-decoration: none;
+    }
+
+    #responsive-menu-container #responsive-menu-title a:hover {
+        color: #ffffff;
+    }
+
+    #responsive-menu-container #responsive-menu-title:hover {
+        background-color: #212121;
+        color: #ffffff;
+    }
+
+    #responsive-menu-container #responsive-menu-title:hover a {
+        color: #ffffff;
+    }
+
+    #responsive-menu-container #responsive-menu-title #responsive-menu-title-image {
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+
+    #responsive-menu-container #responsive-menu-title #responsive-menu-title-image img {
+                        max-width: 100%;
+    }
+
+    #responsive-menu-container #responsive-menu > li.responsive-menu-item:first-child > a {
+        border-top: 1px solid   #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item .responsive-menu-item-link {
+        font-size: 13px;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a {
+        line-height: 40px;
+        border-bottom: 1px solid   #212121;
+        color: #ffffff;
+        background-color: #212121;
+                    height: 40px;
+            }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover {
+        color: #ffffff;
+        background-color: #3f3f3f;
+        border-color: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow {
+        color: #ffffff;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active {
+        color: #ffffff;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow {
+        right: 0;
+        height: 40px;
+        line-height: 40px;
+        width: 40px;
+        color: #ffffff;
+                        border-left: 1px solid #212121;
+        
+        background-color: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active {
+        color: #ffffff;
+        border-color: #212121;
+        background-color: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover {
+        color: #ffffff;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow:hover {
+        color: #ffffff;
+        border-color: #3f3f3f;
+        background-color: #3f3f3f;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-current-item > .responsive-menu-item-link {
+        background-color: #212121;
+        color: #ffffff;
+        border-color: #212121;
+    }
+
+    #responsive-menu-container #responsive-menu li.responsive-menu-current-item > .responsive-menu-item-link:hover {
+        background-color: #3f3f3f;
+        color: #ffffff;
+        border-color: #3f3f3f;
+    }
+
+            #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item .responsive-menu-item-link {
+                        font-size: 13px;
+            text-align: left;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a {
+                            height: 40px;
+                        line-height: 40px;
+            border-bottom: 1px solid   #212121;
+            color: #ffffff;
+            background-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover {
+            color: #ffffff;
+            background-color: #3f3f3f;
+            border-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow {
+            color: #ffffff;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active {
+            color: #ffffff;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow {
+                                        left:unset;
+                right:0;
+                        height: 40px;
+            line-height: 40px;
+            width: 40px;
+            color: #ffffff;
+                                        border-left: 1px solid   #212121  !important;
+                border-right:unset  !important;
+                        background-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active {
+            color: #ffffff;
+            border-color: #212121;
+            background-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover {
+            color: #ffffff;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow:hover {
+            color: #ffffff;
+            border-color: #3f3f3f;
+            background-color: #3f3f3f;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-current-item > .responsive-menu-item-link {
+            background-color: #212121;
+            color: #ffffff;
+            border-color: #212121;
+        }
+
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-current-item > .responsive-menu-item-link:hover {
+            background-color: #3f3f3f;
+            color: #ffffff;
+            border-color: #3f3f3f;
+        }
+    
+            #responsive-menu-container #responsive-menu-title,
+        #responsive-menu-container #responsive-menu-title:hover,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow:hover,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item.responsive-menu-current-item > .responsive-menu-item-link,
+        #responsive-menu-container #responsive-menu li.responsive-menu-item.responsive-menu-current-item > .responsive-menu-item-link:hover,
+        #responsive-menu-container #responsive-menu > li.responsive-menu-item:first-child > a,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow:hover,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item.responsive-menu-current-item > .responsive-menu-item-link,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item.responsive-menu-current-item > .responsive-menu-item-link:hover,
+        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu > li.responsive-menu-item:first-child > a,
+        #responsive-menu-container #responsive-menu-wrapper {
+            background: none;
+            border: 0;
+        }
+    
+            #desktopviewps {
+            display: none !important;
+        }
+    }</style><script type="7ca732c2d034a8df75c92c48-text/javascript">jQuery(document).ready(function($) {
+
+    var ResponsiveMenu = {
+        trigger: '#responsive-menu-button',
+        animationSpeed: 500,
+        breakpoint: 1023,
+        pushButton: 'off',
+        animationType: 'slide',
+        animationSide: 'left',
+        pageWrapper: '',
+        isOpen: false,
+        triggerTypes: 'click',
+        activeClass: 'is-active',
+        container: '#responsive-menu-container',
+        openClass: 'responsive-menu-open',
+        accordion: 'off',
+        activeArrow: '▲',
+        inactiveArrow: '▼',
+        wrapper: '#responsive-menu-wrapper',
+        closeOnBodyClick: 'off',
+        closeOnLinkClick: 'off',
+        itemTriggerSubMenu: 'on',
+        linkElement: '.responsive-menu-item-link',
+        subMenuTransitionTime: 200,
+        openMenu: function() {
+            $(this.trigger).addClass(this.activeClass);
+            $('html').addClass(this.openClass);
+            $('.responsive-menu-button-icon-active').hide();
+            $('.responsive-menu-button-icon-inactive').show();
+            this.setButtonTextOpen();
+            this.setWrapperTranslate();
+            this.isOpen = true;
+        },
+        closeMenu: function() {
+            $(this.trigger).removeClass(this.activeClass);
+            $('html').removeClass(this.openClass);
+            $('.responsive-menu-button-icon-inactive').hide();
+            $('.responsive-menu-button-icon-active').show();
+            this.setButtonText();
+            this.clearWrapperTranslate();
+            this.isOpen = false;
+        },
+        setButtonText: function() {
+            if($('.responsive-menu-button-text-open').length > 0 && $('.responsive-menu-button-text').length > 0) {
+                $('.responsive-menu-button-text-open').hide();
+                $('.responsive-menu-button-text').show();
+            }
+        },
+        setButtonTextOpen: function() {
+            if($('.responsive-menu-button-text').length > 0 && $('.responsive-menu-button-text-open').length > 0) {
+                $('.responsive-menu-button-text').hide();
+                $('.responsive-menu-button-text-open').show();
+            }
+        },
+        triggerMenu: function() {
+            this.isOpen ? this.closeMenu() : this.openMenu();
+        },
+        triggerSubArrow: function(subarrow) {
+            var sub_menu = $(subarrow).parent().siblings('.responsive-menu-submenu');
+            var self = this;
+            if(this.accordion == 'on') {
+                /* Get Top Most Parent and the siblings */
+                var top_siblings = sub_menu.parents('.responsive-menu-item-has-children').last().siblings('.responsive-menu-item-has-children');
+                var first_siblings = sub_menu.parents('.responsive-menu-item-has-children').first().siblings('.responsive-menu-item-has-children');
+                /* Close up just the top level parents to key the rest as it was */
+                top_siblings.children('.responsive-menu-submenu').slideUp(self.subMenuTransitionTime, 'linear').removeClass('responsive-menu-submenu-open');
+                /* Set each parent arrow to inactive */
+                top_siblings.each(function() {
+                    $(this).find('.responsive-menu-subarrow').first().html(self.inactiveArrow);
+                    $(this).find('.responsive-menu-subarrow').first().removeClass('responsive-menu-subarrow-active');
+                });
+                /* Now Repeat for the current item siblings */
+                first_siblings.children('.responsive-menu-submenu').slideUp(self.subMenuTransitionTime, 'linear').removeClass('responsive-menu-submenu-open');
+                first_siblings.each(function() {
+                    $(this).find('.responsive-menu-subarrow').first().html(self.inactiveArrow);
+                    $(this).find('.responsive-menu-subarrow').first().removeClass('responsive-menu-subarrow-active');
+                });
+            }
+            if(sub_menu.hasClass('responsive-menu-submenu-open')) {
+                sub_menu.slideUp(self.subMenuTransitionTime, 'linear').removeClass('responsive-menu-submenu-open');
+                $(subarrow).html(this.inactiveArrow);
+                $(subarrow).removeClass('responsive-menu-subarrow-active');
+            } else {
+                sub_menu.slideDown(self.subMenuTransitionTime, 'linear').addClass('responsive-menu-submenu-open');
+                $(subarrow).html(this.activeArrow);
+                $(subarrow).addClass('responsive-menu-subarrow-active');
+            }
+        },
+        menuHeight: function() {
+            return $(this.container).height();
+        },
+        menuWidth: function() {
+            return $(this.container).width();
+        },
+        wrapperHeight: function() {
+            return $(this.wrapper).height();
+        },
+        setWrapperTranslate: function() {
+            switch(this.animationSide) {
+                case 'left':
+                    translate = 'translateX(' + this.menuWidth() + 'px)'; break;
+                case 'right':
+                    translate = 'translateX(-' + this.menuWidth() + 'px)'; break;
+                case 'top':
+                    translate = 'translateY(' + this.wrapperHeight() + 'px)'; break;
+                case 'bottom':
+                    translate = 'translateY(-' + this.menuHeight() + 'px)'; break;
+            }
+            if(this.animationType == 'push') {
+                $(this.pageWrapper).css({'transform':translate});
+                $('html, body').css('overflow-x', 'hidden');
+            }
+            if(this.pushButton == 'on') {
+                $('#responsive-menu-button').css({'transform':translate});
+            }
+        },
+        clearWrapperTranslate: function() {
+            var self = this;
+            if(this.animationType == 'push') {
+                $(this.pageWrapper).css({'transform':''});
+                setTimeout(function() {
+                    $('html, body').css('overflow-x', '');
+                }, self.animationSpeed);
+            }
+            if(this.pushButton == 'on') {
+                $('#responsive-menu-button').css({'transform':''});
+            }
+        },
+        init: function() {
+            var self = this;
+            $(this.trigger).on(this.triggerTypes, function(e){
+                e.stopPropagation();
+                self.triggerMenu();
+            });
+            $(this.trigger).mouseup(function(){
+                $(self.trigger).blur();
+            });
+            $('.responsive-menu-subarrow').on('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                self.triggerSubArrow(this);
+            });
+            $(window).resize(function() {
+                if($(window).width() > self.breakpoint) {
+                    if(self.isOpen){
+                        self.closeMenu();
+                    }
+                } else {
+                    if($('.responsive-menu-open').length>0){
+                        self.setWrapperTranslate();
+                    }
+                }
+            });
+            if(this.closeOnLinkClick == 'on') {
+                $(this.linkElement).on('click', function(e) {
+                    e.preventDefault();
+                    /* Fix for when close menu on parent clicks is on */
+                    if(self.itemTriggerSubMenu == 'on' && $(this).is('.responsive-menu-item-has-children > ' + self.linkElement)) {
+                        return;
+                    }
+                    old_href = $(this).attr('href');
+                    old_target = typeof $(this).attr('target') == 'undefined' ? '_self' : $(this).attr('target');
+                    if(self.isOpen) {
+                        if($(e.target).closest('.responsive-menu-subarrow').length) {
+                            return;
+                        }
+                        self.closeMenu();
+                        setTimeout(function() {
+                            window.open(old_href, old_target);
+                        }, self.animationSpeed);
+                    }
+                });
+            }
+            if(this.closeOnBodyClick == 'on') {
+                $(document).on('click', 'body', function(e) {
+                    if(self.isOpen) {
+                        if($(e.target).closest('#responsive-menu-container').length || $(e.target).closest('#responsive-menu-button').length) {
+                            return;
+                        }
+                    }
+                    self.closeMenu();
+                });
+            }
+            if(this.itemTriggerSubMenu == 'on') {
+                $('.responsive-menu-item-has-children > ' + this.linkElement).on('click', function(e) {
+                    e.preventDefault();
+                    self.triggerSubArrow($(this).children('.responsive-menu-subarrow').first());
+                });
+            }
+
+                        if (jQuery('#responsive-menu-button').css('display') != 'none') {
+                $('#responsive-menu-button,#responsive-menu a.responsive-menu-item-link, #responsive-menu-wrapper input').focus( function() {
+                    $(this).addClass('is-active');
+                    $('html').addClass('responsive-menu-open');
+                    $('#responsive-menu li').css({"opacity": "1", "margin-left": "0"});
+                });
+
+                $('#responsive-menu-button, a.responsive-menu-item-link,#responsive-menu-wrapper input').focusout( function() {
+                    if ( $(this).last('#responsive-menu-button a.responsive-menu-item-link') ) {
+                        $(this).removeClass('is-active');
+                        $('html').removeClass('responsive-menu-open');
+                    }
+                });
+            }
+
+                        $('#responsive-menu a.responsive-menu-item-link').keydown(function(event) {
+                console.log( event.keyCode );
+                if ( [13,27,32,35,36,37,38,39,40].indexOf( event.keyCode) == -1) {
+                    return;
+                }
+                var link = $(this);
+                switch(event.keyCode) {
+                    case 13:
+                                                link.click();
+                        break;
+                    case 27:
+                                                var dropdown = link.parent('li').parents('.responsive-menu-submenu');
+                        if ( dropdown.length > 0 ) {
+                            dropdown.hide();
+                            dropdown.prev().focus();
+                        }
+                        break;
+
+                    case 32:
+                                                var dropdown = link.parent('li').find('.responsive-menu-submenu');
+                        if ( dropdown.length > 0 ) {
+                            dropdown.show();
+                            dropdown.find('a, input, button, textarea').first().focus();
+                        }
+                        break;
+
+                    case 35:
+                                                var dropdown = link.parent('li').find('.responsive-menu-submenu');
+                        if ( dropdown.length > 0 ) {
+                            dropdown.hide();
+                        }
+                        $(this).parents('#responsive-menu').find('a.responsive-menu-item-link').filter(':visible').last().focus();
+                        break;
+                    case 36:
+                                                var dropdown = link.parent('li').find('.responsive-menu-submenu');
+                        if( dropdown.length > 0 ) {
+                            dropdown.hide();
+                        }
+                        $(this).parents('#responsive-menu').find('a.responsive-menu-item-link').filter(':visible').first().focus();
+                        break;
+                    case 37:
+                    case 38:
+                        event.preventDefault();
+                        event.stopPropagation();
+                                                if ( link.parent('li').prevAll('li').filter(':visible').first().length == 0) {
+                            link.parent('li').nextAll('li').filter(':visible').last().find('a').first().focus();
+                        } else {
+                            link.parent('li').prevAll('li').filter(':visible').first().find('a').first().focus();
+                        }
+                        break;
+                    case 39:
+                    case 40:
+                        event.preventDefault();
+                        event.stopPropagation();
+                                                if( link.parent('li').nextAll('li').filter(':visible').first().length == 0) {
+                            link.parent('li').prevAll('li').filter(':visible').last().find('a').first().focus();
+                        } else {
+                            link.parent('li').nextAll('li').filter(':visible').first().find('a').first().focus();
+                        }
+                        break;
+                }
+            });
+        }
+    };
+    ResponsiveMenu.init();
+});</script></link></link></link></link></meta></head>
+<body class="home blog responsive-menu-slide-left">
+<div class="container" id="wrap">
+<div class="row-fluid clearfix" id="header">
+<div class="span12 clearfix textaligncenter">
+<a href="https://tfrlive.com/"> <img alt="Truth Frequency Radio" src="https://tfrlive.com/images/header3.png" title="Truth Frequency Radio"/></a>
+<a href="https://www.iheart.com/live/truth-frequency-radio-7266/" style="position:absolute;right: 24px;top: 11px;" target="blank"> <img alt="Truth Frequency Radio" class="iheartheaderimage" src="https://tfrlive.com/images/iheartbutton.png" title="Truth Frequency Radio"/></a>
+</div>
+</div>
+<div class="clearfix" id="nav">
+<div id="desktopviewps">
+<div class="newmainmenu">
+<div class="menu-main-container"><ul class="menu" id="menu-main"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-53556" id="menu-item-53556"><a aria-current="page" href="https://tfrlive.com">HOME</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-33617" id="menu-item-33617"><a href="/listen-live">LISTEN LIVE</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75623" id="menu-item-75623"><a href="/listen-live">LISTEN ON TFR</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68811" id="menu-item-68811"><a href="https://www.iheart.com/live/truth-frequency-radio-7266/">LISTEN ON iHeartRadio</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67448" id="menu-item-67448"><a href="/listen-live">SCHEDULE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67016" id="menu-item-67016"><a href="/chat">CHATROOM</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68812" id="menu-item-68812"><a href="https://www.iheart.com/live/beyond-the-veil-radio-7267/" rel="noopener noreferrer" target="_blank">24/7 BEYOND THE VEIL</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-81152" id="menu-item-81152"><a href="/meditation-stream/">BTV MEDITATION MUSIC</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11538" id="menu-item-11538"><a href="https://tfrlive.com/archives/">ON DEMAND</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-75565" id="menu-item-75565"><a href="/archives/">BY SHOW</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64537" id="menu-item-64537"><a href="/radio/">BY DATE</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60659" id="menu-item-60659"><a href="/mission-statement">MISSION</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24918" id="menu-item-24918"><a href="/donate/">DONATE</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40622" id="menu-item-40622"><a href="/contact/">CALL IN / E-Mail</a></li>
+<li class="tfrsupporterlogin tfruserlogin menu-item menu-item-type-custom menu-item-object-custom menu-item-59611" id="menu-item-59611"><a>LOGIN</a></li>
+<li class="tfruserlogout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59615" id="menu-item-59615"><a href="/amember/member/index">YOUR ACCOUNT</a>
+<ul class="sub-menu">
+<li class="tfruserlogout menu-item menu-item-type-custom menu-item-object-custom menu-item-59617" id="menu-item-59617"><a href="/amember/helpdesk">HELP DESK</a></li>
+<li class="tfruserlogout menu-item menu-item-type-custom menu-item-object-custom menu-item-59619" id="menu-item-59619"><a href="/amember/logout">LOG OUT</a></li>
+</ul>
+</li>
+</ul></div>
+<div class="menu-search-bar">
+<form action="https://tfrlive.com" method="get">
+<input name="s" placeholder="Search..." type="text"/>
+<input name="form-search" src="https://tfrlive.com/wp-content/uploads/2017/07/if_icon-111-search_314478.png" type="image"/>
+</form>
+</div>
+</div>
+</div>
+<div id="mobileviewps">
+<div class="newmainmenu" style="min-height:40px;">
+<button aria-label="Menu" class="responsive-menu-button responsive-menu-boring responsive-menu-accessible" id="responsive-menu-button" tabindex="1" type="button">
+<span class="responsive-menu-label responsive-menu-label-left">
+<span class="responsive-menu-button-text">Menu</span>
+</span>
+<span class="responsive-menu-box">
+<span class="responsive-menu-inner"></span>
+</span>
+</button><div class="slide-left" id="responsive-menu-container">
+<div aria-label="main" id="responsive-menu-wrapper" role="navigation">
+<ul aria-label="main" id="responsive-menu" role="menubar"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home responsive-menu-item responsive-menu-current-item" id="responsive-menu-item-53556" role="none"><a class="responsive-menu-item-link" href="https://tfrlive.com" role="menuitem" tabindex="1">HOME</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-33617" role="none"><a class="responsive-menu-item-link" href="/listen-live" role="menuitem" tabindex="1">LISTEN LIVE<div class="responsive-menu-subarrow">▼</div></a><ul aria-label="LISTEN LIVE" class="responsive-menu-submenu responsive-menu-submenu-depth-1" role="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-75623" role="none"><a class="responsive-menu-item-link" href="/listen-live" role="menuitem" tabindex="1">LISTEN ON TFR</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-68811" role="none"><a class="responsive-menu-item-link" href="https://www.iheart.com/live/truth-frequency-radio-7266/" role="menuitem" tabindex="1">LISTEN ON iHeartRadio</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-67448" role="none"><a class="responsive-menu-item-link" href="/listen-live" role="menuitem" tabindex="1">SCHEDULE</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-67016" role="none"><a class="responsive-menu-item-link" href="/chat" role="menuitem" tabindex="1">CHATROOM</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-68812" role="none"><a class="responsive-menu-item-link" href="https://www.iheart.com/live/beyond-the-veil-radio-7267/" role="menuitem" tabindex="1" target="_blank">24/7 BEYOND THE VEIL</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-81152" role="none"><a class="responsive-menu-item-link" href="/meditation-stream/" role="menuitem" tabindex="1">BTV MEDITATION MUSIC</a></li></ul></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-11538" role="none"><a class="responsive-menu-item-link" href="https://tfrlive.com/archives/" role="menuitem" tabindex="1">ON DEMAND<div class="responsive-menu-subarrow">▼</div></a><ul aria-label="ON DEMAND" class="responsive-menu-submenu responsive-menu-submenu-depth-1" role="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-75565" role="none"><a class="responsive-menu-item-link" href="/archives/" role="menuitem" tabindex="1">BY SHOW</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-64537" role="none"><a class="responsive-menu-item-link" href="/radio/" role="menuitem" tabindex="1">BY DATE</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-60659" role="none"><a class="responsive-menu-item-link" href="/mission-statement" role="menuitem" tabindex="1">MISSION</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-24918" role="none"><a class="responsive-menu-item-link" href="/donate/" role="menuitem" tabindex="1">DONATE</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-40622" role="none"><a class="responsive-menu-item-link" href="/contact/" role="menuitem" tabindex="1">CALL IN / E-Mail</a></li><li class="tfrsupporterlogin tfruserlogin menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-59611" role="none"><a class="responsive-menu-item-link" role="menuitem" tabindex="1">LOGIN</a></li><li class="tfruserlogout menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children responsive-menu-item responsive-menu-item-has-children" id="responsive-menu-item-59615" role="none"><a class="responsive-menu-item-link" href="/amember/member/index" role="menuitem" tabindex="1">YOUR ACCOUNT<div class="responsive-menu-subarrow">▼</div></a><ul aria-label="YOUR ACCOUNT" class="responsive-menu-submenu responsive-menu-submenu-depth-1" role="menu"><li class="tfruserlogout menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-59617" role="none"><a class="responsive-menu-item-link" href="/amember/helpdesk" role="menuitem" tabindex="1">HELP DESK</a></li><li class="tfruserlogout menu-item menu-item-type-custom menu-item-object-custom responsive-menu-item" id="responsive-menu-item-59619" role="none"><a class="responsive-menu-item-link" href="/amember/logout" role="menuitem" tabindex="1">LOG OUT</a></li></ul></li></ul> <div id="responsive-menu-search-box">
+<form action="https://tfrlive.com" class="responsive-menu-search-form" role="search">
+<input class="responsive-menu-search-box" name="s" placeholder="Search" tabindex="1" title="Search" type="search"/>
+</form>
+</div> <div id="responsive-menu-additional-content"></div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix" id="page"><div id="gdltopslider">
+<div class="custom-sidebar-title-wrapper" style="margin:15px 0 15px 0;">
+<h3 class="custom-sidebar-title gdl-border-x bottom">
+CHOOSE FROM 33 ON-AIR PERSONALITIES &gt;&gt;
+</h3>
+<i class="icon-double-angle-right"></i>
+<div class="clear"></div>
+</div>
+<div class="gdl-top-slider boxed-style loading" style="margin:0 0 15px 0; height:214px;">
+<div class="gdl-top-slider-wrapper">
+<div class="gdl-slider-wrapper">
+<div class="flexslider gdl-slider carousel-included" data-width="392">
+<div class="flex-viewport" style="overflow: hidden; position: relative;">
+<ul class="slides">
+<li>
+<a href="https://tfrlive.com/x2radio">
+<img height="214" src="/images/playerimages/x2radio.png" width="365">
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Sun 5pm-8pm</div>
+</div>
+</div>
+</img></a>
+</li><li>
+<a href="https://tfrlive.com/freakyfriday">
+<img height="214" src="/images/playerimages/freakyfriday.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Fri 4pm-7pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/stanchingtyranny">
+<img height="214" src="/images/playerimages/stanchingtyranny.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Sun 10pm-12am</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/nikkicolombo">
+<img height="214" src="/images/playerimages/nikkicolombo.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Saturdays 6pm-7pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/kevbaker">
+<img height="214" src="/images/playerimages/kevbaker.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Mon-Thu 2pm-4pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/jeranismraw">
+<img height="214" src="/images/playerimages/jeranismraw.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Mon 6pm-9pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/soulmirror">
+<img height="214" src="/images/playerimages/soulmirror.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Thurs 5pm-6pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/truthfrequencynews">
+<img height="214" src="/images/playerimages/truthfrequencynews.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Mon &amp; Wed 4pm-6pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/yourdiyhealth">
+<img height="214" src="/images/playerimages/yourdiyhealth.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Thu 7am - 9am</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/chriseverard">
+<img height="214" src="/images/playerimages/chriseverard.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Sun 12pm-2pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/americanlegends">
+<img height="214" src="/images/playerimages/americanlegends.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Mondays 12pm - 2pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/spiritsjourney">
+<img height="214" src="/images/playerimages/spiritsjourney.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Saturdays 11am - 12pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/infinitefringe">
+<img height="214" src="/images/playerimages/infinitefringe.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Sun 4pm-5pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/secretsrevealed">
+<img height="214" src="/images/playerimages/secretsrevealed.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">THURS 6pm-8pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/paranormalportal">
+<img height="214" src="/images/playerimages/paranormalportal.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Fri &amp; Sat 7pm - 9pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/zacharyhubbard">
+<img height="214" src="/images/playerimages/zacharyhubbard.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Wed 6pm-9pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/covertreport">
+<img height="214" src="/images/playerimages/covertreport.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Sun 8am-10am</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/arterburn">
+<img height="214" src="/images/playerimages/arterburn.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Mon - Fri 1pm-2pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/revolutionaryradio">
+<img height="214" src="/images/playerimages/revolutionaryradio.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Wed 9pm-11pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/twinflamedivinefire">
+<img height="214" src="/images/playerimages/twinflamedivinefire.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Saturdays 2pm-4pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/worldbigfootradio">
+<img height="214" src="/images/playerimages/worldbigfootradio.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Saturdays 10pm-11pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/iprotest">
+<img height="214" src="/images/playerimages/iprotest.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Fridays 2pm-4pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/eyeofra">
+<img height="214" src="/images/playerimages/eyeofra.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Sat 4pm-6pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/americasevilgenius">
+<img height="214" src="/images/playerimages/americasevilgenius.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Sun 8pm-9pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/spacesbetween">
+<img height="214" src="/images/playerimages/spacesbetween.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Fri &amp; Sat 9pm-10pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/beyondtheveil">
+<img height="214" src="/images/playerimages/beyondtheveil.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Thursdays 8pm-11pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/sriandkira">
+<img height="214" src="/images/playerimages/sriandkira.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Saturdays 1pm - 2pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/crackingtherealitycode">
+<img height="214" src="/images/playerimages/crackingtherealitycode.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Saturdays 12pm-1pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/agoodplace">
+<img height="214" src="/images/playerimages/agoodplace.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Friday 11am-12pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/farmacyseedsnetwork">
+<img height="214" src="/images/playerimages/farmacyseedsnetwork.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Tuesdays 9pm-11pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/strangeworld">
+<img height="214" src="/images/playerimages/strangeworld.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Tue 7pm - 9pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/suzanneross">
+<img height="214" src="/images/playerimages/suzanneross.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Tuesdays 5pm-7pm</div>
+</div>
+</div>
+</a>
+</li><li>
+<a href="https://tfrlive.com/ironworx">
+<img height="214" src="/images/playerimages/ironworx.png" width="365"/>
+<div class="gdl-caption-overlay"></div>
+<div class="flex-caption">
+<div class="gdl-slider-caption-wrapper">
+<h2 class="gdl-slider-title"></h2>
+<div class="gdl-slider-caption">Tue &amp; Fri 2am-4am </div>
+</div>
+</div>
+</a>
+</li> </ul>
+</div>
+</div>
+<div class="clear"></div>
+<div class="page-title-top-shadow"></div>
+</div>
+</div>
+</div>
+</div><div class="row-fluid mainsection">
+<div class="row-fluid span9" id="contentleft">
+<div class="content_right span12">
+<li class="widget FeaturedOnDemandRadioShowWidget" id="featuredondemandradioshowwidget-3"><div class="widgettitle">FEATURED ON DEMAND &gt;&gt;</div><div class="row-fluid">
+<div class="span12">
+<div class="featureondemandpodcast"> <div class="featureondemanddiv imageout" data-href="https://tfrlive.com/the-movie-you-don-t-want-to-be-in-104886/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/the-movie-you-don-t-want-to-be-in-104886/" title="2021 – The movie you don’t want to be in">
+<img alt="S" class="anchorimgleft" height="214" src="/images/playerimages/strangeworld.png" title="S" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/the-movie-you-don-t-want-to-be-in-104886/" rel="bookmark" title="  2021 – The movie you don’t want to be in">EPISODE #293 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/the-movie-you-don-t-want-to-be-in-104886/" rel="bookmark" title="  2021 – The movie you don’t want to be in">2021 – The movie you don’t want to be in</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>Foreshadowing the social challenges that may emerge as the United States begins to pull out of the yearlong pandemic, the latest poll showed a majority of Americans want to limit the ways in which unvaccinated people can mix in public. A majority – 62% – said unvaccinated people should not be allowed to travel on...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/the-movie-you-don-t-want-to-be-in-104886/" rel="bookmark" title="  2021 – The movie you don’t want to be in"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/transcending-the-matrix-with-suzanne-ross-104853/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/transcending-the-matrix-with-suzanne-ross-104853/" title="Divine Origins of Intelligent Energy">
+<img alt="T" class="anchorimgleft" height="214" src="/images/playerimages/suzanneross.png" title="T" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/transcending-the-matrix-with-suzanne-ross-104853/" rel="bookmark" title="  Divine Origins of Intelligent Energy">EPISODE #80 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/transcending-the-matrix-with-suzanne-ross-104853/" rel="bookmark" title="  Divine Origins of Intelligent Energy">Divine Origins of Intelligent Energy</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>Suzanne takes you on an adventure through Universes of Time and Space and shows you how they are a mental construct projected from the eternal children at the core of creation as a a reflection of the Central Universe upon which they exist. She tunes into the eternal souls mentally projecting holographic fractals of themselves...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/transcending-the-matrix-with-suzanne-ross-104853/" rel="bookmark" title="  Divine Origins of Intelligent Energy"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/snow-thunder-104695/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/snow-thunder-104695/" title="Snow Thunder">
+<img alt="I" class="anchorimgleft" height="214" src="/images/playerimages/ironworx.png" title="I" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/snow-thunder-104695/" rel="bookmark" title="  Snow Thunder">EPISODE #342 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/snow-thunder-104695/" rel="bookmark" title="  Snow Thunder">Snow Thunder</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>Thunderstorms. Beautiful. Cleansing. Powerful. Energizing. A bit scary, sometimes. We’ve all heard thunder, right? (Unless you’re from Portland, Oregon, that is…) Zack tells us his experience of hearing thunder during a snow storm. Which seems…wrong, somehow. Then Lucas vocabulates a bit, and a new era of IRM nicknames is begun! Welcome our newest team-mate time-traveler:...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/snow-thunder-104695/" rel="bookmark" title="  Snow Thunder"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/it-is-all-about-the-money-again-104600/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/it-is-all-about-the-money-again-104600/" title="It’ is All About The Money Again">
+<img alt="L" class="anchorimgleft" height="214" src="/images/playerimages/truthfrequencynews.png" title="L" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/it-is-all-about-the-money-again-104600/" rel="bookmark" title="  It’ is All About The Money Again">EPISODE #399 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/it-is-all-about-the-money-again-104600/" rel="bookmark" title="  It’ is All About The Money Again">It’ is All About The Money Again</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>Tesla Killer? Spy Photos Of First Ford F-150 All-Electric Pickup Emerge. Idaho ends Powerball in state, fearing foreign participation. Tucker vs the DOD. MyPillow CEO Says New App Will Be “Safe Place” for Those Canceled by YouTube, Twitter. DEVELOPING: Two Men Arrested, Charged with Assault Against Capitol Hill Officer Who Later Died, Even Though They...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/it-is-all-about-the-money-again-104600/" rel="bookmark" title="  It’ is All About The Money Again"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/the-middle-class-enemy-of-the-state-104396/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/the-middle-class-enemy-of-the-state-104396/" title="The Middle Class Enemy of the State">
+<img alt="X" class="anchorimgleft" height="214" src="/images/playerimages/x2radio.png" title="X" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/the-middle-class-enemy-of-the-state-104396/" rel="bookmark" title="  The Middle Class Enemy of the State">EPISODE #321 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/the-middle-class-enemy-of-the-state-104396/" rel="bookmark" title="  The Middle Class Enemy of the State">The Middle Class Enemy of the State</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>For thousands of years, the Global Syndicate has had only one true enemy. It seeks to protect its bowling greens and orphanages full of tasty playthings from this enemy by not just putting up a wall of secrecy and death. It creates a no-man’s-land for hundreds of miles in every direction to prevent anyone from...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/the-middle-class-enemy-of-the-state-104396/" rel="bookmark" title="  The Middle Class Enemy of the State"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/the-emperor-is-naked-we-know-it-104386/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/the-emperor-is-naked-we-know-it-104386/" title="THE EMPEROR IS NAKED &amp; WE KNOW IT">
+<img alt="T" class="anchorimgleft" height="214" src="/images/playerimages/covertreport.png" title="T" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/the-emperor-is-naked-we-know-it-104386/" rel="bookmark" title="  THE EMPEROR IS NAKED &amp; WE KNOW IT">EPISODE #440 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/the-emperor-is-naked-we-know-it-104386/" rel="bookmark" title="  THE EMPEROR IS NAKED &amp; WE KNOW IT">THE EMPEROR IS NAKED &amp; WE KNOW IT</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>It’s Day 53 of Biden’s Puppet Dictatorship, the worst (FAKE) President in the history of our nation. The Great Reset is underway, no question — Except it’s OUR Reset. We the people are standing strong to Defend Our Freedoms against the CORRUPTION and Fear Porn of Washington DC. Today’s show talks about all the ways...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/the-emperor-is-naked-we-know-it-104386/" rel="bookmark" title="  THE EMPEROR IS NAKED &amp; WE KNOW IT"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/america-s-evil-genius-with-travis-cook-104399/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/america-s-evil-genius-with-travis-cook-104399/" title="Should George Floyd’s Life Matter?">
+<img alt="A" class="anchorimgleft" height="214" src="/images/playerimages/americasevilgenius.png" title="A" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/america-s-evil-genius-with-travis-cook-104399/" rel="bookmark" title="  Should George Floyd’s Life Matter?">EPISODE #281 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/america-s-evil-genius-with-travis-cook-104399/" rel="bookmark" title="  Should George Floyd’s Life Matter?">Should George Floyd’s Life Matter?</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>As the Derrick Chauvin trial draws near, there seems to be some trepidation and walking on egg shells these days as people discuss it. Tonight we examine the very different value that Urban Communities assign to their criminals, versus the lower amount of value that Suburban and Rural Communities tend to assign to their criminals…and...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/america-s-evil-genius-with-travis-cook-104399/" rel="bookmark" title="  Should George Floyd’s Life Matter?"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/exploring-the-darkness-104383/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/exploring-the-darkness-104383/" title="EXPLORING THE DARKNESS">
+<img alt="P" class="anchorimgleft" height="214" src="/images/playerimages/paranormalportal.png" title="P" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/exploring-the-darkness-104383/" rel="bookmark" title="  EXPLORING THE DARKNESS">EPISODE #460 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/exploring-the-darkness-104383/" rel="bookmark" title="  EXPLORING THE DARKNESS">EXPLORING THE DARKNESS</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>Tonight, on the #Paranormal Portal, we are embarking on another crazy journey into the Paranormal Portal! From the world of #Bigfoot, #Dogman , Ghosts as well as UFOs and aliens and the spooky, untamed wilds, we’ll take you on a safari of the mind into the depths of the Paranormal Portal. Join us as we...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/exploring-the-darkness-104383/" rel="bookmark" title="  EXPLORING THE DARKNESS"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/scott-ware-maria-lomeli-return-to-tfdf-104382/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/scott-ware-maria-lomeli-return-to-tfdf-104382/" title="Scott Ware &amp; Maria Lomeli Return to TFDF">
+<img alt="T" class="anchorimgleft" height="214" src="/images/playerimages/twinflamedivinefire.png" title="T" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/scott-ware-maria-lomeli-return-to-tfdf-104382/" rel="bookmark" title="  Scott Ware &amp; Maria Lomeli Return to TFDF">EPISODE #184 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/scott-ware-maria-lomeli-return-to-tfdf-104382/" rel="bookmark" title="  Scott Ware &amp; Maria Lomeli Return to TFDF">Scott Ware &amp; Maria Lomeli Return to TFDF</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>The last time we had this beautiful Sacred Union couple on the pandemic hadn’t occur yet so we thought it would be a great time to have them back on to update us on how they’ve been with all the craziness going on in the world! We had a great discussion on how they are...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/scott-ware-maria-lomeli-return-to-tfdf-104382/" rel="bookmark" title="  Scott Ware &amp; Maria Lomeli Return to TFDF"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/spirits-journey-104381/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/spirits-journey-104381/" title="Dr. Kweisi Ausar on Workplace Spirituality">
+<img alt="S" class="anchorimgleft" height="214" src="/images/playerimages/spiritsjourney.png" title="S" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/spirits-journey-104381/" rel="bookmark" title="  Dr. Kweisi Ausar on Workplace Spirituality">EPISODE #106 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/spirits-journey-104381/" rel="bookmark" title="  Dr. Kweisi Ausar on Workplace Spirituality">Dr. Kweisi Ausar on Workplace Spirituality</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>Dr. Kweisi Ausar is an Associate Professor at the University of Nevada Las Vegas. He has published multiple articles on workplace spirituality, ethical leadership, and abusive supervision. He held a senior level position at a Fortune 300 company and currently consults with organizations looking to strengthen leadership development practices and organizational culture. Dr. Ausar recently...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/spirits-journey-104381/" rel="bookmark" title="  Dr. Kweisi Ausar on Workplace Spirituality"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/the-burdens-we-carry-104371/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/the-burdens-we-carry-104371/" title="The Burdens We Carry">
+<img alt="T" class="anchorimgleft" height="214" src="/images/playerimages/spacesbetween.png" title="T" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/the-burdens-we-carry-104371/" rel="bookmark" title="  The Burdens We Carry">EPISODE #189 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/the-burdens-we-carry-104371/" rel="bookmark" title="  The Burdens We Carry">The Burdens We Carry</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>Merry Meet! Often, we find ourselves with burdens to carry. Some, we pick up out of choice, some we seem to just accumulate. Do burdens that we CHOOSE stop being burdens? What are YOUR experiences? Email me at <a class="__cf_email__" data-cfemail="8dfae4e1e9e8fdece4fee1e8f4cdeae0ece4e1a3eee2e0" href="/cdn-cgi/l/email-protection">[email protected]</a>! For more info on the Pagan community here in the Pacific Northwest, check out www.spokanepagans.com! ————————————&amp;...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/the-burdens-we-carry-104371/" rel="bookmark" title="  The Burdens We Carry"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+<div class="featureondemanddiv imageout" data-href="https://tfrlive.com/don-jeffries-with-patrick-wood-104346/">
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a href="https://tfrlive.com/don-jeffries-with-patrick-wood-104346/" title="Don Jeffries with Patrick Wood">
+<img alt="I" class="anchorimgleft" height="214" src="/images/playerimages/iprotest.png" title="I" width="365"/>
+</a>
+</div>
+</div>
+<div class="row-fluid backblusec">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/don-jeffries-with-patrick-wood-104346/" rel="bookmark" title="  Don Jeffries with Patrick Wood">EPISODE #109 </a></h3>
+</div>
+</div>
+<div class="eightteenlayoutmiddle">
+<div class="row-fluid">
+<div class="span12 specifich3">
+<h3 class="textaligncenter"><a href="https://tfrlive.com/don-jeffries-with-patrick-wood-104346/" rel="bookmark" title="  Don Jeffries with Patrick Wood">Don Jeffries with Patrick Wood</a></h3>
+</div>
+</div>
+<div class="row-fluid margin5">
+<div class="span12">
+<p>Don Jeffries talks with author and founder and director of Citizens for Free Speech Patrick Wood, about cancel culture and increasing censorship. ...</p>
+</div>
+</div>
+<div class="row-fluid">
+<div class="span12 textaligncenter">
+<a class="btnblue" href="https://tfrlive.com/don-jeffries-with-patrick-wood-104346/" rel="bookmark" title="  Don Jeffries with Patrick Wood"><font color="white">ON DEMAND</font></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="row-fluid">
+<div class="span12 morefromnews">
+<a class="btnblue" href="https://tfrlive.com/archives/">FULL SHOW LIST</a>
+</div>
+</div></li>
+</div>
+</div>
+<div class="row-fluid span3" id="contentright">
+<div class="span12 clearfix" id="sidebar">
+<ul>
+<li class="widget OnTheAirWidget" id="ontheairwidget-24">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="7ca732c2d034a8df75c92c48-application/javascript">
+function get_onair_data(process_request)
+{
+	var exonair = '';
+	var requestaccessdata = "process_request="+process_request;
+	jQuery.ajax({	
+	type: "POST",	
+	url: "/wp-content/plugins/wp-tfrlive-plugins/on-air-widgets/GetShowData.php",	
+	data: requestaccessdata,	
+	cache: false,	
+	success: function(res)
+	{
+		if(res == 2)
+		{
+			//alert(res);
+			return false; // Nothing Changed
+		}
+		else
+		{
+			jQuery("#responsecontainerGetShow").html(res);  // Refresh
+		}
+	},
+	error: function (error) 
+	{
+		console.log(error)
+		jQuery("#responsecontainerGetShow").html('Sorry but there was a communication error. Please try again.'+error);
+		//location.reload(true);
+	}	
+	});
+}
+
+jQuery( document ).ready(function() {
+	//get_onair_data(0);
+	//setInterval('get_onair_data(1)', 5000);
+});
+</script>
+<div id="responsecontainerGetShow"><div class="widgettitle">ON AIR &gt;&gt;</div>
+<div class="row-fluid rowfluidbox imageout">
+<div class="span12">
+<div id="show">
+<a href="/listen-live/">
+<img alt="farmacyseedsnetwork" height="214" src="/images/playerimages/farmacyseedsnetwork.png" style="width:auto; height: auto; max-width: 100%" title="farmacyseedsnetwork" width="365"/></a>
+<div class="onairclass">
+<div class="nowplayingonair">
+<a href="/listen-live/">
+<img height="85" src="/images/listen-live.jpg" style="PADDING-TOP: 8px" width="375"/></a>
+<p class="textalignleft"><br/>
+Carlton Moore wants to share how you can improve your farm or garden's health as well as that of your own body. The concepts are simple, but sometimes the complexities hang people up. Carlton is here to help you convert this information to actionable knowledge you can use every day. When soils and plants are truly healthy they have the capacity to transfer some of that immunity directly to the people and animals that eat them thereby improving their health and immunity. Using this concept Carlton hopes to help regenerate our land through education with the long term goal of building a b...</p>
+</div>
+<h1><a href="tel:213-233-3998">CALL IN NUMBERS</a></h1>
+<h1><a href="tel:213-233-3998">US: 213-233-3998</a></h1>
+<h1><a href="tel:+44.20.3393.2871">UK +44.203.393.2871</a></h1>
+</div>
+</div>
+</div>
+<input id="exonair" name="exonair" type="hidden" value="farmacyseedsnetwork">
+<input id="exyoutubestream" name="exyoutubestream" type="hidden" value=""/>
+</input></div> </div></li>
+<li class="widget widget_text" id="text-103"> <div class="textwidget"><center><div class="eightteenlayoutmiddle margin20 maintextcontainerwidgetlayout"><a href="https://www.iheart.com/live/truth-frequency-radio-7266/" rel="attachment wp-att-67476 noopener noreferrer" target="_blank"><img alt="Listen on iHeart Radio" height="104" src="https://tfrlive.com/images/listenoniheart.png" target="_blank" width="350"/></a></div>
+</center>
+<center><div class="eightteenlayoutmiddle margin20 maintextcontainerwidgetlayout"><a href="tel:425-434-2069" rel="attachment wp-att-67476"><img alt="Listen By Phone" height="104" src="https://tfrlive.com/images/talkstream.png" target="_blank" width="350"/></a></div>
+</center>
+<center><div class="eightteenlayoutmiddle margin20 maintextcontainerwidgetlayout"><a href="http://tunein.com/radio/Truth-Frequency-Radio-s210069/" rel="attachment wp-att-67476 noopener noreferrer" target="_blank"><img alt="Listen On Tune In Radio" height="104" src="https://tfrlive.com/images/tunein.png" target="_blank" width="350"/></a></div>
+</center>
+</div>
+</li>
+<li class="widget widget_text" id="text-108"><div class="widgettitle">A Special Offer for TFR Listeners</div> <div class="textwidget"><p><a href="http://ayalife.com"><img alt="" class="aligncenter size-full wp-image-78119" height="600" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://tfrlive.com/wp-content/uploads/2018/04/AYALIFEBANNER.jpg" srcset="https://tfrlive.com/wp-content/uploads/2018/04/AYALIFEBANNER.jpg 300w, https://tfrlive.com/wp-content/uploads/2018/04/AYALIFEBANNER-150x300.jpg 150w, https://tfrlive.com/wp-content/uploads/2018/04/AYALIFEBANNER-63x125.jpg 63w" width="300"/></a></p>
+</div>
+</li>
+</ul>
+<div id="sidebar-bottom-left">
+<ul>
+</ul>
+</div>
+<div id="sidebar-bottom-right">
+<ul>
+</ul>
+</div>
+</div>
+</div> <div class="row-fluid span3" id="contentrightbottom">
+<div class="span12 clearfix" id="sidebar">
+<div class="row-fluid rowfluidbox">
+<div class="span12" id="LowerRightSidebarHomePage">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix" id="footer">
+<div class="footer_top">
+<div class="footer_one">
+</div>
+<div class="footer_two">
+</div>
+<div class="footer_three">
+</div>
+<div class="footer_four">
+</div>
+</div>
+<div class="footer_bottom">
+<div class="aligncenter">
+© TRUTH FREQUENCY (TM) All Rights Reserved<br/>
+<br/> THE VIEWS AND OPINIONS EXPRESSED ON THIS STATION BELONG SOLELY TO THOSE WHO MAKE THEM AND DO NOT<br/>
+NECESSARILY REFLECT THE VIEWS AND OPINIONS OF TRUTH FREQUENCY, iHeartRadio, OR OUR AFFILIATES / ADVERTISERS.
+</div>
+</div>
+</div>
+<script src="https://tfrlive.com/wp-content/themes/wp-smooth/truthfrequency_files/marquee.js" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script type="7ca732c2d034a8df75c92c48-text/javascript">
+/* <![CDATA[ */
+var FLEX = {"animation":"fade","pauseOnHover":"enable","controlNav":"enable","directionNav":"enable","animationSpeed":"600","slideshowSpeed":"12000","pauseOnAction":"disable","controlsContainer":".flexslider"};
+/* ]]> */
+</script>
+<script src="https://tfrlive.com/wp-content/themes/wp-smooth/truthfrequency_files/jquery.flexslider.js?ver=1.0" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script src="https://tfrlive.com/wp-content/themes/wp-smooth/truthfrequency_files/gdl-tab-widget.js?ver=1.0" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script src="https://tfrlive.com/wp-content/themes/wp-smooth/truthfrequency_files/jquery.cycle.js?ver=1.0" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script src="https://tfrlive.com/wp-content/themes/wp-smooth/truthfrequency_files/jquery_002.js" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<div id="DivLoginToTfrNow"></div>
+<div id="DivSubscribeToTfrNow"></div>
+<div id="DivMoreListeningoption"></div>
+<div id="defaultpopupdiv"></div>
+<input id="TFRLIVE_PLUGIN_URL" name="TFRLIVE_PLUGIN_URL" type="hidden" value="https://tfrlive.com/wp-content/plugins/wp-tfrlive-plugins"/>
+<span class="wpappninja wpmobileapp" style="display:none"></span>
+<script id="wp-embed-js" src="https://tfrlive.com/wp-includes/js/wp-embed.min.js?ver=5.5.3" type="7ca732c2d034a8df75c92c48-text/javascript"></script>
+<script data-cf-settings="7ca732c2d034a8df75c92c48-|49" defer="" src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"></script></body>
+</html>

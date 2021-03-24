@@ -1,0 +1,667 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<!-- Google Chrome Frame for IE -->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+<!-- mobile meta -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<link href="http://theinformedamerican.net/xmlrpc.php" rel="pingback"/>
+<!-- head functions -->
+<title>The Informed American</title>
+<link href="//fonts.googleapis.com" rel="dns-prefetch">
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="http://theinformedamerican.net/feed/" rel="alternate" title="The Informed American » Feed" type="application/rss+xml"/>
+<link href="http://theinformedamerican.net/comments/feed/" rel="alternate" title="The Informed American » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/theinformedamerican.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="http://theinformedamerican.net/wp-includes/css/dist/block-library/style.min.css?ver=5.2.9" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://theinformedamerican.net/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=5.2.9" id="SFSImainCss-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://theinformedamerican.net/wp-content/plugins/ultimate-social-media-icons/css/disable_sfsi.css?ver=5.2.9" id="disable_sfsi-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://theinformedamerican.net/wp-content/themes/valenti/library/css/style.min.css?ver=5.5.4" id="cb-main-stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Oswald%3A400%2C700%2C400italic%7COpen+Sans%3A400%2C700%2C400italic&amp;subset=greek%2Cgreek-ext&amp;ver=5.5.4" id="cb-font-stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='cb-ie-only-css'  href='http://theinformedamerican.net/wp-content/themes/valenti/library/css/ie.css?ver=5.5.4' type='text/css' media='all' />
+<![endif]-->
+<script src="http://theinformedamerican.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script src="http://theinformedamerican.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="http://theinformedamerican.net/wp-content/themes/valenti/library/js/modernizr.custom.min.js?ver=2.6.2" type="text/javascript"></script>
+<link href="http://theinformedamerican.net/wp-json/" rel="https://api.w.org/"/>
+<link href="http://theinformedamerican.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://theinformedamerican.net/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.2.9" name="generator"/>
+<script data-cfasync="false" type="text/javascript">
+/*7817*/ 
+(function(s, o, l, v, e, d) {
+    if (s[o] == null && s[l + e]) {
+        s[o] = "loading";
+        s[l + e](d, l = function() {
+            s[o] = "complete";
+            s[v + e](d, l, !1)
+        }, !1)
+    }
+})(document, "readyState", "add", "remove", "EventListener", "DOMContentLoaded");
+(function() {
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = "//cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=ca2ad86d-6ab0-49a1-9946-7e6026f5652d";
+    s.id = "infinity";
+    s.setAttribute("data-guid", "ca2ad86d-6ab0-49a1-9946-7e6026f5652d");
+    s.setAttribute("data-version", "async");
+    s.setAttribute("data-abr", "false");
+    var e = document.getElementsByTagName("script")[0];
+    e.parentNode.insertBefore(s, e)
+})();
+(function() {
+    var calc = function() {
+        if (typeof g367CB268B1094004A3689751E7AC568F == "undefined" || !g367CB268B1094004A3689751E7AC568F.Core) {
+            var domain = "cab-too-low.com";
+            var file = "ac.aspc";
+            var siteGuid = "ca2ad86d-6ab0-49a1-9946-7e6026f5652d".replace(/-/g, "");
+            (function() {
+                var s = document.createElement("script");
+                s.type = "text/javascript";
+                s.async = true;
+                s.src = "//cdn." + domain + "/" + siteGuid;
+                s.id = "infinity";
+                s.setAttribute("data-guid", "ca2ad86d-6ab0-49a1-9946-7e6026f5652d");
+                s.setAttribute("data-version", "async");
+                s.setAttribute("data-abr", "true");
+                var e = document.getElementsByTagName("script")[0];
+                e.parentNode.insertBefore(s, e)
+            })()
+        }
+    };
+    var addEvent = function(element, event, fn) {
+        if (element.addEventListener) element.addEventListener(event, fn, false);
+        else if (element.attachEvent) element.attachEvent("on" + event, fn)
+    };
+    addEvent(window, "load", calc)
+})();
+</script><meta content="svnBhpzExgCyxtGc1fFY" name="follow.it-verification-code-S3UzTkNjbXpkdVhmUGp5empXam9TWFJNNHJUT3FaUFViQy9lSjh1WER1ODVFaEMyTXAyVzVLM3R6S2pIdXc4UDZCaW5xYUxjNEFRVURjYkxZeHRETFR1ejNHQVBoWDY2Tm42MDRPbkxsVVAvWG16S0Fpb0VtblUrS3ZPOVc5TVR8Z0MrZFZNYVBWdWNCSWFhcHBxNm8xTEZ4WUc5VEZwWjRTVkhpdE1WcU1pbz0="/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="http://theinformedamerican.net/wp-content/uploads/2020/01/740-american-flag-myths.imgcache.rev1e50d062fd266ed163636a2c7c4f2c2e.jpg" data-id="sfsi" property="og:image"/><meta content="image/jpeg" data-id="sfsi" property="og:image:type"><meta content="740" data-id="sfsi" property="og:image:width"><meta content="420" data-id="sfsi" property="og:image:height"/><meta content="http://theinformedamerican.net/wow-dems-just-sided-with-top-gop-politician/" data-id="sfsi" property="og:url"/><meta content="People that don't get along with each other have to work together all of the time, and it isn't always a pretty sight to see people of differing views having to join forces.
+However, one of the things that you have to remember is that one of the most basic shows of respect that you can give to someone is that if they are someone you can't stand for one second but you admit that they are right because they happen to be right.
+
+Now, there are a lot of Democrats that wouldn't exactly be caught dead shaking hands with a Republican or agreeing with them. They would never be able to agree on what do have for lunch. That being said, they would at least be able to agree that they needed to eat...
+
+The Democrats actually started noticing that conservative Florida Governor Ron DeSantis has a chance to bring the GOP back into relevance by 2024. Amazingly, Democrats are actually starting to recognize that he got better results with his controversial Covid decisions than the ones which gained the liberal seal of approval.
+
+When GOP Governor Ron DeSantis of Florida refused to put his state under heavy-handed and “draconian” lockdowns, the liberal media roasted him for it relentlessly, for months on end.
+
+Now even Democrats can’t deny that Florida has some really impressive statistics in the end. The success is impossible to ignore. Even Florida Democrats are admitting that his handling of the pandemic “was likely right.”
+
+The liberal collapse began with the left-leaning New York Times. Their Sunday edition “underscored Florida’s booming real estate market and the state’s low unemployment rate.”
+
+They didn’t want to report it but they grudgingly admit the GOP seems to be throwing a Grand ole Party after all. “Much of the state has a boomtown feel, a sense of making up for months of lost time.” Democrats see the past year as repressively forced thumb twiddling.
+
+Rabidly liberal Axios started getting used to the idea that GOP ideas might not be so bad after all. They read the piece in the Times and noted, “even some Florida Democrats are wondering whether Gov. Ron DeSantis’ widely panned COVID response might turn out to be right.”
+
+Read More" data-id="sfsi" property="og:description"/><meta content="WOW! Dems Just Sided With TOP GOP Politician!" data-id="sfsi" property="og:title"/><style>.cb-base-color, .cb-overlay-stars .fa-star, #cb-vote .fa-star, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, .bbp-submit-wrapper button:visited, .buddypress .cb-cat-header #cb-cat-title a,  .buddypress .cb-cat-header #cb-cat-title a:visited, .woocommerce .star-rating:before, .woocommerce-page .star-rating:before, .woocommerce .star-rating span, .woocommerce-page .star-rating span, .woocommerce .stars a {
+            color:#eb9812;
+        }#cb-search-modal .cb-header, .cb-join-modal .cb-header, .lwa .cb-header, .cb-review-box .cb-score-box, .bbp-submit-wrapper button, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            border-color: #eb9812;
+        }.cb-sidebar-widget .cb-sidebar-widget-title, .cb-multi-widget .tabbernav .tabberactive, .cb-author-page .cb-author-details .cb-meta .cb-author-page-contact, .cb-about-page .cb-author-line .cb-author-details .cb-meta .cb-author-page-contact, .cb-page-header, .cb-404-header, .cb-cat-header, #cb-footer #cb-widgets .cb-footer-widget-title span, #wp-calendar caption, .cb-tabs ul .current, .cb-tabs ul .ui-state-active, #bbpress-forums li.bbp-header, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li.selected, #buddypress div.item-list-tabs ul li.current, #buddypress .item-list-tabs ul li:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+            border-bottom-color: #eb9812 ;
+        }#cb-main-menu .current-post-ancestor, #cb-main-menu .current-menu-item, #cb-main-menu .current-menu-ancestor, #cb-main-menu .current-post-parent, #cb-main-menu .current-menu-parent, #cb-main-menu .current_page_item, #cb-main-menu .current-page-ancestor, #cb-main-menu .current-category-ancestor, .cb-review-box .cb-bar .cb-overlay span, #cb-accent-color, .cb-highlight, #buddypress button:hover, #buddypress a.button:hover, #buddypress a.button:focus, #buddypress input[type=submit]:hover, #buddypress input[type=button]:hover, #buddypress input[type=reset]:hover, #buddypress ul.button-nav li a:hover, #buddypress ul.button-nav li.current a, #buddypress div.generic-button a:hover, #buddypress .comment-reply-link:hover, #buddypress .activity-list li.load-more:hover, #buddypress #groups-list .generic-button a:hover {
+            background-color: #eb9812;
+        }</style><style type="text/css">
+                                                 body, #respond { font-family: 'Open Sans', sans-serif; }
+                                                 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, #cb-nav-bar #cb-main-menu ul li > a, .cb-author-posts-count, .cb-author-title, .cb-author-position, .search  .s, .cb-review-box .cb-bar, .cb-review-box .cb-score-box, .cb-review-box .cb-title, #cb-review-title, .cb-title-subtle, #cb-top-menu a, .tabbernav, #cb-next-link a, #cb-previous-link a, .cb-review-ext-box .cb-score, .tipper-positioner, .cb-caption, .cb-button, #wp-calendar caption, .forum-titles, .bbp-submit-wrapper button, #bbpress-forums li.bbp-header, #bbpress-forums fieldset.bbp-form .bbp-the-content-wrapper input, #bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink, .widget_display_stats dl dt, .cb-lwa-profile .cb-block, #buddypress #members-list .cb-member-list-box .item .item-title, #buddypress div.item-list-tabs ul li, #buddypress .activity-list li.load-more, #buddypress a.activity-time-since, #buddypress ul#groups-list li div.meta, .widget.buddypress div.item-options, .cb-activity-stream #buddypress .activity-header .time-since, .cb-font-header, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .cb-infinite-scroll a, .cb-no-more-posts { font-family:'Oswald', sans-serif; }
+                     </style> <meta content="wordpress-plugin" name="onesignal"/>
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://theinformedamerican.net");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'c306c01d-98ca-4aad-8cf1-42b35238d277';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://theinformedamerican.net/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['showCredit'] = true;
+oneSignal_options['notifyButton']['text'] = {};
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<style>#cb-nav-bar #cb-main-menu .main-nav .menu-item-10825:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-10825:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-10825 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-10825 .cb-sub-menu { background:#eb9812!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-10825 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }
+#cb-nav-bar #cb-main-menu .main-nav .menu-item-12490:hover,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-12490:focus,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-12490 .cb-sub-menu li .cb-grandchild-menu,
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-12490 .cb-sub-menu { background:#eb9812!important; }
+                                         #cb-nav-bar #cb-main-menu .main-nav .menu-item-12490 .cb-mega-menu .cb-sub-menu li a { border-bottom-color:#eb9812!important; }</style><script async="" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+<script>
+  window.OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "c306c01d-98ca-4aad-8cf1-42b35238d277",
+    });
+  });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-32848741-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-32848741-4');
+</script>
+<script async="" data-ad-client="ca-pub-3404557949439848" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- POWERINBOX 970x250 -->
+<div class="pi_118648 powerinbox">
+<!-- domain: rs-stripe.com -->
+<style type="text/css">
+  .pi_118648 div, .pi_118648 a, .pi_118648 img { margin: 0; padding: 0; line-height: 0; list-style: none; border: 0; vertical-align: baseline; } .pi_118648 { position: relative; max-width: 970px; margin: 0 auto; overflow: hidden; } .pi_118648 a { display: block; border: 0; border-style: none; outline: none; text-decoration: none; } .pi_118648 img { display: block; max-width: 100%; border: 0; outline: none; text-decoration: none; } .pi_118648 .pi_brand img { max-width: 84px; } .pi_118648 .pi_brand { position: absolute; display: block; width: 15px; height: 15px; overflow: hidden; right: 0; top: 0; cursor: pointer; z-index: auto; transition: width .3s; line-height: 0; } .pi_118648 .pi_brand:hover { width: 84px; } .pi_118648 .pi_au img { height: auto; width: 100%; max-width: 970px; }
+  </style>
+<div class="pi_brand">
+<a href="https://stripe.rs-stripe.com/branding/?utm_source=contentstripe&amp;utm_medium=web&amp;utm_campaign=rs_118648&amp;utm_content=logo&amp;rs_type=web" rel="nofollow noopener" target="_blank">
+<img alt="Learn more about RevenueStripe..." height="15" src="https://stripe.rs-stripe.com/branding/recommend/web.png"/>
+</a>
+</div>
+<div class="pi_au">
+<a href="https://stripe.rs-stripe.com/stripe/redirect?cs_email={{GUID}}&amp;cs_stripeid=118648&amp;cs_offset=0&amp;cs_containertype=web&amp;cs_esp=powerinbox_web" rel="nofollow noopener" target="_blank"><img alt="" src="https://stripe.rs-stripe.com/stripe/image?cs_email={{GUID}}&amp;cs_stripeid=118648&amp;cs_offset=0&amp;cs_containertype=web&amp;cs_esp=powerinbox_web"/></a>
+</div>
+</div>
+<!-- POWERINBOX 970x250 -->
+<div id="woobox-root"></div>
+<script async="" src="https://cdn1.lockerdomecdn.com/embeds/bytesignal_theinformedamerican_sticky.js"></script>
+<script src="http://media.bytesignal.com/www/delivery/spcjs.php?id=6&amp;target=_blank" type="text/javascript"></script> <!-- end head functions-->
+</meta></meta></link></meta></head>
+<body class="home blog cb-sticky-mm cb-mod-zoom cb-m-sticky cb-sb-nar-embed-fw cb-cat-t-dark cb-mobm-light cb-gs-style-a cb-modal-dark cb-light-blog cb-sidebar-right cb-boxed">
+<div id="cb-outer-container">
+<div class="cb-s-modal cb-modal cb-dark-menu" id="cb-search-modal">
+<div class="cb-search-box">
+<div class="cb-header">
+<div class="cb-title">Search</div>
+<div class="cb-close">
+<span class="cb-close-modal cb-close-m"><i class="fa fa-times"></i></span>
+</div>
+</div><form action="http://theinformedamerican.net/" class="cb-search" method="get" role="search">
+<input class="cb-search-field" name="s" placeholder="" title="" type="text" value=""/>
+<button class="cb-search-submit" type="submit" value=""><i class="fa fa-search"></i></button>
+</form></div></div> <div class="wrap clearfix" id="cb-container">
+<header class="header clearfix wrap">
+<nav class="clearfix cb-dark-menu" id="cb-nav-bar">
+<div class="cb-nav-bar-wrap clearfix wrap" id="cb-main-menu">
+<ul class="nav main-nav wrap clearfix"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10825" id="menu-item-10825"><a href="https://bytesignal.email/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12490" id="menu-item-12490"><a href="http://theinformedamerican.net/bs2-4av1/">BS2-4aV1</a><div class="cb-big-menu"></div></li>
+<li class="cb-icons"><ul id="cb-icons-wrap"><li class="cb-icon-search cb-menu-icon"><a class="cb-tip-bot" data-cb-tip="Search" href="#" id="cb-s-trigger"><i class="fa fa-search"></i></a></li></ul></li></ul> </div>
+</nav>
+<!-- Secondary Menu -->
+<div class="clearfix cb-dark-menu" id="cb-top-menu">
+<div class="wrap cb-top-menu-wrap clearfix">
+<div class="cb-left-side cb-mob">
+<div class="cb-breaking-news cb-font-header"><span>Breaking <i class="fa fa-long-arrow-right"></i></span><ul id="cb-ticker"><li><a href="http://theinformedamerican.net/wow-dems-just-sided-with-top-gop-politician/" title="WOW! Dems Just Sided With TOP GOP Politician!">WOW! Dems Just Sided With TOP GOP Politician!</a></li><li><a href="http://theinformedamerican.net/cuomo-all-alone-staffers-refusing-to-come-to-work/" title="Cuomo All Alone! Staffers REFUSING TO COME TO WORK!">Cuomo All Alone! Staffers REFUSING TO COME TO WORK!</a></li><li><a href="http://theinformedamerican.net/what-tucker-just-said-got-him-some-big-time-backlash/" title="What Tucker Just Said Got Him Some Big Time Backlash!">What Tucker Just Said Got Him Some Big Time Backlash!</a></li><li><a href="http://theinformedamerican.net/top-doctor-has-predicted-the-exact-end-of-the-pandemic-2/" title="Top Doctor Has Predicted The EXACT End Of The Pandemic!">Top Doctor Has Predicted The EXACT End Of The Pandemic!</a></li></ul></div></div><div class="cb-mob-right"><a class="cb-small-menu-icons cb-small-menu-search" href="#" id="cb-s-trigger-sm"><i class="fa fa-search"></i></a></div>
+</div>
+</div>
+<!-- /Secondary Menu -->
+<a class="cb-base-color" href="#" id="cb-to-top"><i class="fa fa-long-arrow-up"></i></a>
+</header> <!-- end header -->
+<div class="wrap clearfix" id="cb-content">
+<div class="clearfix">
+<div class="cb-main clearfix cb-module-block cb-light-off cb-blog-style-roll" id="main">
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12563 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12563" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/wow-dems-just-sided-with-top-gop-politician/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" sizes="(max-width: 360px) 100vw, 360px" src="http://theinformedamerican.net/wp-content/uploads/2020/01/740-american-flag-myths.imgcache.rev1e50d062fd266ed163636a2c7c4f2c2e-360x240.jpg" srcset="http://theinformedamerican.net/wp-content/uploads/2020/01/740-american-flag-myths.imgcache.rev1e50d062fd266ed163636a2c7c4f2c2e-360x240.jpg 360w, http://theinformedamerican.net/wp-content/uploads/2020/01/740-american-flag-myths.imgcache.rev1e50d062fd266ed163636a2c7c4f2c2e-600x400.jpg 600w" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/wow-dems-just-sided-with-top-gop-politician/">WOW! Dems Just Sided With TOP GOP Politician!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-16">March 16, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">People that don't get along with each other have to work together all of the time, and it isn't always a pretty sight to see people of differing views having to join forces.
+However, one of the things that you<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12560 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12560" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/cuomo-all-alone-staffers-refusing-to-come-to-work/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" src="http://theinformedamerican.net/wp-content/uploads/2021/03/cuomo-must-go-yt-360x240.jpg" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/cuomo-all-alone-staffers-refusing-to-come-to-work/">Cuomo All Alone! Staffers REFUSING TO COME TO WORK!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-16">March 16, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">For about the past year and change, there have been a lot of people that haven't come to work. Oh sure, they have still gotten the job done quite well. They have just done it in a spare room that is now their o<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12557 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12557" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/what-tucker-just-said-got-him-some-big-time-backlash/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" src="http://theinformedamerican.net/wp-content/uploads/2021/03/download-9-360x240.jpeg" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/what-tucker-just-said-got-him-some-big-time-backlash/">What Tucker Just Said Got Him Some Big Time Backlash!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-15">March 15, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">When it comes to freedom of speech, people have to understand that it protects the guy that might be sounding mean just as much as the guy that is being nice about things.
+The problem that most liberals seem t<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12555 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12555" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/top-doctor-has-predicted-the-exact-end-of-the-pandemic-2/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" src="http://theinformedamerican.net/wp-content/uploads/2021/02/12909876-16x9-xlarge-360x240.jpg" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/top-doctor-has-predicted-the-exact-end-of-the-pandemic-2/">Top Doctor Has Predicted The EXACT End Of The Pandemic!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-15">March 15, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">Well, we all want all of this to be over as quickly as possible and at the end of the day, they would be able to do it if it were not for massive incompetence on part of the Biden Administration.
+The issue wit<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12552 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12552" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/democrats-once-again-trying-an-absolutely-hideous-move-to-rig-all-future-elections/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" src="http://theinformedamerican.net/wp-content/uploads/2021/01/diverse-voters-at-polls-360x240.jpg" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/democrats-once-again-trying-an-absolutely-hideous-move-to-rig-all-future-elections/">Democrats Once Again Trying An Absolutely Hideous Move To RIG ALL FUTURE ELECTIONS!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-14">March 14, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">When I was sixteen years old, there were a good number of things that if you put me in charge of them nobody would have batted an eye, like making sure something around the house got done or that I take the wat<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12480 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12480" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/sleepy-joe-caught-taking-money-from-spy-company-total-treason-3/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" sizes="(max-width: 360px) 100vw, 360px" src="http://theinformedamerican.net/wp-content/uploads/2021/01/maxresdefault-360x240.jpg" srcset="http://theinformedamerican.net/wp-content/uploads/2021/01/maxresdefault-360x240.jpg 360w, http://theinformedamerican.net/wp-content/uploads/2021/01/maxresdefault-600x400.jpg 600w" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/sleepy-joe-caught-taking-money-from-spy-company-total-treason-3/">Sleepy Joe Caught Taking Money From SPY COMPANY! TOTAL TREASON!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-14">March 14, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">Always follow the money, especially when someone makes a decision that is totally out of the norm for them or that doesn't make any sense to anyone.
+If you take a look at someone's financial records, you can f<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12549 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12549" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/report-reveals-they-are-already-starting-to-give-it-all-to-kamala/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" sizes="(max-width: 360px) 100vw, 360px" src="http://theinformedamerican.net/wp-content/uploads/2020/08/Kamala-Harris-360x240.png" srcset="http://theinformedamerican.net/wp-content/uploads/2020/08/Kamala-Harris-360x240.png 360w, http://theinformedamerican.net/wp-content/uploads/2020/08/Kamala-Harris-600x400.png 600w" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/report-reveals-they-are-already-starting-to-give-it-all-to-kamala/">Report REVEALS They Are Already Starting To Give It All To KAMALA!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-13">March 13, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">You can always tell when someone is being groomed for more responsibility. They usually end up being put in charge of something big that the boss would normally be in charge of.
+I remember seeing this a lot wh<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12547 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12547" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/sleepy-joe-preparing-for-all-out-war-against-patriots-2/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" src="http://theinformedamerican.net/wp-content/uploads/2021/02/Oath-Keepers-360x240.jpg" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/sleepy-joe-preparing-for-all-out-war-against-patriots-2/">Sleepy Joe Preparing For All Out War Against PATRIOTS!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-13">March 13, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">It used to be that if you were of a different political party than the guy next to you on the bus, that you might be able to talk about things and eventually come to a common ground.
+Not any more. Apparently, <span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12544 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12544" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/democrats-trying-to-force-sex-education-on-five-year-old-kids/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" sizes="(max-width: 360px) 100vw, 360px" src="http://theinformedamerican.net/wp-content/uploads/2021/03/asumag_8768_gettyimages_147011757-360x240.png" srcset="http://theinformedamerican.net/wp-content/uploads/2021/03/asumag_8768_gettyimages_147011757-360x240.png 360w, http://theinformedamerican.net/wp-content/uploads/2021/03/asumag_8768_gettyimages_147011757-600x400.png 600w" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/democrats-trying-to-force-sex-education-on-five-year-old-kids/">Democrats Trying To FORCE Sex Education On FIVE YEAR OLD KIDS!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-12">March 12, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">There are certain things that a little kid shouldn't have to know. For example, my wife and I will watch our five-year-old nephew every so often and he will hear a word on a TV show and want to know what it mea<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<article class="cb-blog-style-a cb-blog-style cb-color-hover cb-separated clearfix post-12541 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-12541" role="article">
+<div class="cb-mask" style="background-color:#eb9812;">
+<a href="http://theinformedamerican.net/the-cdcs-deep-state-motives-have-been-exposed-3/"><img alt="" class="attachment-cb-360-240 size-cb-360-240 wp-post-image" height="240" src="http://theinformedamerican.net/wp-content/uploads/2021/01/CDC-360x240.jpg" width="360"/></a>
+</div>
+<div class="cb-meta">
+<h2 class="cb-post-title"><a href="http://theinformedamerican.net/the-cdcs-deep-state-motives-have-been-exposed-3/">The CDC’s Deep State Motives Have Been EXPOSED!</a></h2>
+<div class="cb-byline cb-font-header"><div class="cb-author cb-byline-element"><i class="fa fa-user"></i> <a class="fn" href="http://theinformedamerican.net/author/dan/">dan</a></div> <div class="cb-date cb-byline-element"><i class="fa fa-clock-o"></i> <time class="" datetime="2021-03-12">March 12, 2021</time></div> <div class="cb-category cb-byline-element"><i class="fa fa-folder-o"></i> <a href="http://theinformedamerican.net/category/uncategorized/" title="View all posts in Uncategorized">Uncategorized</a></div></div> <div class="cb-excerpt">If you ever want to convince someone to do something, tell them it will affect their health.
+Don't believe me, think about what you were told when you were a small child and what you probably tell your own kid<span class="cb-excerpt-dots">...</span></div>
+</div>
+</article>
+<nav class="cb-pagination-button cb-infinite-scroll cb-infinite-load" id="cb-blog-infinite-load"><a href="http://theinformedamerican.net/page/2/">Load More</a></nav>
+</div> <!-- end #main -->
+<aside class="cb-sidebar clearfix" role="complementary">
+<div class="cb-sidebar-widget widget_text" id="text-3"> <div class="textwidget"><div id="zergnet-widget-71804"></div>
+<p><script language="javascript" type="text/javascript">
+    (function() {
+        var zergnet = document.createElement('script');
+        zergnet.type = 'text/javascript'; zergnet.async = true;
+        zergnet.src = (document.location.protocol == "https:" ? "https:" : "http:") + '//www.zergnet.com/zerg.js?id=71804';
+        var znscr = document.getElementsByTagName('script')[0];
+        znscr.parentNode.insertBefore(zergnet, znscr);
+    })();
+</script></p>
+</div>
+</div><div class="widget_text cb-sidebar-widget widget_custom_html" id="custom_html-2"><div class="textwidget custom-html-widget"><script async="true" data-organic-clicks="[ORGANIC_TRACKING_PIXEL]" data-paid-clicks="[PAID_TRACKING_PIXEL]" data-url="[PAGE_URL]" data-version="3" data-zone="[ZONE]" src="//static.newsmaxfeednetwork.com/web-clients/bootloaders/7syGfNHjSqQ69uaUFRmzzL/bootloader.js"></script>
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(7);
+// ]]> --></script><noscript><a href="http://media.bytesignal.com/www/delivery/ck.php?n=31165e3" rel="noopener noreferrer" target="_blank"><img alt="" border="0" src="http://media.bytesignal.com/www/delivery/avw.php?zoneid=7&amp;n=31165e3"/></a></noscript></div></div><div class="cb-sidebar-widget widget_text" id="text-2"> <div class="textwidget"><p><!-- POWERINBOX 300x250 A --></p>
+<div class="pi_118649 powerinbox">
+<!-- domain: stripe.rs-stripe.com -->
+<style type="text/css">
+  .pi_118649 div, .pi_118649 a, .pi_118649 img { margin: 0; padding: 0; line-height: 0; list-style: none; border: 0; vertical-align: baseline; } .pi_118649 { position: relative; max-width: 300px; margin: 0 auto; overflow: hidden; } .pi_118649 a { display: block; border: 0; border-style: none; outline: none; text-decoration: none; } .pi_118649 img { display: block; max-width: 100%; border: 0; outline: none; text-decoration: none; } .pi_118649 .pi_brand img { max-width: 84px; } .pi_118649 .pi_brand { position: absolute; display: block; width: 15px; height: 15px; overflow: hidden; right: 0; top: 0; cursor: pointer; z-index: auto; transition: width .3s; line-height: 0; } .pi_118649 .pi_brand:hover { width: 84px; } .pi_118649 .pi_au img { height: auto; width: 100%; max-width: 300px; }
+  </style>
+<div class="pi_brand">
+<a href="https://stripe.rs-stripe.com/branding/?utm_source=contentstripe&amp;utm_medium=web&amp;utm_campaign=rs_118649&amp;utm_content=logo&amp;rs_type=web" rel="nofollow noopener noreferrer" target="_blank"><br/>
+<img alt="Learn more about RevenueStripe..." height="15" src="https://stripe.rs-stripe.com/branding/recommend/web.png"/><br/>
+</a>
+</div>
+<div class="pi_au">
+<a href="https://stripe.rs-stripe.com/stripe/redirect?cs_email={{GUID}}&amp;cs_stripeid=118649&amp;cs_offset=0&amp;cs_containertype=web&amp;cs_esp=powerinbox_web" rel="nofollow noopener noreferrer" target="_blank"><img alt="" src="https://stripe.rs-stripe.com/stripe/image?cs_email={{GUID}}&amp;cs_stripeid=118649&amp;cs_offset=0&amp;cs_containertype=web&amp;cs_esp=powerinbox_web"/></a>
+</div>
+</div>
+<p><!-- POWERINBOX 300x250 A --></p>
+</div>
+</div> <div class="cb-sidebar-widget widget_recent_entries" id="recent-posts-3"> <h3 class="cb-sidebar-widget-title">More Trending Content</h3> <ul>
+<li>
+<a href="http://theinformedamerican.net/wow-dems-just-sided-with-top-gop-politician/">WOW! Dems Just Sided With TOP GOP Politician!</a>
+</li>
+<li>
+<a href="http://theinformedamerican.net/cuomo-all-alone-staffers-refusing-to-come-to-work/">Cuomo All Alone! Staffers REFUSING TO COME TO WORK!</a>
+</li>
+<li>
+<a href="http://theinformedamerican.net/what-tucker-just-said-got-him-some-big-time-backlash/">What Tucker Just Said Got Him Some Big Time Backlash!</a>
+</li>
+<li>
+<a href="http://theinformedamerican.net/top-doctor-has-predicted-the-exact-end-of-the-pandemic-2/">Top Doctor Has Predicted The EXACT End Of The Pandemic!</a>
+</li>
+<li>
+<a href="http://theinformedamerican.net/democrats-once-again-trying-an-absolutely-hideous-move-to-rig-all-future-elections/">Democrats Once Again Trying An Absolutely Hideous Move To RIG ALL FUTURE ELECTIONS!</a>
+</li>
+</ul>
+</div><div class="cb-sidebar-widget widget_text" id="text-4"> <div class="textwidget"><p><!-- POWERINBOX 300x250 B --></p>
+<div class="pi_118650 powerinbox">
+<!-- domain: stripe.rs-stripe.com -->
+<style type="text/css">
+  .pi_118650 div, .pi_118650 a, .pi_118650 img { margin: 0; padding: 0; line-height: 0; list-style: none; border: 0; vertical-align: baseline; } .pi_118650 { position: relative; max-width: 300px; margin: 0 auto; overflow: hidden; } .pi_118650 a { display: block; border: 0; border-style: none; outline: none; text-decoration: none; } .pi_118650 img { display: block; max-width: 100%; border: 0; outline: none; text-decoration: none; } .pi_118650 .pi_brand img { max-width: 84px; } .pi_118650 .pi_brand { position: absolute; display: block; width: 15px; height: 15px; overflow: hidden; right: 0; top: 0; cursor: pointer; z-index: auto; transition: width .3s; line-height: 0; } .pi_118650 .pi_brand:hover { width: 84px; } .pi_118650 .pi_au img { height: auto; width: 100%; max-width: 300px; }
+  </style>
+<div class="pi_brand">
+<a href="https://stripe.rs-stripe.com/branding/?utm_source=contentstripe&amp;utm_medium=web&amp;utm_campaign=rs_118650&amp;utm_content=logo&amp;rs_type=web" rel="nofollow noopener noreferrer" target="_blank"><br/>
+<img alt="Learn more about RevenueStripe..." height="15" src="https://stripe.rs-stripe.com/branding/recommend/web.png"/><br/>
+</a>
+</div>
+<div class="pi_au">
+<a href="https://stripe.rs-stripe.com/stripe/redirect?cs_email={{GUID}}&amp;cs_stripeid=118650&amp;cs_offset=0&amp;cs_containertype=web&amp;cs_esp=powerinbox_web" rel="nofollow noopener noreferrer" target="_blank"><img alt="" src="https://stripe.rs-stripe.com/stripe/image?cs_email={{GUID}}&amp;cs_stripeid=118650&amp;cs_offset=0&amp;cs_containertype=web&amp;cs_esp=powerinbox_web"/></a>
+</div>
+</div>
+<p><!-- POWERINBOX 300x250 B --></p>
+</div>
+</div>
+</aside>
+</div>
+</div> <!-- end #cb-content -->
+<footer class="wrap" id="cb-footer" role="contentinfo">
+<div class="cb-footer-a cb-footer-wrap wrap clearfix" id="cb-widgets">
+</div>
+</footer> <!-- end footer -->
+</div> <!-- end #cb-container -->
+</div> <!-- end #cb-outer-container -->
+<span id="cb-overlay"></span>
+<!--facebook like and share js -->
+<div id="fb-root"></div>
+<script>
+				(function(d, s, id) {
+					var js, fjs = d.getElementsByTagName(s)[0];
+					if (d.getElementById(id)) return;
+					js = d.createElement(s);
+					js.id = id;
+					js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+					fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));
+			</script>
+<script>
+window.addEventListener('sfsi_functions_loaded', function() {
+    if (typeof sfsi_responsive_toggle == 'function') {
+        sfsi_responsive_toggle(0);
+        // console.log('sfsi_responsive_toggle');
+
+    }
+})
+</script>
+<script>
+        window.addEventListener('sfsi_functions_loaded', function() {
+            if (typeof sfsi_plugin_version == 'function') {
+                sfsi_plugin_version(2.61);
+            }
+        });
+
+        function sfsi_processfurther(ref) {
+            var feed_id = 'S3UzTkNjbXpkdVhmUGp5empXam9TWFJNNHJUT3FaUFViQy9lSjh1WER1ODVFaEMyTXAyVzVLM3R6S2pIdXc4UDZCaW5xYUxjNEFRVURjYkxZeHRETFR1ejNHQVBoWDY2Tm42MDRPbkxsVVAvWG16S0Fpb0VtblUrS3ZPOVc5TVR8Z0MrZFZNYVBWdWNCSWFhcHBxNm8xTEZ4WUc5VEZwWjRTVkhpdE1WcU1pbz0=';
+            var feedtype = 8;
+            var email = jQuery(ref).find('input[name="email"]').val();
+            var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            if ((email != "Enter your email") && (filter.test(email))) {
+                if (feedtype == "8") {
+                    var url = "https://api.follow.it/subscription-form/" + feed_id + "/" + feedtype;
+                    window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+                    return true;
+                }
+            } else {
+                alert("Please enter email address");
+                jQuery(ref).find('input[name="email"]').focus();
+                return false;
+            }
+        }
+    </script>
+<style aria-selected="true" type="text/css">
+        .sfsi_subscribe_Popinner {
+            width: 100% !important;
+
+            height: auto !important;
+
+            padding: 18px 0px !important;
+
+            background-color: #ffffff !important;
+
+        }
+
+        .sfsi_subscribe_Popinner form {
+
+            margin: 0 20px !important;
+
+        }
+
+        .sfsi_subscribe_Popinner h5 {
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-weight: bold !important;
+
+            color: #000000 !important;
+
+            font-size: 16px !important;
+
+            text-align: center !important;
+
+            margin: 0 0 10px !important;
+
+            padding: 0 !important;
+
+        }
+
+        .sfsi_subscription_form_field {
+
+            margin: 5px 0 !important;
+
+            width: 100% !important;
+
+            display: inline-flex;
+
+            display: -webkit-inline-flex;
+
+        }
+
+        .sfsi_subscription_form_field input {
+
+            width: 100% !important;
+
+            padding: 10px 0px !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email] {
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]:-moz-placeholder {
+            /* Firefox 18- */
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {
+            /* Firefox 19+ */
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-style: normal !important;
+
+            color:  !important;
+
+            font-size: 14px !important;
+
+            text-align: center !important;
+
+        }
+
+        .sfsi_subscribe_Popinner input[type=submit] {
+
+            font-family: Helvetica,Arial,sans-serif !important;
+
+            font-weight: bold !important;
+
+            color: #000000 !important;
+
+            font-size: 16px !important;
+
+            text-align: center !important;
+
+            background-color: #dedede !important;
+
+        }
+
+        .sfsi_shortcode_container {
+            float: left;
+        }
+
+        .sfsi_shortcode_container .norm_row .sfsi_wDiv {
+            position: relative !important;
+        }
+
+        .sfsi_shortcode_container .sfsi_holders {
+            display: none;
+        }
+
+            </style>
+<script src="http://theinformedamerican.net/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript"></script>
+<script src="http://theinformedamerican.net/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=5.2.9" type="text/javascript"></script>
+<script src="http://theinformedamerican.net/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=5.2.9" type="text/javascript"></script>
+<script src="http://theinformedamerican.net/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=5.2.9" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sfsi_icon_ajax_object = {"ajax_url":"http:\/\/theinformedamerican.net\/wp-admin\/admin-ajax.php"};
+var sfsi_icon_ajax_object = {"ajax_url":"http:\/\/theinformedamerican.net\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/theinformedamerican.net\/wp-content\/plugins\/ultimate-social-media-icons\/"};
+/* ]]> */
+</script>
+<script src="http://theinformedamerican.net/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=5.2.9" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cbExt = {"cbSS":"on","cbLb":"on"};
+/* ]]> */
+</script>
+<script src="http://theinformedamerican.net/wp-content/themes/valenti/library/js/jquery.ext.js?ver=5.5.4" type="text/javascript"></script>
+<script src="http://theinformedamerican.net/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4" type="text/javascript"></script>
+<script src="http://theinformedamerican.net/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cbScripts = {"cbUrl":"http:\/\/theinformedamerican.net\/wp-admin\/admin-ajax.php","cbPostID":null,"cbSlider":["600",true,"7000"]};
+/* ]]> */
+</script>
+<script src="http://theinformedamerican.net/wp-content/themes/valenti/library/js/cb-scripts.min.js?ver=5.5.4" type="text/javascript"></script>
+<script src="http://theinformedamerican.net/wp-includes/js/wp-embed.min.js?ver=5.2.9" type="text/javascript"></script>
+<script async="async" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.2.9" type="text/javascript"></script>
+</body>
+</html> <!-- The End. what a ride! -->
+<!-- Page generated by LiteSpeed Cache 3.6.1 on 2021-03-16 18:45:59 -->

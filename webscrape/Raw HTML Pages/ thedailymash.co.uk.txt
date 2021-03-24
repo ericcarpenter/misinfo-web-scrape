@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+
+<html lang="en-GB">
+<head>
+<title>The Daily Mash | satire</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="True" name="HandheldFriendly"/>
+<meta content="320" name="MobileOptimized"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<link href="/images/logo-square.png" rel="icon"/>
+<meta content="#000000" name="theme-color"/>
+<script>
+        window.dataLayer = [];
+        !function(){var e=document.createElement("script"),t=document.getElementsByTagName("script")[0],n="https://quantcast.mgr.consensu.org".concat("/choice/","EDqRupKXQvznL","/","thedailymash.co.uk","/choice.js"),a=0;e.async=!0,e.type="text/javascript",e.src=n,t.parentNode.insertBefore(e,t),function(){for(var e,i="__tcfapiLocator",a=[],s=window;s;){try{if(s.frames[i]){e=s;break}}catch(e){}if(s===window.top)break;s=s.parent}e||(!function e(){var t=s.document,n=!!s.frames[i];if(!n)if(t.body){var a=t.createElement("iframe");a.style.cssText="display:none",a.name=i,t.body.appendChild(a)}else setTimeout(e,5);return!n}(),s.__tcfapi=function(){var e,t=arguments;if(!t.length)return a;if("setGdprApplies"===t[0])3<t.length&&2===t[2]&&"boolean"==typeof t[3]&&(e=t[3],"function"==typeof t[2]&&t[2]("set",!0));else if("ping"===t[0]){var n={gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"};"function"==typeof t[2]&&t[2](n)}else a.push(t)},s.addEventListener("message",function(a){var i="string"==typeof a.data,e={};try{e=i?JSON.parse(a.data):a.data}catch(e){}var s=e.__tcfapiCall;s&&window.__tcfapi(s.command,s.version,function(e,t){var n={__tcfapiReturn:{returnValue:e,success:t,callId:s.callId}};i&&(n=JSON.stringify(n)),a.source.postMessage(n,"*")},s.parameter)},!1))}();var i=function(){var e=arguments;typeof window.__uspapi!==i&&setTimeout(function(){void 0!==window.__uspapi&&window.__uspapi.apply(window.__uspapi,e)},500)};if(void 0===window.__uspapi){window.__uspapi=i;var s=setInterval(function(){a++,window.__uspapi===i&&a<0?console.warn("USP is not accessible"):clearInterval(s)},6e3)}__tcfapi("addEventListener",2,function(e,t){t&&dataLayer.push({cmpGdprApplies:e.gdprApplies?"1":"0",cmpConsentString:e.tcString,event:"cmpConsentData"})}),document.addEventListener("click",function(e){var t=!1;try{t=-1<e.target.className.indexOf("js-cmp-manage-settings")}catch(e){}t&&(e.preventDefault(),__tcfapi("displayConsentUi",2,function(){}))})}();
+	</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-KRM7X9K');</script>
+<link href="//www.google.com" rel="dns-prefetch">
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="//v0.wordpress.com" rel="dns-prefetch"/>
+<link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro%3A400%2C600&amp;subset=latin-ext&amp;ver=5.6.1" id="source-serif-font-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.thedailymash.co.uk/wp-content/themes/mashtastic-new-front-2016/style.css?ver=5.6.1" id="style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.thedailymash.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=5.6.1" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="https://www.thedailymash.co.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.thedailymash.co.uk/wp-content/plugins/touchcarousel/touchcarousel/touchcarousel.css?ver=5.6.1" id="touchcarousel-frontend-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.thedailymash.co.uk/wp-content/plugins/touchcarousel/touchcarousel/white-inside-skin/white-inside-skin.css?ver=5.6.1" id="touchcarousel-skin-white-inside-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.thedailymash.co.uk/wp-content/plugins/touchcarousel/touchcarousel/minimal-light-skin/minimal-light-skin.css?ver=5.6.1" id="touchcarousel-skin-minimal-light-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.thedailymash.co.uk/wp-content/plugins/jetpack/css/jetpack.css?ver=9.4" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="pushpad-js" src="https://www.thedailymash.co.uk/wp-content/plugins/pushpad-custom/dist/pushBanner.js?ver=5.6.1" type="text/javascript"></script>
+<script id="jquery-core-js" src="https://www.thedailymash.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://www.thedailymash.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="main-js" src="https://www.thedailymash.co.uk/wp-content/themes/mashtastic-new-front-2016/js/main.js" type="text/javascript"></script>
+<script id="touchcarousel-js-js" src="https://www.thedailymash.co.uk/wp-content/plugins/touchcarousel/touchcarousel/jquery.touchcarousel.min.js?ver=1.0" type="text/javascript"></script>
+<link href="https://www.thedailymash.co.uk/wp-json/" rel="https://api.w.org/"/><link href="https://www.thedailymash.co.uk/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.thedailymash.co.uk/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.6.1" name="generator">
+<link href="https://wp.me/4OdUM" rel="shortlink"/>
+<style type="text/css">img#wpstats{display:none}</style> <style type="text/css">
+		.touchcarousel.tc-layout-2 .touchcarousel-item {
+	width: 652px;
+	height: 270px;
+	position: relative;
+	background: #2c2d2e;
+	margin-right: 10px;
+	overflow: hidden;
+}
+.touchcarousel.tc-layout-2 .tc-desc {
+	width: 222px;
+	padding: 10px 15px;
+	color: #FFF;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	display: block;
+	float: left;
+}
+.touchcarousel.tc-layout-2 .tc-image-holder {
+	display: block;
+	width: 400px;
+	height: 270xp;
+	float: left;
+}
+.touchcarousel.tc-layout-2 h4 a {
+	font-size: 22px;
+	line-height: 24px;
+	font-weight: bold;
+	color: #FFF;
+	border: 0;
+	text-decoration: none;
+}
+.touchcarousel.tc-layout-2 .tc-meta a,
+.touchcarousel.tc-layout-2 .tc-meta span {
+	font-size: 12px;
+	font-weight: normal;
+	color: #e3e5e3;
+	font-family: Georgia, serif;
+	font-style: italic;
+}
+.touchcarousel.tc-layout-2 span {
+	color: #FFF;
+}
+.touchcarousel.tc-layout-2 p {
+	color: #EEE;
+	font-size: 14px;
+	line-height: 16px;
+	margin: 7px 0 2px 0;
+	pading: 0;
+}
+.touchcarousel.tc-layout-2 a img {
+	max-width: none;
+	margin: 0;
+	padding: 0;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item {
+	width: 208px;
+	height: 250px;
+	margin-right: 14px;
+	position: relative;
+	overflow: hidden;
+	
+
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item p {
+	margin: 0;
+	padding: 0;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item .color-block{
+        background: #ebf3f3;
+        padding-bottom:3px;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item a.tc-state {
+	display: block;
+	width: 208px;
+	min-height: 170px;
+	position: relative;
+	text-decoration: none;
+	color: #3e4245;
+	
+	-webkit-transition: color 0.2s ease-out; 
+    -moz-transition: color 0.2s ease-out;  
+    -ms-transition: color 0.2s ease-out; 
+    -o-transition: color 0.2s ease-out; 
+    transition: color 0.2s ease-out;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item img {
+	max-width: none;
+	border: 0;
+	margin: 0;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item img, 
+.touchcarousel.tc-layout-4 .touchcarousel-item h4,
+.touchcarousel.tc-layout-4 .touchcarousel-item span {
+	position: relative;
+	margin: 0;
+	padding: 0;	
+	border: 0;			
+}
+.touchcarousel.tc-layout-4 .tc-block {
+	margin: 0 0px 0px 0px
+}
+
+.touchcarousel.tc-layout-4 .touchcarousel-item h4 {
+	font-size: 14px;
+	line-height: 1.4em;
+	padding: 0;
+	text-decoration: none;
+	font-family: 'Helvetica Neue', Arial, serif;
+	
+
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item a.tc-state:hover {
+	color: #13937a;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item span {
+	font-size: 12px;
+	color: #666;
+}
+		</style>
+<meta content="240526712627663" property="fb:app_id">
+<meta content="https://www.thedailymash.co.uk" property="og:url">
+<meta content="The Daily Mash" property="og:title">
+<meta content="The Daily Mash" property="og:site_name"/>
+<meta content="satire" property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="en_us" property="og:locale"/>
+</meta></meta></meta></meta></link></head>
+<body> <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KRM7X9K" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<div id="wrapper">
+<div id="header">
+<div class="MenuTriggerBox"><a class="MobileNavTrigger" href="#"> </a></div>
+<a class="mobile_logo" href="/">the dailymash</a>
+<div class="MobileNav" id="MobileNav">
+<a class="MobileClose" href="#"></a>
+<div class="menu-mobile-menu-container"><ul class="menu" id="menu-mobile-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103142" id="menu-item-103142"><a href="https://www.thedailymash.co.uk/shop">Shop</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19971" id="menu-item-19971"><a href="https://www.thedailymash.co.uk/news/society">Society</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19972" id="menu-item-19972"><a href="https://www.thedailymash.co.uk/news/business">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19973" id="menu-item-19973"><a href="https://www.thedailymash.co.uk/news/arts-entertainment">Arts &amp; Entertainment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19974" id="menu-item-19974"><a href="https://www.thedailymash.co.uk/news/celebrity">Celebrity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19975" id="menu-item-19975"><a href="https://www.thedailymash.co.uk/news/health">Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19976" id="menu-item-19976"><a href="https://www.thedailymash.co.uk/news/international">International</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19977" id="menu-item-19977"><a href="https://www.thedailymash.co.uk/news/science-technology">Science &amp; Technology</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19978" id="menu-item-19978"><a href="https://www.thedailymash.co.uk/sport/sport-headlines">Sport</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19979" id="menu-item-19979"><a href="https://www.thedailymash.co.uk/politics/politics-headlines">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19985" id="menu-item-19985"><a href="https://www.thedailymash.co.uk/news/war">War</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19984" id="menu-item-19984"><a href="https://www.thedailymash.co.uk/news/environment">Environment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19981" id="menu-item-19981"><a href="https://www.thedailymash.co.uk/animals/animals-headlines">Animals</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19980" id="menu-item-19980"><a href="https://www.thedailymash.co.uk/opinion/columnists">Columnists</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19982" id="menu-item-19982"><a href="https://www.thedailymash.co.uk/features/agony-aunt">Agony Aunt</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19983" id="menu-item-19983"><a href="https://www.thedailymash.co.uk/features/horoscopes">Horoscopes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19986" id="menu-item-19986"><a href="https://www.thedailymash.co.uk/news/in-pictures">In Pictures</a></li>
+</ul></div> </div>
+<div class="header_top">
+<div class="header_share">
+<div class="header_search">
+<div class="search_form">
+<form action="/" method="get">
+<fieldset>
+<span class="text">
+<input class="field" id="s" name="s" onblur="if(this.value=='') this.value='Search the mash';" onfocus="if(this.value=='Search the mash') this.value='';" type="text" value="Search the mash"/>
+</span>
+<input class="submit" id="searchsubmit" type="submit" value="Search"/>
+</fieldset>
+</form>
+</div>
+</div>
+<div class="share_buttons">
+<div class="header_twitter smService">
+<a class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" href="https://twitter.com/thedailymash">Follow</a>
+<script src="https://platform.twitter.com/widgets.js"></script>
+</div>
+<div class="header_facebook smService">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://www.facebook.com/plugins/like.php?app_id=120873814667108&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FThe-Daily-Mash%2F28373121592&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" style="border:none; overflow:hidden; width:100px; height:21px;"></iframe>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="InSkinHide" id="top-banner">
+<center>
+<ul></ul>
+</center>
+</div>
+<div class="logo_container">
+<div class="header_weather"></div>
+<h1 class="logo"><a href="/">the dailymash</a></h1>
+<div class="header_date">
+Wednesday, 17th March 2021 </div>
+<div class="clear"></div>
+</div>
+<div class="navbar">
+<div class="menu-main-menu-container"><ul class="menu" id="nav"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item" id="menu-item-10000"><a href="/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children havechild" id="menu-item-10001"><a href="https://www.thedailymash.co.uk/news">News</a><div class="drop">
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10009"><a href="https://www.thedailymash.co.uk/news/society">Society</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10007"><a href="https://www.thedailymash.co.uk/news/international">International</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10010"><a href="https://www.thedailymash.co.uk/news/war">War</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10003"><a href="https://www.thedailymash.co.uk/news/business">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10005"><a href="https://www.thedailymash.co.uk/news/environment">Environment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10006"><a href="https://www.thedailymash.co.uk/news/health">Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10008"><a href="https://www.thedailymash.co.uk/news/science-technology">Science &amp; Technology</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10002"><a href="https://www.thedailymash.co.uk/news/arts-entertainment">Arts &amp; Entertainment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10004"><a href="https://www.thedailymash.co.uk/news/celebrity">Celebrity</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-42207"><a href="https://www.thedailymash.co.uk/news-in-pictures/news-briefly">News Briefly</a></li>
+</ul>
+</div>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10013"><a href="https://www.thedailymash.co.uk/politics">Politics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-175431"><a href="https://www.thedailymash.co.uk/news/lifestyle">Lifestyle</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10014"><a href="https://www.thedailymash.co.uk/sport">Sport</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10012"><a href="https://www.thedailymash.co.uk/opinion">Opinion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10015"><a href="https://www.thedailymash.co.uk/features/agony-aunt">Agony Aunt</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category" id="menu-item-10016"><a href="https://www.thedailymash.co.uk/features/horoscopes">Psychic Bob</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-10017"><a href="https://www.thedailymash.co.uk/shop">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-47860"><a href="https://www.thedailymash.co.uk/mash-books">Mash Books</a></li>
+</ul></div> </div>
+</div><div class="Home clearfix" id="main">
+<div id="content">
+<div class="fb-like">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://www.facebook.com/plugins/like.php?app_id=120873814667108&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FThe-Daily-Mash%2F28373121592&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" style="border:none; overflow:hidden; width:100px; height:21px;"></iframe>
+</div>
+<div class="news-box featured hidden">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/media/the-timeline-of-the-daily-mails-vendetta-against-meghan-from-now-to-2081ad-20210316206233">The timeline of the Daily Mail’s vendetta against Meghan from now to 2081AD</a>
+</h2>
+<a class="image-anchor hidden" href="https://www.thedailymash.co.uk/news/media/the-timeline-of-the-daily-mails-vendetta-against-meghan-from-now-to-2081ad-20210316206233">
+<img alt="" class="flex-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316120148/daily-mail-headline-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316120148/daily-mail-headline-667x375-1-180x180.jpg" height="239" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316120148/daily-mail-headline-667x375-1-425x239.jpg" width="425"/> </a>
+<p>THE Daily Mail shows no sign of ending its incensed vendetta against the Duchess of Sussex. Here’s how it will continue for the next six decades.</p>
+</div>
+<div class="news-box featured hidden">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/alcohol/how-drunk-can-you-get-at-online-cheltenham-20210316206229">How drunk can you get at online Cheltenham?</a>
+</h2>
+<a class="image-anchor hidden" href="https://www.thedailymash.co.uk/news/alcohol/how-drunk-can-you-get-at-online-cheltenham-20210316206229">
+<img alt="" class="flex-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316113645/horse-racing-tv-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316113645/horse-racing-tv-667x375-1-180x180.jpg" height="239" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316113645/horse-racing-tv-667x375-1-425x239.jpg" width="425"/> </a>
+<p>CHELTENHAM Festival has always been the perfect excuse to get wrecked from 10am while pretending to watch horses. But how can you reproduce that online?</p>
+</div>
+<div class="news-box featured hidden">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/war/seven-countries-britain-could-invade-to-cheer-itself-up-20210316206224">Seven countries Britain could invade to cheer itself up</a>
+</h2>
+<a class="image-anchor hidden" href="https://www.thedailymash.co.uk/news/war/seven-countries-britain-could-invade-to-cheer-itself-up-20210316206224">
+<img alt="" class="flex-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316101736/british-army-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316101736/british-army-667x375-1-180x180.jpg" height="239" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316101736/british-army-667x375-1-425x239.jpg" width="425"/> </a>
+<p>BORIS Johnson has promised to use force to defend the Falklands in a retro callback to 1982. But who should we really invade unprovoked to restore our national pride?</p>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/arts-entertainment/springwatch-renamed-vole-love-island-20210316206216">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316080919/vole-eating-berries-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316080919/vole-eating-berries-667x375-1-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316080919/vole-eating-berries-667x375-1-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/arts-entertainment/springwatch-renamed-vole-love-island-20210316206216">Springwatch renamed Vole Love Island</a>
+</h2>
+<p>THE BBC is changing the name of flagship nature show <em>Springwatch</em> to <em>Vole Love Island</em> to appeal to a younger, sexier demographic.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/arts-entertainment/the-oscars-for-films-youve-actually-seen-20210316206213">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316004139/oscar-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316004139/oscar-667x375-1-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316004139/oscar-667x375-1-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/arts-entertainment/the-oscars-for-films-youve-actually-seen-20210316206213">The Oscars for films you’ve actually seen</a>
+</h2>
+<p>ARE you unlikely to ever watch <em>Ma Rainey’s Black Bottom</em> or <em>Mank,</em> no matter how many Oscars they win? How about Oscars for fims you’ve definitely seen instead?</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/politics/politics-headlines/register-dissent-by-writing-a-letter-in-your-head-priti-patels-guide-to-reasonable-protesting-20210316206209">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316000556/priti-patel-in-the-commons-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316000556/priti-patel-in-the-commons-667x375-1-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210316000556/priti-patel-in-the-commons-667x375-1-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/politics/politics-headlines/register-dissent-by-writing-a-letter-in-your-head-priti-patels-guide-to-reasonable-protesting-20210316206209">Register dissent by writing a letter in your head: Priti Patel’s guide to reasonable protesting</a>
+</h2>
+<p>HI, Priti here. Don’t reply, that would be far too noisy and you’ll be detained.</p>
+</div>
+</div>
+<li class="widget newsletter-signup" id="newsletter_signup-4">
+<style>
+
+			.newsletter-signup {
+				margin: 30px 0;
+				padding: 20px 15px;
+				background-color: #f5f5f5;
+				list-style: none;
+				border-bottom: 1px solid #c6c6c6;
+			}
+
+			#story .newsletter-signup {
+				padding: 8px 0;
+				border-top: 5px solid #4bb9f8;
+			}
+
+			#story .fullstory.no-image .newsletter-signup {
+				margin: 5px auto 22px auto;
+				max-width: 536px;
+			}
+
+			#story .newsletter-signup form {
+				text-align: center;
+			}
+
+			#story .newsletter-signup fieldset {
+				display: inline-block;
+			}
+
+			.newsletter-signup img {
+				display: block;
+				margin: 0 auto 10px auto;
+				width: 100%;
+				height: auto;
+				max-width: 191px;
+				max-height: 44px;
+			}
+
+			#story .newsletter-signup img {
+				display: none;
+			}
+
+			.newsletter-signup label {
+				display: inline-block;
+				margin-right: 5px;
+				padding: 14px 0;
+				color: #67686a;
+				font-size: 15px;
+				text-align: center;
+			}
+
+			.Home .newsletter-signup label {
+				display: block;
+				margin: 0 auto 15px auto;
+				padding: 0;
+				font-size: 16px;
+			}
+
+			#story .fullstory.no-image .newsletter-signup img {
+				margin: 0 auto 15px auto;
+			}
+
+			.newsletter-signup .input-wrapper {
+				position: relative;
+				background-color: #67686a;
+				-webkit-border-radius: 10px;
+				-moz-border-radius: 10px;
+				border-radius: 10px;
+				max-width: 270px;
+				margin: 0 auto;
+			}
+
+			#story .newsletter-signup .input-wrapper {
+				margin: 0;
+				float: left;
+				border-radius: 10px 0 0 10px;
+			}
+
+			.newsletter-signup input[type="email"] {
+				display: block;
+				padding: 10px 12px;
+				width: 100%;
+				overflow: hidden;
+				font-size: 15px;
+				color: #fff;
+				background-color: transparent;
+				border: none;
+				-webkit-box-sizing: border-box;
+				-moz-box-sizing: border-box;
+				box-sizing: border-box;
+			}
+
+			.newsletter-signup input[type="email"]::-webkit-input-placeholder {
+				color: #e6e6e6;
+				font-style: italic;
+			}
+
+			.newsletter-signup input[type="email"]::-moz-placeholder {
+				color: #e6e6e6;
+				font-style: italic;
+			}
+
+			.newsletter-signup input[type="email"]:-ms-input-placeholder {
+				color: #e6e6e6;
+				font-style: italic;
+			}
+
+			.newsletter-signup input[type="email"]:-moz-placeholder {
+				color: #e6e6e6;
+				font-style: italic;
+			}
+
+			.newsletter-signup input[type="submit"] {
+				display: block;
+				margin: 15px auto;
+				padding: 10px 15px;
+				font-size: 15px;
+				color: #fff;
+				background-color: #4bb9f8;
+				border: none;
+				-webkit-border-radius: 10px;
+				-moz-border-radius: 10px;
+				border-radius: 10px;
+				-webkit-appearance: none;
+			}
+
+			#story .newsletter-signup input[type="submit"] {
+				margin: 0;
+				border-radius: 0 10px 10px 0;
+			}
+
+			.clear-after:after {
+				content: "";
+				display: table;
+				clear: both;
+			}
+
+			@media screen and (min-width: 769px) {
+
+				.newsletter-signup {
+					margin: 0;
+				}
+
+				#story .newsletter-signup {
+					margin: 3px 0 20px 0;
+					max-width: 100%;
+				}
+
+				.newsletter-signup input[type="email"] {
+					width: 270px;
+				}
+
+				#story .newsletter-signup input[type="email"] {
+					width: 246px;
+				}
+			}
+
+			@media screen and (max-width: 768px) {
+
+				#story .newsletter-signup .input-wrapper {
+					width: 65%;
+				}
+
+				#story .newsletter-signup input[type="submit"] {
+					padding: 10px 0;
+					width: 35%;
+					text-align: center;
+				}
+
+				#story.wrapper-squashed #wrapper {
+					padding: 0 10px;
+				}
+
+				#story #bottom_modules {
+					padding: 1px 0 0 0;
+				}
+
+				#story .newsletter-signup {
+					margin: 10px 0 15px 0;
+					padding: 10px;
+					border-top: 5px solid #4bb9f8;
+				}
+
+				#story .newsletter-signup label {
+					margin: 0 auto 8px auto;
+					font-size: 15px;
+				}
+
+				#story.wrapper-squashed .newsletter-signup input {
+				    padding: 10px 0;
+				    font-size: 13px;
+				}
+
+				#story.wrapper-squashed #content {
+					padding: 0;
+				}
+
+				#story.wrapper-squashed .newsletter-signup .input-wrapper {
+					width: 60%;
+				}
+
+				#story.wrapper-squashed .newsletter-signup input[type="email"] {
+				    padding: 10px 13px;
+				}
+
+				#story.wrapper-squashed .newsletter-signup input[type="submit"] {
+					width: 40%;
+				}
+			}
+
+		</style>
+<img src="https://www.thedailymash.co.uk/wp-content/plugins/mash-newsletter-signup-widget//images/logo-m-blue-retina.png"/>
+<form action="https://thedailymash.us8.list-manage.com/subscribe/post?u=d4285524082253968fcbd1a45&amp;id=6c9c2fcf0b&amp;group[9]=1" class="validate clear-after" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<label for="mce-EMAIL"><strong>Get Daily Mash headlines:</strong></label>
+<fieldset>
+<div class="input-wrapper">
+<input class="email" id="mce-EMAIL" name="EMAIL" placeholder="Your email address" required="" type="email" value=""/>
+<div aria-hidden="true" style="position: absolute; left: -5000px;">
+<input name="b_d4285524082253968fcbd1a45_bbea941d4b" tabindex="-1" type="text" value=""/>
+</div>
+</div>
+<input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"/>
+</fieldset>
+</div>
+</form>
+<script>
+
+			var $ = jQuery.noConflict();
+			var storyInput = $('#story .newsletter-signup .input-wrapper input');
+			var win = $(window);
+
+			if(storyInput.length) {
+
+				function update() {
+
+					var placeholderText = 'Your email address';
+
+					if(win.width() < 375) {
+
+						placeholderText = 'Your email';
+					}
+
+					storyInput.attr('placeholder', placeholderText);
+				}
+
+				win.on('resize', update);
+				update();
+			}
+		</script>
+</li>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/business/a-single-pritt-stick-and-other-things-delivery-drivers-have-risked-their-lives-to-bring-you-20210315206199">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315103649/delivery-driver-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315103649/delivery-driver-667x375-1-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315103649/delivery-driver-667x375-1-180x180.jpg" width="180"> </img></a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/business/a-single-pritt-stick-and-other-things-delivery-drivers-have-risked-their-lives-to-bring-you-20210315206199">A single Pritt Stick, and other things delivery drivers have risked their lives to bring you</a>
+</h2>
+<p>BORED? Identified a possible need in your life and gratified it with a click? A chain of people now battling to bring it? Here’s how your purchase affects them.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/science-technology/six-things-to-not-understand-about-bitcoin-20210315206189">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315072028/golden-bitcoin-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315072028/golden-bitcoin-667x375-1-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315072028/golden-bitcoin-667x375-1-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/science-technology/six-things-to-not-understand-about-bitcoin-20210315206189">Six things to not understand about Bitcoin</a>
+</h2>
+<p>WANT to know how Bitcoin and cryptocurrency work? Life’s too short for that, so follow our quick guide to really not getting it instead.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/environment/how-to-disconnect-from-nature-post-lockdown-20210315206196">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315092931/country-walk-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315092931/country-walk-667x375-1-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315092931/country-walk-667x375-1-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/environment/how-to-disconnect-from-nature-post-lockdown-20210315206196">How to disconnect from nature post-lockdown</a>
+</h2>
+<p>THE UK has never been more in touch with nature than during this last interminable lockdown where there’s nothing to do but go for a muddy walk. Here’s how to stop:</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/celebrity/royal-family-only-family-without-racists-in-it-20210315206186">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315000026/william-and-kate-667x375-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315000026/william-and-kate-667x375-1-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210315000026/william-and-kate-667x375-1-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/celebrity/royal-family-only-family-without-racists-in-it-20210315206186">Royal Family only family without racists in it</a>
+</h2>
+<p>THE Royal family is the only family in Britain without a single racist member, Buckingham Palace has confirmed.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/society/met-police-were-just-trying-to-reinforce-message-that-women-arent-safe-at-night-20210315206183">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210314233324/women-vigil-667x380-1-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210314233324/women-vigil-667x380-1-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210314233324/women-vigil-667x380-1-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/society/met-police-were-just-trying-to-reinforce-message-that-women-arent-safe-at-night-20210315206183">Met Police were just trying to reinforce message that women aren’t safe at night</a>
+</h2>
+<p>THE Metropolitan Police explained they only violently assaulted a women’s vigil to remind women why they should stay home at night.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/food/ready-meals-not-ready-enough-single-man-complains-20210312206112">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312115139/dreamstime_xxl_185178210-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312115139/dreamstime_xxl_185178210-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312115139/dreamstime_xxl_185178210-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/food/ready-meals-not-ready-enough-single-man-complains-20210312206112">Ready meals not ready enough, single man complains</a>
+</h2>
+<p>A SINGLE man has complained that so-called 'ready meals' still require a minimal effort to prepare.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/society/have-you-got-the-mad-skillz-to-help-a-reversing-lorry-20210312206094">
+<img alt="Lorry driver reversing" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312112432/dreamstime_xxl_196837960-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312112432/dreamstime_xxl_196837960-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312112432/dreamstime_xxl_196837960-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/society/have-you-got-the-mad-skillz-to-help-a-reversing-lorry-20210312206094">Have you got the mad skillz to help a reversing lorry?</a>
+</h2>
+<p>DO you possess the high levels of self-assurance needed to help a lorry driver reverse a massive dangerous vehicle? Find out with our quiz.
+ </p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/arts-entertainment/parents-hoping-child-will-develop-moral-compass-from-watching-disney-films-20210312206148">
+<img alt="Girl watching television" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312144303/dreamstime_xxl_53278544-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312144303/dreamstime_xxl_53278544-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312144303/dreamstime_xxl_53278544-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/arts-entertainment/parents-hoping-child-will-develop-moral-compass-from-watching-disney-films-20210312206148">Parents hoping child will develop moral compass from watching Disney films</a>
+</h2>
+<p>A COUPLE are optimistic that watching Disney films will teach their daughter key life lessons they cannot be arsed to impart themselves.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/relationships/how-has-being-an-only-child-turned-you-into-a-dreadful-adult-20210312206127">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312124337/dreamstime_xxl_68488848-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312124337/dreamstime_xxl_68488848-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312124337/dreamstime_xxl_68488848-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/relationships/how-has-being-an-only-child-turned-you-into-a-dreadful-adult-20210312206127">How has being an only child turned you into a dreadful adult?</a>
+</h2>
+<p>DID you enjoy the undivided attention of your parents? Have you turned out to be an insufferable adult? Here’s how it f**ked you up.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/society/mum-treated-to-horrible-breakfast-shit-card-and-cleaning-up-the-kitchen-20210312206154">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312150718/dreamstime_xxl_206270435-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312150718/dreamstime_xxl_206270435-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312150718/dreamstime_xxl_206270435-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/society/mum-treated-to-horrible-breakfast-shit-card-and-cleaning-up-the-kitchen-20210312206154">Mum treated to horrible breakfast, shit card and cleaning up the kitchen</a>
+</h2>
+<p>A MOTHER-OF-TWO has awoken to the relaxing sound of her children being shouted at to make Mother’s Day cards while buggering up her breakfast.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/food/woman-spends-evening-amending-tesco-order-230-times-20210312206134">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312141937/dreamstime_xxl_181740144-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312141937/dreamstime_xxl_181740144-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312141937/dreamstime_xxl_181740144-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/food/woman-spends-evening-amending-tesco-order-230-times-20210312206134">Woman spends evening amending Tesco order 230 times</a>
+</h2>
+<p>A WOMAN has wasted an entire evening of her life amending her Tesco delivery.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/relationships/five-mothers-day-presents-that-say-im-sorry-i-destroyed-your-pelvic-floor-20210312206120">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312122212/dreamstime_xxl_176832833-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312122212/dreamstime_xxl_176832833-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312122212/dreamstime_xxl_176832833-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/relationships/five-mothers-day-presents-that-say-im-sorry-i-destroyed-your-pelvic-floor-20210312206120">Five Mother’s Day presents that say ‘I’m sorry I destroyed your pelvic floor’</a>
+</h2>
+<p>LOVE your mum? Conscious that your birth ravaged her and left her incontinent? Here are five gifts that say 'Thanks, also sorry'.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/arts-entertainment/line-of-duty-and-other-hit-shows-its-far-too-late-to-get-into-20210312206164">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190407080211/lineofduty-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190407080211/lineofduty-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190407080211/lineofduty-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/arts-entertainment/line-of-duty-and-other-hit-shows-its-far-too-late-to-get-into-20210312206164">Line of Duty and other hit shows it’s far too late to get into</a>
+</h2>
+<p>WE'RE living in a golden age of TV which you're ignoring whilst you scroll mindlessly through your phone every evening. Here are some classics that it's way too late to get into.</p>
+</div>
+</div>
+<div class="news-box hidden">
+<div class="image">
+<a href="https://www.thedailymash.co.uk/news/celebrity/im-not-racist-ive-got-a-mixed-race-sister-in-law-says-william-20210312206072">
+<img alt="" class="fixed-thumb wp-post-image" data-full-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210311234117/wills-prince-william-2-425x239.jpg" data-thumb-src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210311234117/wills-prince-william-2-180x180.jpg" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210311234117/wills-prince-william-2-180x180.jpg" width="180"/> </a>
+</div>
+<div class="holder">
+<h2>
+<a href="https://www.thedailymash.co.uk/news/celebrity/im-not-racist-ive-got-a-mixed-race-sister-in-law-says-william-20210312206072">‘I’m not racist, I’ve got a mixed-race sister-in-law’ says William</a>
+</h2>
+<p><span style="font-weight: 400;">PRINCE William has defended the Royal Family from accusations of racism by pointing out his connection to a woman of colour who hates them.</span></p>
+</div>
+</div>
+<div class="read-more" id="home-read-more">
+<div class="pager"><a class="pagenav next" href="https://www.thedailymash.co.uk/page/2">NEXT &gt;</a></div>
+</div>
+</div>
+<ul id="aside">
+<li class="widget mash_front_list" id="mash-front-list-widget-14"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/features">Features</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/features/five-weekend-activities-that-say-this-relationship-is-dead-20200228194007"><img alt="" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20200228154207/dreamstime_s_95163745-1-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/features/five-weekend-activities-that-say-this-relationship-is-dead-20200228194007">Five weekend activities that say 'this relationship is dead'</a></div></li><li><a href="https://www.thedailymash.co.uk/features/boris-johnsons-guide-to-levelling-up-your-life-20200228194023">Boris Johnson's guide to 'levelling up' your life</a></li><li><a href="https://www.thedailymash.co.uk/features/the-social-media-arsholes-guide-to-being-right-20200221193758">The social media ars*hole's guide to being right</a></li><li><a href="https://www.thedailymash.co.uk/features/four-ikea-products-in-urgent-need-of-a-brexit-makeover-20200217193542">Four IKEA products in urgent need of a Brexit makeover</a></li><li><a href="https://www.thedailymash.co.uk/features/six-fun-things-to-do-with-your-brexit-50p-20200127192892">Six fun things to do with your Brexit 50p</a></li><li><a href="https://www.thedailymash.co.uk/features/it-sounds-completely-insane-but-i-genuinely-like-my-kids-20200127192866">'It sounds completely insane, but I genuinely like my kids'</a></li><li><a href="https://www.thedailymash.co.uk/features/this-years-top-five-bullsht-food-trends-20200110192461">This year’s top five bullsh*t food trends</a></li><li><a href="https://www.thedailymash.co.uk/features/how-to-go-easy-on-people-who-wear-hats-20200110192457">How to go easy on people who wear hats</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget mash_front_list" id="mash-front-list-widget-5"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/news/arts-entertainment">Arts &amp; Entertainment</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/news/arts-entertainment/the-six-people-who-are-getting-kicked-off-your-netflix-account-20210312206093"><img alt="" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312103043/netflix-2-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/news/arts-entertainment/the-six-people-who-are-getting-kicked-off-your-netflix-account-20210312206093">The six people who are getting kicked off your Netflix account</a></div></li><li><a href="https://www.thedailymash.co.uk/news/arts-entertainment/five-fictional-men-your-wife-secretly-compares-you-to-20210310206028">Five fictional men your wife secretly compares you to</a></li><li><a href="https://www.thedailymash.co.uk/news/arts-entertainment/six-classic-public-information-films-updated-for-today-20210309206001">Six classic public information films updated for today</a></li><li><a href="https://www.thedailymash.co.uk/news/arts-entertainment/i-was-rinsing-breaking-bad-last-night-why-do-you-ask-says-queen-20210309206013">'I was rinsing Breaking Bad last night, why do you ask?' says Queen</a></li><li><a href="https://www.thedailymash.co.uk/news/arts-entertainment/cast-away-2-wilsons-odyssey-and-other-movie-sequels-that-should-have-been-20210308205973">Cast Away 2: Wilson's Odyssey, and other movie sequels that should have been</a></li><li><a href="https://www.thedailymash.co.uk/news/arts-entertainment/six-books-arseholes-always-recommend-to-you-20210305205893">Six books arseholes always recommend to you</a></li><li><a href="https://www.thedailymash.co.uk/news/arts-entertainment/from-celebrity-chef-to-host-of-a-shit-game-show-gordon-ramsay-in-his-own-words-20210304205850">From celebrity chef to host of a shit game show: Gordon Ramsay in his own words</a></li><li><a href="https://www.thedailymash.co.uk/news/arts-entertainment/are-you-middle-aged-enough-to-get-a-shout-out-on-radio-2-20210301205774">Are you middle-aged enough to get a shout out on Radio 2?</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget mash_front_list" id="mash-front-list-widget-12"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/news/business">Business</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/news/business/how-to-lose-money-in-just-30-minutes-20210222205569"><img alt="" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210222002540/man-burning-money-667x375-1-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/news/business/how-to-lose-money-in-just-30-minutes-20210222205569">How to lose money in just 30 minutes</a></div></li><li><a href="https://www.thedailymash.co.uk/news/business/farmers-and-fishermen-urged-to-pay-attention-to-how-farming-and-fishing-works-20210202204887">Farmers and fishermen urged to pay attention to how farming and fishing works</a></li><li><a href="https://www.thedailymash.co.uk/news/business/how-to-earn-12-43-on-ebay-for-40-hours-work-20210122204608">How to earn £12.43 on eBay for 40 hours work</a></li><li><a href="https://www.thedailymash.co.uk/news/business/what-to-do-if-youve-been-shafted-by-brexit-by-a-brexiter-20210115204286">What to do if you've been shafted by Brexit, by a Brexiter</a></li><li><a href="https://www.thedailymash.co.uk/news/business/the-brexiters-guide-to-buying-british-20210104203964">The Brexiter's guide to buying British</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget mash_front_list" id="mash-front-list-widget-13"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/news/environment">Environment</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/news/environment/twats-out-and-about-and-the-other-signs-spring-has-sprung-20210310206034"><img alt="" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210310102131/crowds-south-bank-667x375-1-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/news/environment/twats-out-and-about-and-the-other-signs-spring-has-sprung-20210310206034">Twats out and about, and the other signs spring has sprung</a></div></li><li><a href="https://www.thedailymash.co.uk/news/environment/beautiful-dusting-of-white-snow-the-last-thing-we-fking-need-20210208205100">Beautiful dusting of white snow the last thing we f**king need</a></li><li><a href="https://www.thedailymash.co.uk/news/environment/insurer-disgusted-by-suggestion-it-might-have-to-pay-out-over-floods-20210121204502">Insurer disgusted by suggestion it might have to 'pay out' over floods</a></li><li><a href="https://www.thedailymash.co.uk/news/environment/what-to-do-if-youre-a-british-crab-who-cant-get-to-the-eu-20210120204468">What to do if you're a British crab who can't get to the EU</a></li><li><a href="https://www.thedailymash.co.uk/news/environment/cocky-motorists-to-drive-into-unexpectedly-deep-floods-20210120204435">Cocky motorists to drive into unexpectedly deep floods</a></li> </ul>
+<div class="clear"></div>
+</li>
+</ul>
+<ul id="sidebar">
+<li class="widget php_widget indie-title" id="php_widget-64"><h3>Most Popular</h3>
+<iframe frameborder="0" height="500" src="/most-popular.php" width="300"></iframe></li>
+<li class="widget php_widget midpoint" id="php_widget-25"><iframe allow="encrypted-media" allowtransparency="true" frameborder="0" height="180" scrolling="no" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fthedailymash%2F&amp;tabs&amp;width=300&amp;height=180&amp;small_header=false&amp;adapt_container_width=false&amp;hide_cover=false&amp;show_facepile=true&amp;appId=171101343452291" style="border:none;overflow:hidden" width="300"></iframe></li>
+</ul>
+<div class="clearfix" id="content-bottom">
+<div id="video-box">
+<div class="touchcarousel white-inside tc-layout-2" id="touchcarousel-1" style="width:652px;  height:270px; ">
+<ul class="touchcarousel-container">
+<li class="touchcarousel-item">
+<div class="tc-desc">
+<h4><a href="https://www.thedailymash.co.uk/news/society/freshers-working-hard-on-ridiculous-personas-2019081279027">Freshers working hard on ridiculous personas</a></h4>
+<p class="tc-excerpt">TEENAGERS about to start university are developing absurd new personalities in an attempt to seem interesting.</p>
+</div>
+<a class="tc-image-holder" href="https://www.thedailymash.co.uk/news/society/freshers-working-hard-on-ridiculous-personas-2019081279027"><img alt="" class="attachment-touchcarousel size-touchcarousel wp-post-image" height="270" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324213518/hatman-400x270.jpg" width="400"/></a> </li>
+<li class="touchcarousel-item">
+<div class="tc-desc">
+<h4><a href="https://www.thedailymash.co.uk/politics/politics-headlines/man-who-cant-stop-talking-shite-clearly-ideal-for-important-negotiations-20190613120484">Man who can't stop talking boll*cks clearly ideal for Brexit negotiations</a></h4>
+<p class="tc-excerpt"><span class="s1">BORIS Johnson’s incessant flow of bullsh*t is perfect for Brexit negotiations, it has been claimed.</span></p>
+</div>
+<a class="tc-image-holder" href="https://www.thedailymash.co.uk/politics/politics-headlines/man-who-cant-stop-talking-shite-clearly-ideal-for-important-negotiations-20190613120484"><img alt="" class="attachment-touchcarousel size-touchcarousel wp-post-image" height="265" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324211959/boris-fucking-johnson-425x265-400x265.jpg" width="400"/></a> </li>
+<li class="touchcarousel-item">
+<div class="tc-desc">
+<h4><a href="https://www.thedailymash.co.uk/news/arts-entertainment/predator-to-win-all-film-awards-for-25th-consecutive-year-2019022455169">'Predator' to win all film awards for 30th consecutive year</a></h4>
+<p class="tc-excerpt">PREDATOR is set to continue its unbroken run of winning every film prize since 1988.</p>
+</div>
+<a class="tc-image-holder" href="https://www.thedailymash.co.uk/news/arts-entertainment/predator-to-win-all-film-awards-for-25th-consecutive-year-2019022455169"><img alt="" class="attachment-touchcarousel size-touchcarousel wp-post-image" height="270" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190309171635/pred425-400x270.jpg" width="400"/></a> </li>
+<li class="touchcarousel-item">
+<div class="tc-desc">
+<h4><a href="https://www.thedailymash.co.uk/news/society/berlin-to-send-back-thousands-of-british-hipsters-20170119120532">Berlin to send back thousands of British hipsters</a></h4>
+<p class="tc-excerpt">BERLIN will return thousands of hipsters when Britain fully departs the EU, it has emerged.</p>
+</div>
+<a class="tc-image-holder" href="https://www.thedailymash.co.uk/news/society/berlin-to-send-back-thousands-of-british-hipsters-20170119120532"><img alt="" class="attachment-touchcarousel size-touchcarousel wp-post-image" height="265" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324211958/hip425-1-400x265.jpg" width="400"/></a> </li>
+<li class="touchcarousel-item">
+<div class="tc-desc">
+<h4><a href="https://www.thedailymash.co.uk/politics/politics-headlines/no-really-whats-the-plan-though-may-asked-20170118120398">No, really, what's the plan, though? May asked</a></h4>
+<p class="tc-excerpt"><span class="s1">THERESA May has been told that yesterday's speech was great fun but she now needs to announce the real Brexit plan.</span></p>
+</div>
+<a class="tc-image-holder" href="https://www.thedailymash.co.uk/politics/politics-headlines/no-really-whats-the-plan-though-may-asked-20170118120398"><img alt="" class="attachment-touchcarousel size-touchcarousel wp-post-image" height="265" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324213407/theresa-may-425x265-400x265.jpg" width="400"/></a> </li>
+<li class="touchcarousel-item">
+<div class="tc-desc">
+<h4><a href="https://www.thedailymash.co.uk/news/society/unstable-friend-now-somehow-a-counsellor-20170117120344">Unstable friend now somehow a counsellor</a></h4>
+<p class="tc-excerpt"><span class="s1">A WOMAN with a chaotic personal life and a history of believing in total nonsense is now being paid to give people advice, shocked friends have revealed.</span></p>
+</div>
+<a class="tc-image-holder" href="https://www.thedailymash.co.uk/news/society/unstable-friend-now-somehow-a-counsellor-20170117120344"><img alt="" class="attachment-touchcarousel size-touchcarousel wp-post-image" height="265" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190324212003/woman425-17-400x265.jpg" width="400"/></a> </li>
+</ul>
+</div><script type="text/javascript">
+jQuery(document).ready(function($) {$("#touchcarousel-1").touchCarousel({"snapToItems":true,"pagingNavControls":true,"itemsPerMove":1,"loopItems":true,"directionNav":true,"directionNavAutoHide":true,"autoplay":true,"autoplayDelay":7000,"autoplayStopAtAction":true,"keyboardNav":false,"dragUsingMouse":true,"transitionSpeed":400,"itemFallbackWidth":300,"scrollbar":false,"scrollbarAutoHide":true,"scrollbarTheme":"dark"});});
+</script> </div>
+<div id="front-middle">
+<div class="touchcarousel minimal-light tc-layout-4" id="touchcarousel-2" style="width:652px;  height:250px; ">
+<ul class="touchcarousel-container">
+<li class="touchcarousel-item">
+<a class="tc-state" href="https://www.thedailymash.co.uk/features/agony-aunt/agony-aunt-dear-boris-under-no-circumstances-should-you-call-someone-a-fannybadger-20170427126726">
+<div class="color-block">
+<div class="tc-block">
+<h4>Agony Aunt: Dear Boris, Under no circumstances should you call someone a 'fannybadger'</h4>
+</div>
+</div>
+<img alt="" class="attachment-large-thumb size-large-thumb wp-post-image" height="120" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190309171303/holly21111111-174x120.jpeg" width="174"/>
+</a>
+<div class="tc-block"><p><span class="x_s1">Dear Holly, Can you help me come up with an insult that is more accessible to the ignorant underclasses? Yours, Boris<br/>
+</span></p>
+</div> </li>
+<li class="touchcarousel-item">
+<a class="tc-state" href="https://www.thedailymash.co.uk/features/agony-aunt/ask-holly-were-going-to-put-on-a-massive-concert-to-end-nigel-farage-do-you-think-we-can-pull-it-off-20160616109586">
+<div class="color-block">
+<div class="tc-block">
+<h4>Ask Holly: We're going to put on a massive concert to end Nigel Farage - Do you think we can pull it off?</h4>
+</div>
+</div>
+<img alt="" class="attachment-large-thumb size-large-thumb wp-post-image" height="120" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190309171303/holly21111111-174x120.jpeg" width="174"/>
+</a>
+<div class="tc-block"><p>If Brexit happens the British people will no longer have access to Nutella or Toblerone or Ferrero Rocher, which would be nothing short of a CATASTROPHE.</p>
+</div> </li>
+<li class="touchcarousel-item">
+<a class="tc-state" href="https://www.thedailymash.co.uk/features/agony-aunt/dear-holly-do-you-think-ive-got-that-lyme-disease-or-something-20150903101695">
+<div class="color-block">
+<div class="tc-block">
+<h4>Dear Holly: Do you think I've got that Lyme disease or something?</h4>
+</div>
+</div>
+<img alt="" class="attachment-large-thumb size-large-thumb wp-post-image" height="120" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190309171303/holly21111111-174x120.jpeg" width="174"/>
+</a>
+<div class="tc-block"><p>“After about nine months there is an intense searing pain in my crotch and, weirdly, I hear a baby crying.”</p>
+</div> </li>
+<li class="touchcarousel-item">
+<a class="tc-state" href="https://www.thedailymash.co.uk/features/agony-aunt/dear-holly-ive-basically-been-fannying-about-20150827101536">
+<div class="color-block">
+<div class="tc-block">
+<h4>Dear Holly: "I've basically been fannying about"</h4>
+</div>
+</div>
+<img alt="" class="attachment-large-thumb size-large-thumb wp-post-image" height="120" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190309171303/holly21111111-174x120.jpeg" width="174"/>
+</a>
+<div class="tc-block"><p>I’m in the shit. I need an excuse, and quick, can you help? Yours, Sir John Chilcot</p>
+</div> </li>
+<li class="touchcarousel-item">
+<a class="tc-state" href="https://www.thedailymash.co.uk/features/agony-aunt/99401-2015061899401">
+<div class="color-block">
+<div class="tc-block">
+<h4>Ask Holly: How can I ensure my retorts are always witty in future?</h4>
+</div>
+</div>
+<img alt="" class="attachment-large-thumb size-large-thumb wp-post-image" height="120" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20190309171303/holly21111111-174x120.jpeg" width="174"/>
+</a>
+<div class="tc-block"><p>Dear Holly,<br/>
+The other day I got involved in an exchange of  words with a taxi driver and only later did I think of something funny  to say, but by then it was too late.</p>
+</div> </li>
+</ul>
+</div><script type="text/javascript">
+jQuery(document).ready(function($) {$("#touchcarousel-2").touchCarousel({"snapToItems":true,"pagingNavControls":true,"itemsPerMove":3,"loopItems":true,"directionNav":true,"directionNavAutoHide":true,"autoplay":true,"autoplayDelay":10000,"autoplayStopAtAction":true,"keyboardNav":false,"dragUsingMouse":true,"transitionSpeed":400,"itemFallbackWidth":300,"scrollbar":false,"scrollbarAutoHide":true,"scrollbarTheme":"dark"});});
+</script> </div>
+<ul id="front-bottom">
+<li class="widget mash_front_list" id="mash-front-list-widget-8"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/news/health">Health</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/news/health/a-boots-meal-deal-five-things-nhs-nurses-can-buy-with-an-extra-3-50-a-week-20210305205912"><img alt="" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210305110746/nurse-mask-2-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/news/health/a-boots-meal-deal-five-things-nhs-nurses-can-buy-with-an-extra-3-50-a-week-20210305205912">A Boots meal deal: Five things NHS nurses can buy with an extra £3.50 a week</a></div></li><li><a href="https://www.thedailymash.co.uk/news/health/young-people-should-only-get-vaccine-if-theyve-bought-a-house-say-boomers-20210302205801">Young people should only get vaccine if they've bought a house, say boomers</a></li><li><a href="https://www.thedailymash.co.uk/news/health/test-and-trace-overwhelmed-by-six-cases-20210301205789">Test-and-trace overwhelmed by six cases</a></li><li><a href="https://www.thedailymash.co.uk/news/health/which-lockdown-habit-will-you-find-hardest-to-quit-20210301205784">Which lockdown habit will you find hardest to quit?</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget mash_front_list" id="mash-front-list-widget-4"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/news/society">Society</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/news/society/doomscrolling-and-other-terms-wed-pay-good-money-never-to-hear-again-20210311206056"><img alt="" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20191017113638/woman-phone-bored-2-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/news/society/doomscrolling-and-other-terms-wed-pay-good-money-never-to-hear-again-20210311206056">'Doomscrolling' and other terms we'd pay good money never to hear again</a></div></li><li><a href="https://www.thedailymash.co.uk/news/society/how-to-be-a-free-speech-bellend-20210311206047">How to be a free speech bellend</a></li><li><a href="https://www.thedailymash.co.uk/news/society/what-to-say-about-a-baby-scan-that-looks-just-like-every-other-baby-scan-20210309206017">What to say about a baby scan that looks just like every other baby scan</a></li><li><a href="https://www.thedailymash.co.uk/news/society/i-was-born-in-the-wrong-era-claims-man-who-wouldve-been-a-twat-whenever-20210308205976">I was born in the wrong era, claims man who would've been a twat whenever</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget mash_front_list" id="mash-front-list-widget-7"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/politics/politics-headlines">Politics</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/politics/politics-headlines/how-to-spend-37-billion-and-have-fk-all-to-show-for-it-by-boris-johnson-20210312206088"><img alt="" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210312094528/Boris-Johnson-commons-2-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/politics/politics-headlines/how-to-spend-37-billion-and-have-fk-all-to-show-for-it-by-boris-johnson-20210312206088">How to spend £37 billion and have f**k all to show for it, by Boris Johnson</a></div></li><li><a href="https://www.thedailymash.co.uk/politics/politics-headlines/monarchy-in-crisis-because-there-is-no-fking-point-to-it-whatsoever-20210309206008">Monarchy in crisis because there is no f**king point to it whatsoever</a></li><li><a href="https://www.thedailymash.co.uk/politics/politics-headlines/i-will-call-myself-a-twat-for-50-20210308205989">'I will call myself a twat for £50'</a></li><li><a href="https://www.thedailymash.co.uk/politics/politics-headlines/because-im-worth-it-by-priti-patel-20210305205899">Because I'm worth it, by Priti Patel</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget mash_div_clear" id="mash-div-clear-widget-2"><div class="clear"></div></li>
+<li class="widget mash_front_list" id="mash-front-list-widget-3"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/news/celebrity">Celebrity</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/news/celebrity/first-they-came-for-clarkson-but-i-did-not-speak-out-because-im-not-that-into-cars-20210311206061"><img alt="" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20201001120303/middle-aged-man-2-2-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/news/celebrity/first-they-came-for-clarkson-but-i-did-not-speak-out-because-im-not-that-into-cars-20210311206061">First they came for Clarkson, but I did not speak out because I'm not that into cars</a></div></li><li><a href="https://www.thedailymash.co.uk/news/celebrity/prince-andrews-guide-to-dealing-with-the-media-20210311206049">Prince Andrew's guide to dealing with the media</a></li><li><a href="https://www.thedailymash.co.uk/news/celebrity/what-to-do-if-youve-overdosed-on-meghan-and-harry-an-emergency-guide-20210310206025">What to do if you've overdosed on Meghan and Harry: an emergency guide</a></li><li><a href="https://www.thedailymash.co.uk/news/celebrity/your-guide-to-being-unhinged-about-meghan-on-the-internet-20210309205998">Your guide to being unhinged about Meghan on the internet</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget mash_front_list box" id="mash-front-list-widget-11"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/sport/sport-headlines">Sport</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/sport/sport-headlines/middle-class-football-fan-prefers-it-without-those-dreadful-crowds-20210226205702"><img alt="watching football on tv" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210226103355/dreamstime_xxl_53077984-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/sport/sport-headlines/middle-class-football-fan-prefers-it-without-those-dreadful-crowds-20210226205702">Middle class football fan prefers it without those dreadful crowds</a></div></li><li><a href="https://www.thedailymash.co.uk/sport/sport-headlines/six-nations-fans-forced-to-piss-in-pint-glasses-over-zoom-20210205205027">Six Nations fans forced to piss in pint glasses over Zoom</a></li><li><a href="https://www.thedailymash.co.uk/sport/sport-headlines/football-club-thats-more-than-just-a-football-club-just-a-football-club-20210204204955">Football club that's 'more than just a football club' just a football club</a></li><li><a href="https://www.thedailymash.co.uk/sport/sport-headlines/manchester-united-nothing-but-bullies-20210203204921">Manchester United nothing but bullies</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget mash_front_list" id="mash-front-list-widget-6"> <h3 class="vaults"><a href="https://www.thedailymash.co.uk/news/science-technology">Science &amp; Technology</a></h3>
+<ul class="front-list">
+<li class="clearfix"><a href="https://www.thedailymash.co.uk/news/science-technology/key-in-front-door-substantially-increases-the-need-to-have-a-piss-20210305205940"><img alt="Key in door" class="fixed-thumb wp-post-image" height="180" loading="lazy" src="https://cdn.thedailymash.co.uk/wp-content/uploads/20210305143855/dreamstime_xxl_211675819-180x180.jpg" width="180"/></a><div class="thumb-text"><a href="https://www.thedailymash.co.uk/news/science-technology/key-in-front-door-substantially-increases-the-need-to-have-a-piss-20210305205940">Key in front door substantially increases the need to have a piss</a></div></li><li><a href="https://www.thedailymash.co.uk/news/science-technology/five-people-you-wish-you-hadnt-looked-up-on-facebook-20210305205923">Five people you wish you hadn't looked up on Facebook</a></li><li><a href="https://www.thedailymash.co.uk/news/science-technology/how-to-survive-your-elderly-parents-getting-a-new-phone-20210302205816">How to survive your elderly parents getting a new phone</a></li><li><a href="https://www.thedailymash.co.uk/news/science-technology/dont-read-the-article-how-to-write-a-moronic-internet-comment-20210226205684">Don't read the article: How to write a moronic internet comment</a></li> </ul>
+<div class="clear"></div>
+</li>
+<li class="widget php_widget indie-title" id="php_widget-70"><h3>Most Popular</h3>
+<iframe frameborder="0" height="500" src="/most-popular.php" width="100%"></iframe></li>
+</ul>
+</div>
+</div>
+<div id="footer">
+<ul class="footer-nav">
+<li><a href="/about/">About / Advertise</a></li>
+<li><a href="/contact/">Contact</a></li>
+<li><a href="/terms-and-conditions/">T'<span style="text-transform: lowercase;">s</span> &amp; C'<span style="text-transform: lowercase;">s</span></a></li>
+<li><a href="/privacy-policy/">Privacy Policy</a> &amp; <a onclick="window.__cmp('displayConsentUi');" style="cursor: pointer"> Settings</a></li>
+<li><a href="https://www.thedailymash.co.uk/rss.xml">RSS</a></li>
+<li><a href="/how-to-manage-your-notifications/">Unsubscribe</a> </li>
+</ul>
+<span class="copy">Copyright © Digitalbox Publishing Ltd. This site is intended for over 18s only.</span>
+</div>
+<div id="ad-premium"></div>
+</div>
+<script id="mobile-nav-js" src="https://www.thedailymash.co.uk/wp-content/themes/mashtastic2016/js/mobilenav.js" type="text/javascript"></script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.thedailymash.co.uk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="https://www.thedailymash.co.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2" type="text/javascript"></script>
+<script id="google-recaptcha-js" src="https://www.google.com/recaptcha/api.js?render=6LeGioEUAAAAANv3ohSyp5nkslpi4mBO4QiHrNd6&amp;ver=3.0" type="text/javascript"></script>
+<script id="wpcf7-recaptcha-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LeGioEUAAAAANv3ohSyp5nkslpi4mBO4QiHrNd6","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script id="wpcf7-recaptcha-js" src="https://www.thedailymash.co.uk/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3.2" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://www.thedailymash.co.uk/wp-includes/js/wp-embed.min.js?ver=5.6.1" type="text/javascript"></script>
+<script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.4',blog:'71075236',post:'0',tz:'0',srv:'www.thedailymash.co.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '71075236', '0' ]);
+</script>
+<script src="//platform-api.sharethis.com/js/sharethis.js#property=5ca662fc2c4f3b001126ee9c&amp;product=custom-share-buttons" type="text/javascript"></script>
+</body>
+</html>

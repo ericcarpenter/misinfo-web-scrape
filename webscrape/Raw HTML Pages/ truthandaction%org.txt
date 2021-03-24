@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head itemscope="" itemtype="http://schema.org/WebSite">
+<meta charset="utf-8"/>
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"288c74d262",applicationID:"3982203"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(6),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(y,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1198.min.js"},h=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:w,features:{},xhrWrappable:h,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var x=0},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(7),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
+	<![endif]-->
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://www.truthandaction.org/wp-content/uploads/Shield.png" rel="icon" type="image/x-icon"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="Truth And Action" itemprop="name">
+<meta content="https://www.truthandaction.org" itemprop="url">
+<link href="https://www.truthandaction.org/xmlrpc.php" rel="pingback"/>
+<title>Truth And Action - Learn the Truth, then Take Action</title>
+<meta content="80UORN5o9+mpq7nqbuO7rA==" name="OBKey">
+<script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"288c74d262",applicationID:"3982203",sa:1}
+</script>
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
+<!-- This site is optimized with the Yoast SEO plugin v3.7.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta content="Learn the Truth, then Take Action" name="description">
+<meta content="noodp" name="robots"/>
+<link href="https://www.truthandaction.org/" rel="canonical"/>
+<link href="https://www.truthandaction.org/page/2/" rel="next"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<meta content="Truth And Action - Learn the Truth, then Take Action" property="og:title"/>
+<meta content="Learn the Truth, then Take Action" property="og:description"/>
+<meta content="https://www.truthandaction.org/" property="og:url"/>
+<meta content="Truth And Action" property="og:site_name"/>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.truthandaction.org\/","name":"Truth And Action","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.truthandaction.org\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta content="1YiuGddi5UbFgY8akujRdRVbio74AWEQc2a9jpgHqQA" name="google-site-verification"/>
+<!-- / Yoast SEO plugin. -->
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://www.truthandaction.org/feed/" rel="alternate" title="Truth And Action » Feed" type="application/rss+xml"/>
+<link href="https://www.truthandaction.org/comments/feed/" rel="alternate" title="Truth And Action » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.truthandaction.org\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.truthandaction.org/wp-content/plugins/pretty-link/pro/css/prlipro-post.css" id="prlipro-post-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.truthandaction.org/wp-content/plugins/slide-in/css/wdsi.css" id="wdsi-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.truthandaction.org/wp-content/themes/mts_schema_child/style.css" id="schema-stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="schema-stylesheet-inline-css" type="text/css">
+
+         body {background-color:#eeeeee;background-image:url(https://www.truthandaction.org/wp-content/themes/mts_schema/images/nobg.png);}
+        .pace .pace-progress, #mobile-menu-wrapper ul li a:hover, .page-numbers.current, .pagination a:hover, .single .pagination a:hover .current { background: #000000; }
+        .postauthor h5, .single_post a, .textwidget a, .pnavigation2 a, .sidebar.c-4-12 a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .reply a, .title a:hover, .post-info a:hover, .widget .thecomment, #tabber .inside li a:hover, .readMore a:hover, .fn a, a, a:hover, #secondary-navigation .navigation ul li a:hover, .readMore a, #primary-navigation a:hover, #secondary-navigation .navigation ul .current-menu-item a, .widget .wp_review_tab_widget_content a, .sidebar .wpt_widget_content a { color:#000000; }
+         a#pull, #commentform input#submit, #mtscontact_submit, .mts-subscribe input[type='submit'], .widget_product_search input[type='submit'], #move-to-top:hover, .currenttext, .pagination a:hover, .pagination .nav-previous a:hover, .pagination .nav-next a:hover, #load-posts a:hover, .single .pagination a:hover .currenttext, .single .pagination > .current .currenttext, #tabber ul.tabs li a.selected, .tagcloud a, .navigation ul .sfHover a, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce .bypostauthor:after, #searchsubmit, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .latestPost-review-wrapper, .latestPost .review-type-circle.latestPost-review-wrapper, #wpmm-megamenu .review-total-only, .sbutton, #searchsubmit, .widget .wpt_widget_content #tags-tab-content ul li a, .widget .review-total-only.large-thumb { background-color:#000000; color: #fff!important; }
+        .related-posts .title a:hover, .latestPost .title a { color: #000000; }
+        .navigation #wpmm-megamenu .wpmm-pagination a { background-color: #000000!important; }
+        footer {background-color:#222222; }
+        footer {background-image: url( https://www.truthandaction.org/wp-content/themes/mts_schema/images/nobg.png );}
+        .copyrights { background-color: #ffffff; }
+        .flex-control-thumbs .flex-active{ border-top:3px solid #000000;}
+        .wpmm-megamenu-showing.wpmm-light-scheme { background-color:#000000!important; }
+        
+        .shareit { top: 282px; left: auto; margin: 0 0 0 -135px; width: 90px; position: fixed; padding: 5px; border:none; border-right: 0;}
+		.share-item {margin: 2px;}
+        
+        .bypostauthor { padding: 3%!important; background: #222; width: 94%!important; color: #AAA; }
+		.bypostauthor:after { content: "\f044"; position: absolute; font-family: fontawesome; right: 0; top: 0; padding: 1px 10px; color: #535353; font-size: 32px; }
+        
+        
+			
+</style>
+<link href="https://www.truthandaction.org/wp-content/themes/mts_schema/css/font-awesome.min.css" id="fontawesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.truthandaction.org/wp-content/themes/mts_schema/css/responsive.css" id="responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.truthandaction.org/wp-content/plugins/theme-extras/style.css" id="t&amp;a-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://www.truthandaction.org/wp-includes/js/jquery/jquery.js" type="text/javascript"></script>
+<script src="https://www.truthandaction.org/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wdsi_data = {"reshow":{"timeout":0,"name":"wdsi-on_hided41d8cd98f00b204e9800998ecf8427e","path":"\/","all":false}};
+/* ]]> */
+</script>
+<script src="https://www.truthandaction.org/wp-content/plugins/slide-in/js/wdsi.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"both"};
+/* ]]> */
+</script>
+<script src="https://www.truthandaction.org/wp-content/themes/mts_schema/js/customscript.js" type="text/javascript"></script>
+<link href="https://www.truthandaction.org/wp-json/" rel="https://api.w.org/"/>
+<link href="https://www.truthandaction.org/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.truthandaction.org/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.9.6" name="generator"/>
+<script src="https://app.promotionengine.com/js/pixel.js?ver=0.2.7" type="text/javascript"></script>
+<!-- This site is using AdRotate v4.11 Professional to display their advertisements - https://ajdg.solutions/products/adrotate-for-wordpress/ -->
+<!-- AdRotate CSS -->
+<style media="screen" type="text/css">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+<link href="//fonts.googleapis.com/css?family=Roboto+Slab:normal|Raleway:500|Raleway:700|Roboto+Slab:300&amp;subset=latin" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+#logo a { font-family: 'Roboto Slab'; font-weight: normal; font-size: 32px; color: #222;text-transform: uppercase; }
+#primary-navigation a { font-family: 'Raleway'; font-weight: 500; font-size: 13px; color: #777; }
+#secondary-navigation a { font-family: 'Raleway'; font-weight: 700; font-size: 16px; color: #fff;text-transform: uppercase; }
+.latestPost .title a { font-family: 'Roboto Slab'; font-weight: 300; font-size: 38px; color: #0274BE; }
+.single-title { font-family: 'Roboto Slab'; font-weight: 300; font-size: 38px; color: #222; }
+body { font-family: 'Raleway'; font-weight: 500; font-size: 16px; color: #444444; }
+#sidebar .widget h3 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 20px; color: #222222;text-transform: uppercase; }
+#sidebar .widget { font-family: 'Raleway'; font-weight: 500; font-size: 16px; color: #444444; }
+.footer-widgets h3 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 18px; color: #ffffff;text-transform: uppercase; }
+.f-widget a, footer .wpt_widget_content a, footer .wp_review_tab_widget_content a, footer .wpt_tab_widget_content a, footer .widget .wp_review_tab_widget_content a { font-family: 'Raleway'; font-weight: 500; font-size: 16px; color: #999999; }
+.footer-widgets, .f-widget .top-posts .comment_num, footer .meta, footer .twitter_time, footer .widget .wpt_widget_content .wpt-postmeta, footer .widget .wpt_comment_content, footer .widget .wpt_excerpt, footer .wp_review_tab_widget_content .wp-review-tab-postmeta, footer .advanced-recent-posts p, footer .popular-posts p, footer .category-posts p { font-family: 'Raleway'; font-weight: 500; font-size: 16px; color: #777777; }
+#copyright-note { font-family: 'Raleway'; font-weight: 500; font-size: 14px; color: #7e7d7d; }
+h1 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 28px; color: #222222; }
+h2 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 24px; color: #222222; }
+h3 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 22px; color: #222222; }
+h4 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 20px; color: #222222; }
+h5 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 18px; color: #222222; }
+h6 { font-family: 'Roboto Slab'; font-weight: normal; font-size: 16px; color: #222222; }
+</style>
+<link href="https://www.truthandaction.org/amp/" rel="amphtml"><script type="text/javascript"><!--// <![CDATA[
+OA_show('truthandaction_adsupply');
+// ]]> --></script><meta content="574747565911344" property="fb:pages"/>
+<style>@media all and (max-width: 800px) {div.insert-post-ads {display:none !important;}}</style>
+<script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.hitTime = Date.now();
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+
+  // Tag IDs set here, must match Tags served in the Body for proper setup
+  freestar.config.enabled_slots = [
+    "truthandaction_728x90_300x100_320x50_ATF",
+    "truthandaction_468x60_320x50_AbovePostContent",
+    "truthandaction_300x250_Sidebar",
+    "truthandaction_300x250_BelowPostContent"
+  ];
+
+  !function(a,b){var c=b.getElementsByTagName("script")[0],d=b.createElement("script"),e="https://a.pub.network/truthandaction-org";e+=freestar.debug?"/qa/pubfig.min.js":"/pubfig.min.js",d.async=!0,d.src=e,c.parentNode.insertBefore(d,c)}(window,document);
+</script>
+<!--noptimize--><script type="text/javascript"><!--// <![CDATA[
+var OA_zones = {
+'truthandaction_468' : 402,
+'truthandaction_728' : 429,
+'truthandaction_300w' : 9,
+'truthandaction_336' : 7,
+'truthandaction_600' : 1453,
+'truthandaction_adsupply' : 150,
+'truthandaction_mobile' : 1034,
+'truthandaction_below' : 76,
+'truthandaction_inpost' : 1919,
+'truthandaction_slidein' : 1967,
+'truthandaction_below2' : 1959,
+'truthandaction_revtracker' : 1951,
+'truthandaction_tracker' : 579,
+'truthandaction_mobileabove' : 97
+}
+// ]]> -->
+</script>
+<script src="https://myadsystem.com/www/delivery/spcjs.php" type="text/javascript"></script>
+<meta content="574747565911344" property="fb:pages"/>
+<meta content="561039150580528" property="fb:app_id"/>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '735885543129729']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img alt="" border="0" height="1" src="https://www.facebook.com/tr?id=735885543129729&amp;ev=NoScript" style="display:none" width="1"/></noscript>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '714670708667326');
+fbq('track', "PageView");</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=714670708667326&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<script async="async" data-cfasync="false" data-shr-siteid="570a027cd0c5ba6ae645400857da4f89" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript"></script>
+<script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script'); s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        bm_website_code = 'CB84D35AE9A74669';
+        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+</script>
+<!--/noptimize-->
+<script src="https://connectio.s3.amazonaws.com/script.js" type="text/javascript"></script><script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '714670708667326');
+fbq('track', 'PageView');
+/* page visit*/
+fbq('trackCustom', 'connectretarget', {
+	tanda_visitcounter: bpixelcookie
+});	
+/* URL */
+fbq('trackCustom', 'connectretarget', {
+  	tanda_URL : window.location.href
+});	
+/*page timer*/
+CR_pagetimer('connectretarget', count);
+fbq('trackCustom', 'connectretarget', {
+  	tanda_date : now
+});	
+fbq('trackCustom', 'connectretarget', {
+  	tanda_language : userLang
+});
+fbq('trackCustom', 'connectretarget', {
+    tanda_visiting_device : device_name
+});
+fbq('trackCustom', 'connectretarget', {
+    tanda_session_count : session_variable
+});	
+/* page scroll  */
+window.onscroll = function() {
+	  checkScroll();
+      };
+function CR_pagescroll(event, value)
+{
+  fbq('trackCustom', event,{
+	tanda_pagescroll : value });
+}
+function CR_utmsource(event, value)
+{
+  fbq('trackCustom', event,{
+  tanda_utmsource : value });
+}
+function CR_utmmedium(event, value)
+{
+  fbq('trackCustom', event,{
+  tanda_utmmedium : value });
+}
+function CR_utmcampaign(event, value)
+{
+  fbq('trackCustom', event,{
+  tanda_utmcampaign : value });
+}
+function CR_pagetimer(event, value)
+{
+window.setInterval(function(){
+count = count + 20; 
+fbq('trackCustom', event, {
+       tanda_pagetimer : count
+   });
+}, 20000);
+}fbq('trackCustom', 'connectretarget', {
+    tanda_source : referrer
+});</script></link></meta></meta></meta></meta></head>
+<body class="home blog main" id="blog" itemscope="" itemtype="http://schema.org/WebPage">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43569232-1', 'auto');
+  ga('set', 'dimension1', '');
+  ga('set', 'dimension2', '');
+  ga('set', 'dimension3', '');
+  ga('set', 'dimension4', '');
+  ga('send', 'pageview');
+</script>
+<div class="main-container">
+<header class="main-header regular_header" id="site-header" itemscope="" itemtype="http://schema.org/WPHeader" role="banner">
+<div id="primary-nav">
+<div class="container">
+<div class="primary-navigation" id="primary-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<nav class="navigation clearfix">
+<ul class="menu clearfix" id="menu-top-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137" id="menu-item-137"><a href="https://www.truthandaction.org/curation-policy/">Curation Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138" id="menu-item-138"><a href="https://www.truthandaction.org/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9182" id="menu-item-9182"><a href="https://www.truthandaction.org/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9217" id="menu-item-9217"><a href="https://www.facebook.com/TruthAndAction">Truth &amp; Action on Facebook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10094" id="menu-item-10094"><a href="https://www.truthandaction.org/volunteer-reporter-signup/">Report for Truth and Action</a></li>
+</ul> <div class="header-social-icons">
+<a class="header-facebook" href="https://www.facebook.com/TruthAndAction/" target="_blank"><span class="fa fa-facebook"></span></a>
+<a class="header-twitter" href="https://twitter.com/tna1776" target="_blank"><span class="fa fa-twitter"></span></a>
+<a class="header-google-plus" href="https://plus.google.com/112601672036926915015" target="_blank"><span class="fa fa-google-plus"></span></a>
+<a class="header-youtube-play" href="https://www.youtube.com/channel/UCVC0Twa673bTj_Mc0VsQROA" target="_blank"><span class="fa fa-youtube-play"></span></a>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div id="regular-header">
+<div class="container">
+<div class="logo-wrap">
+<h1 class="image-logo" id="logo" itemprop="headline">
+<a href="https://www.truthandaction.org"><img alt="Truth And Action" height="58" src="https://www.truthandaction.org/wp-content/uploads/BigLogo.png" width="189"/></a>
+</h1><!-- END #logo -->
+</div>
+</div>
+</div>
+<div id="header">
+<div class="container">
+<div class="secondary-navigation" id="secondary-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+<a class="toggle-mobile-menu" href="#" id="pull">Menu</a>
+<nav class="navigation clearfix mobile-menu-wrapper">
+<ul class="menu clearfix" id="menu-main-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-152" id="menu-item-152"><a href="https://www.truthandaction.org/category/politics/">Politics</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154" id="menu-item-154"><a href="https://www.truthandaction.org/category/politics/u-s/">U.S.</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153" id="menu-item-153"><a href="https://www.truthandaction.org/category/politics/international/">International</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151" id="menu-item-151"><a href="https://www.truthandaction.org/category/police-state/" title="The Modern Police State">Police State</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-140" id="menu-item-140"><a href="https://www.truthandaction.org/category/gun-rights/" title="The Right to Bear Arms &amp; Gun Control">Gun Rights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-145" id="menu-item-145"><a href="https://www.truthandaction.org/category/human-rights/">Human Rights</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156" id="menu-item-156"><a href="https://www.truthandaction.org/category/privacy-spying/" title="Privacy, Spying &amp; the Electronic Age">Privacy &amp; Spying</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147" id="menu-item-147"><a href="https://www.truthandaction.org/category/human-rights/freedom-of-the-press/">Freedom of the Press</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157" id="menu-item-157"><a href="https://www.truthandaction.org/category/human-rights/freedom-of-speech/">Freedom of Speech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146" id="menu-item-146"><a href="https://www.truthandaction.org/category/human-rights/freedom-of-religion/">Freedom of Religion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148" id="menu-item-148"><a href="https://www.truthandaction.org/category/human-rights/property-rights/">Property Rights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-139" id="menu-item-139"><a href="https://www.truthandaction.org/category/finance-and-economics/" title="Financial &amp; Economic Freedom">Finance &amp; Economics</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-149" id="menu-item-149"><a href="https://www.truthandaction.org/category/off-the-grid/">Off the Grid</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150" id="menu-item-150"><a href="https://www.truthandaction.org/category/off-the-grid/survivalism/">Survivalism</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-155" id="menu-item-155"><a href="https://www.truthandaction.org/category/prepping/">Prepping</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-141" id="menu-item-141"><a href="https://www.truthandaction.org/category/health/" title="The Destruction of Health &amp; Nutrition">Health &amp; Nutrition</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-143" id="menu-item-143"><a href="https://www.truthandaction.org/category/health/food-labeling/">Food Labeling</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144" id="menu-item-144"><a href="https://www.truthandaction.org/category/health/water-fluoridation/">Water Fluoridation</a></li>
+</ul>
+</li>
+</ul> </nav>
+</div>
+</div><!--.container-->
+</div>
+</header>
+<div id="page">
+<div class="article">
+<div id="content_box">
+<article class="latestPost excerpt">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/video-surfaces-joe-biden-calling-troops-stupid-bastards-not-clapping/" title="Video Surfaces of Joe Biden Calling Troops “Stupid Bastards” for Not Clapping">Video Surfaces of Joe Biden Calling Troops “Stupid Bastards” for Not Clapping</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>September 26, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/u-s/" title="View all posts in U.S.">U.S.</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/video-surfaces-joe-biden-calling-troops-stupid-bastards-not-clapping/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/video-surfaces-joe-biden-calling-troops-stupid-bastards-not-clapping/" id="featured-thumbnail" title="Video Surfaces of Joe Biden Calling Troops “Stupid Bastards” for Not Clapping">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/09/biden-troops-680x350.jpg" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                Video has surfaced of former Vice President Joe Biden jokingly calling US military members "stupid bastards" and a "dull bunch" apparently in indignation for not receiving applause during a …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/video-surfaces-joe-biden-calling-troops-stupid-bastards-not-clapping/" title="Video Surfaces of Joe Biden Calling Troops “Stupid Bastards” for Not Clapping">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/senate-report-hunter-biden-raises-many-counterintelligence-extortion-concerns-ignore/" title="Senate Report: Hunter Biden Raises Too Many ‘Counterintelligence And Extortion Concerns’ to Ignore">Senate Report: Hunter Biden Raises Too Many ‘Counterintelligence And Extortion Concerns’ to Ignore</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>September 23, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/u-s/" title="View all posts in U.S.">U.S.</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/senate-report-hunter-biden-raises-many-counterintelligence-extortion-concerns-ignore/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/senate-report-hunter-biden-raises-many-counterintelligence-extortion-concerns-ignore/" id="featured-thumbnail" title="Senate Report: Hunter Biden Raises Too Many ‘Counterintelligence And Extortion Concerns’ to Ignore">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2019/05/hunter_joe_biden-680x350.png" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                Senator Ron Johnson told reporters in March that Senate Republicans were entering a new phase of their investigation into Joe and Hunter Biden and their dealings with the corrupt Ukrainian natural …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/senate-report-hunter-biden-raises-many-counterintelligence-extortion-concerns-ignore/" title="Senate Report: Hunter Biden Raises Too Many ‘Counterintelligence And Extortion Concerns’ to Ignore">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt last">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/joe-biden-waves-empty-field-departs-plane-tampa/" title="Joe Biden Waves at Empty Field as He Departs Plane in Tampa">Joe Biden Waves at Empty Field as He Departs Plane in Tampa</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>September 16, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/u-s/" title="View all posts in U.S.">U.S.</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/joe-biden-waves-empty-field-departs-plane-tampa/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/joe-biden-waves-empty-field-departs-plane-tampa/" id="featured-thumbnail" title="Joe Biden Waves at Empty Field as He Departs Plane in Tampa">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/09/biden-plane-depart-680x350.jpg" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                You can be guaranteed that if the mainstream media shows footage of Biden departing the plane in Tampa on Tuesday it will only contain close-ups. Personifying the "a legend …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/joe-biden-waves-empty-field-departs-plane-tampa/" title="Joe Biden Waves at Empty Field as He Departs Plane in Tampa">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/black-woman-refuses-let-white-flight-attendant-pass-need-understand-dont-run-america-no-sweetheart/" title="Black Woman Refuses to Let White Flight Attendant Pass, “You Need to Understand, You Don’t Run America No More Sweetheart”">Black Woman Refuses to Let White Flight Attendant Pass, “You Need to Understand, You Don’t Run America No More Sweetheart”</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>September 12, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/race-relations/" title="View all posts in Race Relations">Race Relations</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/black-woman-refuses-let-white-flight-attendant-pass-need-understand-dont-run-america-no-sweetheart/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/black-woman-refuses-let-white-flight-attendant-pass-need-understand-dont-run-america-no-sweetheart/" id="featured-thumbnail" title="Black Woman Refuses to Let White Flight Attendant Pass, “You Need to Understand, You Don’t Run America No More Sweetheart”">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/09/flight-attendant-black-woman-680x350.jpg" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                In a sure sign of how far race relations have been set back, a was captured on video on a commercial airliner that shows a black woman refusing to …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/black-woman-refuses-let-white-flight-attendant-pass-need-understand-dont-run-america-no-sweetheart/" title="Black Woman Refuses to Let White Flight Attendant Pass, “You Need to Understand, You Don’t Run America No More Sweetheart”">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/entire-rochester-police-command-resigns-criticism-mischaracterization-politicized/" title="Entire Rochester Police Command Resigns: Criticism ‘Mischaracterization and Politicized’">Entire Rochester Police Command Resigns: Criticism ‘Mischaracterization and Politicized’</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>September 9, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/u-s/law-enforcement/" title="View all posts in Law Enforcement">Law Enforcement</a>, <a href="https://www.truthandaction.org/category/politics/" title="View all posts in Politics">Politics</a>, <a href="https://www.truthandaction.org/category/politics/u-s/" title="View all posts in U.S.">U.S.</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/entire-rochester-police-command-resigns-criticism-mischaracterization-politicized/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/entire-rochester-police-command-resigns-criticism-mischaracterization-politicized/" id="featured-thumbnail" title="Entire Rochester Police Command Resigns: Criticism ‘Mischaracterization and Politicized’">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/09/chief-roch-680x350.jpg" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                Rochester's top officer and his deputy announced Tuesday they are retiring from the force following days of protests against the Rochester Police Department in light of the death of …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/entire-rochester-police-command-resigns-criticism-mischaracterization-politicized/" title="Entire Rochester Police Command Resigns: Criticism ‘Mischaracterization and Politicized’">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt last">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/biden-black-man-invented-light-bulb-not-white-guy-named-edison/" title="Biden: ‘A Black Man Invented the Light Bulb, Not a White Guy Named Edison’">Biden: ‘A Black Man Invented the Light Bulb, Not a White Guy Named Edison’</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>September 4, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/" title="View all posts in Politics">Politics</a>, <a href="https://www.truthandaction.org/category/politics/u-s/" title="View all posts in U.S.">U.S.</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/biden-black-man-invented-light-bulb-not-white-guy-named-edison/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/biden-black-man-invented-light-bulb-not-white-guy-named-edison/" id="featured-thumbnail" title="Biden: ‘A Black Man Invented the Light Bulb, Not a White Guy Named Edison’">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/09/biden-680x350.jpg" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                During a speech in Kenosha, Wisconsin on Thursday Presidential candidate Joe Biden made the claim that a black man created the light bulb, 'not a white guy named Edison.' 'I …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/biden-black-man-invented-light-bulb-not-white-guy-named-edison/" title="Biden: ‘A Black Man Invented the Light Bulb, Not a White Guy Named Edison’">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/democrat-operative-confesses-leading-massive-mail-voter-fraud-schemes-decades/" title="Democrat Operative Confesses to Leading Massive Mail-In Voter Fraud Schemes for Decades">Democrat Operative Confesses to Leading Massive Mail-In Voter Fraud Schemes for Decades</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>August 31, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/u-s/elections/" title="View all posts in Elections">Elections</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/democrat-operative-confesses-leading-massive-mail-voter-fraud-schemes-decades/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/democrat-operative-confesses-leading-massive-mail-voter-fraud-schemes-decades/" id="featured-thumbnail" title="Democrat Operative Confesses to Leading Massive Mail-In Voter Fraud Schemes for Decades">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/08/mail-in-voting-680x350.jpg" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                As if 2020 hasn't been challenging enough, the upcoming presidential election is shaping up to be one of the most divisive events in modern history. A report by the New …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/democrat-operative-confesses-leading-massive-mail-voter-fraud-schemes-decades/" title="Democrat Operative Confesses to Leading Massive Mail-In Voter Fraud Schemes for Decades">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/sen-rand-paul-wife-accousted-chased-street-blm/" title="Sen. Rand Paul and Wife Accousted, Chased Down Street By BLM">Sen. Rand Paul and Wife Accousted, Chased Down Street By BLM</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>August 28, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/race-relations/black-lives-matter/" title="View all posts in Black Lives Matter">Black Lives Matter</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/sen-rand-paul-wife-accousted-chased-street-blm/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/sen-rand-paul-wife-accousted-chased-street-blm/" id="featured-thumbnail" title="Sen. Rand Paul and Wife Accousted, Chased Down Street By BLM">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/08/rand-paul-protests-680x350.jpg" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                Senator Rand Paul and his wife were accosted by Black Lives Matter 'Protesters' as they left the Republican National Convention on Thursday night. Paul thanked DC police for saving him …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/sen-rand-paul-wife-accousted-chased-street-blm/" title="Sen. Rand Paul and Wife Accousted, Chased Down Street By BLM">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt last">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/hillary-clinton-joe-biden-not-concede-circumstances/" title="Hillary Clinton: “Joe Biden Should Not Concede Under Any Circumstances”">Hillary Clinton: “Joe Biden Should Not Concede Under Any Circumstances”</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>August 25, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/politics/u-s/elections/" title="View all posts in Elections">Elections</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/hillary-clinton-joe-biden-not-concede-circumstances/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/hillary-clinton-joe-biden-not-concede-circumstances/" id="featured-thumbnail" title="Hillary Clinton: “Joe Biden Should Not Concede Under Any Circumstances”">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/08/hillary-c-680x350.png" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                Twice-failed presidential hopeful Hillary Clinton said in an interview with Jennifer Palmieri and “The Circus” on Showtime Democratic that presidential nominee Joe Biden "should not concede under any circumstances." …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/hillary-clinton-joe-biden-not-concede-circumstances/" title="Hillary Clinton: “Joe Biden Should Not Concede Under Any Circumstances”">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<article class="latestPost excerpt">
+<header>
+<h2 class="title front-view-title"><a href="https://www.truthandaction.org/police-make-second-arrest-connected-attack-7-year-old-trump-supporter/" title="Police Make Second Arrest Connected to Attack on 7-Year-Old Trump Supporter">Police Make Second Arrest Connected to Attack on 7-Year-Old Trump Supporter</a></h2>
+<div class="post-info">
+<span class="theauthor"><i class="fa fa-user"></i> <span><a href="https://www.truthandaction.org/author/jake-f/" rel="author" title="Posts by Jake Sherwood">Jake Sherwood</a></span></span>
+<span class="thetime date updated"><i class="fa fa-calendar"></i> <span>August 23, 2020</span></span>
+<span class="thecategory"><i class="fa fa-tags"></i> <a href="https://www.truthandaction.org/category/hate-crimes/" title="View all posts in Hate Crimes">Hate Crimes</a></span>
+<span class="thecomment"><i class="fa fa-comments"></i> <a href="https://www.truthandaction.org/police-make-second-arrest-connected-attack-7-year-old-trump-supporter/#respond" itemprop="interactionCount">No Comments</a></span>
+</div>
+</header>
+<a class="post-image post-image-left schema-featured" href="https://www.truthandaction.org/police-make-second-arrest-connected-attack-7-year-old-trump-supporter/" id="featured-thumbnail" title="Police Make Second Arrest Connected to Attack on 7-Year-Old Trump Supporter">
+<div class="featured-thumbnail"><img alt="" class="attachment-schema-featured size-schema-featured wp-post-image" height="350" src="https://www.truthandaction.org/wp-content/uploads/2020/08/girls-680x350.jpg" title="" width="680"/></div> </a>
+<div class="front-view-content">
+                Both women seen in a viral video attacking multiple people, including a 7-year-old Trump supporter, outside the Democratic National Convention have been arrested. 21-year-old Olivia Winslow was arrested Friday …            </div>
+<div class="readMore">
+<a href="https://www.truthandaction.org/police-make-second-arrest-connected-attack-7-year-old-trump-supporter/" title="Police Make Second Arrest Connected to Attack on 7-Year-Old Trump Supporter">
+                [Continue Reading...]            </a>
+</div>
+</article>
+<div class="pagination pagination-previous-next">
+<ul>
+<li class="nav-previous"><a href="https://www.truthandaction.org/page/2/"><i class="fa fa-angle-left"></i> Previous</a></li>
+<li class="nav-next"></li>
+</ul>
+</div>
+</div>
+</div>
+<aside class="sidebar c-4-12" id="sidebar" itemscope="" itemtype="http://schema.org/WPSideBar" role="complementary">
+<div class="widget widget_text" id="text-15"> <div class="textwidget"><div align="center" id="truthandaction_300x250_Sidebar">
+<script data-cfasync="false" type="text/javascript">
+    freestar.queue.push(function () { googletag.display('truthandaction_300x250_Sidebar'); });
+</script>
+</div></div>
+</div><div class="widget widget_mts_popular_posts_widget vertical-small" id="mts_popular_posts_widget-2"><h3 class="widget-title">Trending Now</h3><ul class="popular-posts"></ul>
+</div><div class="widget widget_categories" id="categories-2"><h3 class="widget-title">Categories</h3> <ul>
+<li class="cat-item cat-item-4699"><a href="https://www.truthandaction.org/category/politics/u-s/abortion/">Abortion</a>
+</li>
+<li class="cat-item cat-item-5493"><a href="https://www.truthandaction.org/category/affordable-care-act/">Affordable Care Act</a>
+</li>
+<li class="cat-item cat-item-19395"><a href="https://www.truthandaction.org/category/politics/u-s/antifa/">Antifa</a>
+</li>
+<li class="cat-item cat-item-19410"><a href="https://www.truthandaction.org/category/politics/race-relations/black-lives-matter/">Black Lives Matter</a>
+</li>
+<li class="cat-item cat-item-19479"><a href="https://www.truthandaction.org/category/politics/international/china/">China</a>
+</li>
+<li class="cat-item cat-item-29"><a href="https://www.truthandaction.org/category/human-rights/property-rights/civil-forfeiture/">Civil Forfeiture</a>
+</li>
+<li class="cat-item cat-item-3117"><a href="https://www.truthandaction.org/category/climate-change/">Climate Change</a>
+</li>
+<li class="cat-item cat-item-3788"><a href="https://www.truthandaction.org/category/politics/common-core/">Common Core</a>
+</li>
+<li class="cat-item cat-item-3789"><a href="https://www.truthandaction.org/category/politics/u-s/common-core-u-s/">Common Core</a>
+</li>
+<li class="cat-item cat-item-1805"><a href="https://www.truthandaction.org/category/health/disease/">Disease</a>
+</li>
+<li class="cat-item cat-item-4540"><a href="https://www.truthandaction.org/category/earthquakes/">Earthquakes</a>
+</li>
+<li class="cat-item cat-item-1551"><a href="https://www.truthandaction.org/category/editorial/">Editorial</a>
+</li>
+<li class="cat-item cat-item-4747"><a href="https://www.truthandaction.org/category/education/">Education</a>
+</li>
+<li class="cat-item cat-item-19463"><a href="https://www.truthandaction.org/category/politics/u-s/elections/">Elections</a>
+</li>
+<li class="cat-item cat-item-5012"><a href="https://www.truthandaction.org/category/politics/false-flags/">False Flags</a>
+</li>
+<li class="cat-item cat-item-6838"><a href="https://www.truthandaction.org/category/politics/u-s/fema/">FEMA</a>
+</li>
+<li class="cat-item cat-item-23"><a href="https://www.truthandaction.org/category/finance-and-economics/" title="Financial &amp; Economic Freedom">Finance &amp; Economics</a>
+</li>
+<li class="cat-item cat-item-26"><a href="https://www.truthandaction.org/category/health/food-democracy/" title="The right to eat &amp; drink what we want.">Food Democracy</a>
+</li>
+<li class="cat-item cat-item-32"><a href="https://www.truthandaction.org/category/health/food-labeling/">Food Labeling</a>
+</li>
+<li class="cat-item cat-item-42"><a href="https://www.truthandaction.org/category/human-rights/freedom-of-religion/">Freedom of Religion</a>
+</li>
+<li class="cat-item cat-item-43"><a href="https://www.truthandaction.org/category/human-rights/freedom-of-speech/">Freedom of Speech</a>
+</li>
+<li class="cat-item cat-item-16"><a href="https://www.truthandaction.org/category/human-rights/freedom-of-the-press/">Freedom of the Press</a>
+</li>
+<li class="cat-item cat-item-1017"><a href="https://www.truthandaction.org/category/health/fukushima-health/">Fukushima</a>
+</li>
+<li class="cat-item cat-item-1517"><a href="https://www.truthandaction.org/category/health/government-programs/">Government Programs</a>
+</li>
+<li class="cat-item cat-item-17"><a href="https://www.truthandaction.org/category/gun-rights/" title="The Right to Bear Arms &amp; Gun Control">Gun Rights</a>
+</li>
+<li class="cat-item cat-item-3110"><a href="https://www.truthandaction.org/category/hate-crimes/">Hate Crimes</a>
+</li>
+<li class="cat-item cat-item-24"><a href="https://www.truthandaction.org/category/health/" title="The Destruction of Health &amp; Nutrition">Health &amp; Nutrition</a>
+</li>
+<li class="cat-item cat-item-17087"><a href="https://www.truthandaction.org/category/hollywood/">Hollywood</a>
+</li>
+<li class="cat-item cat-item-39"><a href="https://www.truthandaction.org/category/human-rights/">Human Rights</a>
+</li>
+<li class="cat-item cat-item-25"><a href="https://www.truthandaction.org/category/politics/u-s/immigration/">Immigration</a>
+</li>
+<li class="cat-item cat-item-4704"><a href="https://www.truthandaction.org/category/politics/international/immigration-international/">Immigration</a>
+</li>
+<li class="cat-item cat-item-37"><a href="https://www.truthandaction.org/category/politics/international/">International</a>
+</li>
+<li class="cat-item cat-item-4634"><a href="https://www.truthandaction.org/category/iran/">Iran</a>
+</li>
+<li class="cat-item cat-item-7988"><a href="https://www.truthandaction.org/category/irs/">IRS</a>
+</li>
+<li class="cat-item cat-item-19389"><a href="https://www.truthandaction.org/category/politics/u-s/law-enforcement/">Law Enforcement</a>
+</li>
+<li class="cat-item cat-item-4627"><a href="https://www.truthandaction.org/category/media/">Media</a>
+</li>
+<li class="cat-item cat-item-4705"><a href="https://www.truthandaction.org/category/politics/international/middle-east/">Middle East</a>
+</li>
+<li class="cat-item cat-item-2934"><a href="https://www.truthandaction.org/category/politics/u-s/military/">Military</a>
+</li>
+<li class="cat-item cat-item-5577"><a href="https://www.truthandaction.org/category/obama/">Obama</a>
+</li>
+<li class="cat-item cat-item-4701"><a href="https://www.truthandaction.org/category/politics/u-s/obamacare/">Obamacare</a>
+</li>
+<li class="cat-item cat-item-36"><a href="https://www.truthandaction.org/category/off-the-grid/" title="Living off the grid">Off the Grid</a>
+</li>
+<li class="cat-item cat-item-954"><a href="https://www.truthandaction.org/category/other/">Other</a>
+</li>
+<li class="cat-item cat-item-17491"><a href="https://www.truthandaction.org/category/human-rights/parental/">Parental</a>
+</li>
+<li class="cat-item cat-item-4771"><a href="https://www.truthandaction.org/category/police-brutality/">Police Brutality</a>
+</li>
+<li class="cat-item cat-item-41"><a href="https://www.truthandaction.org/category/police-state/">Police State</a>
+</li>
+<li class="cat-item cat-item-3"><a href="https://www.truthandaction.org/category/politics/">Politics</a>
+</li>
+<li class="cat-item cat-item-20"><a href="https://www.truthandaction.org/category/prepping/" title="Preparing For the Worst">Prepping</a>
+</li>
+<li class="cat-item cat-item-40"><a href="https://www.truthandaction.org/category/privacy-spying/" title="Privacy, Spying &amp; The Electronic Age">Privacy &amp; Spying</a>
+</li>
+<li class="cat-item cat-item-31"><a href="https://www.truthandaction.org/category/human-rights/property-rights/">Property Rights</a>
+</li>
+<li class="cat-item cat-item-5980"><a href="https://www.truthandaction.org/category/politics/race-relations/">Race Relations</a>
+</li>
+<li class="cat-item cat-item-5431"><a href="https://www.truthandaction.org/category/religion/">Religion</a>
+</li>
+<li class="cat-item cat-item-28"><a href="https://www.truthandaction.org/category/human-rights/rule-of-law/">Rule of Law</a>
+</li>
+<li class="cat-item cat-item-6455"><a href="https://www.truthandaction.org/category/sanders/">Sanders</a>
+</li>
+<li class="cat-item cat-item-6750"><a href="https://www.truthandaction.org/category/scotus/">SCOTUS</a>
+</li>
+<li class="cat-item cat-item-19"><a href="https://www.truthandaction.org/category/human-rights/property-rights/search-seizure/">Search &amp; Seizure</a>
+</li>
+<li class="cat-item cat-item-4780"><a href="https://www.truthandaction.org/category/society/">Society</a>
+</li>
+<li class="cat-item cat-item-22"><a href="https://www.truthandaction.org/category/off-the-grid/survivalism/">Survivalism</a>
+</li>
+<li class="cat-item cat-item-1560"><a href="https://www.truthandaction.org/category/terrorism-2/">Terrorism</a>
+</li>
+<li class="cat-item cat-item-4787"><a href="https://www.truthandaction.org/category/politics/international/terrorism/">Terrorism</a>
+</li>
+<li class="cat-item cat-item-18527"><a href="https://www.truthandaction.org/category/politics/u-s/trade/">Trade</a>
+</li>
+<li class="cat-item cat-item-7305"><a href="https://www.truthandaction.org/category/trump/">Trump</a>
+</li>
+<li class="cat-item cat-item-38"><a href="https://www.truthandaction.org/category/politics/u-s/">U.S.</a>
+</li>
+<li class="cat-item cat-item-7990"><a href="https://www.truthandaction.org/category/politics/international/united-nations/">United Nations</a>
+</li>
+<li class="cat-item cat-item-11862"><a href="https://www.truthandaction.org/category/vaccines/">Vaccines</a>
+</li>
+<li class="cat-item cat-item-11863"><a href="https://www.truthandaction.org/category/health/vaccines-health/">Vaccines</a>
+</li>
+<li class="cat-item cat-item-27"><a href="https://www.truthandaction.org/category/health/water-fluoridation/">Water Fluoridation</a>
+</li>
+<li class="cat-item cat-item-18785"><a href="https://www.truthandaction.org/category/weather-conditions/">Weather Conditions</a>
+</li>
+</ul>
+</div></aside><!--#sidebar-->
+</div><!--#page-->
+<footer id="site-footer" itemscope="" itemtype="http://schema.org/WPFooter" role="contentinfo">
+<div class="copyrights">
+<div class="container">
+<!--start copyrights-->
+<div class="row" id="copyright-note">
+<span><a href=" https://www.truthandaction.org/" title=" Learn the Truth, then Take Action">Truth And Action</a> Copyright © 2021.</span>
+<div class="to-top"><ul><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137" id="menu-item-137"><a href="https://www.truthandaction.org/curation-policy/">Curation Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138" id="menu-item-138"><a href="https://www.truthandaction.org/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9182" id="menu-item-9182"><a href="https://www.truthandaction.org/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9217" id="menu-item-9217"><a href="https://www.facebook.com/TruthAndAction">Truth &amp; Action on Facebook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10094" id="menu-item-10094"><a href="https://www.truthandaction.org/volunteer-reporter-signup/">Report for Truth and Action</a></li>
+</ul> </div>
+</div>
+<!--end copyrights-->
+</div>
+</div>
+</footer><!--#site-footer-->
+</div><!--.main-container-->
+<!--start footer code-->
+<script type="text/javascript">
+var spm_site_ids = spm_site_ids || [];
+spm_site_ids.push(100785944);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//hello.staticstuff.net/w/spm.js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script>
+<noscript><p><img alt="SPM Analytics" height="1" src="//win.staticstuff.net/100785944ns.gif" width="1"/></p></noscript> <!--end footer code-->
+<script src="https://app.getresponse.com/view_webform.js?wid=5435101&amp;u=B3za" type="text/javascript"></script>
+<script type="text/javascript">var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel.sitescout.com/iap/f7ef9ecfad37ac34';new Image().src = ssaUrl;</script>
+<script class="rc-seg-pix" id="eJwFwQkBwDAIA0BLoxBgcsJT%2FxJ6l%2BPQPGhviWIYpH9dMR9GXmeMFTHUwFTwuyLHm6uAbucDMzsRtA%3D%3D" src="https://trends.revcontent.com/seg.js.php"></script><script type="text/javascript">
+/* <![CDATA[ */
+var impression_object = {"ajax_url":"https:\/\/www.truthandaction.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="https://www.truthandaction.org/wp-content/plugins/adrotate-pro/library/jquery.adrotate.dyngroup.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/www.truthandaction.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="https://www.truthandaction.org/wp-content/plugins/adrotate-pro/library/jquery.adrotate.clicktracker.js" type="text/javascript"></script>
+<script src="https://www.truthandaction.org/wp-content/plugins/theme-extras/script.js" type="text/javascript"></script>
+<script src="//c.securepaths.com/js/implement-r.js?org=brafukufa4a6e2hepruf&amp;p=truthandaction.org&amp;rt=click&amp;sl=1&amp;ver=1.0" type="text/javascript"></script>
+<script src="https://www.truthandaction.org/wp-includes/js/wp-embed.min.js" type="text/javascript"></script>
+<!-- AdRotate JS -->
+<script type="text/javascript">
+jQuery(document).ready(function(){if(jQuery.fn.gslider) {
+}});
+</script>
+<!-- /AdRotate JS -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"288c74d262","applicationID":"3982203","transactionName":"YlFTNkVWD0ZYVUcPXFsbcAFDXg5bFl9dAlZN","queueTime":0,"applicationTime":977,"atts":"ThZEQA1MHBkbVxFcSEhJ","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>
