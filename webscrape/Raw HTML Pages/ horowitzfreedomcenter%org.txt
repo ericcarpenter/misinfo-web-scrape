@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+<link href="/assets/images/favicon.ico" rel="shortcut icon"/>
+<title>David Horwitz Freedom Center</title>
+<meta content="" name="description">
+<link href="https://www.horowitzfreedomcenter.org" rel="canonical">
+<meta content="en_US" property="og:locale">
+<meta content="website" property="og:type"/>
+<meta content="David Horowitz Freedom Center" property="og:title"/>
+<meta content="" property="og:description"/>
+<meta content="http://www.horowitzfreedomcenter.org" property="og:url"/>
+<meta content="David Horowitz Freedom Center" property="og:site_name"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="" name="twitter:description"/>
+<meta content="David Horowitz Freedom Center" name="twitter:title"/>
+<meta content="noindex,nofollow" name="robots"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet"/>
+<link href="/assets/css/styles.css" rel="stylesheet" type="text/css"/>
+</meta></link></meta></head>
+<body class="front">
+<div class="page">
+<header id="header">
+<h1 id="site-name"><a href="/">David Horowitz Freedom Center</a></h1>
+<nav id="main-menu" role="navigation" tabindex="-1">
+<a href="#main-menu" id="main-menu-toggle"><span></span></a>
+<ul class="menu">
+<li class="first expanded"><a href="/about" title="">About</a>
+<ul class="menu">
+<li class="first leaf"><a href="/about">About</a></li>
+<li class="leaf"><a href="/contact">Contact</a></li>
+<li class="last leaf"><a href="/david-horowitz">David Horowitz</a></li>
+</ul>
+</li>
+<li class="leaf"><a href="/websites">Websites</a></li>
+<li class="leaf"><a href="/events">Events</a></li>
+<li class="expanded"><a href="/legacy-gift-program" title="">Legacy Gift Program</a>
+<ul class="menu">
+<li class="first leaf"><a href="/legacy-gift-program">Legacy Gift Program</a></li>
+<li class="leaf"><a href="/bequests">Bequests</a></li>
+<li class="leaf"><a href="/dhfc-legacy-society">DHFC Legacy Society</a></li>
+<li class="leaf"><a href="/gifts-bank-and-investment-accounts">Gifts of Bank and Investment Accounts</a></li>
+<li class="leaf"><a href="/gifts-life-insurance">Gifts of Life Insurance</a></li>
+<li class="last leaf"><a href="/gifts-retirement-assets">Gifts of Retirement Assets</a></li>
+</ul>
+</li>
+<li class="leaf home"><a class="active" href="/">Home</a></li>
+<li class="leaf"><a class="external" href="http://horowitzfreedomcenterstore.org/collections/books" title="">Bookstore</a></li>
+<li class="leaf"><a class="external" href="http://www.horowitzfreedomcenter.tv/" title="">Videos</a></li>
+<li class="leaf"><a href="/shillman-fellows">Shillman Fellows</a></li>
+<li class="last leaf"><a class="external" href="https://secure.anedot.com/david-horowitz-freedom-center/cb6cba11b185ecc583131" title="">Donate</a></li>
+</ul>
+</nav>
+</header>
+<div id="content" style="position: relative;">
+<main id="main">
+<section id="hero">
+<article class="node node-slideshow node-slideshow-full clearfix" id="node-3">
+<div class="slide">
+<!-- Background image desktop width 824x536 -->
+<div class="container" style="background-image:url('/assets/images/slide-1.jpg');">
+<div class="content">
+<h2>We are <strong>dedicated</strong> to</h2>
+<p>the <strong>defense of free societies</strong> whose moral, cultural and economic foundations are under attack by enemies both secular and religious, <strong>at home and abroad</strong>.</p>
+<p><a class="button" href="https://secure.anedot.com/david-horowitz-freedom-center/cb6cba11b185ecc583131" tabindex="-1">Support <em>our</em> Mission</a></p>
+</div>
+</div>
+</div>
+</article>
+</section>
+<section id="impact">
+<h2>We make our <strong>impact</strong> through…</h2>
+<div>
+<div class="container">
+<div class="item">
+<i aria-hidden="true" class="fa fa-globe"></i>
+<h3><strong>Websites</strong></h3>
+<p>We're utilizing the most awesome means of communication to spread our message and engage in a global dialogue. Our network of sites receive over 5 million views a month.</p>
+<a class="button-outlined" href="/websites">Learn More</a>
+</div>
+<div class="item">
+<i aria-hidden="true" class="fa fa-calendar-o"></i>
+<h3><strong>Events</strong></h3>
+<p>Our Annual Restoration Weekends and guest speaker engagements bring like-minded individuals together to foster a sense of community and strengthen our collective values.</p>
+<a class="button-outlined" href="/events">Learn More</a>
+</div>
+<div class="item">
+<i aria-hidden="true" class="fa fa-book"></i>
+<h3><strong>Books &amp; Pamphlets</strong></h3>
+<p>The David Horowitz Freedom Center was built on grassroots efforts. Our literature remains a key means of influence, allowing us to share ideas while engaging face to face.</p>
+<a class="button-outlined" href="http://horowitzfreedomcenterstore.org/collections/books">Learn More</a>
+</div>
+<div class="item">
+<i aria-hidden="true" class="fa fa-youtube-play"></i>
+<h3><strong>Videos</strong></h3>
+<p>Predictions suggest that by 2020 over 80% of internet traffic will be video. It is imperative we continue building and engaging our audience allegiance through video content.</p>
+<a class="button-outlined" href="http://www.horowitzfreedomcenter.tv/">Learn More</a>
+</div>
+</div>
+</div>
+</section>
+</main>
+</div>
+<footer id="footer">
+<section class="donation-pitch">
+<h2>Help us <strong>increase</strong> our reach</h2>
+<p>Our outreach relies on the generosity of our supporters. Join us today.</p>
+<a class="button" href="https://secure.anedot.com/david-horowitz-freedom-center/cb6cba11b185ecc583131">Donate</a>
+</section>
+<section class="footer">
+<div class="logo"><a href="#top">David Horowitz Freedom Center</a></div>
+<ul class="social-links">
+<li><a href="https://www.facebook.com/horowitzfreedomcenter"><i aria-hidden="true" class="fa fa-facebook-square"> </i> Follow us on Facebook</a></li>
+<li><a href="https://twitter.com/HorowitzCenter"><i aria-hidden="true" class="fa fa-twitter"> </i> Follow us on Twitter</a></li>
+</ul>
+<p>We are a 501(c)(3) non-profit organization. All donations are tax deductible.
+      <br/>
+<small>© Copyright 2016, David Horowitz Freedom Center</small></p>
+</section>
+</footer>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.19.1/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-kit/1.1.3/sticky-kit.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+<script src="/assets/js/scripts.js"></script>
+</body>
+</html>

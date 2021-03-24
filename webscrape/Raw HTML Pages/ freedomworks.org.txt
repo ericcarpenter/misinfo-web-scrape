@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+
+<html xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<script src="//cdn.optimizely.com/js/557101280.js"></script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1720106,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"37ad811456",applicationID:"157240990"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(6),c=e(7),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(5),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],6:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(6),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=b.info=NREUM.info,t=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(y,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+b.offset],null,"api"),c("timing",["load",n]);var r=p.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===p.readyState&&o()}function o(){c("mark",["domContent",a()+b.offset],null,"api")}var a=e(2),c=e("handle"),f=e(6),u=e("ee"),s=e(4),d=window,p=d.document,l="addEventListener",m="attachEvent",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1198.min.js"},h=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:w,features:{},xhrWrappable:h,userAgent:s};e(1),e(3),p[l]?(p[l]("DOMContentLoaded",o,!1),d[l]("load",r,!1)):(p[m]("onreadystatechange",i),d[m]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var x=0},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(7),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<script src="https://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript">FB.init({appId: '297053900345458', status: true, cookie: true});</script>
+<script>
+function teSocialMediaSharePost(name, link, description, picture) {
+  obj = {
+    method:       'feed',
+    name:         name,
+    link:         link,
+    description:  description,
+    picture:      picture,
+  };
+  FB.ui(obj);
+}
+</script><link href="https://www.freedomworks.org/sites/default/files/favicon.png" rel="shortcut icon" type="image/png"/>
+<meta content="Drupal 7 (https://www.drupal.org)" name="generator"/>
+<link href="https://www.freedomworks.org/" rel="canonical"/>
+<link href="https://www.freedomworks.org/" rel="shortlink"/>
+<meta content="FreedomWorks" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.freedomworks.org/" property="og:url"/>
+<meta content="FreedomWorks" property="og:title"/>
+<meta content="Lower Taxes, Less Government, More Freedom" property="og:description"/>
+<title>FreedomWorks | Lower Taxes, Less Government, More Freedom</title>
+<meta content="FreedomWorks is a grassroots service center dedicated to helping activists fight for lower taxes, less government, and more freedom." name="description"/>
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet"/>
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet"/>
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"/>
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome-ie7.min.css" rel="stylesheet"/>
+<link href="https://www.freedomworks.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://www.freedomworks.org/sites/default/files/css/css_WI12h-6VJXmW9OTtr6Bi6q0odCs15Tfq9jD_hue2U8U.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://www.freedomworks.org/sites/default/files/css/css_kH58Tez-y6IDVLlNcxkIpEhJizwzdo3Jz-7ypesB0E4.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://www.freedomworks.org/sites/default/files/css/css_Fa9D_AAl5DOfglq37Jj2UvKbfXricpO9usj5xTMXRYc.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://www.freedomworks.org/sites/default/files/css/css_7u8lE051BBugxq2Mw4WJ6iitxKlZLiQtKCWLOkbsxd4.css" media="print" rel="stylesheet" type="text/css"/>
+<!--[if IE 8 ]>
+      <link href="/sites/all/themes/freedomworks/css/ie8.css" rel="stylesheet">
+    <![endif]-->
+<!--[if IE 7 ]>
+      <link href="/sites/all/themes/freedomworks/css/ie7.css" rel="stylesheet">
+    <![endif]-->
+</link></link></link></link></meta></head>
+<body class="html front not-logged-in no-sidebars page-frontpage">
+<!--[if lte IE 8]>
+      <div id="browser-update">
+        Your browser is out of date. It has known security flaws and may not display all features of this and other websites.<br>
+        Please update to the <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">latest version of Internet Explorer</a>, <a href="https://www.google.com/intl/en/chrome/browser/">Chrome</a>, or <a href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a> for a better browsing experience.
+      </div>
+    <![endif]-->
+<div class="body-container">
+<div id="modal-shadow"></div>
+<a class="go-up" href="#"><i class="icon-chevron-up"></i></a>
+<div id="top">
+<div class="clearfix" id="top-bar">
+<div id="small-menu-hook"><a href="#"><i class="icon-reorder"></i></a></div>
+<div class="print-logo">
+<img src="/sites/all/themes/freedomworks/images/fw-logo-print.png"/>
+<p class="url">http://www.freedomworks.org/</p>
+</div>
+<div class="logo"><a href="/">
+<img class="desktop-visible" src="/sites/all/themes/freedomworks/images/fw-logo-color-large.png"/>
+<img class="tablet-visible" src="/sites/all/themes/freedomworks/images/fw-logo-small.png"/>
+<img class="mobile-visible" src="/sites/all/themes/freedomworks/images/fw-logo-small.png"/>
+</a></div>
+<div class="login">
+<a href="/user/login?destination=frontpage"><i class="icon-signin"></i> <span>Log In</span></a> </div>
+<div class="contribute">
+<a class="action-btn" href="https://contribution.freedomworks.org/contribute_give_default?utm_source=site-fw&amp;utm_medium=contribute-button&amp;utm_campaign=generic-contribute&amp;amt1=15&amp;amt2=35&amp;amt3=50&amp;amt4=100&amp;amt5=500&amp;amt6=1000&amp;amt7=2000" target="_blank">Contribute</a> </div>
+</div>
+</div>
+<div class="small-menu">
+<div class="block block-fw-menu" id="block-fw-menu-fw-mobile-menu">
+<div class="content">
+<div class="freedomworks-cse"><gcse:searchbox-only queryparametername="as_q" resultsurl="/search-results"></gcse:searchbox-only></div><ul><h4>Get Informed</h4><li><a href="/about/about-freedomworks">About Us</a></li><li><a href="/issues">Issues</a></li><li><a href="http://congress.freedomworks.org">Scorecards</a></li></ul><ul><h4>Get Involved</h4><li><a href="/content/free-membership-join-freedomworks">Join</a></li><li><a href="http://www.freedomworks.org/university">Learn</a></li><li><a href="http://www.freedomworks.org/action">Take Action</a></li></ul><ul><h4>Resources</h4><li><a href="/content/contact-freedomworks-headquarters">Contact</a></li><li><a href="http://foundation.freedomworks.org">Foundation</a></li><li><a href="/privacy-policy">Privacy Policy</a></li></ul><div class="fw-contact-info">
+<h4>Contact FreedomWorks</h4>
+<div class="address"><p>111 K Street NE<br/>
+Suite 600<br/>
+Washington, DC 20002</p>
+</div>
+<ul class="phone-numbers clearfix">
+<li>
+<strong>Toll Free</strong>
+                    1.888.564.6273        </li>
+<li>
+<strong>Local</strong>
+                    202.783.3870        </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix" id="big-menu">
+<div class="block block-fw-menu" id="block-fw-menu-fw-desktop-menu">
+<div class="content">
+<ul><li class="first-level 1984"><a href="/about/about-freedomworks">About Us</a></li><li class="first-level 1985"><a href="/issues">Issues</a></li><li class="first-level 1986"><a href="http://www.freedomworks.org/action">Take Action</a></li><li class="first-level 1988"><a href="http://congress.freedomworks.org">Scorecards</a></li><li class="first-level 1989"><a href="http://www.freedomworks.org/originals">Shows</a></li><li class="first-level 1987"><a href="/content/free-membership-join-freedomworks">Join</a></li><li class="first-level 1990"><a href="/">More</a></li></ul><div class="dropdown-block clearfix" id="dropdown-1984"><h2></h2><li class="sub-about about"><a href="/about/about-freedomworks">About FreedomWorks</a></li>
+<li class="sub-about board"><a href="/about/board-of-directors">Board of Directors</a></li>
+<li class="sub-about staff"><a href="/about/staff">Staff</a></li>
+<li class="sub-about employment"><a href="/employment-opportunities">Employment</a></li>
+<li class="sub-about internships"><a href="/about/internships">Internships</a></li>
+</div><div class="dropdown-block clearfix" id="dropdown-1985"><h2></h2><div class="row-fluid">
+<div class="span6 links left">
+<ul>
+<li><a href="/issue/budget-spending"><span>Budget &amp; Spending</span></a></li>
+<li><a href="/issue/civil-liberties"><span>Civil Liberties</span></a></li>
+<li><a href="/issue/education-reform"><span>Education Reform</span></a></li>
+<li><a href="/issue/energy-environment"><span>Energy &amp; Environment</span></a></li>
+<li><a href="/issue/entitlement-reform"><span>Entitlement Reform</span></a></li>
+<li><a href="/issue/fundamental-tax-reform"><span>Fundamental Tax Reform</span></a></li>
+<li><a href="/issue/health-care-reform"><span>Health Care Reform</span></a></li>
+</ul>
+</div>
+<div class="span6 links right">
+<ul>
+<li><a href="/judicial-reform"><span>Judicial Reform</span></a></li>
+<li><a href="/issue/justice-reform"><span>Justice Reform</span></a></li>
+<li><a href="/issue/regulatory-reform"><span>Regulatory Action Center</span></a></li>
+<li><a href="https://www.freedomworks.org/users/cdelvillar"><span>Retirement Readiness</span></a></li>
+<li><a href="/issue/sound-money"><span>Sound Money</span></a></li>
+<li><a href="/issue/term-limits"><span>Term Limits</span></a></li>
+<li><a href="/issue/workplace-freedom"><span>Workplace Freedom</span></a></li>
+</ul>
+</div>
+</div>
+</div><div class="dropdown-block clearfix" id="dropdown-1986"><div class="view view-action-menu-block view-id-action_menu_block view-display-id-menu_action view-dom-id-af65e064f1b5374c7ccb3de47272d25b">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://fw-d7-freedomworks-org.s3.amazonaws.com/202009-Platforms-web-final.pdf" target="_blank">A Comparison of Republican and Democrat Platforms to FreedomWorks’ Position on Major Issues</a></span> </div> </div>
+<div class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://fw-d7-freedomworks-org.s3.amazonaws.com/202009-TrumpAccomplishments-web-final.pdf" target="_blank">President Trump’s Top 4 Accomplishments in 4 Years</a></span> </div> </div>
+<div class="views-row views-row-3 views-row-odd views-row-last">
+<div class="views-field views-field-title"> <span class="field-content"><a href="https://www.reopenoureconomy.com/" target="_blank">Save Our Country Coalition</a></span> </div> </div>
+</div>
+<div class="view-footer">
+<h4>Join the Fight for Freedom</h4>
+<p>Government goes to those who show up. FreedomWorks makes it easy to hold your elected officials accountable in our fully interactive Action Center.</p>
+<div>
+<a class="call-to-action" href="http://www.freedomworks.org/action">See More Actions</a>
+</div> </div>
+</div></div><div class="dropdown-block clearfix" id="dropdown-1988"><h2></h2><div class="congress-left">
+<h4>Scorecards:</h4>
+<div class="column"><h5>House</h5>
+<a class="scorecard" href="http://congress.freedomworks.org/keyvotes/house/2019">2019 House Scorecard</a>
+<a class="scorecard" href="http://congress.freedomworks.org/keyvotes/house/2018">2018 House Scorecard</a>
+<a class="scorecard" href="http://congress.freedomworks.org/keyvotes/house/2017">2017 House Scorecard</a>
+<a class="scorecard" href="http://congress.freedomworks.org/keyvotes/house/2016">2016 House Scorecard</a>
+</div>
+<div class="column"><h5>Senate</h5>
+<a class="scorecard" href="http://congress.freedomworks.org/keyvotes/senate/2019">2019 Senate Scorecard</a>
+<a class="scorecard" href="http://congress.freedomworks.org/keyvotes/senate/2018">2018 Senate Scorecard</a>
+<a class="scorecard" href="http://congress.freedomworks.org/keyvotes/senate/2017">2017 Senate Scorecard</a>
+<a class="scorecard" href="http://congress.freedomworks.org/keyvotes/senate/2016">2016 Senate Scorecard</a>
+</div>
+</div>
+<div class="congress-right">
+<h4>Hold Congress Accountable</h4>
+<p>Want to see how <strong><em>your</em></strong> legislators voted on key FreedomWorks issues? You can use our key vote scorecards to see how they measure up.</p>
+<a class="call-to-action" href="http://congress.freedomworks.org/">Find Your Legislator</a>
+</div></div><div class="dropdown-block clearfix" id="dropdown-1989"><h2></h2><style type="text/css">
+#dropdown-1989 {
+  width: 400px;
+}
+</style>
+<div class="connect-left" style="width: auto; float: none; padding: 0;">
+<p>FreedomWorks Originals provides you entertainment and education to help you better understand economics, the workings of government, and our insight into the most important debates facing our nation today. Watch and subscribe today!</p>
+<a href="http://www.freedomworks.org/originals">Watch Now</a>
+<a href="http://www.freedomworks.org/subscribe">Subscribe Now</a>
+</div></div><div class="dropdown-block clearfix" id="dropdown-1987"><h2>Become a FreedomWorks Member</h2><noscript>
+<style>form.antibot { display: none !important; }</style>
+<div class="antibot-no-js antibot-message antibot-message-warning messages warning">
+    You must have JavaScript enabled to use this form.  </div>
+</noscript>
+<div id="webform-ajax-wrapper-130"><form accept-charset="UTF-8" action="/antibot" class="webform-client-form antibot" enctype="multipart/form-data" id="webform-client-form-130" method="post"><div><div class="form-item webform-component webform-component-email" id="webform-component-email">
+<label class="element-invisible" for="edit-submitted-email--2">Email <span class="form-required" title="This field is required.">*</span></label>
+<input class="email webform form-text form-email required" id="edit-submitted-email--2" name="submitted[email]" size="60" type="email"/>
+</div>
+<div class="form-item webform-component webform-component-textfield" id="webform-component-zip-code">
+<label class="element-invisible" for="edit-submitted-zip-code">Zip Code <span class="form-required" title="This field is required.">*</span></label>
+<input class="webform zip form-text required" id="edit-submitted-zip-code" maxlength="128" name="submitted[zip_code]" size="60" type="text" value=""/>
+</div>
+<input name="details[sid]" type="hidden"/>
+<input name="details[page_num]" type="hidden" value="1"/>
+<input name="details[page_count]" type="hidden" value="1"/>
+<input name="details[finished]" type="hidden" value="0"/>
+<input name="form_build_id" type="hidden" value="form-bGWjwfLoWMEHxplNlhORhyyIJiM9rBTtNpmeWk18yZQ"/>
+<input name="form_id" type="hidden" value="webform_client_form_130"/>
+<input name="antibot_key" type="hidden" value=""/>
+<input name="webform_ajax_wrapper_id" type="hidden" value="webform-ajax-wrapper-130"/>
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+<label for="edit-url--2">Leave this field blank </label>
+<input autocomplete="off" class="form-text" id="edit-url--2" maxlength="128" name="url" size="20" type="text" value=""/>
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions--2"><input class="form-submit" id="edit-webform-ajax-submit-130" name="op" type="submit" value="Submit"/></div></div></form></div></div><div class="dropdown-block clearfix" id="dropdown-1990"><h2></h2><div class="more">
+<div class="row-fluid">
+<!-- Contact -->
+<div class="span4 contact">
+<div class="fw-contact-info">
+<h4>Contact FreedomWorks</h4>
+<div class="address"><p>111 K Street NE<br/>
+Suite 600<br/>
+Washington, DC 20002</p>
+</div>
+<ul class="phone-numbers clearfix">
+<li>
+<strong>Toll Free</strong>
+                    1.888.564.6273        </li>
+<li>
+<strong>Local</strong>
+                    202.783.3870        </li>
+</ul>
+</div>
+<!--  <ul class="more-links">
+<li>Site by <a href="http://www.terraeclipse.com" target="_new">Terra Eclipse</a></li></ul> -->
+</div>
+<!-- Social Search -->
+<div class="span4 social-search">
+<h4>Search FreedomWorks</h4>
+<div class="google-search">
+<gcse:searchbox-only queryparametername="as_q" resultsurl="/search-results"></gcse:searchbox-only> </div>
+<div class="row-fluid social-links-list">
+<div class="span12">
+<ul class="social-media clearfix">
+<li>
+<div class="social-media-icons facebook">
+<a href="https://www.facebook.com/FreedomWorks"><i class="icon-facebook"></i></a>
+</div>
+</li>
+<li>
+<div class="social-media-icons youtube">
+<a href="http://www.youtube.com/user/FreedomWorksAction"><i class="icon-youtube"></i></a>
+</div>
+</li>
+<li>
+<div class="social-media-icons twitter">
+<a href="https://twitter.com/FreedomWorks"><i class="icon-twitter"></i></a>
+</div>
+</li>
+<li>
+<div class="social-media-icons google">
+<a href="https://www.instagram.com/freedomworks/"><i class="icon-instagram"></i></a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div> <!-- .social-search -->
+<!-- Links -->
+<div class="span4 links">
+<h4>Resources</h4>
+<ul class="more-links">
+<li><a href="/contact">Contact</a></li>
+<li><a href="http://foundation.freedomworks.org">Foundation</a></li>
+<li><a href="/feed">Main RSS Feed</a></li>
+<li><a href="/press_releases/feed">Press Release RSS</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+</ul>
+</div>
+</div> <!-- .row-fluid -->
+</div> <!-- .more --></div> </div>
+</div>
+</div>
+<div class="clearfix" id="main-content">
+<div class="faux-columns clearfix">
+<!-- orig happening now -->
+<div id="feature">
+<div id="feature-inner">
+<div class="region region-feature">
+<div class="block block-webform" id="block-webform-client-block-66102">
+<h2>Save The Nation - Feb 2021</h2>
+<div class="content">
+<div about="/content/save-nation-feb-2021" class="node node-webform node-full" id="node-66102" typeof="sioc:Item foaf:Document">
+<div class="node-container">
+<h1>
+        Save The Nation - Feb 2021      </h1>
+<span class="rdf-meta element-hidden" content="Save The Nation - Feb 2021" property="dc:title"></span><span class="rdf-meta element-hidden" content="0" datatype="xsd:integer" property="sioc:num_replies"></span>
+<div class="nodecontent">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="heading1">SAVE THE NATION</div>
+<div class="heading2">SUNDAYS AT 11 AM ET ON NEWSMAX TV</div>
+<div class="heading3">TEXT "NATION" TO 41490</div>
+<style>
+<!--/*--><![CDATA[/* ><!--*/
+
+#feature .block-webform {
+  background-position: -16px 20px;
+  position: relative;
+}
+
+fieldset {
+    display: none;
+}
+
+#feature form:after,
+#feature .form-item:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+#feature form > div {
+  display: table;
+  width: 100%;
+}
+
+#feature h2 {
+display:none;
+}
+
+#feature {
+  background: url('https://fw-d7-freedomworks-org.s3.amazonaws.com/STN-Hero-Blank.png') 0 0px no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 450px; 
+}
+
+#feature-inner {
+
+}
+
+#feature .block-webform {
+  display: block;
+  clear: both;
+  background: url('') 0 0px no-repeat;
+  height: 320px;
+  width: 800px;
+  margin: 0 auto;
+}
+
+#feature h1, #feature .submitted-info, #feature .links-container{
+  display: none;
+}
+
+#feature .heading1{
+  font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+  font-weight: 500;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 4.25em;
+  line-height: 0.9em;
+  text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2);
+  letter-spacing: 0.02em;
+  margin-left: 2px;
+  padding-top: 125px;
+  padding-bottom: 8px; 
+}
+
+#feature .heading2 {
+  font-family: Arial Bold, Helvetica, sans-serif;
+  font-weight: 600;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 2.2em;
+  line-height: 0.9em;
+  letter-spacing: -0.01em;
+  margin-left: 2px;
+  padding-top: 5px;
+  padding-bottom: 3px; 
+}
+
+#feature .heading3 {
+  font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+  font-weight: 200;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 0.9em;
+  letter-spacing: 0.05em;
+  margin-left: 2px;
+  padding-top: 15px;
+  padding-bottom: 3px; 
+}
+
+
+
+
+#feature .form-submit {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+  background-color: #56bddf;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+#feature .form-submit:hover {
+  background-color: #f04949;
+  color: white;
+}
+
+#feature  #webform-component-email, 
+#feature #webform-component-zip {
+  display:none !important;
+}
+
+
+#feature .legal {
+  text-align: center;
+  width: 80%;
+  position: absolute;
+  bottom: 25px;
+  left: 50%;
+  margin-left: -40%;
+  font-size: 0.85em;
+  line-height: 1.3em;
+  color: #fff;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.1);
+  border: 1px solid;
+}
+#feature .legal a {
+  color: #fff;
+}
+#feature .legal .inner {
+  padding: 10px;
+}
+
+
+
+
+
+  
+}
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 899px) {
+  #feature {
+    padding: 2em;
+    height: 160px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+     box-sizing: border-box;
+  }
+
+  #feature .form-submit {
+    width: 30%;
+  }
+
+  #feature .block-webform {
+    width: auto;
+    height: 160px;
+  }
+
+ #feature .heading2 {
+    padding-top: 14px;
+    font-size: 2.5em;
+    line-height: 1.1em;
+    padding-bottom: 14px;
+    padding: 0 0 15px 0;
+    letter-spacing: normal;
+  }
+
+  #feature .heading3 {
+    padding-top: 2px;
+    font-size: 1.7em;
+    line-height: 1.1em;
+    padding-bottom: 14px;
+    padding: 0 0 15px 0;
+    letter-spacing: normal;
+  }
+
+  #feature p {
+    display: none;
+  }
+
+  #feature form {
+    margin-top: 10px;
+  }
+}
+
+
+/* Mobile */
+@media (max-width: 767px) {
+  #feature form {
+    margin-left: 0;
+    width: 100% !important;
+  }
+
+  #feature,
+  #feature .block-webform {
+    height:330px;
+  }
+
+  #feature .block-webform {
+    width: auto;
+  }
+
+  #feature .heading3 {
+    font-size: 1.1em;
+    line-height: 0.90em;
+    text-shadow: 0 1px 1px #000;
+    padding-top: 5px;
+    padding-bottom: 0.3em;
+    letter-spacing: 0.00em;
+  }
+
+  #feature .heading2 {
+    font-size: 2em;
+    line-height: 0.95em;
+    text-shadow: 0 1px 1px #000;
+    padding-top: 5px;
+    padding-bottom: 2px; 
+  }
+
+  #feature .heading1 {
+    font-size: 2em;
+    line-height: 0.90em;
+    text-shadow: 0 1px 1px #000;
+    padding-top: 25px;
+    padding-bottom: 3px;
+    letter-spacing: 0.05em;
+  }
+
+
+
+  #feature .node-container {
+    padding: 1.5em;
+  }
+
+  #feature .form-text {
+    font-size: 0.9em;
+  }
+
+  #feature .form-item,
+  #feature .form-actions,
+  #feature .form-submit,
+  #feature .form-email {
+    display: block;
+    width: 71% !important;
+    margin-bottom: 0em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1em;
+  }
+
+  #feature .form-item {
+    padding-right: 0;
+  }
+
+  #feature #main-content {
+    margin-top: 50px;
+  }
+
+  #feature .contribute {
+    display:none;
+    height: 0;
+  }
+
+  #feature .legal {
+    width: 90%;
+    bottom: 15px;
+    left: 15px;
+    margin-left: 0;
+    font-size: 0.8em;
+  }
+  #feature .legal .inner {
+    padding: 5px;
+  }
+}
+
+/*--><!]]>*/
+</style></div></div></div><div id="webform-ajax-wrapper-66102"><form accept-charset="UTF-8" action="/content/save-nation-feb-2021" class="webform-client-form" enctype="multipart/form-data" id="webform-client-form-66102" method="post"><div><div class="form-item webform-component webform-component-email" id="webform-component-email">
+<label class="element-invisible" for="edit-submitted-email">Your Email </label>
+<input class="email webform form-text form-email" id="edit-submitted-email" name="submitted[email]" size="60" type="email"/>
+</div>
+<div class="form-item webform-component webform-component-number" id="webform-component-zip">
+<label class="element-invisible" for="edit-submitted-zip">Zip </label>
+<input class="webform zip form-text form-number" id="edit-submitted-zip" name="submitted[zip]" step="any" type="number"/>
+</div>
+<input name="details[sid]" type="hidden"/>
+<input name="details[page_num]" type="hidden" value="1"/>
+<input name="details[page_count]" type="hidden" value="1"/>
+<input name="details[finished]" type="hidden" value="0"/>
+<input name="form_build_id" type="hidden" value="form-iIoJ1lNe97VZ_tUBIIxfFcxgYhAGu4PYBWSloBRn4To"/>
+<input name="form_id" type="hidden" value="webform_client_form_66102"/>
+<input name="webform_ajax_wrapper_id" type="hidden" value="webform-ajax-wrapper-66102"/>
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+<label for="edit-url">Leave this field blank </label>
+<input autocomplete="off" class="form-text" id="edit-url" maxlength="128" name="url" size="20" type="text" value=""/>
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><input class="form-submit" id="edit-webform-ajax-submit-66102" name="op" type="submit" value="WATCH NOW"/></div></div></form></div> </div>
+<div class="links-container">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-block" id="block-block-24">
+<div class="content">
+<style>
+body.not-logged-in .contextual-links-wrapper{display: none;}
+</style> </div>
+</div>
+</div>
+</div>
+</div>
+<div id="happening-now">
+<div class="te-now-rotator"><div class="te-now-events"><div class="te-now-event clearfix"><div class="te-now-container"><div class="te-now-inner"><span class="te-now-label">WATCH NOW</span><span class="te-now-title"> The Filibuster’s Fate, Biden’s Immigration Crisis, &amp; Congress’ COVID Spending </span><span class="te-now-button"><a href="https://www.youtube.com/watch?v=WohliOQ5ysw&amp;list=PLAoU4s-0x7ZpwcEYBbnsKRJp6h1bldnyC" target="_blank"><span class="te-now-button-text">Watch Here</span><span class="te-now-icon"><i class="icon-play"></i></span></a></span></div></div></div></div></div> </div>
+<div class="column-headers">
+<div class="column-headers-inner clearfix">
+<div class="left"><h3>All the Latest</h3><div class="content-select-list"><ul><span class="filtering"><span class="everything">Everything <i class="icon-caret-down"></i></span></span><li class="blog">Blog</li><li class="event">Events</li><li class="press-release">Press</li><li class="key-vote">Key Votes</li><li class="audio">Podcasts</li><li class="video">Videos</li><li class="tweet">Tweets</li><li class="image">Photos</li></ul></div></div><div class="right"><h3>In Action</h3></div> </div>
+</div>
+<div class="content-inner clearfix">
+<div id="content">
+<div class="region region-content">
+<div class="content-stream" id="content-stream"><div class="block block-system" id="block-system-main">
+<div class="content">
+<div class="clearfix">
+<div class="node node-article node-promoted node-teaser blog clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsupport-right-test-act-hr-719-and-s-152%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsupport-right-test-act-hr-719-and-s-152%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/support-right-test-act-hr-719-and-s-152?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/te_social_media_share/fw_default_0.jpg?itok=35IWEBMb</div></div></div> <div class="type">Blog</div>
+<h3><a href="/content/support-right-test-act-hr-719-and-s-152">Support the Right to Test Act, H.R. 719 and S. 152</a></h3>
+<div class="author">BY <a href="/users/abrandon">Adam Brandon</a></div>
+<div class="node-teaser-content"><p>On behalf of FreedomWorks’ activist community, I urge you to contact your representative and senators and ask them to cosponsor the Right to Test Act, H.R. 719 and S. 152. Introduced by Rep. Patrick McHenry and Sen. Ted Cruz (R-Texas), the Right to Test Act would simply allow states to approve COVID-19 testing to be used in their state without the interference of the Federal Drug Administration (FDA).</p></div>
+<div class="comments"><a href="/content/support-right-test-act-hr-719-and-s-152#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 11 hours ago</div>
+</div>
+<div class="node node-external-content node-promoted node-teaser op-ed-placement clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Ftheres-no-mandate-democrats-nuke-filibuster%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Ftheres-no-mandate-democrats-nuke-filibuster%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/theres-no-mandate-democrats-nuke-filibuster?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/senate_3.jpg?itok=6JzayY3T</div></div></div> <div class="type">Op-ed Placement</div>
+<div class="image" style="background-image: url('https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/large/s3/field/image/senate_3.jpg?itok=jWdgFPwM')">
+<a href="/content/theres-no-mandate-democrats-nuke-filibuster"></a>
+</div>
+<h3><a href="/content/theres-no-mandate-democrats-nuke-filibuster">There's No Mandate for Democrats to Nuke the Filibuster</a></h3>
+<div class="author">BY <a href="/users/abrandon">Adam Brandon</a></div>
+<div class="node-teaser-content"><p>Democrats by no measure have a clear mandate in Washington. But they sure do act like it.</p></div>
+<div class="comments"><a href="/content/theres-no-mandate-democrats-nuke-filibuster#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 15 hours ago</div>
+</div>
+<div class="node node-external-content node-promoted node-teaser op-ed-placement clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Famerica-deserves-sober-push-election-integrity%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Famerica-deserves-sober-push-election-integrity%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/america-deserves-sober-push-election-integrity?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/Newsmax-1.png?itok=ebQpqVfJ</div></div></div> <div class="type">Op-ed Placement</div>
+<div class="image" style="background-image: url('https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/large/s3/field/image/Newsmax-1.png?itok=c71qj0cU')">
+<a href="/content/america-deserves-sober-push-election-integrity"></a>
+</div>
+<h3><a href="/content/america-deserves-sober-push-election-integrity">America Deserves a Sober Push for Election Integrity</a></h3>
+<div class="author">BY Adam Brandon and Cleta Mitchell</div>
+<div class="node-teaser-content"><p>Following the chaos of the 2020 presidential race, a growing number of Americans are realizing that election integrity is a critical issue that must be addressed. Americans of all political persuasions largely agree on key principles to protect America's election systems: voter ID laws for both in-person and mail-in voting, cleaning voter rolls, and common-sense election administration safeguards.</p></div>
+<div class="comments"><a href="/content/america-deserves-sober-push-election-integrity#comments"><i class="icon-comment"></i> 1</a></div>
+<div class="timestamp"><i class="icon-time"></i> 1 day ago</div>
+</div>
+<div class="node node-external-content node-promoted node-teaser op-ed-placement clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fyou-would-be-naive-presume-19-trillion-targeted-covid%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fyou-would-be-naive-presume-19-trillion-targeted-covid%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/you-would-be-naive-presume-19-trillion-targeted-covid?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/money%20ball.jpeg?itok=CrGTpaQh</div></div></div> <div class="type">Op-ed Placement</div>
+<div class="image" style="background-image: url('https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/large/s3/field/image/money%20ball.jpeg?itok=HjZQuHKh')">
+<a href="/content/you-would-be-naive-presume-19-trillion-targeted-covid"></a>
+</div>
+<h3><a href="/content/you-would-be-naive-presume-19-trillion-targeted-covid"> You Would Be Naive to Presume the $1.9 Trillion Is Targeted at COVID</a></h3>
+<div class="author">BY <a href="/users/lhogg">Luke Hogg</a></div>
+<div class="node-teaser-content"><p>As Congress sends the latest COVID-19 “stimulus” package to the White House for President Biden’s signature, the furious and unprecedented pace at which Congress continues to approve new funds has left many observers questioning where all the money has gone. The short answer to this question is that a significant portion of those funds haven’t gone anywhere.</p></div>
+<div class="comments"><a href="/content/you-would-be-naive-presume-19-trillion-targeted-covid#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 1 day ago</div>
+</div>
+<div class="node node-video node-promoted node-teaser video clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Ffilibuster%E2%80%99s-fate-biden%E2%80%99s-immigration-crisis-congress%E2%80%99-covid-spending%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Ffilibuster%E2%80%99s-fate-biden%E2%80%99s-immigration-crisis-congress%E2%80%99-covid-spending%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/filibuster\u2019s-fate-biden\u2019s-immigration-crisis-congress\u2019-covid-spending?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/te_social_media_share/fw_default_0.jpg?itok=35IWEBMb</div></div></div> <div class="video-wrapper"><iframe frameborder="0" height="100%" id="ytplayer" src="https://www.youtube.com/embed/WohliOQ5ysw" type="text/html" width="100%"></iframe></div> <h3><a href="/content/filibuster%E2%80%99s-fate-biden%E2%80%99s-immigration-crisis-congress%E2%80%99-covid-spending">The Filibuster’s Fate, Biden’s Immigration Crisis, &amp; Congress’ COVID Spending</a></h3>
+<div class="author">BY <a href="/users/freedomworks-staff">FreedomWorks Staff</a></div>
+<div class="call-to-action"><div><a href="https://www.youtube.com/watch?v=WohliOQ5ysw&amp;list=PLAoU4s-0x7ZpwcEYBbnsKRJp6h1bldnyC" style="" target="_blank">WATCH &amp; SUBSCRIBE</a></div></div> <div class="comments"><a href="/content/filibuster%E2%80%99s-fate-biden%E2%80%99s-immigration-crisis-congress%E2%80%99-covid-spending#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 4 days ago</div>
+</div>
+<div class="node node-article node-promoted node-teaser press-release clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Ffreedomworks-urges-schools-reopen-person-learning%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Ffreedomworks-urges-schools-reopen-person-learning%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/freedomworks-urges-schools-reopen-person-learning?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/te_social_media_share/fw_default_0.jpg?itok=35IWEBMb</div></div></div> <div class="type">Press Release</div>
+<h3><a href="/content/freedomworks-urges-schools-reopen-person-learning">FreedomWorks Urges Schools to Reopen to In-Person Learning</a></h3>
+<div class="author">BY <a href="/users/pvicenzi">Peter Vicenzi</a></div>
+<div class="node-teaser-content"><p>WASHINGTON, D.C. -- In response to the Center on Reinventing Public Education’s (CRPE) report, which urges schools to reopen following studies into the safety of in-person learning and repercussions of continued remote learning, Laura Zorc, FreedomWorks Director of Education Reform, commented:</p></div>
+<div class="comments"><a href="/content/freedomworks-urges-schools-reopen-person-learning#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 5 days ago</div>
+</div>
+<div class="node node-external-content node-promoted node-teaser radio-hit clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsarah-anderson-richmonds-morning-news-john-reid%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsarah-anderson-richmonds-morning-news-john-reid%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/sarah-anderson-richmonds-morning-news-john-reid?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/te_social_media_share/fw_default_0.jpg?itok=35IWEBMb</div></div></div> <div class="type">Radio Hit</div>
+<h3><a href="/content/sarah-anderson-richmonds-morning-news-john-reid">Sarah Anderson on Richmond's Morning News with John Reid</a></h3>
+<div class="author">BY <a href="/users/pvicenzi">Peter Vicenzi</a></div>
+<div class="node-teaser-content"><p>Director of Policy Sarah joins John in Richmond to unpack the For the People Act, H.R.1, and the threats it poses to election integrity and free speech.</p></div>
+<div class="comments"><a href="/content/sarah-anderson-richmonds-morning-news-john-reid#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 5 days ago</div>
+</div>
+<div class="node node-article node-promoted node-teaser blog clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsupport-school-act-hr-1770-and-s-665%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsupport-school-act-hr-1770-and-s-665%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/support-school-act-hr-1770-and-s-665?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/te_social_media_share/fw_default_0.jpg?itok=35IWEBMb</div></div></div> <div class="type">Blog</div>
+<h3><a href="/content/support-school-act-hr-1770-and-s-665">Support the SCHOOL Act, H.R. 1770 and S. 665</a></h3>
+<div class="author">BY <a href="/users/abrandon">Adam Brandon</a></div>
+<div class="node-teaser-content"><p>On behalf of FreedomWorks’ activist community, I urge you to contact your representative and senators and ask them to cosponsor the Support Children Having Open Opportunities for Learning (SCHOOL) Act, H.R. 1770 and S. 665, if they haven’t already done so. Introduced by Rep. Chip Roy (R-Texas) and Sen. Rand Paul (R-Ky.) the SCHOOL Act would grant American families more choice in how their children are educated both during the COVID-19 pandemic and long after schools return to normal.</p></div>
+<div class="comments"><a href="/content/support-school-act-hr-1770-and-s-665#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 5 days ago</div>
+</div>
+<div class="node node-article node-promoted node-teaser blog clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsupport-regulations-executive-need-scrutiny-reins-act-hr-1776%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsupport-regulations-executive-need-scrutiny-reins-act-hr-1776%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/support-regulations-executive-need-scrutiny-reins-act-hr-1776?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/te_social_media_share/fw_default_0.jpg?itok=35IWEBMb</div></div></div> <div class="type">Blog</div>
+<h3><a href="/content/support-regulations-executive-need-scrutiny-reins-act-hr-1776">Support the Regulations from the Executive in Need of Scrutiny (REINS) Act, H.R. 1776</a></h3>
+<div class="author">BY <a href="/users/abrandon">Adam Brandon</a></div>
+<div class="node-teaser-content"><p>On behalf of FreedomWorks’ activist community, I urge you to contact your representative and ask him or her to cosponsor the Regulations from the Executive in Need of Scrutiny (REINS) Act, H.R. 1776, if they haven’t already done so. Introduced by Rep. Kat Cammack (R-Fla.) as a companion to Sen. Rand Paul’s (R-Ky.) S. 68 in the Senate, the REINS Act would reaffirm the legislative branch’s Article I constitutional authority by requiring that economically significant rules be approved through a joint resolution of Congress before they are allowed to take effect.</p></div>
+<div class="comments"><a href="/content/support-regulations-executive-need-scrutiny-reins-act-hr-1776#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 5 days ago</div>
+</div>
+<div class="node node-external-content node-promoted node-teaser radio-hit clearfix">
+<div class="node-teaser-social"><a class="social facebook" href=""><i class="icon-facebook"></i></a><a class="social google" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsarah-anderson-jesse-kelly-radio-show%3Fsocial%3Dgoogle_share"><i class="icon-google-plus"></i></a><a class="social twitter" href="https://twitter.com/intent/tweet?text= https%3A%2F%2Fwww.freedomworks.org%2Fcontent%2Fsarah-anderson-jesse-kelly-radio-show%3Fsocial%3Dtwitter_share"><i class="icon-twitter"></i></a><div class="fb-meta"><div class="name">""</div><div class="link">"https:\/\/www.freedomworks.org\/content\/sarah-anderson-jesse-kelly-radio-show?social=facebook_share"</div><div class="description">""</div><div class="picture">https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/te_social_media_share/fw_default_0.jpg?itok=35IWEBMb</div></div></div> <div class="type">Radio Hit</div>
+<h3><a href="/content/sarah-anderson-jesse-kelly-radio-show">Sarah Anderson on The Jesse Kelly Radio Show</a></h3>
+<div class="author">BY <a href="/users/pvicenzi">Peter Vicenzi</a></div>
+<div class="node-teaser-content"><p>Director of Policy Sarah joins Jesse to make the case against H.R.1., the For the People Act.</p></div>
+<div class="comments"><a href="/content/sarah-anderson-jesse-kelly-radio-show#comments"><i class="icon-comment"></i> 0</a></div>
+<div class="timestamp"><i class="icon-time"></i> 6 days ago</div>
+</div>
+</div><div class="content-loading"><i class="fa fa-spinner fa-spin fa-lg"></i></div><h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a href="/frontpage?page=1" title="Go to page 2">2</a></li>
+<li class="pager-item"><a href="/frontpage?page=2" title="Go to page 3">3</a></li>
+<li class="pager-item"><a href="/frontpage?page=3" title="Go to page 4">4</a></li>
+<li class="pager-item"><a href="/frontpage?page=4" title="Go to page 5">5</a></li>
+<li class="pager-item"><a href="/frontpage?page=5" title="Go to page 6">6</a></li>
+<li class="pager-item"><a href="/frontpage?page=6" title="Go to page 7">7</a></li>
+<li class="pager-item"><a href="/frontpage?page=7" title="Go to page 8">8</a></li>
+<li class="pager-item"><a href="/frontpage?page=8" title="Go to page 9">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a href="/frontpage?page=1" title="Go to next page">next ›</a></li>
+<li class="pager-last last"><a href="/frontpage?page=1734" title="Go to last page">last »</a></li>
+</ul></div> </div>
+</div>
+</div> </div>
+</div>
+<div id="right-sidebar">
+<div class="region region-right">
+<div class="block block-block" id="block-block-1">
+<div class="content">
+    FreedomWorks exists to <strong>build, educate, and mobilize </strong>the largest network of activists advocating the principles of smaller government, lower taxes, free markets, personal liberty and the rule of law.  </div>
+</div>
+<div id="actions-ads"><div class="block block-te-actions-ads" id="block-te-actions-ads-actions-ads">
+<h2><h3 class="mobile-visible">In Action</h3></h2>
+<div class="content">
+<div class="block action action-display-mode-title" style="background-image: url(https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/large/s3/Trump_Accomplishments_SideBar01aa.jpg?itok=f75nFpLh); background-color: "><div class="caption"><a class="title" href="https://fw-d7-freedomworks-org.s3.amazonaws.com/202009-TrumpAccomplishments-web-final.pdf">President Trump’s Top 4 Accomplishments in 4 Years</a><div class="sub-caption"><a class="button" href="https://fw-d7-freedomworks-org.s3.amazonaws.com/202009-TrumpAccomplishments-web-final.pdf" target="_blank">LEARN MORE</a></div></div></div><div class="block action action-display-mode-title" style="background-image: url(https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/large/s3/On_the_Issues_SideBar01.jpg?itok=QYwj0pKK); background-color: "><div class="caption"><a class="title" href="https://fw-d7-freedomworks-org.s3.amazonaws.com/202009-Platforms-web-final.pdf">A Comparison of Republican and Democrat Platforms to FreedomWorks’ Position on Major Issues</a><div class="sub-caption"><a class="button" href="https://fw-d7-freedomworks-org.s3.amazonaws.com/202009-Platforms-web-final.pdf" target="_blank"></a></div></div></div><div class="block action action-display-mode-title" style="background-image: url(https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/large/s3/FW-Reopen-Microsite-Feature.png?itok=lsE-LSvl); background-color: "><div class="caption"><a class="title" href="https://www.reopenoureconomy.com/">Save Our Country Coalition</a><div class="sub-caption"><p>FreedomWorks Foundation, American Legislative Exchange Council, Tea Party Patriots and Committee to Unleash Prosperity in partnership with a coalition of conservative organizations and prominent individuals, launched the Save Our Country Task Force.</p>
+<a class="button" href="https://www.reopenoureconomy.com/" target="_blank">LEARN MORE</a></div></div></div><div class="block action action-display-mode-title" style="background-image: url(https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/large/s3/FW-Website-2020Policy.png?itok=Mvd8bKt2); background-color: #212121"><div class="caption"><a class="title" href="http://www.freedomworks.org/content/freedomworks-releases-2020-platform-and-activist-pledge">2020 Platform &amp; Activist Pledge</a><div class="sub-caption"><p>FreedomWorks is proud to roll out its 2020 policy platform for the Republican Party.</p>
+<a class="button" href="http://www.freedomworks.org/content/freedomworks-releases-2020-platform-and-activist-pledge" target="_blank">LEARN MORE</a></div></div></div><div class="block action action-display-mode-title" style="background-image: url(https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/large/s3/Green_New_Deal_SideBar01.jpg?itok=9gRwwvWM); background-color: #212121"><div class="caption"><a class="title" href="https://fwact.org/Ag65yU7?utm_source=site-fw&amp;utm_medium=side-act&amp;utm_campaign=20180408-green-new-deal">Stop the Socialist Green New Deal</a><div class="sub-caption"><p>Help stop the Democrats’ socialist Green New Deal by signing the petition.</p>
+<a class="button" href="https://fwact.org/Ag65yU7?utm_source=site-fw&amp;utm_medium=side-act&amp;utm_campaign=20180408-green-new-deal" target="_blank">SIGN THE PETITION</a></div></div></div> </div>
+</div>
+</div> </div>
+</div>
+<div class="contribute contribute-footer">
+<a class="action-btn" href="https://contribution.freedomworks.org/contribute_give_default?utm_source=site-fw&amp;utm_medium=contribute-button&amp;utm_campaign=generic-contribute&amp;amt1=15&amp;amt2=35&amp;amt3=50&amp;amt4=100&amp;amt5=500&amp;amt6=1000&amp;amt7=2000" target="_blank">Contribute</a> </div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ctSetCookie("ct_check_js", "bcb932e7e1e797745f045a6004040e36", "0");
+//--><!]]>
+</script>
+</div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script src="https://www.freedomworks.org/sites/default/files/js/js_38VWQ3jjQx0wRFj7gkntZr077GgJoGn5nv3v05IeLLo.js" type="text/javascript"></script>
+<script src="https://www.freedomworks.org/sites/default/files/js/js_GfhfG87z3G2pfx75lv_6Kp7vstsqWlnAb2C3ovnrHMY.js" type="text/javascript"></script>
+<script src="https://www.freedomworks.org/sites/default/files/js/js_0_uCJCpGcY4JjkzDXfTl6qxbfXONwRBgrOlbgdPrt_I.js" type="text/javascript"></script>
+<script src="https://www.freedomworks.org/sites/default/files/js/js_AZ3W2M2K9JrwB1N5Z5PfHY7tJAWTP7rJMlLn5iEXTrU.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"freedomworks","theme_token":"gVpClBv6qO2a9qU7h-mC4j8i45EQjCq8C5GTUEUmsTo","jquery_version":"1.8","js":{"0":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js":1,"1":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/autocomplete_deluxe\/autocomplete_deluxe.js":1,"sites\/all\/modules\/cleantalk\/src\/js\/apbct-public.js":1,"sites\/all\/modules\/te\/te_instagram\/te_instagram.js":1,"sites\/all\/modules\/te\/te_now\/te_now.js":1,"sites\/all\/modules\/te\/te_social_media_share\/te_social_media_share.js":1,"sites\/all\/modules\/te\/te_webform_extras\/te_webform_extras.js":1,"misc\/progress.js":1,"sites\/all\/modules\/antibot\/js\/antibot.js":1,"sites\/all\/modules\/te\/fw_google_cse\/fw_google_cse.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/themes\/freedomworks\/js\/vendor\/masonry.js":1,"sites\/all\/themes\/freedomworks\/js\/vendor\/hoverintent.js":1,"sites\/all\/themes\/freedomworks\/js\/vendor\/jquery.infinitescroll.js":1,"sites\/all\/themes\/freedomworks\/js\/vendor\/jquery.qtip.min.js":1,"sites\/all\/themes\/freedomworks\/js\/vendor\/jquery.isotope.min.js":1,"sites\/all\/themes\/freedomworks\/js\/vendor\/imagesloaded.pkgd.min.js":1,"sites\/all\/themes\/freedomworks\/js\/menu.js":1,"sites\/all\/themes\/freedomworks\/js\/script.js":1,"sites\/all\/themes\/freedomworks\/js\/animation.js":1,"sites\/all\/themes\/freedomworks\/js\/background-fix.js":1,"sites\/all\/themes\/freedomworks\/js\/gallery.js":1,"sites\/all\/themes\/freedomworks\/js\/sticky.js":1,"sites\/all\/themes\/freedomworks\/js\/content-stream.js":1,"sites\/all\/themes\/freedomworks\/js\/filter.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/te\/fw_misc\/fw_misc.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/te\/fw_menu\/fw_menu.css":1,"sites\/all\/modules\/te\/fw_stats\/fw_stats.css":1,"sites\/all\/modules\/te\/te_instagram\/te_instagram.css":1,"sites\/all\/modules\/te\/te_now\/te_now.css":1,"sites\/all\/modules\/te\/te_social_media_share\/te_social_media_share.css":1,"sites\/all\/modules\/te\/te_twitter\/te_twitter.css":1,"sites\/all\/modules\/te\/te_webform_extras\/te_webform_extras.css":1,"s3:\/\/honeypot\/honeypot.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"sites\/all\/themes\/freedomworks\/css\/qtip.css":1,"sites\/all\/themes\/freedomworks\/css\/basics.css":1,"sites\/all\/themes\/freedomworks\/css\/layout.css":1,"sites\/all\/themes\/freedomworks\/css\/menu.css":1,"sites\/all\/themes\/freedomworks\/css\/right.css":1,"sites\/all\/themes\/freedomworks\/css\/content.css":1,"sites\/all\/themes\/freedomworks\/css\/article.css":1,"sites\/all\/themes\/freedomworks\/css\/comment.css":1,"sites\/all\/themes\/freedomworks\/css\/custom_pages.css":1,"sites\/all\/themes\/freedomworks\/css\/about-us.css":1,"sites\/all\/themes\/freedomworks\/css\/desktop.css":1,"sites\/all\/themes\/freedomworks\/css\/tablet.css":1,"sites\/all\/themes\/freedomworks\/css\/mobile.css":1,"sites\/all\/themes\/freedomworks\/css\/mobile-menu.css":1,"sites\/all\/themes\/freedomworks\/css\/print.css":1}},"ajax":{"edit-webform-ajax-submit-66102":{"callback":"webform_ajax_callback","wrapper":"webform-ajax-wrapper-66102","progress":{"message":"","type":"throbber"},"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"WATCH NOW"}},"edit-webform-ajax-submit-130":{"callback":"webform_ajax_callback","wrapper":"webform-ajax-wrapper-130","progress":{"message":"","type":"throbber"},"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}}},"urlIsAjaxTrusted":{"\/system\/ajax":true,"\/content\/save-nation-feb-2021":true,"\/content\/become-freedomworks-member":true},"antibot":{"forms":{"webform-client-form-130":{"action":"\/content\/become-freedomworks-member","key":"94342e329fd02a6407686dfc027c7476"}}},"content_stream":{"content-stream":{"url":"frontpage"}}});
+//--><!]]>
+</script>
+<!--[if lt IE 10]>
+      <script type="text/javascript" src="https://www.freedomworks.org/sites/all/themes/freedomworks/js/vendor/jquery.placeholder.min.js"></script>
+      <script type="text/javascript" src="https://www.freedomworks.org/sites/all/themes/freedomworks/js/ie.js"></script>
+    <![endif]-->
+<script type="text/javascript">
+    var _sf_async_config={uid:7589,domain:"freedomworks.org"};
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+           "static.chartbeat.com/js/chartbeat.js");
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+  </script>
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-168701-2']);
+  _gaq.push(['_setDomainName', 'freedomworks.org']);
+  if (window.location.pathname.split('/')[1] == 'contribute') {
+    if(((window.location.search).indexOf('s=') !== -1) && ((window.location.search).indexOf('source=') !== -1)) {
+      _gaq.push(['_setCampSourceKey', 'source']); // Source when Both s= and source= are present
+    } else {
+      if((window.location.search).indexOf('?s=') !== -1) {
+        _gaq.push(['_setCampSourceKey', 's']);
+      } else if ((window.location.search).indexOf('?source=') !== -1) {
+        _gaq.push(['_setCampSourceKey', 'source']);
+      }
+    }
+  } else {
+  _gaq.push(['_setCampSourceKey', 'source']);
+  }
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"37ad811456","applicationID":"157240990","transactionName":"Yl1SZ0UDCxJVUUVcDVsXZUFeTUoIWlZUTUxFUEA=","queueTime":0,"applicationTime":13,"atts":"ThpREQ0ZGBw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

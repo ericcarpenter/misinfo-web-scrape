@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<link href="http://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://hangthebankers.com/xmlrpc.php" rel="pingback"/>
+<title>Hang The Bankers</title>
+<meta content="Hang The Bankers" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="Hang The Bankers is your #1 source of the news that matters." property="og:description"/>
+<meta content="https://hangthebankers.com/" property="og:url"/>
+<meta content="Hang The Bankers" property="og:site_name"/>
+<!-- All in One SEO 4.0.15 -->
+<meta content="Hang The Bankers is your #1 source of the news that matters." name="description"/>
+<meta content="hang the bankers" name="keywords"/>
+<link href="https://hangthebankers.com/" rel="canonical"/>
+<meta content="Hang The Bankers" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="Hang The Bankers" property="og:title"/>
+<meta content="Breaking stories from around the world. HangTheBankers.com is your #1 source of the news that matters." property="og:description"/>
+<meta content="https://hangthebankers.com/" property="og:url"/>
+<meta content="hang the bankers" property="article:tag"/>
+<meta content="2015-02-10T02:24:52Z" property="article:published_time"/>
+<meta content="2017-08-26T07:11:15Z" property="article:modified_time"/>
+<meta content="summary" property="twitter:card"/>
+<meta content="hangthebankers.com" property="twitter:domain"/>
+<meta content="Hang The Bankers" property="twitter:title"/>
+<meta content="Breaking stories from around the world. HangTheBankers.com is your #1 source of the news that matters." property="twitter:description"/>
+<meta content="nositelinkssearchbox" name="google"/>
+<script class="aioseo-schema" type="application/ld+json">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebSite","@id":"https:\/\/hangthebankers.com\/#website","url":"https:\/\/hangthebankers.com\/","name":"Hang The Bankers","description":"Hang The Bankers is your #1 source of the news that matters.","publisher":{"@id":"https:\/\/hangthebankers.com\/#organization"}},{"@type":"Organization","@id":"https:\/\/hangthebankers.com\/#organization","name":"Hang The Bankers","url":"https:\/\/hangthebankers.com\/"},{"@type":"BreadcrumbList","@id":"https:\/\/hangthebankers.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/hangthebankers.com\/#listItem","position":"1","item":{"@id":"https:\/\/hangthebankers.com\/#item","name":"Home","description":"Hang The Bankers is your #1 source of the news that matters.","url":"https:\/\/hangthebankers.com\/"}}]},{"@type":"WebPage","@id":"https:\/\/hangthebankers.com\/#webpage","url":"https:\/\/hangthebankers.com\/","name":"Hang The Bankers","description":"Hang The Bankers is your #1 source of the news that matters.","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/hangthebankers.com\/#website"},"breadcrumb":{"@id":"https:\/\/hangthebankers.com\/#breadcrumblist"},"datePublished":"2015-02-10T02:24:52+11:00","dateModified":"2017-08-26T07:11:15+10:00"}]}
+		</script>
+<!-- All in One SEO -->
+<link href="//a.omappapi.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://hangthebankers.com/feed/" rel="alternate" title="Hang The Bankers » Feed" type="application/rss+xml"/>
+<link href="https://hangthebankers.com/comments/feed/" rel="alternate" title="Hang The Bankers » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/hangthebankers.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://hangthebankers.com/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link href="https://hangthebankers.com/wp-content/plugins/quick-adsense-reloaded/includes/gutenberg/dist/blocks.style.build.css" id="quads-style-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/plugins/contact-form-7/includes/css/styles.css" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/plugins/swiftype-search/Search/../assets/facets.css" id="swiftype-facets-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/plugins/wise-chat-pro/css/wise_chat.css" id="wise_chat_core-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/plugins/youtube-simplegallery/youtube_simplegallery.css" id="youtube-simplegallery-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css" id="mc4wp-form-basic-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/themes/sahifa/style.css" id="tie-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/themes/sahifa/css/ilightbox/dark-skin/skin.css" id="tie-ilightbox-skin-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Droid+Sans%3Aregular%2C700" id="Droid+Sans-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/plugins/swiftype-search/Search/../assets/autocomplete.css" id="swiftype-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://hangthebankers.com/wp-content/plugins/jetpack/css/jetpack.css" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="quads-styles-inline-css" type="text/css">
+@media only screen and (max-width:767px){#quads-ad4, .quads-ad4 {display:none;}}
+@media only screen and (max-width:767px){#quads-ad14, .quads-ad14 {display:none;}}
+.quads-ad-label { font-size: 12px; text-align: center; color: #333;}
+</style>
+<script id="jquery-core-js" src="https://hangthebankers.com/wp-includes/js/jquery/jquery.min.js" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://hangthebankers.com/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
+<script id="quads-ad-ga-js" src="https://hangthebankers.com/wp-content/plugins/wp-quads-pro/assets/js/ads.js" type="text/javascript"></script>
+<script id="swiftype-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var swiftypeParams = {"engineKey":"nmqq43NzLKyXU8Pybk3B"};
+/* ]]> */
+</script>
+<script id="swiftype-js" src="https://hangthebankers.com/wp-content/plugins/swiftype-search/Search/../assets/install_swiftype.min.js" type="text/javascript"></script>
+<link href="https://hangthebankers.com/wp-json/" rel="https://api.w.org/"/><link href="https://hangthebankers.com/wp-json/wp/v2/pages/23888" rel="alternate" type="application/json"/><link href="https://hangthebankers.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://hangthebankers.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.6.2" name="generator"/>
+<link href="https://hangthebankers.com/" rel="shortlink"/>
+<link href="https://hangthebankers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhangthebankers.com%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://hangthebankers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhangthebankers.com%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<script src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script type="text/javascript">document.cookie = 'quads_browser_width='+screen.width;</script><style type="text/css">img#wpstats{display:none}</style><link href="https://www.hangthebankers.com/wp-content/uploads/2014/12/Hang-The-Bankers-news-favicon.jpg" rel="shortcut icon" title="Favicon"/>
+<!--[if IE]>
+<script type="text/javascript">jQuery(document).ready(function (){ jQuery(".menu-item").has("ul").children("a").attr("aria-haspopup", "true");});</script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="https://hangthebankers.com/wp-content/themes/sahifa/js/html5.js"></script>
+<script src="https://hangthebankers.com/wp-content/themes/sahifa/js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="https://hangthebankers.com/wp-content/themes/sahifa/css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="https://hangthebankers.com/wp-content/themes/sahifa/css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="https://hangthebankers.com/wp-content/themes/sahifa/css/ie7.css" />
+<![endif]-->
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://www.hangthebankers.com/wp-content/uploads/2014/06/ipadretina.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="https://www.hangthebankers.com/wp-content/uploads/2014/06/ipadretina.png" rel="apple-touch-icon-precomposed" sizes="120x120"/>
+<link href="https://www.hangthebankers.com/wp-content/uploads/2014/06/ipad.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="https://www.hangthebankers.com/wp-content/uploads/2014/06/iphone.png" rel="apple-touch-icon-precomposed"/>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32898761-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta content="C1C08D643ABC6C88B854313C105B4F91" name="msvalidate.01"/>
+<style media="screen" type="text/css">
+
+body{
+	font-family: 'Droid Sans';
+}
+
+.top-nav, .top-nav ul li a {
+	font-weight: normal;
+}
+
+#main-nav, #main-nav ul li a{
+	font-weight: bolder;
+}
+
+.post-title{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size : 30px;
+	font-weight: bold;
+}
+
+body.single .entry, body.page .entry{
+	font-size : 15px;
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+	height:8px;
+}
+
+
+.background-cover{
+	background-color:#f0f0f0 !important;
+	background-image : url('') !important;
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='',sizingMethod='scale') !important;
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='',sizingMethod='scale')" !important;
+}
+	
+body.single .post .entry a, body.page .post .entry a {
+	color: #E86C0C;
+}
+		
+body.single .post .entry a:hover, body.page .post .entry a:hover {
+	color: #E86C0C;
+}
+		
+.top-nav ul li a:hover, .top-nav ul li:hover > a, .top-nav ul :hover > a , .top-nav ul li.current-menu-item a {
+	color: #ffffff;
+}
+		
+.today-date  {
+	color: #ffffff;
+}
+		
+.top-nav ul li a , .top-nav ul ul a {
+	color: #ffffff;
+}
+		
+.top-nav, .top-nav ul ul {
+	background-color:#336699 !important; 
+				}
+
+#main-nav {
+	background: #424242;
+	box-shadow: inset -1px -5px 0px -1px #424242;
+}
+
+#main-nav ul ul, #main-nav ul li.mega-menu .mega-menu-block { background-color:#424242 !important;}
+
+#main-nav ul li {
+	border-color: #424242;
+}
+
+#main-nav ul ul li, #main-nav ul ul li:first-child {
+	border-top-color: #424242;
+}
+
+#main-nav ul li .mega-menu-block ul.sub-menu {
+	border-bottom-color: #424242;
+}
+
+#main-nav ul li a {
+	border-left-color: #424242;
+}
+
+#main-nav ul ul li, #main-nav ul ul li:first-child {
+	border-bottom-color: #424242;
+}
+
+.pf-content input {border: none;}
+.text-html .widget-container input {border: none;}
+.top-nav .social-icons a, .footer-bottom .social-icons a {opacity: 0.8;}
+.top-nav .social-icons a {color: #FFFFFF;}
+.featured-cover a span {display: none;}
+
+.featured-title .tie-date {
+display: none;}
+
+#main-nav ul li.menu-item-home a{
+    background-position: center 8px;
+}
+
+@media only screen and (max-width: 660px) {
+  #theme-header .logo {    
+    width: 85%;    
+    margin: 0 auto !important;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  #theme-header .logo {    
+    width: 80%;    
+    margin: 0 auto !important;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  #theme-header .logo {    
+    width: 75%;    
+    margin: 0 auto !important;
+  }
+}
+
+.fixed-enabled {
+    top: 0;
+}
+body.admin-bar .fixed-enabled {
+    top: 32px;
+}</style>
+<style type="text/css">/* Mailchimp for WP - Checkbox Styles */
+.mc4wp-checkbox-wp-comment-form {
+  clear: both;
+  display: block;
+  position: static;
+  width: auto; }
+  .mc4wp-checkbox-wp-comment-form input {
+    float: none;
+    width: auto;
+    position: static;
+    margin: 0 6px 0 0;
+    padding: 0;
+    vertical-align: middle;
+    display: inline-block !important;
+    max-width: 21px;
+    -webkit-appearance: checkbox; }
+  .mc4wp-checkbox-wp-comment-form label {
+    float: none;
+    display: block;
+    cursor: pointer;
+    width: auto;
+    position: static;
+    margin: 0 0 16px 0; }
+</style><style type="text/css">/* Mailchimp for WP - Checkbox Styles */
+.mc4wp-checkbox-wp-registration-form {
+  clear: both;
+  display: block;
+  position: static;
+  width: auto; }
+  .mc4wp-checkbox-wp-registration-form input {
+    float: none;
+    width: auto;
+    position: static;
+    margin: 0 6px 0 0;
+    padding: 0;
+    vertical-align: middle;
+    display: inline-block !important;
+    max-width: 21px;
+    -webkit-appearance: checkbox; }
+  .mc4wp-checkbox-wp-registration-form label {
+    float: none;
+    display: block;
+    cursor: pointer;
+    width: auto;
+    position: static;
+    margin: 0 0 16px 0; }
+</style></head>
+<body class="home page-template-default page page-id-23888" id="top">
+<div class="wrapper-outer">
+<div class="background-cover"></div>
+<aside id="slide-out">
+<div class="search-mobile">
+<form action="https://hangthebankers.com/" id="searchform-mobile" method="get">
+<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input id="s-mobile" name="s" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" title="Search" type="text" value="Search"/>
+</form>
+</div><!-- .search-mobile /-->
+<div class="social-icons">
+<a class="ttip-none" href="https://www.hangthebankers.com/feed/" target="_blank" title="Rss"><i class="fa fa-rss"></i></a><a class="ttip-none" href="https://www.facebook.com/hangthebankers" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a><a class="ttip-none" href="https://twitter.com/hangthebankers" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a><a class="ttip-none" href="https://www.youtube.com/channel/UCdrVWTDgdNyac2HVwC71_hg?sub_confirmation=1" target="_blank" title="Youtube"><i class="fa fa-youtube"></i></a>
+</div>
+<div id="mobile-menu"></div>
+</aside><!-- #slide-out /-->
+<div class="boxed" id="wrapper">
+<div class="inner-wrapper">
+<header class="theme-header" id="theme-header">
+<div class="top-nav" id="top-nav">
+<div class="container">
+<div class="top-menu"><ul class="menu" id="menu-top"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20651" id="menu-item-20651"><a href="https://www.hangthebankers.com">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142" id="menu-item-142"><a href="https://hangthebankers.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-194" id="menu-item-194"><a href="https://hangthebankers.com/legal/">Legal</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22739" id="menu-item-22739"><a href="https://hangthebankers.com/donate/">Donate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143" id="menu-item-143"><a href="https://hangthebankers.com/contact/">Contact Us</a></li>
+</ul></div>
+<div class="search-block">
+<form action="https://hangthebankers.com/" id="searchform-header" method="get">
+<button class="search-button" type="submit" value="Search"><i class="fa fa-search"></i></button>
+<input class="search-live" id="s-header" name="s" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" title="Search" type="text" value="Search"/>
+</form>
+</div><!-- .search-block /-->
+<div class="social-icons">
+<a class="ttip-none" href="https://www.hangthebankers.com/feed/" target="_blank" title="Rss"><i class="fa fa-rss"></i></a><a class="ttip-none" href="https://www.facebook.com/hangthebankers" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a><a class="ttip-none" href="https://twitter.com/hangthebankers" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a><a class="ttip-none" href="https://www.youtube.com/channel/UCdrVWTDgdNyac2HVwC71_hg?sub_confirmation=1" target="_blank" title="Youtube"><i class="fa fa-youtube"></i></a>
+</div>
+</div><!-- .container /-->
+</div><!-- .top-menu /-->
+<div class="header-content">
+<a class="slide-out-open" href="#" id="slide-out-open"><span></span></a>
+<div class="logo" style=" margin-bottom:10px;">
+<h1> <a href="https://hangthebankers.com/" title="Hang The Bankers">
+<img alt="Hang The Bankers" src="https://www.hangthebankers.com/wp-content/uploads/2015/01/Hang-The-Bankers-news.png"/><strong>Hang The Bankers Hang The Bankers is your #1 source of the news that matters.</strong>
+</a>
+</h1> </div><!-- .logo /-->
+<div class="clear"></div>
+</div>
+<nav class="fixed-enabled" id="main-nav">
+<div class="container">
+<div class="main-menu"><ul class="menu" id="menu-low"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25230" id="menu-item-25230"><a href="https://www.hangthebankers.com/">HOME</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20640 mega-menu mega-recent-featured" id="menu-item-20640"><a href="https://hangthebankers.com/category/world-news/"><i class="fa fa-newspaper-o"></i>WORLD NEWS</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/google-cut-advertising-revenue-sites-questioning-coronavirus/" title="Google to cut advertising revenue from sites questioning coronavirus"><img alt="Google to cut advertising revenue from sites questioning coronavirus" height="330" src="https://hangthebankers.com/wp-content/uploads/2020/07/Google-coronavirus-advertising-618x330.jpg" width="660"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/google-cut-advertising-revenue-sites-questioning-coronavirus/" title="Google to cut advertising revenue from sites questioning coronavirus">Google to cut advertising revenue from sites questioning coronavirus</a></h3>
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 19, 2020</span>
+</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/google-apple-delete-palestine-from-world-map/" title="Google and Apple delete Palestine from world map"><img alt="Google and Apple delete Palestine from world map" height="75" src="https://hangthebankers.com/wp-content/uploads/2020/07/Palestine-world-map-Israel-Google-Apple-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/google-apple-delete-palestine-from-world-map/" title="Google and Apple delete Palestine from world map">Google and Apple delete Palestine from world map</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>July 19, 2020</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/bill-gates-backed-vaccine-record-digital-id-payments-system-africa/" title="Bill Gates-backed vaccine record, digital ID and payments system combo to be rolled out in Africa"><img alt="Bill Gates-backed vaccine record, digital ID and payments system combo to be rolled out in Africa" height="75" src="https://hangthebankers.com/wp-content/uploads/2020/07/Bill-Gates-backed-vaccine-record-digital-ID-payments-system-Africa-GAVI-AI-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/bill-gates-backed-vaccine-record-digital-id-payments-system-africa/" title="Bill Gates-backed vaccine record, digital ID and payments system combo to be rolled out in Africa">Bill Gates-backed vaccine record, digital ID and payments system combo to be rolled out in Africa</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>July 18, 2020</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/us-demands-uk-hand-over-prince-andrew-over-jeffrey-epstein-relationship/" title="US demands UK hand over Prince Andrew over Jeffrey Epstein relationship"><img alt="US demands UK hand over Prince Andrew over Jeffrey Epstein relationship" height="75" src="https://hangthebankers.com/wp-content/uploads/2020/06/Prince-Andrew-Jeffrey-Epstein-US-court-Virginia-Roberts-Giuffre-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/us-demands-uk-hand-over-prince-andrew-over-jeffrey-epstein-relationship/" title="US demands UK hand over Prince Andrew over Jeffrey Epstein relationship">US demands UK hand over Prince Andrew over Jeffrey Epstein relationship</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>June 8, 2020</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/white-house-petition-investigate-bill-gates-signatures/" title="White House petition to investigate Bill Gates for ‘crimes against humanity’ surpasses 380,000 signatures"><img alt="White House petition to investigate Bill Gates for ‘crimes against humanity’ surpasses 380,000 signatures" height="75" src="https://hangthebankers.com/wp-content/uploads/2020/04/Bill-Gates-White-House-petition-investigate-medical-malpractice-crimes-against-humanity-signatures-vaccines-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/white-house-petition-investigate-bill-gates-signatures/" title="White House petition to investigate Bill Gates for ‘crimes against humanity’ surpasses 380,000 signatures">White House petition to investigate Bill Gates for ‘crimes against humanity’ surpasses 380,000 signatures</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>April 21, 2020</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/us-accuses-china-testing-secret-nuclear-weapons/" title="US accuses China of testing secret nuclear weapons"><img alt="US accuses China of testing secret nuclear weapons" height="75" src="https://hangthebankers.com/wp-content/uploads/2020/04/China-nuclear-weapons-WW3-United-States-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/us-accuses-china-testing-secret-nuclear-weapons/" title="US accuses China of testing secret nuclear weapons">US accuses China of testing secret nuclear weapons</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>April 19, 2020</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/australian-police-state-surveillance-helicopter-track-down-remote-campers/" title="Australian Police State uses surveillance helicopter to track down remote campers"><img alt="Australian Police State uses surveillance helicopter to track down remote campers" height="75" src="https://hangthebankers.com/wp-content/uploads/2020/04/Australian-police-state-Tasmania-covid-19-coronavirus-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/australian-police-state-surveillance-helicopter-track-down-remote-campers/" title="Australian Police State uses surveillance helicopter to track down remote campers">Australian Police State uses surveillance helicopter to track down remote campers</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>April 19, 2020</span></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content -->
+</div><!-- .mega-menu-block -->
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20641 mega-menu mega-recent-featured" id="menu-item-20641"><a href="https://hangthebankers.com/category/economy/"><i class="fa fa-line-chart"></i>ECONOMY</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/global-lockdowns-could-soon-plunge-extreme-poverty/" title="Global lockdowns could soon plunge 100 million into extreme poverty"><img alt="Global lockdowns could soon plunge 100 million into extreme poverty" height="330" src="https://hangthebankers.com/wp-content/uploads/2020/08/Global-lockdowns-Covid-19-extreme-poverty-618x330.jpg" width="660"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/global-lockdowns-could-soon-plunge-extreme-poverty/" title="Global lockdowns could soon plunge 100 million into extreme poverty">Global lockdowns could soon plunge 100 million into extreme poverty</a></h3>
+<span class="tie-date"><i class="fa fa-clock-o"></i>August 16, 2020</span>
+</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/russia-dumping-us-dollars-hoarding-gold/" title="Russia is dumping US dollars and hoarding gold"><img alt="Russia is dumping US dollars and hoarding gold" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/03/Russia-gold-hoarding-US-dollar-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/russia-dumping-us-dollars-hoarding-gold/" title="Russia is dumping US dollars and hoarding gold">Russia is dumping US dollars and hoarding gold</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>March 31, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/switzerland-chooses-gold-over-paper-wealth-us-dollar/" title="Switzerland chooses gold over paper wealth backed by US dollar"><img alt="Switzerland chooses gold over paper wealth backed by US dollar" height="75" src="https://hangthebankers.com/wp-content/uploads/2018/07/Switzerland-gold-paper-wealth-backed-US-dollar-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/switzerland-chooses-gold-over-paper-wealth-us-dollar/" title="Switzerland chooses gold over paper wealth backed by US dollar">Switzerland chooses gold over paper wealth backed by US dollar</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>July 1, 2018</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/amazon-profits-last-year-paid-no-federal-income-tax/" title="Amazon makes $5.6 billion in US profits last year but paid nothing in federal income taxes"><img alt="Amazon makes $5.6 billion in US profits last year but paid nothing in federal income taxes" height="75" src="https://hangthebankers.com/wp-content/uploads/2018/03/Amazon-profit-no-feredal-income-tax-Jeff-Bezos-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/amazon-profits-last-year-paid-no-federal-income-tax/" title="Amazon makes $5.6 billion in US profits last year but paid nothing in federal income taxes">Amazon makes $5.6 billion in US profits last year but paid nothing in federal income taxes</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>March 3, 2018</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/iran-bans-us-dollar-trade-petrodollar-irrelevant/" title="Iran bans use of US dollar in trade as petrodollar becomes increasingly irrelevant"><img alt="Iran bans use of US dollar in trade as petrodollar becomes increasingly irrelevant" height="75" src="https://hangthebankers.com/wp-content/uploads/2018/03/Iran-US-dollar-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/iran-bans-us-dollar-trade-petrodollar-irrelevant/" title="Iran bans use of US dollar in trade as petrodollar becomes increasingly irrelevant">Iran bans use of US dollar in trade as petrodollar becomes increasingly irrelevant</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>March 3, 2018</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/bitcoin-bigger-bayer-goldman-sachs-nike/" title="Bitcoin is now bigger than Bayer, Goldman Sachs &amp; Nike"><img alt="Bitcoin is now bigger than Bayer, Goldman Sachs &amp; Nike" height="75" src="https://hangthebankers.com/wp-content/uploads/2017/10/Bitcoin-market-cap-Goldman-Sachs-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/bitcoin-bigger-bayer-goldman-sachs-nike/" title="Bitcoin is now bigger than Bayer, Goldman Sachs &amp; Nike">Bitcoin is now bigger than Bayer, Goldman Sachs &amp; Nike</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>October 14, 2017</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/how-puerto-rico-can-rebuild-powerhouse-economy/" title="How Puerto Rico can rebuild and become a powerhouse economy"><img alt="How Puerto Rico can rebuild and become a powerhouse economy" height="75" src="https://hangthebankers.com/wp-content/uploads/2017/10/How-Puerto-Rico-can-rebuild-economy-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/how-puerto-rico-can-rebuild-powerhouse-economy/" title="How Puerto Rico can rebuild and become a powerhouse economy">How Puerto Rico can rebuild and become a powerhouse economy</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>October 8, 2017</span></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content -->
+</div><!-- .mega-menu-block -->
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20642 mega-menu mega-recent-featured" id="menu-item-20642"><a href="https://hangthebankers.com/category/politics/"><i class="fa fa-comments-o"></i>POLITICS</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/tulsi-gabbard-sues-hillary-clinton-50m-false-russian-asset-smear/" title="Tulsi Gabbard sues Hillary Clinton for $50m over ‘Russian asset’ smear"><img alt="Tulsi Gabbard sues Hillary Clinton for $50m over ‘Russian asset’ smear" height="330" src="https://hangthebankers.com/wp-content/uploads/2020/01/Tulsi-Gabbard-sues-Hillary-Clinton-Russian-asset-618x330.jpg" width="660"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/tulsi-gabbard-sues-hillary-clinton-50m-false-russian-asset-smear/" title="Tulsi Gabbard sues Hillary Clinton for $50m over ‘Russian asset’ smear">Tulsi Gabbard sues Hillary Clinton for $50m over ‘Russian asset’ smear</a></h3>
+<span class="tie-date"><i class="fa fa-clock-o"></i>January 23, 2020</span>
+</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/new-york-times-propaganda-hillary-white-pantsuit-empowerment-tulsi-fringe-cult-leader/" title="New York Times propaganda: Hillary’s white pantsuit displays ‘empowerment’ but Tulsi’s says ‘fringe cult leader’"><img alt="New York Times propaganda: Hillary’s white pantsuit displays ‘empowerment’ but Tulsi’s says ‘fringe cult leader’" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/11/New-York-Times-propaganda-white-pantsuit-Hillary-Clinton-Tulsi-Gabbard-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/new-york-times-propaganda-hillary-white-pantsuit-empowerment-tulsi-fringe-cult-leader/" title="New York Times propaganda: Hillary’s white pantsuit displays ‘empowerment’ but Tulsi’s says ‘fringe cult leader’">New York Times propaganda: Hillary’s white pantsuit displays ‘empowerment’ but Tulsi’s says ‘fringe cult leader’</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>November 23, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/tulsi-gabbard-calls-out-queen-of-warmongers-hillary-clinton/" title="Tulsi Gabbard calls out ‘queen of warmongers’ Hillary Clinton"><img alt="Tulsi Gabbard calls out ‘queen of warmongers’ Hillary Clinton" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/10/Tulsi-Gabbard-queen-of-warmongers-Hillary-Clinton-202-Presidential-Democrat-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/tulsi-gabbard-calls-out-queen-of-warmongers-hillary-clinton/" title="Tulsi Gabbard calls out ‘queen of warmongers’ Hillary Clinton">Tulsi Gabbard calls out ‘queen of warmongers’ Hillary Clinton</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>October 20, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/election-meddling-google-blocks-tulsi-gabbard-campaign-ads/" title="Election meddling: Google blocks Tulsi Gabbard’s campaign ads"><img alt="Election meddling: Google blocks Tulsi Gabbard’s campaign ads" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/07/Election-meddling-Google-blocks-Tulsi-Gabbard-campaign-ads-Democrat-political-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/election-meddling-google-blocks-tulsi-gabbard-campaign-ads/" title="Election meddling: Google blocks Tulsi Gabbard’s campaign ads">Election meddling: Google blocks Tulsi Gabbard’s campaign ads</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>July 27, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/bernie-sanders-pays-his-staff-less-than-his-proposed-minimum-wage/" title="Bernie Sanders pays his staff less than his proposed minimum wage"><img alt="Bernie Sanders pays his staff less than his proposed minimum wage" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/07/Bernie-Sanders-staff-minimum-wage-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/bernie-sanders-pays-his-staff-less-than-his-proposed-minimum-wage/" title="Bernie Sanders pays his staff less than his proposed minimum wage">Bernie Sanders pays his staff less than his proposed minimum wage</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>July 20, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/nigel-farage-eu-investigate-george-soros-political-meddling/" title="Nigel Farage has called on the EU to investigate George Soros for political meddling"><img alt="Nigel Farage has called on the EU to investigate George Soros for political meddling" height="75" src="https://hangthebankers.com/wp-content/uploads/2017/11/Nigel-Farage-EU-George-Soros-political-meddling-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/nigel-farage-eu-investigate-george-soros-political-meddling/" title="Nigel Farage has called on the EU to investigate George Soros for political meddling">Nigel Farage has called on the EU to investigate George Soros for political meddling</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>November 16, 2017</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/trump-russia-dossier-funded-clinton-dnc/" title="Phoney Trump-Russia dossier was funded by Clinton camp and DNC"><img alt="Phoney Trump-Russia dossier was funded by Clinton camp and DNC" height="75" src="https://hangthebankers.com/wp-content/uploads/2017/10/Hillary-Clinton-Trump-Russia-dossier-DNC-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/trump-russia-dossier-funded-clinton-dnc/" title="Phoney Trump-Russia dossier was funded by Clinton camp and DNC">Phoney Trump-Russia dossier was funded by Clinton camp and DNC</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>October 26, 2017</span></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content -->
+</div><!-- .mega-menu-block -->
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20643 mega-menu mega-recent-featured" id="menu-item-20643"><a href="https://hangthebankers.com/category/science-technology/"><i class="fa fa-flask"></i>SCI-TECH</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/google-drive-deletes-users-personal-files-plandemic-video/" title="Google Drive deletes users’ personal files of Plandemic video"><img alt="Google Drive deletes users’ personal files of Plandemic video" height="330" src="https://hangthebankers.com/wp-content/uploads/2020/05/Google-Drive-deletes-personal-files-Plandemic-video-640x330.jpg" width="660"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/google-drive-deletes-users-personal-files-plandemic-video/" title="Google Drive deletes users’ personal files of Plandemic video">Google Drive deletes users’ personal files of Plandemic video</a></h3>
+<span class="tie-date"><i class="fa fa-clock-o"></i>May 24, 2020</span>
+</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/facebook-warn-users-clicked-coronavirus-misinformation/" title="Facebook to warn users who have clicked on ‘coronavirus misinformation’"><img alt="Facebook to warn users who have clicked on ‘coronavirus misinformation’" height="75" src="https://hangthebankers.com/wp-content/uploads/2020/04/Facebook-coronavirus-misinformation-covid-19-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/facebook-warn-users-clicked-coronavirus-misinformation/" title="Facebook to warn users who have clicked on ‘coronavirus misinformation’">Facebook to warn users who have clicked on ‘coronavirus misinformation’</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>April 19, 2020</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/how-to-delete-your-social-media-accounts/" title="How to delete your social media accounts"><img alt="How to delete your social media accounts" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/05/Delete-your-social-media-accounts-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/how-to-delete-your-social-media-accounts/" title="How to delete your social media accounts">How to delete your social media accounts</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>May 25, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/facebook-deleting-accounts-us-israeli-government/" title="Facebook admits it is deleting accounts at the direction of the US and Israeli government"><img alt="Facebook admits it is deleting accounts at the direction of the US and Israeli government" height="75" src="https://hangthebankers.com/wp-content/uploads/2018/01/Facebook-Israel-United-States-censorship-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/facebook-deleting-accounts-us-israeli-government/" title="Facebook admits it is deleting accounts at the direction of the US and Israeli government">Facebook admits it is deleting accounts at the direction of the US and Israeli government</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>January 2, 2018</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/planned-obsolescence-apple-slowing-down-iphone/" title="Plаnnеd obsolescence: Apple admits to purposely slowing down your iPhone"><img alt="Plаnnеd obsolescence: Apple admits to purposely slowing down your iPhone" height="75" src="https://hangthebankers.com/wp-content/uploads/2017/12/Plаnnеd-obsolescence-Apple-iPhone-slow-down-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/planned-obsolescence-apple-slowing-down-iphone/" title="Plаnnеd obsolescence: Apple admits to purposely slowing down your iPhone">Plаnnеd obsolescence: Apple admits to purposely slowing down your iPhone</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>December 28, 2017</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/why-google-engineer-james-damore-fired/" title="Why Google engineer James Damore was fired"><img alt="Why Google engineer James Damore was fired" height="75" src="https://hangthebankers.com/wp-content/uploads/2017/08/Google-engineer-James-Damore-1-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/why-google-engineer-james-damore-fired/" title="Why Google engineer James Damore was fired">Why Google engineer James Damore was fired</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>August 12, 2017</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/scientists-edit-human-embryo-crispr/" title="Scientists successfully edit the first human embryo in US using CRISPR"><img alt="Scientists successfully edit the first human embryo in US using CRISPR" height="75" src="https://hangthebankers.com/wp-content/uploads/2017/08/CRISPR-DNA-human-embryo-edit-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/scientists-edit-human-embryo-crispr/" title="Scientists successfully edit the first human embryo in US using CRISPR">Scientists successfully edit the first human embryo in US using CRISPR</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>August 12, 2017</span></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content -->
+</div><!-- .mega-menu-block -->
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20644 mega-menu mega-recent-featured" id="menu-item-20644"><a href="https://hangthebankers.com/category/health/"><i class="fa fa-heart"></i>HEALTH</a>
+<div class="mega-menu-block menu-sub-content">
+<div class="mega-menu-content">
+<div class="mega-recent-post"><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/soybean-oil-linked-genetic-changes-brain/" title="Soybean oil linked to genetic changes in the brain"><img alt="Soybean oil linked to genetic changes in the brain" height="330" src="https://hangthebankers.com/wp-content/uploads/2020/01/Soybean-oil-soya-study-autism-Alzheimers-disease-618x330.jpg" width="660"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/soybean-oil-linked-genetic-changes-brain/" title="Soybean oil linked to genetic changes in the brain">Soybean oil linked to genetic changes in the brain</a></h3>
+<span class="tie-date"><i class="fa fa-clock-o"></i>January 26, 2020</span>
+</div> <!-- mega-recent-post --><div class="mega-check-also"><ul><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/psychedelic-pioneer-spiritual-leader-ram-dass-dies-aged-88/" title="Psychedelic pioneer and spiritual leader Ram Dass dies aged 88"><img alt="Psychedelic pioneer and spiritual leader Ram Dass dies aged 88" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/12/Ram-Dass-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/psychedelic-pioneer-spiritual-leader-ram-dass-dies-aged-88/" title="Psychedelic pioneer and spiritual leader Ram Dass dies aged 88">Psychedelic pioneer and spiritual leader Ram Dass dies aged 88</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>December 24, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/sugar-industry-paid-scientists-demonize-fats-food/" title="The sugar industry paid scientists to demonize fats in food"><img alt="The sugar industry paid scientists to demonize fats in food" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/05/Sugar-industry-paid-scientists-demonize-fats-food-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/sugar-industry-paid-scientists-demonize-fats-food/" title="The sugar industry paid scientists to demonize fats in food">The sugar industry paid scientists to demonize fats in food</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>May 25, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/crossfit-ditches-facebook-instagram-citing-privacy-concerns/" title="CrossFit ditches Facebook and Instagram, citing privacy concerns"><img alt="CrossFit ditches Facebook and Instagram, citing privacy concerns" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/05/CrossFit-ditches-Facebook-Instagram-privacy-concerns-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/crossfit-ditches-facebook-instagram-citing-privacy-concerns/" title="CrossFit ditches Facebook and Instagram, citing privacy concerns">CrossFit ditches Facebook and Instagram, citing privacy concerns</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>May 25, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/bayer-monsanto-damages-roundup-cancer-case/" title="Bayer ordered to pay $2 billion in Monsanto Roundup cancer case"><img alt="Bayer ordered to pay $2 billion in Monsanto Roundup cancer case" height="75" src="https://hangthebankers.com/wp-content/uploads/2019/05/Roundup-Monsanto-Bayer-cancer-weed-killer-chemicals-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/bayer-monsanto-damages-roundup-cancer-case/" title="Bayer ordered to pay $2 billion in Monsanto Roundup cancer case">Bayer ordered to pay $2 billion in Monsanto Roundup cancer case</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>May 14, 2019</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/monsanto-jury-rules-roundup-weedkiller-caused-cancer/" title="Monsanto to pay $289m as jury rules Roundup weedkiller caused man’s cancer"><img alt="Monsanto to pay $289m as jury rules Roundup weedkiller caused man’s cancer" height="75" src="https://hangthebankers.com/wp-content/uploads/2018/08/Monsanto-RoundUp-cancer-Dewayne-Johnson-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/monsanto-jury-rules-roundup-weedkiller-caused-cancer/" title="Monsanto to pay $289m as jury rules Roundup weedkiller caused man’s cancer">Monsanto to pay $289m as jury rules Roundup weedkiller caused man’s cancer</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>August 12, 2018</span></li><li><div class="post-thumbnail"><a class="mega-menu-link" href="https://hangthebankers.com/study-energy-drinks-heart-damage/" title="New study confirms link between energy drinks and heart damage"><img alt="New study confirms link between energy drinks and heart damage" height="75" src="https://hangthebankers.com/wp-content/uploads/2017/04/Energy-drinks-heart-damage-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a></div><h3 class="post-box-title"><a class="mega-menu-link" href="https://hangthebankers.com/study-energy-drinks-heart-damage/" title="New study confirms link between energy drinks and heart damage">New study confirms link between energy drinks and heart damage</a></h3><span class="tie-date"><i class="fa fa-clock-o"></i>April 30, 2017</span></li></ul></div> <!-- mega-check-also -->
+</div><!-- .mega-menu-content -->
+</div><!-- .mega-menu-block -->
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25220" id="menu-item-25220"><a href="https://hangthebankers.com/videos/"><i class="fa fa-youtube-play"></i>VIDEOS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25219" id="menu-item-25219"><a href="https://hangthebankers.com/documentaries/"><i class="fa fa-video-camera"></i>DOCUMENTARIES</a></li>
+</ul></div>
+</div>
+</nav><!-- .main-nav /-->
+</header><!-- #header /-->
+<div class="container" id="main-content">
+<div class="featured-posts-disable-nav" id="featured-posts">
+<div class="featured-post featured-post-1 fea-1">
+<div class="featured-post-inner" style="background-image:url(https://hangthebankers.com/wp-content/uploads/2020/08/Global-lockdowns-Covid-19-extreme-poverty-618x330.jpg);">
+<div class="featured-cover"><a href="https://hangthebankers.com/global-lockdowns-could-soon-plunge-extreme-poverty/"><span>Global lockdowns could soon plunge 100 million into extreme poverty</span></a></div>
+<div class="featured-title">
+<span class="tie-date"><i class="fa fa-clock-o"></i>August 16, 2020</span> <h2><a href="https://hangthebankers.com/global-lockdowns-could-soon-plunge-extreme-poverty/">Global lockdowns could soon plunge 100 million into extreme poverty</a></h2>
+<h3>The impact of the global coronavirus lockdown is set to plunge 100 million people into extreme pover…</h3>
+</div>
+</div>
+</div>
+<div class="featured-post featured-post-2 fea-2">
+<div class="featured-post-inner" style="background-image:url(https://hangthebankers.com/wp-content/uploads/2020/07/Google-coronavirus-advertising-618x330.jpg);">
+<div class="featured-cover"><a href="https://hangthebankers.com/google-cut-advertising-revenue-sites-questioning-coronavirus/"><span>Google to cut advertising revenue from sites questioning coronavirus</span></a></div>
+<div class="featured-title">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 19, 2020</span> <h2><a href="https://hangthebankers.com/google-cut-advertising-revenue-sites-questioning-coronavirus/">Google to cut advertising revenue from sites questioning coronavirus</a></h2>
+<h3>Google has announced that it will ban advertisements from web pages that promote coronavirus conspir…</h3>
+</div>
+</div>
+</div>
+<div class="featured-post featured-post-3 fea-3">
+<div class="featured-post-inner" style="background-image:url(https://hangthebankers.com/wp-content/uploads/2020/07/Palestine-world-map-Israel-Google-Apple-618x330.jpg);">
+<div class="featured-cover"><a href="https://hangthebankers.com/google-apple-delete-palestine-from-world-map/"><span>Google and Apple delete Palestine from world map</span></a></div>
+<div class="featured-title">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 19, 2020</span> <h2><a href="https://hangthebankers.com/google-apple-delete-palestine-from-world-map/">Google and Apple delete Palestine from world map</a></h2>
+<h3>Palestinian Minister of Foreign Affairs and Expatriates Riyad al-Maliki says he is going to lodge a …</h3>
+</div>
+</div>
+</div>
+<div class="featured-post featured-post-4 fea-4">
+<div class="featured-post-inner" style="background-image:url(https://hangthebankers.com/wp-content/uploads/2020/07/Bill-Gates-backed-vaccine-record-digital-ID-payments-system-Africa-GAVI-AI-618x330.jpg);">
+<div class="featured-cover"><a href="https://hangthebankers.com/bill-gates-backed-vaccine-record-digital-id-payments-system-africa/"><span>Bill Gates-backed vaccine record, digital ID and payments system combo to be rolled out in Africa</span></a></div>
+<div class="featured-title">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 18, 2020</span> <h2><a href="https://hangthebankers.com/bill-gates-backed-vaccine-record-digital-id-payments-system-africa/">Bill Gates-backed vaccine record, digital ID and payments system combo to be rolled out in Africa</a></h2>
+<h3>Africa is now becoming the testing ground for a biometric digital identity platform developed in a p…</h3>
+</div>
+</div>
+</div>
+<div class="featured-post featured-post-5 fea-5">
+<div class="featured-post-inner" style="background-image:url(https://hangthebankers.com/wp-content/uploads/2020/06/Prince-Andrew-Jeffrey-Epstein-US-court-Virginia-Roberts-Giuffre-618x330.jpg);">
+<div class="featured-cover"><a href="https://hangthebankers.com/us-demands-uk-hand-over-prince-andrew-over-jeffrey-epstein-relationship/"><span>US demands UK hand over Prince Andrew over Jeffrey Epstein relationship</span></a></div>
+<div class="featured-title">
+<span class="tie-date"><i class="fa fa-clock-o"></i>June 8, 2020</span> <h2><a href="https://hangthebankers.com/us-demands-uk-hand-over-prince-andrew-over-jeffrey-epstein-relationship/">US demands UK hand over Prince Andrew over Jeffrey Epstein relationship</a></h2>
+<h3>American investigators probing Prince Andrew’s paedophile pal Jeffrey Epstein have formally re…</h3>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<script>
+jQuery(document).ready(function() {
+	var featuredItems = jQuery("#featured-posts .featured-post");
+		for(var i = 0; i < featuredItems.length; i+=5) {
+			featuredItems.slice(i, i+5).wrapAll('<div class="featured-posts-single-slide"></div>');
+	}
+  jQuery('#featured-posts').flexslider({
+    animation: "fade",
+	selector: ".featured-posts-single-slide",
+	slideshowSpeed: 7000,
+	animationSpeed: 100,
+	randomize: false,
+	pauseOnHover: true,
+	prevText: "",
+	nextText: "",
+	slideshow: false ,
+	controlNav: false,
+  });
+});
+</script>
+<div class="content">
+<section class="cat-box wide-box tie-cat-6">
+<div class="cat-box-title">
+<h2><a href="https://hangthebankers.com/category/world-news/">World News</a></h2>
+<div class="stripe-line"></div>
+</div>
+<div class="cat-box-content">
+<ul>
+<li class="first-news">
+<div class="inner-content">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/google-cut-advertising-revenue-sites-questioning-coronavirus/" rel="bookmark">
+<img alt="Google coronavirus advertising" class="attachment-tie-medium size-tie-medium wp-post-image" height="165" loading="lazy" sizes="(max-width: 310px) 100vw, 310px" src="https://hangthebankers.com/wp-content/uploads/2020/07/Google-coronavirus-advertising-310x165.jpg" srcset="https://hangthebankers.com/wp-content/uploads/2020/07/Google-coronavirus-advertising-310x165.jpg 310w, https://hangthebankers.com/wp-content/uploads/2020/07/Google-coronavirus-advertising-618x330.jpg 618w" width="310"/> <span class="fa overlay-icon"></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class="post-box-title"><a href="https://hangthebankers.com/google-cut-advertising-revenue-sites-questioning-coronavirus/" rel="bookmark">Google to cut advertising revenue from sites questioning coronavirus</a></h2>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 19, 2020</span>
+</p>
+<div class="entry">
+<p>Google has announced that it will ban advertisements from web pages that promote coronavirus conspiracy …</p>
+<a class="more-link" href="https://hangthebankers.com/google-cut-advertising-revenue-sites-questioning-coronavirus/">Read More »</a>
+</div>
+</div>
+</li><!-- .first-news -->
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/google-apple-delete-palestine-from-world-map/" rel="bookmark"><img alt="Palestine world map Israel Google Apple" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/07/Palestine-world-map-Israel-Google-Apple-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/google-apple-delete-palestine-from-world-map/" rel="bookmark">Google and Apple delete Palestine from world map</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 19, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/bill-gates-backed-vaccine-record-digital-id-payments-system-africa/" rel="bookmark"><img alt="Bill Gates backed vaccine record digital ID payments system Africa GAVI AI" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/07/Bill-Gates-backed-vaccine-record-digital-ID-payments-system-Africa-GAVI-AI-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/bill-gates-backed-vaccine-record-digital-id-payments-system-africa/" rel="bookmark">Bill Gates-backed vaccine record, digital ID and payments system combo to be rolled out in Africa</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 18, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/us-demands-uk-hand-over-prince-andrew-over-jeffrey-epstein-relationship/" rel="bookmark"><img alt="Prince Andrew Jeffrey Epstein US court Virginia Roberts Giuffre" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/06/Prince-Andrew-Jeffrey-Epstein-US-court-Virginia-Roberts-Giuffre-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/us-demands-uk-hand-over-prince-andrew-over-jeffrey-epstein-relationship/" rel="bookmark">US demands UK hand over Prince Andrew over Jeffrey Epstein relationship</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>June 8, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/white-house-petition-investigate-bill-gates-signatures/" rel="bookmark"><img alt="Bill Gates White House petition investigate medical malpractice crimes against humanity signatures vaccines" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/04/Bill-Gates-White-House-petition-investigate-medical-malpractice-crimes-against-humanity-signatures-vaccines-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/white-house-petition-investigate-bill-gates-signatures/" rel="bookmark">White House petition to investigate Bill Gates for ‘crimes against humanity’ surpasses 380,000 signatures</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>April 21, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/us-accuses-china-testing-secret-nuclear-weapons/" rel="bookmark"><img alt="China nuclear weapons WW3 United States" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" sizes="(max-width: 110px) 100vw, 110px" src="https://hangthebankers.com/wp-content/uploads/2020/04/China-nuclear-weapons-WW3-United-States-110x75.jpg" srcset="https://hangthebankers.com/wp-content/uploads/2020/04/China-nuclear-weapons-WW3-United-States-110x75.jpg 110w, https://hangthebankers.com/wp-content/uploads/2020/04/China-nuclear-weapons-WW3-United-States.jpg 618w" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/us-accuses-china-testing-secret-nuclear-weapons/" rel="bookmark">US accuses China of testing secret nuclear weapons</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>April 19, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/australian-police-state-surveillance-helicopter-track-down-remote-campers/" rel="bookmark"><img alt="Australian police state Tasmania covid-19 coronavirus" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/04/Australian-police-state-Tasmania-covid-19-coronavirus-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/australian-police-state-surveillance-helicopter-track-down-remote-campers/" rel="bookmark">Australian Police State uses surveillance helicopter to track down remote campers</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>April 19, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/why-they-arent-going-after-ghislaine-maxwell/" rel="bookmark"><img alt="Ghislaine Maxwell Jeffrey Epstein" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/02/Ghislaine-Maxwell-Jeffrey-Epstein-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/why-they-arent-going-after-ghislaine-maxwell/" rel="bookmark">Why they aren’t going after Epstein accomplice Ghislaine Maxwell</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>February 23, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/royal-coverup-prince-andrew-giving-zero-cooperation-in-epstein-inquiry/" rel="bookmark"><img alt="Prince Andrew Jeffrey Epstein royal family" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/01/Prince-Andrew-Jeffrey-Epstein-royal-family-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/royal-coverup-prince-andrew-giving-zero-cooperation-in-epstein-inquiry/" rel="bookmark">Royal coverup: Prince Andrew giving ‘zero’ cooperation in Epstein inquiry</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>January 29, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/iraqi-people-streets-demand-us-troops-leave-country/" rel="bookmark"><img alt="Iraq people demand US troops military leave" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/01/Iraq-people-demand-US-troops-military-leave-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/iraqi-people-streets-demand-us-troops-leave-country/" rel="bookmark">Iraqi people take to streets and demand US troops leave country</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>January 26, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/lying-pieces-of-sh-t-man-interrupts-live-msnbc-broadcast/" rel="bookmark"><img alt="MSNBC broadcast lying mainstream media interrupt" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/01/MSNBC-broadcast-lying-mainstream-media-interrupt-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/lying-pieces-of-sh-t-man-interrupts-live-msnbc-broadcast/" rel="bookmark">“Lying pieces of sh-t!” man interrupts live MSNBC broadcast</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>January 26, 2020</span>
+</p>
+</li>
+</ul>
+<div class="clear"></div>
+</div><!-- .cat-box-content /-->
+</section><!-- Wide Box -->
+<section class="cat-box list-box tie-cat-7">
+<div class="cat-box-title">
+<h2><a href="https://hangthebankers.com/category/economy/">Economy</a></h2>
+<div class="stripe-line"></div>
+</div>
+<div class="cat-box-content">
+<ul>
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/global-lockdowns-could-soon-plunge-extreme-poverty/" rel="bookmark">
+<img alt="Global lockdowns Covid-19 extreme poverty" class="attachment-tie-medium size-tie-medium wp-post-image" height="165" loading="lazy" sizes="(max-width: 310px) 100vw, 310px" src="https://hangthebankers.com/wp-content/uploads/2020/08/Global-lockdowns-Covid-19-extreme-poverty-310x165.jpg" srcset="https://hangthebankers.com/wp-content/uploads/2020/08/Global-lockdowns-Covid-19-extreme-poverty-310x165.jpg 310w, https://hangthebankers.com/wp-content/uploads/2020/08/Global-lockdowns-Covid-19-extreme-poverty-618x330.jpg 618w" width="310"/> <span class="fa overlay-icon"></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class="post-box-title"><a href="https://hangthebankers.com/global-lockdowns-could-soon-plunge-extreme-poverty/" rel="bookmark">Global lockdowns could soon plunge 100 million into extreme poverty</a></h2>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>August 16, 2020</span>
+</p>
+<div class="entry">
+<p>The impact of the global coronavirus lockdown is set to plunge 100 million people into …</p>
+<a class="more-link" href="https://hangthebankers.com/global-lockdowns-could-soon-plunge-extreme-poverty/">Read More »</a>
+</div>
+</li><!-- .first-news -->
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/russia-dumping-us-dollars-hoarding-gold/" rel="bookmark"><img alt="Russia gold hoarding US dollar" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/03/Russia-gold-hoarding-US-dollar-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/russia-dumping-us-dollars-hoarding-gold/" rel="bookmark">Russia is dumping US dollars and hoarding gold</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>March 31, 2019</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/switzerland-chooses-gold-over-paper-wealth-us-dollar/" rel="bookmark"><img alt="Switzerland gold paper wealth backed US dollar" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2018/07/Switzerland-gold-paper-wealth-backed-US-dollar-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/switzerland-chooses-gold-over-paper-wealth-us-dollar/" rel="bookmark">Switzerland chooses gold over paper wealth backed by US dollar</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 1, 2018</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/amazon-profits-last-year-paid-no-federal-income-tax/" rel="bookmark"><img alt="Amazon profit no feredal income tax Jeff Bezos" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2018/03/Amazon-profit-no-feredal-income-tax-Jeff-Bezos-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/amazon-profits-last-year-paid-no-federal-income-tax/" rel="bookmark">Amazon makes $5.6 billion in US profits last year but paid nothing in federal income taxes</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>March 3, 2018</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/iran-bans-us-dollar-trade-petrodollar-irrelevant/" rel="bookmark"><img alt="Iran US dollar" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2018/03/Iran-US-dollar-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/iran-bans-us-dollar-trade-petrodollar-irrelevant/" rel="bookmark">Iran bans use of US dollar in trade as petrodollar becomes increasingly irrelevant</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>March 3, 2018</span>
+</p>
+</li>
+</ul>
+<div class="clear"></div>
+</div><!-- .cat-box-content /-->
+</section><!-- List Box -->
+<section class="cat-box list-box tie-cat-8">
+<div class="cat-box-title">
+<h2><a href="https://hangthebankers.com/category/politics/">Politics</a></h2>
+<div class="stripe-line"></div>
+</div>
+<div class="cat-box-content">
+<ul>
+<li class="first-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/tulsi-gabbard-sues-hillary-clinton-50m-false-russian-asset-smear/" rel="bookmark">
+<img alt="Tulsi Gabbard sues Hillary Clinton Russian asset" class="attachment-tie-medium size-tie-medium wp-post-image" height="165" loading="lazy" sizes="(max-width: 310px) 100vw, 310px" src="https://hangthebankers.com/wp-content/uploads/2020/01/Tulsi-Gabbard-sues-Hillary-Clinton-Russian-asset-310x165.jpg" srcset="https://hangthebankers.com/wp-content/uploads/2020/01/Tulsi-Gabbard-sues-Hillary-Clinton-Russian-asset-310x165.jpg 310w, https://hangthebankers.com/wp-content/uploads/2020/01/Tulsi-Gabbard-sues-Hillary-Clinton-Russian-asset-618x330.jpg 618w" width="310"/> <span class="fa overlay-icon"></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class="post-box-title"><a href="https://hangthebankers.com/tulsi-gabbard-sues-hillary-clinton-50m-false-russian-asset-smear/" rel="bookmark">Tulsi Gabbard sues Hillary Clinton for $50m over ‘Russian asset’ smear</a></h2>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>January 23, 2020</span>
+</p>
+<div class="entry">
+<p>The Hawaii congresswoman and Democratic presidential candidate Tulsi Gabbard is suing Hillary Clinton for defamation, alleging the …</p>
+<a class="more-link" href="https://hangthebankers.com/tulsi-gabbard-sues-hillary-clinton-50m-false-russian-asset-smear/">Read More »</a>
+</div>
+</li><!-- .first-news -->
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/new-york-times-propaganda-hillary-white-pantsuit-empowerment-tulsi-fringe-cult-leader/" rel="bookmark"><img alt="New York Times propaganda white pantsuit Hillary Clinton Tulsi Gabbard" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/11/New-York-Times-propaganda-white-pantsuit-Hillary-Clinton-Tulsi-Gabbard-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/new-york-times-propaganda-hillary-white-pantsuit-empowerment-tulsi-fringe-cult-leader/" rel="bookmark">New York Times propaganda: Hillary’s white pantsuit displays ‘empowerment’ but Tulsi’s says ‘fringe cult leader’</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>November 23, 2019</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/tulsi-gabbard-calls-out-queen-of-warmongers-hillary-clinton/" rel="bookmark"><img alt="Tulsi Gabbard queen of warmongers Hillary Clinton 202 Presidential Democrat" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/10/Tulsi-Gabbard-queen-of-warmongers-Hillary-Clinton-202-Presidential-Democrat-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/tulsi-gabbard-calls-out-queen-of-warmongers-hillary-clinton/" rel="bookmark">Tulsi Gabbard calls out ‘queen of warmongers’ Hillary Clinton</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>October 20, 2019</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/election-meddling-google-blocks-tulsi-gabbard-campaign-ads/" rel="bookmark"><img alt="Election meddling Google blocks Tulsi Gabbard campaign ads Democrat political" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/07/Election-meddling-Google-blocks-Tulsi-Gabbard-campaign-ads-Democrat-political-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/election-meddling-google-blocks-tulsi-gabbard-campaign-ads/" rel="bookmark">Election meddling: Google blocks Tulsi Gabbard’s campaign ads</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 27, 2019</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/bernie-sanders-pays-his-staff-less-than-his-proposed-minimum-wage/" rel="bookmark"><img alt="Bernie Sanders staff minimum wage" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/07/Bernie-Sanders-staff-minimum-wage-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/bernie-sanders-pays-his-staff-less-than-his-proposed-minimum-wage/" rel="bookmark">Bernie Sanders pays his staff less than his proposed minimum wage</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>July 20, 2019</span>
+</p>
+</li>
+</ul>
+<div class="clear"></div>
+</div><!-- .cat-box-content /-->
+</section><!-- List Box -->
+<section class="cat-box column2 tie-cat-9">
+<div class="cat-box-title">
+<h2><a href="https://hangthebankers.com/category/science-technology/">Science &amp; Technology</a></h2>
+<div class="stripe-line"></div>
+</div>
+<div class="cat-box-content">
+<ul>
+<li class="first-news">
+<div class="inner-content">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/google-drive-deletes-users-personal-files-plandemic-video/" rel="bookmark">
+<img alt="Google Drive deletes personal files Plandemic video" class="attachment-tie-medium size-tie-medium wp-post-image" height="165" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/05/Google-Drive-deletes-personal-files-Plandemic-video-310x165.jpg" width="310"/> <span class="fa overlay-icon"></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class="post-box-title"><a href="https://hangthebankers.com/google-drive-deletes-users-personal-files-plandemic-video/" rel="bookmark">Google Drive deletes users’ personal files of Plandemic video</a></h2>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>May 24, 2020</span>
+</p>
+<div class="entry">
+<p>Ever since Big Tech platforms started cracking down on what they deem to be coronavirus …</p>
+<a class="more-link" href="https://hangthebankers.com/google-drive-deletes-users-personal-files-plandemic-video/">Read More »</a>
+</div>
+</div>
+</li><!-- .first-news -->
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/facebook-warn-users-clicked-coronavirus-misinformation/" rel="bookmark"><img alt="Facebook coronavirus misinformation covid-19" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2020/04/Facebook-coronavirus-misinformation-covid-19-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/facebook-warn-users-clicked-coronavirus-misinformation/" rel="bookmark">Facebook to warn users who have clicked on ‘coronavirus misinformation’</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>April 19, 2020</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/how-to-delete-your-social-media-accounts/" rel="bookmark"><img alt="Delete your social media accounts" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/05/Delete-your-social-media-accounts-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/how-to-delete-your-social-media-accounts/" rel="bookmark">How to delete your social media accounts</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>May 25, 2019</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/facebook-deleting-accounts-us-israeli-government/" rel="bookmark"><img alt="Facebook Israel United States censorship" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2018/01/Facebook-Israel-United-States-censorship-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/facebook-deleting-accounts-us-israeli-government/" rel="bookmark">Facebook admits it is deleting accounts at the direction of the US and Israeli government</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>January 2, 2018</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/planned-obsolescence-apple-slowing-down-iphone/" rel="bookmark"><img alt="Plаnnеd obsolescence Apple iPhone slow down" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2017/12/Plаnnеd-obsolescence-Apple-iPhone-slow-down-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/planned-obsolescence-apple-slowing-down-iphone/" rel="bookmark">Plаnnеd obsolescence: Apple admits to purposely slowing down your iPhone</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>December 28, 2017</span>
+</p>
+</li>
+</ul>
+</div><!-- .cat-box-content /-->
+</section> <!-- Two Columns -->
+<section class="cat-box column2 tie-cat-10 last-column">
+<div class="cat-box-title">
+<h2><a href="https://hangthebankers.com/category/health/">Health</a></h2>
+<div class="stripe-line"></div>
+</div>
+<div class="cat-box-content">
+<ul>
+<li class="first-news">
+<div class="inner-content">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/soybean-oil-linked-genetic-changes-brain/" rel="bookmark">
+<img alt="Soybean oil soya study autism Alzheimer's disease" class="attachment-tie-medium size-tie-medium wp-post-image" height="165" loading="lazy" sizes="(max-width: 310px) 100vw, 310px" src="https://hangthebankers.com/wp-content/uploads/2020/01/Soybean-oil-soya-study-autism-Alzheimers-disease-310x165.jpg" srcset="https://hangthebankers.com/wp-content/uploads/2020/01/Soybean-oil-soya-study-autism-Alzheimers-disease-310x165.jpg 310w, https://hangthebankers.com/wp-content/uploads/2020/01/Soybean-oil-soya-study-autism-Alzheimers-disease-618x330.jpg 618w" width="310"/> <span class="fa overlay-icon"></span>
+</a>
+</div><!-- post-thumbnail /-->
+<h2 class="post-box-title"><a href="https://hangthebankers.com/soybean-oil-linked-genetic-changes-brain/" rel="bookmark">Soybean oil linked to genetic changes in the brain</a></h2>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>January 26, 2020</span>
+</p>
+<div class="entry">
+<p>Consuming soybean oil may not only lead to obesity and diabetes, but also “affect neurological …</p>
+<a class="more-link" href="https://hangthebankers.com/soybean-oil-linked-genetic-changes-brain/">Read More »</a>
+</div>
+</div>
+</li><!-- .first-news -->
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/psychedelic-pioneer-spiritual-leader-ram-dass-dies-aged-88/" rel="bookmark"><img alt="Ram Dass" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/12/Ram-Dass-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/psychedelic-pioneer-spiritual-leader-ram-dass-dies-aged-88/" rel="bookmark">Psychedelic pioneer and spiritual leader Ram Dass dies aged 88</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>December 24, 2019</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/sugar-industry-paid-scientists-demonize-fats-food/" rel="bookmark"><img alt="Sugar industry paid scientists demonize fats food" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/05/Sugar-industry-paid-scientists-demonize-fats-food-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/sugar-industry-paid-scientists-demonize-fats-food/" rel="bookmark">The sugar industry paid scientists to demonize fats in food</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>May 25, 2019</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/crossfit-ditches-facebook-instagram-citing-privacy-concerns/" rel="bookmark"><img alt="CrossFit ditches Facebook Instagram privacy concerns" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/05/CrossFit-ditches-Facebook-Instagram-privacy-concerns-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/crossfit-ditches-facebook-instagram-citing-privacy-concerns/" rel="bookmark">CrossFit ditches Facebook and Instagram, citing privacy concerns</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>May 25, 2019</span>
+</p>
+</li>
+<li class="other-news">
+<div class="post-thumbnail">
+<a href="https://hangthebankers.com/bayer-monsanto-damages-roundup-cancer-case/" rel="bookmark"><img alt="Roundup Monsanto Bayer cancer weed killer chemicals" class="attachment-tie-small size-tie-small wp-post-image" height="75" loading="lazy" src="https://hangthebankers.com/wp-content/uploads/2019/05/Roundup-Monsanto-Bayer-cancer-weed-killer-chemicals-110x75.jpg" width="110"/><span class="fa overlay-icon"></span></a>
+</div><!-- post-thumbnail /-->
+<h3 class="post-box-title"><a href="https://hangthebankers.com/bayer-monsanto-damages-roundup-cancer-case/" rel="bookmark">Bayer ordered to pay $2 billion in Monsanto Roundup cancer case</a></h3>
+<p class="post-meta">
+<span class="tie-date"><i class="fa fa-clock-o"></i>May 14, 2019</span>
+</p>
+</li>
+</ul>
+</div><!-- .cat-box-content /-->
+</section> <!-- Two Columns -->
+</div><!-- .content /-->
+<aside id="sidebar">
+<div class="theiaStickySidebar">
+<div class="e3lan-widget-content e3lan300-250" id="ads300_250-widget-2">
+<div class="e3lan-cell">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-9172033548379914";
+    google_ad_slot = "8598758186";
+    google_ad_width = 300;
+    google_ad_height = 250;
+</script>
+<!-- F 300x250 sidebar -->
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+</div>
+</div>
+<div class="arqam-lite-widget-counter colored">
+<ul>
+<li class="arq-lite-facebook">
+<a href="https://www.facebook.com/hangthebankers" target="_blank">
+<i class="fa fa-facebook"></i>
+<span>17,759</span>
+<small>Fans</small>
+</a>
+</li>
+<li class="arq-lite-twitter">
+<a href="https://twitter.com/hangthebankers" target="_blank">
+<i class="fa fa-twitter"></i>
+<span>4,701</span>
+<small>Followers</small>
+</a>
+</li>
+<li class="arq-lite-youtube">
+<a href="https://youtube.com/user/HangthebankersDOTcom" target="_blank">
+<i class="fa fa-youtube"></i>
+<span>3,860</span>
+<small>Subscribers</small>
+</a>
+</li>
+</ul>
+</div>
+<!-- arqam_lite Social Counter Plugin : https://tielabs.com/buy/portfolio-envato-1 -->
+<div class="widget optin-monster-api" id="optin-monster-api-2"><div class="widget-top"><h4>Newsletter</h4><div class="stripe-line"></div></div>
+<div class="widget-container"><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: HTB sidebar --><div id="om-ryf8fff4agpaqgxn36ls-holder"></div><script>var ryf8fff4agpaqgxn36ls,ryf8fff4agpaqgxn36ls_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){ryf8fff4agpaqgxn36ls_poll(function(){if(window['om_loaded']){if(!ryf8fff4agpaqgxn36ls){ryf8fff4agpaqgxn36ls=new OptinMonsterApp();return ryf8fff4agpaqgxn36ls.init({"u":"36033.650141","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="https://a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;ryf8fff4agpaqgxn36ls=new OptinMonsterApp();ryf8fff4agpaqgxn36ls.init({"u":"36033.650141","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --></div></div><!-- .widget /--><div class="widget text-html" id="text-html-widget-2"><div class="widget-top"><h4>Support Us</h4><div class="stripe-line"></div></div>
+<div class="widget-container"><div style="text-align:center;"><br/>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="MFET4HPAHWRHQ"/>
+<input alt="PayPal — The safer, easier way to pay online." name="submit" src="https://www.hangthebankers.com/wp-content/uploads/2015/02/Paypal-donate.png" type="image"/>
+</form><br/>
+</div><div class="clear"></div></div></div><!-- .widget /--><div class="widget e3lan e3lan300_250-widget" id="ads300_250-widget-11"><div class="widget-top"><h4>Jean-Claude Van Damme calls out Rothschild and Rockefeller on live TV </h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <div class="e3lan-widget-content e3lan300-250">
+<div class="e3lan-cell">
+<a href="https://www.youtube.com/watch?v=claY2UU9-5c" target="_blank"> <img alt="" src="https://www.hangthebankers.com/wp-content/uploads/2017/05/Jean-Claude-Van-Damme-calls-out-Rothschild-Rockefeller-live-TV-.jpg"/>
+</a> </div>
+</div>
+</div></div><!-- .widget /--><div class="widget e3lan e3lan300_250-widget" id="ads300_250-widget-4"><div class="widget-top"><h4>David Icke’s most powerful interview</h4><div class="stripe-line"></div></div>
+<div class="widget-container"> <div class="e3lan-widget-content e3lan300-250">
+<div class="e3lan-cell">
+<a href="https://www.youtube.com/watch?v=B3R-CwSc4gs" target="_blank"> <img alt="" src="https://www.hangthebankers.com/wp-content/uploads/2016/03/David-Icke-2016-interview.jpg"/>
+</a> </div>
+</div>
+</div></div><!-- .widget /--> <div class="e3lan-widget-content e3lan300-600" id="ads300_600-widget-7">
+<div class="e3lan-cell">
+<script type="text/javascript">
+    google_ad_client = "ca-pub-9172033548379914";
+    google_ad_slot = "1435418188";
+    google_ad_width = 300;
+    google_ad_height = 600;
+</script>
+<!-- F large ss -->
+<script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">
+</script>
+</div>
+</div>
+</div><!-- .theiaStickySidebar /-->
+</aside><!-- #sidebar /--> <div class="clear"></div>
+</div><!-- .container /-->
+<div class="clear"></div>
+<div class="footer-bottom">
+<div class="container">
+<div class="alignright">
+</div>
+<div class="social-icons">
+<a class="ttip-none" href="https://www.hangthebankers.com/feed/" target="_blank" title="Rss"><i class="fa fa-rss"></i></a><a class="ttip-none" href="https://www.facebook.com/hangthebankers" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a><a class="ttip-none" href="https://twitter.com/hangthebankers" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a><a class="ttip-none" href="https://www.youtube.com/channel/UCdrVWTDgdNyac2HVwC71_hg?sub_confirmation=1" target="_blank" title="Youtube"><i class="fa fa-youtube"></i></a>
+</div>
+<div class="alignleft">
+			Copyright © 2021 <a href="https://www.hangthebankers.com" target="_blank"><b>Hang The Bankers</b></a>.		</div>
+<div class="clear"></div>
+</div><!-- .Container -->
+</div><!-- .Footer bottom -->
+</div><!-- .inner-Wrapper -->
+</div><!-- #Wrapper -->
+</div><!-- .Wrapper-outer -->
+<div class="fa fa-angle-up" id="topcontrol" title="Scroll To Top"></div>
+<div id="fb-root"></div>
+<script async="">(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='7d9e10380dbe14deaf614aac977630f10c3eeaef61575779c513e0b2d843179d';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script> <script type="application/javascript">
+      var ajaxurl = "https://hangthebankers.com/wp-admin/admin-ajax.php";
+
+      function sumo_add_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_add_woocommerce_coupon',
+          code: code,
+        });
+      }
+
+      function sumo_remove_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_remove_woocommerce_coupon',
+          code: code,
+        });
+      }
+
+      function sumo_get_woocommerce_cart_subtotal(callback) {
+        jQuery.ajax({
+          method: 'POST',
+          url: ajaxurl,
+          dataType: 'html',
+          data: {
+            action: 'sumo_get_woocommerce_cart_subtotal',
+          },
+          success: function(subtotal) {
+            return callback(null, subtotal);
+          },
+          error: function(err) {
+            return callback(err, 0);
+          }
+        });
+      }
+    </script>
+<style type="text/css">
+</style>
+<!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: HTB mobile popup --><div id="om-pce4e79l15dh1prvurjp-holder"></div><script>var pce4e79l15dh1prvurjp,pce4e79l15dh1prvurjp_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){pce4e79l15dh1prvurjp_poll(function(){if(window['om_loaded']){if(!pce4e79l15dh1prvurjp){pce4e79l15dh1prvurjp=new OptinMonsterApp();return pce4e79l15dh1prvurjp.init({"u":"36033.651723","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="https://a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;pce4e79l15dh1prvurjp=new OptinMonsterApp();pce4e79l15dh1prvurjp.init({"u":"36033.651723","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: HTB desktop popup --><div id="om-wkddanz6hckdsxdb8bgw-holder"></div><script>var wkddanz6hckdsxdb8bgw,wkddanz6hckdsxdb8bgw_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){wkddanz6hckdsxdb8bgw_poll(function(){if(window['om_loaded']){if(!wkddanz6hckdsxdb8bgw){wkddanz6hckdsxdb8bgw=new OptinMonsterApp();return wkddanz6hckdsxdb8bgw.init({"u":"36033.650157","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="https://a.optnmstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;wkddanz6hckdsxdb8bgw=new OptinMonsterApp();wkddanz6hckdsxdb8bgw.init({"u":"36033.650157","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster --> <script type="text/javascript">
+		var ryf8fff4agpaqgxn36ls_shortcode = true;var pce4e79l15dh1prvurjp_shortcode = true;var wkddanz6hckdsxdb8bgw_shortcode = true;		</script>
+<script id="wp-polyfill-js" src="https://hangthebankers.com/wp-includes/js/dist/vendor/wp-polyfill.min.js" type="text/javascript"></script>
+<script id="wp-polyfill-js-after" type="text/javascript">
+( 'fetch' in window ) || document.write( '<script src="https://hangthebankers.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://hangthebankers.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://hangthebankers.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://hangthebankers.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://hangthebankers.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://hangthebankers.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js"></scr' + 'ipt>' );
+</script>
+<script id="wp-i18n-js" src="https://hangthebankers.com/wp-includes/js/dist/i18n.min.js" type="text/javascript"></script>
+<script id="lodash-js" src="https://hangthebankers.com/wp-includes/js/dist/vendor/lodash.min.js" type="text/javascript"></script>
+<script id="lodash-js-after" type="text/javascript">
+window.lodash = _.noConflict();
+</script>
+<script id="wp-url-js" src="https://hangthebankers.com/wp-includes/js/dist/url.min.js" type="text/javascript"></script>
+<script id="wp-hooks-js" src="https://hangthebankers.com/wp-includes/js/dist/hooks.min.js" type="text/javascript"></script>
+<script id="wp-api-fetch-js-translations" type="text/javascript">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script id="wp-api-fetch-js" src="https://hangthebankers.com/wp-includes/js/dist/api-fetch.min.js" type="text/javascript"></script>
+<script id="wp-api-fetch-js-after" type="text/javascript">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://hangthebankers.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "6c16a8e164" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://hangthebankers.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = [];
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="https://hangthebankers.com/wp-content/plugins/contact-form-7/includes/js/index.js" type="text/javascript"></script>
+<script id="tie-scripts-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var tie = {"mobile_menu_active":"true","mobile_menu_top":"","lightbox_all":"","lightbox_gallery":"","woocommerce_lightbox":"","lightbox_skin":"dark","lightbox_thumb":"vertical","lightbox_arrows":"","sticky_sidebar":"1","is_singular":"1","reading_indicator":"","lang_no_results":"No Results","lang_results_found":"Results Found"};
+/* ]]> */
+</script>
+<script id="tie-scripts-js" src="https://hangthebankers.com/wp-content/themes/sahifa/js/tie-scripts.js" type="text/javascript"></script>
+<script id="tie-ilightbox-js" src="https://hangthebankers.com/wp-content/themes/sahifa/js/ilightbox.packed.js" type="text/javascript"></script>
+<script>(function(d){var s=d.createElement("script");s.type="text/javascript";s.src="https://a.omappapi.com/app/js/api.min.js";s.async=true;s.id="omapi-script";d.getElementsByTagName("head")[0].appendChild(s);})(document);</script><script id="wp-embed-js" src="https://hangthebankers.com/wp-includes/js/wp-embed.min.js" type="text/javascript"></script>
+<script id="quads-admin-ads-js" src="https://hangthebankers.com/wp-content/plugins/quick-adsense-reloaded/assets/js/ads.js" type="text/javascript"></script>
+<script id="optinmonster-wp-helper-js" src="https://hangthebankers.com/wp-content/plugins/optinmonster/assets/js/helper.js" type="text/javascript"></script>
+<script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.4',blog:'33549912',post:'23888',tz:'11',srv:'hangthebankers.com'} ]);
+	_stq.push([ 'clickTrackerInit', '33549912', '23888' ]);
+</script>
+<script type="text/javascript">var omapi_localized = { ajax: 'https://hangthebankers.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '995a1fa807', slugs: {"ryf8fff4agpaqgxn36ls":{"slug":"ryf8fff4agpaqgxn36ls","mailpoet":false},"pce4e79l15dh1prvurjp":{"slug":"pce4e79l15dh1prvurjp","mailpoet":false},"wkddanz6hckdsxdb8bgw":{"slug":"wkddanz6hckdsxdb8bgw","mailpoet":false}} };</script>
+<script type="text/javascript">var omapi_data = {"wc_cart":[],"object_id":23888,"object_key":"page","object_type":"post","term_ids":[]};</script>
+</body>
+</html>

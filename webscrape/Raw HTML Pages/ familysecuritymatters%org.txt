@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<title>familysecuritymatters.org – Just another WordPress site</title>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://www.familysecuritymatters.org/feed/" rel="alternate" title="familysecuritymatters.org » Feed" type="application/rss+xml"/>
+<link href="https://www.familysecuritymatters.org/comments/feed/" rel="alternate" title="familysecuritymatters.org » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.familysecuritymatters.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.familysecuritymatters.org/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C700%7CPT+Serif%3A400%2C400i%2C600%7CIBM+Plex+Serif%3A500" id="contentberg-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.familysecuritymatters.org/wp-content/themes/contentberg/style.css?ver=1.9.0" id="contentberg-core-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="contentberg-core-inline-css" type="text/css">
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea,
+select,
+input[type="submit"],
+button,
+input[type="button"],
+.button,
+blockquote cite,
+blockquote .wp-block-pullquote__citation,
+.modern-quote cite,
+.wp-block-quote.is-style-large cite,
+.top-bar-content,
+.search-action .search-field,
+.main-head .title,
+.navigation,
+.tag-share,
+.post-share-b .service,
+.post-share-float .share-text,
+.author-box,
+.comments-list .comment-content,
+.post-nav .label,
+.main-footer.dark .back-to-top,
+.lower-footer .social-icons,
+.main-footer .social-strip .social-link,
+.main-footer.bold .links .menu-item,
+.main-footer.bold .copyright,
+.archive-head,
+.archive-head .description,
+.cat-label a,
+.text,
+.section-head,
+.post-title-alt,
+.post-title,
+.block-heading,
+.block-head-b,
+.block-head-c,
+.small-post .post-title,
+.likes-count .number,
+.post-meta,
+.post-meta .text-in,
+.grid-post-b .read-more-btn,
+.list-post-b .read-more-btn,
+.post-footer .read-more,
+.post-footer .social-share,
+.post-footer .social-icons,
+.large-post-b .post-footer .author a,
+.main-slider,
+.slider-overlay .heading,
+.carousel-slider .category,
+.carousel-slider .heading,
+.grid-b-slider .heading,
+.bold-slider,
+.bold-slider .heading,
+.main-pagination,
+.main-pagination .load-button,
+.page-links,
+.post-content .wp-block-image figcaption,
+.textwidget .wp-block-image figcaption,
+.post-content .wp-caption-text,
+.textwidget .wp-caption-text,
+.post-content figcaption,
+.textwidget figcaption,
+.post-content,
+.post-content .read-more,
+.entry-content table,
+.widget-about .more,
+.widget-posts .post-title,
+.widget-posts .posts.full .counter:before,
+.widget-cta .label,
+.social-follow .service-link,
+.widget-twitter .meta .date,
+.widget-twitter .follow,
+.textwidget,
+.widget_categories,
+.widget_product_categories,
+.widget_archive,
+.widget_categories a,
+.widget_product_categories a,
+.widget_archive a,
+.wp-caption-text,
+figcaption,
+.wp-block-button .wp-block-button__link,
+.mobile-menu,
+.woocommerce .woocommerce-message,
+.woocommerce .woocommerce-error,
+.woocommerce .woocommerce-info,
+.woocommerce form .form-row,
+.woocommerce .main .button,
+.woocommerce .quantity .qty,
+.woocommerce nav.woocommerce-pagination,
+.woocommerce-cart .post-content,
+.woocommerce .woocommerce-ordering,
+.woocommerce-page .woocommerce-ordering,
+.woocommerce ul.products,
+.woocommerce.widget,
+.woocommerce .woocommerce-noreviews,
+.woocommerce div.product,
+.woocommerce #content div.product,
+.woocommerce #reviews #comments ol.commentlist .description,
+.woocommerce-cart .cart-empty,
+.woocommerce-cart .cart-collaterals .cart_totals table,
+.woocommerce-cart .cart-collaterals .cart_totals .button,
+.woocommerce .checkout .shop_table thead th,
+.woocommerce .checkout .shop_table .amount,
+.woocommerce-checkout #payment #place_order,
+.top-bar .posts-ticker,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6
+ { font-family: "Lato", Arial, sans-serif; }
+
+blockquote,
+.archive-head .description,
+.text,
+.post-content,
+.entry-content,
+.textwidget
+ { font-family: "Merriweather", Arial, sans-serif; }
+
+.post-title,
+.post-title-alt { font-family: "Open Sans", Arial, sans-serif; }
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea,
+select,
+input[type="submit"],
+button,
+input[type="button"],
+.button,
+blockquote cite,
+blockquote .wp-block-pullquote__citation,
+.modern-quote cite,
+.wp-block-quote.is-style-large cite,
+.top-bar-content,
+.search-action .search-field,
+.main-head .title,
+.navigation,
+.tag-share,
+.post-share-b .service,
+.post-share-float .share-text,
+.author-box,
+.comments-list .comment-content,
+.post-nav .label,
+.main-footer.dark .back-to-top,
+.lower-footer .social-icons,
+.main-footer .social-strip .social-link,
+.main-footer.bold .links .menu-item,
+.main-footer.bold .copyright,
+.archive-head,
+.archive-head .description,
+.cat-label a,
+.text,
+.section-head,
+.post-title-alt,
+.post-title,
+.block-heading,
+.block-head-b,
+.block-head-c,
+.small-post .post-title,
+.likes-count .number,
+.post-meta,
+.post-meta .text-in,
+.grid-post-b .read-more-btn,
+.list-post-b .read-more-btn,
+.post-footer .read-more,
+.post-footer .social-share,
+.post-footer .social-icons,
+.large-post-b .post-footer .author a,
+.main-slider,
+.slider-overlay .heading,
+.carousel-slider .category,
+.carousel-slider .heading,
+.grid-b-slider .heading,
+.bold-slider,
+.bold-slider .heading,
+.main-pagination,
+.main-pagination .load-button,
+.page-links,
+.post-content .wp-block-image figcaption,
+.textwidget .wp-block-image figcaption,
+.post-content .wp-caption-text,
+.textwidget .wp-caption-text,
+.post-content figcaption,
+.textwidget figcaption,
+.post-content,
+.post-content .read-more,
+.entry-content table,
+.widget-about .more,
+.widget-posts .post-title,
+.widget-posts .posts.full .counter:before,
+.widget-cta .label,
+.social-follow .service-link,
+.widget-twitter .meta .date,
+.widget-twitter .follow,
+.textwidget,
+.widget_categories,
+.widget_product_categories,
+.widget_archive,
+.widget_categories a,
+.widget_product_categories a,
+.widget_archive a,
+.wp-caption-text,
+figcaption,
+.wp-block-button .wp-block-button__link,
+.mobile-menu,
+.woocommerce .woocommerce-message,
+.woocommerce .woocommerce-error,
+.woocommerce .woocommerce-info,
+.woocommerce form .form-row,
+.woocommerce .main .button,
+.woocommerce .quantity .qty,
+.woocommerce nav.woocommerce-pagination,
+.woocommerce-cart .post-content,
+.woocommerce .woocommerce-ordering,
+.woocommerce-page .woocommerce-ordering,
+.woocommerce ul.products,
+.woocommerce.widget,
+.woocommerce .woocommerce-noreviews,
+.woocommerce div.product,
+.woocommerce #content div.product,
+.woocommerce #reviews #comments ol.commentlist .description,
+.woocommerce-cart .cart-empty,
+.woocommerce-cart .cart-collaterals .cart_totals table,
+.woocommerce-cart .cart-collaterals .cart_totals .button,
+.woocommerce .checkout .shop_table thead th,
+.woocommerce .checkout .shop_table .amount,
+.woocommerce-checkout #payment #place_order,
+.top-bar .posts-ticker,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6
+ { font-family: "Lato", Arial, sans-serif; }
+
+blockquote,
+.archive-head .description,
+.text,
+.post-content,
+.entry-content,
+.textwidget
+ { font-family: "Merriweather", Arial, sans-serif; }
+
+.post-title,
+.post-title-alt { font-family: "Open Sans", Arial, sans-serif; }
+
+
+</style>
+<link href="https://www.familysecuritymatters.org/wp-content/themes/contentberg/css/lightbox.css?ver=1.9.0" id="contentberg-lightbox-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.familysecuritymatters.org/wp-content/themes/contentberg/css/fontawesome/css/font-awesome.min.css?ver=1.9.0" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Lato%3A400%7CLato%3A600%7CLato%3A700%7CMerriweather%3A400%7CMerriweather%3A600%7CMerriweather%3A700%7COpen+Sans%3A400%7COpen+Sans%3A600%7COpen+Sans%3A700%7CLato%3A400%7CLato%3A600%7CLato%3A700%7CMerriweather%3A400%7CMerriweather%3A600%7CMerriweather%3A700%7COpen+Sans%3A400%7COpen+Sans%3A600%7COpen+Sans%3A700" id="contentberg-gfonts-custom-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://www.familysecuritymatters.org/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://www.familysecuritymatters.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<link href="https://www.familysecuritymatters.org/wp-json/" rel="https://api.w.org/"/><link href="https://www.familysecuritymatters.org/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://www.familysecuritymatters.org/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.6.2" name="generator"/>
+<script>var Sphere_Plugin = {"ajaxurl":"https:\/\/www.familysecuritymatters.org\/wp-admin\/admin-ajax.php"};</script><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+<body class="home blog right-sidebar has-lb" data-rsssl="1">
+<div class="main-wrap">
+<header class="main-head head-nav-below has-search-modal simple simple-boxed" id="main-head">
+<div class="inner inner-head" data-sticky-bar="0">
+<div class="wrap cf wrap-head">
+<div class="left-contain">
+<span class="mobile-nav"><i class="fa fa-bars"></i></span>
+<div class="title">
+<a href="https://www.familysecuritymatters.org/" rel="home" title="familysecuritymatters.org">
+<span class="text-logo">familysecuritymatters.org</span>
+</a>
+</div>
+</div>
+<div class="navigation-wrap inline">
+</div>
+<div class="actions">
+<a class="search-link" href="#" title="Search"><i class="fa fa-search"></i></a>
+</div>
+</div>
+</div>
+</header> <!-- .main-head -->
+<div class="main wrap">
+<div class="ts-row cf">
+<div class="col-8 main-content cf">
+<div class="posts-container posts-large cf">
+<div class="posts-wrap">
+<article class="post-main large-post post-160 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-160">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/home-safety-checklist-for-seniors/"><img alt="Must-Haves for Your Home Safety Checklist for Seniors" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Must-Haves-for-Your-Home-Safety-Checklist-for-Seniors-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Must-Haves-for-Your-Home-Safety-Checklist-for-Seniors-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Must-Haves-for-Your-Home-Safety-Checklist-for-Seniors-270x180.jpg 270w" title="Must-Haves for Your Home Safety Checklist for Seniors" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/home-safety-checklist-for-seniors/">Must-Haves for Your Home Safety Checklist for Seniors</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/home-safety-checklist-for-seniors/"><time class="post-date" datetime="2021-02-25T11:29:09+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">6 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>Although many seniors can take care of themselves in their old age, limited mobility can mean that previously innocuous home features, such as stairs and tiled floors, become serious hazards. Falls, sudden illness, and other problems can quickly become life-threatening if safety precautions aren’t in place. Seniors may also struggle to deal with emergencies like fires or break-ins. Carers and family members can reduce the overall amount of furniture in rooms where older adults frequently…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/home-safety-checklist-for-seniors/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-146 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-146">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/what-do-someone-breaks-house/"><img alt="A Guide to What to Do If Someone Breaks into Your House" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/A-Guide-to-What-to-Do-If-Someone-Breaks-into-Your-House-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/A-Guide-to-What-to-Do-If-Someone-Breaks-into-Your-House-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/A-Guide-to-What-to-Do-If-Someone-Breaks-into-Your-House-300x200.jpg 300w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/A-Guide-to-What-to-Do-If-Someone-Breaks-into-Your-House-270x180.jpg 270w" title="A Guide to What to Do If Someone Breaks into Your House" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/what-do-someone-breaks-house/">A Guide to What to Do If Someone Breaks into Your House</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/what-do-someone-breaks-house/"><time class="post-date" datetime="2021-02-25T11:16:42+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">7 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>A home break-in is a frightening experience. Finding intruders in your house can cause people to freeze in the situation. It’s essential you can react to minimize the trespassers’ risk of realizing you are on the property. Burglars are usually there to steal expensive possessions, and no jewelry or electronic device is worth risking your life.  If you react swiftly, you can protect yourself, your family and alert law enforcement. Follow some simple tips to…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/what-do-someone-breaks-house/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-138 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-138">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/secure-safe-without-bolting-floor/"><img alt="How to Secure a Safe Without Bolting it to the Floor" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Secure-a-Safe-Without-Bolting-it-to-the-Floor-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Secure-a-Safe-Without-Bolting-it-to-the-Floor-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Secure-a-Safe-Without-Bolting-it-to-the-Floor-270x180.jpg 270w" title="Protect Your Valuables: How to Secure a Safe Without Bolting it to the Floor" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/secure-safe-without-bolting-floor/">Protect Your Valuables: How to Secure a Safe Without Bolting it to the Floor</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/secure-safe-without-bolting-floor/"><time class="post-date" datetime="2021-02-25T11:04:47+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">6 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>A safe is an excellent way of securing legal documents, firearms, jewelry, and other sensitive or valuable possessions. However, if a safe is not bolted to your home in some way, it can be vulnerable to theft. Unfortunately, bolting a safe to the floor is not an option for every homeowner or tenant, so it’s important to explore alternatives to keep your property safe from burglars.  Whatever security measure you choose has to cost the…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/secure-safe-without-bolting-floor/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-128 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-128">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/keep-someone-off-property-legally/"><img alt="How to Keep Someone Off Your Property Legally" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Keep-Someone-Off-Your-Property-Legally-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Keep-Someone-Off-Your-Property-Legally-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Keep-Someone-Off-Your-Property-Legally-300x200.jpg 300w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Keep-Someone-Off-Your-Property-Legally-1024x683.jpg 1024w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Keep-Someone-Off-Your-Property-Legally-270x180.jpg 270w" title="Know Your Rights: How to Keep Someone Off Your Property Legally" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/keep-someone-off-property-legally/">Know Your Rights: How to Keep Someone Off Your Property Legally</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/keep-someone-off-property-legally/"><time class="post-date" datetime="2021-02-25T10:52:50+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">6 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>You have the right to feel safe and secure in your home and on your property, but the world can be a dangerous place. Fortunately, there are several ways you can deter potential burglars, vandals, and other criminals from trespassing on your property.  However, a trespasser may not be criminally inclined. So, it’s crucial to exercise sound judgment and restraint when choosing suitable security measures — since the trespasser could be a neighbor.  While many…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/keep-someone-off-property-legally/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-117 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-117">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/check-someone-using-my-social-security-number/"><img alt="How Do I Check to See if Someone is Using My Social Security Number" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Do-I-Check-to-See-if-Someone-is-Using-My-Social-Security-Number-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Do-I-Check-to-See-if-Someone-is-Using-My-Social-Security-Number-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Do-I-Check-to-See-if-Someone-is-Using-My-Social-Security-Number-300x200.jpg 300w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Do-I-Check-to-See-if-Someone-is-Using-My-Social-Security-Number-1024x683.jpg 1024w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Do-I-Check-to-See-if-Someone-is-Using-My-Social-Security-Number-270x180.jpg 270w" title="ID Check: How Do I Check to See if Someone is Using My Social Security Number?" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/check-someone-using-my-social-security-number/">ID Check: How Do I Check to See if Someone is Using My Social Security Number?</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/check-someone-using-my-social-security-number/"><time class="post-date" datetime="2021-02-25T10:40:30+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">6 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>Your Social Security Number or SSN is your tax identification number, helping federal tax agencies and the Social Security Authority monitor and adjust your wages, earning statements, tax refunds, and retirement savings.  Your SSN is the most critical piece of information you have in your online, financial, and medical portfolios. If thieves can steal this essential number, they can do a lot of damage to your finances, credit rating, or medical and employee benefits.   If…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/check-someone-using-my-social-security-number/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-108 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-108">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/what-someone-do-sim-card/"><img alt="What Can Someone Do With Your SIM Card and How to Stop Them" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/What-Can-Someone-Do-With-Your-SIM-Card-and-How-to-Stop-Them-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/What-Can-Someone-Do-With-Your-SIM-Card-and-How-to-Stop-Them-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/What-Can-Someone-Do-With-Your-SIM-Card-and-How-to-Stop-Them-270x180.jpg 270w" title="What Can Someone Do With Your SIM Card and How to Stop Them" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/what-someone-do-sim-card/">What Can Someone Do With Your SIM Card and How to Stop Them</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/what-someone-do-sim-card/"><time class="post-date" datetime="2021-02-25T09:33:07+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">7 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>In today’s world, your mobile phone is an essential part of your life. Given the number of applications they have today for communication, internet, banking, and entertainment, it seems hard to imagine modern life without a mobile phone.  These activities are all tied to online accounts, passwords, bank and credit card information, and other vital data. This sheer quantity of personal data means that hackers have a vested interest in targeting them. One critical element…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/what-someone-do-sim-card/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-98 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-98">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/how-to-protect-identity-theft/"><img alt="Modern Guide on How to Protect Yourself from Identity Theft" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Modern-Guide-on-How-to-Protect-Yourself-from-Identity-Theft-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Modern-Guide-on-How-to-Protect-Yourself-from-Identity-Theft-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Modern-Guide-on-How-to-Protect-Yourself-from-Identity-Theft-300x200.jpg 300w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Modern-Guide-on-How-to-Protect-Yourself-from-Identity-Theft-270x180.jpg 270w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Modern-Guide-on-How-to-Protect-Yourself-from-Identity-Theft.jpg 1024w" title="Modern Guide on How to Protect Yourself from Identity Theft" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/how-to-protect-identity-theft/">Modern Guide on How to Protect Yourself from Identity Theft</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/how-to-protect-identity-theft/"><time class="post-date" datetime="2021-02-25T09:20:18+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">6 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>Identity theft occurs when thieves get personal or financial data by fraud or deception to achieve financial gain. Unfortunately, once criminals have this information, they can rapidly gain access to your finances, often with devastating effects.  A perpetrator of identity theft can transfer money from your bank account, take out a credit card in your name, or even obtain medical care using your health insurance.  Criminals can use various offline and online methods to steal…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/how-to-protect-identity-theft/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-91 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-91">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/how-does-identity-theft-happen/"><img alt="How Does Identity Theft Happen and How to Protect Yourself" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Does-Identity-Theft-Happen-and-How-to-Protect-Yourself-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Does-Identity-Theft-Happen-and-How-to-Protect-Yourself-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Does-Identity-Theft-Happen-and-How-to-Protect-Yourself-300x201.jpg 300w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Does-Identity-Theft-Happen-and-How-to-Protect-Yourself-1024x685.jpg 1024w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Does-Identity-Theft-Happen-and-How-to-Protect-Yourself-768x514.jpg 768w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Does-Identity-Theft-Happen-and-How-to-Protect-Yourself-1536x1027.jpg 1536w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-Does-Identity-Theft-Happen-and-How-to-Protect-Yourself-270x180.jpg 270w" title="How Does Identity Theft Happen and How to Protect Yourself" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/how-does-identity-theft-happen/">How Does Identity Theft Happen and How to Protect Yourself</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/how-does-identity-theft-happen/"><time class="post-date" datetime="2021-02-25T09:09:00+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">6 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>In the modern, digital world, protecting your online identity and personal information is a crucial step in safeguarding your life against thieves. Identity thieves can strike from any angle – through your email, phone, or even posing as a repair or inspection person.  You need to protect yourself and your family from criminals who want access to your SSN, address, birth date, and other personal information to take over your identity. With a reliable online…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/how-does-identity-theft-happen/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-81 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-81">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/check-someone-using-my-identity/"><img alt="How to Check if Someone is Using My Identity" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Check-if-Someone-is-Using-My-Identity-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Check-if-Someone-is-Using-My-Identity-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Check-if-Someone-is-Using-My-Identity-300x200.jpg 300w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/How-to-Check-if-Someone-is-Using-My-Identity-270x180.jpg 270w" title="Personal Security Basics: How to Check if Someone is Using My Identity" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/check-someone-using-my-identity/">Personal Security Basics: How to Check if Someone is Using My Identity</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/check-someone-using-my-identity/"><time class="post-date" datetime="2021-02-25T08:50:44+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">6 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>Many people’s worst nightmare is having their identity stolen and used for any number of illegal acts. There are some telltale signs, like a sudden decrease in your credit score or anomalies on your bank records, that can let you know whether someone has taken advantage of you by stealing your Social Security Number or other personal information. Once you’re sure your identity is being used fraudulently, notify the FTC (Federal Trade Commission) and file…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/check-someone-using-my-identity/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+<article class="post-main large-post post-70 post type-post status-publish format-standard has-post-thumbnail category-uncategorized" id="post-70">
+<header class="post-header cf">
+<div class="featured">
+<a class="image-link" href="https://www.familysecuritymatters.org/who-can-ask-for-drivers-license/"><img alt="Who Can Legally Ask for Your Driver’s License" class="attachment-contentberg-main size-contentberg-main wp-post-image" height="515" loading="lazy" sizes="(max-width: 770px) 100vw, 770px" src="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Who-Can-Legally-Ask-for-Your-Drivers-License-770x515.jpg" srcset="https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Who-Can-Legally-Ask-for-Your-Drivers-License-770x515.jpg 770w, https://www.familysecuritymatters.org/wp-content/uploads/2021/02/Who-Can-Legally-Ask-for-Your-Drivers-License-270x180.jpg 270w" title="Protect Your Privacy: Who Can Legally Ask for Your Driver’s License?" width="770"/> </a>
+</div>
+<div class="post-meta post-meta-b">
+<span class="post-cat">
+<span class="text-in">In</span>
+<a class="category" href="https://www.familysecuritymatters.org/category/uncategorized/">Uncategorized</a>
+</span>
+<h2 class="post-title-alt">
+<a href="https://www.familysecuritymatters.org/who-can-ask-for-drivers-license/">Protect Your Privacy: Who Can Legally Ask for Your Driver’s License?</a>
+</h2>
+<div class="below">
+<a class="meta-item date-link" href="https://www.familysecuritymatters.org/who-can-ask-for-drivers-license/"><time class="post-date" datetime="2021-02-25T08:43:23+00:00">February 25, 2021</time></a>
+<span class="meta-sep"></span>
+<span class="meta-item read-time">6 Mins Read</span>
+</div>
+</div>
+</header><!-- .post-header -->
+<div class="post-content description cf post-excerpt">
+<p>Identity theft is a prevalent issue in the United States. In 2019, over 14 million Americans — 1 in 15 people — became victims of identity fraud. On average, there is one new identity theft victim every 2 seconds. One of the biggest treasure troves of personal data is the information contained on your driver’s license. Although many businesses and entities routinely ask you to show your license for various reasons, you are not legally…</p>
+<div class="read-more"><a href="https://www.familysecuritymatters.org/who-can-ask-for-drivers-license/"><span>Read More</span></a></div>
+</div><!-- .post-content -->
+</article>
+</div>
+<nav class="main-pagination">
+<div class="previous"><a href="https://www.familysecuritymatters.org/page/2/"><i class="fa fa-angle-double-left"></i>Older Posts</a></div>
+<div class="next"></div>
+</nav>
+</div>
+</div>
+<aside class="col-4 sidebar">
+<div class="inner">
+</div>
+</aside></div>
+</div> <!-- .main -->
+<footer class="main-footer bold bold-light">
+<section class="lower-footer cf">
+<div class="wrap">
+<ul class="social-icons">
+</ul>
+<p class="copyright">© 2019 ThemeSphere. Designed by <a href="http://theme-sphere.com">ThemeSphere</a>.				</p>
+<div class="to-top">
+<a class="back-to-top" href="#"><i class="fa fa-angle-up"></i> Top</a>
+</div>
+</div>
+</section>
+</footer>
+</div> <!-- .main-wrap -->
+<div class="mobile-menu-container off-canvas" id="mobile-menu">
+<a class="close" href="#"><i class="fa fa-times"></i></a>
+<div class="logo">
+</div>
+<ul class="mobile-menu"></ul>
+</div>
+<div class="search-modal-wrap">
+<div aria-modal="true" class="search-modal-box" role="dialog">
+<form action="https://www.familysecuritymatters.org/" class="search-form" method="get">
+<input class="search-field" name="s" placeholder="Search..." required="" type="search" value=""/>
+<button class="search-submit visuallyhidden" type="submit">Submit</button>
+<p class="message">
+			Type above and press <em>Enter</em> to search. Press <em>Esc</em> to cancel.		</p>
+</form>
+</div>
+</div>
+<script id="magnific-popup-js" src="https://www.familysecuritymatters.org/wp-content/themes/contentberg/js/magnific-popup.js?ver=1.9.0" type="text/javascript"></script>
+<script id="jquery-fitvids-js" src="https://www.familysecuritymatters.org/wp-content/themes/contentberg/js/jquery.fitvids.js?ver=1.9.0" type="text/javascript"></script>
+<script id="imagesloaded-js" src="https://www.familysecuritymatters.org/wp-includes/js/imagesloaded.min.js?ver=4.1.4" type="text/javascript"></script>
+<script id="object-fit-images-js" src="https://www.familysecuritymatters.org/wp-content/themes/contentberg/js/object-fit-images.js?ver=1.9.0" type="text/javascript"></script>
+<script id="contentberg-theme-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var Bunyad = {"custom_ajax_url":"\/"};
+/* ]]> */
+</script>
+<script id="contentberg-theme-js" src="https://www.familysecuritymatters.org/wp-content/themes/contentberg/js/theme.js?ver=1.9.0" type="text/javascript"></script>
+<script id="theia-sticky-sidebar-js" src="https://www.familysecuritymatters.org/wp-content/themes/contentberg/js/theia-sticky-sidebar.js?ver=1.9.0" type="text/javascript"></script>
+<script id="jquery-slick-js" src="https://www.familysecuritymatters.org/wp-content/themes/contentberg/js/jquery.slick.js?ver=1.9.0" type="text/javascript"></script>
+<script id="jarallax-js" src="https://www.familysecuritymatters.org/wp-content/themes/contentberg/js/jarallax.js?ver=1.9.0" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://www.familysecuritymatters.org/wp-includes/js/wp-embed.min.js?ver=5.6.2" type="text/javascript"></script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: www.familysecuritymatters.org @ 2021-02-25 11:37:22 by W3 Total Cache
+-->
