@@ -4,7 +4,7 @@
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.2, user-scalable=yes" name="viewport"/>
-<!-- This site is optimized with the Yoast SEO plugin v16.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>Historical blog about Seattle, as well as the state of affairs today. Many facts that interest you as well as an open news portal and discussion forum. Support your native Seattle. - Tribune</title>
 <meta content="Tribune" name="description"/>
 <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
@@ -61,6 +61,9 @@ img.emoji {
 <link href="http://theseattletribune.com/wp-content/themes/sheeba-lite/style.css?ver=5.5.3" id="sheeba-lite-style-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/css/sheeba-lite-woocommerce.css?ver=1.0.0" id="sheeba-lite-woocommerce-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/skins/orange.css?ver=1.0.0" id="sheeba-lite-orange-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://theseattletribune.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/static/widgets.css?ver=3.9.0" id="nextgen_widgets_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://theseattletribune.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.css?ver=3.9.0" id="nextgen_basic_thumbnails_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://theseattletribune.com/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/slideshow/ngg_basic_slideshow.css?ver=3.9.0" id="nextgen_basic_slideshow_style-css" media="all" rel="stylesheet" type="text/css"/>
 <script id="jquery-core-js" src="http://theseattletribune.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
 <script id="cookie-law-info-js-extra" type="text/javascript">
 /* <![CDATA[ */
@@ -131,22 +134,6 @@ body.custom-background { background-color: #4fa2a5; }
 <link href="https://theseattletribune.com/wp-content/uploads/2020/08/cropped-slogo-1-180x180.jpg" rel="apple-touch-icon"/>
 <meta content="https://theseattletribune.com/wp-content/uploads/2020/08/cropped-slogo-1-270x270.jpg" name="msapplication-TileImage"/>
 <style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(3,122,221,.88);}</style>
-<link href="http://theseattletribune.com/wp-content/plugins/lightweight-social-icons/css/style-min.css?ver=1.1" id="lsi-style-css" media="all" rel="stylesheet" type="text/css"/>
-<style id="lsi-style-inline-css" type="text/css">
-.icon-set-lsi_widget-2 a,
-			.icon-set-lsi_widget-2 a:visited,
-			.icon-set-lsi_widget-2 a:focus {
-				border-radius: 25px;
-				background: #9aeff3 !important;
-				color: #FFFFFF !important;
-				font-size: 19px !important;
-			}
-
-			.icon-set-lsi_widget-2 a:hover {
-				background: #9aeff3 !important;
-				color: #FFFFFF !important;
-			}
-</style>
 </head>
 <body class="home blog custom-background wp-custom-logo enable_dropcaps">
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -308,61 +295,7 @@ body.custom-background { background-color: #4fa2a5; }
 </div>
 </footer>
 </div>
-<div id="back-to-top"><span class="dashicons dashicons-arrow-up-alt"></span></div><!-- ngg_resource_manager_marker --><script id="wp-polyfill-js" src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" type="text/javascript"></script>
-<script id="wp-polyfill-js-after" type="text/javascript">
-( 'fetch' in window ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
-</script>
-<script id="wp-i18n-js" src="http://theseattletribune.com/wp-includes/js/dist/i18n.min.js?ver=bb7c3c45d012206bfcd73d6a31f84d9e" type="text/javascript"></script>
-<script id="lodash-js" src="http://theseattletribune.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.15" type="text/javascript"></script>
-<script id="lodash-js-after" type="text/javascript">
-window.lodash = _.noConflict();
-</script>
-<script id="wp-url-js" src="http://theseattletribune.com/wp-includes/js/dist/url.min.js?ver=9dd4e33d1648e90d1390113c29d21f27" type="text/javascript"></script>
-<script id="wp-hooks-js" src="http://theseattletribune.com/wp-includes/js/dist/hooks.min.js?ver=b4778690e29d8a2b7518413652ba30c4" type="text/javascript"></script>
-<script id="wp-api-fetch-js-translations" type="text/javascript">
-( function( domain, translations ) {
-	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
-	localeData[""].domain = domain;
-	wp.i18n.setLocaleData( localeData, domain );
-} )( "default", { "locale_data": { "messages": { "": {} } } } );
-</script>
-<script id="wp-api-fetch-js" src="http://theseattletribune.com/wp-includes/js/dist/api-fetch.min.js?ver=8773a93ea0d1278a2eaa147fdb6eb96d" type="text/javascript"></script>
-<script id="wp-api-fetch-js-after" type="text/javascript">
-wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://theseattletribune.com/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "acbc36b00c" );
-wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
-wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
-wp.apiFetch.nonceEndpoint = "https://theseattletribune.com/wp-admin/admin-ajax.php?action=rest-nonce";
-</script>
-<script id="contact-form-7-js-extra" type="text/javascript">
-/* <![CDATA[ */
-var wpcf7 = {"cached":"1"};
-/* ]]> */
-</script>
-<script id="contact-form-7-js" src="http://theseattletribune.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4" type="text/javascript"></script>
-<script id="page-scroll-to-id-plugin-script-js-extra" type="text/javascript">
-/* <![CDATA[ */
-var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[href*='#']:not([href='#'])","autoSelectorMenuLinks":"true","excludeSelector":"a[href^='#tab-'], a[href^='#tabs-'], a[data-toggle]:not([data-toggle='tooltip']), a[data-slide], a[data-vc-tabs], a[data-vc-accordion], a.screen-reader-text.skip-link","scrollSpeed":800,"autoScrollSpeed":"true","scrollEasing":"easeInOutQuint","scrollingEasing":"easeOutQuint","forceScrollEasing":"false","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","autoCorrectScroll":"false","autoCorrectScrollExtend":"false","layout":"vertical","offset":0,"dummyOffset":"false","highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"scrollToHashUseElementData":"true","scrollToHashRemoveUrlHash":"false","disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","unbindUnrelatedClickEventsSelector":"","normalizeAnchorPointTargets":"false","encodeLinks":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
-/* ]]> */
-</script>
-<script id="page-scroll-to-id-plugin-script-js" src="http://theseattletribune.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.3" type="text/javascript"></script>
-<script id="jquery-easing-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.easing.js?ver=1.3" type="text/javascript"></script>
-<script id="jquery-nicescroll-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.nicescroll.js?ver=3.7.6" type="text/javascript"></script>
-<script id="jquery-swipebox-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.swipebox.js?ver=1.4.4" type="text/javascript"></script>
-<script id="owl-carousel-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/owl.carousel.js?ver=2.3.4" type="text/javascript"></script>
-<script id="jquery-touchSwipe-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.touchSwipe.js?ver=1.6.18" type="text/javascript"></script>
-<script id="fitvids-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.fitvids.js?ver=1.1" type="text/javascript"></script>
-<script id="imagesloaded-js" src="http://theseattletribune.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" type="text/javascript"></script>
-<script id="masonry-js" src="http://theseattletribune.com/wp-includes/js/masonry.min.js?ver=4.2.2" type="text/javascript"></script>
-<script id="sheeba-lite-template-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/sheeba-lite-template.js?ver=1.0.0" type="text/javascript"></script>
-<script id="sheeba-lite-navigation-js-extra" type="text/javascript">
-/* <![CDATA[ */
-var accessibleNavigationScreenReaderText = {"expandMain":"Open the main menu","collapseMain":"Close the main menu","expandChild":"expand submenu","collapseChild":"collapse submenu"};
-/* ]]> */
-</script>
-<script id="sheeba-lite-navigation-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/navigation.js?ver=1.0" type="text/javascript"></script>
-<script id="wp-embed-js" src="http://theseattletribune.com/wp-includes/js/wp-embed.min.js?ver=5.5.3" type="text/javascript"></script>
-<!--googleoff: all--><div data-nosnippet="true" id="cookie-law-info-bar"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.</div><div class="cli-bar-btn_container"><a class="cli_settings_button" role="button" style="margin:0px 10px 0px 5px;" tabindex="0">Cookie settings</a><a class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" data-cli_action="accept" id="cookie_action_close_header" role="button" style="display:inline-block; " tabindex="0">ACCEPT</a></div></div></span></div><div data-nosnippet="true" id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Manage consent</span></div><div aria-hidden="true" aria-labelledby="cliSettingsPopup" class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" role="dialog" tabindex="-1">
+<div id="back-to-top"><span class="dashicons dashicons-arrow-up-alt"></span></div><!--googleoff: all--><div data-nosnippet="true" id="cookie-law-info-bar"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.</div><div class="cli-bar-btn_container"><a class="cli_settings_button" role="button" style="margin:0px 10px 0px 5px;" tabindex="0">Cookie settings</a><a class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" data-cli_action="accept" id="cookie_action_close_header" role="button" style="display:inline-block; " tabindex="0">ACCEPT</a></div></div></span></div><div data-nosnippet="true" id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Manage consent</span></div><div aria-hidden="true" aria-labelledby="cliSettingsPopup" class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" role="dialog" tabindex="-1">
 <div class="cli-modal-dialog" role="document">
 <div class="cli-modal-content cli-bar-popup">
 <button class="cli-modal-close" id="cliModalClose" type="button">
@@ -429,13 +362,82 @@ var accessibleNavigationScreenReaderText = {"expandMain":"Open the main menu","c
 </div>
 <div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
 <div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
-<!--googleon: all--><!-- Powered by WPtouch: 4.3.39 -->
+<!--googleon: all--><!-- Powered by WPtouch: 4.3.39 --><link href="http://theseattletribune.com/wp-content/plugins/lightweight-social-icons/css/style-min.css?ver=1.1" id="lsi-style-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="lsi-style-inline-css" type="text/css">
+.icon-set-lsi_widget-2 a,
+			.icon-set-lsi_widget-2 a:visited,
+			.icon-set-lsi_widget-2 a:focus {
+				border-radius: 25px;
+				background: #9aeff3 !important;
+				color: #FFFFFF !important;
+				font-size: 19px !important;
+			}
+
+			.icon-set-lsi_widget-2 a:hover {
+				background: #9aeff3 !important;
+				color: #FFFFFF !important;
+			}
+</style>
+<script id="wp-polyfill-js" src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" type="text/javascript"></script>
+<script id="wp-polyfill-js-after" type="text/javascript">
+( 'fetch' in window ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://theseattletribune.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script id="wp-i18n-js" src="http://theseattletribune.com/wp-includes/js/dist/i18n.min.js?ver=bb7c3c45d012206bfcd73d6a31f84d9e" type="text/javascript"></script>
+<script id="lodash-js" src="http://theseattletribune.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.15" type="text/javascript"></script>
+<script id="lodash-js-after" type="text/javascript">
+window.lodash = _.noConflict();
+</script>
+<script id="wp-url-js" src="http://theseattletribune.com/wp-includes/js/dist/url.min.js?ver=9dd4e33d1648e90d1390113c29d21f27" type="text/javascript"></script>
+<script id="wp-hooks-js" src="http://theseattletribune.com/wp-includes/js/dist/hooks.min.js?ver=b4778690e29d8a2b7518413652ba30c4" type="text/javascript"></script>
+<script id="wp-api-fetch-js-translations" type="text/javascript">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script id="wp-api-fetch-js" src="http://theseattletribune.com/wp-includes/js/dist/api-fetch.min.js?ver=8773a93ea0d1278a2eaa147fdb6eb96d" type="text/javascript"></script>
+<script id="wp-api-fetch-js-after" type="text/javascript">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://theseattletribune.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "797f735c00" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://theseattletribune.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"cached":"1"};
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="http://theseattletribune.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4" type="text/javascript"></script>
+<script id="page-scroll-to-id-plugin-script-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var mPS2id_params = {"instances":{"mPS2id_instance_0":{"selector":"a[href*='#']:not([href='#'])","autoSelectorMenuLinks":"true","excludeSelector":"a[href^='#tab-'], a[href^='#tabs-'], a[data-toggle]:not([data-toggle='tooltip']), a[data-slide], a[data-vc-tabs], a[data-vc-accordion], a.screen-reader-text.skip-link","scrollSpeed":800,"autoScrollSpeed":"true","scrollEasing":"easeInOutQuint","scrollingEasing":"easeOutQuint","forceScrollEasing":"false","pageEndSmoothScroll":"true","stopScrollOnUserAction":"false","autoCorrectScroll":"false","autoCorrectScrollExtend":"false","layout":"vertical","offset":0,"dummyOffset":"false","highlightSelector":"","clickedClass":"mPS2id-clicked","targetClass":"mPS2id-target","highlightClass":"mPS2id-highlight","forceSingleHighlight":"false","keepHighlightUntilNext":"false","highlightByNextTarget":"false","appendHash":"false","scrollToHash":"true","scrollToHashForAll":"true","scrollToHashDelay":0,"scrollToHashUseElementData":"true","scrollToHashRemoveUrlHash":"false","disablePluginBelow":0,"adminDisplayWidgetsId":"true","adminTinyMCEbuttons":"true","unbindUnrelatedClickEvents":"false","unbindUnrelatedClickEventsSelector":"","normalizeAnchorPointTargets":"false","encodeLinks":"false"}},"total_instances":"1","shortcode_class":"_ps2id"};
+/* ]]> */
+</script>
+<script id="page-scroll-to-id-plugin-script-js" src="http://theseattletribune.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.3" type="text/javascript"></script>
+<script id="jquery-easing-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.easing.js?ver=1.3" type="text/javascript"></script>
+<script id="jquery-nicescroll-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.nicescroll.js?ver=3.7.6" type="text/javascript"></script>
+<script id="jquery-swipebox-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.swipebox.js?ver=1.4.4" type="text/javascript"></script>
+<script id="owl-carousel-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/owl.carousel.js?ver=2.3.4" type="text/javascript"></script>
+<script id="jquery-touchSwipe-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.touchSwipe.js?ver=1.6.18" type="text/javascript"></script>
+<script id="fitvids-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/jquery.fitvids.js?ver=1.1" type="text/javascript"></script>
+<script id="imagesloaded-js" src="http://theseattletribune.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" type="text/javascript"></script>
+<script id="masonry-js" src="http://theseattletribune.com/wp-includes/js/masonry.min.js?ver=4.2.2" type="text/javascript"></script>
+<script id="sheeba-lite-template-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/sheeba-lite-template.js?ver=1.0.0" type="text/javascript"></script>
+<script id="sheeba-lite-navigation-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var accessibleNavigationScreenReaderText = {"expandMain":"Open the main menu","collapseMain":"Close the main menu","expandChild":"expand submenu","collapseChild":"collapse submenu"};
+/* ]]> */
+</script>
+<script id="sheeba-lite-navigation-js" src="http://theseattletribune.com/wp-content/themes/sheeba-lite/assets/js/navigation.js?ver=1.0" type="text/javascript"></script>
+<script id="wp-embed-js" src="http://theseattletribune.com/wp-includes/js/wp-embed.min.js?ver=5.5.3" type="text/javascript"></script>
 </body>
 </html>
-<!-- Page supported by LiteSpeed Cache 3.6.4 on 2021-03-17 06:06:46 -->
+<!-- Page supported by LiteSpeed Cache 3.6.4 on 2021-03-27 17:39:32 -->
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: theseattletribune.com @ 2021-03-17 06:06:46 by W3 Total Cache
+Served from: theseattletribune.com @ 2021-03-27 17:39:32 by W3 Total Cache
 -->

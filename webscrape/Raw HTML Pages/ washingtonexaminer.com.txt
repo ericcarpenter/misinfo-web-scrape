@@ -703,6 +703,9 @@ header.Page-header, .container.mainnav-container .Page-header, .Page-header .con
 .ArticlePage-tagsActions .ArticlePage-actions {
     max-width: 100%;
 }
+.ArticlePage-lead {
+    min-height: 520px;
+}
 
 /* Navigation padding override */
 .Page-header .Page-navigation .Navigation .Navigation-items .NavigationItem .NavigationItem-text {
@@ -738,6 +741,15 @@ header.Page-header, .container.mainnav-container .Page-header, .Page-header .con
 }
 .TagPage-main .TagPage-pageLead a {
     text-decoration: underline;
+}
+/* Float Menu Overrides */
+.float-menu-left {
+    width: 32%;
+    margin-left: 1%;
+}
+.float-menu-right {
+    width: 32%;
+    margin-right: 1%;
 }</style>
 <style></style>
 <meta content="1285945407" property="fb:admins"/>
@@ -899,24 +911,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Twitter widget meta csp tag - Added here since not coming from BEX -->
 <meta content="on" name="twitter:widgets:csp"><link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/><link href="/favicon-32x32.png" rel="icon" type="image/png"/><link href="/favicon-16x16.png" rel="icon" type="image/png"/>
 <meta content="true" name="brightspot.cached"/>
-<script async="" src="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c3e9f7ced7f7962fac1f73fffba435aa.gz.js"></script>
-<!-- Begin Dynamic Yield Code -->
-<script type="text/javascript">
-    window.DY = window.DY || { }; DY.recommendationContext = { type: "HOMEPAGE" };
-</script>
-<script src="//cdn.dynamicyield.com/api/8767644/api_dynamic.js" type="text/javascript"></script>
-<script src="//cdn.dynamicyield.com/api/8767644/api_static.js" type="text/javascript"></script>
-<meta content="https://www.washingtonexaminer.com/" property="dy:url"/>
-<!-- End Dynamic Yield Code -->
-<script>
-        window.mdc_page = window.mdc_page || {};
-        // General Page Data
-        window.mdc_page.type = "brightspot.core.oneoffpage.OneOffPage";
-        window.mdc_page.url = "https://www.washingtonexaminer.com/";
-
-        
-    </script>
-<!--
+<script async="" src="https://mediadc.brightspotcdn.com/resource/00000161-3464-db21-a1e3-b56701190000/styleguide/All.min.c3e9f7ced7f7962fac1f73fffba435aa.gz.js"></script><!--
 <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script type="text/javascript">
 
@@ -1026,6 +1021,22 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
     </script>
 <!-- End Quantcast Code -->
 <script src="//apps.washingtonexaminer.com/scripts/js.cookie.js" type="text/javascript"></script>
+<!-- Begin Dynamic Yield Code -->
+<script type="text/javascript">
+    window.DY = window.DY || { }; DY.recommendationContext = { type: "HOMEPAGE" };
+</script>
+<script src="//cdn.dynamicyield.com/api/8767644/api_dynamic.js" type="text/javascript"></script>
+<script src="//cdn.dynamicyield.com/api/8767644/api_static.js" type="text/javascript"></script>
+<meta content="https://www.washingtonexaminer.com/" property="dy:url"/>
+<!-- End Dynamic Yield Code -->
+<script>
+        window.mdc_page = window.mdc_page || {};
+        // General Page Data
+        window.mdc_page.type = "brightspot.core.oneoffpage.OneOffPage";
+        window.mdc_page.url = "https://www.washingtonexaminer.com/";
+
+        
+    </script>
 <script>window.fbAsyncInit = function() {
     FB.init({
       appId      : '190451957673826',
@@ -1217,6 +1228,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <script async="" src="/scripts/toolbar.js?v=0.002"></script>
 <script async="" src="/scripts/article-brief.js"></script>
 <script defer="" src="//tags.wdsvc.net/container.js?id=100370&amp;v=3.10&amp;t=1611260439076"></script>
+<script src="//us.ads.justpremium.com/adserve/js.php?zone=38754"></script>
 </meta></meta></meta></meta></link></head>
 <body class="Page-body">
 <nav class="FixedHeader">
@@ -1230,10 +1242,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             </div>
 <ul class="NavigationItem-items" tabindex="-1">
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/news/white-house">White House</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/news/white-house">Latest White House News</a>
 </li>
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/news/congress">Congress</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/news/congress">US Congress News</a>
 </li>
 <li class="NavigationItem-items-item">
 <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/campaigns">Campaigns</a>
@@ -1257,19 +1269,19 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             </div>
 <ul class="NavigationItem-items" tabindex="-1">
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/defense-national-security">Defense &amp; National Security</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/defense-national-security">US Military &amp; Defense Policy News</a>
 </li>
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/energy">Energy</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/energy">US Energy &amp; Environment Policy News</a>
 </li>
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/healthcare">Healthcare</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/healthcare">Latest News in US Healthcare </a>
 </li>
 <li class="NavigationItem-items-item">
 <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/economy">Finance &amp; Economy</a>
 </li>
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/technology">Tech &amp; Cyber</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/technology">US Technology &amp; Cybersecurity News &amp; Policies </a>
 </li>
 <li class="NavigationItem-items-item">
 <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/budgets-deficits">Budgets &amp; Spending</a>
@@ -1522,7 +1534,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <date class="Page-date nav-item">
 <small>
 <a class="" href="#" rel="nofollow" tabindex="0">
-                                    Wednesday, March 17, 2021
+                                    Saturday, March 27, 2021
                                 </a>
 </small>
 </date>
@@ -1536,10 +1548,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             </div>
 <ul class="NavigationItem-items" tabindex="-1">
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/news/white-house">White House</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/news/white-house">Latest White House News</a>
 </li>
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/news/congress">Congress</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/news/congress">US Congress News</a>
 </li>
 <li class="NavigationItem-items-item">
 <a class="NavigationLink" href="https://www.washingtonexaminer.com/news/campaigns">Campaigns</a>
@@ -1563,19 +1575,19 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
             </div>
 <ul class="NavigationItem-items" tabindex="-1">
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/defense-national-security">Defense &amp; National Security</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/defense-national-security">US Military &amp; Defense Policy News</a>
 </li>
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/energy">Energy</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/energy">US Energy &amp; Environment Policy News</a>
 </li>
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/healthcare">Healthcare</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/healthcare">Latest News in US Healthcare </a>
 </li>
 <li class="NavigationItem-items-item">
 <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/economy">Finance &amp; Economy</a>
 </li>
 <li class="NavigationItem-items-item">
-<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/technology">Tech &amp; Cyber</a>
+<a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/technology">US Technology &amp; Cybersecurity News &amp; Policies </a>
 </li>
 <li class="NavigationItem-items-item">
 <a class="NavigationLink" href="https://www.washingtonexaminer.com/policy/budgets-deficits">Budgets &amp; Spending</a>
@@ -1795,7 +1807,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </div>
 </header>
 <div class="Page-above content-above pb-3 mb-3 d-flex justify-content-center">
-<div class="GoogleDfpAd" data-slot-adsizemap="[[[1024, 0], [970, 250], [970, 90], [728, 90]], [[768, 0], [728, 90]], [[320, 0], [320, 50], [1, 1]]]" data-slot-name="/4026082/washington_examiner/top_banner" data-slot-position="1" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50], [1, 1]]" id="googleAd55de4189-2303-4fec-a4a2-8a6ed5577e0b">
+<div class="GoogleDfpAd" data-slot-adsizemap="[[[1024, 0], [970, 250], [970, 90], [728, 90]], [[768, 0], [728, 90]], [[320, 0], [320, 50], [1, 1]]]" data-slot-name="/4026082/washington_examiner/top_banner" data-slot-position="1" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50], [1, 1]]" id="googleAde956ad8b-bd40-4a37-9884-3f1f5a0cdeba">
 </div>
 <div class="GoogleDfpAd" data-slot-adsizemap="[[[1024, 0], [1, 1]]]" data-slot-name="/4026082/washington_examiner/undertone_pagegrabber" data-slot-position="97" data-slot-sizes="[[1, 1]]" id="googleAddc7ee864-2edd-4a35-874d-de898404dd3d"></div>
 </div>
@@ -1813,11 +1825,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="FourColumnContainer-columnOne col-md-3">
 <div class="Thumbnail-headline-center d-flex mb-3 my-3">
 <div class="Thumbnail-headline-center-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/four-people-recently-arrested-southern-border-terror-watchlist"><img alt="Immigration-Detained Children" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/3d7ab03/2147483647/strip/true/crop/1323x1323+481+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F94%2F57%2Fd0dbee824602a796b23d69dc5cf6%2Fap21071849430254.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/virginia-beach-shooting-police-several-victims-possibly-life-threatening-injuries"><img alt="Police" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/18ddfd8/2147483647/strip/true/crop/1414x1414+354+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F48%2F5d%2F6f620b4a4184bdee9f36234d2cb5%2Fpolice.jpg" width="545"/></a>
 </div>
 <div class="Thumbnail-headline-center-info">
 <div class="Thumbnail-headline-center-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/four-people-recently-arrested-southern-border-terror-watchlist">Four people recently arrested at southern border are on terror watchlist</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/virginia-beach-shooting-police-several-victims-possibly-life-threatening-injuries">Two dead and eight injured in shootings at Virginia Beach</a>
 </div>
 </div>
 </div>
@@ -1825,11 +1837,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="FourColumnContainer-columnTwo col-md-3">
 <div class="Thumbnail-headline-center d-flex mb-3 my-3">
 <div class="Thumbnail-headline-center-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/tiger-woods-released-from-hospital-following-crash"><img alt="Tiger Woods" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/9f06b63/2147483647/strip/true/crop/1322x1322+968+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F76%2F5c%2Facb7bbf943d78440da0ec5440a17%2Ftiger-woods-sued.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/asian-students-california-school-receive-hate-messages"><img alt="Anti Asian Hate Crimes" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/6590560/2147483647/strip/true/crop/1318x1318+475+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fbc%2F1d%2Febb6fe8740ce80a765674fdbb711%2Fasian-americans-protest-hate-crimes.jpg" width="545"/></a>
 </div>
 <div class="Thumbnail-headline-center-info">
 <div class="Thumbnail-headline-center-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/tiger-woods-released-from-hospital-following-crash">Tiger Woods released from hospital following crash</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/asian-students-california-school-receive-hate-messages">Asian American students at CA high school get anonymous, racist messages, district says</a>
 </div>
 </div>
 </div>
@@ -1837,11 +1849,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="FourColumnContainer-columnThree col-md-3">
 <div class="Thumbnail-headline-center d-flex mb-3 my-3">
 <div class="Thumbnail-headline-center-media">
-<a class="Link" href="https://www.washingtonexaminer.com/politics/biden-support-filibuster-reform"><img alt="Joe Biden" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/a1caa42/2147483647/strip/true/crop/1331x1331+465+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F2f%2Fcc%2Ff92d3c044eb7bd0f489532ec9f53%2Fap21075656472602.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/this-makes-jim-crow-look-like-jim-eagle-quotes-of-the-week"><img alt="Joe Biden" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/15556e9/2147483647/strip/true/crop/1316x1316+466+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F69%2F59%2Fd8e4870d4a1ca53eb9f6481992fa%2Fap21084711119127.jpg" width="545"/></a>
 </div>
 <div class="Thumbnail-headline-center-info">
 <div class="Thumbnail-headline-center-title">
-<a class="Link" href="https://www.washingtonexaminer.com/politics/biden-support-filibuster-reform">Biden backs filibuster reform</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/this-makes-jim-crow-look-like-jim-eagle-quotes-of-the-week">'This makes Jim Crow look like Jim Eagle': Quotes of the week</a>
 </div>
 </div>
 </div>
@@ -1849,11 +1861,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="FourColumnContainer-columnFour col-md-3">
 <div class="Thumbnail-headline-center d-flex mb-3 my-3">
 <div class="Thumbnail-headline-center-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/nevada-republicans-delivered-only-small-fraction-of-declared-122-000-voter-fraud-complaints"><img alt="Election Integrity Protest Nevada" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/1732f83/2147483647/strip/true/crop/682x682+168+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fa0%2Fc6%2Fdd97b42743a5bbbb7a0a2ca5159a%2Fap21063829361141.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/white-house-confirms-biden-will-sign-executive-order-gun-control"><img alt="Joe Biden " class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/941b4ef/2147483647/strip/true/crop/1322x1322+395+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F78%2F29%2F8d6671d2413faed73b5312b90126%2Fbidenbiden.jpg" width="545"/></a>
 </div>
 <div class="Thumbnail-headline-center-info">
 <div class="Thumbnail-headline-center-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/nevada-republicans-delivered-only-small-fraction-of-declared-122-000-voter-fraud-complaints">Nevada: GOP delivered only small fraction of declared 122K voter fraud complaints</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/white-house-confirms-biden-will-sign-executive-order-gun-control">WH confirms Biden will sign executive order on gun control</a>
 </div>
 </div>
 </div>
@@ -1878,37 +1890,37 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="OneColumnContainer">
 <div class="d-flex">
 <div class="OneColumnContainer-columnOne col-md-12">
-<div class="Headline-bullets-byline-embedXL-right d-flex">
-<div class="Headline-bullets-byline-embedXL-right-info">
-<div class="Headline-bullets-byline-embedXL-right-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/biden-says-cuomo-will-probably-be-prosecuted-if-investigation-confirms-womens-misconduct-claims">Biden: Cuomo will 'probably' be prosecuted if allegations confirmed </a>
+<div class="Headline-bullets-byline-galleryXL-right d-flex">
+<div class="Headline-bullets-byline-galleryXL-right-info">
+<div class="Headline-bullets-byline-galleryXL-right-title">
+<a class="Link" href="https://www.washingtonexaminer.com/news/white-house-eyes-conservatives-in-next-push-vaccine">White House eyes conservatives in next stage of vaccine push</a>
 </div>
-<div class="Headline-bullets-byline-embedXL-right-description">In his public comments before Tuesday, Biden had sought to balance his support of the women alleging Cuomo had acted inappropriately toward them with the governor's right to due process.</div>
-<div class="Headline-bullets-byline-embedXL-right-authorDate d-flex flex-wrap mt-2">
-<div class="Headline-bullets-byline-embedXL-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/naomi-lim">Naomi Lim</a>
+<div class="Headline-bullets-byline-galleryXL-right-description">There are concerns that many people may choose to forgo a shot, with plans for messengers who may be better equipped to speak directly to concerns in red states.</div>
+<div class="Headline-bullets-byline-galleryXL-right-authorDate d-flex flex-wrap mt-2">
+<div class="Headline-bullets-byline-galleryXL-right-authorName">
+<a class="Link" href="https://www.washingtonexaminer.com/author/katherine-doyle">Katherine Doyle</a>
 </div>
-<div class="Headline-bullets-byline-embedXL-right-date">
-                                 | <span class="datespan">March 16, 2021 10:13 PM</span>
+<div class="Headline-bullets-byline-galleryXL-right-date">
+                                 | <span class="datespan">March 27, 2021 12:00 PM</span>
 </div>
 </div>
 </div>
-<div class="Headline-bullets-byline-embedXL-right-media">
-<span class="promoEmbedKicker" data-kicker="Biden on Cuomo: Give it time">Biden on Cuomo: Give it time<br/></span>
-<script id="4d10685205724af5979e94faa7392879">  cnx.cmd.push(function() {    cnx({      playerId: "fbb0d4a4-1d64-4cd5-b757-d57a11f7cb4d",      mediaId: "e77d0a99-cc04-4be1-a4b6-8dd9a52be0d9"    }).render("4d10685205724af5979e94faa7392879");  });</script>
+<div class="Headline-bullets-byline-galleryXL-right-media">
+<span class="promoGalleryKicker" data-kicker="GALLERY: Cargo ship Ever given stuck in Suez Canal">GALLERY: Cargo ship Ever given stuck in Suez Canal<br/></span>
+<div class="Headline-bullets-byline-galleryXL-right-gallery ajax-gallery" data-clickthrough-url="https://www.washingtonexaminer.com/news/white-house-eyes-conservatives-in-next-push-vaccine" data-gallery-autostart="true" data-gallery-controls="true" data-gallery-indicators="true" data-gallery-interval="8000" data-gallery-slide-attribution="true" data-gallery-slide-title="false" data-gallery-template="https://apps.washingtonexaminer.com/widgets/galleries/gallery01.php" data-gallery-transition="slide" data-gallery-url="https://www.washingtonexaminer.com/ever-given-suez-canal-gallery"></div>
 </div>
 </div>
 <hr style="width: calc(40% - 35px);"/>
 <div class="Headline-date-mini-left mb-3">
 <h4 class="Headline-date-mini-left-title mb-1">
-<a class="Link" href="https://www.washingtonexaminer.com/news/hunter-biden-russia-2020-election-stories-intelligence-report">Russia 'heavily amplified' Hunter Biden stories during election: Intelligence report</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/virginia-governor-republican-race-chase-cox-snyder-youngkin">Virginia Republicans face anonymous attacks running for governor</a>
 </h4>
 <div class="Headline-date-mini-left-authorDate d-flex flex-wrap mt-2">
 <div class="Headline-date-mini-left-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/daniel-chaitin">Daniel Chaitin</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/emily-brooks">Emily Brooks</a>
 </div>
 <div class="Headline-date-mini-left-date">
-                                 | <span class="datespan">March 16, 2021 07:29 PM</span>
+                                 | <span class="datespan">March 27, 2021 12:00 PM</span>
 </div>
 </div>
 </div>
@@ -1933,19 +1945,19 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="Headline-byline-thumb-right d-flex mb-3 my-3">
 <div class="Headline-byline-thumb-right-info">
 <div class="Headline-byline-thumb-right-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/trump-recommends-coronavirus-vaccine-supporters">Trump recommends COVID vaccine</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/miller-meeks-growing-incumbency-election">House GOP fights to stop Dems from grabbing IA seat<br/> </a>
 </div>
 <div class="Headline-byline-thumb-right-authorDate d-flex flex-wrap mt-2">
 <div class="Headline-byline-thumb-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/kaelan-deese">Kaelan Deese</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/kerry-picket">Kerry Picket</a>
 </div>
 <div class="Headline-byline-thumb-right-date">
-                                 | <span class="datespan">March 16, 2021 07:43 PM</span>
+                                 | <span class="datespan">March 27, 2021 06:32 AM</span>
 </div>
 </div>
 </div>
 <div class="Headline-byline-thumb-right-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/trump-recommends-coronavirus-vaccine-supporters"><img alt="Donald Trump" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/f6329f7/2147483647/strip/true/crop/1322x1322+621+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F2d%2F8d%2F5182189045e6a81735c8670165b6%2Ftrump-opec.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/miller-meeks-growing-incumbency-election"><img alt="Congress" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/200c4bd/2147483647/strip/true/crop/1320x1320+480+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F67%2Fbe%2F95259e06473ba67df96c5e136d14%2Fap-congress.jpg" width="545"/></a>
 </div>
 </div>
 </div>
@@ -1953,19 +1965,19 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="Headline-byline-thumb-right d-flex mb-3 my-3">
 <div class="Headline-byline-thumb-right-info">
 <div class="Headline-byline-thumb-right-title">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/biden-tell-chinese-error-of-their-ways">Biden team to tell Chinese officials 'the error of their ways'</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/epri-ceo-interview-biden-climate-math">Electricity research CEO tells Biden how to do climate math</a>
 </div>
 <div class="Headline-byline-thumb-right-authorDate d-flex flex-wrap mt-2">
 <div class="Headline-byline-thumb-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/joel-gehrke">Joel Gehrke</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/abby-smith">Abby Smith</a>
 </div>
 <div class="Headline-byline-thumb-right-date">
-                                 | <span class="datespan">March 16, 2021 09:11 PM</span>
+                                 | <span class="datespan">March 27, 2021 07:00 AM</span>
 </div>
 </div>
 </div>
 <div class="Headline-byline-thumb-right-media">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/biden-tell-chinese-error-of-their-ways"><img alt="Joe Biden, Jake Sullivan, Antony Blinken" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/cded958/2147483647/strip/true/crop/1321x1321+485+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F61%2F50%2F799e4680499b98227dee1a1bb5ca%2Fblinken-sullivan.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/epri-ceo-interview-biden-climate-math"><img alt="unnamed_file.jpg" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/e606a65/2147483647/strip/true/crop/565x565+142+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fe3%2Fe2%2F760d84bb53aada25b279c537ad09%2Fafaa7ccc76f2d656c48ebbb653fa7546.jpg" width="545"/></a>
 </div>
 </div>
 </div>
@@ -1973,19 +1985,19 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="Headline-byline-thumb-right d-flex mb-3 my-3">
 <div class="Headline-byline-thumb-right-info">
 <div class="Headline-byline-thumb-right-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/dont-come-over-biden-tries-to-clean-up-mixed-border-message">Biden tries to clean up mixed border message</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/maxwell-lawyers-request-giuffre-prince-andrew-photo">Maxwell lawyers ask for Prince Andrew, Giuffre photo</a>
 </div>
 <div class="Headline-byline-thumb-right-authorDate d-flex flex-wrap mt-2">
 <div class="Headline-byline-thumb-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/naomi-lim">Naomi Lim</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/mica-soellner">Mica Soellner</a>
 </div>
 <div class="Headline-byline-thumb-right-date">
-                                 | <span class="datespan">March 16, 2021 08:51 PM</span>
+                                 | <span class="datespan">March 27, 2021 10:53 AM</span>
 </div>
 </div>
 </div>
 <div class="Headline-byline-thumb-right-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/dont-come-over-biden-tries-to-clean-up-mixed-border-message"><img alt="Joe Biden" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/0fc75b3/2147483647/strip/true/crop/1324x1324+462+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F7a%2F4f%2F2bc08b534a1a8ca57491f09d6588%2Fap21075735827347.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/maxwell-lawyers-request-giuffre-prince-andrew-photo"><img alt="Gislaine Maxwell" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/262d2f9/2147483647/strip/true/crop/1322x1322+484+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F66%2F88%2F1d703a03457192b1366165c0294a%2Fghislaine-maxwell2.jpg" width="545"/></a>
 </div>
 </div>
 </div>
@@ -2008,34 +2020,34 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="OneColumnContainer-columnOne col-md-12">
 <div class="Headline-desc-byline-embedXL-left d-flex mb-3 my-3">
 <div class="Headline-desc-byline-embedXL-left-media">
-<span class="promoEmbedKicker" data-kicker="Biden tax plans: Higher taxes for more spending">Biden tax plans: Higher taxes for more spending<br/></span>
-<script id="efe257545f2343408cc2462a8c06d037">  cnx.cmd.push(function() {    cnx({      playerId: "fbb0d4a4-1d64-4cd5-b757-d57a11f7cb4d",      mediaId: "79dd7366-641f-4036-a40b-cd482bafafb2"    }).render("efe257545f2343408cc2462a8c06d037");  });</script>
+<span class="promoEmbedKicker" data-kicker="The many effects of school shutdowns in the US">The many effects of school shutdowns in the US<br/></span>
+<script id="87d45899750b447aa69a11b1529df91c">  cnx.cmd.push(function() {    cnx({      playerId: "d3ccd8ea-d8c5-48ce-9d40-7425510c053f",      mediaId: "06f09b70-56cf-43ee-8ad0-4f76e910da27"    }).render("87d45899750b447aa69a11b1529df91c");  });</script>
 </div>
 <div class="Headline-desc-byline-embedXL-left-info">
 <div class="Headline-desc-byline-embedXL-left-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/lindell-countersue-dominion-2-lawsuits">Mike Lindell responds to billion-dollar lawsuit from Dominion with two countersuits of his own</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/us-gained-weight-during-pandemic-here-come-the-consequences">US gained weight during pandemic; here come the consequences  </a>
 </div>
-<div class="Headline-desc-byline-embedXL-left-description">Dominion Voting Systems sued Lindell for $1.3 billion last month as a result of his allegations the company was connected to voter fraud in the presidential election.</div>
+<div class="Headline-desc-byline-embedXL-left-description">Many serious health problems are associated with obesity, including heart disease, diabetes, stroke, and high blood pressure. And new research suggests that the pandemic has had a detrimental effect on waistlines.</div>
 <div class="Headline-desc-byline-embedXL-left-authorDate d-flex flex-wrap mt-2">
 <div class="Headline-desc-byline-embedXL-left-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/andrew-mark-miller">Andrew Mark Miller</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/david-hogberg">David Hogberg</a>
 </div>
 <div class="Headline-desc-byline-embedXL-left-date">
-                                 | <span class="datespan">March 16, 2021 07:37 PM</span>
+                                 | <span class="datespan">March 27, 2021 06:33 AM</span>
 </div>
 </div>
 </div>
 </div>
 <div class="Headline-date-mini-right mb-3">
 <h4 class="Headline-date-mini-right-title mb-1">
-<a class="Link" href="https://www.washingtonexaminer.com/news/judge-rules-michigan-sec-state-broke-law-absentee-ballot">MI judge rules secretary of state violated election law by changing absentee voting rules</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/biden-arrival-causes-traffic-delays-in-delaware">Biden's Delaware homecoming prompts traffic jam</a>
 </h4>
 <div class="Headline-date-mini-right-authorDate d-flex flex-wrap mt-2">
 <div class="Headline-date-mini-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/andrew-mark-miller">Andrew Mark Miller</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/mica-soellner">Mica Soellner</a>
 </div>
 <div class="Headline-date-mini-right-date">
-                                 | <span class="datespan">March 16, 2021 07:18 PM</span>
+                                 | <span class="datespan">March 26, 2021 11:03 PM</span>
 </div>
 </div>
 </div>
@@ -2058,36 +2070,37 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="OneColumnContainer">
 <div class="d-flex">
 <div class="OneColumnContainer-columnOne col-md-12">
-<div class="Headline-desc-byline-photoXL-right d-flex mb-3 my-3">
-<div class="Headline-desc-byline-photoXL-right-info">
-<div class="Headline-desc-byline-photoXL-right-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/mississippi-vaccine-eligibility">Mississippi broadens vaccine eligibility to all</a>
+<div class="Headline-desc-byline-embedXL-right d-flex mb-3 my-3">
+<div class="Headline-desc-byline-embedXL-right-info">
+<div class="Headline-desc-byline-embedXL-right-title">
+<a class="Link" href="https://www.washingtonexaminer.com/news/appeals-court-professor-refused-transgender-pronouns">Court rules for professor who refused to use student's preferred pronouns</a>
 </div>
-<div class="Headline-desc-byline-photoXL-right-description">“We still have a long way to go, and our vaccine allocations are increasing,” Mississippi state epidemiologist Dr. Paul Byers told reporters Tuesday.</div>
-<div class="Headline-desc-byline-photoXL-right-authorDate d-flex flex-wrap mt-2">
-<div class="Headline-desc-byline-photoXL-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/cassidy-morrison">Cassidy Morrison</a>
+<div class="Headline-desc-byline-embedXL-right-description">A federal appeals court on Friday unanimously ruled in favor of a professor who refused to use a transgender student's preferred pronouns.</div>
+<div class="Headline-desc-byline-embedXL-right-authorDate d-flex flex-wrap mt-2">
+<div class="Headline-desc-byline-embedXL-right-authorName">
+<a class="Link" href="https://www.washingtonexaminer.com/author/nicholas-rowan">Nicholas Rowan</a>
 </div>
-<div class="Headline-desc-byline-photoXL-right-date">
-                                 | <span class="datespan">March 16, 2021 07:46 PM</span>
+<div class="Headline-desc-byline-embedXL-right-date">
+                                 | <span class="datespan">March 26, 2021 03:46 PM</span>
 </div>
 </div>
 </div>
-<div class="Headline-desc-byline-photoXL-right-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/mississippi-vaccine-eligibility"><img alt="Brent Myers" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/4f4c946/2147483647/strip/true/crop/2166x1322+62+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fe6%2F9e%2F3df873bd4faca71be5caa547898f%2Fmiss.%20VA%20hospital%20COVID%20vaccine%201%3A8%3A2021.jpg" width="1540"/></a>
+<div class="Headline-desc-byline-embedXL-right-media">
+<span class="promoEmbedKicker" data-kicker="Fact-checking Biden's first press conference since taking office">Fact-checking Biden's first press conference since taking office<br/></span>
+<script id="1f82e878c3c241d3a524e9edb10bf67b">  cnx.cmd.push(function() {    cnx({      playerId: "d3ccd8ea-d8c5-48ce-9d40-7425510c053f",      mediaId: "eb0b0566-2436-4349-b9b5-83a5604510a9"    }).render("1f82e878c3c241d3a524e9edb10bf67b");  });</script>
 </div>
 </div>
 <hr style="width: calc(40% - 35px);"/>
 <div class="Headline-date-mini-left mb-3">
 <h4 class="Headline-date-mini-left-title mb-1">
-<a class="Link" href="https://www.washingtonexaminer.com/news/house-democrats-mccarthy-lying-border-cbp-confirms">After Dems accuse McCarthy of lying about terrorists crossing  border, CBP confirms it </a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/biggest-factor-in-whether-biden-sends-migrants-back-to-mexico-is-luck">Biggest factor in whether Biden sends migrants back to Mexico is luck</a>
 </h4>
 <div class="Headline-date-mini-left-authorDate d-flex flex-wrap mt-2">
 <div class="Headline-date-mini-left-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/andrew-mark-miller">Andrew Mark Miller</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/anna-giaritelli">Anna Giaritelli</a>
 </div>
 <div class="Headline-date-mini-left-date">
-                                 | <span class="datespan">March 16, 2021 05:59 PM</span>
+                                 | <span class="datespan">March 27, 2021 06:28 AM</span>
 </div>
 </div>
 </div>
@@ -2112,36 +2125,36 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="OneColumnContainer">
 <div class="d-flex">
 <div class="OneColumnContainer-columnOne col-md-12">
-<div class="GoogleDfpAd" data-slot-adsizemap="[[[1024, 0], [300, 1050], [300, 600], [300, 250]], [[768, 0], [300, 600], [300, 250]]]" data-slot-name="/4026082/washington_examiner/sidebar_1" data-slot-position="2" data-slot-sizes="[[300, 600], [300, 250], [300, 1050]]" id="googleAd409ef785-f950-42df-8116-ffa535df09d3">
+<div class="GoogleDfpAd" data-slot-adsizemap="[[[1024, 0], [300, 1050], [300, 600], [300, 250]], [[768, 0], [300, 600], [300, 250]]]" data-slot-name="/4026082/washington_examiner/sidebar_1" data-slot-position="2" data-slot-sizes="[[300, 600], [300, 250], [300, 1050]]" id="googleAd152b35a5-7826-436a-9884-70ec48310e17">
 </div>
 <div class="homepage2020-heading"><h5>Opinion</h5></div>
 <div class="Headline-Homepage mb-2">
 <h6 class="Headline-Homepage-title">
 <span class="Headline-Homepage-title-kicker">EDITORIAL<br/></span>
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/editorials/is-the-biden-administration-the-least-transparent-ever">Is the Biden administration the least transparent ever?</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/editorials/business-standing-up-to-china">Business standing up to China</a>
 </h6>
 </div>
 <div class="Headline-Homepage mb-2">
 <h6 class="Headline-Homepage-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/associated-press-goes-to-bat-for-andrew-cuomo-with-one-of-the-dumbest-defenses-yet"><i>Associated Press </i>goes to bat for Andrew Cuomo with one of the dumbest defenses yet</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/the-consequences-of-campus-cancel-culture">The consequences of campus cancel culture</a>
 </h6>
 </div>
 <div class="Full-photo-headline mb-2">
 <div class="Full-photo-headline-media">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders"><img alt="portland.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/6e15912/2147483647/strip/true/crop/2166x1322+62+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F13%2F8d%2F1d7734ff4720aca2b78751a245ec%2Fportland.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/we-need-to-stop-overlooking-one-politically-incorrect-covid-19-death-factor"><img alt="Adrian Parrilla" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/d02e200/2147483647/strip/true/crop/2166x1322+62+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F4e%2F28%2Fedc588eb477c9d570d60aad99ad0%2Fap21072850475580.jpg" width="1540"/></a>
 </div>
 <h6 class="Full-photo-headline-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/portland-cut-police-funding-and-got-a-2-000-surge-in-murders">Portland cut police funding and got a 2,000% surge in murders</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/we-need-to-stop-overlooking-one-politically-incorrect-covid-19-death-factor">We need to stop overlooking one politically incorrect COVID-19 death factor</a>
 </h6>
 </div>
 <div class="Headline-Homepage mb-2">
 <h6 class="Headline-Homepage-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/columnists/cuomo-carries-on-a-tradition-of-ruined-dynasties">Cuomo carries on a tradition of ruined dynasties</a>
+<a class="Link" href="https://www.washingtonexaminer.com/washington-secrets/border-tour-senators-heckled-by-coyotes-biden-officials-tried-to-block-photos">Border tour: Senators heckled by ‘coyotes,’ Biden officials tried to block photos</a>
 </h6>
 </div>
 <div class="Headline-Homepage mb-2">
 <h6 class="Headline-Homepage-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/don-lemon-is-no-theologian">Don Lemon is no theologian</a>
+<a class="Link" href="https://www.washingtonexaminer.com/washington-secrets/weekly-biden-report-card-graders-split-on-press-conference-scatterbrained-or-boffo">Weekly Biden Report Card: Graders split on press conference as ‘scatterbrained’ or ‘boffo’</a>
 </h6>
 </div>
 </div>
@@ -2154,7 +2167,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </div> <!-- CLOSE Homepage Upper Right -->
 </div> <!-- CLOSE Homepage Upper -->
 <div class="mid-article-banner-ad">
-<div class="GoogleDfpAd" data-slot-adsizemap="[[[1024, 0], [970, 250], [970, 90], [728, 90]], [[768, 0], [728, 90]], [[320, 0], [320, 50], [1, 1]]]" data-slot-name="/4026082/washington_examiner/top_banner" data-slot-position="1" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50], [1, 1]]" id="googleAdb80e7f36-2de6-43dd-94d4-d10040adb55f">
+<div class="GoogleDfpAd" data-slot-adsizemap="[[[1024, 0], [970, 250], [970, 90], [728, 90]], [[768, 0], [728, 90]], [[320, 0], [320, 50], [1, 1]]]" data-slot-name="/4026082/washington_examiner/top_banner" data-slot-position="1" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50], [1, 1]]" id="googleAda6d75373-4965-49ed-ba5a-2b064607ef67">
 </div>
 </div> <!-- CLOSE Banner Ad -->
 <div class="Homepage Lower Container TwoCol-Col8-Col4-Container d-flex flex-wrap">
@@ -2174,34 +2187,34 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="HeadlineXL-desc-byline-embedXL-right d-flex mb-3 my-3">
 <div class="HeadlineXL-desc-byline-embedXL-right-info">
 <div class="HeadlineXL-desc-byline-embedXL-right-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/mother-received-vaccine-gives-birth-first-known-baby-covid-19-antibodies">Woman gives birth to first known baby with COVID-19 antibodies</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/top-cook-editor-predicts-georgia-voting-bill-put-gop-hot-water"><i>Cook Political Report</i> editor: GA voting restrictions will backfire</a>
 </div>
-<div class="HeadlineXL-desc-byline-embedXL-right-description">The unnamed health worker passed her COVID-19 antibodies to her newborn daughter in utero.</div>
+<div class="HeadlineXL-desc-byline-embedXL-right-description">If history is the best indicator, Georgia Republicans' triumph on election reform may be temporary, says a top editor at the nonpartisan Cook Political Report.</div>
 <div class="HeadlineXL-desc-byline-embedXL-right-authorDate d-flex flex-wrap mt-2">
 <div class="HeadlineXL-desc-byline-embedXL-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/kaelan-deese">Kaelan Deese</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/mica-soellner">Mica Soellner</a>
 </div>
 <div class="HeadlineXL-desc-byline-embedXL-right-date">
-                                 | <span class="datespan">March 16, 2021 08:07 PM</span>
+                                 | <span class="datespan">March 26, 2021 08:14 PM</span>
 </div>
 </div>
 <hr>
 </hr></div>
 <div class="HeadlineXL-desc-byline-embedXL-right-media">
-<span class="promoEmbedKicker" data-kicker="Newsmakers: Elisha Krauss and Kevin Kiley">Newsmakers: Elisha Krauss and Kevin Kiley<br/></span>
-<script id="a82de62112f94e768d7ee095c1fb571e">  cnx.cmd.push(function() {    cnx({      playerId: "fbb0d4a4-1d64-4cd5-b757-d57a11f7cb4d",      mediaId: "c93d4aae-6696-47f7-8890-f886c528377b"    }).render("a82de62112f94e768d7ee095c1fb571e");  });</script>
+<span class="promoEmbedKicker" data-kicker="Conversation with Frank Siller: Tribute to Boulder's fallen officer">Conversation with Frank Siller: Tribute to Boulder's fallen officer<br/></span>
+<script id="dbd3443092764869aad1e7af15db86d9">  cnx.cmd.push(function() {    cnx({      playerId: "d3ccd8ea-d8c5-48ce-9d40-7425510c053f",      mediaId: "20ebdbbb-12c4-496c-8c63-4947dc021a66"    }).render("dbd3443092764869aad1e7af15db86d9");  });</script>
 </div>
 </div>
 <div class="Headline-date-mini-left mb-3">
 <h4 class="Headline-date-mini-left-title mb-1">
-<a class="Link" href="https://www.washingtonexaminer.com/news/8-dead-in-3-atlanta-area-massage-parlors">Eight dead in shootings at three Atlanta-area massage parlors</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/pentagon-linguist-pleads-guilty-passing-secrets-iraq-man-linked-hezbollah">Pentagon linguist pleads guilty to passing secrets to Hezbollah-linked man </a>
 </h4>
 <div class="Headline-date-mini-left-authorDate d-flex flex-wrap mt-2">
 <div class="Headline-date-mini-left-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/kaelan-deese">Kaelan Deese</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/jerry-dunleavy">Jerry Dunleavy</a>
 </div>
 <div class="Headline-date-mini-left-date">
-                                 | <span class="datespan">March 16, 2021 09:42 PM</span>
+                                 | <span class="datespan">March 26, 2021 05:51 PM</span>
 </div>
 </div>
 </div>
@@ -2225,30 +2238,30 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="ThreeColumnContainer-columnOne col-md-4">
 <div class="Headline-date mb-3">
 <h4 class="Headline-date-title mb-1">
-<a class="Link" href="https://www.washingtonexaminer.com/news/instagram-will-restrict-messaging-between-teens-and-adults-they-dont-follow">Instagram to restrict messaging between teens and adults they don't follow</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/osbourne-out-at-the-talk">Sharon Osbourne leaves <i>The Talk</i> amid controversy</a>
 </h4>
 <div class="Headline-date-authorDate d-flex flex-wrap mb-1">
-<date class="Headline-date-date"><span class="datespan">March 16, 2021 08:03 PM</span></date>
+<date class="Headline-date-date"><span class="datespan">March 26, 2021 08:45 PM</span></date>
 </div>
 </div>
 </div>
 <div class="ThreeColumnContainer-columnTwo col-md-4">
 <div class="Headline-date mb-3">
 <h4 class="Headline-date-title mb-1">
-<a class="Link" href="https://www.washingtonexaminer.com/news/elton-john-accuses-vatican-of-hypocrisy-for-refusing-to-bless-same-sex-unions">Elton John accuses Vatican of 'hypocrisy' for refusing to bless same-sex unions</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/usa-today-editor-fired-tweet-white-man-boulder"><i>USA Today</i> race editor says she was fired over tweet blaming white men for Boulder</a>
 </h4>
 <div class="Headline-date-authorDate d-flex flex-wrap mb-1">
-<date class="Headline-date-date"><span class="datespan">March 16, 2021 07:11 PM</span></date>
+<date class="Headline-date-date"><span class="datespan">March 26, 2021 05:55 PM</span></date>
 </div>
 </div>
 </div>
 <div class="ThreeColumnContainer-columnThree col-md-4">
 <div class="Headline-date mb-3">
 <h4 class="Headline-date-title mb-1">
-<a class="Link" href="https://www.washingtonexaminer.com/news/gop-yale-president-testify-hearing-discrimination-asian-americans">GOP calls for Yale president to testify on discrimination against Asian Americans</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/amazon-fires-back-warren-after-breaking-snotty-tweets">Amazon criticizes Elizabeth Warren for calling to break company up</a>
 </h4>
 <div class="Headline-date-authorDate d-flex flex-wrap mb-1">
-<date class="Headline-date-date"><span class="datespan">March 16, 2021 04:41 PM</span></date>
+<date class="Headline-date-date"><span class="datespan">March 26, 2021 04:38 PM</span></date>
 </div>
 </div>
 </div>
@@ -2288,20 +2301,20 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="OneColumnList-items-item col-md-12">
 <div class="headlineXL-desc-byline-thumbXL-right d-flex mb-3 my-3">
 <div class="headlineXL-desc-byline-thumbXL-right-title">
-<span class="headlineXL-desc-byline-thumbXL-right-title-kicker" data-kicker="Business">Business<br/></span>
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/dont-force-workers-to-join-a-union">Don't force workers to join a union</a>
+<span class="headlineXL-desc-byline-thumbXL-right-title-kicker" data-kicker="Columnist">Columnist<br/></span>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/columnists/what-explains-bidens-chameleon-like-transformation">What explains Biden's chameleon-like transformation?</a>
 </div>
 <div class="headlineXL-desc-byline-thumbXL-right-info">
 <div class="headlineXL-desc-byline-thumbXL-right-media">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/dont-force-workers-to-join-a-union"><img alt="BizColumn.jpg" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/b8e92f6/2147483647/strip/true/crop/1322x1322+484+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Ff3%2Ff3%2F5bfd65e04dc59a9bd6d01e3cf7fb%2Fbizcolumn.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/columnists/what-explains-bidens-chameleon-like-transformation"><img alt="Joe Biden" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/6184d0e/2147483647/strip/true/crop/1322x1322+484+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F7a%2F38%2Fd75437124e1ebb2812f08b668b5a%2Fap21074656575506.jpg" width="545"/></a>
 </div>
-<div class="headlineXL-desc-byline-thumbXL-right-description">In 1978, when I was 17 years old, I worked as an usher at concerts and sporting events earning $2.25 an hour, the minimum wage. I had to surrender about 15 cents of this meager hourly wage to a union I was forced to join. I could never understand what a union was doing to help me since the company had the legal requirement to pay me $2.25. I was infuriated over the principle of this confiscation by labor bosses I had never met.</div>
+<div class="headlineXL-desc-byline-thumbXL-right-description">How to explain Joe Biden’s ideological transformation over the years? Perhaps it’s the same as the explanation of why the chameleon’s complexion changes when he moves from desert to forest: adaptation to local terrain.</div>
 <div class="headlineXL-desc-byline-thumbXL-right-authorDate d-flex flex-wrap mt-2">
 <div class="headlineXL-desc-byline-thumbXL-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/stephen-moore">Stephen Moore</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/michael-barone">Michael Barone</a>
 </div>
 <div class="headlineXL-desc-byline-thumbXL-right-date">
-                                 | <span class="datespan">March 11, 2021 11:00 PM</span>
+                                 | <span class="datespan">March 17, 2021 01:58 PM</span>
 </div>
 </div>
 </div>
@@ -2311,21 +2324,21 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="headline-desc-byline-thumbXL-right d-flex mb-3 my-3">
 <div class="headline-desc-byline-thumbXL-right-info">
 <div class="headline-desc-byline-thumbXL-right-title">
-<span class="headline-desc-byline-thumbXL-right-title-kicker" data-kicker="Congress">Congress<br/></span>
-<a class="Link" href="https://www.washingtonexaminer.com/news/congress/congress-tries-to-expand-gun-control-for-the-first-time-in-decades">Congress tries to expand gun control for the first time in decades</a>
+<span class="headline-desc-byline-thumbXL-right-title-kicker" data-kicker="Letter From the Editor">Letter From the Editor<br/></span>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/when-is-a-crisis-not-a-crisis">When is a crisis not a crisis?</a>
 </div>
-<div class="headline-desc-byline-thumbXL-right-description">Democrats, however, face the 60-vote threshold in the Senate.</div>
+<div class="headline-desc-byline-thumbXL-right-description">The answer to the question I pose in the headline above is: when the responsible politician is asked about it. </div>
 <div class="headline-desc-byline-thumbXL-right-authorDate d-flex flex-wrap mt-2">
 <div class="headline-desc-byline-thumbXL-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/susan-ferrechio">Susan Ferrechio</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/hugo-gurdon">Hugo Gurdon</a>
 </div>
 <div class="headline-desc-byline-thumbXL-right-date">
-                                 | <span class="datespan">March 11, 2021 11:00 PM</span>
+                                 | <span class="datespan">March 18, 2021 11:00 PM</span>
 </div>
 </div>
 </div>
 <div class="headline-desc-byline-thumbXL-right-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/congress/congress-tries-to-expand-gun-control-for-the-first-time-in-decades"><img alt="Wb.Ccongress.jpg" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/3410fec/2147483647/strip/true/crop/1322x1322+484+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F71%2F84%2F0a9e60b849d9a5fe09a89558ed89%2Fwb.Ccongress.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/when-is-a-crisis-not-a-crisis"><img alt="LetterEditor.jpg" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/da31819/2147483647/strip/true/crop/1322x1322+484+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F40%2F1a%2F9181e85c48729b43ec7a6e8a9cad%2Flettereditor.jpg" width="545"/></a>
 </div>
 </div>
 </li>
@@ -2333,21 +2346,21 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="headline-desc-byline-thumbXL-right d-flex mb-3 my-3">
 <div class="headline-desc-byline-thumbXL-right-info">
 <div class="headline-desc-byline-thumbXL-right-title">
-<span class="headline-desc-byline-thumbXL-right-title-kicker" data-kicker="Your Land">Your Land<br/></span>
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/cabo-over-classrooms">Cabo over classrooms</a>
+<span class="headline-desc-byline-thumbXL-right-title-kicker" data-kicker="Long Life">Long Life<br/></span>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/rob-longs-long-life-things-were-different-back-then">Things were different back then</a>
 </div>
-<div class="headline-desc-byline-thumbXL-right-description">Concerns about the coronavirus tend to fall flat when they’re coming from teachers sunbathing on the beach with a margarita in hand.</div>
+<div class="headline-desc-byline-thumbXL-right-description">Movies and television from the past are a minefield of weirdly oppressive husbands and psychotic gay people and casually racist images of domestic help.</div>
 <div class="headline-desc-byline-thumbXL-right-authorDate d-flex flex-wrap mt-2">
 <div class="headline-desc-byline-thumbXL-right-authorName">
-<a class="Link" href="https://www.washingtonexaminer.com/author/kaylee-mcghee">Kaylee McGhee White</a>
+<a class="Link" href="https://www.washingtonexaminer.com/author/rob-long">Rob Long</a>
 </div>
 <div class="headline-desc-byline-thumbXL-right-date">
-                                 | <span class="datespan">March 11, 2021 11:00 PM</span>
+                                 | <span class="datespan">March 18, 2021 11:00 PM</span>
 </div>
 </div>
 </div>
 <div class="headline-desc-byline-thumbXL-right-media">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/cabo-over-classrooms"><img alt="YL.ClassroomCabo.jpg" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/a5cef88/2147483647/strip/true/crop/1322x1322+484+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F10%2F8c%2F4f6f59b7400aa46fe477f0f1b25a%2Fyl.ClassroomCabo.jpg" width="545"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/rob-longs-long-life-things-were-different-back-then"><img alt="LA.Longlife.jpg" class="Image" height="545" src="https://mediadc.brightspotcdn.com/dims4/default/32daf81/2147483647/strip/true/crop/1322x1322+484+0/resize/545x545!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb1%2Fd3%2F6bff7f434d21aec442f1c87b46ad%2Fla.Longlife.jpg" width="545"/></a>
 </div>
 </div>
 </li>
@@ -2363,54 +2376,54 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="ThreeColumnList-items-item col-md-4">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/politics/pennsylvania-bars-restaurants-will-see-reprieve-from-pandemic-restrictions-soon"><img alt="Virus Outbreak Pennsylvania" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/7cad87a/2147483647/strip/true/crop/3000x1698+0+151/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F43%2F0e%2F826826c440d2823d354466e1dace%2Fap21075007944913.jpg" width="1060"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/dominion-sues-fox-news-election-fraud"><img alt="Fox News Rich" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/e3a074d/2147483647/strip/true/crop/4364x2470+0+434/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F51%2Fc8%2Ffa9e69e54074aeb3f964bde4d1bc%2Fap20329821514032.jpg" width="1060"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/politics/pennsylvania-bars-restaurants-will-see-reprieve-from-pandemic-restrictions-soon">Pennsylvania bars, restaurants will see reprieve from pandemic restrictions soon</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/dominion-sues-fox-news-election-fraud">Dominion announces $1.6 billion lawsuit against Fox News, outlet calls claims 'baseless'</a>
 </h5>
-<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><span class="Link">Christen Smith, The Center Square</span></div>
+<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/jake-dima">Jake Dima</a></div>
 <div class="HeroTextBelow-dateTime">
-<time class="DateTime" datetime="2021-03-16T15:00:46.261-04:00">Tuesday March 16, 2021</time>
+<time class="DateTime" datetime="2021-03-26T10:01:42.797-04:00">Friday March 26, 2021</time>
 </div>
 </div>
-<div class="HeroTextBelow-description">Bars and restaurants across Pennsylvania will soon see a reprieve from pandemic operating limitations.</div>
+<div class="HeroTextBelow-description">Dominion Voting Systems announced a lawsuit against Fox News on Friday after it alleged that the media outlet amplified election fraud claims following former President Donald Trump's defeat.</div>
 </div>
 </div>
 </li>
 <li class="ThreeColumnList-items-item col-md-4">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/politics/nevada-loosens-covid-19-restrictions-on-public-gatherings-restaurant-capacity"><img alt="Virus Outbreak-Nevada Gatherings" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/f42bcab/2147483647/strip/true/crop/4000x2264+0+380/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb4%2F0f%2Fa2a6d9e54101a445e085e0a3238e%2Fap20273810320695.jpg" width="1060"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/shipping-costs-skyrocket-ever-given-suez-canal"><img alt="Suez Canal" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/aa5ce89/2147483647/strip/true/crop/2290x1296+0+13/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F46%2Fcd%2Facf169d1408c972ff27e4b455106%2Fsuez-3.jpg" width="1060"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/politics/nevada-loosens-covid-19-restrictions-on-public-gatherings-restaurant-capacity">Nevada loosens COVID-19 restrictions on public gatherings, restaurant capacity</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/shipping-costs-skyrocket-ever-given-suez-canal">Energy, retail, and food: <i>Ever Given</i> blockage threatens supply chains</a>
 </h5>
-<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><span class="Link">Robert Davis, The Center Square</span></div>
+<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/zachary-halaschak">Zachary Halaschak</a></div>
 <div class="HeroTextBelow-dateTime">
-<time class="DateTime" datetime="2021-03-16T13:00:28.600-04:00">Tuesday March 16, 2021</time>
+<time class="DateTime" datetime="2021-03-26T14:51:32.137-04:00">Friday March 26, 2021</time>
 </div>
 </div>
-<div class="HeroTextBelow-description">Nevada's health orders that oversee public gatherings and capacity limits at restaurants and bars were loosened on Monday.</div>
+<div class="HeroTextBelow-description">Global trade has been unsettled after a massive container vessel became wedged in the Suez Canal and blocked passage, possibly for weeks to come.</div>
 </div>
 </div>
 </li>
 <li class="ThreeColumnList-items-item col-md-4">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/secretly-taped-facebook-executive-company-too-powerful-broken-up"><img alt="Facebook" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/3a456cc/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/brightness/-14x0/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F93%2F34%2F818c1e3e4de8b39bee33b2b69c1f%2Fistock-458657417.jpg" width="1060"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/justice-department-coronavirus-scams-arrest"><img alt="Justice Department" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/b6dee8d/2147483647/strip/true/crop/1082x612+0+18/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F31%2F31%2Feb447e274e6fadbad04fe2008c3d%2Fscreen-shot-2019-10-16-at-12.14.04%20PM.png" width="1060"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/news/secretly-taped-facebook-executive-company-too-powerful-broken-up">Secretly taped Facebook executive said the company is too powerful and should be broken up</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/justice-department-coronavirus-scams-arrest">Justice Department charges 400 people with trying to swindle $500M in COVID-19 scams</a>
 </h5>
-<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/nihal-krishan">Nihal Krishan</a></div>
+<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/mike-brest">Mike Brest</a></div>
 <div class="HeroTextBelow-dateTime">
-<time class="DateTime" datetime="2021-03-16T15:04:15.216-04:00">Tuesday March 16, 2021</time>
+<time class="DateTime" datetime="2021-03-26T12:56:59.865-04:00">Friday March 26, 2021</time>
 </div>
 </div>
-<div class="HeroTextBelow-description">A senior executive at Facebook was secretly recorded saying that the social media giant harms the world, that it needs to be broken up, and that CEO Mark Zuckerberg should be removed.</div>
+<div class="HeroTextBelow-description">The Department of Justice charged more than 400 people with engaging in COVID-19 scams worth over $500 million.</div>
 </div>
 </div>
 </li>
@@ -2436,16 +2449,16 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="TimelineListHero-items-hero">
 <div class="HeroTextOnTop mb-3">
 <div class="HeroTextOnTop-media">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/border-security-overshadows-threat-china-north-korea-commanders-testify"><img alt="James Inhofe" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/4735434/2147483647/strip/true/crop/2286x1294+0+14/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F6d%2F0a%2F8e62434c47b5a1991d476bb63d11%2Fjames-inhofe.jpg" width="1060"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/belarus-confederate-states-america-as-putin-eyes-union"><img alt="Russia Putin" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/a33d650/2147483647/strip/true/crop/2288x1295+0+13/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F40%2F37%2F335c41d44a4db1be36fa9dd33b11%2Fputin.jpg" width="1060"/></a>
 </div>
 <div class="HeroTextOnTop-info" data-alignment="" data-placement="">
 <h1 class="HeroTextOnTop-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/border-security-overshadows-threat-china-north-korea-commanders-testify">Border security overshadows threats from China and North Korea as commanders testify</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/belarus-confederate-states-america-as-putin-eyes-union">Belarus commemorates Confederate States of America as Putin eyes union state</a>
 </h1>
 <div class="HeroTextOnTop-author"><div class="HeroTextOnTop-authorName">
-                                By <a class="Link" href="https://www.washingtonexaminer.com/author/abraham-mahshie">Abraham Mahshie</a></div></div>
+                                By <a class="Link" href="https://www.washingtonexaminer.com/author/joel-gehrke">Joel Gehrke</a></div></div>
 <div class="HeroTextOnTop-description">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/border-security-overshadows-threat-china-north-korea-commanders-testify">Senators hammered two top military commanders Tuesday to define the migration surge on the southern border as a “crisis” despite the officers' attempts to assess other security threats, including from China — which one warned has "stepped ahead" of the United States on "vaccine diplomacy."</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/belarus-confederate-states-america-as-putin-eyes-union">Belarusian dictator Alexander Lukashenko’s regime has commemorated the founding of the Confederacy, continuing its theme of authoritarian taunts at the United States and signaling its deference to Russian President Vladimir Putin.</a>
 </div>
 </div>
 </div>
@@ -2456,10 +2469,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <span class="TimelineListHero-items-square" style="background-color:#0e73b2"></span>
 <div class="TimelinePromo">
 <small class="TimelinePromo-date" style="color: #0e73b2">
-                    March 16, 2021 04:41 PM
+                    March 26, 2021 03:40 PM
                 </small>
 <div class="TimelinePromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/united-states-japan-warn-china-not-attack-taiwan">US and Japan warn China not to attack Taiwan</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/defense-department-promises-force-fully-vaccinated-july-despite-refusals">Defense Department promises full force will be vaccinated by mid-July despite continued refusals</a>
 </div>
 </div>
 </div>
@@ -2467,10 +2480,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <span class="TimelineListHero-items-square" style="background-color:#0e73b2"></span>
 <div class="TimelinePromo">
 <small class="TimelinePromo-date" style="color: #0e73b2">
-                    March 16, 2021 04:38 PM
+                    March 26, 2021 02:41 PM
                 </small>
 <div class="TimelinePromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/intel-report-2020-election-trump-biden-russia-iran">Russia conducted operations 'denigrating' Biden while Iran schemed to 'undercut' Trump, US intelligence finds</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/dc-national-guard-leader-new-house-sergeant-at-arms">DC National Guard leader will be new House sergeant-at-arms</a>
 </div>
 </div>
 </div>
@@ -2478,10 +2491,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <span class="TimelineListHero-items-square" style="background-color:#0e73b2"></span>
 <div class="TimelinePromo">
 <small class="TimelinePromo-date" style="color: #0e73b2">
-                    March 16, 2021 04:30 PM
+                    March 26, 2021 07:17 AM
                 </small>
 <div class="TimelinePromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/us-deploys-special-operations-isis-threat-rises">ISIS threat on the rise, prompting US to deploy special operation forces to new country</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/biden-ready-to-quit-afghanistan-just-not-yet">Biden ready to quit Afghanistan, just not yet</a>
 </div>
 </div>
 </div>
@@ -2489,17 +2502,17 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <span class="TimelineListHero-items-square" style="background-color:#0e73b2"></span>
 <div class="TimelinePromo">
 <small class="TimelinePromo-date" style="color: #0e73b2">
-                    March 16, 2021 12:19 PM
+                    March 25, 2021 04:47 PM
                 </small>
 <div class="TimelinePromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/biden-border-czar-our-own-message-is-getting-out-less-than-smugglers">Biden border czar: 'Our own message is getting out less than smugglers'</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/biden-protects-gop-who-wont-consider-immigraiton-bill-until-border-crisis-resolved">Biden protects GOP who say they won't consider immigration bill until border crisis resolved</a>
 </div>
 </div>
 </div>
 </div>
 <div class="TimelineListHero-items-twoColumn-right">
 <div class="TimelineListHero-items-ad">
-<div class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/home_policy_defense_national_security" data-slot-position="4" data-slot-sizes="[[300, 250]]" id="googleAdbd23aa7a-6217-4256-a8e1-7b5fdfa5d3fa">
+<div class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/home_policy_defense_national_security" data-slot-position="4" data-slot-sizes="[[300, 250]]" id="googleAde968b22b-2d58-4680-a007-f05b1849eed9">
 </div>
 </div>
 </div>
@@ -2518,16 +2531,16 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="TimelineListHero-items-hero">
 <div class="HeroTextOnTop mb-3">
 <div class="HeroTextOnTop-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/key-democrat-expand-obamacare-permanent"><img alt="obamacare.jpg" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/d27ae9d/2147483647/strip/true/crop/300x170+0+28/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb5%2F44%2F2c8960e726cd03584d555f14cf0f%2F931985878d8291d60b3830611f6e5aa7.jpg" width="1060"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/politics/business-groups-oppose-some-michigan-house-healthcare-reform-bills"><img alt="Right to Work Michigan" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/659d6ef/2147483647/strip/true/crop/4896x2771+0+246/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fe0%2F13%2F84981f8d0a891e2ff5c17e6252ba%2F50ebd9389b90f0b95b3544520422209c.jpg" width="1060"/></a>
 </div>
 <div class="HeroTextOnTop-info" data-alignment="" data-placement="">
 <h1 class="HeroTextOnTop-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/news/key-democrat-expand-obamacare-permanent">Key House Democrat says party wants to make Obamacare expansion permanent</a>
+<a class="Link" href="https://www.washingtonexaminer.com/politics/business-groups-oppose-some-michigan-house-healthcare-reform-bills">Business groups oppose some Michigan House healthcare reform bills</a>
 </h1>
 <div class="HeroTextOnTop-author"><div class="HeroTextOnTop-authorName">
-                                By <a class="Link" href="https://www.washingtonexaminer.com/author/david-hogberg">David Hogberg</a></div></div>
+                                By <span class="Link">Scott McClallen, The Center Square</span></div></div>
 <div class="HeroTextOnTop-description">
-<a class="Link" href="https://www.washingtonexaminer.com/news/key-democrat-expand-obamacare-permanent">A key House Democrat said his party is looking to make the new expansion of Obamacare permanent.</a>
+<a class="Link" href="https://www.washingtonexaminer.com/politics/business-groups-oppose-some-michigan-house-healthcare-reform-bills">A health care reform package the House passed Wednesday is creating a rift between the state’s business groups and the GOP.</a>
 </div>
 </div>
 </div>
@@ -2538,10 +2551,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <span class="TimelineListHero-items-square" style="background-color:#0e73b2"></span>
 <div class="TimelinePromo">
 <small class="TimelinePromo-date" style="color: #0e73b2">
-                    March 16, 2021 02:31 PM
+                    March 26, 2021 05:29 PM
                 </small>
 <div class="TimelinePromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/list-states-opening-vaccinations-all-adults">The list of states that are opening vaccinations to all adults</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/andrew-cuomo-nears-marijuana-legalization-amid-scandals">Andrew Cuomo nears marijuana legalization amid scandals</a>
 </div>
 </div>
 </div>
@@ -2549,10 +2562,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <span class="TimelineListHero-items-square" style="background-color:#0e73b2"></span>
 <div class="TimelinePromo">
 <small class="TimelinePromo-date" style="color: #0e73b2">
-                    March 16, 2021 11:34 AM
+                    March 26, 2021 03:40 PM
                 </small>
 <div class="TimelinePromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/europe-astrazeneca-no-indication-blood-clots">Top regulator 'firmly convinced' AstraZeneca vaccine is safe as much of Europe suspends its use</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/defense-national-security/defense-department-promises-force-fully-vaccinated-july-despite-refusals">Defense Department promises full force will be vaccinated by mid-July despite continued refusals</a>
 </div>
 </div>
 </div>
@@ -2560,10 +2573,10 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <span class="TimelineListHero-items-square" style="background-color:#0e73b2"></span>
 <div class="TimelinePromo">
 <small class="TimelinePromo-date" style="color: #0e73b2">
-                    March 16, 2021 10:08 AM
+                    March 26, 2021 01:16 PM
                 </small>
 <div class="TimelinePromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/moderna-begins-covid-vaccine-trials-children">Moderna begins COVID-19 vaccine trials for children under 12</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/pandemic-mental-illness-among-younger-adults">Mental illness among younger adults rose during pandemic</a>
 </div>
 </div>
 </div>
@@ -2571,17 +2584,17 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <span class="TimelineListHero-items-square" style="background-color:#0e73b2"></span>
 <div class="TimelinePromo">
 <small class="TimelinePromo-date" style="color: #0e73b2">
-                    March 15, 2021 04:23 PM
+                    March 25, 2021 04:00 PM
                 </small>
 <div class="TimelinePromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/news/new-jersey-governor-warned-patients-will-die-nursing-home-policy">New Jersey governor was warned 'patients will die' due to nursing home policy: Report</a>
+<a class="Link" href="https://www.washingtonexaminer.com/politics/michigan-house-approves-healthcare-reform">Michigan House approves healthcare reform</a>
 </div>
 </div>
 </div>
 </div>
 <div class="TimelineListHero-items-twoColumn-right">
 <div class="TimelineListHero-items-ad">
-<div class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/home_policy_energy" data-slot-position="5" data-slot-sizes="[[300, 250]]" id="googleAdea0a0e50-0119-4910-958c-e2ebf5a00241">
+<div class="GoogleDfpAd" data-slot-name="/4026082/washington_examiner/home_policy_energy" data-slot-position="5" data-slot-sizes="[[300, 250]]" id="googleAd04260f0c-5d30-4aad-9e19-d2c3fa34b25d">
 </div>
 </div>
 </div>
@@ -2614,16 +2627,16 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="EndTableList-items-hero">
 <div class="HeroTextOnTop mb-3">
 <div class="HeroTextOnTop-media">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/daily-on-energy-presented-by-bipartisan-policy-center-former-trump-adviser-lobbies-gop-to-reduce-emissions-through-trade-policy"><img alt="DOE Header 2020" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/42491b0/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F65%2F3a%2F4bacda2d4dd1a9279ca78653cb60%2Fdoe-default-1060x600.png" width="1060"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/biden-invites-xi-putin-climate-summit-next-month"><img alt="Xi Jinping 2015 Joe Biden" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/f45b324/2147483647/strip/true/crop/2965x1678+0+60/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F70%2F71%2F7112359c44c187b04df246efba50%2Fap-974029190722.jpg" width="1060"/></a>
 </div>
 <div class="HeroTextOnTop-info" data-alignment="" data-placement="">
 <h1 class="HeroTextOnTop-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/daily-on-energy-presented-by-bipartisan-policy-center-former-trump-adviser-lobbies-gop-to-reduce-emissions-through-trade-policy">Daily on Energy, presented by Bipartisan Policy Center: Former Trump adviser lobbies GOP to reduce emissions through trade policy</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/biden-invites-xi-putin-climate-summit-next-month">Biden invites Xi and Putin to climate summit next month</a>
 </h1>
 <div class="HeroTextOnTop-author"><div class="HeroTextOnTop-authorName">
-                                By <a class="Link" href="https://www.washingtonexaminer.com/author/josh-siegel">Josh Siegel</a></div><div class="HeroTextOnTop-contributors"> &amp; <a class="Link" href="https://www.washingtonexaminer.com/author/abby-smith">Abby Smith</a></div></div>
+                                By <a class="Link" href="https://www.washingtonexaminer.com/author/josh-siegel">Josh Siegel</a></div></div>
 <div class="HeroTextOnTop-description">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/daily-on-energy-presented-by-bipartisan-policy-center-former-trump-adviser-lobbies-gop-to-reduce-emissions-through-trade-policy">Subscribe today to the Washington Examiner magazine and get Washington Briefing: politics and policy stories that will keep you up to date with what's going on in Washington. SUBSCRIBE NOW: Just $1.00 an issue!</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/biden-invites-xi-putin-climate-summit-next-month">Xi Jinping of China and Vladimir Putin of Russia are among 40 world leaders President Joe Biden invited Friday to a virtual summit event the United States is hosting next month designed to galvanize support among top greenhouse gas-emitting countries for addressing climate change.</a>
 </div>
 </div>
 </div>
@@ -2632,36 +2645,36 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="EndTableList-items-twoColumn-left">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/interior-secretary-haaland-confirmed-biden-crackdown-oil-and-gas-leasing"><img alt="Deb Haaland, Judy Chu" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/22d26ce/2147483647/strip/true/crop/2166x1322+55+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F3c%2F0d%2F3068b52a4f53ac604d19cb436566%2Fdeb-haaland.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/daily-on-energy-early-bids-for-measures-to-include-in-biden-infrastructure-package"><img alt="DOE Header 2020" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/fca33c2/2147483647/strip/true/crop/983x600+39+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F65%2F3a%2F4bacda2d4dd1a9279ca78653cb60%2Fdoe-default-1060x600.png" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/interior-secretary-haaland-confirmed-biden-crackdown-oil-and-gas-leasing">Interior Secretary Haaland confirmed to implement Biden crackdown on oil and gas leasing</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/daily-on-energy-early-bids-for-measures-to-include-in-biden-infrastructure-package">Daily on Energy: Early bids for measures to include in Biden infrastructure package</a>
 </h5>
 <div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/josh-siegel">Josh Siegel</a></div>
 <div class="HeroTextBelow-dateTime">
-<time class="DateTime" datetime="2021-03-15T18:20:54.223-04:00">Monday March 15, 2021</time>
+<time class="DateTime" datetime="2021-03-26T12:14:53.092-04:00">Friday March 26, 2021</time>
 </div>
 </div>
-<div class="HeroTextBelow-description">The Senate voted on Monday to confirm Deb Haaland to be secretary of the Interior Department, ending a tumultuous confirmation process and positioning her to oversee a vast reshaping of energy development on public lands.</div>
+<div class="HeroTextBelow-description">Subscribe today to the Washington Examiner magazine and get Washington Briefing: politics and policy stories that will keep you up to date with what's going on in Washington. SUBSCRIBE NOW: Just $1.00 an issue!</div>
 </div>
 </div>
 </div>
 <div class="EndTableList-items-twoColumn-right">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/beijing-china-sandstorm-decade"><img alt="APTOPIX China Sandstorm" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/bcea066/2147483647/strip/true/crop/5000x3052+0+141/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fcf%2Fcd%2F7ac153214bfbbe555b1f1264e4dd%2Fap21074085928633.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/industry-unions-make-case-against-federal-leasing-ban-biden-mulls-future-oil-gas"><img alt="Joe Biden" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/2f7a40d/2147483647/strip/true/crop/2166x1322+62+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fd2%2F24%2Fd34ee34e420aaf4f57e5d46045ba%2Fjoe-biden-racist-president.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/news/beijing-china-sandstorm-decade">Beijing roiled by worst sandstorm in a decade</a>
+<a class="Link" href="https://www.washingtonexaminer.com/policy/energy/industry-unions-make-case-against-federal-leasing-ban-biden-mulls-future-oil-gas">Industry and unions make case against federal leasing ban as Biden mulls future of oil and gas</a>
 </h5>
-<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/jake-dima">Jake Dima</a></div>
+<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/josh-siegel">Josh Siegel</a></div>
 <div class="HeroTextBelow-dateTime">
-<time class="DateTime" datetime="2021-03-15T17:08:44.399-04:00">Monday March 15, 2021</time>
+<time class="DateTime" datetime="2021-03-25T20:29:53.884-04:00">Thursday March 25, 2021</time>
 </div>
 </div>
-<div class="HeroTextBelow-description">A sandstorm rocked Beijing on Monday, resulting in a thick plume of dust that turned skies orange and limited visibility.</div>
+<div class="HeroTextBelow-description">The fossil fuel industry and unions pushed the Biden administration Thursday to end its pause on federal oil and gas lease sales quickly, arguing the policy won’t reduce greenhouse gas emissions and would lead to job and revenue losses in affected states.</div>
 </div>
 </div>
 </div>
@@ -2680,16 +2693,16 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="EndTableList-items-hero">
 <div class="HeroTextOnTop mb-3">
 <div class="HeroTextOnTop-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/big-tech-ceos-personal-wealth-booms-during-the-pandemic-up-by-over-380b"><img alt="Big Tech, Amazon, Apple, Google, Facebook" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/176d075/2147483647/strip/true/crop/2290x1296+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F29%2F84%2F24fd6579461e857e47cd720a51a8%2Fantitrust-big-tech.jpg" width="1060"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/op-eds/social-security-reform-can-boost-the-economy-or-hold-it-back"><img alt="Social Security Benefits Stock" class="Image" height="600" src="https://mediadc.brightspotcdn.com/dims4/default/8d87e10/2147483647/strip/true/crop/3864x2187+0+22/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F90%2F8d%2Fce2c0280485dad04d329a7c7a90f%2Fistock-528163941.jpg" width="1060"/></a>
 </div>
 <div class="HeroTextOnTop-info" data-alignment="" data-placement="">
 <h1 class="HeroTextOnTop-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/news/big-tech-ceos-personal-wealth-booms-during-the-pandemic-up-by-over-380b">Big Tech CEOs' personal wealth booms during the pandemic, up by over $380B</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/op-eds/social-security-reform-can-boost-the-economy-or-hold-it-back">Social Security reform can boost the economy — or hold it back</a>
 </h1>
 <div class="HeroTextOnTop-author"><div class="HeroTextOnTop-authorName">
-                                By <a class="Link" href="https://www.washingtonexaminer.com/author/nihal-krishan">Nihal Krishan</a></div></div>
+                                By <a class="Link" href="https://www.washingtonexaminer.com/author/andrew-biggs">Andrew Biggs</a></div></div>
 <div class="HeroTextOnTop-description">
-<a class="Link" href="https://www.washingtonexaminer.com/news/big-tech-ceos-personal-wealth-booms-during-the-pandemic-up-by-over-380b">The pandemic has been a blessing for Big Tech billionaires, with the CEOs of companies such as Tesla, Amazon, Google, and Facebook increasing their personal wealth by tens of billions each in the past year.</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/op-eds/social-security-reform-can-boost-the-economy-or-hold-it-back">Social Security faces a $16.8 trillion long-term funding gap, which congressional Democrats have vowed to fix. But Social Security reform is far more than simply a budget challenge. Social Security is the largest federal spending program, the biggest tax most workers pay, and the biggest source of income for most retirees, and so it affects how people work and save. A new economic analysis from the Penn Wharton Budget Project shows that how we fix Social Security can either grow the economy or shrink it.</a>
 </div>
 </div>
 </div>
@@ -2698,36 +2711,36 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="EndTableList-items-twoColumn-left">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/do-liberals-care-that-their-minimum-wage-increase-would-kill-jobs"><img alt="Minimum Wage" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/6ecf0f7/2147483647/strip/true/crop/2166x1322+124+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F9f%2F6a%2F342ff0a84b0eb5d7ea3fff420627%2F15-minimum-wage-safety.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/biden-cant-tell-the-truth-about-trumps-tax-cuts"><img alt="Joe Biden" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/75c0d2c/2147483647/strip/true/crop/5822x3554+0+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F09%2F58%2F73b99f3148dcb16dda736b65cbc6%2Fap21084648743341.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/do-liberals-care-that-their-minimum-wage-increase-would-kill-jobs">Do liberals care that their minimum wage increase would kill jobs?</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/biden-cant-tell-the-truth-about-trumps-tax-cuts">Biden can't tell the truth about Trump's tax cuts</a>
 </h5>
-<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/tim-worstall">Tim Worstall</a></div>
+<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/tiana-lowe">Tiana Lowe</a></div>
 <div class="HeroTextBelow-dateTime">
-<time class="DateTime" datetime="2021-03-15T11:22:13.827-04:00">Monday March 15, 2021</time>
+<time class="DateTime" datetime="2021-03-25T15:04:44.868-04:00">Thursday March 25, 2021</time>
 </div>
 </div>
-<div class="HeroTextBelow-description">Reality keeps intruding into the hopes and desires of politicians. The latest irruption of the universe into such plans is the finding that raising wages causes unemployment.</div>
+<div class="HeroTextBelow-description">Joe Biden began the first (and historically late) press conference of his presidency with a series of whoppers, including a tired and debunked falsehood about his predecessor's Tax Cuts and Jobs Act.</div>
 </div>
 </div>
 </div>
 <div class="EndTableList-items-twoColumn-right">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/editorials/congressional-democrats-push-a-job-killing-law-even-californians-couldnt-stand"><img alt="Lyft and Uber" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/359e42a/2147483647/strip/true/crop/2166x1322+62+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F79%2Ff9%2Fb26902df4fe2b0def04b6ccf2bee%2Fap-18032059426497.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/op-eds/elizabeth-warren-is-totally-clueless-about-stock-buybacks"><img alt="Elizabeth Warren" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/5fbff37/2147483647/strip/true/crop/2166x1322+62+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F9f%2F7d%2F109a2a8e4503827df579f7a89529%2Fap21060754967420.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/editorials/congressional-democrats-push-a-job-killing-law-even-californians-couldnt-stand">Congressional Democrats push a job-killing law even Californians couldn't stand</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/op-eds/elizabeth-warren-is-totally-clueless-about-stock-buybacks">Elizabeth Warren is totally clueless about stock buybacks</a>
 </h5>
-<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/washington-examiner">Washington Examiner</a></div>
+<div class="HeroTextBelow-authorDate mb-2 flex-wrap"><div class="HeroTextBelow-authorName"><a class="Link" href="https://www.washingtonexaminer.com/author/william-cooper">William Cooper</a></div>
 <div class="HeroTextBelow-dateTime">
-<time class="DateTime" datetime="2021-03-15T01:01:14.882-04:00">Monday March 15, 2021</time>
+<time class="DateTime" datetime="2021-03-25T00:00:15.537-04:00">Thursday March 25, 2021</time>
 </div>
 </div>
-<div class="HeroTextBelow-description">In the 2020 election, 63% of California voters backed President Biden. On the same ballot, those voters essentially repealed a job-killing state law that Biden and Democrats now want to impose on a national level in the form of the PRO Act.</div>
+<div class="HeroTextBelow-description">Earlier this month, Sen. Elizabeth Warren blasted corporate share repurchases as “nothing but paper manipulation.” According to the Massachusetts Democrat, when a company buys back its own shares, it merely cheats the system.</div>
 </div>
 </div>
 </div>
@@ -2764,11 +2777,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="MultimediaCarousel-items-item">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/biden-tax-plans-higher-taxes-for-more-spending"><img alt="Thumbnail_031621.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/01b6eca/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F75%2F66%2F33b86b934d678800715522706742%2Fthumbnail-031621.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/a-conversation-with-frank-siller-a-tribute-to-boulders-fallen-police-officer"><img alt="Thumbnail_SillerInterview.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/7ea151f/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fdb%2F6c%2Ff163f43540669326f708aae01e1b%2Fthumbnail-sillerinterview.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="small">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/biden-tax-plans-higher-taxes-for-more-spending">Biden tax plans: Higher taxes for more spending</a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/a-conversation-with-frank-siller-a-tribute-to-boulders-fallen-police-officer">A conversation with Frank Siller: A tribute to Boulder's fallen police officer</a>
 </h5>
 </div>
 </div>
@@ -2776,11 +2789,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="MultimediaCarousel-items-item">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/washington-examiner-reports-march-16-2021"><img alt="Washington Examiner Reports March 16" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/9986d73/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F61%2F69%2F6f1314a3456182dafd7022cb08ee%2Fwr-thumb-mar16-pm-00110.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/democratic-voter-plan-roiling-the-capitol"><img alt="Thumbnail_032521.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/8577aa1/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F33%2Fe2%2F27ce685c4ad6b6a8461753910cc6%2Fthumbnail-032521.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="small">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/washington-examiner-reports-march-16-2021">Washington Examiner Reports: March 16, 2021</a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/democratic-voter-plan-roiling-the-capitol">Democratic voter plan: Roiling the Capitol</a>
 </h5>
 </div>
 </div>
@@ -2788,11 +2801,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="MultimediaCarousel-items-item">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/newsmakers-elisha-krauss-and-kevin-kiley"><img alt="wex-krauss-kiley-thumbnail.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/fb34e62/2147483647/strip/true/crop/3539x2160+151+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F6b%2F28%2Fbb47486a438ab1c801a0e02defe2%2Fwex-krauss-kiley-thumbnail.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/a-conversation-with-sen-lindsey-graham-on-immigration-and-the-border-crisis"><img alt="Thumbnail_LindseyGraham.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/fbc40f3/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Ff2%2F27%2Feb22897c4684a224a3750a96ed42%2Fthumbnail-lindseygraham.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="small">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/newsmakers-elisha-krauss-and-kevin-kiley">Newsmakers: Elisha Krauss and Kevin Kiley </a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/a-conversation-with-sen-lindsey-graham-on-immigration-and-the-border-crisis">A conversation with Sen. Lindsey Graham on immigration and the border crisis </a>
 </h5>
 </div>
 </div>
@@ -2800,11 +2813,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="MultimediaCarousel-items-item">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/washington-examiner-reports-march-25-2021-2"><img alt="0315wexreports_pm_thumb_00110.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/073188d/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fa0%2F5e%2F68eab4764c2ba7876b8dffea35a7%2F0315wexreports-pm-thumb-00110.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/newsmakers-elisha-krauss-and-dan-bongino"><img alt="bongino.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/6f8900e/2147483647/strip/true/crop/3539x2160+151+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F16%2Fcc%2F0d688adb434b81de1f430502a4e5%2Fbongino.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="small">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/washington-examiner-reports-march-25-2021-2">Washington Examiner Reports: March 15, 2021</a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/newsmakers-elisha-krauss-and-dan-bongino">Newsmakers: Elisha Krauss and Dan Bongino </a>
 </h5>
 </div>
 </div>
@@ -2812,11 +2825,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="MultimediaCarousel-items-item">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/biden-on-cuomo-give-it-time"><img alt="Thumbnail_031521.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/027b035/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fe1%2Fa9%2Fe355099d436b9f2085c3d0eec085%2Fthumbnail-031521.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/lindsey-graham-majority-senate-reject-biden-assault-weapons-ban"><img alt="Lindsey Graham" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/a1193ef/2147483647/strip/true/crop/4806x2934+0+135/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F66%2F0c%2F58d636524661838784a6a31d1870%2Fap21061597937254.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="small">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/biden-on-cuomo-give-it-time">Biden on Cuomo: Give it time</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/lindsey-graham-majority-senate-reject-biden-assault-weapons-ban">Lindsey Graham: 'Majority of Senate would reject' Biden 'assault weapons' ban</a>
 </h5>
 </div>
 </div>
@@ -2824,11 +2837,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="MultimediaCarousel-items-item">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/biden-spending-bill-debt-upon-more-debt"><img alt="THUMBNAIL_031221.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/32b5257/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fb0%2Ffc%2Fd85fdde94729b90b1e7e471a4f68%2Fthumbnail-031221.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/washington-examiner-reports-march-24-2021"><img alt="Washington Examiner Reports March 24" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/62a38f0/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fa2%2F24%2Ff556dbf94795a1af163ee9259518%2Fwr-thumb-mar24-00110.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="small">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/biden-spending-bill-debt-upon-more-debt">Biden spending bill: Debt upon more debt </a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/washington-examiner-reports-march-24-2021">Washington Examiner Reports: March 24, 2021</a>
 </h5>
 </div>
 </div>
@@ -2836,11 +2849,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="MultimediaCarousel-items-item">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/small-states-big-shots"><img alt="FEA.SmallStates.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/a7629c7/2147483647/strip/true/crop/2166x1322+62+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fa9%2F1f%2F7ffe7aee4a2a8e3a680d0e6beb69%2Ffea.SmallStates.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/a-conversation-with-eric-cantor-former-house-majority-leader"><img alt="Thumbnail_Cantor_R.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/a2ca748/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F13%2Fa1%2Fcd97901a4ea1bf21233adbe27414%2Fthumbnail-cantor-r.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="small">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/small-states-big-shots">Small states, big shots</a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/a-conversation-with-eric-cantor-former-house-majority-leader">A conversation with Eric Cantor, former House majority leader</a>
 </h5>
 </div>
 </div>
@@ -2848,11 +2861,11 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <li class="MultimediaCarousel-items-item">
 <div class="HeroTextBelow mb-3">
 <div class="HeroTextBelow-media">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/breaking-down-bidens-title-ix-changes-a-conversation-with-brooklyn-college-professor-kc-johnson"><img alt="Thumbnail_031121.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/ff169cf/2147483647/strip/true/crop/1769x1080+151+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F09%2Fe9%2F8ae4aed844f695ca5ffb48075a73%2Fthumbnail-031121.jpg" width="1540"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/washington-examiner-reports-march-23-2021-2"><img alt="0323wexreports_pm_00110.jpg" class="Image" height="940" src="https://mediadc.brightspotcdn.com/dims4/default/2294c79/2147483647/strip/true/crop/1769x1080+75+0/resize/1540x940!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F67%2F3e%2F015cbadd488aaa455844cf348d19%2F0323wexreports-pm-00110.jpg" width="1540"/></a>
 </div>
 <div class="HeroTextBelow-info d-flex flex-column" data-alignment="center">
 <h5 class="HeroTextBelow-title" data-text-size="small">
-<a class="Link" href="https://www.washingtonexaminer.com/videos/breaking-down-bidens-title-ix-changes-a-conversation-with-brooklyn-college-professor-kc-johnson">Breaking down Biden’s Title IX changes: A conversation with Brooklyn College professor KC Johnson</a>
+<a class="Link" href="https://www.washingtonexaminer.com/videos/washington-examiner-reports-march-23-2021-2">Washington Examiner Reports: March 23, 2021</a>
 </h5>
 </div>
 </div>
@@ -2982,14 +2995,14 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 <div class="QuoteHeadlinePromo mb-3\2">
 <div class="QuoteHeadlinePromo-info">
 <div class="QuoteHeadlinePromo-media">
-<a class="Link" href="https://www.washingtonexaminer.com/news/ted-cruz-pentagon-marines-defense-secretary-tweets-tucker-carlson"><img alt="Supreme Court Barrett" class="Image" height="420" src="https://mediadc.brightspotcdn.com/dims4/default/de8ebb9/2147483647/strip/true/crop/4571x2630+0+206/resize/730x420!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Faa%2F4b%2F9a696e1d495dbbf279d55c0bfd0f%2Fted-cruz.jpg" width="730"/></a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/are-you-confused-dan-crenshaw-and-msnbc-host-debate-whether-border-is-in-crisis"><img alt="Rep. Dan Crenshaw, R-Texas, appears on Capitol Hill in D.C." class="Image" height="420" src="https://mediadc.brightspotcdn.com/dims4/default/6fb2010/2147483647/strip/true/crop/2290x1318+0+0/resize/730x420!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F87%2F8d%2F7880dca84b999f62c286f468cffc%2Fap-18319537107153.jpg" width="730"/></a>
 </div>
 <div class="QuoteHeadlinePromo-description">
-<a class="Link" href="https://www.washingtonexaminer.com/news/ted-cruz-pentagon-marines-defense-secretary-tweets-tucker-carlson">“I am deeply troubled that the commitments you made, and the military's broader obligation to avoid political endorsements and controversy, are being systematically undermined for the sake of leftwing ideology and political expediency."</a>
+<a class="Link" href="https://www.washingtonexaminer.com/news/are-you-confused-dan-crenshaw-and-msnbc-host-debate-whether-border-is-in-crisis">"So Biden has the nerve to say quietly 'don't come,' wink, 'don't come.' ... If you come here, we're going to give you a bus ticket wherever you want and not going to deport you."</a>
 </div>
 </div>
 <h2 class="QuoteHeadlinePromo-title">
-                from <a class="Link" href="https://www.washingtonexaminer.com/news/ted-cruz-pentagon-marines-defense-secretary-tweets-tucker-carlson">Ted Cruz demands meeting with Marine Corps leadership after 'inexplicably inappropriate' attacks on Tucker Carlson</a>
+                from <a class="Link" href="https://www.washingtonexaminer.com/news/are-you-confused-dan-crenshaw-and-msnbc-host-debate-whether-border-is-in-crisis"> 'Are you confused?': Dan Crenshaw and MSNBC host debate whether border is in crisis</a>
 </h2>
 </div>
 </div>
@@ -3020,7 +3033,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </div>
 <div class="AuthorPromo-info">
 <div class="AuthorPromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-bidens-migrant-blackout">Byron York's Daily Memo: Biden's migrant blackout</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-an-embarrassing-day-for-the-white-house-press-corps">Byron York's Daily Memo: An embarrassing day for the White House press corps</a>
 </div>
 <div class="AuthorPromo-authorLink">
 <a class="AuthorPromo" href="https://www.washingtonexaminer.com/author/byron-york">Byron York's archive</a>
@@ -3044,7 +3057,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </div>
 <div class="AuthorPromo-info">
 <div class="AuthorPromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/columnists/perinos-everything-will-be-okay-is-the-advice-our-younger-selves-needed">Perino's <i>Everything Will be Okay</i> is the advice our younger selves needed</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/columnists/democratic-texas-border-mayor-frustrated-with-biden-administration-as-crisis-heightens">Democratic Texas border mayor frustrated with Biden administration as crisis heightens</a>
 </div>
 <div class="AuthorPromo-authorLink">
 <a class="AuthorPromo" href="https://www.washingtonexaminer.com/author/salena-zito">Salena Zito's archive</a>
@@ -3068,7 +3081,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </div>
 <div class="AuthorPromo-info">
 <div class="AuthorPromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/washington-secrets/hunter-biden-movie-promises-to-expose-crimes-of-the-biden-family">Hunter Biden movie promises to expose ‘crimes of the Biden family’</a>
+<a class="Link" href="https://www.washingtonexaminer.com/washington-secrets/thumbs-down-on-gun-control-wont-stop-shootings-rasmussen">Thumbs down on gun control, won’t stop shootings: Rasmussen</a>
 </div>
 <div class="AuthorPromo-authorLink">
 <a class="AuthorPromo" href="https://www.washingtonexaminer.com/author/paul-bedard">Paul Bedard's archive</a>
@@ -3092,7 +3105,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </div>
 <div class="AuthorPromo-info">
 <div class="AuthorPromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/columnists/pete-buttigiegs-19th-century-technology-high-speed-rail">Pete Buttigieg's 19th century technology: High-speed rail </a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/columnists/can-the-biden-administration-stop-china">Can the Biden administration stop China?</a>
 </div>
 <div class="AuthorPromo-authorLink">
 <a class="AuthorPromo" href="https://www.washingtonexaminer.com/author/michael-barone">Michael Barone's archive</a>
@@ -3140,7 +3153,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </div>
 <div class="AuthorPromo-info">
 <div class="AuthorPromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/no-the-vatican-didnt-call-homosexuality-a-choice">No, the Vatican didn’t call homosexuality a ‘choice’</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/the-local-government-was-wrong-in-trying-to-close-our-schools-the-data-prove-it">The local government was wrong in trying to close our schools. The data prove it</a>
 </div>
 <div class="AuthorPromo-authorLink">
 <a class="AuthorPromo" href="https://www.washingtonexaminer.com/author/timothy-p-carney">Timothy P. Carney's archive</a>
@@ -3164,7 +3177,7 @@ _comscore.push({ c1: "2", c2: "15743189", c3: "" });
 </div>
 <div class="AuthorPromo-info">
 <div class="AuthorPromo-title">
-<a class="Link" href="https://www.washingtonexaminer.com/opinion/columnists/how-much-do-trump-supporters-conservatives-and-republicans-overlap">How much do Trump supporters, conservatives, and Republicans overlap?</a>
+<a class="Link" href="https://www.washingtonexaminer.com/opinion/op-eds/the-worst-is-behind-us-most-people-finally-believe">The worst is behind us, most people (finally) believe </a>
 </div>
 <div class="AuthorPromo-authorLink">
 <a class="AuthorPromo" href="https://www.washingtonexaminer.com/author/kristen-soltis-anderson">Kristen Soltis Anderson's archive</a>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
-<!--[if lte IE 8]><html class="no-js lt-ie9" lang="en" ><![endif]-->
-<!--[if gt IE 8]><!--><html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]-->
+<!--[if lte IE 8]><html class="no-js lt-ie9 high-quality" lang="en" ><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js high-quality" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]-->
 <head>
 <title>Blasting News - Independent news and video</title>
 <meta charset="utf-8"/>
@@ -88,7 +88,7 @@ window.addEventListener('message', function() {
         
     }
 });
-</script> <script type="text/javascript">window.asyncResources=[];var flagLogged=false;var flagCountry=0;var loggedAuthor="";var loggedAuthorId="";var authorFullname="";var authorNickname="";var authorName="";var loggedAuthorImage="";var redazione_prefix_url="editorial-staff";var invitation_author_prefix_slug="invite-friends";var share_author_prefix_slug="share-news";var invitation_author_url="";var email_conf_sent=false;var flag_policy_send=false;var cdn_resource='https://srs1.blastingcdn.com';var sessRand=1605897220;var pageAuthorSlug='';var pageAuthorFullname='';var currentLang="en_US";var langCode="en";var tld="us";var this_site_address_location='https://us.blastingnews.com';var currentSite=56;var scopri_prefix_url="learn-more";var appId="459022437543956";var isCategorySinglePage=0;var notify_fake_avail=true;(function(){function CustomEvent(event,params){params=params||{bubbles:false,cancelable:false,detail:undefined};var evt=document.createEvent('CustomEvent');evt.initCustomEvent(event,params.bubbles,params.cancelable,params.detail);return evt;}CustomEvent.prototype=window.Event.prototype;window.CustomEvent=CustomEvent;})();var event_notify_fake_avail=CustomEvent('notify_fake_avail_update');var dealer_status=3;var dealer_status_description='disabled';var haveImage=false;var shown_popupfanpage=false;var semaforo_popupfanpage=true;if(screen.availWidth<=728){device='Mobile';videoWidth=300;videoHeight=349;}else if(screen.availWidth<992){device='Tablet';videoWidth=600;videoHeight=538;}else{device='Desktop';videoWidth=660;videoHeight=592;}</script>
+</script> <script type="text/javascript">window.asyncResources=[];var flagLogged=false;var flagCountry=0;var loggedAuthor="";var loggedAuthorId="";var authorFullname="";var authorNickname="";var authorName="";var loggedAuthorImage="";var redazione_prefix_url="editorial-staff";var invitation_author_prefix_slug="invite-friends";var share_author_prefix_slug="share-news";var invitation_author_url="";var email_conf_sent=false;var flag_policy_send=false;var cdn_resource='https://srs1.blastingcdn.com';var sessRand=2020452781;var pageAuthorSlug='';var pageAuthorFullname='';var currentLang="en_US";var langCode="en";var tld="us";var this_site_address_location='https://us.blastingnews.com';var currentSite=56;var scopri_prefix_url="learn-more";var appId="459022437543956";var isCategorySinglePage=0;var notify_fake_avail=true;(function(){function CustomEvent(event,params){params=params||{bubbles:false,cancelable:false,detail:undefined};var evt=document.createEvent('CustomEvent');evt.initCustomEvent(event,params.bubbles,params.cancelable,params.detail);return evt;}CustomEvent.prototype=window.Event.prototype;window.CustomEvent=CustomEvent;})();var event_notify_fake_avail=CustomEvent('notify_fake_avail_update');var dealer_status=3;var dealer_status_description='disabled';var haveImage=false;var shown_popupfanpage=false;var semaforo_popupfanpage=true;if(screen.availWidth<=728){device='Mobile';videoWidth=300;videoHeight=349;}else if(screen.availWidth<992){device='Tablet';videoWidth=600;videoHeight=538;}else{device='Desktop';videoWidth=660;videoHeight=592;}</script>
 <!-- respond.js per IE8 -->
 <!--[if lt IE 9]>
 <script src="https://srs1.blastingcdn.com/js/html5shiv.js?v=b7460c59fb20200506105815"></script>
@@ -134,8 +134,8 @@ return null;};</script>
     }
   }
 </script>
-<script>var bnCookieName="_bn_mfc";var tcCookieName="bn_cmp2_data";function clickHandler(e){if(e.toElement.id=='cookie-content')return;if(e.toElement.href&&(e.toElement.href.indexOf('/cookie-consent/')!==-1||e.toElement.href.indexOf('/cookie-policy/')!==-1))return
-removeListeners();if(!cmpCookieIsSet()){setAcceptAllCookie();}cookieExist();}function scrollHandler(){removeListeners();if(!cmpCookieIsSet()){setAcceptAllCookie();}cookieExist();}function cmpCookieIsSet(){return(readCookie(bnCookieName)!==""&&window.__acC!==""&&window.__tcs!=="");}function cookieExist(){(window.gdprIsReady=true)&&(window.gdprReady&&window.gdprReady());cookieBanner$.classList.add('hide');}function readCookie(cookieName){var name=cookieName+"=";var decodedCookie=decodeURIComponent(document.cookie);var ca=decodedCookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' '){c=c.substring(1);}if(c.indexOf(name)==0){return c.substring(name.length,c.length);}}return"";}function setAcceptAllCookie(){var cvalue="1"
+<script>var bnCookieName="_bn_mfc";var tcCookieName="bn_cmp2_data";window.bnbhf=false;function clickHandler(e){if(e.toElement.id=='cookie-content')return;if(e.toElement.href&&(e.toElement.href.indexOf('/cookie-consent/')!==-1||e.toElement.href.indexOf('/cookie-policy/')!==-1))return
+removeListeners();window.bnbhf=true;if(["news"].indexOf(advparams.site_page)!=-1&&typeof window.__bnnoef){ga('send',{'hitType':'event','eventCategory':'Monitor_Ad_Req','eventAction':'Cookie_closed_2','eventLabel':(device.toLowerCase()==="mobile")?'Mobile':'Desktop',});}if(!cmpCookieIsSet()){setAcceptAllCookie();}cookieExist();}function scrollHandler(){removeListeners();window.bnbhf=true;if(["news"].indexOf(advparams.site_page)!=-1&&typeof window.__bnnoef){ga('send',{'hitType':'event','eventCategory':'Monitor_Ad_Req','eventAction':'Cookie_closed_2','eventLabel':(device.toLowerCase()==="mobile")?'Mobile':'Desktop',});}if(!cmpCookieIsSet()){setAcceptAllCookie();}cookieExist();}function cmpCookieIsSet(){return(readCookie(bnCookieName)!==""&&window.__acC!==""&&window.__tcs!=="");}function cookieExist(){window.gdprIsReady=true;(window.gdprReady&&window.gdprReady());cookieBanner$.classList.add('hide');}function readCookie(cookieName){var name=cookieName+"=";var decodedCookie=decodeURIComponent(document.cookie);var ca=decodedCookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' '){c=c.substring(1);}if(c.indexOf(name)==0){return c.substring(name.length,c.length);}}return"";}function setAcceptAllCookie(){var cvalue="1"
 var tcsValue="CO5t8-1O5t8-1EkAEAENAwCsAP_AAH_AAChQGLtV_T9fb2vj-_Z999tkeYwf95y3p-wjhgeMs-8NyZeH_B4Wr2MyvBX4JiQKGRgEsjLBAQdlHGFcTQgAwIkFiTLMYk2MizNKJrJEilMbM2dYGC1Pn8HTmZCY70-tP__zv3ef-3gYsQSYKl8BIkJYwEk2aUQpgAhXEBUg4BKCEYSDSw0JFATsDgI9QAIAEBgABAgBACCiEkEAAgAASURACADAgFQBEAgABACNAQgAIkAAWAEgYBAAKgaFgBFEEIAhBgcFRyiBAVItEAAA.YAAAAAAAAAAA"
 var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expires="+d.toUTCString();var cookieResult=bnCookieName+"="+cvalue+";"+expires+";domain=.blastingnews.com;path=/";document.cookie=cookieResult;document.getElementById('tfcacc').contentWindow.postMessage('acceptAll','https://www.blastingnews.com');if(typeof window.__tcfapi!='undefined'){window.cmpApi.update(tcsValue,false);}}function removeListeners(){document.removeEventListener('click',clickHandler);document.removeEventListener('scroll',scrollHandler);}</script>
 <script>var bnTrackerSrc="https://srs1.blastingcdn.com/js/swordfish/bnTracker/_bnTracker.min.js?v=c566ce322520200506105815";function bTrackerLoaded(){BlastingTracker.init({partner:1,pixelName:'fla',tags:"",type:"homepage",tld:"us",env:"prod"});var _btEvent=document.createEvent('Event');_btEvent.initEvent('BTLoaded',true,true);document.dispatchEvent(_btEvent);}!function(b,n,t,r,c,k){k=n.createElement(t);k.async=!0;k.src=r;k.onload=bTrackerLoaded;c=n.getElementsByTagName(t)[0];c.parentNode.insertBefore(k,c);}(window,document,"script",bnTrackerSrc)</script>
@@ -146,47 +146,55 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 </meta></meta></head>
 <body class="us" itemscope="" itemtype="http://schema.org/WebPage">
 <div class="root" id="root"></div>
-<div class="home-wrapper">
-<div class="home-top bg-blu">
-<div class="content-page">
-<div class="nation-box">
-<div class="nation-btn">
-<input class="menu-nation-switcher-radio" id="menu-nation-switcher-radio" name="menu--nation-switcher" type="checkbox"/>
-<label class="menu-nation-switcher-label btn" for="menu-nation-switcher-radio">
-<span class="nation-name">United States</span>
-<div class="nation-icon">
-<svg viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
-<path d="M1683 808l-742 741q-19 19-45 19t-45-19l-742-741q-19-19-19-45.5t19-45.5l166-165q19-19 45-19t45 19l531 531 531-531q19-19 45-19t45 19l166 165q19 19 19 45.5t-19 45.5z"></path>
+<div class="home-wrapper home-wrapper-high-quality">
+<div class="home-high-quality us">
+<input class="menu-switcher-radio" id="menu-switcher-radio" name="menu-switcher" type="checkbox"/>
+<label class="menu-switcher-label" for="menu-switcher-radio">
+<i class="fa box-loading-hide box-icon">
+<svg class="hamburger" id="Capa_1" style="enable-background:new 0 0 512 512;" version="1.1" viewbox="0 0 512 512" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
+<style type="text/css">.st0{fill:#fff}</style>
+<g>
+<path class="st0" d="M34,90h438.9v36.6H34L34,90z" id="path-1_82_"></path>
+<path class="st0" d="M34,237.7h402.3v36.6H34L34,237.7z"></path>
+<path class="st0" d="M34,395.4h438.9V432H34L34,395.4z" id="path-1_81_"></path>
+</g>
 </svg>
-</div>
+<svg class="x-closed" enable-background="new 0 0 413.348 413.348" id="Capa_1" viewbox="0 0 413.348 413.348" xmlns="http://www.w3.org/2000/svg">
+<g>
+<path class="active-path" d="m413.348 24.354-24.354-24.354-182.32 182.32-182.32-182.32-24.354 24.354 182.32 182.32-182.32 182.32 24.354 24.354 182.32-182.32 182.32 182.32 24.354-24.354-182.32-182.32z" data-old_color="#000000" data-original="#000000" fill="#FFFFFF"></path>
+</g>
+</svg>
+</i>
 </label>
-<ul class="nation-menu dropdown-menu">
-<li class="nation-menu-li">
-<a href="https://www.blastingnews.com">Global</a>
-</li>
-<li class="nation-menu-li">
-<a href="//br.blastingnews.com">Brasil</a>
-</li>
-<li class="nation-menu-li">
-<a href="//fr.blastingnews.com">France</a>
-</li>
-<li class="nation-menu-li">
-<a href="//it.blastingnews.com">Italy</a>
-</li>
-<li class="nation-menu-li">
-<a href="//es.blastingnews.com">Spain</a>
-</li>
-<li class="nation-menu-li">
-<a href="//uk.blastingnews.com">UK</a>
-</li>
-</ul>
+<nav class="navbar-menu navbar navbar-default blasting-animation us" id="content-menu" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement" role="navigation">
+<div class="navbar-container">
+<div class="navbar-nav">
+<div class="box-menu-item">
+<a class="box-menu-link menu-link" href="https://us.blastingnews.com/news/tag/tv-shows/" itemprop="url" title="TV Shows">TV Shows</a>
+</div>
+<div class="box-menu-item">
+<a class="box-menu-link menu-link" href="https://us.blastingnews.com/news/tag/lebron-james/" itemprop="url" title="LeBron James">LeBron James</a>
+</div>
+<div class="box-menu-item">
+<a class="box-menu-link menu-link last" href="https://us.blastingnews.com/news/tag/playstation4/" itemprop="url" title="PlayStation4">PlayStation4</a>
 </div>
 </div>
-<div class="write">
-<a href="/login/?lp=news_edit">Write a news story</a>
+<div class="navbar-nav">
+<a class="menu-link" href="https://us.blastingnews.com/business/" itemprop="url" title="Business">Business</a>
+<a class="menu-link" href="https://us.blastingnews.com/food/" itemprop="url" title="Food">Food</a>
+<a class="menu-link" href="https://us.blastingnews.com/gaming/" itemprop="url" title="Gaming">Gaming</a>
+<a class="menu-link" href="https://us.blastingnews.com/lifestyle/" itemprop="url" title="Lifestyle">Lifestyle</a>
+<a class="menu-link" href="https://us.blastingnews.com/opinion/" itemprop="url" title="Opinion">Opinion</a>
+<a class="menu-link" href="https://us.blastingnews.com/showbiz-tv/" itemprop="url" title="Showbiz &amp; Tv">Showbiz &amp; Tv</a>
+<a class="menu-link" href="https://us.blastingnews.com/sports/" itemprop="url" title="Sports">Sports</a>
+<a class="menu-link" href="https://us.blastingnews.com/tech/" itemprop="url" title="Tech">Tech</a>
+<a class="menu-link last" href="https://us.blastingnews.com/world/" itemprop="url" title="World">World</a>
 </div>
-<div class="logo-box">
-<div class="logo">
+</div>
+</nav>
+<div class="header-hq">
+<div class="header-left-hq">
+<div class="logo-hq">
 <a href="https://www.blastingnews.com/" title="Blasting News">
 <svg id="Layer_1" style="enable-background:new 0 0 144 27;" version="1.1" viewbox="0 0 144 27" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
 <style type="text/css">.st0{fill:#fff}</style>
@@ -232,152 +240,171 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 </a>
 </div>
 </div>
-<div class="slogan-box">
-<h1 class="slogan-big">
-            All the news that you cannot miss          </h1>
-<h2 class="slogan">
-<span>Join the Channels you love: get all you need to know.</span>
-<span>Verified news. Experts. Live debate. All in one place.</span>
-</h2>
-</div>
-<div class="channel-box">
-<div class="bg-ellisse-top">
-<svg viewbox="0 0 603.283 498.124" xmlns="http://www.w3.org/2000/svg">
-<defs>
-<style>.cls-1{opacity:.15}.cls-2{fill:none;stroke:#50b1fc;stroke-miterlimit:8;stroke-width:2px;stroke-dasharray:50800 38100}</style>
-</defs>
-<g data-name="Group 71" id="Group_71" transform="translate(80.402 -135.422)">
-<g class="cls-1" data-name="Group 11" id="Group_11" transform="translate(584.464 -849.953) rotate(-167)">
-<g data-name="Group 10" id="Group_10" transform="translate(-200.806 -1474.931)">
-<path class="cls-2" d="M471.53,226.274v6.174a11.374,11.374,0,0,0-.349,2.068,51.992,51.992,0,0,1-2.467,14.748c-4.3,14.431-13.622,26.96-28.248,37.466-10.544,7.563-22.791,13.435-36.129,18.2-16.111,5.751-33.094,9.706-50.58,12.68-14.32,2.415-28.794,4.136-43.4,5.389C298.7,324.014,287,324.783,275.3,325.146c-11.614.377-23.205.513-34.8.755-.589.015-1.179.106-1.768.151H232.8c-.851-.045-1.7-.136-2.554-.151-14.757-.106-29.536-.453-44.271-1.208-17.9-.936-35.714-2.43-53.331-4.83a368.074,368.074,0,0,1-49.052-9.812c-14.735-4.121-28.641-9.3-41.15-16.288C24.472,283.71,11.81,271.06,5.348,255.377A64.89,64.89,0,0,1,.742,236.749c-.131-1.343-.48-2.672-.742-4.015v-6.461a18.446,18.446,0,0,0,.589-2.627,114.774,114.774,0,0,1,6.767-30.19A213.3,213.3,0,0,1,26.742,154.15c11.373-18.582,24.843-36.394,39.534-53.753A414.644,414.644,0,0,1,113.6,52.3a264.991,264.991,0,0,1,39.425-28.167A187.785,187.785,0,0,1,190.948,7.23,151.71,151.71,0,0,1,226.335.483C228.365.347,230.373.166,232.4,0h7.117c.589.075,1.157.2,1.746.226,3.471.272,6.964.423,10.413.8a154.584,154.584,0,0,1,38.9,9.48,207.1,207.1,0,0,1,42.569,22.476,292.489,292.489,0,0,1,38.072,30.794A476.227,476.227,0,0,1,439.4,144.927c10.216,15.306,18.839,31.035,24.8,47.443,3.864,10.582,6.745,21.284,7.008,32.258A10.6,10.6,0,0,0,471.53,226.274Z" data-name="Path 57" id="Path_57"></path>
-</g>
-</g>
-<g class="cls-1" data-name="Group 14" id="Group_14" transform="translate(1065.568 976.204) rotate(-65)">
-<g data-name="Group 10" id="Group_10-2" transform="translate(97.354 -1308.369)">
-<path class="cls-2" d="M218.777,279.809v7.634c-.061.859-.162,1.7-.162,2.557a164.639,164.639,0,0,1-1.145,18.237c-2,17.845-6.32,33.338-13.106,46.33A84.989,84.989,0,0,1,187.6,377.079a83.206,83.206,0,0,1-23.468,15.68A106.9,106.9,0,0,1,144,399.423a113.957,113.957,0,0,1-16.266,2.651c-5.388.467-10.767.635-16.145.933a6.512,6.512,0,0,0-.82.187h-2.755c-.4-.056-.79-.168-1.185-.187a176.613,176.613,0,0,1-20.541-1.493,120.916,120.916,0,0,1-24.744-5.973,88.233,88.233,0,0,1-22.759-12.133A80.885,80.885,0,0,1,19.69,363.266C11.354,350.835,5.48,335.192,2.481,315.8A197.267,197.267,0,0,1,.344,292.763C.284,291.1.122,289.46,0,287.8v-7.989c.091-1.083.243-2.147.273-3.248a353.827,353.827,0,0,1,3.14-37.333c2.249-16.688,5.358-32.834,8.994-48.607,5.277-22.978,11.526-45,18.343-66.471A598.757,598.757,0,0,1,52.709,64.679,247,247,0,0,1,71,29.848C76.41,21.5,82.2,14.3,88.594,8.941,93.841,4.555,99.29,1.624,105.013.6c.942-.168,1.874-.392,2.816-.6h3.3a4.637,4.637,0,0,0,.81.28c1.61.336,3.231.523,4.831.989,6.391,1.811,12.367,5.955,18.049,11.722,7.3,7.411,13.765,17.005,19.751,27.794a320.861,320.861,0,0,1,17.664,38.079c12.377,31.378,22.779,65,31.632,100.35a541.811,541.811,0,0,1,11.506,58.668,313.448,313.448,0,0,1,3.251,39.89C218.635,278.465,218.726,279.137,218.777,279.809Z" data-name="Path 57" id="Path_57-2"></path>
-</g>
-</g>
-</g>
-</svg>
-</div>
-<div class="channel channel-1">
-<div class="channel-text">
-<div class="channel-name">
-<span class="text">
-                    Join the channel <a class="text text-link" href="https://us.blastingnews.com/news/tag/nfl/">NFL</a> </span>
-</div>
-<div class="channel-number">
-<span class="channel-number-number counter counter-first">128,524</span>
-<span class="channel-number-text">people are talking about it</span>
-</div>
-</div>
-<div class="channel-img">
-<img alt="NFL" class="img-responsive img-circle" data-src="https://staticr1.blastingcdn.com/media/tag/7/7537/400x400/b_100x100/1064715197355285a9552e880203_c.jpg" height="28" width="28"/>
-<noscript>
-<img class="img-responsive img-circle" src="https://staticr1.blastingcdn.com/media/tag/7/7537/400x400/b_100x100/1064715197355285a9552e880203_c.jpg"/>
-</noscript>
-</div>
-</div>
-<div class="channel channel-2">
-<div class="channel-img">
-<img alt="Video Game" class="img-responsive img-circle" data-src="https://staticr1.blastingcdn.com/media/tag/7/7293/400x400/b_100x100/7385415380755165bad2b7c5ef6a_c.jpg" height="50" width="50"/>
-<noscript>
-<img class="img-responsive img-circle" src="https://staticr1.blastingcdn.com/media/tag/7/7293/400x400/b_100x100/7385415380755165bad2b7c5ef6a_c.jpg"/>
-</noscript>
-</div>
-<div class="channel-text">
-<div class="channel-name">
-<span class="text">
-                    Join the channel <a class="text text-link" href="https://us.blastingnews.com/news/tag/video-game/">Video Game</a> </span>
-</div>
-<div class="channel-number">
-<span class="channel-number-number counter counter-second">22,457</span>
-<span class="channel-number-text">people are talking about it</span>
-</div>
-</div>
-</div>
-<div class="channel channel-3">
-<div class="channel-text">
-<div class="channel-name">
-<div class="text">What is your passion?</div>
-</div>
-<div class="channel-number">
-<span class="channel-number-number typemachine" id="typed"></span>
-</div>
-</div>
-<div class="channel-img">
-<a aria-label="Login" class="icon-plus" href="/login/?lp=explore">
+<div class="header-right-hq">
+<div class="nation-btn-hq-container">
+<input class="menu-nation-switcher-radio" id="menu-nation-switcher-radio" name="menu--nation-switcher" type="checkbox"/>
+<label class="nation-btn-hq menu-nation-switcher-label btn" for="menu-nation-switcher-radio">
+<span class="nation-name">United States</span>
+<div class="nation-icon">
 <svg viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
-<path d="M1600 736v192q0 40-28 68t-68 28h-416v416q0 40-28 68t-68 28h-192q-40 0-68-28t-28-68v-416h-416q-40 0-68-28t-28-68v-192q0-40 28-68t68-28h416v-416q0-40 28-68t68-28h192q40 0 68 28t28 68v416h416q40 0 68 28t28 68z"></path>
+<path d="M1683 808l-742 741q-19 19-45 19t-45-19l-742-741q-19-19-19-45.5t19-45.5l166-165q19-19 45-19t45 19l531 531 531-531q19-19 45-19t45 19l166 165q19 19 19 45.5t-19 45.5z"></path>
 </svg>
-</a>
+</div>
+</label>
+<ul class="nation-hq-dropdown nation-menu dropdown-menu">
+<li>
+<a class="nation-hq-dropdown-link" href="https://www.blastingnews.com">Global</a>
+</li>
+<li>
+<a class="nation-hq-dropdown-link" href="//br.blastingnews.com">Brasil</a>
+</li>
+<li>
+<a class="nation-hq-dropdown-link" href="//fr.blastingnews.com">France</a>
+</li>
+<li>
+<a class="nation-hq-dropdown-link" href="//it.blastingnews.com">Italy</a>
+</li>
+<li>
+<a class="nation-hq-dropdown-link" href="//es.blastingnews.com">Spain</a>
+</li>
+<li>
+<a class="nation-hq-dropdown-link" href="//uk.blastingnews.com">UK</a>
+</li>
+</ul>
+</div>
+<div class="login-hq">
+<a class="login-hq-link" href="/login/?lp=news_edit">Login</a>
+</div>
+</div>
+</div>
+<div class="slide-hq-container siema">
+<div class="slide-hq slide-hq-0 slide-hq-desktop-hide" id="slide-hq-0">
+<div class="slide-hq-inner">
+<picture class="img-hq">
+<source media="(min-width: 1601px)" srcset="https://staticr1.blastingcdn.com/media/photogallery/2021/3/26/os/b_1900x835/i-am-legend-is-set-in-2012-image-source-sinemabedflickr_2603348.jpg"/>
+<source media="(min-width: 1366px)" srcset="https://staticr1.blastingcdn.com/media/photogallery/2021/3/26/os/b_1600x705/i-am-legend-is-set-in-2012-image-source-sinemabedflickr_2603348.jpg"/>
+<source media="(min-width: 1024px)" srcset="https://staticr1.blastingcdn.com/media/photogallery/2021/3/26/os/b_1365x600/i-am-legend-is-set-in-2012-image-source-sinemabedflickr_2603348.jpg"/>
+<source media="(min-width: 501px)" srcset="https://staticr1.blastingcdn.com/media/photogallery/2021/3/26/os/b_1000x440/i-am-legend-is-set-in-2012-image-source-sinemabedflickr_2603348.jpg"/>
+<img data-src="https://staticr1.blastingcdn.com/media/photogallery/2021/3/26/655x655/b_655x655/i-am-legend-is-set-in-2012-image-source-sinemabedflickr_2603348.jpg"/>
+<noscript>
+<img src="https://staticr1.blastingcdn.com/media/photogallery/2021/3/26/655x655/b_655x655/i-am-legend-is-set-in-2012-image-source-sinemabedflickr_2603348.jpg"/>
+</noscript>
+</picture>
+<div class="news-hq-info">
+<div class="news-hq-info-inner no-carousel">
+<div class="news-hq-author">
+<div class="exclusive">Exclusive</div>
+<span class="news-hq-author-by">By </span>
+<div class="news-hq-author-link">Bruno Fuschini</div>
+</div>
+<h3 class="news-hq-title">
+<a class="news-hq-title-link" href="https://us.blastingnews.com/world/2021/03/its-not-true-from-texas-finishing-the-mexico-border-wall-to-i-am-legend-being-set-in-2021-003299708.html">It's not true: from Texas finishing the Mexico border wall to 'I Am Legend' being set in 2021</a>
+</h3>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="home-center bg-white">
+</div>
+<div class="container-info-hq">
+<span class="info-hq-text">
+<b>Blasting News fights against one-sided information.</b>
+</span>
+<span class="info-hq-text info-hq-text-only-desktop">
+                We are always open to both side of each story.              </span>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input name="cmd" type="hidden" value="_donations"/>
+<input name="business" type="hidden" value="staff@blastingnews.com"/>
+<input name="currency_code" type="hidden" value="USD"/>
+<input name="amount" type="hidden" value="1"/>
+<input name="lc" type="hidden" value="en_US"/>
+<input class="info-hq-text-link" name="submit" onclick="ga('send', 'event', 'donation', 'click');" type="submit" value="Support us to make you free and informed with just $1."/>
+<img alt="" border="0" data-src="https://www.paypal.com/en_IT/i/scr/pixel.gif" height="1" width="1">
+<noscript>
+<img alt="" border="0" height="1" src="https://www.paypal.com/en_IT/i/scr/pixel.gif" width="1">
+</img></noscript>
+</img></form>
+</div>
+<div class="home-center bg-white home-center-hq">
 <div class="content-page clearfix bg-white-40 content-page-card">
-<div class="started-box">
-<a class="started-btn" href="/login/?lp=my-channels">
-<div class="started-btn-text">
-              Get started            </div>
-</a>
-</div>
 <section class="channel-scroll-box top-news">
 <header>
 <h2 class="channel-scroll-title">
             Top news          </h2>
-<time class="new-time-modified" datetime="2021-03-16T18:10:28-04:00" itemprop="dateModified">
-                Updated: 16/03/2021 18:10              </time>
+<time class="new-time-modified" datetime="2021-03-27T10:37:27-04:00" itemprop="dateModified">
+                Updated: 27/03/2021 10:37              </time>
 </header>
 <div class="channel-scroll-inner">
 <div class="channel-scroll channel-scroll news box-carousel siema-news">
 <div class="channels-pwa-minicard t-margin-1 t-text-center first">
 <div class="channels-pwa-minicard-link t-padding-">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/15/660x290/b_155x78/italian-high-speed-train-inspired-by-italian-sports-car-heritage-image-sourcequest-tv-youtube-video_2598166.jpg)"></div>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/25/660x290/b_155x78/traffic-in-the-suez-canal-will-resume-as-soon-as-the-vessel-is-towed-to-another-positionphoto-via-kliempictures-pixabay_2603334.jpg)"></div>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
-<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/world/2021/03/covid-free-train-to-run-between-rome-and-milan-in-italy-by-april-003293496.html">‘Covid-free’ train to run between Rome and Milan in Italy by April</a>
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/news/2021/03/giant-container-ship-blocked-the-suez-canal-003299142.html">Giant container ship blocks the Suez Canal</a>
 </h3>
 </div>
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link t-padding-">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/13/660x290/b_155x78/brady-captured-his-7th-super-bowl-ring-image-credit-nflyoutube_2597438.jpg)"></div>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/25/660x290/b_155x78/biden-speaks-on-boulder-gun-violence-and-need-for-common-sense-gun-laws-image-sourcecbs-news-youtube-video_2602708.jpg)"></div>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
-<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/sports/2021/03/tom-brady-in-line-to-make-another-nfl-history-after-one-year-extension-with-buccaneers-003292990.html">Tom Brady in line to make another NFL history after one-year extension with Buccaneers</a>
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/news/2021/03/joe-biden-on-gun-violence-in-colorado-that-killed-10-in-a-supermarket-003298724.html">Biden urges gun control laws after Boulder mass shooting</a>
 </h3>
 </div>
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link t-padding-">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/12/660x290/b_155x78/nintendo-switch-source-speedbug-flickr_2598334.jpg)"></div>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/26/660x290/b_155x78/the-design-of-the-flag-of-the-us-trade-representative-image-view-fry1989-wikimedia-commons_2603038.jpg)"></div>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
-<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/gaming/2021/03/nintendo-switch-pro-launching-in-2021-to-spike-sales-according-to-report-003292538.html">Nintendo Switch Pro launching in 2021 to spike sales, according to report</a>
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/news/2021/03/bill-brock-former-cabinet-official-rnc-chair-and-legislator-dies-of-pneumonia-at-90-003299328.html">Bill Brock, former cabinet official, RNC Chair, and legislator dies of pneumonia at 90</a>
 </h3>
 </div>
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link t-padding-">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/14/660x290/b_155x78/supposed-portrait-painting-by-sculptor-benvenuto-cellini-credit-wikipedia-commons_2597490.jpg)"></div>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/24/660x290/b_155x78/is-it-a-classic-manhunt-source-bagogames-flickr_2603374.jpg)"></div>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
-<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/opinion/2021/03/cellini-painting-selling-for-100-dollars-million-one-hitch-he-didn-t-paint-003293048.html">Cellini painting selling for $100 million; one hitch, he didn’t paint</a>
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/curiosities/2021/03/five-video-games-that-companies-regret-making-003298680.html">Five video games that companies regret making</a>
 </h3>
 </div>
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link t-padding-">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/15/660x290/b_155x78/fans-react-to-paolas-recent-post-image-source-instagram-at-paola-mayfield_2598246.jpg)"></div>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/25/660x290/b_155x78/fitzgerald-played-his-entire-career-with-the-cardinals-image-credit-arizona-cardinalsyoutube_2602920.jpg)"></div>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
-<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/showbiz-tv/2021/03/paola-mayfield-raises-her-voice-on-pedophilia-and-child-trafficking-003293912.html">Paola Mayfield raises her voice on pedophilia and women trafficking</a>
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/sports/2021/03/report-tom-brady-could-have-another-target-in-veteran-wideout-larry-fitzgerald-003299234.html">Report: Tom Brady could have another target in veteran wideout Larry Fitzgerald</a>
 </h3>
 </div>
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link t-padding-">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/14/660x290/b_155x78/kenneth-urges-his-fans-to-be-nice-to-people-image-source-youtube-at-tlc-uk_2597510.jpg)"></div>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/27/660x290/b_155x78/shahla-humbatova-won-the-international-woman-of-courage-award-last-year-image-source-voice-of-america-azerbaijanyoutube_2603484.jpg)"></div>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
-<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/showbiz-tv/2021/03/90-day-fiance-kenneth-sends-a-great-message-to-people-as-he-reveals-learning-disorder-003293074.html">'90 Day Fiancè': Kenneth reveals learning disorder</a>
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/news/2021/03/anthony-blinken-rebukes-azerbaijan-for-disbarment-of-human-rights-lawyer-shahla-humbatova-003299892.html">Anthony Blinken rebukes Azerbaijan for disbarment of human rights lawyer Shahla Humbatova</a>
+</h3>
+</div>
+</div>
+<div class="channels-pwa-minicard t-margin-1 t-text-center">
+<div class="channels-pwa-minicard-link t-padding-">
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/25/660x290/b_155x78/francis-bacon-walker-art-gallery-credit-martin-beek-flickr_2602908.jpg)"></div>
+<h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/lifestyle/2021/03/francis-bacon-revelations-reveals-that-songbird-princess-margaret-couldn-t-carry-a-tune-003299208.html">'Francis Bacon: Revelations' reveals that songbird Princess Margaret couldn’t carry a tune</a>
+</h3>
+</div>
+</div>
+<div class="channels-pwa-minicard t-margin-1 t-text-center">
+<div class="channels-pwa-minicard-link t-padding-">
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/23/660x290/b_155x78/on-the-good-doctor-lea-and-shaun-have-a-sudden-change-of-heart-on-becoming-parents-image-sourceshaun-the-good-doctor-youtube_2601878.jpg)"></div>
+<h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/showbiz-tv/2021/03/the-good-doctor-season-4-episode-12-teeny-blue-eyes-fatherhood-and-future-vision-003298066.html">‘The Good Doctor' Season 4 Episode 12 'Teeny Blue Eyes': Fatherhood and future vision</a>
+</h3>
+</div>
+</div>
+<div class="channels-pwa-minicard t-margin-1 t-text-center">
+<div class="channels-pwa-minicard-link t-padding-">
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/photogallery/2021/3/24/660x290/b_155x78/brady-signed-a-one-year-extension-with-buccaneers-image-credit-nflyoutube_2602408.jpg)"></div>
+<h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2 no-absolute">
+<a class="channels-pwa-minicard-title-link-a no-absolute" href="https://us.blastingnews.com/sports/2021/03/tom-brady-real-love-for-the-game-keeps-me-going-003298662.html">Tom Brady: 'Real love for the game keeps me going'</a>
 </h3>
 </div>
 </div>
@@ -447,30 +474,30 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 <div class="channels-pwa-minicard t-margin-1 t-text-center first">
 <div class="channels-pwa-minicard-link">
 <div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/7/7537/1280x330/b_160x81/47598150310797059979b82a191a_c.jpg)"></div>
-<img alt="NFL" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/7/7537/400x400/b_100x100/1064715197355285a9552e880203_c.jpg" height="60" width="60">
+<img alt="NFL" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/7/7537/400x400/b_100x100/1064715197355285a9552e880203_c.jpg" height="60" width="60"/>
 <noscript>
-<img alt="NFL" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/7/7537/400x400/b_100x100/1064715197355285a9552e880203_c.jpg" width="60">
-</img></noscript>
+<img alt="NFL" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/7/7537/400x400/b_100x100/1064715197355285a9552e880203_c.jpg" width="60"/>
+</noscript>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
 <a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/nfl/">
 <span class="channels-pwa-minicard-title-link-a-span">NFL</span>
 </a>
 </h3>
-</img></div>
+</div>
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link">
 <div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/7/7293/1280x330/b_160x81/16197150634163659c8f304af1e3_c.jpg)"></div>
-<img alt="Video Game" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/7/7293/400x400/b_100x100/7385415380755165bad2b7c5ef6a_c.jpg" height="60" width="60">
+<img alt="Video Game" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/7/7293/400x400/b_100x100/7385415380755165bad2b7c5ef6a_c.jpg" height="60" width="60"/>
 <noscript>
-<img alt="Video Game" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/7/7293/400x400/b_100x100/7385415380755165bad2b7c5ef6a_c.jpg" width="60">
-</img></noscript>
+<img alt="Video Game" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/7/7293/400x400/b_100x100/7385415380755165bad2b7c5ef6a_c.jpg" width="60"/>
+</noscript>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
 <a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/video-game/">
 <span class="channels-pwa-minicard-title-link-a-span">Video Game</span>
 </a>
 </h3>
-</img></div>
+</div>
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link">
@@ -502,20 +529,6 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/6/6945/1280x330/b_160x81/35130150697156959d28fb10c789_c.jpg)"></div>
-<img alt="Celebrities" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/6/6945/400x400/b_100x100/4375015380769415bad310d8e7ad_c.jpg" height="60" width="60"/>
-<noscript>
-<img alt="Celebrities" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/6/6945/400x400/b_100x100/4375015380769415bad310d8e7ad_c.jpg" width="60"/>
-</noscript>
-<h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
-<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/celebrities/">
-<span class="channels-pwa-minicard-title-link-a-span">Celebrities</span>
-</a>
-</h3>
-</div>
-</div>
-<div class="channels-pwa-minicard t-margin-1 t-text-center">
-<div class="channels-pwa-minicard-link">
 <div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/51/51733/1280x330/b_160x81/59484150283796459937ccc323cc_c.jpg)"></div>
 <img alt="TV Shows" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/51/51733/400x400/b_100x100/5258515380765595bad2f8fc5770_c.jpg" height="60" width="60"/>
 <noscript>
@@ -530,14 +543,28 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/7/7075/1280x330/b_160x81/55853150678040859cfa4f8cb547_c.jpg)"></div>
-<img alt="Travel" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="" height="60" width="60"/>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/6/6945/1280x330/b_160x81/35130150697156959d28fb10c789_c.jpg)"></div>
+<img alt="Celebrities" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/6/6945/400x400/b_100x100/4375015380769415bad310d8e7ad_c.jpg" height="60" width="60"/>
 <noscript>
-<img alt="Travel" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="" width="60"/>
+<img alt="Celebrities" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/6/6945/400x400/b_100x100/4375015380769415bad310d8e7ad_c.jpg" width="60"/>
 </noscript>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
-<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/travel/">
-<span class="channels-pwa-minicard-title-link-a-span">Travel</span>
+<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/celebrities/">
+<span class="channels-pwa-minicard-title-link-a-span">Celebrities</span>
+</a>
+</h3>
+</div>
+</div>
+<div class="channels-pwa-minicard t-margin-1 t-text-center">
+<div class="channels-pwa-minicard-link">
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/7/7005/1280x330/b_160x81/8928715190576515a8afaf32de94_c.jpg)"></div>
+<img alt="Reality TV" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/7/7005/400x400/b_100x100/7424615190575995a8afabf9e0f0_c.jpg" height="60" width="60"/>
+<noscript>
+<img alt="Reality TV" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/7/7005/400x400/b_100x100/7424615190575995a8afabf9e0f0_c.jpg" width="60"/>
+</noscript>
+<h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
+<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/realitytv/">
+<span class="channels-pwa-minicard-title-link-a-span">Reality TV</span>
 </a>
 </h3>
 </div>
@@ -558,28 +585,28 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/6/6697/1280x330/b_160x81/23813150634047759c8ee7d22165_c.jpg)"></div>
-<img alt="Democratic Party" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/6/6697/400x400/b_100x100/4016515211217125aaa79b0a8298_c.jpg" height="60" width="60"/>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/7/7075/1280x330/b_160x81/55853150678040859cfa4f8cb547_c.jpg)"></div>
+<img alt="Travel" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="" height="60" width="60"/>
 <noscript>
-<img alt="Democratic Party" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/6/6697/400x400/b_100x100/4016515211217125aaa79b0a8298_c.jpg" width="60"/>
+<img alt="Travel" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="" width="60"/>
 </noscript>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
-<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/democratic-party/">
-<span class="channels-pwa-minicard-title-link-a-span">Democratic Party</span>
+<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/travel/">
+<span class="channels-pwa-minicard-title-link-a-span">Travel</span>
 </a>
 </h3>
 </div>
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/6/6957/1280x330/b_160x81/87771150634124259c8f17aed09e_c.jpg)"></div>
-<img alt="Wrestling" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="" height="60" width="60"/>
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/tag/87/87283/1280x330/b_160x81/5987415869468065e96e2f692238_c.jpg)"></div>
+<img alt="Fake News" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/tag/87/87283/400x400/b_100x100/6239015869468315e96e30f34544_c.jpg" height="60" width="60"/>
 <noscript>
-<img alt="Wrestling" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="" width="60"/>
+<img alt="Fake News" class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/tag/87/87283/400x400/b_100x100/6239015869468315e96e30f34544_c.jpg" width="60"/>
 </noscript>
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
-<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/wrestling/">
-<span class="channels-pwa-minicard-title-link-a-span">Wrestling</span>
+<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/news/tag/fake-news/">
+<span class="channels-pwa-minicard-title-link-a-span">Fake News</span>
 </a>
 </h3>
 </div>
@@ -729,6 +756,20 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 </div>
 <div class="channels-pwa-minicard t-margin-1 t-text-center">
 <div class="channels-pwa-minicard-link">
+<div class="channels-pwa-minicard-cover" style="background-image:url(https://srs1.blastingcdn.com/images/blasting.news/cover-default.png)"></div>
+<img alt="R. Fanus" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/authors/ba_60x60/profile/4/502/profile_4502591_1515068920.jpg" height="60" width="60"/>
+<noscript>
+<img class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/authors/ba_60x60/profile/4/502/profile_4502591_1515068920.jpg" width="60"/>
+</noscript>
+<h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
+<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/editorial-staff/ryan-fanus/">
+<span class="channels-pwa-minicard-title-link-a-span">R. Fanus</span>
+</a>
+</h3>
+</div>
+</div>
+<div class="channels-pwa-minicard t-margin-1 t-text-center">
+<div class="channels-pwa-minicard-link">
 <div class="channels-pwa-minicard-cover" style="background-image:url(https://staticr1.blastingcdn.com/media/authors/cover/c_160x81/4/632/cover_4632093_1501639496.jpg)"></div>
 <img alt="E. Cross" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/authors/ba_60x60/profile/4/632/profile_4632093_1571990172.jpg" height="60" width="60"/>
 <noscript>
@@ -737,20 +778,6 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 <h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
 <a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/editorial-staff/erwin-cruz-1/">
 <span class="channels-pwa-minicard-title-link-a-span">E. Cross</span>
-</a>
-</h3>
-</div>
-</div>
-<div class="channels-pwa-minicard t-margin-1 t-text-center">
-<div class="channels-pwa-minicard-link">
-<div class="channels-pwa-minicard-cover" style="background-image:url(https://srs1.blastingcdn.com/images/blasting.news/cover-default.png)"></div>
-<img alt="J. Altabe" class="channels-pwa-minicard-avatar t-bg-white-2" data-src="https://staticr1.blastingcdn.com/media/authors/ba_60x60/profile/1/9/profile_1009973_1453835604.jpg" height="60" width="60"/>
-<noscript>
-<img class="channels-pwa-minicard-avatar t-bg-white-2" height="60" src="https://staticr1.blastingcdn.com/media/authors/ba_60x60/profile/1/9/profile_1009973_1453835604.jpg" width="60"/>
-</noscript>
-<h3 class="channels-pwa-minicard-title-link t-margin-top-1 t-margin-bottom-3 t-text-size-2">
-<a class="channels-pwa-minicard-title-link-a" href="https://us.blastingnews.com/editorial-staff/joan-altabe/">
-<span class="channels-pwa-minicard-title-link-a-span">J. Altabe</span>
 </a>
 </h3>
 </div>
@@ -886,7 +913,7 @@ var d=new Date();d.setTime(d.getTime()+(2*365*24*60*60*1000));var expires="expir
 </div>
 </div>
 </div>
-<div class="footer" id="footer" itemscope="" itemtype="http://schema.org/WPFooter">
+<div class="footer home-hq-footer" id="footer" itemscope="" itemtype="http://schema.org/WPFooter">
 <div class="content-page">
 <ul class="footer-ul top">
 <li class="footer-li upper first">

@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<title>The Reporterz</title>
+<meta content="max-image-preview:large" name="robots">
+<link href="//fonts.googleapis.com" rel="dns-prefetch">
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://thereporterz.com/feed/" rel="alternate" title="The Reporterz » Feed" type="application/rss+xml"/>
+<link href="https://thereporterz.com/comments/feed/" rel="alternate" title="The Reporterz » Comments Feed" type="application/rss+xml"/>
+<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thereporterz.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="//fonts.googleapis.com/css?family=Work+Sans:100,200,300,regular,500,600,700,800,900|Satisfy:regular" id="generate-fonts-css" media="all" rel="stylesheet"/>
+<link href="https://thereporterz.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7" id="wp-block-library-css" media="all" rel="stylesheet"/>
+<link href="https://thereporterz.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4" id="contact-form-7-css" media="all" rel="stylesheet"/>
+<link href="https://thereporterz.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.0.3" id="generate-widget-areas-css" media="all" rel="stylesheet"/>
+<link href="https://thereporterz.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.0.3" id="generate-style-css" media="all" rel="stylesheet"/>
+<style id="generate-style-inline-css">
+.no-featured-image-padding .post-image {margin-left:-50px;margin-right:-50px;}.post-image-above-header .no-featured-image-padding .inside-article .post-image {margin-top:-50px;}@media (max-width:768px){.no-featured-image-padding .post-image {margin-left:-30px;margin-right:-30px;}.post-image-above-header .no-featured-image-padding .inside-article .post-image {margin-top:-30px;}}
+.generate-columns {margin-bottom: 25px;padding-left: 25px;}.generate-columns-container {margin-left: -25px;}.page-header {margin-bottom: 25px;margin-left: 25px}.generate-columns-container > .paging-navigation {margin-left: 25px;}
+body{background-color:#f7f4f6;color:#3a3a3a;}a{color:#ed84a0;}a:hover, a:focus, a:active{color:#000000;}.grid-container{max-width:1255px;}.wp-block-group__inner-container{max-width:1255px;margin-left:auto;margin-right:auto;}.navigation-search{position:absolute;left:-99999px;pointer-events:none;visibility:hidden;z-index:20;width:100%;top:0;transition:opacity 100ms ease-in-out;opacity:0;}.navigation-search.nav-search-active{left:0;right:0;pointer-events:auto;visibility:visible;opacity:1;}.navigation-search input[type="search"]{outline:0;border:0;vertical-align:bottom;line-height:1;opacity:0.9;width:100%;z-index:20;border-radius:0;-webkit-appearance:none;height:60px;}.navigation-search input::-ms-clear{display:none;width:0;height:0;}.navigation-search input::-ms-reveal{display:none;width:0;height:0;}.navigation-search input::-webkit-search-decoration, .navigation-search input::-webkit-search-cancel-button, .navigation-search input::-webkit-search-results-button, .navigation-search input::-webkit-search-results-decoration{display:none;}.gen-sidebar-nav .navigation-search{top:auto;bottom:0;}body, button, input, select, textarea{font-family:"Work Sans", sans-serif;}body{line-height:1.5;}.entry-content > [class*="wp-block-"]:not(:last-child){margin-bottom:1.5em;}.main-title{font-family:"Satisfy", handwriting;font-weight:500;font-size:100px;}.main-navigation a, .menu-toggle{font-weight:400;text-transform:uppercase;font-size:14px;}.main-navigation .menu-bar-items{font-size:14px;}.main-navigation .main-nav ul ul li a{font-size:13px;}.widget-title{text-transform:uppercase;font-size:15px;}.sidebar .widget, .footer-widgets .widget{font-size:14px;}button:not(.menu-toggle),html input[type="button"],input[type="reset"],input[type="submit"],.button,.wp-block-button .wp-block-button__link{text-transform:uppercase;font-size:13px;}h1{font-weight:300;font-size:40px;}h2{font-weight:300;font-size:27px;}h3{font-size:20px;}h4{font-size:inherit;}h5{font-size:inherit;}.site-info{text-transform:uppercase;font-size:12px;}@media (max-width:768px){.main-title{font-size:70px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#2cc1c0;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#ed577a;}.site-header{background-color:#ffffff;color:#3a3a3a;}.site-header a{color:#3a3a3a;}.main-title a,.main-title a:hover{color:#222222;}.site-description{color:#757575;}.mobile-menu-control-wrapper .menu-toggle,.mobile-menu-control-wrapper .menu-toggle:hover,.mobile-menu-control-wrapper .menu-toggle:focus,.has-inline-mobile-toggle #site-navigation.toggled{background-color:rgba(0, 0, 0, 0.02);}.main-navigation,.main-navigation ul ul{background-color:#ffffff;}.main-navigation .main-nav ul li a,.menu-toggle, .main-navigation .menu-bar-items{color:#2d2d2d;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:#ed84a0;background-color:#ffffff;}button.menu-toggle:hover,button.menu-toggle:focus{color:#2d2d2d;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ed84a0;background-color:#ffffff;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#ed84a0;background-color:#ffffff;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:#ed84a0;background-color:#ffffff;}.main-navigation ul ul{background-color:#ffffff;}.main-navigation .main-nav ul ul li a{color:#2d2d2d;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#7a8896;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#8f919e;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#8f919e;background-color:#4f4f4f;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:#ffffff;}.entry-title a{color:#0a0a0a;}.entry-meta{color:#b2b2b2;}.entry-meta a{color:#8e8e8e;}.entry-meta a:hover{color:#878787;}.sidebar .widget{background-color:rgba(255,255,255,0.56);}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{color:#ffffff;background-color:#ed84a0;}.footer-widgets a{color:#ffffff;}.footer-widgets a:hover{color:#e5e5e5;}.footer-widgets .widget-title{color:#ffffff;}.site-info{color:#ffffff;background-color:#ed84a0;}.site-info a{color:#ffffff;}.site-info a:hover{color:#e5e5e5;}.footer-bar .widget_nav_menu .current-menu-item a{color:#e5e5e5;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#232323;background-color:#ffffff;border-color:rgba(204,204,204,0.45);}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#0a0a0a;background-color:#ffffff;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ed84a0;background-color:#ffffff;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}@media (max-width: 768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:#2d2d2d;}}.inside-top-bar{padding:10px;}.inside-top-bar.grid-container{max-width:1275px;}.inside-header{padding:40px;}.inside-header.grid-container{max-width:1335px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header, .wp-block-group__inner-container{padding:50px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-50px;width:calc(100% + 100px);max-width:calc(100% + 100px);}.one-container.right-sidebar .site-main,.one-container.both-right .site-main{margin-right:50px;}.one-container.left-sidebar .site-main,.one-container.both-left .site-main{margin-left:50px;}.one-container.both-sidebars .site-main{margin:0px 50px 0px 50px;}.sidebar .widget, .page-header, .widget-area .main-navigation, .site-main > *{margin-bottom:25px;}.separate-containers .site-main{margin:25px;}.both-right .inside-left-sidebar,.both-left .inside-left-sidebar{margin-right:12px;}.both-right .inside-right-sidebar,.both-left .inside-right-sidebar{margin-left:12px;}.one-container.archive .post:not(:last-child), .one-container.blog .post:not(:last-child){padding-bottom:50px;}.separate-containers .featured-image{margin-top:25px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:25px;margin-bottom:25px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{padding-left:25px;padding-right:25px;}.main-navigation .main-nav ul ul li a{padding:10px 25px 10px 25px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:25px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:25px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:25px;}.widget-area .widget{padding:30px;}.footer-widgets-container.grid-container{max-width:1335px;}.inside-site-info{padding:20px;}.inside-site-info.grid-container{max-width:1295px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header, .wp-block-group__inner-container{padding:30px;}.inside-site-info{padding-right:10px;padding-left:10px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}.one-container .site-main .paging-navigation{margin-bottom:25px;}}/* End cached CSS */.is-right-sidebar{width:35%;}.is-left-sidebar{width:25%;}.site-content .content-area{width:65%;}@media (max-width: 768px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}}
+</style>
+<link href="https://thereporterz.com/wp-content/plugins/gp-premium/blog/functions/css/style.min.css?ver=1.12.3" id="generate-blog-css" media="all" rel="stylesheet"/>
+<script id="jquery-core-js" src="https://thereporterz.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1"></script>
+<script id="jquery-migrate-js" src="https://thereporterz.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2"></script>
+<script id="fuser_rndvalues-js" src="https://thereporterz.com/wp-content/plugins/fuser-master/res/js/rndvalues.js?ver=5.7"></script>
+<script id="fuser_loader-js" src="https://thereporterz.com/wp-content/plugins/fuser-master/res/js/reporting.php?ts=1616789458&amp;ver=5.7"></script>
+<link href="https://thereporterz.com/wp-json/" rel="https://api.w.org/"/><link href="https://thereporterz.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://thereporterz.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.7" name="generator"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/> <style id="wp-custom-css">
+			/* GeneratePress Site CSS */ #site-navigation {
+		border-top: 1px solid rgba(0,0,0,0.1);
+		border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"], a.button, a.button:visited {
+	border-width: 1px;
+	border-style: solid;
+	border-color: inherit;
+}
+
+.mc4wp-form-fields input[type="email"] {
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.entry-meta {
+	font-weight: 300;
+	font-size: 13px;
+}
+
+.main-navigation:not(.toggled) li.menu-social > a,
+.main-navigation:not(.toggled) li.search-item > a{
+	padding: 0 10px;
+}
+
+.post-image img {
+	transition: opacity 500ms;
+}
+
+.post-image img:hover {
+	opacity: 0.9;
+}
+
+.no-sidebar .entry-content {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page.no-sidebar .entry-title {
+	text-align: center;
+}
+
+.top-bar .lsi-social-icons a,
+.top-bar .lsi-social-icons a:focus,
+.top-bar .lsi-social-icons a:active,
+.top-bar .lsi-social-icons a:hover {
+    background: transparent !important;
+}
+
+.top-bar .lsi-social-icons li {
+	margin-bottom: 0 !important;
+} /* End GeneratePress Site CSS */		</style>
+<!-- adinplay -->
+<script>
+window.aiptag = window.aiptag || {cmd: []};
+aiptag.cmd.display = aiptag.cmd.display || [];
+
+//CMP tool settings
+aiptag.cmp = {
+	show: false,
+	position: "centered",  //centered, bottom
+	button: true,
+  buttonText: "Privacy settings",
+	buttonPosition: "bottom-left" //bottom-left, bottom-right, top-left, top-right
+}
+
+</script>
+<script async="" src="//api.adinplay.com/libs/aiptag/pub/ICW/thereporterz.com/tag.min.js"></script></link></meta></head>
+<body class="home blog wp-embed-responsive post-image-below-header post-image-aligned-center generate-columns-activated sticky-menu-fade right-sidebar nav-below-header separate-containers nav-search-enabled header-aligned-center dropdown-hover" itemscope="" itemtype="https://schema.org/Blog">
+<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a> <header class="site-header" id="masthead" itemscope="" itemtype="https://schema.org/WPHeader">
+<div class="inside-header grid-container">
+<div class="site-branding">
+<h1 class="main-title" itemprop="headline">
+<a href="https://thereporterz.com/" rel="home">
+						The Reporterz
+					</a>
+</h1>
+</div> </div>
+</header>
+<nav class="main-navigation nav-align-center has-menu-bar-items sub-menu-right" id="site-navigation" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<div class="inside-navigation grid-container">
+<form action="https://thereporterz.com/" class="search-form navigation-search" method="get">
+<input class="search-field" name="s" title="Search" type="search" value=""/>
+</form> <button aria-controls="primary-menu" aria-expanded="false" class="menu-toggle">
+<span class="gp-icon icon-menu-bars"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z"></path>
+</svg><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z"></path>
+</svg></span><span class="mobile-menu">Menu</span> </button>
+<div class="main-nav" id="primary-menu"><ul class="menu sf-menu" id="menu-main"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-28" id="menu-item-28"><a aria-current="page" href="/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27" id="menu-item-27"><a href="https://thereporterz.com/category/news/">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58" id="menu-item-58"><a href="https://thereporterz.com/category/tech/">Tech</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26" id="menu-item-26"><a href="https://thereporterz.com/contact/">Contact</a></li>
+</ul></div><div class="menu-bar-items"><span class="menu-bar-item search-item"><a aria-label="Open Search Bar" href="#"><span class="gp-icon icon-search"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" fill-rule="evenodd"></path>
+</svg><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z"></path>
+</svg></span></a></span></div> </div>
+</nav>
+<div class="site grid-container container hfeed" id="page">
+<div class="site-content" id="content">
+<div class="content-area" id="primary">
+<main class="site-main" id="main">
+<div class="generate-columns-container"><!-- Primis TAG Parameters Description. All values must be ENCODED.
+
+subId :  Sub-Id,
+
+-->
+<div style="width:100%; max-width:600px; padding-bottom:30px; margin:auto;">
+<!-- code from Primis - Kathyblogger -->
+<p id="vc106933"></p>
+<script>
+	var elmtId = 'vc106933';
+	var tagUrl = 'https://live.sekindo.com/live/liveView.php?s=106933&cbuster=%%CACHEBUSTER%%&pubUrl=%%REFERRER_URL_ESC%%&subId=[SUBID_ENCODED]';
+	var utmParams = ['utm_source'];
+	PrimisUtmWrapper = function(d,s,b,p) {
+		this.refUrl = '';
+		this.dUtm   = '';
+		this.d		= d;
+		this.s		= s;
+		this.b		= b.replace('&subId=[SUBID_ENCODED]','');
+		this.params = p;
+		this.setUrl = function() {
+			try {
+				if (window.top == window) {
+					this.refUrl = window.location.href;
+				}
+				else {
+					try {
+						this.refUrl = window.top.location.href;
+					}
+					catch (e2) {
+						this.refUrl = document.referrer;
+					}
+				}
+			}
+			catch(e1) {}
+		}
+		this.setUtm = function() {
+		  var cookievalues = document.cookie;
+		  var cookiestart = cookievalues.search("hattr%22%3A%22");	//search for where subid starts
+		  if (cookiestart > 0) {	//if subid is present
+			cookiestart = cookiestart+14;	//add 14 characters to real start subid
+			var rest = cookievalues.slice(cookiestart);	//set the rest of the cookievalues
+			var cookielength = rest.search("%22");	//search for where subid ends
+			var cookieend = cookiestart+cookielength;	//determine where subid ends
+			var d_utm = cookievalues.substring(cookiestart, cookieend);	//determine subid value
+		  }
+		  this.dUtm = d_utm;
+		}
+		this.setTag = function() {
+			this.setUtm();
+			this.s += '&subId='+this.dUtm;
+			var mElmt, primisElmt = this.d.createElement('script'), ref = this;
+			primisElmt.setAttribute('type', 'text/javascript');
+			primisElmt.setAttribute('async','async');
+			primisElmt.setAttribute('src',  this.s);
+			var elmtInterval = setInterval(function() {
+				mElmt = ref.d.getElementById(ref.b);
+				if (mElmt) {
+					mElmt.parentNode.insertBefore(primisElmt, mElmt.nextSibling);
+					return clearInterval(elmtInterval);
+				}
+			}, 20);
+		}
+	}
+	new PrimisUtmWrapper(document,tagUrl,elmtId,utmParams).setTag();
+</script>
+<!-- code from Primis -->
+</div><article class="post-1288 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-border tag-cross tag-hundreds tag-migrant tag-river tag-usmexico generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-100 featured-column no-featured-image-padding" id="post-1288" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/hundreds-of-migrant-cross-us-mexico-river-border/" rel="bookmark">Hundreds of migrant cross US-Mexico river border</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-26T20:04:29+00:00" itemprop="datePublished">March 26, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/hundreds-of-migrant-cross-us-mexico-river-border/">
+<img alt="230 allege abuse by NH youth center staffers" class="attachment-large size-large wp-post-image" height="1" itemprop="image" loading="lazy" src="https://thereporterz.com/wp-content/uploads/2021/03/usatodaycomnation-topstories.gif" width="1"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>An increasing number of families and children are entering the United States from Mexico to seek asylum. One evening that week, rafts with about 100 people arrived, including families with … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/hundreds-of-migrant-cross-us-mexico-river-border/#more-1288" title="Hundreds of migrant cross US-Mexico river border">Read more<span class="screen-reader-text">Hundreds of migrant cross US-Mexico river border</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/news/" rel="category tag">News</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/border/" rel="tag">border</a>, <a href="https://thereporterz.com/tag/cross/" rel="tag">cross</a>, <a href="https://thereporterz.com/tag/hundreds/" rel="tag">Hundreds</a>, <a href="https://thereporterz.com/tag/migrant/" rel="tag">migrant</a>, <a href="https://thereporterz.com/tag/river/" rel="tag">river</a>, <a href="https://thereporterz.com/tag/usmexico/" rel="tag">USMexico</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/hundreds-of-migrant-cross-us-mexico-river-border/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1285 post type-post status-publish format-standard has-post-thumbnail hentry category-tech tag-lines tag-markets tag-public tag-run tag-techcrunch tag-wework generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1285" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/wework-lines-up-for-a-second-run-at-the-public-markets-techcrunch/" rel="bookmark">WeWork lines up for a second run at the public markets – TechCrunch</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-26T15:41:33+00:00" itemprop="datePublished">March 26, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/wework-lines-up-for-a-second-run-at-the-public-markets-techcrunch/">
+<img alt="WeWork lines up for a second run at the public markets – TechCrunch" class="attachment-large size-large wp-post-image" height="400" itemprop="image" loading="lazy" sizes="(max-width: 533px) 100vw, 533px" src="https://thereporterz.com/wp-content/uploads/2021/03/NSussman_Techcrunch_Exchange_v3-ORNG.jpg" srcset="https://thereporterz.com/wp-content/uploads/2021/03/NSussman_Techcrunch_Exchange_v3-ORNG.jpg 533w, https://thereporterz.com/wp-content/uploads/2021/03/NSussman_Techcrunch_Exchange_v3-ORNG-300x225.jpg 300w" width="533"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Greed is God. At this pointUnless you go public through a direct listing, traditional IPO, or SPAC, are you a high growth company at all? Every CEO I speak to … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/wework-lines-up-for-a-second-run-at-the-public-markets-techcrunch/#more-1285" title="WeWork lines up for a second run at the public markets – TechCrunch">Read more<span class="screen-reader-text">WeWork lines up for a second run at the public markets – TechCrunch</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/tech/" rel="category tag">Tech</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/lines/" rel="tag">lines</a>, <a href="https://thereporterz.com/tag/markets/" rel="tag">markets</a>, <a href="https://thereporterz.com/tag/public/" rel="tag">Public</a>, <a href="https://thereporterz.com/tag/run/" rel="tag">run</a>, <a href="https://thereporterz.com/tag/techcrunch/" rel="tag">TechCrunch</a>, <a href="https://thereporterz.com/tag/wework/" rel="tag">WeWork</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/wework-lines-up-for-a-second-run-at-the-public-markets-techcrunch/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1282 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-accuses tag-defamation tag-dominion tag-fox tag-lawsuit tag-live tag-news tag-updates generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1282" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/dominion-accuses-fox-news-of-defamation-in-a-lawsuit-live-updates/" rel="bookmark">Dominion Accuses Fox News of Defamation in a Lawsuit: Live Updates</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-26T13:03:39+00:00" itemprop="datePublished">March 26, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/dominion-accuses-fox-news-of-defamation-in-a-lawsuit-live-updates/">
+<img alt="Dominion Accuses Fox News of Defamation in a Lawsuit: Live Updates" class="attachment-large size-large wp-post-image" height="427" itemprop="image" loading="lazy" sizes="(max-width: 815px) 100vw, 815px" src="https://thereporterz.com/wp-content/uploads/2021/03/merlin_183146700_4771578b-7a44-4e8e-862e-39775eb4c8a9-facebookJumbo-1024x536.jpg" srcset="https://thereporterz.com/wp-content/uploads/2021/03/merlin_183146700_4771578b-7a44-4e8e-862e-39775eb4c8a9-facebookJumbo-1024x536.jpg 1024w, https://thereporterz.com/wp-content/uploads/2021/03/merlin_183146700_4771578b-7a44-4e8e-862e-39775eb4c8a9-facebookJumbo-300x157.jpg 300w, https://thereporterz.com/wp-content/uploads/2021/03/merlin_183146700_4771578b-7a44-4e8e-862e-39775eb4c8a9-facebookJumbo-768x402.jpg 768w, https://thereporterz.com/wp-content/uploads/2021/03/merlin_183146700_4771578b-7a44-4e8e-862e-39775eb4c8a9-facebookJumbo.jpg 1050w" width="815"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Here’s what you need to know: The Fox New headquarters in Manhattan.Credit…Carlo Allegri/Reuters Fox News and its powerful owner, Rupert Murdoch, are facing a second major defamation suit over its … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/dominion-accuses-fox-news-of-defamation-in-a-lawsuit-live-updates/#more-1282" title="Dominion Accuses Fox News of Defamation in a Lawsuit: Live Updates">Read more<span class="screen-reader-text">Dominion Accuses Fox News of Defamation in a Lawsuit: Live Updates</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/news/" rel="category tag">News</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/accuses/" rel="tag">accuses</a>, <a href="https://thereporterz.com/tag/defamation/" rel="tag">Defamation</a>, <a href="https://thereporterz.com/tag/dominion/" rel="tag">Dominion</a>, <a href="https://thereporterz.com/tag/fox/" rel="tag">Fox</a>, <a href="https://thereporterz.com/tag/lawsuit/" rel="tag">lawsuit</a>, <a href="https://thereporterz.com/tag/live/" rel="tag">Live</a>, <a href="https://thereporterz.com/tag/news/" rel="tag">News</a>, <a href="https://thereporterz.com/tag/updates/" rel="tag">Updates</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/dominion-accuses-fox-news-of-defamation-in-a-lawsuit-live-updates/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1279 post type-post status-publish format-standard has-post-thumbnail hentry category-tech tag-drakos tag-drifting tag-ice tag-lake tag-million tag-supercar generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1279" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/drakos-1-2-million-ev-supercar-goes-drifting-on-an-ice-lake/" rel="bookmark">Drako’s $1.2 million EV supercar goes drifting on an ice lake</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-26T09:40:53+00:00" itemprop="datePublished">March 26, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/drakos-1-2-million-ev-supercar-goes-drifting-on-an-ice-lake/">
+<img alt="Steve Dent" class="attachment-large size-large wp-post-image" height="428" itemprop="image" loading="lazy" sizes="(max-width: 815px) 100vw, 815px" src="https://thereporterz.com/wp-content/uploads/2021/03/d927dad0-8e14-11eb-b97a-b7ace7c960a8-1024x538.jpeg" srcset="https://thereporterz.com/wp-content/uploads/2021/03/d927dad0-8e14-11eb-b97a-b7ace7c960a8-1024x538.jpeg 1024w, https://thereporterz.com/wp-content/uploads/2021/03/d927dad0-8e14-11eb-b97a-b7ace7c960a8-300x158.jpeg 300w, https://thereporterz.com/wp-content/uploads/2021/03/d927dad0-8e14-11eb-b97a-b7ace7c960a8-768x403.jpeg 768w, https://thereporterz.com/wp-content/uploads/2021/03/d927dad0-8e14-11eb-b97a-b7ace7c960a8.jpeg 1200w" width="815"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Supercars are powerful, close to the ground and fat, and usually not the best vehicles on ice and snow. However, Drako Motors has just shown that its GTE super sports … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/drakos-1-2-million-ev-supercar-goes-drifting-on-an-ice-lake/#more-1279" title="Drako’s $1.2 million EV supercar goes drifting on an ice lake">Read more<span class="screen-reader-text">Drako’s $1.2 million EV supercar goes drifting on an ice lake</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/tech/" rel="category tag">Tech</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/drakos/" rel="tag">Drakos</a>, <a href="https://thereporterz.com/tag/drifting/" rel="tag">drifting</a>, <a href="https://thereporterz.com/tag/ice/" rel="tag">ice</a>, <a href="https://thereporterz.com/tag/lake/" rel="tag">lake</a>, <a href="https://thereporterz.com/tag/million/" rel="tag">million</a>, <a href="https://thereporterz.com/tag/supercar/" rel="tag">supercar</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/drakos-1-2-million-ev-supercar-goes-drifting-on-an-ice-lake/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1276 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-cnn tag-printers tag-underscored generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1276" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/best-printers-of-2021-cnn-underscored/" rel="bookmark">Best Printers of 2021 – CNN Underscored</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-26T06:01:21+00:00" itemprop="datePublished">March 26, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/best-printers-of-2021-cnn-underscored/">
+<img alt="Best Printers of 2021 - CNN Underscored" class="attachment-large size-large wp-post-image" height="458" itemprop="image" loading="lazy" sizes="(max-width: 815px) 100vw, 815px" src="https://thereporterz.com/wp-content/uploads/2021/03/210325171714-underscored-best-printers-lead-super-169-1024x576.jpg" srcset="https://thereporterz.com/wp-content/uploads/2021/03/210325171714-underscored-best-printers-lead-super-169-1024x576.jpg 1024w, https://thereporterz.com/wp-content/uploads/2021/03/210325171714-underscored-best-printers-lead-super-169-300x169.jpg 300w, https://thereporterz.com/wp-content/uploads/2021/03/210325171714-underscored-best-printers-lead-super-169-768x432.jpg 768w, https://thereporterz.com/wp-content/uploads/2021/03/210325171714-underscored-best-printers-lead-super-169.jpg 1100w" width="815"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>(CNN) —   Printers have gotten more feature-filled and affordable over the past few years, as the once massive all-in-one units (print, copy and scan) have gotten more and more … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/best-printers-of-2021-cnn-underscored/#more-1276" title="Best Printers of 2021 – CNN Underscored">Read more<span class="screen-reader-text">Best Printers of 2021 – CNN Underscored</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/news/" rel="category tag">News</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/cnn/" rel="tag">CNN</a>, <a href="https://thereporterz.com/tag/printers/" rel="tag">Printers</a>, <a href="https://thereporterz.com/tag/underscored/" rel="tag">Underscored</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/best-printers-of-2021-cnn-underscored/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1273 post type-post status-publish format-standard has-post-thumbnail hentry category-tech tag-bounce tag-city tag-community tag-covid tag-discuss tag-downtown tag-leaders tag-rebound tag-seattle generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1273" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/can-downtown-seattle-bounce-back-community-leaders-discuss-how-city-can-rebound-after-covid/" rel="bookmark">Can downtown Seattle bounce back? Community leaders discuss how city can rebound after COVID</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-26T03:39:18+00:00" itemprop="datePublished">March 26, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/can-downtown-seattle-bounce-back-community-leaders-discuss-how-city-can-rebound-after-covid/">
+<img alt="Can downtown Seattle bounce back? Community leaders discuss how city can rebound after COVID" class="attachment-large size-large wp-post-image" height="462" itemprop="image" loading="lazy" sizes="(max-width: 815px) 100vw, 815px" src="https://thereporterz.com/wp-content/uploads/2021/03/image-1-1024x581.png" srcset="https://thereporterz.com/wp-content/uploads/2021/03/image-1-1024x581.png 1024w, https://thereporterz.com/wp-content/uploads/2021/03/image-1-300x170.png 300w, https://thereporterz.com/wp-content/uploads/2021/03/image-1-768x436.png 768w, https://thereporterz.com/wp-content/uploads/2021/03/image-1.png 1354w" width="815"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Panelists at GeekWire’s Civic Conversations event Thursday, clockwise from top left: Gordon McHenry Jr., United Way King County CEO; Chris Gregoire, CEO of Challenge Seattle and former Governor of Washington … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/can-downtown-seattle-bounce-back-community-leaders-discuss-how-city-can-rebound-after-covid/#more-1273" title="Can downtown Seattle bounce back? Community leaders discuss how city can rebound after COVID">Read more<span class="screen-reader-text">Can downtown Seattle bounce back? Community leaders discuss how city can rebound after COVID</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/tech/" rel="category tag">Tech</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/bounce/" rel="tag">bounce</a>, <a href="https://thereporterz.com/tag/city/" rel="tag">City</a>, <a href="https://thereporterz.com/tag/community/" rel="tag">community</a>, <a href="https://thereporterz.com/tag/covid/" rel="tag">COVID</a>, <a href="https://thereporterz.com/tag/discuss/" rel="tag">discuss</a>, <a href="https://thereporterz.com/tag/downtown/" rel="tag">downtown</a>, <a href="https://thereporterz.com/tag/leaders/" rel="tag">leaders</a>, <a href="https://thereporterz.com/tag/rebound/" rel="tag">rebound</a>, <a href="https://thereporterz.com/tag/seattle/" rel="tag">Seattle</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/can-downtown-seattle-bounce-back-community-leaders-discuss-how-city-can-rebound-after-covid/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1270 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-house tag-plans tag-share tag-vaccine tag-white generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1270" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/us-plans-to-share-vaccine-but-not-yet-white-house-says/" rel="bookmark">US plans to share vaccine – but not yet, White House says</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-25T23:00:31+00:00" itemprop="datePublished">March 25, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/us-plans-to-share-vaccine-but-not-yet-white-house-says/">
+<img alt="FEMA Regional Administrator Gracie Szczech, center, takes Vice President Kamala Harris on a tour of the Jacksonville Community Vaccination Center in Florida, where Navy members prepare Pfizer vaccines on March 22nd." class="attachment-large size-large wp-post-image" height="444" itemprop="image" loading="lazy" sizes="(max-width: 660px) 100vw, 660px" src="https://thereporterz.com/wp-content/uploads/2021/03/9a5257d3-8882-4a60-8523-f1f0048379b6-AP_Harris.jpg" srcset="https://thereporterz.com/wp-content/uploads/2021/03/9a5257d3-8882-4a60-8523-f1f0048379b6-AP_Harris.jpg 660w, https://thereporterz.com/wp-content/uploads/2021/03/9a5257d3-8882-4a60-8523-f1f0048379b6-AP_Harris-300x202.jpg 300w" width="660"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>The White House defended its first COVID-19 vaccination strategy in America this week. She described them as justified because of the terrible outbreak in the country and promised to exchange … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/us-plans-to-share-vaccine-but-not-yet-white-house-says/#more-1270" title="US plans to share vaccine – but not yet, White House says">Read more<span class="screen-reader-text">US plans to share vaccine – but not yet, White House says</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/news/" rel="category tag">News</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/house/" rel="tag">House</a>, <a href="https://thereporterz.com/tag/plans/" rel="tag">plans</a>, <a href="https://thereporterz.com/tag/share/" rel="tag">share</a>, <a href="https://thereporterz.com/tag/vaccine/" rel="tag">vaccine</a>, <a href="https://thereporterz.com/tag/white/" rel="tag">White</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/us-plans-to-share-vaccine-but-not-yet-white-house-says/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1267 post type-post status-publish format-standard has-post-thumbnail hentry category-tech tag-busted tag-ceo tag-congressional tag-dorsey tag-hearing tag-jack tag-techcrunch tag-tweeting tag-twitter generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1267" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/twitter-ceo-jack-dorsey-busted-for-tweeting-during-congressional-hearing-techcrunch/" rel="bookmark">Twitter CEO Jack Dorsey busted for tweeting during congressional hearing – TechCrunch</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-25T21:38:28+00:00" itemprop="datePublished">March 25, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/twitter-ceo-jack-dorsey-busted-for-tweeting-during-congressional-hearing-techcrunch/">
+<img alt="Twitter CEO Jack Dorsey busted for tweeting during congressional hearing – TechCrunch" class="attachment-large size-large wp-post-image" height="400" itemprop="image" loading="lazy" sizes="(max-width: 695px) 100vw, 695px" src="https://thereporterz.com/wp-content/uploads/2021/03/twitter-app-icon-ios.jpg" srcset="https://thereporterz.com/wp-content/uploads/2021/03/twitter-app-icon-ios.jpg 695w, https://thereporterz.com/wp-content/uploads/2021/03/twitter-app-icon-ios-300x173.jpg 300w" width="695"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Jack Dorsey, CEO of Twitter, was called on by Rep. Kathleen Rice (D-NY) for tweeting during today’s Congressional hearing on disinformation and extremism. The tech manager’s tweet likely expressed frustration … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/twitter-ceo-jack-dorsey-busted-for-tweeting-during-congressional-hearing-techcrunch/#more-1267" title="Twitter CEO Jack Dorsey busted for tweeting during congressional hearing – TechCrunch">Read more<span class="screen-reader-text">Twitter CEO Jack Dorsey busted for tweeting during congressional hearing – TechCrunch</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/tech/" rel="category tag">Tech</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/busted/" rel="tag">busted</a>, <a href="https://thereporterz.com/tag/ceo/" rel="tag">CEO</a>, <a href="https://thereporterz.com/tag/congressional/" rel="tag">Congressional</a>, <a href="https://thereporterz.com/tag/dorsey/" rel="tag">Dorsey</a>, <a href="https://thereporterz.com/tag/hearing/" rel="tag">hearing</a>, <a href="https://thereporterz.com/tag/jack/" rel="tag">Jack</a>, <a href="https://thereporterz.com/tag/techcrunch/" rel="tag">TechCrunch</a>, <a href="https://thereporterz.com/tag/tweeting/" rel="tag">tweeting</a>, <a href="https://thereporterz.com/tag/twitter/" rel="tag">Twitter</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/twitter-ceo-jack-dorsey-busted-for-tweeting-during-congressional-hearing-techcrunch/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1264 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-blocking tag-canal tag-days tag-free tag-giant tag-ship tag-suez tag-weeks generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1264" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/giant-ship-blocking-suez-canal-could-take-days-even-weeks-to-free/" rel="bookmark">Giant Ship Blocking Suez Canal Could Take ‘Days, Even Weeks’ to Free</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-25T15:59:32+00:00" itemprop="datePublished">March 25, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/giant-ship-blocking-suez-canal-could-take-days-even-weeks-to-free/">
+<img alt="Giant Ship Blocking Suez Canal Could Take ‘Days, Even Weeks’ to Free" class="attachment-large size-large wp-post-image" height="426" itemprop="image" loading="lazy" sizes="(max-width: 815px) 100vw, 815px" src="https://thereporterz.com/wp-content/uploads/2021/03/25suez-ship-add1-facebookJumbo-v2-1024x535.jpg" srcset="https://thereporterz.com/wp-content/uploads/2021/03/25suez-ship-add1-facebookJumbo-v2-1024x535.jpg 1024w, https://thereporterz.com/wp-content/uploads/2021/03/25suez-ship-add1-facebookJumbo-v2-300x157.jpg 300w, https://thereporterz.com/wp-content/uploads/2021/03/25suez-ship-add1-facebookJumbo-v2-768x402.jpg 768w, https://thereporterz.com/wp-content/uploads/2021/03/25suez-ship-add1-facebookJumbo-v2.jpg 1050w" width="815"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>CAIRO – As tugs against the weight of the mammoth ship and dredgers worked on sand and mud, a salvage company working on the operation warned Thursday that the release … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/giant-ship-blocking-suez-canal-could-take-days-even-weeks-to-free/#more-1264" title="Giant Ship Blocking Suez Canal Could Take ‘Days, Even Weeks’ to Free">Read more<span class="screen-reader-text">Giant Ship Blocking Suez Canal Could Take ‘Days, Even Weeks’ to Free</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/news/" rel="category tag">News</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/blocking/" rel="tag">Blocking</a>, <a href="https://thereporterz.com/tag/canal/" rel="tag">Canal</a>, <a href="https://thereporterz.com/tag/days/" rel="tag">days</a>, <a href="https://thereporterz.com/tag/free/" rel="tag">free</a>, <a href="https://thereporterz.com/tag/giant/" rel="tag">giant</a>, <a href="https://thereporterz.com/tag/ship/" rel="tag">Ship</a>, <a href="https://thereporterz.com/tag/suez/" rel="tag">Suez</a>, <a href="https://thereporterz.com/tag/weeks/" rel="tag">Weeks</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/giant-ship-blocking-suez-canal-could-take-days-even-weeks-to-free/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<article class="post-1261 post type-post status-publish format-standard has-post-thumbnail hentry category-tech tag-12pm tag-ceos tag-congress tag-facebook tag-googles tag-grill tag-twitter tag-watch generate-columns tablet-grid-50 mobile-grid-100 grid-parent grid-50 no-featured-image-padding" id="post-1261" itemscope="" itemtype="https://schema.org/CreativeWork">
+<div class="inside-article">
+<header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://thereporterz.com/watch-congress-grill-facebook-twitter-and-googles-ceos-at-12pm-et/" rel="bookmark">Watch Congress grill Facebook, Twitter and Google’s CEOs at 12PM ET</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2021-03-25T15:37:21+00:00" itemprop="datePublished">March 25, 2021</time></span> <span class="byline">by <span class="author vcard" itemprop="author" itemscope="" itemtype="https://schema.org/Person"><a class="url fn n" href="https://thereporterz.com/author/admin/" itemprop="url" rel="author" title="View all posts by admin"><span class="author-name" itemprop="name">admin</span></a></span></span> </div>
+</header>
+<div class="post-image">
+<a href="https://thereporterz.com/watch-congress-grill-facebook-twitter-and-googles-ceos-at-12pm-et/">
+<img alt="Karissa Bell" class="attachment-large size-large wp-post-image" height="544" itemprop="image" loading="lazy" sizes="(max-width: 815px) 100vw, 815px" src="https://thereporterz.com/wp-content/uploads/2021/03/b3296b30-8cfe-11eb-bffd-c38d256d26fc-1024x683.jpeg" srcset="https://thereporterz.com/wp-content/uploads/2021/03/b3296b30-8cfe-11eb-bffd-c38d256d26fc-1024x683.jpeg 1024w, https://thereporterz.com/wp-content/uploads/2021/03/b3296b30-8cfe-11eb-bffd-c38d256d26fc-300x200.jpeg 300w, https://thereporterz.com/wp-content/uploads/2021/03/b3296b30-8cfe-11eb-bffd-c38d256d26fc-768x512.jpeg 768w, https://thereporterz.com/wp-content/uploads/2021/03/b3296b30-8cfe-11eb-bffd-c38d256d26fc-1536x1024.jpeg 1536w, https://thereporterz.com/wp-content/uploads/2021/03/b3296b30-8cfe-11eb-bffd-c38d256d26fc-2048x1365.jpeg 2048w" width="815"/>
+</a>
+</div>
+<div class="entry-summary" itemprop="text">
+<p>Another day, another hour-long congressional hearing with technical CEOs. Mark Zuckerberg, Jack Dorsey and Sundar Pichai will testify at a House Energy and Commerce Committee hearing where they will have … </p>
+<p class="read-more-container"><a class="read-more button" href="https://thereporterz.com/watch-congress-grill-facebook-twitter-and-googles-ceos-at-12pm-et/#more-1261" title="Watch Congress grill Facebook, Twitter and Google’s CEOs at 12PM ET">Read more<span class="screen-reader-text">Watch Congress grill Facebook, Twitter and Google’s CEOs at 12PM ET</span></a></p>
+</div>
+<footer class="entry-meta">
+<span class="cat-links"><span class="gp-icon icon-categories"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0 1 43.592 27.907l12.349 26.791A16 16 0 0 0 228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Categories </span><a href="https://thereporterz.com/category/tech/" rel="category tag">Tech</a></span> <span class="tags-links"><span class="gp-icon icon-tags"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M20 39.5c-8.836 0-16 7.163-16 16v176c0 4.243 1.686 8.313 4.687 11.314l224 224c6.248 6.248 16.378 6.248 22.626 0l176-176c6.244-6.244 6.25-16.364.013-22.615l-223.5-224A15.999 15.999 0 0 0 196.5 39.5H20zm56 96c0-13.255 10.745-24 24-24s24 10.745 24 24-10.745 24-24 24-24-10.745-24-24z"></path>
+<path d="M259.515 43.015c4.686-4.687 12.284-4.687 16.97 0l228 228c4.686 4.686 4.686 12.284 0 16.97l-180 180c-4.686 4.687-12.284 4.687-16.97 0-4.686-4.686-4.686-12.284 0-16.97L479.029 279.5 259.515 59.985c-4.686-4.686-4.686-12.284 0-16.97z" fill-rule="nonzero"></path>
+</svg></span><span class="screen-reader-text">Tags </span><a href="https://thereporterz.com/tag/12pm/" rel="tag">12PM</a>, <a href="https://thereporterz.com/tag/ceos/" rel="tag">CEOs</a>, <a href="https://thereporterz.com/tag/congress/" rel="tag">Congress</a>, <a href="https://thereporterz.com/tag/facebook/" rel="tag">Facebook</a>, <a href="https://thereporterz.com/tag/googles/" rel="tag">Googles</a>, <a href="https://thereporterz.com/tag/grill/" rel="tag">grill</a>, <a href="https://thereporterz.com/tag/twitter/" rel="tag">Twitter</a>, <a href="https://thereporterz.com/tag/watch/" rel="tag">WATCH</a></span> <span class="comments-link"><span class="gp-icon icon-comments"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M132.838 329.973a435.298 435.298 0 0 0 16.769-9.004c13.363-7.574 26.587-16.142 37.419-25.507 7.544.597 15.27.925 23.098.925 54.905 0 105.634-15.311 143.285-41.28 23.728-16.365 43.115-37.692 54.155-62.645 54.739 22.205 91.498 63.272 91.498 110.286 0 42.186-29.558 79.498-75.09 102.828 23.46 49.216 75.09 101.709 75.09 101.709s-115.837-38.35-154.424-78.46c-9.956 1.12-20.297 1.758-30.793 1.758-88.727 0-162.927-43.071-181.007-100.61z" fill-rule="nonzero"></path>
+<path d="M383.371 132.502c0 70.603-82.961 127.787-185.216 127.787-10.496 0-20.837-.639-30.793-1.757-38.587 40.093-154.424 78.429-154.424 78.429s51.63-52.472 75.09-101.67c-45.532-23.321-75.09-60.619-75.09-102.79C12.938 61.9 95.9 4.716 198.155 4.716 300.41 4.715 383.37 61.9 383.37 132.502z" fill-rule="nonzero"></path>
+</svg></span><a href="https://thereporterz.com/watch-congress-grill-facebook-twitter-and-googles-ceos-at-12pm-et/#respond">Leave a comment</a></span> </footer>
+</div>
+</article>
+<nav class="paging-navigation" id="nav-below">
+<span class="screen-reader-text">Post navigation</span>
+<div class="nav-previous">
+<span class="gp-icon icon-arrow"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 330 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M305.913 197.085c0 2.266-1.133 4.815-2.833 6.514L171.087 335.593c-1.7 1.7-4.249 2.832-6.515 2.832s-4.815-1.133-6.515-2.832L26.064 203.599c-1.7-1.7-2.832-4.248-2.832-6.514s1.132-4.816 2.832-6.515l14.162-14.163c1.7-1.699 3.966-2.832 6.515-2.832 2.266 0 4.815 1.133 6.515 2.832l111.316 111.317 111.316-111.317c1.7-1.699 4.249-2.832 6.515-2.832s4.815 1.133 6.515 2.832l14.162 14.163c1.7 1.7 2.833 4.249 2.833 6.515z" fill-rule="nonzero"></path>
+</svg></span> <span class="prev" title="Previous"><a href="https://thereporterz.com/page/2/">Older posts</a></span>
+</div>
+<div class="nav-links"><span aria-current="page" class="page-numbers current"><span class="screen-reader-text">Page</span>1</span>
+<a class="page-numbers" href="https://thereporterz.com/page/2/"><span class="screen-reader-text">Page</span>2</a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="https://thereporterz.com/page/44/"><span class="screen-reader-text">Page</span>44</a>
+<a class="next page-numbers" href="https://thereporterz.com/page/2/">Next <span aria-hidden="true">→</span></a></div> </nav>
+</div><!-- .generate-columns-contaier --> </main>
+</div>
+<div class="widget-area sidebar is-right-sidebar" id="right-sidebar" itemscope="" itemtype="https://schema.org/WPSideBar">
+<div class="inside-right-sidebar">
+<aside class="widget inner-padding widget_search" id="search-2"><form action="https://thereporterz.com/" class="search-form" method="get">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input class="search-field" name="s" placeholder="Search …" title="Search for:" type="search" value=""/>
+</label>
+<button aria-label="Search" class="search-submit"><span class="gp-icon icon-search"><svg aria-hidden="true" height="1em" role="img" version="1.1" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" fill-rule="evenodd"></path>
+</svg></span></button></form>
+</aside><aside class="widget inner-padding ai_widget" id="ai_widget-2"><div class="code-block code-block-2" style="margin: 8px 0; clear: both;">
+<!-- adinplay -->
+<div id="thereporterz-com_300x250">
+<script type="text/javascript">
+		aiptag.cmd.display.push(function() { aipDisplayTag.display('thereporterz-com_300x250'); });
+	</script>
+</div></div>
+</aside>
+<aside class="widget inner-padding widget_recent_entries" id="recent-posts-2">
+<h2 class="widget-title">Recent Posts</h2>
+<ul>
+<li>
+<a href="https://thereporterz.com/hundreds-of-migrant-cross-us-mexico-river-border/">Hundreds of migrant cross US-Mexico river border</a>
+</li>
+<li>
+<a href="https://thereporterz.com/wework-lines-up-for-a-second-run-at-the-public-markets-techcrunch/">WeWork lines up for a second run at the public markets – TechCrunch</a>
+</li>
+<li>
+<a href="https://thereporterz.com/dominion-accuses-fox-news-of-defamation-in-a-lawsuit-live-updates/">Dominion Accuses Fox News of Defamation in a Lawsuit: Live Updates</a>
+</li>
+<li>
+<a href="https://thereporterz.com/drakos-1-2-million-ev-supercar-goes-drifting-on-an-ice-lake/">Drako’s $1.2 million EV supercar goes drifting on an ice lake</a>
+</li>
+<li>
+<a href="https://thereporterz.com/best-printers-of-2021-cnn-underscored/">Best Printers of 2021 – CNN Underscored</a>
+</li>
+</ul>
+</aside><aside class="widget inner-padding ai_widget ai-sticky-widget" id="ai_widget-3"><div class="code-block code-block-3" style="margin: 8px 0; clear: both;">
+<!-- adinplay -->
+<div id="thereporterz-com_300x600">
+<script type="text/javascript">
+		aiptag.cmd.display.push(function() { aipDisplayTag.display('thereporterz-com_300x600'); });
+	</script>
+</div></div>
+</aside> </div>
+</div>
+</div>
+</div>
+<div class="site-footer footer-bar-active footer-bar-align-center">
+<footer class="site-info" itemscope="" itemtype="https://schema.org/WPFooter">
+<div class="inside-site-info grid-container">
+<div class="footer-bar">
+<aside class="widget inner-padding widget_nav_menu" id="nav_menu-2"><div class="menu-footer-container"><ul class="menu" id="menu-footer"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-24" id="menu-item-24"><a href="https://thereporterz.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25" id="menu-item-25"><a href="https://thereporterz.com/contact/">Contact</a></li>
+</ul></div></aside> </div>
+<div class="copyright-bar">
+					© 2021 - the Reporterz . com				</div>
+</div>
+</footer>
+</div>
+<script id="wp-polyfill-js" src="https://thereporterz.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4"></script>
+<script id="wp-polyfill-js-after">
+( 'fetch' in window ) || document.write( '<script src="https://thereporterz.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://thereporterz.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://thereporterz.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://thereporterz.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://thereporterz.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://thereporterz.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://thereporterz.com/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script id="wp-hooks-js" src="https://thereporterz.com/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1"></script>
+<script id="wp-i18n-js" src="https://thereporterz.com/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="lodash-js" src="https://thereporterz.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19"></script>
+<script id="lodash-js-after">
+window.lodash = _.noConflict();
+</script>
+<script id="wp-url-js" src="https://thereporterz.com/wp-includes/js/dist/url.min.js?ver=0ac7e0472c46121366e7ce07244be1ac"></script>
+<script id="wp-api-fetch-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script id="wp-api-fetch-js" src="https://thereporterz.com/wp-includes/js/dist/api-fetch.min.js?ver=a783d1f442d2abefc7d6dbd156a44561"></script>
+<script id="wp-api-fetch-js-after">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://thereporterz.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "3ab911e150" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://thereporterz.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = [];
+</script>
+<script id="contact-form-7-js" src="https://thereporterz.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4"></script>
+<!--[if lte IE 11]>
+<script src='https://thereporterz.com/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.0.3' id='generate-classlist-js'></script>
+<![endif]-->
+<script id="generate-main-js-extra">
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script id="generate-main-js" src="https://thereporterz.com/wp-content/themes/generatepress/assets/js/main.min.js?ver=3.0.3"></script>
+<script id="generate-navigation-search-js-extra">
+var generatepressNavSearch = {"open":"Open Search Bar","close":"Close Search Bar"};
+</script>
+<script id="generate-navigation-search-js" src="https://thereporterz.com/wp-content/themes/generatepress/assets/js/navigation-search.min.js?ver=3.0.3"></script>
+<script id="wp-embed-js" src="https://thereporterz.com/wp-includes/js/wp-embed.min.js?ver=5.7"></script>
+<script>
+/* <![CDATA[ */
+ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","visible":"VISIBLE","hidden":"HIDDEN","fallback":"FALLBACK","automatically_placed":"Automatically placed by AdSense Auto ads code","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR"};
+/* ]]> */
+function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e<<16|h<<8|k;e=63&d>>18;h=63&d>>12;k=63&d>>6;d&=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c<
+a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g<<6)+b,e+=6;8<=e;)((l=255&g>>>(e-=8))||d-2>c)&&(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
+b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
+function ai_run_scripts(){jQuery(document).ready(function(m){var d=function(c){var d=0,h=15,k=c(document).width();c(".ai-sticky-widget").each(function(){for(var b=c(this),l=b.width(),e=!1,a=b.parent();"BODY"!=a.prop("tagName");){if(a.hasClass("theiaStickySidebar")){e=!0;break}var f=a.parent(),g=f.width();if(g>1.2*l||g>k/2)break;a=f}e||(b=a.offset().top-b.offset().top+h,0==d?("sticky"!=a.css("position")||isNaN(parseInt(a.css("top")))||a.css("top")<b)&&a.css("position",
+"sticky").css("position","-webkit-sticky").css("top",b):a.theiaStickySidebar({additionalMarginTop:b,sidebarBehavior:"stick-to-top"}))})};"undefined"==typeof ai_sticky_sidebar_delay&&(ai_sticky_sidebar_delay=20);setTimeout(function(){d(jQuery)},ai_sticky_sidebar_delay)});
+(function(a){if("function"===typeof define&&define.amd){define(a);var c=!0}"object"===typeof exports&&(module.exports=a(),c=!0);if(!c){var e=window.Cookies,b=window.Cookies=a();b.noConflict=function(){window.Cookies=e;return b}}})(function(){function a(){for(var e=0,b={};e<arguments.length;e++){var f=arguments[e],d;for(d in f)b[d]=f[d]}return b}function c(e){function b(){}function f(h,k,g){if("undefined"!==typeof document){g=a({path:"/"},b.defaults,g);"number"===typeof g.expires&&(g.expires=new Date(1*
+new Date+864E5*g.expires));g.expires=g.expires?g.expires.toUTCString():"";try{var l=JSON.stringify(k);/^[\{\[]/.test(l)&&(k=l)}catch(p){}k=e.write?e.write(k,h):encodeURIComponent(String(k)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);h=encodeURIComponent(String(h)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);l="";for(var n in g)g[n]&&(l+="; "+n,!0!==g[n]&&(l+="="+g[n].split(";")[0]));return document.cookie=h+"="+k+l}}
+function d(h,k){if("undefined"!==typeof document){for(var g={},l=document.cookie?document.cookie.split("; "):[],n=0;n<l.length;n++){var p=l[n].split("="),m=p.slice(1).join("=");k||'"'!==m.charAt(0)||(m=m.slice(1,-1));try{var q=p[0].replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);m=(e.read||e)(m,q)||m.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);if(k)try{m=JSON.parse(m)}catch(r){}g[q]=m;if(h===q)break}catch(r){}}return h?g[h]:g}}b.set=f;b.get=function(h){return d(h,!1)};b.getJSON=function(h){return d(h,
+!0)};b.remove=function(h,k){f(h,"",a(k,{expires:-1}))};b.defaults={};b.withConverter=c;return b}return c(function(){})});AiCookies=Cookies.noConflict();
+ai_check_block=function(a){if(null==a)return!0;var c=AiCookies.getJSON("aiBLOCKS");ai_debug_cookie_status="";null==c&&(c={});"undefined"!==typeof ai_delay_showing_pageviews&&(c.hasOwnProperty(a)||(c[a]={}),c[a].hasOwnProperty("d")||(c[a].d=ai_delay_showing_pageviews));if(c.hasOwnProperty(a)){for(var e in c[a]){if("x"==e){var b="",f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);var d=new Date;d=c[a][e]-
+Math.round(d.getTime()/1E3);if(0<d&&f==b)return ai_debug_cookie_status=a="closed for "+d+" s = "+Math.round(1E4*d/3600/24)/1E4+" days",!1;ai_set_cookie(a,"x","");c[a].hasOwnProperty("i")||c[a].hasOwnProperty("c")||ai_set_cookie(a,"h","")}else if("d"==e){if(0!=c[a][e])return ai_debug_cookie_status=a="delayed for "+c[a][e]+" pageviews",!1}else if("i"==e){b="";f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);
+if(0==c[a][e]&&f==b)return ai_debug_cookie_status=a="max impressions reached",!1;if(0>c[a][e]&&f==b){d=new Date;d=-c[a][e]-Math.round(d.getTime()/1E3);if(0<d)return ai_debug_cookie_status=a="max imp. reached ("+Math.round(1E4*d/24/3600)/1E4+" days = "+d+" s)",!1;ai_set_cookie(a,"i","");c[a].hasOwnProperty("c")||c[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("ipt"==e&&0==c[a][e]&&(d=new Date,b=Math.round(d.getTime()/1E3),d=c[a].it-b,0<d))return ai_debug_cookie_status=a="max imp. per time reached ("+
+Math.round(1E4*d/24/3600)/1E4+" days = "+d+" s)",!1;if("c"==e){b="";f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);if(0==c[a][e]&&f==b)return ai_debug_cookie_status=a="max clicks reached",!1;if(0>c[a][e]&&f==b){d=new Date;d=-c[a][e]-Math.round(d.getTime()/1E3);if(0<d)return ai_debug_cookie_status=a="max clicks reached ("+Math.round(1E4*d/24/3600)/1E4+" days = "+d+" s)",!1;ai_set_cookie(a,"c","");c[a].hasOwnProperty("i")||
+c[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("cpt"==e&&0==c[a][e]&&(d=new Date,b=Math.round(d.getTime()/1E3),d=c[a].ct-b,0<d))return ai_debug_cookie_status=a="max clicks per time reached ("+Math.round(1E4*d/24/3600)/1E4+" days = "+d+" s)",!1}if(c.hasOwnProperty("G")&&c.G.hasOwnProperty("cpt")&&0==c.G.cpt&&(d=new Date,b=Math.round(d.getTime()/1E3),d=c.G.ct-b,0<d))return ai_debug_cookie_status=a="max global clicks per time reached ("+Math.round(1E4*d/24/3600)/1E4+" days = "+d+" s)",!1}ai_debug_cookie_status=
+"OK";return!0};
+ai_check_and_insert_block=function(a,c){if(null==a)return!0;var e=document.getElementsByClassName(c);if(e.length){e=e[0];var b=e.closest(".code-block");if(ai_check_block(a)){if(ai_insert_code(e),b){var f=b.querySelectorAll(".ai-debug-block");b&&f.length&&(b.classList.remove("ai-list-block"),b.classList.remove("ai-list-block-ip"),b.style.visibility="",b.classList.contains("ai-remove-position")&&(b.style.position=""))}}else{f=e.closest("div[data-ai]");if(null!=f&&"undefined"!=typeof f.getAttribute("data-ai")){var d=
+JSON.parse(b64d(f.getAttribute("data-ai")));"undefined"!==typeof d&&d.constructor===Array&&(d[1]="",f.setAttribute("data-ai",b64e(JSON.stringify(d))))}f=b.querySelectorAll(".ai-debug-block");b&&f.length&&(b.classList.remove("ai-list-block"),b.classList.remove("ai-list-block-ip"),b.style.visibility="",b.classList.contains("ai-remove-position")&&(b.style.position=""))}e.classList.remove(c)}e=document.querySelectorAll("."+c+"-dbg");b=0;for(f=e.length;b<f;b++)d=e[b],d.querySelector(".ai-status").textContent=
+ai_debug_cookie_status,d.querySelector(".ai-cookie-data").textContent=ai_get_cookie_text(a),d.classList.remove(c+"-dbg")};function ai_load_cookie(){var a=AiCookies.getJSON("aiBLOCKS");null==a&&(a={});return a}function ai_get_cookie(a,c){var e="",b=ai_load_cookie();b.hasOwnProperty(a)&&b[a].hasOwnProperty(c)&&(e=b[a][c]);return e}
+function ai_set_cookie(a,c,e){var b=ai_load_cookie();if(""===e){if(b.hasOwnProperty(a)){delete b[a][c];a:{c=b[a];for(f in c)if(c.hasOwnProperty(f)){var f=!1;break a}f=!0}f&&delete b[a]}}else b.hasOwnProperty(a)||(b[a]={}),b[a][c]=e;0===Object.keys(b).length&&b.constructor===Object?AiCookies.remove("aiBLOCKS"):AiCookies.set("aiBLOCKS",b,{expires:365,path:"/"});return b}
+ai_get_cookie_text=function(a){var c=AiCookies.getJSON("aiBLOCKS");null==c&&(c={});var e="";c.hasOwnProperty("G")&&(e="G["+JSON.stringify(c.G).replace(/"/g,"").replace("{","").replace("}","")+"] ");var b="";c.hasOwnProperty(a)&&(b=JSON.stringify(c[a]).replace(/"/g,"").replace("{","").replace("}",""));return e+b};
+ai_insert=function(d,l,v){for(var p=-1!=l.indexOf(":eq")?jQuery(l):document.querySelectorAll(l),t=0,y=p.length;t<y;t++){var b=p[t];selector_string=b.hasAttribute("id")?"#"+b.getAttribute("id"):b.hasAttribute("class")?"."+b.getAttribute("class").replace(RegExp(" ","g"),"."):"";var u=document.createElement("div");u.innerHTML=v;var m=u.getElementsByClassName("ai-selector-counter")[0];null!=m&&(m.innerText=t+1);m=u.getElementsByClassName("ai-debug-name ai-main")[0];if(null!=m){var k="";"before"==d?k=
+ai_front.insertion_before:"after"==d?k=ai_front.insertion_after:"prepend"==d?k=ai_front.insertion_prepend:"append"==d?k=ai_front.insertion_append:"replace-content"==d?k=ai_front.insertion_replace_content:"replace-element"==d&&(k=ai_front.insertion_replace_element);-1==selector_string.indexOf(".ai-viewports")&&(m.innerText=k+" "+l+" ("+b.tagName.toLowerCase()+selector_string+")")}m=document.createRange();k=!0;try{var w=m.createContextualFragment(u.innerHTML)}catch(r){k=!1}"before"==d?k?b.parentNode.insertBefore(w,
+b):jQuery(u.innerHTML).insertBefore(jQuery(b)):"after"==d?k?b.parentNode.insertBefore(w,b.nextSibling):jQuery(u.innerHTML).insertBefore(jQuery(b.nextSibling)):"prepend"==d?k?b.insertBefore(w,b.firstChild):jQuery(u.innerHTML).insertBefore(jQuery(b.firstChild)):"append"==d?k?b.insertBefore(w,null):jQuery(u.innerHTML).appendTo(jQuery(b)):"replace-content"==d?(b.innerHTML="",k?b.insertBefore(w,null):jQuery(u.innerHTML).appendTo(jQuery(b))):"replace-element"==d&&(k?b.parentNode.insertBefore(w,b):jQuery(u.innerHTML).insertBefore(jQuery(b)),
+b.parentNode.removeChild(b))}};
+ai_insert_code=function(d){function l(m,k){return null==m?!1:m.classList?m.classList.contains(k):-1<(" "+m.className+" ").indexOf(" "+k+" ")}function v(m,k){null!=m&&(m.classList?m.classList.add(k):m.className+=" "+k)}function p(m,k){null!=m&&(m.classList?m.classList.remove(k):m.className=m.className.replace(new RegExp("(^|\\b)"+k.split(" ").join("|")+"(\\b|$)","gi")," "))}if("undefined"!=typeof d){var t=!1;if(l(d,"no-visibility-check")||d.offsetWidth||d.offsetHeight||d.getClientRects().length){t=
+d.getAttribute("data-code");var y=d.getAttribute("data-insertion"),b=d.getAttribute("data-selector");if(null!=t)if(null!=y&&null!=b){if(-1!=b.indexOf(":eq")?jQuery(b).length:document.querySelectorAll(b).length)ai_insert(y,b,b64d(t)),p(d,"ai-viewports")}else{y=document.createRange();b=!0;try{var u=y.createContextualFragment(b64d(t))}catch(m){b=!1}b?d.parentNode.insertBefore(u,d.nextSibling):jQuery(b64d(t)).insertBefore(jQuery(d.nextSibling));p(d,"ai-viewports")}t=!0}else u=d.previousElementSibling,
+l(u,"ai-debug-bar")&&l(u,"ai-debug-script")&&(p(u,"ai-debug-script"),v(u,"ai-debug-viewport-invisible")),p(d,"ai-viewports");return t}};
+ai_insert_list_code=function(d){var l=document.getElementsByClassName(d)[0];if("undefined"!=typeof l){var v=ai_insert_code(l),p=l.closest("div.code-block");if(p){v||p.removeAttribute("data-ai");var t=p.querySelectorAll(".ai-debug-block");p&&t.length&&(p.classList.remove("ai-list-block"),p.classList.remove("ai-list-block-ip"),p.style.visibility="",p.classList.contains("ai-remove-position")&&(p.style.position=""))}l.classList.remove(d);v&&ai_process_elements()}};
+ai_insert_viewport_code=function(d){var l=document.getElementsByClassName(d)[0];"undefined"!=typeof l&&(ai_insert_code(l),l.classList.remove(d),setTimeout(function(){l.removeAttribute("style")},2),ai_process_elements())};ai_insert_code_by_class=function(d){var l=document.getElementsByClassName(d)[0];"undefined"!=typeof l&&(ai_insert_code(l),l.classList.remove(d))};
+ai_insert_client_code=function(d,l){var v=document.getElementsByClassName(d)[0];if("undefined"!=typeof v){var p=v.getAttribute("data-code");null!=p&&ai_check_block()&&ai_check_and_insert_block()&&(v.setAttribute("data-code",p.substring(Math.floor(l/19))),ai_insert_code_by_class(d),v.remove())}};ai_process_elements_active=!1;
+function ai_process_elements(){ai_process_elements_active||setTimeout(function(){ai_process_elements_active=!1;"function"==typeof ai_process_rotations&&ai_process_rotations();"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data"));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data"));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks()},5);ai_process_elements_active=!0}
+var Arrive=function(d,l,v){function p(r,c,e){b.addMethod(c,e,r.unbindEvent);b.addMethod(c,e,r.unbindEventWithSelectorOrCallback);b.addMethod(c,e,r.unbindEventWithSelectorAndCallback)}function t(r){r.arrive=k.bindEvent;p(k,r,"unbindArrive");r.leave=w.bindEvent;p(w,r,"unbindLeave")}if(d.MutationObserver&&"undefined"!==typeof HTMLElement){var y=0,b=function(){var r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector;
+return{matchesSelector:function(c,e){return c instanceof HTMLElement&&r.call(c,e)},addMethod:function(c,e,f){var a=c[e];c[e]=function(){if(f.length==arguments.length)return f.apply(this,arguments);if("function"==typeof a)return a.apply(this,arguments)}},callCallbacks:function(c,e){e&&e.options.onceOnly&&1==e.firedElems.length&&(c=[c[0]]);for(var f=0,a;a=c[f];f++)a&&a.callback&&a.callback.call(a.elem,a.elem);e&&e.options.onceOnly&&1==e.firedElems.length&&e.me.unbindEventWithSelectorAndCallback.call(e.target,
+e.selector,e.callback)},checkChildNodesRecursively:function(c,e,f,a){for(var g=0,h;h=c[g];g++)f(h,e,a)&&a.push({callback:e.callback,elem:h}),0<h.childNodes.length&&b.checkChildNodesRecursively(h.childNodes,e,f,a)},mergeArrays:function(c,e){var f={},a;for(a in c)c.hasOwnProperty(a)&&(f[a]=c[a]);for(a in e)e.hasOwnProperty(a)&&(f[a]=e[a]);return f},toElementsArray:function(c){"undefined"===typeof c||"number"===typeof c.length&&c!==d||(c=[c]);return c}}}(),u=function(){var r=function(){this._eventsBucket=
+[];this._beforeRemoving=this._beforeAdding=null};r.prototype.addEvent=function(c,e,f,a){c={target:c,selector:e,options:f,callback:a,firedElems:[]};this._beforeAdding&&this._beforeAdding(c);this._eventsBucket.push(c);return c};r.prototype.removeEvent=function(c){for(var e=this._eventsBucket.length-1,f;f=this._eventsBucket[e];e--)c(f)&&(this._beforeRemoving&&this._beforeRemoving(f),(f=this._eventsBucket.splice(e,1))&&f.length&&(f[0].callback=null))};r.prototype.beforeAdding=function(c){this._beforeAdding=
+c};r.prototype.beforeRemoving=function(c){this._beforeRemoving=c};return r}(),m=function(r,c){var e=new u,f=this,a={fireOnAttributesModification:!1};e.beforeAdding(function(g){var h=g.target;if(h===d.document||h===d)h=document.getElementsByTagName("html")[0];var n=new MutationObserver(function(x){c.call(this,x,g)});var q=r(g.options);n.observe(h,q);g.observer=n;g.me=f});e.beforeRemoving(function(g){g.observer.disconnect()});this.bindEvent=function(g,h,n){h=b.mergeArrays(a,h);for(var q=b.toElementsArray(this),
+x=0;x<q.length;x++)e.addEvent(q[x],g,h,n)};this.unbindEvent=function(){var g=b.toElementsArray(this);e.removeEvent(function(h){for(var n=0;n<g.length;n++)if(this===v||h.target===g[n])return!0;return!1})};this.unbindEventWithSelectorOrCallback=function(g){var h=b.toElementsArray(this);e.removeEvent("function"===typeof g?function(n){for(var q=0;q<h.length;q++)if((this===v||n.target===h[q])&&n.callback===g)return!0;return!1}:function(n){for(var q=0;q<h.length;q++)if((this===v||n.target===h[q])&&n.selector===
+g)return!0;return!1})};this.unbindEventWithSelectorAndCallback=function(g,h){var n=b.toElementsArray(this);e.removeEvent(function(q){for(var x=0;x<n.length;x++)if((this===v||q.target===n[x])&&q.selector===g&&q.callback===h)return!0;return!1})};return this},k=new function(){function r(f,a,g){return b.matchesSelector(f,a.selector)&&(f._id===v&&(f._id=y++),-1==a.firedElems.indexOf(f._id))?(a.firedElems.push(f._id),!0):!1}var c={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};k=new m(function(f){var a=
+{attributes:!1,childList:!0,subtree:!0};f.fireOnAttributesModification&&(a.attributes=!0);return a},function(f,a){f.forEach(function(g){var h=g.addedNodes,n=g.target,q=[];null!==h&&0<h.length?b.checkChildNodesRecursively(h,a,r,q):"attributes"===g.type&&r(n,a,q)&&q.push({callback:a.callback,elem:n});b.callCallbacks(q,a)})});var e=k.bindEvent;k.bindEvent=function(f,a,g){"undefined"===typeof g?(g=a,a=c):a=b.mergeArrays(c,a);var h=b.toElementsArray(this);if(a.existing){for(var n=[],q=0;q<h.length;q++)for(var x=
+h[q].querySelectorAll(f),z=0;z<x.length;z++)n.push({callback:g,elem:x[z]});if(a.onceOnly&&n.length)return g.call(n[0].elem,n[0].elem);setTimeout(b.callCallbacks,1,n)}e.call(this,f,a,g)};return k},w=new function(){function r(f,a){return b.matchesSelector(f,a.selector)}var c={};w=new m(function(){return{childList:!0,subtree:!0}},function(f,a){f.forEach(function(g){g=g.removedNodes;var h=[];null!==g&&0<g.length&&b.checkChildNodesRecursively(g,a,r,h);b.callCallbacks(h,a)})});var e=w.bindEvent;w.bindEvent=
+function(f,a,g){"undefined"===typeof g?(g=a,a=c):a=b.mergeArrays(c,a);e.call(this,f,a,g)};return w};l&&t(l.fn);t(HTMLElement.prototype);t(NodeList.prototype);t(HTMLCollection.prototype);t(HTMLDocument.prototype);t(Window.prototype);l={};p(k,l,"unbindAllArrive");p(w,l,"unbindAllLeave");return l}}(window,"undefined"===typeof jQuery?null:jQuery,void 0);
+jQuery(function(a){function r(){a("div.ai-rotate.ai-rotation-groups").each(function(b,k){a(this).addClass("ai-timer");ai_process_rotation(this)})}var l=[];ai_process_rotation=function(b){if(a(b).hasClass("ai-unprocessed")||a(b).hasClass("ai-timer")){a(b).removeClass("ai-unprocessed").removeClass("ai-timer");if("undefined"!=typeof a(b).data("info")){var k="div.ai-rotate.ai-"+JSON.parse(atob(a(b).data("info")))[0];l.includes(k)&&l.splice(l.indexOf(k),1)}if("number"==typeof b.length)for(k=0;k<b.length;k++)0==
+k?ai_process_single_rotation(b[k],!0):ai_process_single_rotation(b[k],!1);else ai_process_single_rotation(b,!0)}};ai_process_single_rotation=function(b,k){var h=a(b).children(".ai-rotate-option");if(0!=h.length){h.hide();if("undefined"==typeof a(b).data("next"))if("undefined"!=typeof a(h[0]).data("group")){var g=-1,q=[];a("span[data-ai-groups]").each(function(m){(a(this)[0].offsetWidth||a(this)[0].offsetHeight||a(this)[0].getClientRects().length)&&q.push(this)});1<=q.length&&JSON.parse(b64d(a(q).first().data("ai-groups"))).forEach(function(m,
+u){-1==g&&h.each(function(t){if(b64d(a(this).data("group"))==m)return g=t,!1})})}else{var e=a(b).data("shares");if("string"===typeof e){e=JSON.parse(atob(e));var f=Math.round(100*Math.random());for(var c=0;c<e.length&&(g=c,0>e[c]||!(f<=e[c]));c++);}else e=a(b).hasClass("ai-unique"),f=new Date,e?("number"!=typeof ai_rotation_seed&&(ai_rotation_seed=(Math.floor(1E3*Math.random())+f.getMilliseconds())%h.length),e=a(b).data("counter"),g=ai_rotation_seed+e,g>=h.length&&(g-=h.length)):(g=Math.floor(Math.random()*
+h.length),f.getMilliseconds()%2&&(g=h.length-g-1))}else g=parseInt(a(b).attr("data-next")),f=a(h[g]),"undefined"!=typeof f.data("code")&&(f=a(b64d(f.data("code")))),0!=f.find("span[data-ai-groups]").addBack("span[data-ai-groups]").length&&0!=a(".ai-rotation-groups").length&&setTimeout(function(){r()},5);if(!(0>g||g>=h.length)){f=a(h[g]);e="";if("undefined"!=typeof f.data("time")){c=atob(f.data("time"));if(0==c&&1<h.length){var d=g;do{d++;d>=h.length&&(d=0);var n=a(h[d]);if("undefined"==typeof n.data("time")){g=
+d;f=a(h[g]);c=0;break}n=atob(n.data("time"))}while(0==n&&d!=g);0!=c&&(g=d,f=a(h[g]),c=atob(f.data("time")))}if(0<c&&(d=g+1,d>=h.length&&(d=0),"undefined"!=typeof a(b).data("info"))){e=JSON.parse(atob(a(b).data("info")))[0];a(b).attr("data-next",d);var p="div.ai-rotate.ai-"+e;l.includes(p)&&(k=!1);k&&(l.push(p),setTimeout(function(){a(p).addClass("ai-timer");ai_process_rotation(a(p))},1E3*c));e=" ("+c+" s)"}}else"undefined"==typeof f.data("group")&&h.each(function(m){m!=g&&a(this).remove()});f.css({display:"",
+visibility:"",position:"",width:"",height:"",top:"",left:""}).removeClass("ai-rotate-hidden").removeClass("ai-rotate-hidden-2");a(b).css({position:""});"undefined"!=typeof f.data("code")&&(h.empty(),c=b64d(f.data("code")),f.append(c),ai_process_elements());f=b64d(f.data("name"));d=a(b).closest(".ai-debug-block");0!=d.length&&(c=d.find("kbd.ai-option-name"),d=d.find(".ai-debug-block"),"undefined"!=typeof d&&(d=d.find("kbd.ai-option-name"),c=c.slice(0,c.length-d.length)),"undefined"!=typeof c&&(d=c.first().data("separator"),
+"undefined"==typeof d&&(d=""),c.html(d+f+e)));c=!1;d=a(b).closest(".ai-adb-show");0!=d.length&&d.attr("data-ai-tracking")&&(e=JSON.parse(b64d(d.attr("data-ai-tracking"))),"undefined"!==typeof e&&e.constructor===Array&&(e[1]=g+1,e[3]=f,d.attr("data-ai-tracking",b64e(JSON.stringify(e))),c=!0));c||(c=a(b).closest("div[data-ai]"),"undefined"!=typeof c.attr("data-ai")&&(e=JSON.parse(b64d(c.attr("data-ai"))),"undefined"!==typeof e&&e.constructor===Array&&(e[1]=g+1,e[3]=f,c.attr("data-ai",b64e(JSON.stringify(e))))))}}};
+ai_process_rotations=function(){a("div.ai-rotate").each(function(b,k){ai_process_rotation(this)})};ai_process_rotations_in_element=function(b){a("div.ai-rotate",b).each(function(k,h){ai_process_rotation(this)})};a(document).ready(function(b){setTimeout(function(){ai_process_rotations()},10)})});ai_process_elements_active=!1;
+function ai_process_elements(){ai_process_elements_active||setTimeout(function(){ai_process_elements_active=!1;"function"==typeof ai_process_rotations&&ai_process_rotations();"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data"));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data"));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks()},5);ai_process_elements_active=!0};
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,k){a.raw=k;return a};$jscomp.arrayIteratorImpl=function(a){var k=0;return function(){return k<a.length?{done:!1,value:a[k++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var k="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return k?k.call(a):$jscomp.arrayIterator(a)};
+jQuery(function(a){function k(e){e=e.match(F);return null!=e&&1<e.length&&"string"===typeof e[1]&&0<e[1].length?e[1].toLowerCase():null}function A(e){try{var h=Date.parse(e);isNaN(h)&&(h=null)}catch(K){h=null}if(null==h&&e.includes(" ")){e=e.split(" ");try{h=Date.parse(e[0]);if(e[1].includes(":")){var w=e[1].split(":");h+=1E3*(3600*parseInt(w[0])+60*parseInt(w[1])+parseInt(w[2]))}isNaN(h)&&(h=null)}catch(K){h=null}}return h}function n(){(jQuery("#ai-iab-tcf-bar").length||jQuery(".ai-list-manual").length)&&
+"function"==typeof __tcfapi&&"function"==typeof ai_load_blocks&&"undefined"==typeof ai_iab_tcf_callback_installed&&(__tcfapi("addEventListener",2,function(e,h){h&&"useractioncomplete"===e.eventStatus&&(ai_tcData=e,ai_load_blocks(),jQuery("#ai-iab-tcf-status").text("DATA LOADED"),jQuery("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))}),ai_iab_tcf_callback_installed=!0)}Array.prototype.includes||(Array.prototype.includes=function(e){return!!~this.indexOf(e)});var F=/:\/\/(.[^/:]+)/i;
+ai_process_lists=function(e){function h(d,b,g){if(0==d.length){if("!@!"==g)return!0;b!=g&&("true"==g.toLowerCase()?g=!0:"false"==g.toLowerCase()&&(g=!1));return b==g}if("object"!=typeof b&&"array"!=typeof b)return!1;var f=d[0];d=d.slice(1);if("*"==f)for(b=$jscomp.makeIterator(Object.entries(b)),f=b.next();!f.done;f=b.next()){if(f=$jscomp.makeIterator(f.value),f.next(),f=f.next().value,h(d,f,g))return!0}else if(f in b)return h(d,b[f],g);return!1}function w(d,b,g){if("object"!=typeof d||-1==b.indexOf("["))return!1;
+b=b.replace(/]| /gi,"").split("[");return h(b,d,g)}function K(){"function"==typeof __tcfapi&&(a("#ai-iab-tcf-status").text("DETECTED"),__tcfapi("getTCData",2,function(d,b){b?(a("#ai-iab-tcf-bar").addClass("status-ok"),"tcloaded"==d.eventStatus||"useractioncomplete"==d.eventStatus?(ai_tcData=d,d.gdprApplies?a("#ai-iab-tcf-status").text("DATA LOADED"):jQuery("#ai-iab-tcf-status").text("GDPR DOES NOT APPLY"),a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"),setTimeout(function(){ai_process_lists()},
+10)):"cmpuishown"==d.eventStatus&&(ai_cmpuishown=!0,a("#ai-iab-tcf-status").text("CMP UI SHOWN"),a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))):(a("#ai-iab-tcf-status").text("__tcfapi getTCData failed"),a("#ai-iab-tcf-bar").removeClass("status-ok").addClass("status-error"))}))}function H(d){"function"==typeof __tcfapi?("undefined"==typeof ai_iab_tcf_callback_installed&&n(),"undefined"==typeof ai_tcData_requested&&(ai_tcData_requested=!0,K(),url_parameters_need_tcData=!0)):
+d&&(a("#ai-iab-tcf-bar").addClass("status-error").removeClass("status-ok"),a("#ai-iab-tcf-status").text("MISSING: __tcfapi function not found"))}e=null==e?a("div.ai-list-data, meta.ai-list-data"):e.filter(".ai-list-data");if(e.length){e.removeClass("ai-list-data");var G=document.cookie.split(";");G.forEach(function(d,b){G[b]=d.trim()});var Q=getAllUrlParams(window.location.search);if(null!=Q.referrer)var r=Q.referrer;else r=document.referrer,""!=r&&(r=k(r));var L=window.navigator.userAgent,M=L.toLowerCase();
+if("undefined"!==typeof MobileDetect)var R=new MobileDetect(L);e.each(function(){var d=a(this).closest("div.code-block"),b=!0,g=a(this).attr("referer-list");if("undefined"!=typeof g){g=b64d(g).split(",");var f=a(this).attr("referer-list-type"),l=!1;a.each(g,function(t,c){if(""==c)return!0;if("*"==c.charAt(0))if("*"==c.charAt(c.length-1)){if(c=c.substr(1,c.length-2),-1!=r.indexOf(c))return l=!0,!1}else{if(c=c.substr(1),r.substr(-c.length)==c)return l=!0,!1}else if("*"==c.charAt(c.length-
+1)){if(c=c.substr(0,c.length-1),0==r.indexOf(c))return l=!0,!1}else if("#"==c){if(""==r)return l=!0,!1}else if(c==r)return l=!0,!1});switch(f){case "B":l&&(b=!1);break;case "W":l||(b=!1)}}if(b&&(g=a(this).attr("client-list"),"undefined"!=typeof g&&"undefined"!==typeof R))switch(g=b64d(g).split(","),f=a(this).attr("client-list-type"),l=!1,a.each(g,function(t,c){if(""==c)return!0;if("*"==c.charAt(0))if("*"==c.charAt(c.length-1)){if(c=c.substr(1,c.length-2).toLowerCase(),-1!=M.indexOf(c))return l=!0,
+!1}else{if(c=c.substr(1).toLowerCase(),M.substr(-c.length)==c)return l=!0,!1}else if("*"==c.charAt(c.length-1)){if(c=c.substr(0,c.length-1).toLowerCase(),0==M.indexOf(c))return l=!0,!1}else if(R.is(c))return l=!0,!1}),f){case "B":l&&(b=!1);break;case "W":l||(b=!1)}var N=g=!1;if(b&&(f=a(this).attr("parameter-list"),"undefined"!=typeof f)){f=b64d(f).split(",");var u=a(this).attr("parameter-list-type"),S=[];G.forEach(function(t){t=t.split("=");try{var c=JSON.parse(decodeURIComponent(t[1]))}catch(T){c=
+decodeURIComponent(t[1])}S[t[0]]=c});var x=!1,I=a(this);a.each(f,function(t,c){var T=c.split("&&");a.each(T,function(X,m){var y=!0;m=m.trim();"!!"==m.substring(0,2)&&(y=!1,m=m.substring(2));var p=m,z="!@!",U=-1!=m.indexOf("["),V=(0==m.indexOf("tcf-v2")||0==m.indexOf("euconsent-v2"))&&-1!=m.indexOf("[");-1!=m.indexOf("=")&&(z=m.split("="),p=z[0],z=z[1],U=-1!=p.indexOf("["),V=(0==p.indexOf("tcf-v2")||0==p.indexOf("euconsent-v2"))&&-1!=p.indexOf("["));if(V)a("#ai-iab-tcf-bar").show(),"object"==typeof ai_tcData?
+(a("#ai-iab-tcf-bar").addClass("status-ok"),p=p.replace(/]| /gi,"").split("["),p.shift(),x=(p=h(p,ai_tcData,z))?y:!y):(I.addClass("ai-list-data"),N=!0,"function"==typeof __tcfapi?H(!1):"undefined"==typeof ai_tcData_retrying&&(ai_tcData_retrying=!0,setTimeout(function(){"function"==typeof __tcfapi?H(!1):setTimeout(function(){"function"==typeof __tcfapi?H(!1):setTimeout(function(){H(!0)},3E3)},1E3)},600)));else if(U)x=(p=w(S,p,z))?y:!y;else{var O=!1;"!@!"==z?G.every(function(W){return W.split("=")[0]==
+m?(O=!0,!1):!0}):O=-1!=G.indexOf(m);x=O?y:!y}if(!x)return!1});if(x)return!1});switch(u){case "B":x&&(b=!1);break;case "W":x||(b=!1)}a(this).hasClass("ai-list-manual")&&(b?(I.removeClass("ai-list-data"),I.removeClass("ai-list-manual")):(g=!0,I.addClass("ai-list-data")));if(!g&&!N&&(f=a(this).data("debug-info"),"undefined"!=typeof f&&(f=a("."+f),0!=f.length))){var q=f.parent();q.hasClass("ai-debug-info")&&q.remove()}}q=a(this).prevAll(".ai-debug-bar.ai-debug-lists");f=""==r?"#":r;q.find(".ai-debug-name.ai-list-info").text(f).attr("title",
+L);q.find(".ai-debug-name.ai-list-status").text(b?ai_front.visible:ai_front.hidden);f=!1;if(b){u=a(this).attr("scheduling-start");var B=a(this).attr("scheduling-end"),C=a(this).attr("scheduling-days");if("undefined"!=typeof u&&"undefined"!=typeof B&&"undefined"!=typeof C){f=!0;var P=parseInt(a(this).attr("scheduling-fallback")),v=parseInt(a(this).attr("gmt"));u=A(b64d(u))+v;B=A(b64d(B))+v;C=b64d(C).split(",");q=a(this).attr("scheduling-type");var D=(new Date).getTime()+v,J=new Date(D),E=J.getDay();
+0==E?E=6:E--;v=D>=u&&D<B&&C.includes(E.toString());switch(q){case "B":v=!v}v||(b=!1);J=J.toISOString().split(".")[0].replace("T"," ");q=a(this).prevAll(".ai-debug-bar.ai-debug-scheduling");q.find(".ai-debug-name.ai-scheduling-info").text(J+" "+E+" current_time:"+D.toString()+"  start_date:"+u.toString()+" ="+(D>=u).toString()+" end_date:"+B.toString()+" =:"+(D<B).toString()+" days:"+C.toString()+" =:"+C.includes(E.toString()).toString());q.find(".ai-debug-name.ai-scheduling-status").text(b?ai_front.visible:
+ai_front.hidden);b||0==P||(q.removeClass("ai-debug-scheduling").addClass("ai-debug-fallback"),q.find(".ai-debug-name.ai-scheduling-status").text(ai_front.fallback+"="+P))}}if(g||N)return!0;a(this).css({visibility:"",position:"",width:"",height:"","z-index":""});b?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(b=b64d(a(this).data("code")),0!=a(this).closest("head").length?(a(this).after(b),a(this).remove()):a(this).append(b),
+ai_process_element(this))):f&&!v&&0!=P?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),a(this).next(".ai-fallback").removeClass("ai-fallback"),"undefined"!=typeof a(this).data("fallback-code")?(b=b64d(a(this).data("fallback-code")),a(this).append(b),ai_process_element(this)):(a(this).hide(),d.find(".ai-debug-block").length||d.hide()),b=d.attr("data-ai"),"undefined"!==typeof b&&!1!==b&&(b=a(this).attr("fallback-tracking"),"undefined"!==typeof b&&!1!==b&&d.attr("data-ai",
+b))):(a(this).hide(),d.find(".ai-debug-block").length||d.hide(),d.removeAttr("data-ai").removeClass("ai-track"),d.find(".ai-debug-block").length?(d.css({visibility:""}).removeClass("ai-close"),d.hasClass("ai-remove-position")&&d.css({position:""})):d.hide());a(this).attr("data-code","");a(this).attr("data-fallback-code","");d.removeClass("ai-list-block")})}};a(document).ready(function(e){setTimeout(function(){ai_process_lists();setTimeout(function(){n();if("function"==typeof ai_load_blocks){var h=
+function(w){"all"===w.consentLevel&&ai_load_blocks()};jQuery(document).on("cmplzEnableScripts",h);jQuery(document).on("cmplz_event_marketing",h)}},50);jQuery("#ai-iab-tcf-bar").click(function(){AiCookies.remove("euconsent-v2",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("__lxG__consent__v2",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("__lxG__consent__v2_daisybit",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("__lxG__consent__v2_gdaisybit",
+{path:"/",domain:"."+window.location.hostname});AiCookies.remove("cmplz_marketing",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("cmplz_stats",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("complianz_consent_status",{path:"/",domain:"."+window.location.hostname});jQuery("#ai-iab-tcf-status").text("COOKIE DELETED")})},5)})});
+function ai_process_element(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a)},5)}
+function getAllUrlParams(a){var k=a?a.split("?")[1]:window.location.search.slice(1);a={};if(k){k=k.split("#")[0];k=k.split("&");for(var A=0;A<k.length;A++){var n=k[A].split("="),F=void 0,e=n[0].replace(/\[\d*\]/,function(h){F=h.slice(1,-1);return""});n="undefined"===typeof n[1]?"":n[1];e=e.toLowerCase();n=n.toLowerCase();a[e]?("string"===typeof a[e]&&(a[e]=[a[e]]),"undefined"===typeof F?a[e].push(n):a[e][F]=n):a[e]=n}}return a};
+
+ai_js_code = true;
+}
+function ai_wait_for_jquery(){function b(f,c){var a=document.createElement("script");a.src=f;var d=document.getElementsByTagName("head")[0],e=!1;a.onload=a.onreadystatechange=function(){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(e=!0,c&&c(),a.onload=a.onreadystatechange=null,d.removeChild(a))};d.appendChild(a)}window.jQuery&&window.jQuery.fn?ai_run_scripts():(ai_jquery_waiting_counter++,4==ai_jquery_waiting_counter&&b("https://thereporterz.com/wp-includes/js/jquery/jquery.js?ver=3.5.1",function(){b("https://thereporterz.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=5.7",
+null)}),30>ai_jquery_waiting_counter&&setTimeout(function(){ai_wait_for_jquery()},50))}ai_jquery_waiting_counter=0;ai_wait_for_jquery();
+
+</script>
+</body>
+</html>

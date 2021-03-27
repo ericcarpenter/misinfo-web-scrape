@@ -84,7 +84,7 @@ body,h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6,.thb-lightbox-button .
 <link href="https://c0.wp.com/p/jetpack/8.3/css/jetpack.css" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
 <script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script src="https://c0.wp.com/c/5.3.6/wp-includes/js/jquery/jquery.js" type="text/javascript"></script>
 <script src="https://c0.wp.com/c/5.3.6/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
-<script async="" src="https://stats.wp.com/s-202111.js" type="text/javascript"></script>
+<script async="" src="https://stats.wp.com/s-202112.js" type="text/javascript"></script>
 <link href="https://wundergroundmusic.com/wp-json/" rel="https://api.w.org/"/>
 <link href="https://wundergroundmusic.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
 <meta content="WordPress 5.3.6" name="generator"/>
@@ -140,221 +140,9 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 <body class="home page-template page-template-page-default page-template-page-default-php page page-id-1043454 theme-theissue woocommerce-no-js fixed-header-on fixed-header-scroll-off thb-dropdown-color-light right-click-off thb-borders-off thb-pinit-on thb-boxed-off thb-dark-mode-off thb-capitalize-off thb-parallax-on thb-single-product-ajax-on thb-article-sidebar-mobile-off essb-7.8 wpb-js-composer js-comp-ver-6.2.0 vc_responsive" data-rsssl="1">
 <!-- Start Wrapper -->
 <div class="thb-page-transition-on" id="wrapper">
-<!-- Start Fixed Header -->
-<header class="header fixed fixed-style1 header-full-width main-header-style2 fixed-header-full-width-on light-header thb-fixed-shadow-style1">
-<div class="row full-width-row">
-<div class="small-12 columns">
-<div class="thb-navbar">
-<div class="fixed-logo-holder">
-<div class="mobile-toggle-holder">
-<div class="mobile-toggle">
-<span></span><span></span><span></span>
-</div>
-</div>
-<div class="logo-holder fixed-logo-holder">
-<a class="logolink" href="https://wundergroundmusic.com/" title="Wunderground Music">
-<img alt="Wunderground Music" class="logoimg logo-dark" data-logo-alt="https://wundergroundmusic.com/wp-content/uploads/2015/07/Wunderground-Logo-2020-TEST-EXPORT.png" src="https://wundergroundmusic.com/wp-content/uploads/2015/07/Wunderground-Logo-2020-TEST-EXPORT.png"/>
-</a>
-</div>
-</div>
-<!-- Start Full Menu -->
-<nav class="full-menu">
-<ul class="thb-full-menu thb-standard" id="menu-wg-2020-main-active"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045425" id="menu-item-1045425"><a href="https://wundergroundmusic.com/category/music/"><span>Music</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045433" id="menu-item-1045433"><a href="https://wundergroundmusic.com/category/music/techno/"><span>Techno</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045430" id="menu-item-1045430"><a href="https://wundergroundmusic.com/category/music/house/"><span>House</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045432" id="menu-item-1045432"><a href="https://wundergroundmusic.com/category/music/tech-house/"><span>Tech House</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045434" id="menu-item-1045434"><a href="https://wundergroundmusic.com/category/music/trance/"><span>Trance</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045426" id="menu-item-1045426"><a href="https://wundergroundmusic.com/category/music/drum-bass/"><span>Drum &amp; Bass</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045427" id="menu-item-1045427"><a href="https://wundergroundmusic.com/category/music/edm/"><span>EDM</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045428" id="menu-item-1045428"><a href="https://wundergroundmusic.com/category/music/grime/"><span>Grime</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045431" id="menu-item-1045431"><a href="https://wundergroundmusic.com/category/music/psytrance/"><span>Psytrance</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045429" id="menu-item-1045429"><a href="https://wundergroundmusic.com/category/music/hip-hop/"><span>Hip-Hop</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045439" id="menu-item-1045439"><a href="https://wundergroundmusic.com/category/humans/"><span>Humans</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045442" id="menu-item-1045442"><a href="https://wundergroundmusic.com/category/humans/djs/"><span>DJs</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045446" id="menu-item-1045446"><a href="https://wundergroundmusic.com/category/humans/producers/"><span>Producers</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045443" id="menu-item-1045443"><a href="https://wundergroundmusic.com/category/humans/fans/"><span>Fans</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045444" id="menu-item-1045444"><a href="https://wundergroundmusic.com/category/humans/industry-folk/"><span>Industry Folk</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045447" id="menu-item-1045447"><a href="https://wundergroundmusic.com/category/humans/promoters/"><span>Promoters</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045440" id="menu-item-1045440"><a href="https://wundergroundmusic.com/category/humans/bedroom-djs/"><span>Bedroom DJs</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045445" id="menu-item-1045445"><a href="https://wundergroundmusic.com/category/humans/people-of-the-world/"><span>People Of The World</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045449" id="menu-item-1045449"><a href="https://wundergroundmusic.com/category/humans/vocalists/"><span>Vocalists</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045441" id="menu-item-1045441"><a href="https://wundergroundmusic.com/category/humans/celebs/"><span>Celebs</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045424" id="menu-item-1045424"><a href="https://wundergroundmusic.com/category/events/"><span>Events</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045435" id="menu-item-1045435"><a href="https://wundergroundmusic.com/category/events/clubs/"><span>Clubs</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045436" id="menu-item-1045436"><a href="https://wundergroundmusic.com/category/events/festivals/"><span>Festivals</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045438" id="menu-item-1045438"><a href="https://wundergroundmusic.com/category/humans/promoters/"><span>Promoters</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045437" id="menu-item-1045437"><a href="https://wundergroundmusic.com/category/events/vip/"><span>VIP</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045417" id="menu-item-1045417"><a href="https://wundergroundmusic.com/category/culture/"><span>Culture</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045421" id="menu-item-1045421"><a href="https://wundergroundmusic.com/category/culture/scene/"><span>Scene</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045419" id="menu-item-1045419"><a href="https://wundergroundmusic.com/category/culture/fashion/"><span>Fashion</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045420" id="menu-item-1045420"><a href="https://wundergroundmusic.com/category/culture/food/"><span>Food</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045418" id="menu-item-1045418"><a href="https://wundergroundmusic.com/category/culture/drinks/"><span>Drinks</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045423" id="menu-item-1045423"><a href="https://wundergroundmusic.com/category/culture/vinyl/"><span>Vinyl</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045422" id="menu-item-1045422"><a href="https://wundergroundmusic.com/category/culture/tech/"><span>Tech</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045450" id="menu-item-1045450"><a href="https://wundergroundmusic.com/category/world/"><span>World</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045454" id="menu-item-1045454"><a href="https://wundergroundmusic.com/category/world/online/"><span>Online</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045451" id="menu-item-1045451"><a href="https://wundergroundmusic.com/category/world/environment/"><span>Environment</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045452" id="menu-item-1045452"><a href="https://wundergroundmusic.com/category/world/health-fitness/"><span>Health &amp; Fitness</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045453" id="menu-item-1045453"><a href="https://wundergroundmusic.com/category/world/ibiza/"><span>Ibiza</span></a></li>
-</ul>
-</li>
-</ul></nav>
-<!-- End Full Menu -->
-<div class="secondary-area">
-<div class="thb-follow-holder">
-<ul class="thb-full-menu thb-standard">
-<li class="menu-item-has-children">
-<a><span>Follow</span></a>
-<ul class="sub-menu">
-<li> <div class="thb-social-links-container thb-social-vertical mono-icons">
-<div class="thb-social-link-wrap">
-<a class="thb-social-link social-link-facebook" href="https://facebook.com/goingwunderground" rel="noreferrer" target="_blank">
-<div class="thb-social-label-container">
-<div class="thb-social-icon-container"><i class="thb-icon-facebook"></i></div>
-<div class="thb-social-label">Facebook</div> </div>
-<div class="thb-social-count">
-						238K					</div>
-</a>
-</div>
-<div class="thb-social-link-wrap">
-<a class="thb-social-link social-link-twitter" href="https://twitter.com/wunderground_ie" rel="noreferrer" target="_blank">
-<div class="thb-social-label-container">
-<div class="thb-social-icon-container"><i class="thb-icon-twitter"></i></div>
-<div class="thb-social-label">Twitter</div> </div>
-<div class="thb-social-count">
-						16.7K					</div>
-</a>
-</div>
-</div>
-</li>
-<li class="subscribe_part">
-<aside class="thb-article-subscribe thb-newsletter-form">
-<div class="thb-subscribe-icon-container"><svg class="thb-subscribe-icon" style="enable-background:new 0 0 90 68;" version="1.1" viewbox="0 0 90 68" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-<path d="M89.9,7.9c0-4.3-3.6-7.9-7.9-7.9L7.8,0.1C3.5,0.1,0,3.8,0,8.1l0.1,52c0,4.3,3.6,7.9,7.9,7.9l74.2-0.1c4.3,0,7.8-3.6,7.8-8
-			L89.9,7.9z M7.8,4.4l74.2-0.1c0.4,0,0.8,0.1,1.2,0.2L48.9,39.4c-1,1.1-2.4,1.6-3.9,1.6c-1.5,0-2.8-0.5-3.9-1.6L6.7,4.6
-			C7,4.5,7.4,4.4,7.8,4.4z M82.2,63.6L7.9,63.8c-2,0-3.7-1.7-3.7-3.7l-0.1-52l34,34.4c1.8,1.8,4.3,2.9,6.8,2.9c2.5,0,5-1.1,6.8-2.9
-			L85.7,7.9l0.1,52C85.8,61.9,84.2,63.6,82.2,63.6z M80.5,55.7L62.9,40c-0.8-0.7-2.2-0.7-2.9,0.2c-0.7,0.8-0.7,2.2,0.2,3l17.6,15.7
-			c0.4,0.3,0.9,0.5,1.4,0.5c0.6,0,1.1-0.2,1.6-0.7C81.4,57.8,81.4,56.4,80.5,55.7z M26.9,40.3L9.5,55.8c-0.8,0.7-0.9,2.1-0.2,3
-			c0.5,0.5,1,0.7,1.7,0.7c0.5,0,0.9-0.2,1.4-0.5l17.3-15.5c0.8-0.7,0.9-2.1,0.2-3C29.1,39.6,27.8,39.5,26.9,40.3z"></path>
-</svg>
-</div>
-<h4>
-		Sign Up to Our Newsletter	</h4>
-<p>
-		Get notified about exclusive offers every week!	</p>
-<form action="#" class="newsletter-form" data-security="69d77d8c86" method="post">
-<input class="widget_subscribe large" name="widget_subscribe" placeholder="Your E-Mail" type="text"/>
-<button class="btn large" name="submit" type="submit">SIGN UP</button>
-<div class="thb-preloader">
-<svg class="material-spinner" height="50px" viewbox="0 0 66 66" width="50px" xmlns="http://www.w3.org/2000/svg">
-<circle class="material-path" cx="33" cy="33" fill="none" r="30" stroke-linecap="round" stroke-width="6"></circle>
-</svg> </div>
-</form>
-<div class="thb-custom-checkbox">
-<input checked="checked" class="thb-newsletter-privacy" id="thb-newsletter-privacy-617" name="thb-newsletter-privacy" type="checkbox"/>
-<label for="thb-newsletter-privacy-617">
-				I would like to receive news and special offers.			</label>
-</div>
-</aside>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="thb-trending-holder">
-<ul class="thb-full-menu">
-<li class="menu-item-has-children">
-<a><span><svg class="thb-trending-icon" enable-background="new 0 0 10 14" version="1.1" viewbox="0 0 10 14" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-<path d="M9.3,4.3H6.3l1-3.4C7.4,0.5,7.2,0.1,6.8,0C6.7,0,6.7,0,6.6,0h-4C2.3,0,2,0.2,1.9,0.5L0,7c-0.1,0.4,0.1,0.8,0.5,0.9
-	c0.1,0,0.1,0,0.2,0h2.5l-0.5,5.3c0,0.3,0.2,0.6,0.5,0.7l0.3,0c0.2,0,0.5-0.1,0.6-0.3l5.8-8.3c0.2-0.3,0.1-0.8-0.2-1
-	C9.5,4.3,9.4,4.3,9.3,4.3z M4.5,10.6l0.3-3.4c0-0.4-0.3-0.8-0.7-0.8c0,0-0.1,0-0.1,0H1.7l1.4-5h2.5l-1,3.4C4.5,5.2,4.7,5.6,5.1,5.7
-	c0.1,0,0.1,0,0.2,0h2.5L4.5,10.6z"></path>
-</svg>
-</span></a>
-<div class="sub-menu">
-<div class="thb-trending" data-security="619db6c621">
-<div class="thb-trending-tabs">
-<a class="active" data-time="2">Now</a>
-<a data-time="7">Week</a>
-<a data-time="30">Month</a>
-</div>
-<div class="thb-trending-content">
-<div class="thb-trending-content-inner">
-<div class="post thumbnail-style3 post-23943 type-post status-publish format-standard has-post-thumbnail hentry">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/quality-of-coke-now-measured-by-how-quickly-it-makes-you-need-to-poo/">
-<img alt="" class="attachment-theissue-thumbnail size-theissue-thumbnail wp-image-23944 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2015/06/nigella_lawson_Master.jpg" height="68" src="https://wundergroundmusic.com/wp-content/uploads/2015/06/nigella_lawson_Master.jpg" width="90"/> </a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/quality-of-coke-now-measured-by-how-quickly-it-makes-you-need-to-poo/" title="Quality Of Coke Now Measured By How Quickly It Makes You Need To Poo"><span>Quality Of Coke Now Measured By How Quickly It Makes You Need To Poo</span></a></h5></div> </div>
-</div><div class="post thumbnail-style3 post-18860 type-post status-publish format-standard has-post-thumbnail hentry">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/woman-who-smelled-her-armpit-on-boiler-room-given-own-tv-show/">
-</a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/woman-who-smelled-her-armpit-on-boiler-room-given-own-tv-show/" title="Woman Who Smelled Her Armpit On Boiler Room Given Own TV Show"><span>Woman Who Smelled Her Armpit On Boiler Room Given Own TV Show</span></a></h5></div> </div>
-</div><div class="post thumbnail-style3 post-31556 type-post status-publish format-standard has-post-thumbnail hentry">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/man-breaks-world-record-by-snorting-line-of-coke-1-2-kilometers-long/">
-<img alt="" class="attachment-theissue-thumbnail size-theissue-thumbnail wp-image-31557 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2016/09/big-line-of-coke_o_620136-e1475072788938.jpg" height="66" src="https://wundergroundmusic.com/wp-content/uploads/2016/09/big-line-of-coke_o_620136-e1475072788938.jpg" width="90"/> </a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/man-breaks-world-record-by-snorting-line-of-coke-1-2-kilometers-long/" title="Man Breaks World Record By Snorting Line Of Coke 1.2 Kilometers Long"><span>Man Breaks World Record By Snorting Line Of Coke 1.2 Kilometers Long</span></a></h5></div> </div>
-</div><div class="post thumbnail-style3 post-24061 type-post status-publish format-standard has-post-thumbnail hentry">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/she-looked-pretty-stupid-with-a-chimney-on-her-reveals-the-tamperer/">
-<img alt="" class="attachment-theissue-thumbnail size-theissue-thumbnail wp-image-24068 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2015/06/thetamperer.jpg" height="51" src="https://wundergroundmusic.com/wp-content/uploads/2015/06/thetamperer.jpg" width="90"/> </a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/she-looked-pretty-stupid-with-a-chimney-on-her-reveals-the-tamperer/" title="“She Looked Pretty Stupid With A Chimney On Her” Reveals The Tamperer"><span>“She Looked Pretty Stupid With A Chimney On Her” Reveals The Tamperer</span></a></h5></div> </div>
-</div><div class="post thumbnail-style3 post-18877 type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/leaked-skreams-rider-leaked-ahead-of-gig-in-dublin-tonight/">
-<img alt="" class="attachment-theissue-thumbnail size-theissue-thumbnail wp-image-9478 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2013/06/SKREAM-1.jpg" height="60" src="https://wundergroundmusic.com/wp-content/uploads/2013/06/SKREAM-1.jpg" width="90"/> </a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/leaked-skreams-rider-leaked-ahead-of-gig-in-dublin-tonight/" title="LEAKED: Skream’s Rider Leaked Ahead Of Gig In Dublin Tonight"><span>LEAKED: Skream’s Rider Leaked Ahead Of Gig In Dublin Tonight</span></a></h5></div> </div>
-</div> </div>
-<div class="thb-preloader">
-<svg class="material-spinner" height="50px" viewbox="0 0 66 66" width="50px" xmlns="http://www.w3.org/2000/svg">
-<circle class="material-path" cx="33" cy="33" fill="none" r="30" stroke-linecap="round" stroke-width="6"></circle>
-</svg> </div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</div>
-<div class="thb-search-holder">
-<svg class="thb-search-icon" enable-background="new 0 0 14 14" height="14" version="1.1" viewbox="0 0 14 14" width="14" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-<path d="M13.8,12.7l-3-3c0.8-1,1.3-2.3,1.3-3.8c0-3.3-2.7-6-6.1-6C2.7,0,0,2.7,0,6c0,3.3,2.7,6,6.1,6c1.4,0,2.6-0.5,3.6-1.2l3,3
-			c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2C14.1,13.5,14.1,13,13.8,12.7z M1.5,6c0-2.5,2-4.5,4.5-4.5c2.5,0,4.5,2,4.5,4.5
-			c0,2.5-2,4.5-4.5,4.5C3.5,10.5,1.5,8.5,1.5,6z"></path>
-</svg>
-</div>
-</div>
-</div>
-</div>
-</div>
-</header>
-<!-- End Fixed Header -->
 <div class="thb_before_header" data-parallax="off">
 <div class="thb_before_header_inner">
-<div class="row wpb_row row-fluid full-width-row vc_custom_1602425679162 row-has-fill"><div class="wpb_column columns medium-12 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="caption-style1 aligncenter thb_image_link wp-caption" id="thb-image-605185a04a456">
+<div class="row wpb_row row-fluid full-width-row vc_custom_1602425679162 row-has-fill"><div class="wpb_column columns medium-12 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="caption-style1 aligncenter thb_image_link wp-caption" id="thb-image-605f5e35d7b57">
 <a class="" data-thb-group="" href="https://bit.ly/2X4eHax" target="_blank" title="">
 <div class="thb-image-inner size_100">
 <img alt="" class="thb_image attachment-full wp-image-1045463 thb-lazyload lazyload" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC.png" data-srcset="https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC.png 970w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-300x77.png 300w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-768x198.png 768w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-370x95.png 370w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-800x206.png 800w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-185x48.png 185w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-740x191.png 740w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-20x5.png 20w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-400x103.png 400w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-600x155.png 600w, https://wundergroundmusic.com/wp-content/uploads/2020/04/ITS-BAC-186x48.png 186w" height="250" sizes="(max-width: 970px) 100vw, 970px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="970"/> </div>
@@ -394,229 +182,9 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </div>
 </header>
 </div>
-<!-- Start Header -->
-<header class="header style2 thb-main-header dark-header">
-<div class="row">
-<div class="small-4 columns">
-<div class="mobile-toggle-holder">
-<div class="mobile-toggle">
-<span></span><span></span><span></span>
-</div>
-</div>
-<div class="thb_header_left">
-</div>
-</div>
-<div class="small-4 columns">
-<div class="logo-holder">
-<a class="logolink" href="https://wundergroundmusic.com/" title="Wunderground Music">
-<img alt="Wunderground Music" class="logoimg logo-dark" data-logo-alt="https://wundergroundmusic.com/wp-content/uploads/2015/07/WUNDERGROUND-BLUE-3.png" src="https://wundergroundmusic.com/wp-content/uploads/2015/07/WUNDERGROUND-BLUE-3.png"/>
-</a>
-</div>
-</div>
-<div class="small-4 columns">
-<div class="secondary-area">
-<div class="thb-follow-holder">
-<ul class="thb-full-menu thb-standard">
-<li class="menu-item-has-children">
-<a><span>Follow</span></a>
-<ul class="sub-menu">
-<li> <div class="thb-social-links-container thb-social-vertical mono-icons">
-<div class="thb-social-link-wrap">
-<a class="thb-social-link social-link-facebook" href="https://facebook.com/goingwunderground" rel="noreferrer" target="_blank">
-<div class="thb-social-label-container">
-<div class="thb-social-icon-container"><i class="thb-icon-facebook"></i></div>
-<div class="thb-social-label">Facebook</div> </div>
-<div class="thb-social-count">
-						238K					</div>
-</a>
-</div>
-<div class="thb-social-link-wrap">
-<a class="thb-social-link social-link-twitter" href="https://twitter.com/wunderground_ie" rel="noreferrer" target="_blank">
-<div class="thb-social-label-container">
-<div class="thb-social-icon-container"><i class="thb-icon-twitter"></i></div>
-<div class="thb-social-label">Twitter</div> </div>
-<div class="thb-social-count">
-						16.7K					</div>
-</a>
-</div>
-</div>
-</li>
-<li class="subscribe_part">
-<aside class="thb-article-subscribe thb-newsletter-form">
-<div class="thb-subscribe-icon-container"><svg class="thb-subscribe-icon" style="enable-background:new 0 0 90 68;" version="1.1" viewbox="0 0 90 68" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-<path d="M89.9,7.9c0-4.3-3.6-7.9-7.9-7.9L7.8,0.1C3.5,0.1,0,3.8,0,8.1l0.1,52c0,4.3,3.6,7.9,7.9,7.9l74.2-0.1c4.3,0,7.8-3.6,7.8-8
-			L89.9,7.9z M7.8,4.4l74.2-0.1c0.4,0,0.8,0.1,1.2,0.2L48.9,39.4c-1,1.1-2.4,1.6-3.9,1.6c-1.5,0-2.8-0.5-3.9-1.6L6.7,4.6
-			C7,4.5,7.4,4.4,7.8,4.4z M82.2,63.6L7.9,63.8c-2,0-3.7-1.7-3.7-3.7l-0.1-52l34,34.4c1.8,1.8,4.3,2.9,6.8,2.9c2.5,0,5-1.1,6.8-2.9
-			L85.7,7.9l0.1,52C85.8,61.9,84.2,63.6,82.2,63.6z M80.5,55.7L62.9,40c-0.8-0.7-2.2-0.7-2.9,0.2c-0.7,0.8-0.7,2.2,0.2,3l17.6,15.7
-			c0.4,0.3,0.9,0.5,1.4,0.5c0.6,0,1.1-0.2,1.6-0.7C81.4,57.8,81.4,56.4,80.5,55.7z M26.9,40.3L9.5,55.8c-0.8,0.7-0.9,2.1-0.2,3
-			c0.5,0.5,1,0.7,1.7,0.7c0.5,0,0.9-0.2,1.4-0.5l17.3-15.5c0.8-0.7,0.9-2.1,0.2-3C29.1,39.6,27.8,39.5,26.9,40.3z"></path>
-</svg>
-</div>
-<h4>
-		Sign Up to Our Newsletter	</h4>
-<p>
-		Get notified about exclusive offers every week!	</p>
-<form action="#" class="newsletter-form" data-security="69d77d8c86" method="post">
-<input class="widget_subscribe large" name="widget_subscribe" placeholder="Your E-Mail" type="text"/>
-<button class="btn large" name="submit" type="submit">SIGN UP</button>
-<div class="thb-preloader">
-<svg class="material-spinner" height="50px" viewbox="0 0 66 66" width="50px" xmlns="http://www.w3.org/2000/svg">
-<circle class="material-path" cx="33" cy="33" fill="none" r="30" stroke-linecap="round" stroke-width="6"></circle>
-</svg> </div>
-</form>
-<div class="thb-custom-checkbox">
-<input checked="checked" class="thb-newsletter-privacy" id="thb-newsletter-privacy-903" name="thb-newsletter-privacy" type="checkbox"/>
-<label for="thb-newsletter-privacy-903">
-				I would like to receive news and special offers.			</label>
-</div>
-</aside>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="thb-trending-holder">
-<ul class="thb-full-menu">
-<li class="menu-item-has-children">
-<a><span><svg class="thb-trending-icon" enable-background="new 0 0 10 14" version="1.1" viewbox="0 0 10 14" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-<path d="M9.3,4.3H6.3l1-3.4C7.4,0.5,7.2,0.1,6.8,0C6.7,0,6.7,0,6.6,0h-4C2.3,0,2,0.2,1.9,0.5L0,7c-0.1,0.4,0.1,0.8,0.5,0.9
-	c0.1,0,0.1,0,0.2,0h2.5l-0.5,5.3c0,0.3,0.2,0.6,0.5,0.7l0.3,0c0.2,0,0.5-0.1,0.6-0.3l5.8-8.3c0.2-0.3,0.1-0.8-0.2-1
-	C9.5,4.3,9.4,4.3,9.3,4.3z M4.5,10.6l0.3-3.4c0-0.4-0.3-0.8-0.7-0.8c0,0-0.1,0-0.1,0H1.7l1.4-5h2.5l-1,3.4C4.5,5.2,4.7,5.6,5.1,5.7
-	c0.1,0,0.1,0,0.2,0h2.5L4.5,10.6z"></path>
-</svg>
-</span></a>
-<div class="sub-menu">
-<div class="thb-trending" data-security="619db6c621">
-<div class="thb-trending-tabs">
-<a class="active" data-time="2">Now</a>
-<a data-time="7">Week</a>
-<a data-time="30">Month</a>
-</div>
-<div class="thb-trending-content">
-<div class="thb-trending-content-inner">
-<div class="post thumbnail-style3 post-23943 type-post status-publish format-standard has-post-thumbnail hentry">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/quality-of-coke-now-measured-by-how-quickly-it-makes-you-need-to-poo/">
-<img alt="" class="attachment-theissue-thumbnail size-theissue-thumbnail wp-image-23944 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2015/06/nigella_lawson_Master.jpg" height="68" src="https://wundergroundmusic.com/wp-content/uploads/2015/06/nigella_lawson_Master.jpg" width="90"/> </a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/quality-of-coke-now-measured-by-how-quickly-it-makes-you-need-to-poo/" title="Quality Of Coke Now Measured By How Quickly It Makes You Need To Poo"><span>Quality Of Coke Now Measured By How Quickly It Makes You Need To Poo</span></a></h5></div> </div>
-</div><div class="post thumbnail-style3 post-18860 type-post status-publish format-standard has-post-thumbnail hentry">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/woman-who-smelled-her-armpit-on-boiler-room-given-own-tv-show/">
-</a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/woman-who-smelled-her-armpit-on-boiler-room-given-own-tv-show/" title="Woman Who Smelled Her Armpit On Boiler Room Given Own TV Show"><span>Woman Who Smelled Her Armpit On Boiler Room Given Own TV Show</span></a></h5></div> </div>
-</div><div class="post thumbnail-style3 post-31556 type-post status-publish format-standard has-post-thumbnail hentry">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/man-breaks-world-record-by-snorting-line-of-coke-1-2-kilometers-long/">
-<img alt="" class="attachment-theissue-thumbnail size-theissue-thumbnail wp-image-31557 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2016/09/big-line-of-coke_o_620136-e1475072788938.jpg" height="66" src="https://wundergroundmusic.com/wp-content/uploads/2016/09/big-line-of-coke_o_620136-e1475072788938.jpg" width="90"/> </a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/man-breaks-world-record-by-snorting-line-of-coke-1-2-kilometers-long/" title="Man Breaks World Record By Snorting Line Of Coke 1.2 Kilometers Long"><span>Man Breaks World Record By Snorting Line Of Coke 1.2 Kilometers Long</span></a></h5></div> </div>
-</div><div class="post thumbnail-style3 post-24061 type-post status-publish format-standard has-post-thumbnail hentry">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/she-looked-pretty-stupid-with-a-chimney-on-her-reveals-the-tamperer/">
-<img alt="" class="attachment-theissue-thumbnail size-theissue-thumbnail wp-image-24068 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2015/06/thetamperer.jpg" height="51" src="https://wundergroundmusic.com/wp-content/uploads/2015/06/thetamperer.jpg" width="90"/> </a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/she-looked-pretty-stupid-with-a-chimney-on-her-reveals-the-tamperer/" title="“She Looked Pretty Stupid With A Chimney On Her” Reveals The Tamperer"><span>“She Looked Pretty Stupid With A Chimney On Her” Reveals The Tamperer</span></a></h5></div> </div>
-</div><div class="post thumbnail-style3 post-18877 type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
-<figure class="post-gallery">
-<a href="https://wundergroundmusic.com/leaked-skreams-rider-leaked-ahead-of-gig-in-dublin-tonight/">
-<img alt="" class="attachment-theissue-thumbnail size-theissue-thumbnail wp-image-9478 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2013/06/SKREAM-1.jpg" height="60" src="https://wundergroundmusic.com/wp-content/uploads/2013/06/SKREAM-1.jpg" width="90"/> </a>
-</figure>
-<div class="thumbnail-style2-inner">
-<div class="post-title"><h5><a href="https://wundergroundmusic.com/leaked-skreams-rider-leaked-ahead-of-gig-in-dublin-tonight/" title="LEAKED: Skream’s Rider Leaked Ahead Of Gig In Dublin Tonight"><span>LEAKED: Skream’s Rider Leaked Ahead Of Gig In Dublin Tonight</span></a></h5></div> </div>
-</div> </div>
-<div class="thb-preloader">
-<svg class="material-spinner" height="50px" viewbox="0 0 66 66" width="50px" xmlns="http://www.w3.org/2000/svg">
-<circle class="material-path" cx="33" cy="33" fill="none" r="30" stroke-linecap="round" stroke-width="6"></circle>
-</svg> </div>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</div>
-<div class="thb-search-holder">
-<svg class="thb-search-icon" enable-background="new 0 0 14 14" height="14" version="1.1" viewbox="0 0 14 14" width="14" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
-<path d="M13.8,12.7l-3-3c0.8-1,1.3-2.3,1.3-3.8c0-3.3-2.7-6-6.1-6C2.7,0,0,2.7,0,6c0,3.3,2.7,6,6.1,6c1.4,0,2.6-0.5,3.6-1.2l3,3
-			c0.1,0.1,0.3,0.2,0.5,0.2c0.2,0,0.4-0.1,0.5-0.2C14.1,13.5,14.1,13,13.8,12.7z M1.5,6c0-2.5,2-4.5,4.5-4.5c2.5,0,4.5,2,4.5,4.5
-			c0,2.5-2,4.5-4.5,4.5C3.5,10.5,1.5,8.5,1.5,6z"></path>
-</svg>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="small-12 columns">
-<div class="thb-navbar">
-<!-- Start Full Menu -->
-<nav class="full-menu">
-<ul class="thb-full-menu thb-standard" id="menu-wg-2020-main-active-1"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045425"><a href="https://wundergroundmusic.com/category/music/"><span>Music</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045433"><a href="https://wundergroundmusic.com/category/music/techno/"><span>Techno</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045430"><a href="https://wundergroundmusic.com/category/music/house/"><span>House</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045432"><a href="https://wundergroundmusic.com/category/music/tech-house/"><span>Tech House</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045434"><a href="https://wundergroundmusic.com/category/music/trance/"><span>Trance</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045426"><a href="https://wundergroundmusic.com/category/music/drum-bass/"><span>Drum &amp; Bass</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045427"><a href="https://wundergroundmusic.com/category/music/edm/"><span>EDM</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045428"><a href="https://wundergroundmusic.com/category/music/grime/"><span>Grime</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045431"><a href="https://wundergroundmusic.com/category/music/psytrance/"><span>Psytrance</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045429"><a href="https://wundergroundmusic.com/category/music/hip-hop/"><span>Hip-Hop</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045439"><a href="https://wundergroundmusic.com/category/humans/"><span>Humans</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045442"><a href="https://wundergroundmusic.com/category/humans/djs/"><span>DJs</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045446"><a href="https://wundergroundmusic.com/category/humans/producers/"><span>Producers</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045443"><a href="https://wundergroundmusic.com/category/humans/fans/"><span>Fans</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045444"><a href="https://wundergroundmusic.com/category/humans/industry-folk/"><span>Industry Folk</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045447"><a href="https://wundergroundmusic.com/category/humans/promoters/"><span>Promoters</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045440"><a href="https://wundergroundmusic.com/category/humans/bedroom-djs/"><span>Bedroom DJs</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045445"><a href="https://wundergroundmusic.com/category/humans/people-of-the-world/"><span>People Of The World</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045449"><a href="https://wundergroundmusic.com/category/humans/vocalists/"><span>Vocalists</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045441"><a href="https://wundergroundmusic.com/category/humans/celebs/"><span>Celebs</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045424"><a href="https://wundergroundmusic.com/category/events/"><span>Events</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045435"><a href="https://wundergroundmusic.com/category/events/clubs/"><span>Clubs</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045436"><a href="https://wundergroundmusic.com/category/events/festivals/"><span>Festivals</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045438"><a href="https://wundergroundmusic.com/category/humans/promoters/"><span>Promoters</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045437"><a href="https://wundergroundmusic.com/category/events/vip/"><span>VIP</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045417"><a href="https://wundergroundmusic.com/category/culture/"><span>Culture</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045421"><a href="https://wundergroundmusic.com/category/culture/scene/"><span>Scene</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045419"><a href="https://wundergroundmusic.com/category/culture/fashion/"><span>Fashion</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045420"><a href="https://wundergroundmusic.com/category/culture/food/"><span>Food</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045418"><a href="https://wundergroundmusic.com/category/culture/drinks/"><span>Drinks</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045423"><a href="https://wundergroundmusic.com/category/culture/vinyl/"><span>Vinyl</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045422"><a href="https://wundergroundmusic.com/category/culture/tech/"><span>Tech</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045450"><a href="https://wundergroundmusic.com/category/world/"><span>World</span></a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045454"><a href="https://wundergroundmusic.com/category/world/online/"><span>Online</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045451"><a href="https://wundergroundmusic.com/category/world/environment/"><span>Environment</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045452"><a href="https://wundergroundmusic.com/category/world/health-fitness/"><span>Health &amp; Fitness</span></a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045453"><a href="https://wundergroundmusic.com/category/world/ibiza/"><span>Ibiza</span></a></li>
-</ul>
-</li>
-</ul></nav>
-<!-- End Full Menu -->
-</div>
-</div>
-</div>
-</header>
-<!-- End Header -->
 <div role="main">
 <div class="post-1043454 page type-page status-publish hentry">
-<div class="row wpb_row row-fluid"><div class="wpb_column columns medium-12 thb-dark-column has-fill small-12"><div class="vc_column-inner vc_custom_1602425590655"><div class="wpb_wrapper"> <div class="thb-post-grid thb-post-grid-style9 row" data-loadmore="#loadmore-98" data-rand="98" data-security="31c8438b4f">
+<div class="row wpb_row row-fluid"><div class="wpb_column columns medium-12 thb-dark-column has-fill small-12"><div class="vc_column-inner vc_custom_1602425590655"><div class="wpb_wrapper"> <div class="thb-post-grid thb-post-grid-style9 row" data-loadmore="#loadmore-52" data-rand="52" data-security="6b9903717e">
 <div class="small-12 medium-6 columns">
 <div class="post style4 featured-style post-1045781 type-post status-publish format-standard has-post-thumbnail hentry category-djs tag-featured">
 <figure class="post-gallery thb-parallax" data-video="">
@@ -660,20 +228,20 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </div>
 </div> </div>
 </div>
-<div class="vc_empty_space" id="thb-empty-space-605185a05c870" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" id="thb-empty-space-605f5e35ddab6" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
 <style>
 	@media screen and (max-width: 640px) {
-		#thb-empty-space-605185a05c870 {
+		#thb-empty-space-605f5e35ddab6 {
 			height: 30px !important;
 		}
 	}
 </style>
-</div></div></div></div><div class="row wpb_row row-fluid vc_custom_1602425732394 row-has-fill"><div class="wpb_column columns medium-12 thb-dark-column has-fill small-12"><div class="vc_column-inner vc_custom_1602427702833"><div class="wpb_wrapper"> <div class="thb_title style2" id="thb-title-605185a05ce32">
+</div></div></div></div><div class="row wpb_row row-fluid vc_custom_1602425732394 row-has-fill"><div class="wpb_column columns medium-12 thb-dark-column has-fill small-12"><div class="vc_column-inner vc_custom_1602427702833"><div class="wpb_wrapper"> <div class="thb_title style2" id="thb-title-605f5e35dde87">
 <div class="thb_title_inner">
 <h2>RECENT NEWS</h2>
 </div>
 </div>
-</div></div></div></div><div class="row wpb_row row-fluid vc_custom_1602425744842 row-has-fill"><div class="wpb_column columns medium-12 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="row posts thb-masonry thb-post-masonry-style2 pagination-style2" data-loadmore="#loadmore-64" data-rand="64" data-security="cf4a2780aa">
+</div></div></div></div><div class="row wpb_row row-fluid vc_custom_1602425744842 row-has-fill"><div class="wpb_column columns medium-12 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="row posts thb-masonry thb-post-masonry-style2 pagination-style2" data-loadmore="#loadmore-87" data-rand="87" data-security="edcde0aa02">
 <div class="small-12 medium-4 columns">
 <div class="post masonry-style2 post-1045875 type-post status-publish format-standard has-post-thumbnail hentry category-clubs tag-berghain tag-covid">
 <figure class="post-gallery">
@@ -784,12 +352,12 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </div>
 </div>
 <div class="text-center masonry_loader">
-<a class="thb_load_more btn pill-radius large black" id="loadmore-64">Show More Posts</a>
+<a class="thb_load_more btn pill-radius large black" id="loadmore-87">Show More Posts</a>
 </div>
-<div class="vc_empty_space" id="thb-empty-space-605185a065e96" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" id="thb-empty-space-605f5e35e51cb" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
 <style>
 	@media screen and (max-width: 640px) {
-		#thb-empty-space-605185a065e96 {
+		#thb-empty-space-605f5e35e51cb {
 			height: 20px !important;
 		}
 	}
@@ -800,8 +368,8 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 <h5 style="text-align: center;"><span style="color: #ffffff;">Featured Stories</span></h5>
 </div>
 </div>
-<div class="vc_empty_space" id="thb-empty-space-605185a066bb5" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-</div></div></div></div><div class="row wpb_row vc_inner row-fluid max_width row-o-content-middle row-flex"><div class="wpb_column columns medium-8 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="thb-post-grid thb-post-grid-style9 row" data-loadmore="#loadmore-92" data-rand="92" data-security="31c8438b4f">
+<div class="vc_empty_space" id="thb-empty-space-605f5e35e5f10" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div><div class="row wpb_row vc_inner row-fluid max_width row-o-content-middle row-flex"><div class="wpb_column columns medium-8 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="thb-post-grid thb-post-grid-style9 row" data-loadmore="#loadmore-77" data-rand="77" data-security="6b9903717e">
 <div class="small-12 medium-12 columns">
 <div class="post style4 featured-style post-1045695 type-post status-publish format-standard has-post-thumbnail hentry category-hip-hop tag-covid-19 tag-featured tag-tupac">
 <figure class="post-gallery thb-parallax" data-video="">
@@ -824,25 +392,25 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </div>
 </div> </div>
 </div>
-</div></div></div><div class="smaller_image wpb_column columns medium-4 thb-dark-column small-12"><div class="vc_column-inner vc_custom_1548666679899"><div class="wpb_wrapper"><div class="vc_empty_space" id="thb-empty-space-605185a06a1ab" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-<div class="thb-post-grid thb-post-grid-style1-left row" data-loadmore="#loadmore-23" data-rand="23" data-security="31c8438b4f">
+</div></div></div><div class="smaller_image wpb_column columns medium-4 thb-dark-column small-12"><div class="vc_column-inner vc_custom_1548666679899"><div class="wpb_wrapper"><div class="vc_empty_space" id="thb-empty-space-605f5e35e8794" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+<div class="thb-post-grid thb-post-grid-style1-left row" data-loadmore="#loadmore-53" data-rand="53" data-security="6b9903717e">
 </div>
-<div class="vc_empty_space" id="thb-empty-space-605185a06a7a2" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
-</div></div></div></div></div></div></div></div><div class="row wpb_row row-fluid"><div class="wpb_column columns medium-12 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space" id="thb-empty-space-605185a06ac82" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" id="thb-empty-space-605f5e35e8df9" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div></div></div></div><div class="row wpb_row row-fluid"><div class="wpb_column columns medium-12 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space" id="thb-empty-space-605f5e35e92e7" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
 <style>
 	@media screen and (max-width: 640px) {
-		#thb-empty-space-605185a06ac82 {
+		#thb-empty-space-605f5e35e92e7 {
 			height: 40px !important;
 		}
 	}
 </style>
-<div class="thb_title style2" id="thb-title-605185a06acb7">
+<div class="thb_title style2" id="thb-title-605f5e35e931d">
 <div class="thb_title_inner">
 <h2>HUMANS</h2>
 <a href="#" target="_self">View All</a>
 </div>
 </div>
-</div></div></div></div><div class="row wpb_row row-fluid"><div class="wpb_column columns medium-12 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="thb-post-grid thb-post-grid-style1-left row" data-loadmore="#loadmore-93" data-rand="93" data-security="31c8438b4f">
+</div></div></div></div><div class="row wpb_row row-fluid"><div class="wpb_column columns medium-12 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="thb-post-grid thb-post-grid-style1-left row" data-loadmore="#loadmore-49" data-rand="49" data-security="6b9903717e">
 <div class="small-12 medium-3 columns">
 <div class="post style1 post-1045852 type-post status-publish format-standard has-post-thumbnail hentry category-djs tag-marshmello">
 <figure class="post-gallery">
@@ -916,20 +484,20 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </div>
 </div>
 </div>
-<div class="vc_empty_space" id="thb-empty-space-605185a06ef2f" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" id="thb-empty-space-605f5e35ee2aa" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
 <style>
 	@media screen and (max-width: 640px) {
-		#thb-empty-space-605185a06ef2f {
+		#thb-empty-space-605f5e35ee2aa {
 			height: 30px !important;
 		}
 	}
 </style>
-</div></div></div></div><div class="row wpb_row row-fluid"><div class="sidebar-content wpb_column columns medium-9 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="thb_title style2" id="thb-title-605185a06f32e">
+</div></div></div></div><div class="row wpb_row row-fluid"><div class="sidebar-content wpb_column columns medium-9 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="thb_title style2" id="thb-title-605f5e35ee900">
 <div class="thb_title_inner">
 <h2>MUSIC</h2>
 </div>
 </div>
-<div class="thb-post-grid thb-post-grid-style2 pagination-style2" data-loadmore="#loadmore-84" data-rand="84" data-security="31c8438b4f">
+<div class="thb-post-grid thb-post-grid-style2 pagination-style2" data-loadmore="#loadmore-85" data-rand="85" data-security="6b9903717e">
 <div class="post style3 post-41310 type-post status-publish format-standard has-post-thumbnail hentry category-music tag-psytrance">
 <div class="row align-middle no-padding">
 <div class="small-12 medium-5 columns">
@@ -1041,13 +609,13 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </aside>
 </div>
 </div> <aside class="text-center masonry_loader">
-<a class="thb_load_more btn pill-radius large black" id="loadmore-84">Show More Posts</a>
+<a class="thb_load_more btn pill-radius large black" id="loadmore-85">Show More Posts</a>
 </aside>
 </div>
-<div class="vc_empty_space" id="thb-empty-space-605185a07b112" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" id="thb-empty-space-605f5e3601561" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
 <style>
 	@media screen and (max-width: 640px) {
-		#thb-empty-space-605185a07b112 {
+		#thb-empty-space-605f5e3601561 {
 			height: 40px !important;
 		}
 	}
@@ -1115,7 +683,7 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 <div class="thb-tweet-text">Job Site Now Has ‘More DJs Than Beatport’
 
 <a href="https://t.co/uZLyrABhTP" target="_blank">https://t.co/uZLyrABhTP</a></div>
-<div class="thb-tweet-time"><a href="https://twitter.com/Wunderground_ie/status/1363182492027654145" target="_blank">3 weeks ago</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/Wunderground_ie/status/1363182492027654145" target="_blank">1 month ago</a></div>
 <div class="thb-tweet-actions">
 <a class="social" href="https://twitter.com/intent/tweet?in_reply_to=1363182492027654145"><i class="thb-icon-comment"></i></a>
 <a class="social" href="https://twitter.com/intent/retweet?tweet_id=1363182492027654145"><svg class="thb-icon-retweet" enable-background="new 0 0 13 9" height="9px" version="1.1" viewbox="0 0 13 9" width="13px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
@@ -1136,7 +704,7 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 <div class="thb-tweet-text">Berghain Hope To Resume Not Letting People In Sometime This Year
 
 <a href="https://t.co/j1slNjrFZr" target="_blank">https://t.co/j1slNjrFZr</a></div>
-<div class="thb-tweet-time"><a href="https://twitter.com/Wunderground_ie/status/1363167330235252741" target="_blank">3 weeks ago</a></div>
+<div class="thb-tweet-time"><a href="https://twitter.com/Wunderground_ie/status/1363167330235252741" target="_blank">1 month ago</a></div>
 <div class="thb-tweet-actions">
 <a class="social" href="https://twitter.com/intent/tweet?in_reply_to=1363167330235252741"><i class="thb-icon-comment"></i></a>
 <a class="social" href="https://twitter.com/intent/retweet?tweet_id=1363167330235252741"><svg class="thb-icon-retweet" enable-background="new 0 0 13 9" height="9px" version="1.1" viewbox="0 0 13 9" width="13px" x="0px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
@@ -1156,10 +724,10 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </div>
 </div>
 </div>
-<div class="vc_empty_space" id="thb-empty-space-605185a0ab1a4" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" id="thb-empty-space-605f5e362e2ae" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
 <style>
 	@media screen and (max-width: 640px) {
-		#thb-empty-space-605185a0ab1a4 {
+		#thb-empty-space-605f5e362e2ae {
 			height: 40px !important;
 		}
 	}
@@ -1169,18 +737,18 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </div> <!-- End Main -->
 <!-- Start Footer -->
 <footer class="footer light footer-full-width-off" id="footer">
-<div class="row wpb_row row-fluid vc_custom_1602443045447 row-has-fill row-o-content-middle row-flex"><div class="wpb_column columns medium-6 thb-dark-column small-12"><div class="vc_column-inner vc_custom_1548507701198"><div class="wpb_wrapper"> <div class="thb-slidetype" data-style="style1" id="thb-slidetype-605185a0ad3ce">
+<div class="row wpb_row row-fluid vc_custom_1602443045447 row-has-fill row-o-content-middle row-flex"><div class="wpb_column columns medium-6 thb-dark-column small-12"><div class="vc_column-inner vc_custom_1548507701198"><div class="wpb_wrapper"> <div class="thb-slidetype" data-style="style1" id="thb-slidetype-605f5e3631186">
 <h2><span class="thb-slidetype-entry"><span class="lines">Become a Member</span></span></h2>
 </div>
-<div class="vc_empty_space" id="thb-empty-space-605185a0ad4ab" style="height: 5px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" id="thb-empty-space-605f5e3631269" style="height: 5px"><span class="vc_empty_space_inner"></span></div>
 <div class="wpb_text_column wpb_content_element animation fade-in">
 <div class="wpb_wrapper">
 <p>Get Wunderground’s Real News direct to your inbox. It’s brand new and we don’t publish it anywhere else!</p>
 </div>
 </div>
-<a class="btn style2 large white no-radius animation fade-in" href="https://bit.ly/wgrealnews2" id="thb-button-605185a0ad628" role="button" target="_blank">
+<a class="btn style2 large white no-radius animation fade-in" href="https://bit.ly/wgrealnews2" id="thb-button-605f5e36313aa" role="button" target="_blank">
 <span>Subscribe Now</span></a>
-</div></div></div><div class="wpb_column columns medium-6 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="caption-style1 animation fade-in alignleft thb_image_link wp-caption" id="thb-image-605185a0ad8a7">
+</div></div></div><div class="wpb_column columns medium-6 thb-dark-column small-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="caption-style1 animation fade-in alignleft thb_image_link wp-caption" id="thb-image-605f5e363153d">
 <div class="thb-image-inner size_100">
 <img alt="" class="thb_image retina_size attachment-full wp-image-1045511 thb-lazyload lazyload" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers.png" data-srcset="https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers.png 1000w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-300x208.png 300w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-768x531.png 768w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-370x256.png 370w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-800x554.png 800w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-185x128.png 185w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-740x512.png 740w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-20x14.png 20w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-400x277.png 400w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-600x415.png 600w, https://wundergroundmusic.com/wp-content/uploads/2020/04/Magazines-Covers-69x48.png 69w" height="692" sizes="(max-width: 1000px) 100vw, 1000px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="1000"/> </div>
 </div>
@@ -1208,16 +776,16 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </a>
 </div>
 </div>
-</div><div class="widget style1 thb_widget_posts" id="thb_posts_widget-19"><div class="thb-widget-title"><span>Did You Know?</span></div><div class="post thumbnail-style4 post-41337 type-post status-publish format-standard has-post-thumbnail hentry category-djs category-health-fitness">
+</div><div class="widget style1 thb_widget_posts" id="thb_posts_widget-19"><div class="thb-widget-title"><span>Did You Know?</span></div><div class="post thumbnail-style4 post-40817 type-post status-publish format-standard has-post-thumbnail hentry category-djs category-techno">
 <figure class="post-gallery">
-<a href="https://wundergroundmusic.com/1-in-4-stis-linked-to-djs/">
-<img alt="" class="attachment-theissue-thumbnail-x2 size-theissue-thumbnail-x2 wp-image-41338 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2019/07/istockphoto-472927279-640x640.jpg" height="101" src="https://wundergroundmusic.com/wp-content/uploads/2019/07/istockphoto-472927279-640x640.jpg" width="180"/> </a>
+<a href="https://wundergroundmusic.com/techno-djs-voted-worst-at-telling-jokes/">
+<img alt="" class="attachment-theissue-thumbnail-x2 size-theissue-thumbnail-x2 wp-image-40818 thb-lazyload lazyload wp-post-image" data-sizes="auto" data-src="https://wundergroundmusic.com/wp-content/uploads/2019/02/Adam-Beyer-03.jpg" height="120" src="https://wundergroundmusic.com/wp-content/uploads/2019/02/Adam-Beyer-03.jpg" width="180"/> </a>
 </figure>
 <div class="thumbnail-style4-inner">
-<div class="post-title"><h6><a href="https://wundergroundmusic.com/1-in-4-stis-linked-to-djs/" title="1 In 4 STIs Linked To DJs"><span>1 In 4 STIs Linked To DJs</span></a></h6></div> <aside class="thb-post-bottom">
+<div class="post-title"><h6><a href="https://wundergroundmusic.com/techno-djs-voted-worst-at-telling-jokes/" title="Techno DJs Voted Worst At Telling Jokes"><span>Techno DJs Voted Worst At Telling Jokes</span></a></h6></div> <aside class="thb-post-bottom">
 <ul>
-<li class="post-date">July 12, 2019</li>
-<li class="post-read">1 min Read</li>
+<li class="post-date">March 1, 2019</li>
+<li class="post-read">2 mins Read</li>
 </ul>
 </aside>
 </div>
@@ -1285,56 +853,56 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </div>
 <div class="custom_scroll side-panel-inner" id="menu-scroll">
 <div class="mobile-menu-top">
-<ul class="thb-mobile-menu" id="menu-wg-2020-main-active-2"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045425"><a href="https://wundergroundmusic.com/category/music/">Music<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
+<ul class="thb-mobile-menu" id="menu-wg-2020-main-active"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045425" id="menu-item-1045425"><a href="https://wundergroundmusic.com/category/music/">Music<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045433"><a href="https://wundergroundmusic.com/category/music/techno/">Techno</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045430"><a href="https://wundergroundmusic.com/category/music/house/">House</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045432"><a href="https://wundergroundmusic.com/category/music/tech-house/">Tech House</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045434"><a href="https://wundergroundmusic.com/category/music/trance/">Trance</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045426"><a href="https://wundergroundmusic.com/category/music/drum-bass/">Drum &amp; Bass</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045427"><a href="https://wundergroundmusic.com/category/music/edm/">EDM</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045428"><a href="https://wundergroundmusic.com/category/music/grime/">Grime</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045431"><a href="https://wundergroundmusic.com/category/music/psytrance/">Psytrance</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045429"><a href="https://wundergroundmusic.com/category/music/hip-hop/">Hip-Hop</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045433" id="menu-item-1045433"><a href="https://wundergroundmusic.com/category/music/techno/">Techno</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045430" id="menu-item-1045430"><a href="https://wundergroundmusic.com/category/music/house/">House</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045432" id="menu-item-1045432"><a href="https://wundergroundmusic.com/category/music/tech-house/">Tech House</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045434" id="menu-item-1045434"><a href="https://wundergroundmusic.com/category/music/trance/">Trance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045426" id="menu-item-1045426"><a href="https://wundergroundmusic.com/category/music/drum-bass/">Drum &amp; Bass</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045427" id="menu-item-1045427"><a href="https://wundergroundmusic.com/category/music/edm/">EDM</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045428" id="menu-item-1045428"><a href="https://wundergroundmusic.com/category/music/grime/">Grime</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045431" id="menu-item-1045431"><a href="https://wundergroundmusic.com/category/music/psytrance/">Psytrance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045429" id="menu-item-1045429"><a href="https://wundergroundmusic.com/category/music/hip-hop/">Hip-Hop</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045439"><a href="https://wundergroundmusic.com/category/humans/">Humans<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045439" id="menu-item-1045439"><a href="https://wundergroundmusic.com/category/humans/">Humans<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045442"><a href="https://wundergroundmusic.com/category/humans/djs/">DJs</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045446"><a href="https://wundergroundmusic.com/category/humans/producers/">Producers</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045443"><a href="https://wundergroundmusic.com/category/humans/fans/">Fans</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045444"><a href="https://wundergroundmusic.com/category/humans/industry-folk/">Industry Folk</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045447"><a href="https://wundergroundmusic.com/category/humans/promoters/">Promoters</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045440"><a href="https://wundergroundmusic.com/category/humans/bedroom-djs/">Bedroom DJs</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045445"><a href="https://wundergroundmusic.com/category/humans/people-of-the-world/">People Of The World</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045449"><a href="https://wundergroundmusic.com/category/humans/vocalists/">Vocalists</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045441"><a href="https://wundergroundmusic.com/category/humans/celebs/">Celebs</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045442" id="menu-item-1045442"><a href="https://wundergroundmusic.com/category/humans/djs/">DJs</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045446" id="menu-item-1045446"><a href="https://wundergroundmusic.com/category/humans/producers/">Producers</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045443" id="menu-item-1045443"><a href="https://wundergroundmusic.com/category/humans/fans/">Fans</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045444" id="menu-item-1045444"><a href="https://wundergroundmusic.com/category/humans/industry-folk/">Industry Folk</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045447" id="menu-item-1045447"><a href="https://wundergroundmusic.com/category/humans/promoters/">Promoters</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045440" id="menu-item-1045440"><a href="https://wundergroundmusic.com/category/humans/bedroom-djs/">Bedroom DJs</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045445" id="menu-item-1045445"><a href="https://wundergroundmusic.com/category/humans/people-of-the-world/">People Of The World</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045449" id="menu-item-1045449"><a href="https://wundergroundmusic.com/category/humans/vocalists/">Vocalists</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045441" id="menu-item-1045441"><a href="https://wundergroundmusic.com/category/humans/celebs/">Celebs</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045424"><a href="https://wundergroundmusic.com/category/events/">Events<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045424" id="menu-item-1045424"><a href="https://wundergroundmusic.com/category/events/">Events<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045435"><a href="https://wundergroundmusic.com/category/events/clubs/">Clubs</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045436"><a href="https://wundergroundmusic.com/category/events/festivals/">Festivals</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045438"><a href="https://wundergroundmusic.com/category/humans/promoters/">Promoters</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045437"><a href="https://wundergroundmusic.com/category/events/vip/">VIP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045435" id="menu-item-1045435"><a href="https://wundergroundmusic.com/category/events/clubs/">Clubs</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045436" id="menu-item-1045436"><a href="https://wundergroundmusic.com/category/events/festivals/">Festivals</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045438" id="menu-item-1045438"><a href="https://wundergroundmusic.com/category/humans/promoters/">Promoters</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045437" id="menu-item-1045437"><a href="https://wundergroundmusic.com/category/events/vip/">VIP</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045417"><a href="https://wundergroundmusic.com/category/culture/">Culture<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045417" id="menu-item-1045417"><a href="https://wundergroundmusic.com/category/culture/">Culture<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045421"><a href="https://wundergroundmusic.com/category/culture/scene/">Scene</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045419"><a href="https://wundergroundmusic.com/category/culture/fashion/">Fashion</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045420"><a href="https://wundergroundmusic.com/category/culture/food/">Food</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045418"><a href="https://wundergroundmusic.com/category/culture/drinks/">Drinks</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045423"><a href="https://wundergroundmusic.com/category/culture/vinyl/">Vinyl</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045422"><a href="https://wundergroundmusic.com/category/culture/tech/">Tech</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045421" id="menu-item-1045421"><a href="https://wundergroundmusic.com/category/culture/scene/">Scene</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045419" id="menu-item-1045419"><a href="https://wundergroundmusic.com/category/culture/fashion/">Fashion</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045420" id="menu-item-1045420"><a href="https://wundergroundmusic.com/category/culture/food/">Food</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045418" id="menu-item-1045418"><a href="https://wundergroundmusic.com/category/culture/drinks/">Drinks</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045423" id="menu-item-1045423"><a href="https://wundergroundmusic.com/category/culture/vinyl/">Vinyl</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045422" id="menu-item-1045422"><a href="https://wundergroundmusic.com/category/culture/tech/">Tech</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045450"><a href="https://wundergroundmusic.com/category/world/">World<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1045450" id="menu-item-1045450"><a href="https://wundergroundmusic.com/category/world/">World<div class="thb-arrow"><i class="thb-icon-down-open-mini"></i></div></a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045454"><a href="https://wundergroundmusic.com/category/world/online/">Online</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045451"><a href="https://wundergroundmusic.com/category/world/environment/">Environment</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045452"><a href="https://wundergroundmusic.com/category/world/health-fitness/">Health &amp; Fitness</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045453"><a href="https://wundergroundmusic.com/category/world/ibiza/">Ibiza</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045454" id="menu-item-1045454"><a href="https://wundergroundmusic.com/category/world/online/">Online</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045451" id="menu-item-1045451"><a href="https://wundergroundmusic.com/category/world/environment/">Environment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045452" id="menu-item-1045452"><a href="https://wundergroundmusic.com/category/world/health-fitness/">Health &amp; Fitness</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1045453" id="menu-item-1045453"><a href="https://wundergroundmusic.com/category/world/ibiza/">Ibiza</a></li>
 </ul>
 </li>
 </ul> <ul class="thb-secondary-menu" id="menu-wg-2020-secondary"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045505" id="menu-item-1045505"><a href="https://wundergroundmusic.com/content-creators/">Content Creators</a></li>
@@ -1345,7 +913,7 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </ul> </div>
 <div class="mobile-menu-bottom">
 <div class="widget style1 thb_widget_subscribe" id="thb_subscribe_widget-1"> <aside class="thb-newsletter-form">
-<h4>Subscribe now to get notified about exclusive offers from The Issue every week!</h4> <form action="#" class="newsletter-form" data-security="69d77d8c86" method="post">
+<h4>Subscribe now to get notified about exclusive offers from The Issue every week!</h4> <form action="#" class="newsletter-form" data-security="7bbc923237" method="post">
 <input class="widget_subscribe" name="widget_subscribe" placeholder="Your E-Mail" type="text"/>
 <button class="btn black" name="submit" type="submit">SIGN UP</button>
 <div class="thb-preloader">
@@ -1354,8 +922,8 @@ body.custom-background #wrapper div[role="main"] { background-color: #ffffff; }
 </svg> </div>
 </form>
 <div class="thb-custom-checkbox">
-<input checked="checked" class="thb-newsletter-privacy" id="thb-newsletter-privacy-305" name="thb-newsletter-privacy" type="checkbox"/>
-<label for="thb-newsletter-privacy-305">
+<input checked="checked" class="thb-newsletter-privacy" id="thb-newsletter-privacy-119" name="thb-newsletter-privacy" type="checkbox"/>
+<label for="thb-newsletter-privacy-119">
 				I would like to receive news and special offers.			</label>
 </div>
 </aside>
@@ -1467,18 +1035,18 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 <script type="text/javascript">
 /* <![CDATA[ */
 var themeajax = {"url":"https:\/\/wundergroundmusic.com\/wp-admin\/admin-ajax.php","l10n":{"of":"%curr% of %total%","just_of":"of","loading":"Loading","lightbox_loading":"Loading...","nomore":"No More Posts","nomore_products":"All Products Loaded","loadmore":"Load More","added":"Added To Cart","no_results":"No Results Found","results_found":"Results Found","results_all":"View All Results","copied":"Copied","prev":"Prev","next":"Next","pinit":"PIN IT","adding_to_cart":"Adding to Cart"},"svg":{"prev_arrow":"<svg version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t width=\"30px\" height=\"30px\" viewBox=\"0 0 30 30\" enable-background=\"new 0 0 30 30\" xml:space=\"preserve\">\n<path class=\"thb-arrow-first\" d=\"M12.757,14.997l3.585,3.243c0.201,0.174,0.201,0.459,0,0.635c-0.203,0.175-0.532,0.175-0.734,0l-3.948-3.557\n\tc-0.203-0.175-0.203-0.459,0-0.635l3.948-3.557c0.202-0.175,0.531-0.175,0.734,0c0.201,0.175,0.201,0.459,0,0.635L12.757,14.997z\"\/>\n<path class=\"thb-arrow-second\" d=\"M12.757,14.997l3.585,3.243c0.201,0.174,0.201,0.459,0,0.635c-0.203,0.175-0.533,0.175-0.734,0l-3.948-3.557\n\tc-0.203-0.175-0.203-0.459,0-0.635l3.948-3.557c0.201-0.175,0.531-0.175,0.734,0c0.201,0.175,0.201,0.459,0,0.635L12.757,14.997z\"\/>\n<\/svg>\n","next_arrow":"<svg version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t width=\"30px\" height=\"30px\" viewBox=\"0 0 30 30\" enable-background=\"new 0 0 30 30\" xml:space=\"preserve\">\n<path class=\"thb-arrow-first\" d=\"M13.659,11.76c-0.201-0.175-0.201-0.459,0-0.635c0.203-0.175,0.532-0.175,0.734,0l3.947,3.557\n\tc0.203,0.176,0.203,0.46,0,0.635l-3.947,3.557c-0.202,0.175-0.531,0.175-0.734,0c-0.201-0.176-0.201-0.461,0-0.635l3.585-3.243\n\tL13.659,11.76z\"\/>\n<path class=\"thb-arrow-second\" d=\"M13.659,11.76c-0.201-0.175-0.201-0.459,0-0.635c0.203-0.175,0.533-0.175,0.734,0l3.948,3.557\n\tc0.203,0.176,0.203,0.46,0,0.635l-3.948,3.557c-0.201,0.175-0.531,0.175-0.734,0c-0.201-0.176-0.201-0.461,0-0.635l3.585-3.243\n\tL13.659,11.76z\"\/>\n<\/svg>\n","added_arrow":"","close_arrow":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 64 64\" enable-background=\"new 0 0 64 64\"><g fill=\"none\" stroke=\"#000\" stroke-width=\"2\" stroke-miterlimit=\"10\"><path d=\"m18.947 17.15l26.1 25.903\"\/><path d=\"m19.05 43.15l25.902-26.1\"\/><\/g><\/svg>","pagination":"<svg version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" class=\"thb-pagination-svg\" width=\"14px\" height=\"14px\" viewBox=\"0 0 16 16\" preserveAspectRatio=\"none\"><circle cx=\"8\" cy=\"8\" r=\"5.5\"><\/circle><\/svg>","preloader":"<svg class=\"material-spinner\" width=\"50px\" height=\"50px\" viewBox=\"0 0 66 66\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n   <circle class=\"material-path\" fill=\"none\" stroke-width=\"6\" stroke-linecap=\"round\" cx=\"33\" cy=\"33\" r=\"30\"><\/circle>\n<\/svg>"},"settings":{"infinite_count":"","site_url":"https:\/\/wundergroundmusic.com","current_url":"https:\/\/wundergroundmusic.com\/","fixed_header_scroll":"off","fixed_header_padding":"","general_search_ajax":"on","newsletter":"off","newsletter_length":"1","newsletter_delay":"0","newsletter_mailchimp":false,"page_transition":"on","page_transition_style":"thb-fade","page_transition_in_speed":"1000","page_transition_out_speed":"500","shop_product_listing_pagination":"style1","right_click":"off","cart_url":"https:\/\/wundergroundmusic.com","is_cart":false,"is_checkout":false,"touch_threshold":5,"mobile_menu_animation_speed":"0.3","thb_custom_video_player":"on","viai_publisher_id":""}};
-var thb_postajax_64 = {"style":"style2","count":"6","loop":"size:6|order_by:date|order:DESC|post_type:post|categories:1002364,1002363,1002362,1002346,1002365|tags:-320","columns":"3"};
-var thb_postajax_84 = {"style":"style2","loop":"size:6|post_type:post|categories:1002346|paged:1|offset:8","excerpts":"","count":"6","columns":"3","thb_i":"7","featured_index":"3,6"};
+var thb_postajax_87 = {"style":"style2","count":"6","loop":"size:6|order_by:date|order:DESC|post_type:post|categories:1002364,1002363,1002362,1002346,1002365|tags:-320","columns":"3"};
+var thb_postajax_85 = {"style":"style2","loop":"size:6|post_type:post|categories:1002346|paged:1|offset:8","excerpts":"","count":"6","columns":"3","thb_i":"7","featured_index":"3,6"};
 /* ]]> */
 </script>
 <script src="https://wundergroundmusic.com/wp-content/themes/theissue/assets/js/app.min.js?ver=1.6.1" type="text/javascript"></script>
 <script src="https://wundergroundmusic.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js?ver=7.8" type="text/javascript"></script>
 <script type="text/javascript">
-var essb_settings = {"ajax_url":"https:\/\/wundergroundmusic.com\/wp-admin\/admin-ajax.php","essb3_nonce":"6d681d1c2f","essb3_plugin_url":"https:\/\/wundergroundmusic.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"blog_url":"https:\/\/wundergroundmusic.com\/","post_id":"1043454"};
+var essb_settings = {"ajax_url":"https:\/\/wundergroundmusic.com\/wp-admin\/admin-ajax.php","essb3_nonce":"daccdbeeb7","essb3_plugin_url":"https:\/\/wundergroundmusic.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"blog_url":"https:\/\/wundergroundmusic.com\/","post_id":"1043454"};
 </script>
 <script src="https://c0.wp.com/c/5.3.6/wp-includes/js/wp-embed.min.js" type="text/javascript"></script>
 <script src="https://wundergroundmusic.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.2.0" type="text/javascript"></script>
-<aside class="thb-search-popup" data-security="f379d6619c">
+<aside class="thb-search-popup" data-security="85be0b0001">
 <a class="thb-mobile-close"><div><span></span><span></span></div></a>
 <div class="thb-close-text">PRESS ESC TO CLOSE</div>
 <div class="row align-center align-middle search-main-row">
@@ -1495,7 +1063,7 @@ var essb_settings = {"ajax_url":"https:\/\/wundergroundmusic.com\/wp-admin\/admi
 </div>
 </div>
 </aside>
-<script async="async" defer="defer" src="https://stats.wp.com/e-202111.js" type="text/javascript"></script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-202112.js" type="text/javascript"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:8.3',blog:'101272726',post:'1043454',tz:'0',srv:'wundergroundmusic.com'} ]);
@@ -1509,5 +1077,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/pro
 
 Page Caching using disk: enhanced 
 
-Served from: wundergroundmusic.com @ 2021-03-17 04:29:20 by W3 Total Cache
+Served from: wundergroundmusic.com @ 2021-03-27 16:32:54 by W3 Total Cache
 -->

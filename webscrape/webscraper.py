@@ -72,6 +72,7 @@ def OutputBeautifulSoup(siteURL):
 
 
 def createFile(url):
+  filename = url
   filename = url.replace(".", "%")
   filename = url.replace("/", "SLASH")
 
@@ -82,6 +83,7 @@ def createFile(url):
   filelocation.strip()
 
   finalfile = filelocation + filename
+  finalfile.strip()
   return finalfile
 
 def addToErrorList(url, writefunction):
@@ -93,15 +95,25 @@ def addToErrorList(url, writefunction):
   f = open(file, writefunction)
   f.write(url + "\n")
 
+def addToAccessibleSiteList(url, writefunction):
+  filelocation = "D:\Misinformation Intentiment Analysis\misinfo-web-scrape\webscrape\ "
+  filelocation.strip()
+  filename = "ListOfAccessibleSites.txt"
+  file = filelocation + filename
+
+  f = open(file, writefunction)
+  f.write(url + "\n")
+
 
 def main():
   listOfFakeNewsWebsites = ReadInData()
-  failCounter = 168
+  failCounter = 167
   i = 811
+
   while(i < 833):
+
     link = listOfFakeNewsWebsites[i]
     corpus = OutputBeautifulSoup(link)
-
     if(corpus != "e"):
       flocation = createFile(link)
       file = open(flocation, "w")
@@ -112,6 +124,7 @@ def main():
           f.write(corpus)
       finally:
         print(link + " successful")
+        addToAccessibleSiteList(link, "a")
 
     elif(failCounter == 0):
       addToErrorList(link, "w")
@@ -132,31 +145,17 @@ def main():
   print("Sites saved: " + str(success))
   print("Websites Unavailable: " + str(failCounter))
 
-main()
+#main()
 
 #Everything after this line might come in handy later
-#can be ignored otherwise.
+#can be ignored for now.
+#########################
 
 def test():
   listOfFakeNewsWebsites = ReadInData()
   siteURL = listOfFakeNewsWebsites[810]
+  print(siteURL)
 
-  page = "http://"
-  page = page + (siteURL)
-  try:
-    response = requests.get(page)
-  except ValueError:
-    print("yikes yeah " + siteURL + " ain't it chief")
-    return "e"
-  try:
-    soup = BeautifulSoup(response, 'html.parser')
-  except TypeError:
-    print("yikes yeah " + siteURL + " ain't it chief")
-    return "e"
-  else:
-    soup.encode("utf-8")
-    soup = str(soup)
-    return soup
 
 #test()
 

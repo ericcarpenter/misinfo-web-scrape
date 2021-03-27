@@ -44,28 +44,28 @@
 <a href="/series/code-sod">CodeSOD</a>
 <ul class="dropdown">
 <li class="navigation-heading">Most Recent Articles</li>
+<li class="dropdown-item"><a href="/articles/constant-success">Constant Success</a></li>
+<li class="dropdown-item"><a href="/articles/the-threat-of-existence">The Threat of Existence</a></li>
+<li class="dropdown-item"><a href="/articles/for-gotten-about-loops">For Gotten About Loops</a></li>
+<li class="dropdown-item"><a href="/articles/reaching-for-private-parts">Reaching for Private Parts</a></li>
+<li class="dropdown-item"><a href="/articles/not-exceptional">Not Exceptional</a></li>
 <li class="dropdown-item"><a href="/articles/two-knowing-comments">Two Knowing Comments</a></li>
 <li class="dropdown-item"><a href="/articles/a-big-raise">A Big Raise</a></li>
 <li class="dropdown-item"><a href="/articles/a-range-of-skills">A Range of Skills</a></li>
-<li class="dropdown-item"><a href="/articles/a-type-of-code">A Type of Code</a></li>
-<li class="dropdown-item"><a href="/articles/leave-some-comments-behind">Leave Some Comments Behind</a></li>
-<li class="dropdown-item"><a href="/articles/last-one-in">Last One In</a></li>
-<li class="dropdown-item"><a href="/articles/double-your-value">Double Your Value</a></li>
-<li class="dropdown-item"><a href="/articles/the-secret-to-success">The Secret to Success</a></li>
 </ul>
 </li>
 <li class="errord">
 <a href="/series/errord">Error'd</a>
 <ul class="dropdown">
 <li class="navigation-heading">Most Recent Articles</li>
+<li class="dropdown-item"><a href="/articles/truthiness">Truthiness</a></li>
+<li class="dropdown-item"><a href="/articles/lyle-seaman">{Obscure Reference Here}</a></li>
 <li class="dropdown-item"><a href="/articles/4-33">4'33"</a></li>
 <li class="dropdown-item"><a href="/articles/and-then-i-gave-him-my-digits">And then I gave him my digits.</a></li>
 <li class="dropdown-item"><a href="/articles/the-sound-of-an-unheard-treefall">The Sound of an Unheard Treefall</a></li>
 <li class="dropdown-item"><a href="/articles/the-timing-is-off">The Timing is Off</a></li>
 <li class="dropdown-item"><a href="/articles/sweet-sweet-summertime">Sweet Sweet Summertime</a></li>
 <li class="dropdown-item"><a href="/articles/we-re-number-0th">We're Number 0th</a></li>
-<li class="dropdown-item"><a href="/articles/the-journey-is-the-destination">The Journey is the Destination</a></li>
-<li class="dropdown-item"><a href="/articles/infinite-nan">Infinite NaN</a></li>
 </ul>
 </li>
 <li class="forum">
@@ -136,7 +136,7 @@
 <div class="content-container">
 <div class="content" id="top-banner">
 <a href="/fbuster/ce716710999047d4afab05f9294d110c">
-<img src="/fblast/52076b9e2cee4b85b2ca0961e31016e3"/>
+<img src="/fblast/82415d550ae846af8d5809fb0eaa22c3"/>
 </a>
 </div>
 <div class="content" id="home-page">
@@ -186,7 +186,7 @@
 </div>
 <div class="sidebar-section ad">
 <a href="/fbuster/c9059a5338de4c02b753cab0233363cf">
-<img class="sidebar-ad" src="/fblast/d696d0441c954ff7a6094def4e05b9d4"/>
+<img class="sidebar-ad" src="/fblast/5646ea0920534ab4845ec5fc16f0fa3e"/>
 </a>
 </div>
 <div class="sidebar-section" id="wtf-sidebar-container">
@@ -194,11 +194,11 @@
 <label for="wtf-sidebar"><img src="/Content/Images/wtf-sidebar-icon.svg"/><span>Sidebar WTF</span></label>
 <article>
 <ul>
-<li><a href="https://what.thedailywtf.com/topic/24242/a-fool-and-his-not-really-money-are-soon-parted">A fool and his not-really-money are soon parted</a></li>
-<li><a href="https://what.thedailywtf.com/topic/24844/uber-the-sociopathic-company-full-of-psychopaths-now-with-murder-because-regulations-aren-t-disruptive-enough">Uber, the sociopathic company full of psychopaths, now with murder! (Because regulations aren't "Disruptive" enough!)</a></li>
-<li><a href="https://what.thedailywtf.com/topic/27847/i-m-pretty-sure-we-saw-this-one-coming">I'm pretty sure we saw this one coming</a></li>
-<li><a href="https://what.thedailywtf.com/topic/27846/firefox-eliminates-another-feature-that-nobody-even-knew-existed">Firefox eliminates another "feature" that nobody even knew existed</a></li>
-<li><a href="https://what.thedailywtf.com/topic/27844/which-firefox">Which Firefox?</a></li>
+<li><a href="https://what.thedailywtf.com/topic/27857/intel-is-the-jealous-ex">Intel is the jealous ex</a></li>
+<li><a href="https://what.thedailywtf.com/topic/27833/expected-backfire">Expected Backfire</a></li>
+<li><a href="https://what.thedailywtf.com/topic/13931/visual-studio-wtf">Visual Studio WTF</a></li>
+<li><a href="https://what.thedailywtf.com/topic/23700/mystery-of-the-facebook-apps-for-windows">Mystery of the Facebook apps for Windows</a></li>
+<li><a href="https://what.thedailywtf.com/topic/27852/in-spain-every-time-an-oap-carks-it-they-take-a-child-with-them">In Spain, every time an OAP carks it, they take a child with them...</a></li>
 </ul>
 </article>
 </div>
@@ -229,224 +229,281 @@
 </div>
 </div>
 <div id="article-feed">
+<div class="article errord" itemscope="" itemtype="http://schema.org/Article">
+<div class="article-content">
+<a class="link-overlay" href="https://thedailywtf.com/articles/truthiness" itemprop="url"> </a>
+<h2 class="title" itemprop="headline">Truthiness</h2>
+<span class="details">
+                by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Lyle Seaman</span></span>
+                in <span class="source" itemprop="articleSection">Error'd</span>
+                on <span class="date" content="2021-03-26" itemprop="datePublished">2021-03-26</span>
+</span>
+<div itemprop="articleBody">
+<p>No loops, no branches, barely a pun and almost free of alliteration.
+</p>
+<p></p>
+</div>
+</div>
+<hr/>
+<div class="article-footer">
+<div class="comment-container">
+<span class="comments"><a href="https://thedailywtf.com/articles/comments/truthiness" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">8</span> comments</b></a> - Last comment @ <span class="last-comment-time">09:56</span></span>
+</div>
+<ul class="sm-link-bar">
+<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=Truthiness:%20https://thedailywtf.com/articles/truthiness"><img class="email" src="/Content/Images/email-24.png"/></a></li>
+<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2ftruthiness"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2ftruthiness&amp;t=Truthiness+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
+<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2ftruthiness+-+Truthiness+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
+</ul>
+</div>
+</div>
 <div class="article code" itemscope="" itemtype="http://schema.org/Article">
 <div class="article-content">
-<a class="link-overlay" href="https://thedailywtf.com/articles/two-knowing-comments" itemprop="url"> </a>
-<h2 class="title" itemprop="headline">Two Knowing Comments</h2>
+<a class="link-overlay" href="https://thedailywtf.com/articles/constant-success" itemprop="url"> </a>
+<h2 class="title" itemprop="headline">Constant Success</h2>
 <span class="details">
                 by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Remy Porter</span></span>
                 in <span class="source" itemprop="articleSection">CodeSOD</span>
-                on <span class="date" content="2021-03-16" itemprop="datePublished">2021-03-16</span>
+                on <span class="date" content="2021-03-25" itemprop="datePublished">2021-03-25</span>
 </span>
 <div itemprop="articleBody">
-<p>Sometimes, it really is the comment which makes the code. Sometimes, the comments make simple (but still more complex than it needs to be) code <em>less</em> clear.</p>
-<p>For example, <strong>Thomas</strong> provides this code, and comment, which… I understand what is happening here, <em>despite</em> the comment:</p>
+<p><strong>Dan</strong> was reviewing some PHP code written by a co-worker, as part of taking on a project. The code was in “support” mode, rarely receiving changes, getting bug fixes only when <em>absolutely</em> necessary, and nobody really wanted to be the person responsible for it.</p>
+<p>One of those “not <em>absolutely</em> necessary” bugs was that sometimes, it just didn’t save data. The user would enter a product listing, hit save, get a success message back, but the listing wouldn’t actually be saved. No one had really dug into it, because having the end user do double data entry didn’t bother anyone but the end user.</p>
 <style>.comment { border: none; }</style>
 </div>
 </div>
 <hr/>
 <div class="article-footer">
 <div class="comment-container">
-<span class="comments"><a href="https://thedailywtf.com/articles/comments/two-knowing-comments" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">32</span> comments</b></a> - Last comment @ <span class="last-comment-time">01:37</span></span>
+<span class="comments"><a href="https://thedailywtf.com/articles/comments/constant-success" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">18</span> comments</b></a> - Last comment @ <span class="last-comment-time">01:52</span></span>
 </div>
 <ul class="sm-link-bar">
-<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=Two%20Knowing%20Comments:%20https://thedailywtf.com/articles/two-knowing-comments"><img class="email" src="/Content/Images/email-24.png"/></a></li>
-<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2ftwo-knowing-comments"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
-<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2ftwo-knowing-comments&amp;t=Two+Knowing+Comments+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
-<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2ftwo-knowing-comments+-+Two+Knowing+Comments+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
+<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=Constant%20Success:%20https://thedailywtf.com/articles/constant-success"><img class="email" src="/Content/Images/email-24.png"/></a></li>
+<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fconstant-success"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fconstant-success&amp;t=Constant+Success+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
+<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fconstant-success+-+Constant+Success+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
 </ul>
 </div>
 </div>
 <div class="article code" itemscope="" itemtype="http://schema.org/Article">
 <div class="article-content">
-<a class="link-overlay" href="https://thedailywtf.com/articles/a-big-raise" itemprop="url"> </a>
-<h2 class="title" itemprop="headline">A Big Raise</h2>
+<a class="link-overlay" href="https://thedailywtf.com/articles/the-threat-of-existence" itemprop="url"> </a>
+<h2 class="title" itemprop="headline">The Threat of Existence</h2>
 <span class="details">
                 by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Remy Porter</span></span>
                 in <span class="source" itemprop="articleSection">CodeSOD</span>
-                on <span class="date" content="2021-03-15" itemprop="datePublished">2021-03-15</span>
+                on <span class="date" content="2021-03-24" itemprop="datePublished">2021-03-24</span>
 </span>
 <div itemprop="articleBody">
-<p>Everyone likes getting a pay raise. Well, I suppose it depends on <em>why</em>. And HR isn't going to be too happy about your raise if it comes as the result of an easy-to-avoid software bug.</p>
-<p><strong>Cédric V</strong>'s company makes payroll software mostly used in and around France. One of their customers had a problem: when paying employees, it would give them a significant raise- sometimes by two orders of magnitude, rarely by three or four.</p>
-</div>
-</div>
-<hr/>
-<div class="article-footer">
-<div class="comment-container">
-<span class="comments"><a href="https://thedailywtf.com/articles/comments/a-big-raise" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">28</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-16</span></span>
-</div>
-<ul class="sm-link-bar">
-<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=A%20Big%20Raise:%20https://thedailywtf.com/articles/a-big-raise"><img class="email" src="/Content/Images/email-24.png"/></a></li>
-<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fa-big-raise"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
-<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fa-big-raise&amp;t=A+Big+Raise+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
-<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fa-big-raise+-+A+Big+Raise+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
-</ul>
-</div>
-</div>
-<div class="article errord" itemscope="" itemtype="http://schema.org/Article">
-<div class="article-content">
-<a class="link-overlay" href="https://thedailywtf.com/articles/4-33" itemprop="url"> </a>
-<h2 class="title" itemprop="headline">4'33"</h2>
-<span class="details">
-                by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Lyle Seaman</span></span>
-                in <span class="source" itemprop="articleSection">Error'd</span>
-                on <span class="date" content="2021-03-12" itemprop="datePublished">2021-03-12</span>
-</span>
-<div itemprop="articleBody">
-<p>It's hard to define what makes today's batch of submissions so special. Is it just the futility? Or is it the certainty that nobody nowhere knows nothing?
-</p>
-<p>
-</p>
-</div>
-</div>
-<hr/>
-<div class="article-footer">
-<div class="comment-container">
-<span class="comments"><a href="https://thedailywtf.com/articles/comments/4-33" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">22</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-15</span></span>
-</div>
-<ul class="sm-link-bar">
-<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=4'33&quot;:%20https://thedailywtf.com/articles/4-33"><img class="email" src="/Content/Images/email-24.png"/></a></li>
-<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2f4-33"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
-<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2f4-33&amp;t=4%2733%22+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
-<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2f4-33+-+4%2733%22+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
-</ul>
-</div>
-</div>
-<div class="article code" itemscope="" itemtype="http://schema.org/Article">
-<div class="article-content">
-<a class="link-overlay" href="https://thedailywtf.com/articles/a-range-of-skills" itemprop="url"> </a>
-<h2 class="title" itemprop="headline">A Range of Skills</h2>
-<span class="details">
-                by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Remy Porter</span></span>
-                in <span class="source" itemprop="articleSection">CodeSOD</span>
-                on <span class="date" content="2021-03-11" itemprop="datePublished">2021-03-11</span>
-</span>
-<div itemprop="articleBody">
-<p><strong>Ulvhamne</strong> works on a team with over a hundred other developers. It's a <em>big</em> group, working on a huge project. And some of the quality in that code base gets… variable. Worse, when a bug pops up, it can be tricky to even identify what in the code is triggering the bug, let alone what the root cause is.</p>
-<p>For example, one of the config-file fields needed a number to specify the beginning and end of a range. If you put in a relatively short range- thousands or hundreds of values- everything worked fine. That was a pretty typical use case. But if you put in something closer to <code>MAX_INT</code>, everything worked fine for a little bit, but within moments the server would grind to a halt, memory would fill up, and the OS would hang as it ended up constantly thrashing pages to disk.</p>
-</div>
-</div>
-<hr/>
-<div class="article-footer">
-<div class="comment-container">
-<span class="comments"><a href="https://thedailywtf.com/articles/comments/a-range-of-skills" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">15</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-16</span></span>
-</div>
-<ul class="sm-link-bar">
-<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=A%20Range%20of%20Skills:%20https://thedailywtf.com/articles/a-range-of-skills"><img class="email" src="/Content/Images/email-24.png"/></a></li>
-<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fa-range-of-skills"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
-<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fa-range-of-skills&amp;t=A+Range+of+Skills+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
-<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fa-range-of-skills+-+A+Range+of+Skills+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
-</ul>
-</div>
-</div>
-<div class="article code" itemscope="" itemtype="http://schema.org/Article">
-<div class="article-content">
-<a class="link-overlay" href="https://thedailywtf.com/articles/a-type-of-code" itemprop="url"> </a>
-<h2 class="title" itemprop="headline">A Type of Code</h2>
-<span class="details">
-                by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Remy Porter</span></span>
-                in <span class="source" itemprop="articleSection">CodeSOD</span>
-                on <span class="date" content="2021-03-10" itemprop="datePublished">2021-03-10</span>
-</span>
-<div itemprop="articleBody">
-<p>Like the war between Emacs and Vim, developers also tend to wage a war between "strongly typed" and "loosely typed" languages. There are tradeoffs either way, and I think that's why you see things like TypeScript and Python's type annotations starting to creep into loosely typed languages- types when you need them, but not required. But if you're not comfortable with types, and don't really understand type casting, you might start writing some code like, well, like these examples.</p>
-<p><strong>Sashi</strong> found this C# code:</p>
-</div>
-</div>
-<hr/>
-<div class="article-footer">
-<div class="comment-container">
-<span class="comments"><a href="https://thedailywtf.com/articles/comments/a-type-of-code" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">40</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-15</span></span>
-</div>
-<ul class="sm-link-bar">
-<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=A%20Type%20of%20Code:%20https://thedailywtf.com/articles/a-type-of-code"><img class="email" src="/Content/Images/email-24.png"/></a></li>
-<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fa-type-of-code"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
-<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fa-type-of-code&amp;t=A+Type+of+Code+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
-<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fa-type-of-code+-+A+Type+of+Code+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
-</ul>
-</div>
-</div>
-<div class="article code" itemscope="" itemtype="http://schema.org/Article">
-<div class="article-content">
-<a class="link-overlay" href="https://thedailywtf.com/articles/leave-some-comments-behind" itemprop="url"> </a>
-<h2 class="title" itemprop="headline">Leave Some Comments Behind</h2>
-<span class="details">
-                by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Remy Porter</span></span>
-                in <span class="source" itemprop="articleSection">CodeSOD</span>
-                on <span class="date" content="2021-03-09" itemprop="datePublished">2021-03-09</span>
-</span>
-<div itemprop="articleBody">
-<p>We have a lot of stories about the code coming from offshore/outsourced developers being of low quality. Today, <strong>Radu S</strong> sends us the reverse. He used to work for one of those offshore development shops. A customer started development in-house, and then decided that they didn't want to support their own code anymore, and shipped it off to Radu's company.</p>
-<p>This block represents what he's working with:</p>
+<p>Imagine, if you will, that you see a method called <code>FileExists</code>. It takes a <code>string</code> input called <code>strPath</code>, and returns a <code>bool</code>. Without looking at the implementation, I think you'd have a very good sense of what it's supposed to do. Why, you wouldn't even expect much documentation, because the name and parameters are really clear about what the method actually does.</p>
+<p>Unless this method was in the C# codebase "<strong>AK</strong>" inherited. In that case, the behavior of <code>FileExists</code> might surprise you:</p>
 <style>.comment { border: none; }</style>
 </div>
 </div>
 <hr/>
 <div class="article-footer">
 <div class="comment-container">
-<span class="comments"><a href="https://thedailywtf.com/articles/comments/leave-some-comments-behind" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">15</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-10</span></span>
+<span class="comments"><a href="https://thedailywtf.com/articles/comments/the-threat-of-existence" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">35</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-26</span></span>
 </div>
 <ul class="sm-link-bar">
-<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=Leave%20Some%20Comments%20Behind:%20https://thedailywtf.com/articles/leave-some-comments-behind"><img class="email" src="/Content/Images/email-24.png"/></a></li>
-<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fleave-some-comments-behind"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
-<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fleave-some-comments-behind&amp;t=Leave+Some+Comments+Behind+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
-<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fleave-some-comments-behind+-+Leave+Some+Comments+Behind+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
+<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=The%20Threat%20of%20Existence:%20https://thedailywtf.com/articles/the-threat-of-existence"><img class="email" src="/Content/Images/email-24.png"/></a></li>
+<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fthe-threat-of-existence"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fthe-threat-of-existence&amp;t=The+Threat+of+Existence+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
+<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fthe-threat-of-existence+-+The+Threat+of+Existence+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
 </ul>
 </div>
 </div>
 <div class="article code" itemscope="" itemtype="http://schema.org/Article">
 <div class="article-content">
-<a class="link-overlay" href="https://thedailywtf.com/articles/last-one-in" itemprop="url"> </a>
-<h2 class="title" itemprop="headline">Last One In</h2>
+<a class="link-overlay" href="https://thedailywtf.com/articles/for-gotten-about-loops" itemprop="url"> </a>
+<h2 class="title" itemprop="headline">For Gotten About Loops</h2>
 <span class="details">
                 by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Remy Porter</span></span>
                 in <span class="source" itemprop="articleSection">CodeSOD</span>
-                on <span class="date" content="2021-03-08" itemprop="datePublished">2021-03-08</span>
+                on <span class="date" content="2021-03-23" itemprop="datePublished">2021-03-23</span>
 </span>
 <div itemprop="articleBody">
-<p>A lesson that everyone learns at <em>some</em> point is "don't write your own authentication code." Authentication, like encryption, and like dates, is incredibly complex and has all sorts of ways you can subtly mess it up and not realize your mistake.</p>
-<p>Take, for example, this code from <strong>Christopher</strong>. His peer wrote this code, added a single test record to the database, saw that it worked, and called it a day.</p>
+<p>Today's sample comes from <strong>Vasiliy</strong>, with no real explanation for where it is, or where it comes from. Frankly though, it doesn't need much setup.</p>
+<pre><code class="language-csharp"><div><span class="hljs-keyword">switch</span> (checks) {
+    <span class="hljs-keyword">case</span> <span class="hljs-number">0</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">1</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">2</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">3</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">4</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">5</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">6</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">7</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">8</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">9</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">10</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">11</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">12</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">13</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">14</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">15</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">16</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">17</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>,  checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">18</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-number">19</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, <span class="hljs-string">""</span>, checkerSummary };
+    <span class="hljs-keyword">case</span> <span class="hljs-keyword">default</span>:
+        <span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> <span class="hljs-keyword">object</span>[] { checkerSummary };
+}
+</div></code></pre>
 </div>
 </div>
 <hr/>
 <div class="article-footer">
 <div class="comment-container">
-<span class="comments"><a href="https://thedailywtf.com/articles/comments/last-one-in" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">28</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-09</span></span>
+<span class="comments"><a href="https://thedailywtf.com/articles/comments/for-gotten-about-loops" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">25</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-24</span></span>
 </div>
 <ul class="sm-link-bar">
-<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=Last%20One%20In:%20https://thedailywtf.com/articles/last-one-in"><img class="email" src="/Content/Images/email-24.png"/></a></li>
-<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2flast-one-in"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
-<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2flast-one-in&amp;t=Last+One+In+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
-<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2flast-one-in+-+Last+One+In+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
+<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=For%20Gotten%20About%20Loops:%20https://thedailywtf.com/articles/for-gotten-about-loops"><img class="email" src="/Content/Images/email-24.png"/></a></li>
+<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2ffor-gotten-about-loops"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2ffor-gotten-about-loops&amp;t=For+Gotten+About+Loops+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
+<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2ffor-gotten-about-loops+-+For+Gotten+About+Loops+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
+</ul>
+</div>
+</div>
+<div class="article soapbox" itemscope="" itemtype="http://schema.org/Article">
+<div class="article-content">
+<a class="link-overlay" href="https://thedailywtf.com/articles/ui-that-looks-like-900-million-bucks" itemprop="url"> </a>
+<h2 class="title" itemprop="headline">UI That Looks Like $900 Million Bucks</h2>
+<span class="details">
+                by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Amit Kooner</span></span>
+                in <span class="source" itemprop="articleSection">News Roundup</span>
+                on <span class="date" content="2021-03-22" itemprop="datePublished">2021-03-22</span>
+</span>
+<div itemprop="articleBody">
+<p>User experience, and its related topic of user interface design, are important. How important? Well the <a href="https://www.usability.gov/what-and-why/user-interface-design.html">US government’s General Service Administration (GSA)</a> took the time to build a website to explain what it is. What other proof do we need? Well not only did the GSA build a website, but they invested in the SEO necessary to make it top of Google organic search, right below the featured snippet from <a href="http://interaction-design.org">interaction-design.org</a>.</p>
+<img alt="Screenshot of Google search results, showing the US Usability site as the first hit" itemprop="image" src="/images/amit/roundup20210322/image1.png" title="User Interface Design Search"/>
+<p>Which is why the saga and ongoing story of <a href="https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/">Citibank’s debt repayment blunder</a> all the more amazing. Here’s a quick recap:</p>
+<style>
+li { list-style: disc inside; line-height: normal }
+</style>
+<ul>
+<li>Revlon, which owed nearly $900 million to creditors from a 2016 debt facility, was working with Citibank to refinance their current obligations into a new loan</li>
+<li>Citibank, who managed loan payments, intended to send out $7.8 million of interest payments to creditors using a system called Flexcube</li>
+<li>Citibank intended to roll over the remaining loan principal into an internal “wash account” to avoid sending the entire amount owed to creditors</li>
+<li>Instead, the <span style="text-decoration:underline;">offshore Citibank contractor</span> responsible for this massive responsibility, misread the Flexcube UI and sent $900 million to all of Revlon’s creditors</li>
+<li>Citibank begged for the cash back, and received $400 million back</li>
+<li>A judge ruled that the remaining creditors can keep the cash. Citibank is miffed.</li>
+<li>If you want more details written in only the way that Matt Levine at Bloomberg can, <a href="https://www.bloomberg.com/opinion/articles/2021-02-17/citi-can-t-have-its-900-million-back">check out his piece from February</a>.</li>
+</ul>
+</div>
+</div>
+<hr/>
+<div class="article-footer">
+<div class="comment-container">
+<span class="comments"><a href="https://thedailywtf.com/articles/comments/ui-that-looks-like-900-million-bucks" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">48</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-25</span></span>
+</div>
+<ul class="sm-link-bar">
+<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=UI%20That%20Looks%20Like%20$900%20Million%20Bucks:%20https://thedailywtf.com/articles/ui-that-looks-like-900-million-bucks"><img class="email" src="/Content/Images/email-24.png"/></a></li>
+<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fui-that-looks-like-900-million-bucks"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fui-that-looks-like-900-million-bucks&amp;t=UI+That+Looks+Like+%24900+Million+Bucks+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
+<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fui-that-looks-like-900-million-bucks+-+UI+That+Looks+Like+%24900+Million+Bucks+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
 </ul>
 </div>
 </div>
 <div class="article errord" itemscope="" itemtype="http://schema.org/Article">
 <div class="article-content">
-<a class="link-overlay" href="https://thedailywtf.com/articles/and-then-i-gave-him-my-digits" itemprop="url"> </a>
-<h2 class="title" itemprop="headline">And then I gave him my digits.</h2>
+<a class="link-overlay" href="https://thedailywtf.com/articles/lyle-seaman" itemprop="url"> </a>
+<h2 class="title" itemprop="headline">{Obscure Reference Here}</h2>
 <span class="details">
                 by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Lyle Seaman</span></span>
                 in <span class="source" itemprop="articleSection">Error'd</span>
-                on <span class="date" content="2021-03-05" itemprop="datePublished">2021-03-05</span>
+                on <span class="date" content="2021-03-19" itemprop="datePublished">2021-03-19</span>
 </span>
 <div itemprop="articleBody">
-<p>
-<strong>Franz K.</strong> anonymously ponders the meaning of existence after this encounter
-</p><blockquote><p><a href="#vermin"><img alt="void" border="0" itemprop="image" src="https://thedailywtf.com/images/21/q1/e999/22kafka.png"/></a></p></blockquote>
+<p>Today's Error'd submissions all center around another common pitfall of the modern web application: failed text substitutions and the ensuing unintentional hilarity.
+</p>
+<p></p>
 </div>
 </div>
 <hr/>
 <div class="article-footer">
 <div class="comment-container">
-<span class="comments"><a href="https://thedailywtf.com/articles/comments/and-then-i-gave-him-my-digits" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">12</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-10</span></span>
+<span class="comments"><a href="https://thedailywtf.com/articles/comments/lyle-seaman" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">14</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-24</span></span>
 </div>
 <ul class="sm-link-bar">
-<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=And%20then%20I%20gave%20him%20my%20digits.:%20https://thedailywtf.com/articles/and-then-i-gave-him-my-digits"><img class="email" src="/Content/Images/email-24.png"/></a></li>
-<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fand-then-i-gave-him-my-digits"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
-<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fand-then-i-gave-him-my-digits&amp;t=And+then+I+gave+him+my+digits.+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
-<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fand-then-i-gave-him-my-digits+-+And+then+I+gave+him+my+digits.+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
+<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body={Obscure%20Reference%20Here}:%20https://thedailywtf.com/articles/lyle-seaman"><img class="email" src="/Content/Images/email-24.png"/></a></li>
+<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2flyle-seaman"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2flyle-seaman&amp;t=%7bObscure+Reference+Here%7d+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
+<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2flyle-seaman+-+%7bObscure+Reference+Here%7d+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
+</ul>
+</div>
+</div>
+<div class="article code" itemscope="" itemtype="http://schema.org/Article">
+<div class="article-content">
+<a class="link-overlay" href="https://thedailywtf.com/articles/reaching-for-private-parts" itemprop="url"> </a>
+<h2 class="title" itemprop="headline">Reaching for Private Parts</h2>
+<span class="details">
+                by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Remy Porter</span></span>
+                in <span class="source" itemprop="articleSection">CodeSOD</span>
+                on <span class="date" content="2021-03-18" itemprop="datePublished">2021-03-18</span>
+</span>
+<div itemprop="articleBody">
+<p><strong>Jaco</strong> was adding some caching to a Java application. Quite wisely, Jaco wrote plenty of tests around his change, ran the test suite, and confirmed everything was green. It ran fine in testing, but when it went to production, everything failed.</p>
+<p>Well, as it turned out, the configuration for the production environment loaded slightly different Java classes. One of those "only-loaded-in-production" modules did this:</p>
+</div>
+</div>
+<hr/>
+<div class="article-footer">
+<div class="comment-container">
+<span class="comments"><a href="https://thedailywtf.com/articles/comments/reaching-for-private-parts" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">25</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-23</span></span>
+</div>
+<ul class="sm-link-bar">
+<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=Reaching%20for%20Private%20Parts:%20https://thedailywtf.com/articles/reaching-for-private-parts"><img class="email" src="/Content/Images/email-24.png"/></a></li>
+<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2freaching-for-private-parts"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2freaching-for-private-parts&amp;t=Reaching+for+Private+Parts+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
+<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2freaching-for-private-parts+-+Reaching+for+Private+Parts+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
+</ul>
+</div>
+</div>
+<div class="article code" itemscope="" itemtype="http://schema.org/Article">
+<div class="article-content">
+<a class="link-overlay" href="https://thedailywtf.com/articles/not-exceptional" itemprop="url"> </a>
+<h2 class="title" itemprop="headline">Not Exceptional</h2>
+<span class="details">
+                by <span itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="author" itemprop="name">Remy Porter</span></span>
+                in <span class="source" itemprop="articleSection">CodeSOD</span>
+                on <span class="date" content="2021-03-17" itemprop="datePublished">2021-03-17</span>
+</span>
+<div itemprop="articleBody">
+<p>One of the powers of structured exception handling is that it lets you define your own exception types. That's useful, as your code can communicate a lot of information about what's gone wrong when you use your own custom exceptions.</p>
+<p>But sometimes, the custom exception type leaves us asking more questions. <strong>Christophe</strong> found this Java code from a "big application for a big company".</p>
+<style>.comment { border: none; }</style>
+</div>
+</div>
+<hr/>
+<div class="article-footer">
+<div class="comment-container">
+<span class="comments"><a href="https://thedailywtf.com/articles/comments/not-exceptional" itemprop="discussionUrl"><b><span class="number-of-comments" itemprop="commentCount">32</span> comments</b></a> - Last comment @ <span class="last-comment-time">2021-03-22</span></span>
+</div>
+<ul class="sm-link-bar">
+<li><a href="mailto:%20?subject=Check%20out%20this%20article%20on%20The%20Daily%20WTF...&amp;body=Not%20Exceptional:%20https://thedailywtf.com/articles/not-exceptional"><img class="email" src="/Content/Images/email-24.png"/></a></li>
+<li><a href="//plus.google.com/share?url=https%3a%2f%2fthedailywtf.com%2farticles%2fnot-exceptional"><img class="googleplus" src="/Content/Images/googleplus-24.png"/></a></li>
+<li><a href="//www.facebook.com/sharer.php?u=https%3a%2f%2fthedailywtf.com%2farticles%2fnot-exceptional&amp;t=Not+Exceptional+-+The+Daily+WTF"><img class="facebook" src="/Content/Images/facebook-24.png"/></a></li>
+<li><a href="//www.twitter.com/home?status=https%3a%2f%2fthedailywtf.com%2farticles%2fnot-exceptional+-+Not+Exceptional+-+The+Daily+WTF"><img class="twitter" src="/Content/Images/twitter-24.png"/></a></li>
 </ul>
 </div>
 </div>
