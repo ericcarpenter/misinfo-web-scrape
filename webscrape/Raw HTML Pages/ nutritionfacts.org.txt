@@ -7,7 +7,7 @@
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
 <title>NutritionFacts.org | The Latest Nutrition Related Topics</title>
 <script type="text/javascript">
-					var bhittani_plugin_kksr_js = {"nonce":"8608c2bcaa","grs":true,"ajaxurl":"https:\/\/nutritionfacts.org\/wp\/wp-admin\/admin-ajax.php","func":"kksr_ajax","msg":"Rate Video","fuelspeed":400,"thankyou":"Thank you for your vote!","error_msg":"Oops! An error occurred.","tooltip":"1","tooltips":[{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"}]};
+					var bhittani_plugin_kksr_js = {"nonce":"52969b73de","grs":true,"ajaxurl":"https:\/\/nutritionfacts.org\/wp\/wp-admin\/admin-ajax.php","func":"kksr_ajax","msg":"Rate Video","fuelspeed":400,"thankyou":"Thank you for your vote!","error_msg":"Oops! An error occurred.","tooltip":"1","tooltips":[{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"},{"tip":"","color":"#ffffff"}]};
 				</script>
 <link href="https://nutritionfacts.org/" hreflang="en" rel="alternate"/>
 <link href="https://nutritionfacts.org/es/" hreflang="es" rel="alternate"/>
@@ -355,7 +355,7 @@ oneSignal_options['notifyButton']['offset'] = {};
 </a>
 <div aria-labelledby="navbarDropdownMenuLink" class="dropdown-menu">
 <a class="dropdown-item" href="https://nutritionfacts.org/introduction" title="Introductory Videos">Introductory Videos</a>
-<a class="dropdown-item" href="https://nutritionfacts.org/video/the-benefits-of-millet-for-diabetes" title="Latest Video">Latest Video</a>
+<a class="dropdown-item" href="https://nutritionfacts.org/video/flashback-friday-benefits-of-brewers-yeast-for-diabetes" title="Latest Video">Latest Video</a>
 <a class="dropdown-item" href="https://nutritionfacts.org/random" title="Random Video">Random Video</a>
 <a class="dropdown-item" href="https://nutritionfacts.org/videos" title="All Videos">All Videos</a>
 <a class="dropdown-item" href="https://nutritionfacts.org/topics" title="Browse Videos by Topic">Browse Videos by Topic</a>
@@ -455,7 +455,7 @@ oneSignal_options['notifyButton']['offset'] = {};
 <a class="cta-info" href="https://nutritionfacts.org/introduction" onclick="ga('send', 'event', { eventCategory: 'Homepage CTAs', eventAction: 'click', eventLabel: 'Introduction', transport: 'beacon'});"><i aria-hidden="true" class="fa fa-info-circle"></i> Find Out More</a>
 <a class="cta-start" href="https://nutritionfacts.org/videos" onclick="ga('send', 'event', { eventCategory: 'Homepage CTAs', eventAction: 'click', eventLabel: 'Start Watching', transport: 'beacon'});"><i aria-hidden="true" class="fa fa-play-circle-o"></i> Start Watching</a>
 </p>
-<p><a class="cta-latest" href="https://nutritionfacts.org/video/the-benefits-of-millet-for-diabetes" onclick="ga('send', 'event', { eventCategory: 'Homepage CTAs', eventAction: 'click', eventLabel: 'Latest Video', transport: 'beacon'});">or go straight to our latest video</a></p>
+<p><a class="cta-latest" href="https://nutritionfacts.org/video/flashback-friday-benefits-of-brewers-yeast-for-diabetes" onclick="ga('send', 'event', { eventCategory: 'Homepage CTAs', eventAction: 'click', eventLabel: 'Latest Video', transport: 'beacon'});">or go straight to our latest video</a></p>
 </div>
 <div class="col-xs-12 col-md-4 col-lg-5">
 <img class="dr-greger" src="https://nutritionfacts.org/app/themes/sage/dist/images/dr-greger_83799539.png"/>
@@ -490,16 +490,16 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="topic-card-container col-xs-12 col-sm-6 col-md-4 col-lg-3">
 <article class="topic-card post-7063 page type-page status-publish hentry">
 <div class="favorite-topic"><a href="#"><i aria-hidden="true" class="fa fa-heart"></i></a></div>
-<a href="https://nutritionfacts.org/topics/beans" title="Beans">
-<img alt="Beans" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Beans.jpeg"/>
+<a href="https://nutritionfacts.org/topics/arthritis" title="Arthritis">
+<img alt="Arthritis" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/04/Arthritis.jpeg"/>
 <div class="entry-body">
 <h4 class="entry-title">
-<a href="https://nutritionfacts.org/topics/beans" title="beans">
-												Beans
+<a href="https://nutritionfacts.org/topics/arthritis" title="arthritis">
+												Arthritis
 											</a>
 </h4>
 <div class="topic-count">
-											211<span>videos</span>
+											40<span>videos</span>
 </div>
 </div>
 </a></article>
@@ -524,16 +524,16 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="topic-card-container col-xs-12 col-sm-6 col-md-4 col-lg-3">
 <article class="topic-card post-7063 page type-page status-publish hentry">
 <div class="favorite-topic"><a href="#"><i aria-hidden="true" class="fa fa-heart"></i></a></div>
-<a href="https://nutritionfacts.org/topics/flax-seeds" title="Flax Seeds">
-<img alt="Flax Seeds" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Flax-Seeds.jpeg"/>
+<a href="https://nutritionfacts.org/topics/nuts" title="Nuts">
+<img alt="Nuts" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Nuts.jpeg"/>
 <div class="entry-body">
 <h4 class="entry-title">
-<a href="https://nutritionfacts.org/topics/flax-seeds" title="flax seeds">
-												Flax Seeds
+<a href="https://nutritionfacts.org/topics/nuts" title="nuts">
+												Nuts
 											</a>
 </h4>
 <div class="topic-count">
-											51<span>videos</span>
+											176<span>videos</span>
 </div>
 </div>
 </a></article>
@@ -541,16 +541,16 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="topic-card-container col-xs-12 col-sm-6 col-md-4 col-lg-3">
 <article class="topic-card post-7063 page type-page status-publish hentry">
 <div class="favorite-topic"><a href="#"><i aria-hidden="true" class="fa fa-heart"></i></a></div>
-<a href="https://nutritionfacts.org/topics/fish" title="Fish">
-<img alt="Fish" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Fish.jpeg"/>
+<a href="https://nutritionfacts.org/topics/weight-loss" title="Weight Loss">
+<img alt="Weight Loss" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/04/Weight-Loss.jpeg"/>
 <div class="entry-body">
 <h4 class="entry-title">
-<a href="https://nutritionfacts.org/topics/fish" title="fish">
-												Fish
+<a href="https://nutritionfacts.org/topics/weight-loss" title="weight loss">
+												Weight Loss
 											</a>
 </h4>
 <div class="topic-count">
-											239<span>videos</span>
+											284<span>videos</span>
 </div>
 </div>
 </a></article>
@@ -558,16 +558,16 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="topic-card-container col-xs-12 col-sm-6 col-md-4 col-lg-3">
 <article class="topic-card post-7063 page type-page status-publish hentry">
 <div class="favorite-topic"><a href="#"><i aria-hidden="true" class="fa fa-heart"></i></a></div>
-<a href="https://nutritionfacts.org/topics/fasting" title="Fasting">
-<img alt="Fasting" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2020/02/diet-4165490_1920-1.jpg"/>
+<a href="https://nutritionfacts.org/topics/smoothies" title="Smoothies">
+<img alt="Smoothies" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Smoothies.jpeg"/>
 <div class="entry-body">
 <h4 class="entry-title">
-<a href="https://nutritionfacts.org/topics/fasting" title="fasting">
-												Fasting
+<a href="https://nutritionfacts.org/topics/smoothies" title="smoothies">
+												Smoothies
 											</a>
 </h4>
 <div class="topic-count">
-											21<span>videos</span>
+											24<span>videos</span>
 </div>
 </div>
 </a></article>
@@ -575,16 +575,16 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="topic-card-container col-xs-12 col-sm-6 col-md-4 col-lg-3">
 <article class="topic-card post-7063 page type-page status-publish hentry">
 <div class="favorite-topic"><a href="#"><i aria-hidden="true" class="fa fa-heart"></i></a></div>
-<a href="https://nutritionfacts.org/topics/cholesterol" title="Cholesterol">
-<img alt="Cholesterol" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/04/Cholesterol.jpeg"/>
+<a href="https://nutritionfacts.org/topics/cancer" title="Cancer">
+<img alt="Cancer" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Cancer.jpeg"/>
 <div class="entry-body">
 <h4 class="entry-title">
-<a href="https://nutritionfacts.org/topics/cholesterol" title="cholesterol">
-												Cholesterol
+<a href="https://nutritionfacts.org/topics/cancer" title="cancer">
+												Cancer
 											</a>
 </h4>
 <div class="topic-count">
-											321<span>videos</span>
+											589<span>videos</span>
 </div>
 </div>
 </a></article>
@@ -592,16 +592,16 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="topic-card-container col-xs-12 col-sm-6 col-md-4 col-lg-3">
 <article class="topic-card post-7063 page type-page status-publish hentry">
 <div class="favorite-topic"><a href="#"><i aria-hidden="true" class="fa fa-heart"></i></a></div>
-<a href="https://nutritionfacts.org/topics/inflammation" title="Inflammation">
-<img alt="Inflammation" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Inflammation.jpeg"/>
+<a href="https://nutritionfacts.org/topics/athletes" title="Athletes">
+<img alt="Athletes" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2019/01/race-695303_1920.jpg"/>
 <div class="entry-body">
 <h4 class="entry-title">
-<a href="https://nutritionfacts.org/topics/inflammation" title="inflammation">
-												Inflammation
+<a href="https://nutritionfacts.org/topics/athletes" title="athletes">
+												Athletes
 											</a>
 </h4>
 <div class="topic-count">
-											272<span>videos</span>
+											43<span>videos</span>
 </div>
 </div>
 </a></article>
@@ -609,16 +609,16 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="topic-card-container col-xs-12 col-sm-6 col-md-4 col-lg-3">
 <article class="topic-card post-7063 page type-page status-publish hentry">
 <div class="favorite-topic"><a href="#"><i aria-hidden="true" class="fa fa-heart"></i></a></div>
-<a href="https://nutritionfacts.org/topics/paleolithic-diets" title="Paleolithic Diets">
-<img alt="Paleolithic Diets" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Paleolithic-Diets.jpeg"/>
+<a href="https://nutritionfacts.org/topics/turmeric" title="Turmeric">
+<img alt="Turmeric" class="img-fluid" src="https://nutritionfacts.org/app/uploads/2017/03/Turmeric.jpeg"/>
 <div class="entry-body">
 <h4 class="entry-title">
-<a href="https://nutritionfacts.org/topics/paleolithic-diets" title="paleolithic diets">
-												Paleolithic Diets
+<a href="https://nutritionfacts.org/topics/turmeric" title="turmeric">
+												Turmeric
 											</a>
 </h4>
 <div class="topic-count">
-											17<span>videos</span>
+											49<span>videos</span>
 </div>
 </div>
 </a></article>
@@ -632,14 +632,14 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="col-xs-12 col-md-4">
 <h3>Latest Video</h3>
 <div class="latest-video">
-<a href="https://nutritionfacts.org/video/the-benefits-of-millet-for-diabetes/" title="The Benefits of Millet for Diabetes">
-<img alt="The Benefits of Millet for Diabetes" class="latest-video-image img-fluid wp-post-image" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" src="https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes.jpg" srcset="https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes.jpg 1920w, https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes-960x540.jpg 960w, https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes-768x432.jpg 768w, https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes-1024x576.jpg 1024w, https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes-480x270.jpg 480w, https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes-1200x675.jpg 1200w, https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes-720x405.jpg 720w, https://nutritionfacts.org/app/uploads/2021/01/53-4-The-Benefits-of-Millet-for-Diabetes-540x304.jpg 540w" width="1920"/>
+<a href="https://nutritionfacts.org/video/flashback-friday-benefits-of-brewers-yeast-for-diabetes/" title="Flashback Friday: Benefits of Brewer’s Yeast for Diabetes">
+<img alt="Flashback Friday: Benefits of Brewer's Yeast for Diabetes" class="latest-video-image img-fluid wp-post-image" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" src="https://nutritionfacts.org/app/uploads/2021/02/4.jpg" srcset="https://nutritionfacts.org/app/uploads/2021/02/4.jpg 1920w, https://nutritionfacts.org/app/uploads/2021/02/4-960x540.jpg 960w, https://nutritionfacts.org/app/uploads/2021/02/4-768x432.jpg 768w, https://nutritionfacts.org/app/uploads/2021/02/4-1024x576.jpg 1024w, https://nutritionfacts.org/app/uploads/2021/02/4-480x270.jpg 480w, https://nutritionfacts.org/app/uploads/2021/02/4-1200x675.jpg 1200w, https://nutritionfacts.org/app/uploads/2021/02/4-720x405.jpg 720w, https://nutritionfacts.org/app/uploads/2021/02/4-540x304.jpg 540w" width="1920"/>
 </a>
 <div class="video-block">
-<h4 class="video-title"><a href="https://nutritionfacts.org/video/the-benefits-of-millet-for-diabetes/" title="The Benefits of Millet for Diabetes">The Benefits of Millet for Diabetes</a></h4>
-<p class="video-text"><p>What were the remarkable results of a crossover study randomizing hundreds of people with diabetes to one and a third cup of millet every day?</p>
+<h4 class="video-title"><a href="https://nutritionfacts.org/video/flashback-friday-benefits-of-brewers-yeast-for-diabetes/" title="Flashback Friday: Benefits of Brewer’s Yeast for Diabetes">Flashback Friday: Benefits of Brewer’s Yeast for Diabetes</a></h4>
+<p class="video-text"><p>A half-teaspoon a day of brewer’s yeast is put to the test in a randomized, double-blind, controlled clinical trial.</p>
 </p>
-<a class="btn btn-primary" href="https://nutritionfacts.org/video/the-benefits-of-millet-for-diabetes/" title="The Benefits of Millet for Diabetes">Watch Video</a>
+<a class="btn btn-primary" href="https://nutritionfacts.org/video/flashback-friday-benefits-of-brewers-yeast-for-diabetes/" title="Flashback Friday: Benefits of Brewer’s Yeast for Diabetes">Watch Video</a>
 </div>
 </div>
 </div>
@@ -659,14 +659,14 @@ oneSignal_options['notifyButton']['offset'] = {};
 <div class="col-xs-12 col-md-4">
 <h3>Latest Blog</h3>
 <div class="latest-blog">
-<a href="https://nutritionfacts.org/2021/03/16/benefits-of-turmeric-for-arsenic-exposure/" title="Benefits of Turmeric for Arsenic Exposure">
-<img alt="" class="latest-blog-image img-fluid wp-post-image" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" src="https://nutritionfacts.org/app/uploads/2021/01/5-2.jpeg" srcset="https://nutritionfacts.org/app/uploads/2021/01/5-2.jpeg 1920w, https://nutritionfacts.org/app/uploads/2021/01/5-2-960x540.jpeg 960w, https://nutritionfacts.org/app/uploads/2021/01/5-2-768x432.jpeg 768w, https://nutritionfacts.org/app/uploads/2021/01/5-2-1024x576.jpeg 1024w, https://nutritionfacts.org/app/uploads/2021/01/5-2-480x270.jpeg 480w, https://nutritionfacts.org/app/uploads/2021/01/5-2-1200x675.jpeg 1200w, https://nutritionfacts.org/app/uploads/2021/01/5-2-720x405.jpeg 720w, https://nutritionfacts.org/app/uploads/2021/01/5-2-540x304.jpeg 540w" width="1920"/>
+<a href="https://nutritionfacts.org/2021/03/25/fighting-autism-brain-inflammation-with-food/" title="Fighting Autism Brain Inflammation with Food">
+<img alt="" class="latest-blog-image img-fluid wp-post-image" height="1080" sizes="(max-width: 1920px) 100vw, 1920px" src="https://nutritionfacts.org/app/uploads/2021/01/7-1.jpeg" srcset="https://nutritionfacts.org/app/uploads/2021/01/7-1.jpeg 1920w, https://nutritionfacts.org/app/uploads/2021/01/7-1-960x540.jpeg 960w, https://nutritionfacts.org/app/uploads/2021/01/7-1-768x432.jpeg 768w, https://nutritionfacts.org/app/uploads/2021/01/7-1-1024x576.jpeg 1024w, https://nutritionfacts.org/app/uploads/2021/01/7-1-480x270.jpeg 480w, https://nutritionfacts.org/app/uploads/2021/01/7-1-1200x675.jpeg 1200w, https://nutritionfacts.org/app/uploads/2021/01/7-1-720x405.jpeg 720w, https://nutritionfacts.org/app/uploads/2021/01/7-1-540x304.jpeg 540w" width="1920"/>
 </a>
 <div class="blog-block">
-<h4 class="blog-title"><a href="https://nutritionfacts.org/2021/03/16/benefits-of-turmeric-for-arsenic-exposure/" title="Benefits of Turmeric for Arsenic Exposure">Benefits of Turmeric for Arsenic Exposure</a></h4>
-<p class="blog-text"><p>What happened when turmeric curcumin was put to the test to see if it could reverse DNA damage caused by arsenic exposure? Arsenic is a […]</p>
+<h4 class="blog-title"><a href="https://nutritionfacts.org/2021/03/25/fighting-autism-brain-inflammation-with-food/" title="Fighting Autism Brain Inflammation with Food">Fighting Autism Brain Inflammation with Food</a></h4>
+<p class="blog-text"><p>One food may be able to combat all four purported causal factors of autism: synaptic dysfunction, oxidative stress, mitochondrial dysfunction, and neuroinflammation. In a keynote […]</p>
 </p>
-<a class="btn btn-primary" href="https://nutritionfacts.org/2021/03/16/benefits-of-turmeric-for-arsenic-exposure/" title="Benefits of Turmeric for Arsenic Exposure">Read More</a>
+<a class="btn btn-primary" href="https://nutritionfacts.org/2021/03/25/fighting-autism-brain-inflammation-with-food/" title="Fighting Autism Brain Inflammation with Food">Read More</a>
 </div>
 </div>
 </div>
@@ -835,7 +835,7 @@ oneSignal_options['notifyButton']['offset'] = {};
 <script src="https://nutritionfacts.org/app/plugins/monarch/js/idle-timer.min.js?ver=1.3.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"https:\/\/nutritionfacts.org\/wp\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/nutritionfacts.org\/","stats_nonce":"89b2e8d098","share_counts":"c3af0acd9f","follow_counts":"230d9e34ff","total_counts":"c9e7f12497","media_single":"3a21d6699f","media_total":"d92da7da0a","generate_all_window_nonce":"24e2986903","no_img_message":"No images available for sharing on this page"};
+var monarchSettings = {"ajaxurl":"https:\/\/nutritionfacts.org\/wp\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/nutritionfacts.org\/","stats_nonce":"7b5e7802e4","share_counts":"f2214117c1","follow_counts":"1fe1292ba7","total_counts":"5d0ce9dabd","media_single":"7dcd6131ea","media_total":"b6eade14b2","generate_all_window_nonce":"98eb875c5f","no_img_message":"No images available for sharing on this page"};
 /* ]]> */
 </script>
 <script src="https://nutritionfacts.org/app/plugins/monarch/js/custom.js?ver=1.3.2"></script>

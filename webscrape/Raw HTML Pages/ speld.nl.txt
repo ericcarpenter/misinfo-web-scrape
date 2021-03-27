@@ -89,13 +89,13 @@
 <script id="jquery-migrate-js" src="https://hooiberg.speld.nl/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
 <script id="vk_ajax-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var vk_ajax_data = {"action_add_favorite":"vk_add_favorite","action_delete_favorite":"vk_delete_favorite","nonce":"98d4e3731a","ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php"};
+var vk_ajax_data = {"action_add_favorite":"vk_add_favorite","action_delete_favorite":"vk_delete_favorite","nonce":"ced2f1f782","ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script id="vk_ajax-js" src="https://hooiberg.speld.nl/wp-content/plugins/speld-vage-kennis/assets/js/ajax.js" type="text/javascript"></script>
 <script id="wp-sentry-browser-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var wp_sentry = {"dsn":"https:\/\/2290398a236b4569af498588b5548741@o454586.ingest.sentry.io\/5444781","tracesSampleRate":"0","release":"1.91","environment":"Production","content":{"user":{"id":0,"name":"anonymous"},"tags":{"wordpress":"5.6.2","language":"nl-NL"}},"whitelistUrls":["https:\/\/speld.nl\/","regex:\\w+\\.speld\\.nl"]};
+var wp_sentry = {"dsn":"https:\/\/2290398a236b4569af498588b5548741@o454586.ingest.sentry.io\/5444781","tracesSampleRate":"0","release":"1.93","environment":"Production","content":{"user":{"id":0,"name":"anonymous"},"tags":{"wordpress":"5.6.2","language":"nl-NL"}},"whitelistUrls":["https:\/\/speld.nl\/","regex:\\w+\\.speld\\.nl"]};
 /* ]]> */
 </script>
 <script id="wp-sentry-browser-js" src="https://hooiberg.speld.nl/wp-content/plugins/wp-sentry-integration/public/wp-sentry-browser.min.js" type="text/javascript"></script>
@@ -395,131 +395,104 @@ oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Klik op &#039;toestaan&
 <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530014938962-0'); });</script>
 </div>
 <main class="cf" id="main" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/Blog" role="main">
-<time class="time"><p>woensdag 17 maart, 2021</p></time>
+<time class="time"><p>zaterdag 27 maart, 2021</p></time>
 <section class="main-container cf">
 <article class="carousel cf" id="home-slideshow" role="article">
 <ul class="bjqs">
 <li>
-<a href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/"><img alt="" class="carousel__image wp-post-image" height="375" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916.png 670w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916-450x252.png 450w" width="670"/> <div class="carousel__caption">
-<h2 class="carousel__title">Seks bij de eerste keer winkelen op afspraak, not done?</h2>
-<span class="carousel__excerpt">Sinds een week is het toegestaan om naar een winkel te gaan, mits je ruim van tevoren belt of mailt om een afspraak te maken.                             <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+<a href="https://speld.nl/2021/03/27/marte-heeft-onveilig-handen-vastgehouden-met-haar-date-en-moet-nu-een-corona-thuistest-doen/"><img alt="Shutterstock.com / Fizkes" class="carousel__image wp-post-image" height="375" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1667279545_e12e08dd04d2a8d43e6922127af64bf6_2000.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1667279545_e12e08dd04d2a8d43e6922127af64bf6_2000.jpg 670w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1667279545_e12e08dd04d2a8d43e6922127af64bf6_2000-450x252.jpg 450w" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Marte heeft onveilig handen vastgehouden met haar date en moet nu een corona-thuistest doen</h2>
+<span class="carousel__excerpt">Flinke stress voor de 23-jarige Marte.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
 </span>
 </div>
 </a>
 </li>
 <li>
-<a href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/"><img alt="" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/jessetrudeau-670x370.png" width="670"/> <div class="carousel__caption">
-<h2 class="carousel__title">Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?</h2>
-<span class="carousel__excerpt">De populariteit van Jesse Klaver lijkt niet meer wat het geweest is.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+<a href="https://speld.nl/2021/03/27/25-000-vluchtelingen-hebben-zich-aangemeld-om-van-rhodos-af-te-kunnen/"><img alt="Shutterstock.com /  Enea Gega" class="carousel__image wp-post-image" height="375" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1721443846_c75e58ed1b16c4417365889df608913c_2000.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1721443846_c75e58ed1b16c4417365889df608913c_2000.jpg 670w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1721443846_c75e58ed1b16c4417365889df608913c_2000-450x252.jpg 450w" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">25.000 vluchtelingen hebben zich aangemeld om van Rhodos af te kunnen</h2>
+<span class="carousel__excerpt">Al meer dan zeventienduizend vluchtelingen hebben aangegeven dat ze er wel oren naar hebben om van Rhodos af te komen.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
 </span>
 </div>
 </a>
 </li>
 <li>
-<a href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/"><img alt="" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/lilian-670x370.png" width="670"/> <div class="carousel__caption">
-<h2 class="carousel__title">Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen</h2>
-<span class="carousel__excerpt">In de aanloop naar de Tweede Kamerverkiezingen op 17 maart krijgen de lijstrekkers te maken met veel kritiekloze interviews.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+<a href="https://speld.nl/2021/03/27/omtzigt-zet-zijn-tanden-in-cda-affaire/"><img alt="Source: Youtube, Pieter Omtzigt" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/Pieter_e3e77514da69c67fb235d55a76f873de_2000-670x370.jpg" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Omtzigt zet zijn tanden in CDA-affaire</h2>
+<span class="carousel__excerpt">Tweede kamerlid Pieter Omtzigt heeft aangekondigd er alles aan te doen om de CDA-affaire op de politieke agenda te krijgen.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
 </span>
 </div>
 </a>
 </li>
 <li>
-<a href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/"><img alt="" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/stembureau-nos1-670x370.png" width="670"/> <div class="carousel__caption">
-<h2 class="carousel__title">Ongeldig stevent af op historische verkiezingsoverwinning</h2>
-<span class="carousel__excerpt">Ongeldig stevent af op een historische verkiezingsoverwinning.                             <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+<a href="https://speld.nl/2021/03/26/dirk-jan-heeft-zoveel-coke-gesnoven-dat-het-tussenschot-van-zijn-sleutel-is-weggebrand/"><img alt="Shutterstock.com / Studio Speld" class="carousel__image wp-post-image" height="386" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/cocainesleutel31_130ddf033bb8db905a84739667217368_2000-670x386.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/cocainesleutel31_130ddf033bb8db905a84739667217368_2000-670x386.jpg 670w, https://hooiberg.speld.nl/wp-content/uploads/cocainesleutel31_130ddf033bb8db905a84739667217368_2000-450x259.jpg 450w, https://hooiberg.speld.nl/wp-content/uploads/cocainesleutel31_130ddf033bb8db905a84739667217368_2000-300x173.jpg 300w" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Dirk-Jan heeft zoveel coke gesnoven dat het tussenschot van zijn sleutel is weggebrand</h2>
+<span class="carousel__excerpt">De 34-jarige croupier Dirk-Jan heeft de afgelopen tien jaar elke dag een gram cocaïne gesnoven.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
 </span>
 </div>
 </a>
 </li>
 <li>
-<a href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/"><img alt="" class="carousel__image wp-post-image" height="375" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539.png 670w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539-450x252.png 450w" width="670"/> <div class="carousel__caption">
-<h2 class="carousel__title">Stel heeft sinds corona volop quantity time</h2>
-<span class="carousel__excerpt">Voor veel mensen zijn het coronavirus en de bijbehorende maatregelen een vervelende verstoring van het dagelijks leven.                             <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+<a href="https://speld.nl/2021/03/26/pakketjes-geretourneerd-containerschip-suezkanaal-moet-weer-terug/"><img alt="Julianne Cona" class="carousel__image wp-post-image" height="375" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/containers_daa700dafb714e77ad6f8bcbfa976db2_2000.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/containers_daa700dafb714e77ad6f8bcbfa976db2_2000.jpg 670w, https://hooiberg.speld.nl/wp-content/uploads/containers_daa700dafb714e77ad6f8bcbfa976db2_2000-450x252.jpg 450w" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Pakketjes geretourneerd: containerschip Suezkanaal moet weer terug</h2>
+<span class="carousel__excerpt">Een ongemakkelijk moment voor het vastgelopen containerschip Ever Given.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
 </span>
 </div>
 </a>
 </li>
 <li>
-<a href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/"><img alt="" class="carousel__image wp-post-image" height="370" src="https://hooiberg.speld.nl/wp-content/uploads/Wilders-Rutte-670x370.png" width="670"/> <div class="carousel__caption">
-<h2 class="carousel__title">Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders</h2>
-<span class="carousel__excerpt">Ines weet nog niet op wie ze wil stemmen.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
+<a href="https://speld.nl/2021/03/26/kiezer-blij-dat-we-premier-hebben-die-ervaren-is-met-afwimpelen-van-schandalen/"><img alt="Source: NOS" class="carousel__image wp-post-image" height="375" sizes="(max-width: 670px) 100vw, 670px" src="https://hooiberg.speld.nl/wp-content/uploads/rut_791534e807a36b325682b0b4614885b2_2000.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/rut_791534e807a36b325682b0b4614885b2_2000.jpg 670w, https://hooiberg.speld.nl/wp-content/uploads/rut_791534e807a36b325682b0b4614885b2_2000-450x252.jpg 450w" width="670"/> <div class="carousel__caption">
+<h2 class="carousel__title">Kiezer blij dat we premier hebben die ervaren is met afwimpelen van schandalen</h2>
+<h5 class="carousel__subtitle">‘Dat zie je meteen terug’</h5>
+<span class="carousel__excerpt">Na het lekken van de notities van formatiegesprekken en het uitblijven van uitleg over de uitspraak over Pieter Omtzigt, is het volgens kiezer Wessel Bokkema maar goed dat we een premier hebben die zijn expertise uit de toeslagenaffaire mee kan nemen.                            <h6 class="carousel__link">Lees meer <i class="ion-ios-play"></i></h6>
 </span>
 </div>
 </a>
 </li>
 </ul>
 </article>
-<article class="articles cf" id="133273" role="article">
+<article class="articles cf" id="134557" role="article">
 <figure class="cf entry-figure">
-<a class="divlink" href="https://speld.nl/2021/03/11/kabinet-maakt-zich-zorgen-250-000-kinderen-leven-in-armoede-waarom-geven-veel-ouders-zo-weinig-zakgeld/" rel="bookmark" title="Kabinet maakt zich zorgen: 250.000 kinderen leven in armoede, waarom geven veel ouders zo weinig zakgeld?"></a>
+<a class="divlink" href="https://speld.nl/2021/03/27/prachtig-statement-qatar-laat-arbeiders-werken-in-shirts-met-human-rights-erop/" rel="bookmark" title="Prachtig statement: Qatar laat arbeiders werken in shirts met ‘human rights’ erop"></a>
 <div class="img-container">
-<div class="c-sponsored-label">
-<span class="c-sponsored-label__inner">Gesponsord</span>
-</div>
-<img alt="" id="black-overlay-for-icons" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/black-overlay-min.png"/>
-<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/SIRE-beeld2-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/SIRE-beeld2-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/SIRE-beeld2-450x259.png 450w" width="300"> </img></div>
+<img alt="Shutterstock.com / Studio Speld" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/qatarhumanrights2_65e429d45f4d3065dd4fc56f2b958d5e_2000-300x173.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/qatarhumanrights2_65e429d45f4d3065dd4fc56f2b958d5e_2000-300x173.jpg 300w, https://hooiberg.speld.nl/wp-content/uploads/qatarhumanrights2_65e429d45f4d3065dd4fc56f2b958d5e_2000-450x259.jpg 450w" width="300"/> </div>
 </figure>
 <div class="articles-content">
-<a class="divlink" href="https://speld.nl/2021/03/11/kabinet-maakt-zich-zorgen-250-000-kinderen-leven-in-armoede-waarom-geven-veel-ouders-zo-weinig-zakgeld/" rel="bookmark" title="Kabinet maakt zich zorgen: 250.000 kinderen leven in armoede, waarom geven veel ouders zo weinig zakgeld?"></a>
+<a class="divlink" href="https://speld.nl/2021/03/27/prachtig-statement-qatar-laat-arbeiders-werken-in-shirts-met-human-rights-erop/" rel="bookmark" title="Prachtig statement: Qatar laat arbeiders werken in shirts met ‘human rights’ erop"></a>
 <header class="articles-header">
 <h2 class="h2 entry-title">
-<a href="https://speld.nl/2021/03/11/kabinet-maakt-zich-zorgen-250-000-kinderen-leven-in-armoede-waarom-geven-veel-ouders-zo-weinig-zakgeld/" rel="bookmark" title="Kabinet maakt zich zorgen: 250.000 kinderen leven in armoede, waarom geven veel ouders zo weinig zakgeld?">Kabinet maakt zich zorgen: 250.000 kinderen leven in armoede, waarom geven veel ouders zo weinig zakgeld?</a>
+<a href="https://speld.nl/2021/03/27/prachtig-statement-qatar-laat-arbeiders-werken-in-shirts-met-human-rights-erop/" rel="bookmark" title="Prachtig statement: Qatar laat arbeiders werken in shirts met ‘human rights’ erop">Prachtig statement: Qatar laat arbeiders werken in shirts met ‘human rights’ erop</a>
 </h2>
 </header>
 <section class="articles-entry-content cf">
-<p class="entry-content">“We kunnen de ouders er wel op aanspreken, maar meer kunnen we niet doen”, legt Mark Rutte uit.</p>
+<p class="entry-content">Steeds meer landen maken een statement tegen de verschrikkelijke omstandigheden waarin onderbetaalde werkkrachten de stadions voor het WK 2022 moeten bouwen.</p>
 </section>
 <footer class="articles-footer cf">
 <p>
-<a href="https://speld.nl/2021/03/11/kabinet-maakt-zich-zorgen-250-000-kinderen-leven-in-armoede-waarom-geven-veel-ouders-zo-weinig-zakgeld/">Lees Verder</a>
+<a href="https://speld.nl/2021/03/27/prachtig-statement-qatar-laat-arbeiders-werken-in-shirts-met-human-rights-erop/">Lees Verder</a>
 <i class="ion-ios-play"></i>
 </p>
 </footer>
 </div>
 </article>
-<article class="articles cf" id="132896" role="article">
+<article class="articles cf" id="134547" role="article">
 <figure class="cf entry-figure">
-<a class="divlink" href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/" rel="bookmark" title="Doe hier De Speldwijzer voor bindend stemadvies"></a>
+<a class="divlink" href="https://speld.nl/2021/03/27/marte-heeft-onveilig-handen-vastgehouden-met-haar-date-en-moet-nu-een-corona-thuistest-doen/" rel="bookmark" title="Marte heeft onveilig handen vastgehouden met haar date en moet nu een corona-thuistest doen"></a>
 <div class="img-container">
-<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/uitkomsten2-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/uitkomsten2-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/uitkomsten2-450x259.png 450w" width="300"/> </div>
+<img alt="Shutterstock.com / Fizkes" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1667279545_e12e08dd04d2a8d43e6922127af64bf6_2000-300x173.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1667279545_e12e08dd04d2a8d43e6922127af64bf6_2000-300x173.jpg 300w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1667279545_e12e08dd04d2a8d43e6922127af64bf6_2000-450x259.jpg 450w" width="300"/> </div>
 </figure>
 <div class="articles-content">
-<a class="divlink" href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/" rel="bookmark" title="Doe hier De Speldwijzer voor bindend stemadvies"></a>
+<a class="divlink" href="https://speld.nl/2021/03/27/marte-heeft-onveilig-handen-vastgehouden-met-haar-date-en-moet-nu-een-corona-thuistest-doen/" rel="bookmark" title="Marte heeft onveilig handen vastgehouden met haar date en moet nu een corona-thuistest doen"></a>
 <header class="articles-header">
 <h2 class="h2 entry-title">
-<a href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/" rel="bookmark" title="Doe hier De Speldwijzer voor bindend stemadvies">Doe hier De Speldwijzer voor bindend stemadvies</a>
+<a href="https://speld.nl/2021/03/27/marte-heeft-onveilig-handen-vastgehouden-met-haar-date-en-moet-nu-een-corona-thuistest-doen/" rel="bookmark" title="Marte heeft onveilig handen vastgehouden met haar date en moet nu een corona-thuistest doen">Marte heeft onveilig handen vastgehouden met haar date en moet nu een corona-thuistest doen</a>
 </h2>
 </header>
 <section class="articles-entry-content cf">
-<p class="entry-content">Vul De Speld Stemwijzer in en ontvang bindend stemadvies.</p>
+<p class="entry-content">Flinke stress voor de 23-jarige Marte.</p>
 </section>
 <footer class="articles-footer cf">
 <p>
-<a href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/">Lees Verder</a>
-<i class="ion-ios-play"></i>
-</p>
-</footer>
-</div>
-</article>
-<article class="articles cf" id="133707" role="article">
-<figure class="cf entry-figure">
-<a class="divlink" href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/" rel="bookmark" title="Seks bij de eerste keer winkelen op afspraak, not done?"></a>
-<div class="img-container">
-<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1543660916-450x259.png 450w" width="300"/> </div>
-</figure>
-<div class="articles-content">
-<a class="divlink" href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/" rel="bookmark" title="Seks bij de eerste keer winkelen op afspraak, not done?"></a>
-<header class="articles-header">
-<h2 class="h2 entry-title">
-<a href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/" rel="bookmark" title="Seks bij de eerste keer winkelen op afspraak, not done?">Seks bij de eerste keer winkelen op afspraak, not done?</a>
-</h2>
-</header>
-<section class="articles-entry-content cf">
-<p class="entry-content">Sinds een week is het toegestaan om naar een winkel te gaan, mits je ruim van tevoren belt of mailt om een afspraak te maken. </p>
-</section>
-<footer class="articles-footer cf">
-<p>
-<a href="https://speld.nl/2021/03/16/seks-bij-de-eerste-keer-winkelen-op-afspraak-not-done/">Lees Verder</a>
+<a href="https://speld.nl/2021/03/27/marte-heeft-onveilig-handen-vastgehouden-met-haar-date-en-moet-nu-een-corona-thuistest-doen/">Lees Verder</a>
 <i class="ion-ios-play"></i>
 </p>
 </footer>
@@ -532,23 +505,23 @@ oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Klik op &#039;toestaan&
 </h4>
 </header>
 <article class="aside-news-article cf">
-<a class="divlink" href="https://speld.nl/2021/03/15/265-miljoen-coronadoden-ontsnapt-aan-mogelijke-bijwerking-astrazeneca-vaccin/"></a>
-<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
-<h3>2,65 miljoen coronadoden ontsnapt aan mogelijke bijwerking AstraZeneca-vaccin</h3>
-<p>'Gelukkig heeft mijn Sjaak onderzoek naar hoogst onwaarschijnlijk verband niet hoeven meemaken'<i class="ion-ios-play"></i></p>
+<a class="divlink" href="https://speld.nl/2021/03/26/lente-dolblije-koeien-ontsnappen-aan-stalbrand/"></a>
+<img alt="Shutterstock / Gerard Koudenburg" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_100023077_5effa3ee68f1b3ff975eadf29ec0d404_2000-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_100023077_5effa3ee68f1b3ff975eadf29ec0d404_2000-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_100023077_5effa3ee68f1b3ff975eadf29ec0d404_2000-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Lente: dolblije koeien ontsnappen aan stalbrand</h3>
+<p><i class="ion-ios-play"></i></p>
 </div>
 </article>
 <article class="aside-news-article cf">
-<a class="divlink" href="https://speld.nl/2021/03/10/wilders-nieuwsuur-heeft-de-linkse-kliek-van-landverraders-veel-te-hard-aangepakt/"></a>
-<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
-<h3>Wilders: ‘Nieuwsuur heeft de linkse kliek van landverraders veel te hard aangepakt’</h3>
-<p>PVV-leider legt uit waarom hij kritisch interview overslaat<i class="ion-ios-play"></i></p>
+<a class="divlink" href="https://speld.nl/2021/03/25/omtzigt-wenst-ollongren-succes-met-functie-elders/"></a>
+<img alt="WNL / De Balie" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/succes_f1c9fe4c807492e64557de85b06d1ca8_2000-80x80.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/succes_f1c9fe4c807492e64557de85b06d1ca8_2000-80x80.jpg 80w, https://hooiberg.speld.nl/wp-content/uploads/succes_f1c9fe4c807492e64557de85b06d1ca8_2000-150x150.jpg 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Omtzigt wenst Ollongren succes met functie elders</h3>
+<p><i class="ion-ios-play"></i></p>
 </div>
 </article>
 <article class="aside-news-article cf">
-<a class="divlink" href="https://speld.nl/2021/03/08/koningin-elizabeth-bekent-bemoeienis-kleur-bang-dat-achterkleinzoon-rood-haar-zou-krijgen/"></a>
-<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/Queen-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/Queen-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/Queen-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
-<h3>Koningin Elizabeth bekent bemoeienis kleur: ‘Bang dat achterkleinzoon rood haar zou krijgen’</h3>
+<a class="divlink" href="https://speld.nl/2021/03/25/ollongren-vindt-formatie-via-zoom-niet-veilig-stel-je-voor-dat-journalisten-meeluisteren/"></a>
+<img alt="Beeld: WNL" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/ollongren_fdd1fce500a3f7a628c5798b5fd32d35_2000-80x80.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/ollongren_fdd1fce500a3f7a628c5798b5fd32d35_2000-80x80.jpg 80w, https://hooiberg.speld.nl/wp-content/uploads/ollongren_fdd1fce500a3f7a628c5798b5fd32d35_2000-150x150.jpg 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Ollongren vindt formatie via Zoom niet veilig: ‘Stel je voor dat journalisten meeluisteren’</h3>
 <p><i class="ion-ios-play"></i></p>
 </div>
 </article>
@@ -556,128 +529,104 @@ oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Klik op &#039;toestaan&
 <article class="video-home hentry" role="article">
 <figure class="video-wrapper">
 <img class="make-video-responsive-img" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAABLCAYAAAC1D//7AAAABGdBTUEAALGPC/xhBQAAAU1JREFUeAHt0rENwDAMBDHF+++cpHAj4EagARf68sBnZt7/ewqsAmddDgVuATBQyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4EsAEZmMYLBQBYAI7MYwWAgC4CRWYxgMJAFwMgsRjAYyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4EsAEZmMYLBQBYAI7MYwWAgC4CRWYxgMJAFwMgsRjAYyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4EsAEZmMYLBQBYAI7MYwWAgC4CRWYxgMJAFwMgsRjAYyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4EsAEZmMYLBQBYAI7MYwWAgC4CRWYxgMJAFwMgsRjAYyAJgZBYjGAxkATAyixEMBrIAGJnFCAYDWQCMzGIEg4Es8AFyOgGVosq9uwAAAABJRU5ErkJggg=="/>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="375" src="https://www.youtube.com/embed/BtHeGK59TyY" width="670"></iframe> </figure>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="375" src="https://www.youtube.com/embed/FnW3F-6N8R8" title="YouTube video player" width="670"></iframe> </figure>
 <p class="video-header-seemore">
 <a href="https://speld.nl/category/video/">
             Meer video’s van De Speld</a>
 <i class="ion-ios-play"></i>
 </p>
 </article>
-<article class="articles cf" id="133680" role="article">
+<article class="articles cf" id="134544" role="article">
 <figure class="cf entry-figure">
-<a class="divlink" href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/" rel="bookmark" title="Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?"></a>
+<a class="divlink" href="https://speld.nl/2021/03/27/25-000-vluchtelingen-hebben-zich-aangemeld-om-van-rhodos-af-te-kunnen/" rel="bookmark" title="25.000 vluchtelingen hebben zich aangemeld om van Rhodos af te kunnen"></a>
 <div class="img-container">
-<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/jessetrudeau-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/jessetrudeau-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/jessetrudeau-450x259.png 450w" width="300"> </img></div>
+<img alt="Shutterstock.com /  Enea Gega" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1721443846_c75e58ed1b16c4417365889df608913c_2000-300x173.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1721443846_c75e58ed1b16c4417365889df608913c_2000-300x173.jpg 300w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1721443846_c75e58ed1b16c4417365889df608913c_2000-450x259.jpg 450w" width="300"> </img></div>
 </figure>
 <div class="articles-content">
-<a class="divlink" href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/" rel="bookmark" title="Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?"></a>
+<a class="divlink" href="https://speld.nl/2021/03/27/25-000-vluchtelingen-hebben-zich-aangemeld-om-van-rhodos-af-te-kunnen/" rel="bookmark" title="25.000 vluchtelingen hebben zich aangemeld om van Rhodos af te kunnen"></a>
 <header class="articles-header">
 <h2 class="h2 entry-title">
-<a href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/" rel="bookmark" title="Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?">Jesse Klaver minder populair: is hij de Nederlandse Justin Trudeau?</a>
+<a href="https://speld.nl/2021/03/27/25-000-vluchtelingen-hebben-zich-aangemeld-om-van-rhodos-af-te-kunnen/" rel="bookmark" title="25.000 vluchtelingen hebben zich aangemeld om van Rhodos af te kunnen">25.000 vluchtelingen hebben zich aangemeld om van Rhodos af te kunnen</a>
 </h2>
 </header>
 <section class="articles-entry-content cf">
-<p class="entry-content">De populariteit van Jesse Klaver lijkt niet meer wat het geweest is.</p>
+<p class="entry-content">Al meer dan zeventienduizend vluchtelingen hebben aangegeven dat ze er wel oren naar hebben om van Rhodos af te komen.</p>
 </section>
 <footer class="articles-footer cf">
 <p>
-<a href="https://speld.nl/2021/03/16/jesse-klaver-minder-populair-is-hij-de-nederlandse-justin-trudeau/">Lees Verder</a>
+<a href="https://speld.nl/2021/03/27/25-000-vluchtelingen-hebben-zich-aangemeld-om-van-rhodos-af-te-kunnen/">Lees Verder</a>
 <i class="ion-ios-play"></i>
 </p>
 </footer>
 </div>
 </article>
-<article class="articles cf" id="133471" role="article">
+<article class="articles cf" id="134539" role="article">
 <figure class="cf entry-figure">
-<a class="divlink" href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/" rel="bookmark" title="Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen"></a>
+<a class="divlink" href="https://speld.nl/2021/03/27/omtzigt-zet-zijn-tanden-in-cda-affaire/" rel="bookmark" title="Omtzigt zet zijn tanden in CDA-affaire"></a>
 <div class="img-container">
-<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/lilian-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/lilian-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/lilian-450x259.png 450w" width="300"/> </div>
+<img alt="Source: Youtube, Pieter Omtzigt" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/Pieter_e3e77514da69c67fb235d55a76f873de_2000-300x173.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/Pieter_e3e77514da69c67fb235d55a76f873de_2000-300x173.jpg 300w, https://hooiberg.speld.nl/wp-content/uploads/Pieter_e3e77514da69c67fb235d55a76f873de_2000-450x259.jpg 450w" width="300"/> </div>
 </figure>
 <div class="articles-content">
-<a class="divlink" href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/" rel="bookmark" title="Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen"></a>
+<a class="divlink" href="https://speld.nl/2021/03/27/omtzigt-zet-zijn-tanden-in-cda-affaire/" rel="bookmark" title="Omtzigt zet zijn tanden in CDA-affaire"></a>
 <header class="articles-header">
 <h2 class="h2 entry-title">
-<a href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/" rel="bookmark" title="Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen">Schandalig Kritiekloze Lijsttrekkersinterviews deel 7: Lilian Marijnissen</a>
+<a href="https://speld.nl/2021/03/27/omtzigt-zet-zijn-tanden-in-cda-affaire/" rel="bookmark" title="Omtzigt zet zijn tanden in CDA-affaire">Omtzigt zet zijn tanden in CDA-affaire</a>
 </h2>
 </header>
 <section class="articles-entry-content cf">
-<p class="entry-content">In de aanloop naar de Tweede Kamerverkiezingen op 17 maart krijgen de lijstrekkers te maken met veel kritiekloze interviews.</p>
+<p class="entry-content">Tweede kamerlid Pieter Omtzigt heeft aangekondigd er alles aan te doen om de CDA-affaire op de politieke agenda te krijgen.</p>
 </section>
 <footer class="articles-footer cf">
 <p>
-<a href="https://speld.nl/2021/03/16/schandalig-kritiekloze-lijsttrekkersinterviews-deel-7-lilian-marijnissen/">Lees Verder</a>
+<a href="https://speld.nl/2021/03/27/omtzigt-zet-zijn-tanden-in-cda-affaire/">Lees Verder</a>
 <i class="ion-ios-play"></i>
 </p>
 </footer>
 </div>
 </article>
-<article class="articles cf" id="133670" role="article">
+<article class="articles cf" id="134522" role="article">
 <figure class="cf entry-figure">
-<a class="divlink" href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/" rel="bookmark" title="Ongeldig stevent af op historische verkiezingsoverwinning"></a>
+<a class="divlink" href="https://speld.nl/2021/03/26/dirk-jan-heeft-zoveel-coke-gesnoven-dat-het-tussenschot-van-zijn-sleutel-is-weggebrand/" rel="bookmark" title="Dirk-Jan heeft zoveel coke gesnoven dat het tussenschot van zijn sleutel is weggebrand"></a>
 <div class="img-container">
-<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/stembureau-nos1-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/stembureau-nos1-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/stembureau-nos1-450x259.png 450w" width="300"/> </div>
+<img alt="Shutterstock.com / Studio Speld" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/cocainesleutel31_130ddf033bb8db905a84739667217368_2000-300x173.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/cocainesleutel31_130ddf033bb8db905a84739667217368_2000-300x173.jpg 300w, https://hooiberg.speld.nl/wp-content/uploads/cocainesleutel31_130ddf033bb8db905a84739667217368_2000-670x386.jpg 670w, https://hooiberg.speld.nl/wp-content/uploads/cocainesleutel31_130ddf033bb8db905a84739667217368_2000-450x259.jpg 450w" width="300"/> </div>
 </figure>
 <div class="articles-content">
-<a class="divlink" href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/" rel="bookmark" title="Ongeldig stevent af op historische verkiezingsoverwinning"></a>
+<a class="divlink" href="https://speld.nl/2021/03/26/dirk-jan-heeft-zoveel-coke-gesnoven-dat-het-tussenschot-van-zijn-sleutel-is-weggebrand/" rel="bookmark" title="Dirk-Jan heeft zoveel coke gesnoven dat het tussenschot van zijn sleutel is weggebrand"></a>
 <header class="articles-header">
 <h2 class="h2 entry-title">
-<a href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/" rel="bookmark" title="Ongeldig stevent af op historische verkiezingsoverwinning">Ongeldig stevent af op historische verkiezingsoverwinning</a>
+<a href="https://speld.nl/2021/03/26/dirk-jan-heeft-zoveel-coke-gesnoven-dat-het-tussenschot-van-zijn-sleutel-is-weggebrand/" rel="bookmark" title="Dirk-Jan heeft zoveel coke gesnoven dat het tussenschot van zijn sleutel is weggebrand">Dirk-Jan heeft zoveel coke gesnoven dat het tussenschot van zijn sleutel is weggebrand</a>
 </h2>
 </header>
 <section class="articles-entry-content cf">
-<p class="entry-content">Ongeldig stevent af op een historische verkiezingsoverwinning. </p>
+<p class="entry-content">De 34-jarige croupier Dirk-Jan heeft de afgelopen tien jaar elke dag een gram cocaïne gesnoven.</p>
 </section>
 <footer class="articles-footer cf">
 <p>
-<a href="https://speld.nl/2021/03/16/ongeldig-stevent-af-op-historische-verkiezingsoverwinning/">Lees Verder</a>
+<a href="https://speld.nl/2021/03/26/dirk-jan-heeft-zoveel-coke-gesnoven-dat-het-tussenschot-van-zijn-sleutel-is-weggebrand/">Lees Verder</a>
 <i class="ion-ios-play"></i>
 </p>
 </footer>
 </div>
 </article>
-<article class="articles cf" id="133644" role="article">
+<article class="articles cf" id="134507" role="article">
 <figure class="cf entry-figure">
-<a class="divlink" href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/" rel="bookmark" title="Stel heeft sinds corona volop quantity time"></a>
+<a class="divlink" href="https://speld.nl/2021/03/26/pakketjes-geretourneerd-containerschip-suezkanaal-moet-weer-terug/" rel="bookmark" title="Pakketjes geretourneerd: containerschip Suezkanaal moet weer terug"></a>
 <div class="img-container">
-<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1156208539-450x259.png 450w" width="300"/> </div>
+<img alt="Julianne Cona" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/containers_daa700dafb714e77ad6f8bcbfa976db2_2000-300x173.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/containers_daa700dafb714e77ad6f8bcbfa976db2_2000-300x173.jpg 300w, https://hooiberg.speld.nl/wp-content/uploads/containers_daa700dafb714e77ad6f8bcbfa976db2_2000-450x259.jpg 450w" width="300"/> </div>
 </figure>
 <div class="articles-content">
-<a class="divlink" href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/" rel="bookmark" title="Stel heeft sinds corona volop quantity time"></a>
+<a class="divlink" href="https://speld.nl/2021/03/26/pakketjes-geretourneerd-containerschip-suezkanaal-moet-weer-terug/" rel="bookmark" title="Pakketjes geretourneerd: containerschip Suezkanaal moet weer terug"></a>
 <header class="articles-header">
 <h2 class="h2 entry-title">
-<a href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/" rel="bookmark" title="Stel heeft sinds corona volop quantity time">Stel heeft sinds corona volop quantity time</a>
+<a href="https://speld.nl/2021/03/26/pakketjes-geretourneerd-containerschip-suezkanaal-moet-weer-terug/" rel="bookmark" title="Pakketjes geretourneerd: containerschip Suezkanaal moet weer terug">Pakketjes geretourneerd: containerschip Suezkanaal moet weer terug</a>
 </h2>
 </header>
 <section class="articles-entry-content cf">
-<p class="entry-content">Voor veel mensen zijn het coronavirus en de bijbehorende maatregelen een vervelende verstoring van het dagelijks leven. </p>
+<p class="entry-content">Een ongemakkelijk moment voor het vastgelopen containerschip Ever Given.</p>
 </section>
 <footer class="articles-footer cf">
 <p>
-<a href="https://speld.nl/2021/03/15/stel-heeft-sinds-corona-volop-quantity-time/">Lees Verder</a>
-<i class="ion-ios-play"></i>
-</p>
-</footer>
-</div>
-</article>
-<article class="articles cf" id="133613" role="article">
-<figure class="cf entry-figure">
-<a class="divlink" href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/" rel="bookmark" title="Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders"></a>
-<div class="img-container">
-<img alt="" class="attachment-300x173 size-300x173 wp-post-image" height="173" sizes="(max-width: 300px) 100vw, 300px" src="https://hooiberg.speld.nl/wp-content/uploads/Wilders-Rutte-300x173.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/Wilders-Rutte-300x173.png 300w, https://hooiberg.speld.nl/wp-content/uploads/Wilders-Rutte-450x259.png 450w" width="300"/> </div>
-</figure>
-<div class="articles-content">
-<a class="divlink" href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/" rel="bookmark" title="Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders"></a>
-<header class="articles-header">
-<h2 class="h2 entry-title">
-<a href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/" rel="bookmark" title="Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders">Stemmer die twijfelt tussen GroenLinks en Bij1 hoopt beslissing te maken bij derde debat Rutte-Wilders</a>
-</h2>
-</header>
-<section class="articles-entry-content cf">
-<p class="entry-content">Ines weet nog niet op wie ze wil stemmen.</p>
-</section>
-<footer class="articles-footer cf">
-<p>
-<a href="https://speld.nl/2021/03/15/stemmer-die-twijfelt-tussen-groenlinks-en-bij1-hoopt-beslissing-te-maken-bij-derde-debat-rutte-wilders/">Lees Verder</a>
+<a href="https://speld.nl/2021/03/26/pakketjes-geretourneerd-containerschip-suezkanaal-moet-weer-terug/">Lees Verder</a>
 <i class="ion-ios-play"></i>
 </p>
 </footer>
@@ -696,23 +645,23 @@ oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Klik op &#039;toestaan&
 </h4>
 </header>
 <article class="aside-news-article cf">
-<a class="divlink" href="https://speld.nl/2021/03/15/265-miljoen-coronadoden-ontsnapt-aan-mogelijke-bijwerking-astrazeneca-vaccin/"></a>
-<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_1889059618-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
-<h3>2,65 miljoen coronadoden ontsnapt aan mogelijke bijwerking AstraZeneca-vaccin</h3>
-<p>'Gelukkig heeft mijn Sjaak onderzoek naar hoogst onwaarschijnlijk verband niet hoeven meemaken'<i class="ion-ios-play"></i></p>
+<a class="divlink" href="https://speld.nl/2021/03/26/lente-dolblije-koeien-ontsnappen-aan-stalbrand/"></a>
+<img alt="Shutterstock / Gerard Koudenburg" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_100023077_5effa3ee68f1b3ff975eadf29ec0d404_2000-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_100023077_5effa3ee68f1b3ff975eadf29ec0d404_2000-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_100023077_5effa3ee68f1b3ff975eadf29ec0d404_2000-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Lente: dolblije koeien ontsnappen aan stalbrand</h3>
+<p><i class="ion-ios-play"></i></p>
 </div>
 </article>
 <article class="aside-news-article cf">
-<a class="divlink" href="https://speld.nl/2021/03/10/wilders-nieuwsuur-heeft-de-linkse-kliek-van-landverraders-veel-te-hard-aangepakt/"></a>
-<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/shutterstock_184006925-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
-<h3>Wilders: ‘Nieuwsuur heeft de linkse kliek van landverraders veel te hard aangepakt’</h3>
-<p>PVV-leider legt uit waarom hij kritisch interview overslaat<i class="ion-ios-play"></i></p>
+<a class="divlink" href="https://speld.nl/2021/03/25/omtzigt-wenst-ollongren-succes-met-functie-elders/"></a>
+<img alt="WNL / De Balie" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/succes_f1c9fe4c807492e64557de85b06d1ca8_2000-80x80.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/succes_f1c9fe4c807492e64557de85b06d1ca8_2000-80x80.jpg 80w, https://hooiberg.speld.nl/wp-content/uploads/succes_f1c9fe4c807492e64557de85b06d1ca8_2000-150x150.jpg 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Omtzigt wenst Ollongren succes met functie elders</h3>
+<p><i class="ion-ios-play"></i></p>
 </div>
 </article>
 <article class="aside-news-article cf">
-<a class="divlink" href="https://speld.nl/2021/03/08/koningin-elizabeth-bekent-bemoeienis-kleur-bang-dat-achterkleinzoon-rood-haar-zou-krijgen/"></a>
-<img alt="" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/Queen-80x80.png" srcset="https://hooiberg.speld.nl/wp-content/uploads/Queen-80x80.png 80w, https://hooiberg.speld.nl/wp-content/uploads/Queen-150x150.png 150w" width="80"/> <div class="aside-news-article-content">
-<h3>Koningin Elizabeth bekent bemoeienis kleur: ‘Bang dat achterkleinzoon rood haar zou krijgen’</h3>
+<a class="divlink" href="https://speld.nl/2021/03/25/ollongren-vindt-formatie-via-zoom-niet-veilig-stel-je-voor-dat-journalisten-meeluisteren/"></a>
+<img alt="Beeld: WNL" class="attachment-80x80 size-80x80 wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://hooiberg.speld.nl/wp-content/uploads/ollongren_fdd1fce500a3f7a628c5798b5fd32d35_2000-80x80.jpg" srcset="https://hooiberg.speld.nl/wp-content/uploads/ollongren_fdd1fce500a3f7a628c5798b5fd32d35_2000-80x80.jpg 80w, https://hooiberg.speld.nl/wp-content/uploads/ollongren_fdd1fce500a3f7a628c5798b5fd32d35_2000-150x150.jpg 150w" width="80"/> <div class="aside-news-article-content">
+<h3>Ollongren vindt formatie via Zoom niet veilig: ‘Stel je voor dat journalisten meeluisteren’</h3>
 <p><i class="ion-ios-play"></i></p>
 </div>
 </article>
@@ -721,8 +670,8 @@ oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Klik op &#039;toestaan&
 <div class="massarius-dfp-unit c-ad c-ad--sidebar" id="div-gpt-ad-1530014938962-1">
 <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1530014938962-1'); });</script>
 </div>
-<a class="sidebar__banner" href="https://shop.speld.nl/collections/best-sellers/products/shirt-zak-er-maar-in-partij-tegen-de-burger?utm_source=house-ad&amp;utm_campaign=zak-er-maar-in" target="_blank" title="">
-<img alt="" class="sidebar__banner__image" src="https://hooiberg.speld.nl/wp-content/uploads/house-ad3.png"/>
+<a class="sidebar__banner" href="https://speld.nl/nieuwsbrief/?utm_source=banner" target="_blank" title="">
+<img alt="" class="sidebar__banner__image" src="https://hooiberg.speld.nl/wp-content/uploads/Nieuwsbrief-Banner.png"/>
 </a>
 <!-- ASIDE POLL WIDGET -->
 <aside class="aside-widget-poll clearfix">
@@ -730,7 +679,7 @@ oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Klik op &#039;toestaan&
 <div class="aside-widget-poll-container">
 <div class="wp-polls" id="polls-207">
 <form action="/index.php" class="wp-polls-form" id="polls_form_207" method="post">
-<p style="display: none;"><input id="poll_207_nonce" name="wp-polls-nonce" type="hidden" value="5f5c47e5e2"/></p>
+<p style="display: none;"><input id="poll_207_nonce" name="wp-polls-nonce" type="hidden" value="edafee2d9e"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="207"/></p>
 <h5>Welke maatregel die jou niet raakt moet de overheid NU nemen?</h5>
 <ul>
@@ -760,40 +709,34 @@ oneSignal_options['promptOptions']['autoAcceptTitle'] = 'Klik op &#039;toestaan&
 </h4>
 </header>
 <div class="aside-populair-container">
-<a href="https://speld.nl/2021/03/03/doe-hier-de-speldwijzer-voor-bindend-stemadvies/">
+<a href="https://speld.nl/2021/03/25/omtzigt-wenst-ollongren-succes-met-functie-elders/">
 <header class="cf">
 <img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/1.svg">
-<p>Doe hier De Speldwijzer voor bindend stemadvies</p>
+<p>Omtzigt wenst Ollongren succes met functie elders</p>
 </img></header>
 </a>
-<a href="https://speld.nl/2021/03/10/mark-rutte-wordt-jihadist-vvd-zakt-een-zetel-in-peilingen/">
+<a href="https://speld.nl/2021/03/23/avondklok-afgeschaft-tussen-3-en-half-4-zodat-iedereen-nachtelijk-broodje-kebab-met-knoflooksaus-kan-halen/">
 <header class="cf">
 <img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/2.svg"/>
-<p>Mark Rutte wordt jihadist, VVD zakt één zetel in peilingen</p>
+<p>Avondklok afgeschaft tussen 3 en half 4 zodat iedereen nachtelijk broodje kebab met knoflooksaus kan halen</p>
 </header>
 </a>
-<a href="https://speld.nl/2021/03/13/we-omschreven-politieke-partijen-in-termen-van-andere-politieke-partijen/">
+<a href="https://speld.nl/2021/03/24/bilal-wahib-ik-mag-deze-grap-maken-een-van-mijn-beste-vrienden-zijn-12/">
 <header class="cf">
 <img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/3.svg"/>
-<p>We omschreven politieke partijen in termen van andere politieke partijen</p>
+<p>Bilal Wahib: ‘Ik mag deze grap maken, een van mijn beste vrienden is 12’</p>
 </header>
 </a>
-<a href="https://speld.nl/2021/03/10/denise-maakt-apart-boodschappenlijstje-met-producten-die-ze-later-weg-gaat-gooien/">
+<a href="https://speld.nl/2021/03/26/dirk-jan-heeft-zoveel-coke-gesnoven-dat-het-tussenschot-van-zijn-sleutel-is-weggebrand/">
 <header class="cf">
 <img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/4.svg"/>
-<p>Denise maakt apart boodschappenlijstje met producten die ze later weg gaat gooien</p>
+<p>Dirk-Jan heeft zoveel coke gesnoven dat het tussenschot van zijn sleutel is weggebrand</p>
 </header>
 </a>
-<a href="https://speld.nl/2021/03/15/265-miljoen-coronadoden-ontsnapt-aan-mogelijke-bijwerking-astrazeneca-vaccin/">
+<a href="https://speld.nl/2021/03/21/ottolenghi-geeft-toe-helft-ingredienten-in-recepten-verzonnen/">
 <header class="cf">
 <img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/5.svg"/>
-<p>2,65 miljoen coronadoden ontsnapt aan mogelijke bijwerking AstraZeneca-vaccin</p>
-</header>
-</a>
-<a href="https://speld.nl/2021/03/13/podcast-interview-partij-tegen-de-burger-samen-tegen-u/">
-<header class="cf">
-<img alt="" class="aside-populair-container__svg-circles" src="https://hooiberg.speld.nl/wp-content/themes/speld/library/images/icons/6.svg"/>
-<p>Podcast – interview Partij tegen de Burger: ‘Samen tegen u’</p>
+<p>Ottolenghi geeft toe: helft ingrediënten in recepten verzonnen</p>
 </header>
 </a>
 </div></aside>
@@ -921,7 +864,7 @@ var pollsL10n = {"ajax_url":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","text
 <script id="wp-polls-js" src="https://hooiberg.speld.nl/wp-content/plugins/wp-polls/polls-js.js" type="text/javascript"></script>
 <script id="holler-js-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var hollerVars = {"ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","pluginUrl":"https:\/\/speld.nl\/wp-content\/plugins\/holler-box\/","hwpNonce":"adafb37dbb","expires":"999","isMobile":"","disable_tracking":"","active":["119505"],"119505":{"type":"notification","showEmail":"","showChat":"","emailProvider":"default","redirect":"","ckApi":"","visitor":"all","hideBtn":"","optinMsg":"","placeholder":"Enter your email","confirmMsg":"","emailErr":"Please enter a valid email address.","display_when":"delay","delay":"60","showSettings":"interacts","hideForDays":"1","hide_after":"never","hide_after_delay":"3","devices":"all","bgColor":"#ff6400","btnColor1":"","position":"hwp-bottomleft"}};
+var hollerVars = {"ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","pluginUrl":"https:\/\/speld.nl\/wp-content\/plugins\/holler-box\/","hwpNonce":"66a8428d9c","expires":"999","isMobile":"","disable_tracking":"","active":["119505"],"119505":{"type":"notification","showEmail":"","showChat":"","emailProvider":"default","redirect":"","ckApi":"","visitor":"all","hideBtn":"","optinMsg":"","placeholder":"Enter your email","confirmMsg":"","emailErr":"Please enter a valid email address.","display_when":"delay","delay":"60","showSettings":"interacts","hideForDays":"1","hide_after":"never","hide_after_delay":"3","devices":"all","bgColor":"#ff6400","btnColor1":"","position":"hwp-bottomleft"}};
 /* ]]> */
 </script>
 <script id="holler-js-js" src="https://hooiberg.speld.nl/wp-content/plugins/holler-box/assets/js/holler-frontend.min.js" type="text/javascript"></script>
@@ -939,7 +882,7 @@ var speld_paywall = [{"allowedVisits":3,"showPaywallOnPage":false,"showPaywallTo
 <script id="ajax-load-more-legacy-callbacks-js" src="https://hooiberg.speld.nl/wp-content/plugins/ajax-load-more/vendor/js/alm/legacy-callbacks.js" type="text/javascript"></script>
 <script id="ajax-load-more-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var alm_localize = {"ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","alm_nonce":"5334a90e47","rest_api":"https:\/\/speld.nl\/wp-json\/","rest_nonce":"7715364783","pluginurl":"http:\/\/speld.nl\/wp-content\/plugins\/ajax-load-more","speed":"200","ga_debug":"false","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1","site_title":"De Speld","site_tagline":"Uw vaste prik voor betrouwbaar nieuws."};
+var alm_localize = {"ajaxurl":"https:\/\/speld.nl\/wp-admin\/admin-ajax.php","alm_nonce":"a8378e9976","rest_api":"https:\/\/speld.nl\/wp-json\/","rest_nonce":"925f342a80","pluginurl":"http:\/\/speld.nl\/wp-content\/plugins\/ajax-load-more","speed":"200","ga_debug":"false","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1","site_title":"De Speld","site_tagline":"Uw vaste prik voor betrouwbaar nieuws."};
 var ajax_load_more_vars = {"id":"ajax-load-more"};
 /* ]]> */
 </script>

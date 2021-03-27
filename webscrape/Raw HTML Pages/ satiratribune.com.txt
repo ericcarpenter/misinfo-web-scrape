@@ -32,7 +32,7 @@ gtag('config', 'UA-7117339-4', {
 });
 gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 </script>
-</meta></link></meta></meta></meta></head>
+<script async="" src="/cdn-cgi/bm/cv/669835187/api.js"></script></meta></link></meta></meta></meta></head>
 <body>
 <header id="header">
 <div class="js-overlay-modal overlay-modal"></div>
@@ -92,32 +92,83 @@ gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 </div>
 <span class="or">or</span>
 <div class="right-alwaya-block">
-<span class="midle-lab-text">12 payments of <span class="green">$299.58</span></span>
-<a class="btn" href="https://www.HugeDomains.com/payment-plan-setup.cfm?d=SatiraTribune.com" onclick="document.getElementById('domainProfileHDv3P7c12aID').submit(); return false;">▸ Start Payment Plan</a>
+<span class="midle-lab-text">24 payments of <span class="green">$149.79</span></span>
+<a class="btn" href="https://www.HugeDomains.com/payment-plan-setup.cfm?d=SatiraTribune.com" id="hdv3Lander136PPSetupBtnID" onclick="hdv3Lander136PPSetupBtnProcessingFunc(); return false; " style="min-width:280px;">▸ Start Payment Plan</a>
+<button class="place-order-btn paymentpay-accaunt-content-btn btn hiddenAtLoad" id="hdv3Lander136PPSetupBtnProcessingID" onclick="return false;" style="height:49px; margin-left:0px; margin-top:0px; width:280px;" type="button" value="">Processing
+<div id="circularG">
+<div class="circularG" id="circularG_1"></div>
+<div class="circularG" id="circularG_2"></div>
+<div class="circularG" id="circularG_3"></div>
+<div class="circularG" id="circularG_4"></div>
+<div class="circularG" id="circularG_5"></div>
+<div class="circularG" id="circularG_6"></div>
+<div class="circularG" id="circularG_7"></div>
+<div class="circularG" id="circularG_8"></div>
+</div>
+</button>
 </div>
 </div>
-<p class="after-forms-paragraf">Make 12 monthly payments of $299.58 <span style="color:#13abb5;">|</span> Pay 0% interest <span style="color:#13abb5;">|</span> Start using the domain today. <a href="https://www.HugeDomains.com/payment-plan-setup.cfm?d=SatiraTribune.com">See details</a>.</p>
+<p class="after-forms-paragraf">Make 24 monthly payments of $149.79 <span style="color:#13abb5;">|</span> Pay 0% interest <span style="color:#13abb5;">|</span> Start using the domain today. <a href="https://www.HugeDomains.com/payment-plan-setup.cfm?d=SatiraTribune.com">See details</a>.</p>
 </div>
 </div>
 </section>
-<form action="https://www.HugeDomains.com/payment-plan-setup.cfm?d=SatiraTribune.com" id="domainProfileHDv3P7c12aID" method="post">
-<input name="termLength" type="hidden" value="12"/>
+<form action="https://www.HugeDomains.com/payment-plan-setup.cfm?d=SatiraTribune.com" id="domainProfileHDv3P7c24aID" method="post">
+<input name="termLength" type="hidden" value="24"/>
 <input name="d" type="hidden" value="SatiraTribune.com"/>
 </form>
-<section class="call-us product-page-bottom-block">
+<script>
+function hdv3Lander136PPSetupBtnProcessingFunc() {
+/* processing */
+$('#hdv3Lander136PPSetupBtnID').addClass('hiddenAtLoad');
+$('#hdv3Lander136PPSetupBtnProcessingID').removeClass('hiddenAtLoad');
+/* submit */
+document.getElementById('domainProfileHDv3P7c24aID').submit();
+window.addEventListener("unload", function(event) {
+$('#hdv3Lander136PPSetupBtnID').removeClass('hiddenAtLoad');
+$('#hdv3Lander136PPSetupBtnProcessingID').addClass('hiddenAtLoad');
+});
+return false;
+}
+window.onpageshow = function(event) {
+if (event.persisted) {
+$('#hdv3Lander136PPSetupBtnID').removeClass('hiddenAtLoad');
+$('#hdv3Lander136PPSetupBtnProcessingID').addClass('hiddenAtLoad');
+}
+};
+</script>
+<section class="bonus-presentation productWhiteGrey hdv3pitch">
+<div class="bonus-presentation-wrap small-container">
+<div class="bonus-presentation-item">
+<div class="bonus-presentation_icon"><img alt="" src="https://static.HugeDomains.com/images/hdv3-img/garantee.png"/></div>
+<div class="bonus-presentation_title"><h3>30-day money<br/>back guarantee</h3></div>
+<div class="bonus-presentation_content"><a class="modal-trigger fabThirtyDayMoneyBack" data-modal="contact-form-modal" href="##">Learn more</a></div>
+</div>
+<div class="bonus-presentation-item">
+<div class="bonus-presentation_icon"><img alt="" src="https://static.HugeDomains.com/images/hdv3-img/rocket-icon.png"/></div>
+<div class="bonus-presentation_title"><h3>Quick delivery of<br/>the domain</h3></div>
+<div class="bonus-presentation_content"><a class="modal-trigger fabQuickDeliveryLearnMore" data-modal="contact-form-modal" href="##">Learn more</a></div>
+</div>
+<div class="bonus-presentation-item">
+<div class="bonus-presentation_icon"><img alt="" src="https://static.HugeDomains.com/images/hdv3-img/present-section-ico-3.png"/></div>
+<div class="bonus-presentation_title"><h3>Safe and secure<br/>shopping</h3></div>
+<div class="bonus-presentation_content"><a class="modal-trigger fabSafeSecureShopping" data-modal="contact-form-modal" href="##">Learn more</a></div>
+</div>
+</div>
+</section>
+<section class="call-us product-page-bottom-block productWhiteGrey hdv3pitch">
 <div class="container">
 <div class="call-us-content-wrap">
 <div class="call-us-content-ico">
 <img alt="" src="https://static.HugeDomains.com/images/hdv3-img/call-us.png"/>
 </div>
 <div class="call-us-content">
-<h2 class="call-us-title">Questions? We can help: 1-303-893-0552</h2>
+<h2 class="call-us-title">Questions? We can help: 1‑303‑893‑0552</h2>
 <p class="call-us-subtitle">Call us to learn how we can help you get more value from your domain</p>
 </div>
 </div>
 </div>
 </section>
-<section class="video-lesson productWhiteGrey">
+<section class="video-lesson productWhiteGrey hdv3pitch">
 <div class="video-lesson-wrap small-container">
 <div class="video-block">
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/9wCygJtW_SQ?rel=0&amp;autoplay=0&amp;showinfo=0&amp;controls=0" width="480"></iframe>
@@ -125,42 +176,42 @@ gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 <div class="text-video"><p>Turbocharge your website. Watch our video to learn how.</p></div>
 </div>
 </section>
-<section class="testimonails productWhiteGrey">
+<section class="testimonails productWhiteGrey hdv3pitch">
 <div class="testimonails-wrap small-container">
 <div class="block-title"><h2>Since 2005, we’ve helped thousands of people get the perfect domain name</h2></div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#939999;">A</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#939999;">R</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">Excellent online process.</p>
-<span class="feedback-owner">- Aonghus Geraghty, January 19, 2021</span>
+<p class="feedback">LOVED IT! I've been wanting to purchase this site for years, and I am so glad I was able to thanks to Huge Domains.</p>
+<span class="feedback-owner">- Rebecca Perez, March 15, 2021</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#9085ff;">G</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#9085ff;">V</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">Fast, smooth and easy transaction with HugeDomains!</p>
-<span class="feedback-owner">- Gregg Ostrick, January 19, 2021</span>
+<p class="feedback">It's amazing to see how fast, easy &amp; secure was to get the domain and to redirect it to my website. It was also very easy to configure my account. What is also amazing is that it has the possibility to pay it in 24 months! Definitely I will use this service again and its a pleasure to give you my feedback and recommendation.</p>
+<span class="feedback-owner">- Victor Kerber, March 9, 2021</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#0047af;">H</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#0047af;">R</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">Simple, easy, trust-worthy!</p>
-<span class="feedback-owner">- Hsiao Loong Ong, January 18, 2021</span>
+<p class="feedback">Great transaction</p>
+<span class="feedback-owner">- Ricardo Herrera, March 8, 2021</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#830000;">Z</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#830000;">N</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">Fantastic Domain Providers.++++++:-)</p>
-<span class="feedback-owner">- Zulfikar Aziz, January 15, 2021</span>
+<p class="feedback">thanks you very much!</p>
+<span class="feedback-owner">- Ngo Vancuong, March 5, 2021</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#89969f;">T</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#89969f;">C</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">Thank You Huge Domains!</p>
-<span class="feedback-owner">- Tyrie Penn, January 14, 2021</span>
+<p class="feedback">I was very happy with the service and the payment plan. It is a good domain name that I am able to pay for over time while having the advantage of using it now.</p>
+<span class="feedback-owner">- Chris Lawrence, March 5, 2021</span>
 </div>
 </div>
 <div class="testimonials-container">
@@ -168,36 +219,7 @@ gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 <a class="see-more" href="https://www.HugeDomains.com/testimonials.cfm">See more testimonials</a>
 </div>
 </section>
-<section class="buy-now top-container product-page-bottom-block">
-<div class="small-container">
-<div class="bn-block text-center">
-<h1 class="domain-name">SatiraTribune.com</h1>
-<p>Own this domain today: <span class="green">$3,595</span></p>
-<a class="btn" href="https://www.HugeDomains.com/shopping_cart.cfm?d=SatiraTribune&amp;e=com">▸ Buy now</a>
-</div>
-</div>
-</section>
-<section class="other-domains productWhiteGrey">
-<div class="other-domains-wrap small-container">
-<div class="oter-domain-title">
-<h2>Other domains you might like:</h2>
-</div>
-<div class="domains-table">
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=SportTribune.com">SportTribune.com</a><span class="price">$2,095</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=DoctorsTribune.com">DoctorsTribune.com</a><span class="price">$6,095</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=ScienceTribune.com">ScienceTribune.com</a><span class="price">$3,495</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=WellnessTribune.com">WellnessTribune.com</a><span class="price">$2,795</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=TribuneFoot.com">TribuneFoot.com</a><span class="price">$1,495</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoboTribune.com">RoboTribune.com</a><span class="price">$3,695</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=FeralTribune.com">FeralTribune.com</a><span class="price">$1,995</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=ChineseTribune.com">ChineseTribune.com</a><span class="price">$1,495</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=StudentTribune.com">StudentTribune.com</a><span class="price">$2,995</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=VeteransTribune.com">VeteransTribune.com</a><span class="price">$2,895</span></span></div>
-</div>
-<a class="see-more-domains" href="https://www.HugeDomains.com/domain_search.cfm?domain_name=Satira+Tribune">See more...</a>
-</div>
-</section>
-<section class="faq-section productWhiteGrey">
+<section class="faq-section productWhiteGrey hdv3pitch">
 <div class="faq-section-wrap small-container">
 <div class="faq-section-title">
 <h2>FAQs</h2>
@@ -242,6 +264,35 @@ gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 </div>
 <div class="more-w">
 <a class="see-more-faq" href="https://www.HugeDomains.com/faq.cfm" target="_blank">See more FAQs</a>
+</div>
+</div>
+</section>
+<section class="other-domains productWhiteGrey hdv3pitch">
+<div class="other-domains-wrap small-container">
+<div class="oter-domain-title">
+<h2>Other domains you might like:</h2>
+</div>
+<div class="domains-table">
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=JobTribune.com">JobTribune.com</a><span class="price">$2,695</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=HrTribune.com">HrTribune.com</a><span class="price">$2,795</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=TownTribune.com">TownTribune.com</a><span class="price">$2,295</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=JobsTribune.com">JobsTribune.com</a><span class="price">$1,695</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=TribuneUsa.com">TribuneUsa.com</a><span class="price">$5,295</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=TribuneSport.com">TribuneSport.com</a><span class="price">$2,695</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=RoboTribune.com">RoboTribune.com</a><span class="price">$3,695</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=HomeTribune.com">HomeTribune.com</a><span class="price">$6,095</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=TennisTribune.com">TennisTribune.com</a><span class="price">$3,795</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=HaroldTribune.com">HaroldTribune.com</a><span class="price">$1,995</span></span></div>
+</div>
+<a class="see-more-domains" href="https://www.HugeDomains.com/domain_search.cfm?domain_name=Satira+Tribune">See more...</a>
+</div>
+</section>
+<section class="buy-now top-container product-page-bottom-block productWhiteGrey hdv3pitch">
+<div class="small-container">
+<div class="bn-block text-center">
+<h1 class="domain-name">SatiraTribune.com</h1>
+<p>Own this domain today: <span class="green">$3,595</span></p>
+<a class="btn" href="https://www.HugeDomains.com/shopping_cart.cfm?d=SatiraTribune&amp;e=com">▸ Buy now</a>
 </div>
 </div>
 </section>
@@ -309,6 +360,7 @@ $('#fabButtonPopopOuterDivID').load("https://www.HugeDomains.com/rjs/hdv3-rjs/co
 <li><a href="https://www.HugeDomains.com/business_assets.cfm">Domains as assets</a></li>
 <li><a href="https://www.HugeDomains.com/avoiding_problems.cfm">Don't lose your domain</a></li>
 <li><a href="https://www.HugeDomains.com/domain_name_checklist.cfm">Domain name checklist</a></li>
+<li><a href="https://www.HugeDomains.com/how-domain-transfers-work.cfm">How domain transfers work</a></li>
 </ul>
 </div>
 <div class="col">
@@ -332,7 +384,7 @@ $('#fabButtonPopopOuterDivID').load("https://www.HugeDomains.com/rjs/hdv3-rjs/co
 <h4 class="cta">Talk to a domain expert: <a href="tel:1-303-893-0552">+1-303-893-0552</a></h4>
 </div>
 <p class="copyright text-center">© 2021 HugeDomains.com. All rights reserved.</p>
-<a href="https://www.HugeDomains.com/domain-info.cfm"></a>
+<a href="https://www.HugeDomains.com/more-info.cfm"></a>
 </div>
 </footer>
 <script src="https://static.HugeDomains.com/js/hdv3-js/jquery.min.js"></script>
@@ -353,4 +405,4 @@ $('#hdv3CartNumberSpanID').removeClass('hiddenAtLoad');
 $('#hdv3CartNumberSpanID').html(cartItems.length);
 }
 </script>
-</body></html>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'636a656c2f765e95',m:'b2af51cc209b05f33e167fd6628176cb4c945eb2-1616866746-1800-Ab9vz15dVO2CaANhDUWCHJppr7Io5Hru8761rexvQF2dklbCSp8rGVCuBt5ge/QuABHGoP0SYmoTPZzt4YX22OzKJMV1e9momRamUyIbWKVsnnABAu4e1dJgEWW77vs0N0hVqIPiWPCTvNYscBOk4UZh62EqUg+DUa1BmdZYxPNi',s:[0x9a308fe84d,0x575eb3866d],}})();</script></body></html>

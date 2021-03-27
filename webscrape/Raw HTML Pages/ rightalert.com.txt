@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="YES" name="apple-mobile-web-app-capable"/>
+<title>rightalert.com - </title>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://rightalert.com/wordpress/xmlrpc.php" rel="pingback"/>
+<link href="//twemoji.classicpress.net" rel="dns-prefetch"/>
+<link href="https://rightalert.com/feed/" rel="alternate" title="rightalert.com » Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/twemoji.classicpress.net\/12\/72x72\/","ext":".png","svgUrl":"https:\/\/twemoji.classicpress.net\/12\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rightalert.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=cp_ca570ce6"}};
+			!function(e,t,a){var r,n,o,i,p=t.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var a=t.createElement("script");a.src=e,a.defer=a.type="text/javascript",t.getElementsByTagName("head")[0].appendChild(a)}for(i=Array("flag","emoji"),a.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)a.supports[i[o]]=l(i[o]),a.supports.everything=a.supports.everything&&a.supports[i[o]],"flag"!==i[o]&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[i[o]]);a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.DOMReady=!1,a.readyCallback=function(){a.DOMReady=!0},a.supports.everything||(n=function(){a.readyCallback()},t.addEventListener?(t.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),t.attachEvent("onreadystatechange",(function(){"complete"===t.readyState&&a.readyCallback()}))),(r=a.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://rightalert.com/wp-content/themes/dw-wallpress/assets/css/template.css?ver=cp_ca570ce6" id="wallpress_style_main-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://rightalert.com/wp-content/themes/dw-wallpress/assets/css/responsive.css?ver=cp_ca570ce6" id="wallpress_style_responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://rightalert.com/wp-content/themes/dw-wallpress/inc/font-awesome/css/font-awesome.min.css?ver=cp_ca570ce6" id="wallpress_style_font_awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://rightalert.com/wp-content/themes/dw-wallpress-child/style.css?ver=cp_ca570ce6" id="wallpress_style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://rightalert.com/wp-content/themes/dw-wallpress/dwqa-templates/style.css?ver=cp_ca570ce6" id="dw-wallpress-qa-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Oxygen%3A700&amp;ver=cp_ca570ce6" id="googleFonts-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="https://rightalert.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script src="https://rightalert.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://rightalert.com/wp-content/themes/dw-wallpress/assets/js/jquery.masonry.min.js?ver=cp_ca570ce6" type="text/javascript"></script>
+<script src="https://rightalert.com/wp-content/themes/dw-wallpress/assets/js/jquery.infinitescroll.min.js?ver=cp_ca570ce6" type="text/javascript"></script>
+<script src="https://rightalert.com/wp-content/themes/dw-wallpress/assets/js/jquery.custom.js?ver=cp_ca570ce6" type="text/javascript"></script>
+<script src="https://rightalert.com/wp-content/themes/dw-wallpress/assets/js/jquery.jcarousel.min.js?ver=cp_ca570ce6" type="text/javascript"></script>
+<script src="https://rightalert.com/wp-content/themes/dw-wallpress/assets/js/jquery.jplayer.min.js?ver=cp_ca570ce6" type="text/javascript"></script>
+<script src="https://rightalert.com/wp-content/themes/dw-wallpress/assets/js/iscroll.js?ver=cp_ca570ce6" type="text/javascript"></script>
+<script src="https://rightalert.com/wp-content/themes/dw-wallpress/assets/js/jquery.mousewheel.js?ver=cp_ca570ce6" type="text/javascript"></script>
+<link href="https://rightalert.com/wp-json/" rel="https://api.w.org/"/>
+<link href="https://rightalert.com/wordpress/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://rightalert.com/wordpress/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.9.15 (compatible; ClassicPress 1.2.0)" name="generator"/>
+<link href="https://rightalert.com/wp-content/themes/dw-wallpress/assets/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64829975-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Analytics -->
+<!-- START: Comscore -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({
+        c1: "2",
+        c2: "21057668",
+        c3: "",
+        c4: ""
+    });
+    (function () {
+        var s = document.createElement("script"),
+          el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=21057668&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cv=2.0&amp;cj=1"/> </noscript>
+<!-- END:  Comscore -->
+</head>
+<body class="home blog unknown post-https-redstate-com-bonchie-2021-03-26-the-biden-administration-has-a-new-tax-idea-and-its-not-going-to-go-over-well-n350811">
+<div class="main" id="header">
+<div class="clearfix" id="header-inner">
+<div id="branding"><h1 class="site-title display-title" id="site-title"><a href="https://rightalert.com/" rel="home" title="rightalert.com">rightalert.com</a></h1></div> <div id="navigation">
+<div class="menu-inner">
+<ul class="menu" id="menu-menu-1"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82466" id="menu-item-82466"><a href="https://salemmedia.com/townhall-media-privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82467" id="menu-item-82467"><a href="https://salemmedia.com/townhall-media-ccpa-privacy-notice-for-california-residents/">California – CCPA Notice</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-82468" id="menu-item-82468"><a href="https://salemmedia.com/ccpa-sale-opt-out/">California – Do Not Sell My Personal Information</a></li>
+</ul> </div>
+</div>
+<a class="sidebar-control" href="javascript:void(0);"><i class="fa fa-columns"></i></a>
+<a class="navigation-control" href="javascript:void(0);"><i class="fa fa-bars"></i></a>
+<form action="https://rightalert.com/" id="searchform" method="get">
+<label class="assistive-text" for="s">Search</label>
+<!-- <input type="text" class="field" name="s" id="s" placeholder="" /> -->
+<input class="field" id="s" name="s" type="text"/>
+<input class="submit" id="searchsubmit" name="submit" type="submit" value="Search"/>
+</form>
+</div>
+</div>
+<!-- #header -->
+<div id="main">
+<div class="clearfix" id="container">
+<div class="masonry" id="content">
+<div class="post-92903 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92903">
+<div class="item-inner" style="padding:0px;">
+<div>
+</div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/bonchie/2021/03/26/the-biden-administration-has-a-new-tax-idea-and-its-not-going-to-go-over-well-n350811" rel="bookmark" title="Permalink to The Biden Administration Has a New Tax Idea, and It's Not Going to Go Over Well">The Biden Administration Has a New Tax Idea, and It's Not Going to Go Over Well</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 12:00:31
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/bonchie/2021/03/26/the-biden-administration-has-a-new-tax-idea-and-its-not-going-to-go-over-well-n350811">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-bonchie-2021-03-26-the-biden-administration-has-a-new-tax-idea-and-its-not-going-to-go-over-well-n350811/" title="The Biden Administration Has a New Tax Idea, and It's Not Going to Go Over Well">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on The Biden Administration Has a New Tax Idea, and It's Not Going to Go Over Well</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92903 -->
+<div class="post-92901 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92901">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/jenniferoo/2021/03/26/capitol-officer-brian-sicknick-and-the-insidiousness-of-false-narratives-n350779"><img src="https://media.townhall.com/townhall/reu/ha/2021/34/3d4e126b-075b-498d-9f3c-11d0e8b151b8.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/jenniferoo/2021/03/26/capitol-officer-brian-sicknick-and-the-insidiousness-of-false-narratives-n350779" rel="bookmark" title="Permalink to Capitol Officer Brian Sicknick and the Insidiousness of False Narratives">Capitol Officer Brian Sicknick and the Insidiousness of False Narratives</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 11:45:30
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/jenniferoo/2021/03/26/capitol-officer-brian-sicknick-and-the-insidiousness-of-false-narratives-n350779">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-jenniferoo-2021-03-26-capitol-officer-brian-sicknick-and-the-insidiousness-of-false-narratives-n350779/" title="Capitol Officer Brian Sicknick and the Insidiousness of False Narratives">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Capitol Officer Brian Sicknick and the Insidiousness of False Narratives</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92901 -->
+<div class="post-92899 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92899">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://townhall.com/columnists/katiepavlich/2021/03/26/every-state-is-a-border-state-now-n2586963"><img src="https://media.townhall.com/townhall/reu/ha/2020/274/1c5f24a3-d3b4-4031-891e-937fab972279.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://townhall.com/columnists/katiepavlich/2021/03/26/every-state-is-a-border-state-now-n2586963" rel="bookmark" title="Permalink to Every State Is a Border State Now">Every State Is a Border State Now</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By townhall.com @ 2021-03-26 11:20:00
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://townhall.com/columnists/katiepavlich/2021/03/26/every-state-is-a-border-state-now-n2586963">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-townhall-com-columnists-katiepavlich-2021-03-26-every-state-is-a-border-state-now-n2586963/" title="Every State Is a Border State Now">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Every State Is a Border State Now</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92899 -->
+<div class="post-92898 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92898">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/mike_miller/2021/03/26/trans-woman-accuses-tsa-of-being-transphobic-scanners-alarms-and-an-anomaly-between-my-legs-watch-n350713"><img src="https://media.townhall.com/townhall/reu/ha/2012/299/1644f894-8f1e-4232-b35f-e731b2c0d62a.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/mike_miller/2021/03/26/trans-woman-accuses-tsa-of-being-transphobic-scanners-alarms-and-an-anomaly-between-my-legs-watch-n350713" rel="bookmark" title="Permalink to Trans 'Woman' Accuses TSA of Being 'Transphobic': Scanners, Alarms, and 'an &quot;Anomaly&quot; Between My Legs' (Watch)">Trans 'Woman' Accuses TSA of Being 'Transphobic': Scanners, Alarms, and 'an "Anomaly" Between My Legs' (Watch)</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 11:15:46
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/mike_miller/2021/03/26/trans-woman-accuses-tsa-of-being-transphobic-scanners-alarms-and-an-anomaly-between-my-legs-watch-n350713">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-mike_miller-2021-03-26-trans-woman-accuses-tsa-of-being-transphobic-scanners-alarms-and-an-anomaly-between-my-legs-watch-n350713-2/" title="Trans 'Woman' Accuses TSA of Being 'Transphobic': Scanners, Alarms, and 'an &quot;Anomaly&quot; Between My Legs' (Watch)">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Trans 'Woman' Accuses TSA of Being 'Transphobic': Scanners, Alarms, and 'an "Anomaly" Between My Legs' (Watch)</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92898 -->
+<div class="post-92897 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92897">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/mike_miller/2021/03/26/trans-woman-accuses-tsa-of-being-transphobic-scanners-alarms-and-an-anomaly-between-my-legs-watch-n350713"><img src="https://media.townhall.com/townhall/reu/ha/2012/299/1644f894-8f1e-4232-b35f-e731b2c0d62a.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/mike_miller/2021/03/26/trans-woman-accuses-tsa-of-being-transphobic-scanners-alarms-and-an-anomaly-between-my-legs-watch-n350713" rel="bookmark" title="Permalink to Trans 'Woman' Accuses TSA of Being 'Transphobic': Scanners, Alarms, and 'an &quot;Anomaly&quot; Between My Legs' (Watch!)">Trans 'Woman' Accuses TSA of Being 'Transphobic': Scanners, Alarms, and 'an "Anomaly" Between My Legs' (Watch!)</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 11:15:46
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/mike_miller/2021/03/26/trans-woman-accuses-tsa-of-being-transphobic-scanners-alarms-and-an-anomaly-between-my-legs-watch-n350713">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-mike_miller-2021-03-26-trans-woman-accuses-tsa-of-being-transphobic-scanners-alarms-and-an-anomaly-between-my-legs-watch-n350713/" title="Trans 'Woman' Accuses TSA of Being 'Transphobic': Scanners, Alarms, and 'an &quot;Anomaly&quot; Between My Legs' (Watch!)">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Trans 'Woman' Accuses TSA of Being 'Transphobic': Scanners, Alarms, and 'an "Anomaly" Between My Legs' (Watch!)</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92897 -->
+<div class="post-92902 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92902">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/alexparker/2021/03/26/black-africana-studies-professor-forced-to-take-sensitivity-training-for-writing-out-the-n-word-during-class-n350763"><img src="https://media.townhall.com/townhall/reu/ha/2018/305/53a5e4ee-6c29-49a3-a409-d31efc473d9f.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/alexparker/2021/03/26/black-africana-studies-professor-forced-to-take-sensitivity-training-for-writing-out-the-n-word-during-class-n350763" rel="bookmark" title="Permalink to Africana Studies Professor Forced to Take Sensitivity Training for Writing the N-Word During Class">Africana Studies Professor Forced to Take Sensitivity Training for Writing the N-Word During Class</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 11:00:29
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/alexparker/2021/03/26/black-africana-studies-professor-forced-to-take-sensitivity-training-for-writing-out-the-n-word-during-class-n350763">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-alexparker-2021-03-26-black-africana-studies-professor-forced-to-take-sensitivity-training-for-writing-out-the-n-word-during-class-n350763-2/" title="Africana Studies Professor Forced to Take Sensitivity Training for Writing the N-Word During Class">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Africana Studies Professor Forced to Take Sensitivity Training for Writing the N-Word During Class</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92902 -->
+<div class="post-92900 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92900">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/alexparker/2021/03/26/black-africana-studies-professor-forced-to-take-sensitivity-training-for-writing-out-the-n-word-during-class-n350763"><img src="https://media.townhall.com/townhall/reu/ha/2018/305/53a5e4ee-6c29-49a3-a409-d31efc473d9f.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/alexparker/2021/03/26/black-africana-studies-professor-forced-to-take-sensitivity-training-for-writing-out-the-n-word-during-class-n350763" rel="bookmark" title="Permalink to Black Africana Studies Professor Forced to Take Sensitivity Training for Writing the N-Word During Class">Black Africana Studies Professor Forced to Take Sensitivity Training for Writing the N-Word During Class</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 11:00:29
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/alexparker/2021/03/26/black-africana-studies-professor-forced-to-take-sensitivity-training-for-writing-out-the-n-word-during-class-n350763">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-alexparker-2021-03-26-black-africana-studies-professor-forced-to-take-sensitivity-training-for-writing-out-the-n-word-during-class-n350763/" title="Black Africana Studies Professor Forced to Take Sensitivity Training for Writing the N-Word During Class">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Black Africana Studies Professor Forced to Take Sensitivity Training for Writing the N-Word During Class</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92900 -->
+<div class="post-92896 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92896">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://bearingarms.com/staff-ba/2021/03/26/new-jersey-gun-permits-face-new-legal-challenge-n42646"><img src="https://media.townhall.com/townhall/reu/ha/2021/37/d2880b25-0f32-41d8-8c70-bf09b5e8ce4a.jpeg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://bearingarms.com/staff-ba/2021/03/26/new-jersey-gun-permits-face-new-legal-challenge-n42646" rel="bookmark" title="Permalink to New Jersey Gun Permits Face New Legal Challenge">New Jersey Gun Permits Face New Legal Challenge</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By bearingarms.com @ 2021-03-26 11:00:11
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://bearingarms.com/staff-ba/2021/03/26/new-jersey-gun-permits-face-new-legal-challenge-n42646">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-bearingarms-com-staff-ba-2021-03-26-new-jersey-gun-permits-face-new-legal-challenge-n42646/" title="New Jersey Gun Permits Face New Legal Challenge">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on New Jersey Gun Permits Face New Legal Challenge</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92896 -->
+<div class="post-92895 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92895">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://bearingarms.com/tomknighton/2021/03/26/op-ed-mangles-reality-push-gun-control-n42620"><img src="https://media.townhall.com/townhall/reu/ha/2018/240/14dbff60-6610-4684-9a1b-a5e24cd40d42.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://bearingarms.com/tomknighton/2021/03/26/op-ed-mangles-reality-push-gun-control-n42620" rel="bookmark" title="Permalink to Op-Ed Mangles Reality In Attempt To Push Gun Control">Op-Ed Mangles Reality In Attempt To Push Gun Control</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By bearingarms.com @ 2021-03-26 10:00:01
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://bearingarms.com/tomknighton/2021/03/26/op-ed-mangles-reality-push-gun-control-n42620">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-bearingarms-com-tomknighton-2021-03-26-op-ed-mangles-reality-push-gun-control-n42620/" title="Op-Ed Mangles Reality In Attempt To Push Gun Control">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Op-Ed Mangles Reality In Attempt To Push Gun Control</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92895 -->
+<div class="post-92894 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92894">
+<div class="item-inner" style="padding:0px;">
+<div>
+</div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/bonchie/2021/03/26/democrat-representative-arrested-on-video-for-what-ive-been-assured-is-insurrection-n350684" rel="bookmark" title="Permalink to Democrat Representative Arrested on Video for What I've Been Assured Is Insurrection">Democrat Representative Arrested on Video for What I've Been Assured Is Insurrection</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 09:30:04
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/bonchie/2021/03/26/democrat-representative-arrested-on-video-for-what-ive-been-assured-is-insurrection-n350684">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-bonchie-2021-03-26-democrat-representative-arrested-on-video-for-what-ive-been-assured-is-insurrection-n350684/" title="Democrat Representative Arrested on Video for What I've Been Assured Is Insurrection">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Democrat Representative Arrested on Video for What I've Been Assured Is Insurrection</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92894 -->
+<div class="post-92893 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92893">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/mike_miller/2021/03/26/nothing-to-see-here-just-new-black-muppets-teaching-two-year-olds-about-racial-literacy-n350640"><img src="https://media.townhall.com/townhall/reu/ha/2015/225/89fa43ee-2375-4290-941c-ecf2c51de3a1.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/mike_miller/2021/03/26/nothing-to-see-here-just-new-black-muppets-teaching-two-year-olds-about-racial-literacy-n350640" rel="bookmark" title="Permalink to Nothing to See Here: Just New Black Muppets Teaching Two-Year-Olds About 'Racial Literacy'">Nothing to See Here: Just New Black Muppets Teaching Two-Year-Olds About 'Racial Literacy'</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 09:15:38
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/mike_miller/2021/03/26/nothing-to-see-here-just-new-black-muppets-teaching-two-year-olds-about-racial-literacy-n350640">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-mike_miller-2021-03-26-nothing-to-see-here-just-new-black-muppets-teaching-two-year-olds-about-racial-literacy-n350640/" title="Nothing to See Here: Just New Black Muppets Teaching Two-Year-Olds About 'Racial Literacy'">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Nothing to See Here: Just New Black Muppets Teaching Two-Year-Olds About 'Racial Literacy'</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92893 -->
+<div class="post-92892 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92892">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/nick-arama/2021/03/26/bidens-argument-against-the-filibuster-gets-eviscerated-by-biden-obama-and-a-few-inconvenient-facts-n350651"><img src="https://media.townhall.com/townhall/reu/ha/2021/70/f77bfe49-20a1-4a57-bc4b-28d4102bd0c4.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/nick-arama/2021/03/26/bidens-argument-against-the-filibuster-gets-eviscerated-by-biden-obama-and-a-few-inconvenient-facts-n350651" rel="bookmark" title="Permalink to Biden's Argument Against the Filibuster Gets Eviscerated by…Biden, Obama and a Few Inconvenient Facts">Biden's Argument Against the Filibuster Gets Eviscerated by…Biden, Obama and a Few Inconvenient Facts</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 09:00:49
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/nick-arama/2021/03/26/bidens-argument-against-the-filibuster-gets-eviscerated-by-biden-obama-and-a-few-inconvenient-facts-n350651">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-nick-arama-2021-03-26-bidens-argument-against-the-filibuster-gets-eviscerated-by-biden-obama-and-a-few-inconvenient-facts-n350651/" title="Biden's Argument Against the Filibuster Gets Eviscerated by…Biden, Obama and a Few Inconvenient Facts">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Biden's Argument Against the Filibuster Gets Eviscerated by…Biden, Obama and a Few Inconvenient Facts</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92892 -->
+<div class="post-92891 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92891">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://townhall.com/columnists/quinnmarschik/2021/03/26/conflict-of-interests-first-uschina-talks-under-biden-set-a-poor-foundation-for-the-most-important-bilateral-relationship-in-the-world-n2586954"><img src="https://media.townhall.com/townhall/reu/ha/2021/84/f1610a60-4ebe-418c-8c6a-0f9245a13427.png"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://townhall.com/columnists/quinnmarschik/2021/03/26/conflict-of-interests-first-uschina-talks-under-biden-set-a-poor-foundation-for-the-most-important-bilateral-relationship-in-the-world-n2586954" rel="bookmark" title="Permalink to First U.S.-China Talks Under Biden Set a Poor Foundation for the Most Important Bilateral Relationship">First U.S.-China Talks Under Biden Set a Poor Foundation for the Most Important Bilateral Relationship</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By townhall.com @ 2021-03-26 09:00:00
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p>Alaska seemed to be the perfect spot for the first bilateral talks between senior U.S. and Chinese officials.<a href="https://townhall.com/columnists/quinnmarschik/2021/03/26/conflict-of-interests-first-uschina-talks-under-biden-set-a-poor-foundation-for-the-most-important-bilateral-relationship-in-the-world-n2586954">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-townhall-com-columnists-quinnmarschik-2021-03-26-conflict-of-interests-first-uschina-talks-under-biden-set-a-poor-foundation-for-the-most-important-bilateral-relationship-in-the-world-n2586954/" title="First U.S.-China Talks Under Biden Set a Poor Foundation for the Most Important Bilateral Relationship">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on First U.S.-China Talks Under Biden Set a Poor Foundation for the Most Important Bilateral Relationship</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92891 -->
+<div class="post-92890 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92890">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/joesquire/2021/03/26/food-history-friday-the-birth-of-frozen-food-n350503"><img src="https://media.townhall.com/townhall/reu/ha/2018/178/44294e01-11ea-4b0f-9528-23e7b81e97bd.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/joesquire/2021/03/26/food-history-friday-the-birth-of-frozen-food-n350503" rel="bookmark" title="Permalink to Food History Friday: The Birth of Frozen Food">Food History Friday: The Birth of Frozen Food</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 08:15:39
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/joesquire/2021/03/26/food-history-friday-the-birth-of-frozen-food-n350503">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-joesquire-2021-03-26-food-history-friday-the-birth-of-frozen-food-n350503/" title="Food History Friday: The Birth of Frozen Food">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Food History Friday: The Birth of Frozen Food</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92890 -->
+<div class="post-92889 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92889">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://bearingarms.com/tomknighton/2021/03/26/secret-service-reportedly-involved-itself-in-hunter-biden-gun-case-n42615"><img src="https://media.townhall.com/townhall/reu/ha/2020/289/ad5ed7d9-d644-4c3a-9934-2d0be5614beb.png"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://bearingarms.com/tomknighton/2021/03/26/secret-service-reportedly-involved-itself-in-hunter-biden-gun-case-n42615" rel="bookmark" title="Permalink to Secret Service Reportedly Involved Itself In Hunter Biden Gun Case">Secret Service Reportedly Involved Itself In Hunter Biden Gun Case</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By bearingarms.com @ 2021-03-26 08:00:24
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://bearingarms.com/tomknighton/2021/03/26/secret-service-reportedly-involved-itself-in-hunter-biden-gun-case-n42615">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-bearingarms-com-tomknighton-2021-03-26-secret-service-reportedly-involved-itself-in-hunter-biden-gun-case-n42615/" title="Secret Service Reportedly Involved Itself In Hunter Biden Gun Case">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Secret Service Reportedly Involved Itself In Hunter Biden Gun Case</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92889 -->
+<div class="post-92888 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92888">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://townhall.com/columnists/larryoconnor/2021/03/26/arrest-hunter-biden-n2586942"><img src="https://media.townhall.com/townhall/reu/ha/2019/277/24e3deaa-5f96-48e9-9eb5-7dc1caf22d4b.png"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://townhall.com/columnists/larryoconnor/2021/03/26/arrest-hunter-biden-n2586942" rel="bookmark" title="Permalink to Arrest Hunter Biden">Arrest Hunter Biden</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By townhall.com @ 2021-03-26 07:45:00
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://townhall.com/columnists/larryoconnor/2021/03/26/arrest-hunter-biden-n2586942">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-townhall-com-columnists-larryoconnor-2021-03-26-arrest-hunter-biden-n2586942/" title="Arrest Hunter Biden">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Arrest Hunter Biden</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92888 -->
+<div class="post-92887 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92887">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/stu-in-sd/2021/03/26/election-fraud-three-challenges-that-must-be-overcome-n349822"><img src="https://media.townhall.com/townhall/reu/ha/2020/322/e45b31d0-b349-463c-b998-58a883989328.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/stu-in-sd/2021/03/26/election-fraud-three-challenges-that-must-be-overcome-n349822" rel="bookmark" title="Permalink to Election Fraud: Three Challenges That Must Be Overcome">Election Fraud: Three Challenges That Must Be Overcome</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 07:30:54
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/stu-in-sd/2021/03/26/election-fraud-three-challenges-that-must-be-overcome-n349822">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-stu-in-sd-2021-03-26-election-fraud-three-challenges-that-must-be-overcome-n349822/" title="Election Fraud: Three Challenges That Must Be Overcome">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Election Fraud: Three Challenges That Must Be Overcome</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92887 -->
+<div class="post-92886 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92886">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/sister-toldjah/2021/03/26/parler-to-democrats-we-warned-fbi-in-advance-of-capitol-riots-and-here-are-the-receipts-to-prove-it-n350614"><img src="https://media.townhall.com/townhall/reu/ha/2021/6/8d4746d4-e7b2-4540-ae42-e12b748c91b5.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/sister-toldjah/2021/03/26/parler-to-democrats-we-warned-fbi-in-advance-of-capitol-riots-and-here-are-the-receipts-to-prove-it-n350614" rel="bookmark" title="Permalink to Parler to Democrats: We Warned FBI in Advance of Capitol Riots, and Here Are the Receipts to Prove It">Parler to Democrats: We Warned FBI in Advance of Capitol Riots, and Here Are the Receipts to Prove It</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 07:15:18
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/sister-toldjah/2021/03/26/parler-to-democrats-we-warned-fbi-in-advance-of-capitol-riots-and-here-are-the-receipts-to-prove-it-n350614">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-sister-toldjah-2021-03-26-parler-to-democrats-we-warned-fbi-in-advance-of-capitol-riots-and-here-are-the-receipts-to-prove-it-n350614/" title="Parler to Democrats: We Warned FBI in Advance of Capitol Riots, and Here Are the Receipts to Prove It">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Parler to Democrats: We Warned FBI in Advance of Capitol Riots, and Here Are the Receipts to Prove It</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92886 -->
+<div class="post-92885 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92885">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://bearingarms.com/camedwards/2021/03/26/atf-meeting-firearms-industry-ghost-guns-n42635"><img src="https://media.townhall.com/townhall/reu/ha/2021/34/52bc2bd7-27d0-4bec-bf2a-6e02ecb6cf19.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://bearingarms.com/camedwards/2021/03/26/atf-meeting-firearms-industry-ghost-guns-n42635" rel="bookmark" title='Permalink to Uh Oh: ATF Meeting With Firearms Industry On "Ghost Guns"'>Uh Oh: ATF Meeting With Firearms Industry On "Ghost Guns"</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By bearingarms.com @ 2021-03-26 07:00:05
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://bearingarms.com/camedwards/2021/03/26/atf-meeting-firearms-industry-ghost-guns-n42635">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-bearingarms-com-camedwards-2021-03-26-atf-meeting-firearms-industry-ghost-guns-n42635/" title='Uh Oh: ATF Meeting With Firearms Industry On "Ghost Guns"'>Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Uh Oh: ATF Meeting With Firearms Industry On "Ghost Guns"</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92885 -->
+<div class="post-92884 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92884">
+<div class="item-inner" style="padding:0px;">
+<div>
+</div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/nick-arama/2021/03/26/media-slobbers-over-bidens-press-conference-performance-but-even-with-one-reporter-reality-creeps-in-n350598" rel="bookmark" title="Permalink to Media Slobbers Over Biden's Press Conference Performance, But Even With One Reporter, Reality Creeps In">Media Slobbers Over Biden's Press Conference Performance, But Even With One Reporter, Reality Creeps In</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 06:30:06
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/nick-arama/2021/03/26/media-slobbers-over-bidens-press-conference-performance-but-even-with-one-reporter-reality-creeps-in-n350598">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-nick-arama-2021-03-26-media-slobbers-over-bidens-press-conference-performance-but-even-with-one-reporter-reality-creeps-in-n350598/" title="Media Slobbers Over Biden's Press Conference Performance, But Even With One Reporter, Reality Creeps In">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Media Slobbers Over Biden's Press Conference Performance, But Even With One Reporter, Reality Creeps In</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92884 -->
+<div class="post-92883 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92883">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/bradslager/2021/03/26/potential-challenger-to-ron-desantis-tells-an-amazingly-ridiculous-vaccine-lie-and-she-should-know-better-n350605"><img src="https://media.townhall.com/townhall/reu/ha/2021/54/183d7641-b332-4afc-8f05-e1bff1dae536.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/bradslager/2021/03/26/potential-challenger-to-ron-desantis-tells-an-amazingly-ridiculous-vaccine-lie-and-she-should-know-better-n350605" rel="bookmark" title="Permalink to Potential Challenger to Ron DeSantis Tells an Amazingly Ridiculous Vaccine Lie – and She Should Know Better">Potential Challenger to Ron DeSantis Tells an Amazingly Ridiculous Vaccine Lie – and She Should Know Better</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 06:18:07
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/bradslager/2021/03/26/potential-challenger-to-ron-desantis-tells-an-amazingly-ridiculous-vaccine-lie-and-she-should-know-better-n350605">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-bradslager-2021-03-26-potential-challenger-to-ron-desantis-tells-an-amazingly-ridiculous-vaccine-lie-and-she-should-know-better-n350605/" title="Potential Challenger to Ron DeSantis Tells an Amazingly Ridiculous Vaccine Lie – and She Should Know Better">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Potential Challenger to Ron DeSantis Tells an Amazingly Ridiculous Vaccine Lie – and She Should Know Better</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92883 -->
+<div class="post-92882 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92882">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://bearingarms.com/camedwards/2021/03/26/unarmed-uber-drivers-murdered-carjacking-n42628"><img src="https://media.townhall.com/townhall/reu/ha/2018/267/21e760e7-5c12-4d3f-a218-3fa67c72652a.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://bearingarms.com/camedwards/2021/03/26/unarmed-uber-drivers-murdered-carjacking-n42628" rel="bookmark" title="Permalink to Unarmed Uber Drivers Murdered In Separate Carjacking Attempts">Unarmed Uber Drivers Murdered In Separate Carjacking Attempts</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By bearingarms.com @ 2021-03-26 06:00:33
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://bearingarms.com/camedwards/2021/03/26/unarmed-uber-drivers-murdered-carjacking-n42628">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-bearingarms-com-camedwards-2021-03-26-unarmed-uber-drivers-murdered-carjacking-n42628/" title="Unarmed Uber Drivers Murdered In Separate Carjacking Attempts">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Unarmed Uber Drivers Murdered In Separate Carjacking Attempts</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92882 -->
+<div class="post-92881 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92881">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/heartlandinstitute/2021/03/26/to-restore-trust-in-the-press-restore-protection-from-libel-n350319"><img src="https://media.townhall.com/townhall/reu/ha/2021/28/4a89b7c7-0843-407d-9ad7-8831a266a92f.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/heartlandinstitute/2021/03/26/to-restore-trust-in-the-press-restore-protection-from-libel-n350319" rel="bookmark" title="Permalink to To Restore Trust in the Press, Restore Protection from Libel">To Restore Trust in the Press, Restore Protection from Libel</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 05:30:28
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/heartlandinstitute/2021/03/26/to-restore-trust-in-the-press-restore-protection-from-libel-n350319">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-heartlandinstitute-2021-03-26-to-restore-trust-in-the-press-restore-protection-from-libel-n350319/" title="To Restore Trust in the Press, Restore Protection from Libel">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on To Restore Trust in the Press, Restore Protection from Libel</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92881 -->
+<div class="post-92880 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92880">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://redstate.com/bonchie/2021/03/26/tucker-carlson-delivers-a-hilarious-breakdown-of-joe-bidens-presser-n350586"><img src="https://media.townhall.com/townhall/reu/ha/2018/236/57afe33d-7283-4cc1-8e13-a11295020816.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://redstate.com/bonchie/2021/03/26/tucker-carlson-delivers-a-hilarious-breakdown-of-joe-bidens-presser-n350586" rel="bookmark" title="Permalink to Tucker Carlson Delivers a Hilarious Breakdown of Joe Biden's Presser">Tucker Carlson Delivers a Hilarious Breakdown of Joe Biden's Presser</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By redstate.com @ 2021-03-26 05:00:25
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://redstate.com/bonchie/2021/03/26/tucker-carlson-delivers-a-hilarious-breakdown-of-joe-bidens-presser-n350586">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-redstate-com-bonchie-2021-03-26-tucker-carlson-delivers-a-hilarious-breakdown-of-joe-bidens-presser-n350586/" title="Tucker Carlson Delivers a Hilarious Breakdown of Joe Biden's Presser">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Tucker Carlson Delivers a Hilarious Breakdown of Joe Biden's Presser</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92880 -->
+<div class="post-92878 post type-post status-publish format-standard hentry category-uncategorized item clearfix" id="item-92878">
+<div class="item-inner" style="padding:0px;">
+<div>
+<a href="https://bearingarms.com/tomknighton/2021/03/26/vox-acknowledges-little-evidence-backing-bidens-gun-control-plan-n42613"><img src="https://media.townhall.com/townhall/reu/ha/2018/80/2272f605-608b-4f82-be15-e6937bdf7548.jpg"/></a> </div>
+<div class="item-main">
+<div class="item-header">
+<div style="float:left;width:32px;display:none"><img height="20" src="https://rightalert.com/wp-content/themes/dw-wallpress-child/assets/images/Misc-RSS.png" style="float:left" width="20"/></div>
+<h2 class="item-title" style="line-height:1.2;clear:none;">
+<a href="https://bearingarms.com/tomknighton/2021/03/26/vox-acknowledges-little-evidence-backing-bidens-gun-control-plan-n42613" rel="bookmark" title="Permalink to Vox Acknowledges Little Evidence Backing Biden's Gun Control Plan">Vox Acknowledges Little Evidence Backing Biden's Gun Control Plan</a>
+</h2>
+<div class="item-meta meta-top clearfix">
+<span class="item-author">
+
+						By bearingarms.com @ 2021-03-26 04:30:16
+																	</span>
+<span class="item-category">
+</span>
+</div>
+</div>
+<div class="item-content">
+<p><a href="https://bearingarms.com/tomknighton/2021/03/26/vox-acknowledges-little-evidence-backing-bidens-gun-control-plan-n42613">[more]</a></p>
+</div>
+<div class="item-meta meta-bottom" style="display:none;">
+<span class="item-permalink">
+<a href="https://rightalert.com/https-bearingarms-com-tomknighton-2021-03-26-vox-acknowledges-little-evidence-backing-bidens-gun-control-plan-n42613/" title="Vox Acknowledges Little Evidence Backing Biden's Gun Control Plan">Read more</a>
+</span>
+<span class="sep"> • </span>
+<span class="comments-link">
+<span>Comments Off<span class="screen-reader-text"> on Vox Acknowledges Little Evidence Backing Biden's Gun Control Plan</span></span> </span>
+</div>
+</div>
+</div>
+</div>
+<!-- #item-92878 -->
+<div class="navigation">
+<a href="https://rightalert.com/page/2/"><span class="meta-nav">←</span> Older posts</a> </div>
+</div>
+<!-- #content -->
+</div>
+<!-- #container -->
+</div><!-- Main -->
+<a class="scroll-top" href="#header"><i class="fa fa-caret-up"></i></a>
+<script src="https://rightalert.com/wordpress/wp-includes/js/wp-embed.min.js?ver=cp_ca570ce6" type="text/javascript"></script>
+</body>
+</html>

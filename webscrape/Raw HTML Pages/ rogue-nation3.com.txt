@@ -1,0 +1,2266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- start: index -->
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Discussion Forums</title>
+<!-- start: headerinclude -->
+<link href="http://rogue-nation3.com/syndication.php" rel="alternate" title="Latest Threads (RSS 2.0)" type="application/rss+xml"/>
+<link href="http://rogue-nation3.com/syndication.php?type=atom1.0" rel="alternate" title="Latest Threads (Atom 1.0)" type="application/atom+xml"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="text/javascript" http-equiv="Content-Script-Type"/>
+<script src="http://rogue-nation3.com/jscripts/jquery.js?ver=1800" type="text/javascript"></script>
+<script src="http://rogue-nation3.com/jscripts/jquery.plugins.min.js?ver=1800" type="text/javascript"></script>
+<script src="http://rogue-nation3.com/jscripts/general.js?ver=1800" type="text/javascript"></script>
+<link href="http://rogue-nation3.com/cache/themes/theme4/global.min.css" rel="stylesheet" type="text/css"/>
+<link href="http://rogue-nation3.com/cache/themes/theme1/css3.min.css" rel="stylesheet" type="text/css"/>
+<link href="http://rogue-nation3.com/cache/themes/theme4/alerts.min.css" rel="stylesheet" type="text/css"/>
+<link href="http://rogue-nation3.com/cache/themes/theme1/ougc_annbars.min.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+<!--
+	lang.unknown_error = "An unknown error has occurred.";
+
+	lang.select2_match = "One result is available, press enter to select it.";
+	lang.select2_matches = "{1} results are available, use up and down arrow keys to navigate.";
+	lang.select2_nomatches = "No matches found";
+	lang.select2_inputtooshort_single = "Please enter one or more character";
+	lang.select2_inputtooshort_plural = "Please enter {1} or more characters";
+	lang.select2_inputtoolong_single = "Please delete one character";
+	lang.select2_inputtoolong_plural = "Please delete {1} characters";
+	lang.select2_selectiontoobig_single = "You can only select one item";
+	lang.select2_selectiontoobig_plural = "You can only select {1} items";
+	lang.select2_loadmore = "Loading more results…";
+	lang.select2_searching = "Searching…";
+
+	var cookieDomain = ".rogue-nation3.com";
+	var cookiePath = "/";
+	var cookiePrefix = "";
+	var deleteevent_confirm = "Are you sure you want to delete this event?";
+	var removeattach_confirm = "Are you sure you want to remove the selected attachment from this post?";
+	var loading_text = 'Loading. <br />Please Wait..';
+	var saving_changes = 'Saving changes..';
+	var use_xmlhttprequest = "1";
+	var my_post_key = "4242644b9a3587ce772a504d78922817";
+	var rootpath = "http://rogue-nation3.com";
+	var imagepath = "http://rogue-nation3.com/images";
+  	var yes_confirm = "Yes";
+	var no_confirm = "No";
+	var MyBBEditor = null;
+	var spinner_image = "http://rogue-nation3.com/images/spinner.gif";
+	var spinner = "<img src='" + spinner_image +"' alt='' />";
+// -->
+</script>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<!--
+<script src="images/dark1.8/jquery-ui.js"></script>
+  <script>
+    $(function() {
+    $( document ).tooltip();
+  });
+  </script>
+--><!-- start: myalerts_js_popup -->
+<script type="text/javascript">
+    var unreadAlerts = '';
+</script>
+<script src="http://rogue-nation3.com/jscripts/myalerts.js" type="text/javascript"></script>
+<!-- end: myalerts_js_popup -->
+<!-- end: headerinclude --><!-- start: recentthread_headerinclude -->
+<script type="text/javascript">
+  <!--
+	var refresher = window.setInterval(function () {refresh_recent_threads()}, 30000);
+    var stopper = window.setTimeout(function() { stop_recent_threads()}, 900000);
+    function refresh_recent_threads()
+    {
+      	var xmlhttp;
+		if(window.XMLHttpRequest)
+  		{// code for IE7+, Firefox, Chrome, Opera, Safari
+ 			 xmlhttp=new XMLHttpRequest();
+  		}
+		else
+ 		 {// code for IE6, IE5
+     		 xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  		}
+      xmlhttp.onreadystatechange=function()
+      {
+        if(xmlhttp.readyState==4 && xmlhttp.status==200)
+    		{
+   				 document.getElementById("recentthreads").innerHTML=xmlhttp.responseText;
+    		}
+      }
+      	xmlhttp.open("GET","xmlhttp.php?action=recent_threads",true);
+		xmlhttp.send();
+    }
+    function stop_recent_threads()
+    {
+      		clearInterval(refresher);
+    }
+  // -->
+  </script>
+<!-- end: recentthread_headerinclude -->
+<script type="text/javascript">
+<!--
+lang.no_new_posts = "Forum Contains No New Posts";
+lang.click_mark_read = "Click to mark this forum as read";
+// -->
+</script>
+</head>
+<body>
+<!-- start: header -->
+<div id="container">
+<a id="top" name="top"></a>
+<div id="header">
+<div id="logo">
+<div class="wrapper">
+<a href="http://rogue-nation3.com/index.php"><img alt="Discussion Forums" src="http://rogue-nation3.com/attachment.php?aid=9190" title="Discussion Forums"/></a>
+<ul class="menu top_links">
+<!-- start: header_menu_portal -->
+<li><a class="portal" href="http://rogue-nation3.com/portal.php">Portal</a></li>
+<!-- end: header_menu_portal -->
+<!-- start: header_menu_search -->
+<li><a class="search" href="http://rogue-nation3.com/search.php">Search</a></li>
+<!-- end: header_menu_search -->
+<!-- start: header_menu_memberlist -->
+<li><a class="memberlist" href="http://rogue-nation3.com/memberlist.php">Member List</a></li>
+<!-- end: header_menu_memberlist -->
+<!-- start: header_menu_calendar -->
+<li><a class="calendar" href="http://rogue-nation3.com/calendar.php">Calendar</a></li>
+<!-- end: header_menu_calendar -->
+<li><a class="help" href="http://rogue-nation3.com/misc.php?action=help">Help</a></li>
+</ul>
+</div>
+</div>
+<div id="panel">
+<div class="upper">
+<div class="wrapper">
+<!-- start: header_quicksearch -->
+<form action="http://rogue-nation3.com/search.php" method="post">
+<fieldset id="search">
+<input class="textbox" name="keywords" type="text"/>
+<input class="button" type="submit" value="Search"/>
+<input name="action" type="hidden" value="do_search"/>
+<input name="postthread" type="hidden" value="1"/>
+</fieldset>
+</form>
+<!-- end: header_quicksearch -->
+<!-- start: header_welcomeblock_guest -->
+<!-- Continuation of div(class="upper") as opened in the header template -->
+<span class="welcome">Hello There, Guest! <a class="login" href="http://rogue-nation3.com/member.php?action=login" onclick="$('#quick_login').modal({ fadeDuration: 250, keepelement: true, zIndex: (typeof modal_zindex !== 'undefined' ? modal_zindex : 9999) }); return false;">Login</a> <a class="register" href="http://rogue-nation3.com/member.php?action=register">Register</a><!-- start: myfbconnect_login_button -->
+<a href="http://rogue-nation3.com/myfbconnect.php?action=login">Login with Facebook</a>
+<!-- end: myfbconnect_login_button --></span>
+</div>
+</div>
+<div class="modal" id="quick_login" style="display: none;">
+<form action="http://rogue-nation3.com/member.php" method="post">
+<input name="action" type="hidden" value="do_login"/>
+<input name="url" type="hidden" value=""/>
+<input name="quick_login" type="hidden" value="1"/>
+<table border="0" cellpadding="5" cellspacing="0" class="tborder" width="100%">
+<tr>
+<td class="thead" colspan="2"><strong>Login</strong></td>
+</tr>
+<tr>
+<td class="trow1" width="25%"><strong>Username:</strong></td>
+<td class="trow1"><input class="textbox initial_focus" id="quick_login_username" name="quick_username" type="text" value=""/></td>
+</tr>
+<tr>
+<td class="trow2"><strong>Password:</strong></td>
+<td class="trow2">
+<input class="textbox" id="quick_login_password" name="quick_password" type="password" value=""/> <a class="lost_password" href="http://rogue-nation3.com/member.php?action=lostpw">Lost Password?</a>
+</td>
+</tr>
+<tr>
+<td class="trow1"> </td>
+<td class="trow1 remember_me">
+<input checked="checked" class="checkbox" id="quick_login_remember" name="quick_remember" type="checkbox" value="yes"/>
+<label for="quick_login_remember">Remember me</label>
+</td>
+</tr>
+<tr>
+<td class="trow2" colspan="2">
+<div align="center"><input class="button" name="submit" type="submit" value="Login"/></div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<script type="text/javascript">
+					$("#quick_login input[name='url']").val($(location).attr('href'));
+				</script>
+<!-- end: header_welcomeblock_guest -->
+<!-- </div> in header_welcomeblock_member and header_welcomeblock_guest -->
+<!-- </div> in header_welcomeblock_member and header_welcomeblock_guest -->
+</div>
+</div>
+<div id="content">
+<div class="wrapper">
+<!-- BAM --><!-- start: bam_announcement_container -->
+<style>
+	.bam_announcement.yellow {
+		background: #FFF6BF;
+		border: 1px solid #FFD324;
+	}
+
+	.bam_announcement.green {
+		background: #D6ECA6;
+		border: 1px solid #8DC93E;
+	}
+
+	.bam_announcement.blue {
+		background: #ADCBE7;
+		border: 1px solid #0F5C8E;
+	}
+
+	.bam_announcement.red {
+		background: #FBE3E4;
+		border: 1px solid #A5161A;
+	}
+
+	.bam_announcement {
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px; 
+		text-align: center;
+		margin: 10px auto;
+		padding: 8px 12px;
+		background: #EBEBEB;
+		color: #000000;
+		border: 1px solid #ADADAD;
+	}
+
+	.bam_date {
+		color: #636161;
+		font-size: 0.78em;
+		margin-left: 6px;
+	}	
+
+	/* Insert Custom CSS Here */
+</style>
+<div class="bam_announcements"><!-- start: bam_announcement -->
+<p class="bam_announcement blue"><span style="font-weight: bold;">Welcome to Rogue-Nation !</span> Guests may post in the Public Area ! <span class="bam_date">(October 13, 2016)</span></p>
+<!-- end: bam_announcement --><!-- start: bam_announcement -->
+<p class="bam_announcement red"><a href="http://rogue-nation3.com/showthread.php?tid=17" target="_blank"><span style="color: red;">Learn our Boards HERE with Senona's Tutorials</span></a> <span class="bam_date">(June 20, 2020)</span></p>
+<!-- end: bam_announcement --><!-- start: bam_announcement -->
+<p class="bam_announcement blue"><a href="https://www.facebook.com/RogueNation15/" target="_blank"><span style="color: blue;">Visit our FACEBOOK Page CLICK HERE!!</span></a> <span class="bam_date">(May 04, 2017)</span></p>
+<!-- end: bam_announcement --></div>
+<!-- end: bam_announcement_container --><!-- /BAM -->
+<!-- start: nav -->
+<div class="navigation">
+<!-- start: nav_bit_active -->
+<span class="active">Discussion Forums</span>
+<!-- end: nav_bit_active -->
+</div>
+<!-- end: nav -->
+<br/>
+<!-- end: header -->
+<div id="recentthreads"><!-- start: recentthread -->
+<table border="0" cellpadding="6" cellspacing="1" class="tborder" style="clear: both;">
+<tr>
+<th class="thead" colspan="4" style="text-align:left; font-size: 10pt;">~ Recent Threads ~</th>
+</tr>
+</table>
+<div class="scroll">
+<table border="0" cellpadding="6" cellspacing="1" class="tborder">
+<tr>
+<td class="tcat" style="font-size: 9pt; text-align: center;" width="230"><strong>Thread / Author</strong></td>
+<td class="tcat" style="font-size: 9pt; text-align: center;" width="30"><strong>Forum</strong></td>
+<td class="tcat" style="font-size: 9pt; text-align: center;" width="30"><strong>Posts</strong></td>
+<td class="tcat" style="font-size: 9pt; text-align: center;" width="140"><strong>Last Post</strong></td>
+</tr>
+<!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=7271&amp;action=newpost">Moderna vaccination update for PLOTUS</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=831"><span style="color: #CC00CC;"><strong>PLOTUS</strong></span></a><br/></td>
+<td class="trow2">General Health Topics</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(7271);">51</a></td>
+<td class="trow2">1 hour ago<br/>
+<a href="showthread.php?tid=7271&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26"><span style="color: green;"><strong><em>Ninurta</em></strong></span></a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=5076&amp;action=newpost">Over A Decade Onwards ... We Remember SpaceBat!</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=7"><span style="color: #CC00CC;"><strong>OmegaLogos</strong></span></a><br/></td>
+<td class="trow1">The Lit Candle Hall</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(5076);">9</a></td>
+<td class="trow1">1 hour ago<br/>
+<a href="showthread.php?tid=5076&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=742">drussell41</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=108&amp;action=newpost">Banners</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=4"><span style="color: green;"><strong><em>BIAD</em></strong></span></a><br/></td>
+<td class="trow2">The Rogue-Nation Graphics Lab</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(108);">3187</a></td>
+<td class="trow2">1 hour ago<br/>
+<a href="showthread.php?tid=108&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=4"><span style="color: green;"><strong><em>BIAD</em></strong></span></a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7237&amp;action=newpost">Covid vaccines</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+<td class="trow1">Daily Chit Chat</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7237);">8</a></td>
+<td class="trow1">2 hours ago<br/>
+<a href="showthread.php?tid=7237&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=5227&amp;action=newpost">President D. Trump and "Q"</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2"><span style="color: green;"><strong><em>guohua</em></strong></span></a><br/></td>
+<td class="trow2">"Q" &amp; QAnon</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(5227);">143</a></td>
+<td class="trow2">3 hours ago<br/>
+<a href="showthread.php?tid=5227&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7338&amp;action=newpost">Kamala and Bill Clinton to talk about Empowering Girls - seriously</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=27">xuenchen</a><br/></td>
+<td class="trow1">Political News and more</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7338);">4</a></td>
+<td class="trow1">Today, 09:33 AM<br/>
+<a href="showthread.php?tid=7338&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=5328&amp;action=newpost">House, Trance and Chillout Music etc.</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=682">DaphneApollo</a><br/></td>
+<td class="trow2">Music and Media Room</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(5328);">204</a></td>
+<td class="trow2">Today, 02:20 AM<br/>
+<a href="showthread.php?tid=5328&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=682">DaphneApollo</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7306&amp;action=newpost">Former President of Drag Queen Story Hour Foundation Arrested on Child Porn</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=768">Michigan Swamp Buck</a><br/></td>
+<td class="trow1">Hot Button Issues</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7306);">38</a></td>
+<td class="trow1">Today, 12:46 AM<br/>
+<a href="showthread.php?tid=7306&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26"><span style="color: green;"><strong><em>Ninurta</em></strong></span></a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=4535&amp;action=newpost">Cut! That's a... [WRAP]!</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=7"><span style="color: #CC00CC;"><strong>OmegaLogos</strong></span></a><br/></td>
+<td class="trow2">Short Stories</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(4535);">4</a></td>
+<td class="trow2">Yesterday, 09:55 PM<br/>
+<a href="showthread.php?tid=4535&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=4"><span style="color: green;"><strong><em>BIAD</em></strong></span></a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7337&amp;action=newpost">A Timely Reminder,... Reflections on Grandfather ...</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=7"><span style="color: #CC00CC;"><strong>OmegaLogos</strong></span></a><br/></td>
+<td class="trow1">Short Stories</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7337);">1</a></td>
+<td class="trow1">Yesterday, 09:06 PM<br/>
+<a href="showthread.php?tid=7337&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=7336&amp;action=newpost">The Babushka of Baikal</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+<td class="trow2">Daily Chit Chat</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(7336);">2</a></td>
+<td class="trow2">Yesterday, 05:04 PM<br/>
+<a href="showthread.php?tid=7336&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7332&amp;action=newpost">One Two Punch on US Gun Rights!</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=768">Michigan Swamp Buck</a><br/></td>
+<td class="trow1">Breaking News</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7332);">7</a></td>
+<td class="trow1">Yesterday, 04:59 PM<br/>
+<a href="showthread.php?tid=7332&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=6118&amp;action=newpost">Lets STOP With The Mask Charade Masquerade! Designing A New Medical Mask!</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=7"><span style="color: #CC00CC;"><strong>OmegaLogos</strong></span></a><br/></td>
+<td class="trow2">General Health Topics</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(6118);">32</a></td>
+<td class="trow2">Yesterday, 03:19 PM<br/>
+<a href="showthread.php?tid=6118&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7335&amp;action=newpost">Interesting links</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+<td class="trow1">General News and Events</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7335);">0</a></td>
+<td class="trow1">Yesterday, 11:44 AM<br/>
+<a href="showthread.php?tid=7335&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=7334&amp;action=newpost">TV UFO News Report - John Ratcliffe Interview - Maria Bartiromo</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a><br/></td>
+<td class="trow2">UFOs, Aliens and Universal Questions</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(7334);">1</a></td>
+<td class="trow2">Yesterday, 10:26 AM<br/>
+<a href="showthread.php?tid=7334&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7317&amp;action=newpost">Another audio Book "Not to bad" IMO</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a><br/></td>
+<td class="trow1">Long Stories</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7317);">2</a></td>
+<td class="trow1">Yesterday, 09:38 AM<br/>
+<a href="showthread.php?tid=7317&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=7333&amp;action=newpost">Kamala Harris given lead role over border by President Biden</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=27">xuenchen</a><br/></td>
+<td class="trow2">Political News and more</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(7333);">2</a></td>
+<td class="trow2">Yesterday, 04:50 AM<br/>
+<a href="showthread.php?tid=7333&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26"><span style="color: green;"><strong><em>Ninurta</em></strong></span></a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7329&amp;action=newpost">Exposed Coordinating Identical Mass Shooting Narratives for Different States</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a><br/></td>
+<td class="trow1">Off Topic</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7329);">6</a></td>
+<td class="trow1">Yesterday, 12:53 AM<br/>
+<a href="showthread.php?tid=7329&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=27">xuenchen</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=7330&amp;action=newpost">The fall of Chile.. read it and weep</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a><br/></td>
+<td class="trow2">Off Topic</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(7330);">3</a></td>
+<td class="trow2">Yesterday, 12:46 AM<br/>
+<a href="showthread.php?tid=7330&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=27">xuenchen</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7331&amp;action=newpost">Owner of the Black vault gives a presentation</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a><br/></td>
+<td class="trow1">UFOs, Aliens and Universal Questions</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7331);">1</a></td>
+<td class="trow1">03-24-2021, 07:03 PM<br/>
+<a href="showthread.php?tid=7331&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=7322&amp;action=newpost">A brave man</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+<td class="trow2">Daily Chit Chat</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(7322);">11</a></td>
+<td class="trow2">03-24-2021, 03:52 PM<br/>
+<a href="showthread.php?tid=7322&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7325&amp;action=newpost">What the Finnish government thinks</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+<td class="trow1">Breaking News</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7325);">2</a></td>
+<td class="trow1">03-24-2021, 02:46 PM<br/>
+<a href="showthread.php?tid=7325&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=719">F2d5thCav</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=7326&amp;action=newpost">The AfD is trying to stop the destruction of society by the Woke Wave</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a><br/></td>
+<td class="trow2">Political News and more</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(7326);">3</a></td>
+<td class="trow2">03-24-2021, 07:53 AM<br/>
+<a href="showthread.php?tid=7326&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=719">F2d5thCav</a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow1"><a href="showthread.php?tid=7328&amp;action=newpost">Here Comes Biden -- Gun Control Gung-Ho Forward Harch</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=27">xuenchen</a><br/></td>
+<td class="trow1">Political News and more</td>
+<td class="trow1"><a href="javascript:MyBB.whoPosted(7328);">5</a></td>
+<td class="trow1">03-24-2021, 01:27 AM<br/>
+<a href="showthread.php?tid=7328&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26"><span style="color: green;"><strong><em>Ninurta</em></strong></span></a><br/></td>
+</tr>
+<!-- end: recentthread_thread --><!-- start: recentthread_thread -->
+<tr>
+<td class="trow2"><a href="showthread.php?tid=7324&amp;action=newpost">Why can't we be as smart as Mexican elections</a><br/><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a><br/></td>
+<td class="trow2">Off Topic</td>
+<td class="trow2"><a href="javascript:MyBB.whoPosted(7324);">2</a></td>
+<td class="trow2">03-24-2021, 12:04 AM<br/>
+<a href="showthread.php?tid=7324&amp;action=lastpost">Last Post:</a> <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a><br/></td>
+</tr>
+<!-- end: recentthread_thread -->
+</table>
+</div>
+<!-- end: recentthread --></div><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_1_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=1">Rogue-Nation Foyer</a></strong><br/><div class="smalltext">A good place to start when visiting Rogue Nation.
+Our Rogue Lobby welcomes visitors to the site.
+This is also where our Lit Candle Hall resides, where we send our thoughts, prayers and positive vibes to those in need.</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_1_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_3" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=3">Rogue Guests Entrance</a></strong><div class="smalltext">Where our welcome message and Lit Candle Hall reside.<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --><!-- start: forumbit_subforums -->
+<br/><strong>Sub Forums:</strong> <div class="subforumicon subforum_minion ajax_mark_read" id="mark_read_4" title="Forum Contains New Posts"><i class="fa fa-comment"></i></div><a href="forumdisplay.php?fid=4" title="">The Lit Candle Hall</a>, <div class="subforumicon subforum_minion ajax_mark_read" id="mark_read_5" title="Forum Contains New Posts"><i class="fa fa-comment"></i></div><a href="forumdisplay.php?fid=5" title="">Rogue's Lobby</a>
+<!-- end: forumbit_subforums --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">40</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">505</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5076&amp;action=lastpost" title="Over A Decade Onwards ... We Remember SpaceBat!"><strong>Over A Decade Onwards ......</strong></a>
+<br/>1 hour ago<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=742">drussell41</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_6_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=6">Rogue's Grand Hall</a></strong><br/><div class="smalltext">This is the Hall where, as a Registered Member, you may leave an introduction or a suggestion, or promote something that you have at heart.
+
+This is also where you'll find the latest news on Rogue-Nation's development.</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_6_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_103" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=103">Rogue-Nation Tutorials</a></strong><div class="smalltext">Learn the ins and outs of this wonderful platform we use.
+
+It's as easy as A, B, C !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">5</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">95</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5478&amp;action=lastpost" title="UPLOADING AN IMAGE FILE"><strong>UPLOADING AN IMAGE FILE</strong></a>
+<br/>02-11-2021, 05:01 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=973">Kenzo</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_7" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=7">The Welcome Mat</a></strong><div class="smalltext">Just joined up? Please introduce yourself and tell us a little about you so we can get to know you better...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">158</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">1,787</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=203&amp;action=lastpost" title="Just got here? Step this way, please..."><strong>Just got here? Step this ...</strong></a>
+<br/>11-23-2020, 01:32 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=922">yuppa</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_8" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=8">The Suggestion Box</a></strong><div class="smalltext">Have some feedback and/or input you'd like to share?
+Don't be shy and drop us a note. We want to hear from you and strive to make our site better and friendlier for our guests and members alike.<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">12</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">173</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6188&amp;action=lastpost" title='RN3: "Around the World"'><strong>RN3: "Around the World"</strong></a>
+<br/>08-22-2020, 07:36 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2">guohua</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_9" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=9">Rogues Promo Spot</a></strong><div class="smalltext">Do you have a personal project that you would like to share? Something you're a part of that you'd like to write about? Well, this is the spot to promote yourself!<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">17</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">273</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=3919&amp;action=lastpost" title="Halloween 2018"><strong>Halloween 2018</strong></a>
+<br/>11-01-2020, 04:11 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=735">Finspiracy</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_11_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=11">General and Breaking News Events</a></strong><br/><div class="smalltext">News stories that you have caught your attention as well as the latest breaking news...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_11_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_12" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=12">Breaking News</a></strong><div class="smalltext">Has it happened in the last 48 hours? Post and share it, so see we can read about the latest news and discuss it...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">299</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">3,351</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7332&amp;action=lastpost" title="One Two Punch on US Gun Rights!"><strong>One Two Punch on US Gun R...</strong></a>
+<br/>Yesterday, 04:59 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_13" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=13">General News and Events</a></strong><div class="smalltext">Your average general news stories that you would like to share an opinion on...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">531</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">4,184</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7335&amp;action=lastpost" title="Interesting links"><strong>Interesting links</strong></a>
+<br/>Yesterday, 11:44 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_14" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=14">War, Peace and Inbetween</a></strong><div class="smalltext">Wars, rumors of wars, escalations or efforts for peace...
+
+Want to talk about it?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">84</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">592</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7074&amp;action=lastpost" title="Democrat NGO’s To Direct Military / CIA &amp; FBI In Purge of Conservatives"><strong>Democrat NGO’s To Direct ...</strong></a>
+<br/>02-01-2021, 04:47 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26">Ninurta</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_15_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=15">Rogue Politics</a></strong><br/><div class="smalltext">Political news on the Right, Left and Center...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_15_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_113" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=113">America's President D. Trump</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">102</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">802</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7214&amp;action=lastpost" title="President Donald Trump speaks at CPAC"><strong>President Donald Trump sp...</strong></a>
+<br/>03-03-2021, 07:32 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=27">xuenchen</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_114" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=114">2020 Presidential Race</a></strong><div class="smalltext">Who are the Candidates .<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">64</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">816</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7113&amp;action=lastpost" title="Time.Com Tells You How The Election Steal Succeeded. The True Conspiracy."><strong>Time.Com Tells You How Th...</strong></a>
+<br/>02-07-2021, 03:46 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_16" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=16">Political News and more</a></strong><div class="smalltext">The general 'whats what' of politics in America and elsewhere...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">674</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">5,005</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7338&amp;action=lastpost" title="Kamala and Bill Clinton to talk about Empowering Girls - seriously"><strong>Kamala and Bill Clinton t...</strong></a>
+<br/>Today, 09:33 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_17" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=17">Election 2016 !</a></strong><div class="smalltext">Updates on the 2016 Presidential candidates, good and bad...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">142</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">1,087</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=3176&amp;action=lastpost" title="Should we let Hillary get away with her political crimes?"><strong>Should we let Hillary get...</strong></a>
+<br/>06-23-2020, 05:55 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_18" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=18">America's Ex-President Obama</a></strong><div class="smalltext">The latest actions of President Barack Obama,  whether it be interesting, crazy or just plain out there...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">77</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">325</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6401&amp;action=lastpost" title="Some of you may remember when Obama fired almost 200 senior flag officers"><strong>Some of you may remember ...</strong></a>
+<br/>09-16-2020, 01:51 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=719">F2d5thCav</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_19_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=19">Controversy and Debate</a></strong><br/><div class="smalltext">Enter here if you dare, for controversial topics and rousing debates...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_19_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_106" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=106">The Great Climate Change Debate</a></strong><div class="smalltext">No one denies that climate change exists. But it's another ball game altogether to think that it's not cyclical or just another major way of getting those hard earned dollars out of your pockets. What do you think?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">82</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">456</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7285&amp;action=lastpost" title="Greta's generation is actually less green than older generations: study"><strong>Greta's generation is act...</strong></a>
+<br/>03-20-2021, 06:52 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2">guohua</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_107" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=107">Genetically Modified Organisms</a></strong><div class="smalltext">Or more commonly called GMOs. It can't get any more controversial than that ! What is your opinion?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">23</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">211</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7289&amp;action=lastpost" title="Bayer and Monsanto"><strong>Bayer and Monsanto</strong></a>
+<br/>03-18-2021, 03:34 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_108" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=108">A Rogue's Opinion Piece...</a></strong><div class="smalltext">This board is dedicated to members that wish to write serious OP-ED articles that may be picked up by the mainstream media.
+
+<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">15</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">262</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=4754&amp;action=lastpost" title="Strangely-Worded News Articles."><strong>Strangely-Worded News Art...</strong></a>
+<br/>02-12-2021, 08:45 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=4">BIAD</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_109" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=109">Off Topic</a></strong><div class="smalltext">Where our members can post anything of interest that does not fall within our already discussion forums.<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">556</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">4,287</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7329&amp;action=lastpost" title="Exposed Coordinating Identical Mass Shooting Narratives for Different States"><strong>Exposed Coordinating Iden...</strong></a>
+<br/>Yesterday, 12:53 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=27">xuenchen</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_20" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=20">Social Unrest and Justice</a></strong><div class="smalltext">Topics from minimum wage to national protests around the world, often times causing disruption and chaos...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">173</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">1,524</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7321&amp;action=lastpost" title="Thank you to all Left-leaning Main Stream Media"><strong>Thank you to all Left-lea...</strong></a>
+<br/>03-23-2021, 04:50 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=831">PLOTUS</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_21" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=21">Hot Button Issues</a></strong><div class="smalltext">Topics likely to erupt into heated debates such as abortion, gay rights, vaccines, drugs,  etc etc...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">213</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">1,955</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7306&amp;action=lastpost" title="Former President of Drag Queen Story Hour Foundation Arrested on Child Porn"><strong>Former President of Drag ...</strong></a>
+<br/>Today, 12:46 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26">Ninurta</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_22" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=22">Lawsuits and Legalities</a></strong><div class="smalltext">Follow conflicts in the courts, or share legal cases you may find of interest...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">25</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">120</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7070&amp;action=lastpost" title="Biden is even stealing music from Finland"><strong>Biden is even stealing mu...</strong></a>
+<br/>01-27-2021, 06:38 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=768">Michigan Swamp Buck</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_23" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=23">Where Right goes Wrong</a></strong><div class="smalltext">Abuse of Authority, Police Excess and opinions of Government overreach...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">26</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">151</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7301&amp;action=lastpost" title="CCDH – The Centre For Cancel Culture And Digital Hypocrisy"><strong>CCDH – The Centre For Can...</strong></a>
+<br/>03-19-2021, 08:25 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2">guohua</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_24_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=24">Around the World</a></strong><br/><div class="smalltext">Global news from the North Pole to the South Pole and everything in between...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_24_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_25" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=25">America and its Territories</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">46</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">220</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7130&amp;action=lastpost" title="Meet Antifa"><strong>Meet Antifa</strong></a>
+<br/>02-11-2021, 03:48 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_26" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=26">South and Central America</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">7</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">26</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6187&amp;action=lastpost" title="Montezuma's Treasure"><strong>Montezuma's Treasure</strong></a>
+<br/>08-22-2020, 07:01 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_27" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=27">Europe</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">261</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">2,247</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7291&amp;action=lastpost" title="Some peoples kids.......ugggg"><strong>Some peoples kids.......u...</strong></a>
+<br/>03-17-2021, 08:19 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26">Ninurta</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_28" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=28">Middle Eastern Regions</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">41</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">183</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6008&amp;action=lastpost" title="Big explosion with many killed in Beirut"><strong>Big explosion with many k...</strong></a>
+<br/>08-12-2020, 11:22 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_29" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=29">Asian Affairs</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">69</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">384</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7318&amp;action=lastpost" title="I didn't get the memo.. WTH ?"><strong>I didn't get the memo.. W...</strong></a>
+<br/>03-23-2021, 04:19 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=831">PLOTUS</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_30" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=30">All about Africa</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">7</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">23</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5295&amp;action=lastpost" title="Ghana welcomes you"><strong>Ghana welcomes you</strong></a>
+<br/>06-14-2020, 07:48 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_31" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=31">Canada and the Great North</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">13</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">72</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5970&amp;action=lastpost" title="The Culture Destruction of Canada"><strong>The Culture Destruction o...</strong></a>
+<br/>08-03-2020, 11:39 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=704">Moonmagic</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_32" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=32">Australia</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">17</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">154</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5581&amp;action=lastpost" title="Australia: Defense spending to increase"><strong>Australia: Defense spendi...</strong></a>
+<br/>02-10-2021, 04:44 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2">guohua</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_33" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=33">The Poles and more</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">8</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">24</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7153&amp;action=lastpost" title="Antarctica's Elusive Residents."><strong>Antarctica's Elusive Resi...</strong></a>
+<br/>02-16-2021, 02:14 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_34" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=34">Oceania</a></strong><div class="smalltext"><!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">1</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">1</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=439&amp;action=lastpost" title="Avocado Jungle of Death"><strong>Avocado Jungle of Death</strong></a>
+<br/>06-16-2016, 01:05 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=31">DuckforcoveR</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_35_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=35">The Conspiracy Corner</a></strong><br/><div class="smalltext">A conspiracy consists of a group of people who, through secret planning &amp; orchestrated acts, coverup an event that usually has illegal or sinister goals...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_35_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_36" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=36">JFK, the Moon and the Truth out There</a></strong><div class="smalltext">Don't really buy the official stories? Let's talk about it...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">82</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">544</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7252&amp;action=lastpost" title="Solar Warden"><strong>Solar Warden</strong></a>
+<br/>03-09-2021, 03:41 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_37" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=37">The Enlightened Ones or The Powers That Be</a></strong><div class="smalltext">A place to explore the possibility of a Government behind the Government. Leadership beyond the leaders we see...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">122</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">1,639</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=4825&amp;action=lastpost" title="Let's Go Down the Rabbit Hole, Part 3"><strong>Let's Go Down the Rabbit ...</strong></a>
+<br/>03-17-2021, 02:16 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=735">Finspiracy</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_38" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=38">UFOs, Aliens and Universal Questions</a></strong><div class="smalltext">Are we being visited? Are we alone in the Universe?
+
+Is it covered up?
+
+What do you think?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">388</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">2,350</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7334&amp;action=lastpost" title="TV UFO News Report - John Ratcliffe Interview - Maria Bartiromo"><strong>TV UFO News Report - John...</strong></a>
+<br/>Yesterday, 10:26 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_39" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=39">Cryptozoology</a></strong><div class="smalltext">Big Foot, Loch Ness' Nessie, Yeti and other legendary creatures  whos existence will always be in question and debated... Have an opinion?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">92</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">1,177</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7327&amp;action=lastpost" title="The Monster of Port Chatham"><strong>The Monster of Port Chath...</strong></a>
+<br/>03-24-2021, 12:00 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_61_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=61">Technology and Advancements</a></strong><br/><div class="smalltext">Where to find the cutting edge of modern development? Check here!</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_61_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_62" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=62">Computers, Internet and the Digital World</a></strong><div class="smalltext">It's changing at the speed of light nowadays...Wanna keep up?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">86</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">470</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7277&amp;action=lastpost" title="All ur motion is ourz"><strong>All ur motion is ourz</strong></a>
+<br/>03-14-2021, 11:07 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=693">hounddoghowlie</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_63" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=63">Science and Space...the Other Final Frontiers</a></strong><div class="smalltext">Pushing the boundaries at every turn...learn more here !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">166</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">1,105</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=3291&amp;action=lastpost" title="Human Cloning Ready to be Unleashed upon the World"><strong>Human Cloning Ready to be...</strong></a>
+<br/>03-10-2021, 07:30 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_64" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=64">Aviation Developments</a></strong><div class="smalltext">Take flight !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">53</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">191</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7238&amp;action=lastpost" title="US Navy UFO Patents"><strong>US Navy UFO Patents</strong></a>
+<br/>03-07-2021, 08:57 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=742">drussell41</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_45_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=45">Spirits and the Spiritual</a></strong><br/><div class="smalltext">This is a place to find and share information on topics ranging from the Paranormal, Spiritual Energy and Faith...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_45_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_46" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=46">Metaphysics and Related Topics</a></strong><div class="smalltext">All things Metaphysical with topics ranging from Chakras, Reiki, Auras and other Spiritual Energies that defies Reality...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">68</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">440</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7281&amp;action=lastpost" title="STAR CHILDREN: ARE YOU AN INDIGO, CRYSTAL, OR RAINBOW CHILD?"><strong>STAR CHILDREN: ARE YOU AN...</strong></a>
+<br/>03-15-2021, 01:57 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=247">Wallfire</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_47" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=47">The Paranormal World</a></strong><div class="smalltext">In the realm of the Paranormal, be prepared for more than just things that go bump in the night...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">90</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">656</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7221&amp;action=lastpost" title="The Croglin Grange Vampire of Cumberland"><strong>The Croglin Grange Vampir...</strong></a>
+<br/>03-03-2021, 07:27 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_48" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=48">Religion and Matters of Faith</a></strong><div class="smalltext">With care and respect, we can discuss matters of Faith...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">44</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">563</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7282&amp;action=lastpost" title="God cannot bless sin’: Vatican firmly refuses to bless gay unions"><strong>God cannot bless sin’: Va...</strong></a>
+<br/>03-17-2021, 02:40 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=735">Finspiracy</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_40_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=40">Mother Earth</a></strong><br/><div class="smalltext">Environmental changes that occur, whether it be natural or man made...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_40_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_41" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=41">Forces of Nature</a></strong><div class="smalltext">Earth Quakes, Tornadoes, Volcanoes and more of Mother Nature's wrath...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">54</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">369</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7267&amp;action=lastpost" title="Saw My First Gray Wolf at the House This Morning"><strong>Saw My First Gray Wolf at...</strong></a>
+<br/>03-11-2021, 05:54 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=719">F2d5thCav</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_42" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=42">Fragile Earth</a></strong><div class="smalltext">Things that effect the delicate balance of the environment and it's ecosystem...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">67</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">363</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7024&amp;action=lastpost" title="Green Mosquitoes.  I am going mad."><strong>Green Mosquitoes.  I am g...</strong></a>
+<br/>01-17-2021, 10:47 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=709">NightskyeB4Dawn</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_43" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=43">Man Made Disasters</a></strong><div class="smalltext">Disasters caused by Man that hurts the environment...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">32</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">142</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5582&amp;action=lastpost" title="On Behalf Of Environmentalists"><strong>On Behalf Of Environmenta...</strong></a>
+<br/>07-01-2020, 12:05 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=45">beez</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_44" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=44">Strange Weather Phenomena</a></strong><div class="smalltext">Whether it is strange cloud formations or double rainbows, this is the place to share weird weather from around the World...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">12</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">79</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7067&amp;action=lastpost" title="The Oakville Blobs"><strong>The Oakville Blobs</strong></a>
+<br/>01-27-2021, 04:58 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2">guohua</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_49_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=49">Members Interests</a></strong><br/><div class="smalltext">The various topics which make up our member's personal interests...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_49_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_50" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=50">Daily Chit Chat</a></strong><div class="smalltext">Need a little chit? Some chat? How about just reading the latest?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">342</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">2,903</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7237&amp;action=lastpost" title="Covid vaccines"><strong>Covid vaccines</strong></a>
+<br/>2 hours ago<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_51" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=51">Survival and Sustainability</a></strong><div class="smalltext">From Survivalist to making limited resources last in daily life, share your thoughts...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">25</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">300</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6997&amp;action=lastpost" title="Political survival..... You &amp; Family"><strong>Political survival..... Y...</strong></a>
+<br/>01-11-2021, 08:14 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26">Ninurta</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_52" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=52">A Rogue's Rations</a></strong><div class="smalltext">Whether you wish to diet or continue investing in your stomach, this is the spot to share recipes and secrets of great cuisine...for the average folk!<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">8</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">80</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6039&amp;action=lastpost" title="Laksa Seafood Combination"><strong>Laksa Seafood Combination</strong></a>
+<br/>08-10-2020, 08:19 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=700">Bally002</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_53" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=53">The Sports and Travel Zone</a></strong><div class="smalltext">The place for all things related to Sports (from Olympics to High School Football...) Vacations, and Travel.<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">14</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">183</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6713&amp;action=lastpost" title="Talimena Scenic Drive"><strong>Talimena Scenic Drive</strong></a>
+<br/>11-08-2020, 05:08 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=766">VioletDove</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_54" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=54">Pets Place</a></strong><div class="smalltext">The place for pets to be shown, shared, and discussed. Come let us know who you call a member of the family...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">29</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">523</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7262&amp;action=lastpost" title="I Might have to put down my dog"><strong>I Might have to put down ...</strong></a>
+<br/>03-12-2021, 05:48 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=52">rickymouse</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_55" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=55">Life's Games</a></strong><div class="smalltext">The place to chat about video games, board games, role playing games or any other gaming topic...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">18</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">702</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5812&amp;action=lastpost" title="Rogue Cup Challenge Vol 8. DuckforcoveR vs IAMTAT"><strong>Rogue Cup Challenge Vol 8...</strong></a>
+<br/>07-19-2020, 04:04 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=672">Snarl</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_56" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=56">Animal House</a></strong><div class="smalltext">The place to come share, see and discuss animals of all kinds!<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">22</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">216</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7047&amp;action=lastpost" title="Friendly Visitor"><strong>Friendly Visitor</strong></a>
+<br/>01-24-2021, 11:24 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=704">Moonmagic</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_57" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=57">Humor, Jokes &amp; Pranks</a></strong><div class="smalltext">Laughter is the best medicine. Give it a try !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">234</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">1,288</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7056&amp;action=lastpost" title="Jokes From My Time."><strong>Jokes From My Time.</strong></a>
+<br/>03-22-2021, 11:29 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26">Ninurta</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_58" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=58">Rants, Raves and Complaints</a></strong><div class="smalltext">Sometimes we just need a little room to vent...This is it !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">-</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">-</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost_hidden -->
+<div style="text-align: center;">-</div>
+<!-- end: forumbit_depth2_forum_lastpost_hidden --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_59" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=59">Movies and TV Shows</a></strong><div class="smalltext">Is it on TV, in theaters or otherwise seen in popular entertainment? Tell us about it!<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">30</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">192</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7208&amp;action=lastpost" title="Dr Who And The Credit He Deserves."><strong>Dr Who And The Credit He ...</strong></a>
+<br/>03-01-2021, 04:01 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=768">Michigan Swamp Buck</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_60" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=60">Firearms and Related Topics</a></strong><div class="smalltext">Like a gun show table, there is always something around to discuss!<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">29</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">231</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6759&amp;action=lastpost" title="DIY Black Powder pistol cartridges"><strong>DIY Black Powder pistol c...</strong></a>
+<br/>03-20-2021, 05:29 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26">Ninurta</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_110" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=110">The Gardener's Backyard</a></strong><div class="smalltext">Gardening Tips, Ideas, Personal Experiences...
+From Pest Control to Expert Advice...It's All Here !!<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">5</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">71</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5578&amp;action=lastpost" title="Bounty o' the Garden"><strong>Bounty o' the Garden</strong></a>
+<br/>09-01-2020, 02:32 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=719">F2d5thCav</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_65_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=65">World Health Matters</a></strong><br/><div class="smalltext">The area to check for the latest stories and discussion on physical, mental and overall health!</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_65_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_112" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=112">Rogue Herbal Revolution</a></strong><div class="smalltext">Natural Chinese Herbal Remedies.
+With a 5000 year history of Treatments and Cures for the Body and Spirit. <!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">8</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">80</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=4778&amp;action=lastpost" title="Own Your Body, Natural Medicine."><strong>Own Your Body, Natural Me...</strong></a>
+<br/>06-26-2020, 09:05 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=722">TheRedneck</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_66" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=66">General Health Topics</a></strong><div class="smalltext">General Health topics mean everything that doesn't fit the other Health forums...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">74</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">519</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7271&amp;action=lastpost" title="Moderna vaccination update for PLOTUS"><strong>Moderna vaccination updat...</strong></a>
+<br/>1 hour ago<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26">Ninurta</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_67" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=67">Physical Health</a></strong><div class="smalltext">Matters of the body and physical well-being...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">44</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">645</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5235&amp;action=lastpost" title="Coronavirus - Take two - Action!"><strong>Coronavirus - Take two - ...</strong></a>
+<br/>03-19-2021, 06:37 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_68" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=68">Psychological Well Being</a></strong><div class="smalltext">Matters of the mind and mental health...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">23</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">137</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7204&amp;action=lastpost" title="There was a Man..."><strong>There was a Man...</strong></a>
+<br/>02-26-2021, 04:41 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=973">Kenzo</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_69" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=69">Betterment through Pharmacology</a></strong><div class="smalltext">A place to discuss the good, bad and ugly of what is being prescribed and ordered for the public today...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">6</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">45</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6145&amp;action=lastpost" title="Free COVID-19 vaccines for Australians, says it will be ‘as mandatory as possible’"><strong>Free COVID-19 vaccines fo...</strong></a>
+<br/>08-20-2020, 06:02 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=7">OmegaLogos</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_70_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=70">History and Old Mystery</a></strong><br/><div class="smalltext">History is a mystery until the mystery is known, though it is still historic!</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_70_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_71" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=71">History of the Americas</a></strong><div class="smalltext">North America, South America and the Central America in between...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">15</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">71</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5861&amp;action=lastpost" title="Humans in America 30,000 years ago"><strong>Humans in America 30,000 ...</strong></a>
+<br/>07-23-2020, 03:34 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=35">kdog</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_72" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=72">World History</a></strong><div class="smalltext">Our world and it's long history of people, places and things...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">27</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">186</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6705&amp;action=lastpost" title="29 April 1945"><strong>29 April 1945</strong></a>
+<br/>11-08-2020, 06:14 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_73" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=73">Military Matters and Misteps</a></strong><div class="smalltext">Military misadventure defines enough history to have a place all its own!<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">30</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">153</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7273&amp;action=lastpost" title="U.S. military 2021 ..."><strong>U.S. military 2021 ...</strong></a>
+<br/>03-14-2021, 08:19 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26">Ninurta</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_74" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=74">Lost and Ancient</a></strong><div class="smalltext">Ancient History, Lost Civilization and the Deep Past...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">87</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">530</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7312&amp;action=lastpost" title="As far as we know.."><strong>As far as we know..</strong></a>
+<br/>03-22-2021, 09:35 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=700">Bally002</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_78_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=78">Rogue Nation's Imaginarium</a></strong><br/><div class="smalltext">Where one's imagination comes to life...</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_78_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_115" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=115">Long Stories</a></strong><div class="smalltext">A place to write your novel or novella on the installment plan<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">11</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">175</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7317&amp;action=lastpost" title='Another audio Book "Not to bad" IMO'><strong>Another audio Book "Not t...</strong></a>
+<br/>Yesterday, 09:38 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=50">727Sky</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_79" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=79">Short Stories</a></strong><div class="smalltext">Short Stories are food for the soul...whether we write them or we read them...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">96</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">499</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=4535&amp;action=lastpost" title="Cut! That's a... [WRAP]!"><strong>Cut! That's a... [WRAP]!</strong></a>
+<br/>Yesterday, 09:55 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=4">BIAD</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_80" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=80">Poetry</a></strong><div class="smalltext">For the Poet in you !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">19</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">94</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6507&amp;action=lastpost" title="Not exactly poetry, but 2 recent song lyrics"><strong>Not exactly poetry, but 2...</strong></a>
+<br/>03-22-2021, 01:03 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=735">Finspiracy</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_81" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=81">Rogue's Writers Contests</a></strong><div class="smalltext">Our very own Writers Contests format...for the competitor in you !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">50</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">363</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6614&amp;action=lastpost" title='ROGUE WRITERS CREEPY CONTEST - "Ghoulies, Ghosties and Goblins" [GGG2020] A WINNER!'><strong>ROGUE WRITERS CREEPY CONT...</strong></a>
+<br/>11-09-2020, 08:14 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=719">F2d5thCav</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_111" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=111">Rogue's Picture Contests</a></strong><div class="smalltext">DuckforcoveR tells us that a picture is worth a thousand words...or...is that a thousand ways to win a Rogue-Nation Reward ? You game ?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">3</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">39</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5541&amp;action=lastpost" title="What is this ?"><strong>What is this ?</strong></a>
+<br/>06-29-2020, 05:14 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=719">F2d5thCav</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_96_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=96">The Debates Platform</a></strong><br/><div class="smalltext">Wish to officially debate a topic, an opinion or an ideology?
+
+Do it by the rules in a Moderated environment !</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_96_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_97" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=97">The SpotLight</a></strong><div class="smalltext">Ready to prove your point? Engage !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">9</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">68</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=4994&amp;action=lastpost" title='France, The "Budding Islamic Republic"'><strong>France, The "Budding Isla...</strong></a>
+<br/>01-11-2020, 04:17 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=46">Mystic Wanderer</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_off ajax_mark_read" id="mark_read_98" title="Forum Contains No New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=98">The Challengers' Loges</a></strong><div class="smalltext">Behind the scenes, the approvals, the announcements, the strategies, everyone is invited into the Challengers' Loges...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">0</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">0</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost_never -->
+<div style="text-align: center;">Never</div>
+<!-- end: forumbit_depth2_forum_lastpost_never --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_84_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=84">The Rogue Files</a></strong><br/><div class="smalltext">The Rogue Files are an assortment of heavily documented topics that embrace the biggest conspiracies of our times.
+
+From Roswell to Wi-Fi Controversies, the Rogue Files will always be a work in progress in order to eventually become THE best source of conspiracy related documented information on the Internet.</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_84_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_85" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=85">Alien Interference</a></strong><div class="smalltext">Are we alone in the Universe? Loaded question.<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">17</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">123</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=444&amp;action=lastpost" title="The Hollow Moon"><strong>The Hollow Moon</strong></a>
+<br/>12-20-2020, 10:56 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2">guohua</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_86" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=86">Ancient Sites and Artefacts</a></strong><div class="smalltext">Was there a point in our history when we had a global society? Ruins and artifacts of similarity can be found oceans apart from one another. How do we explain this? This File will try to bring us answers.<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">7</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">33</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6087&amp;action=lastpost" title="Jesuits, Rosicrucions, and Masons, Oh My! Sinister Sites: Sansevero Chapel"><strong>Jesuits, Rosicrucions, an...</strong></a>
+<br/>08-13-2020, 10:53 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=734">ABNARTY</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_87" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=87">JFK Investigations</a></strong><div class="smalltext">The Biggest Conspiracy of the Twentieth Century. Answers may vary.<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">2</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">14</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=1412&amp;action=lastpost" title="No wonder Trump is keeping his own security ?"><strong>No wonder Trump is keepin...</strong></a>
+<br/>12-26-2016, 03:33 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=31">DuckforcoveR</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_88" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=88">Mysterious Circumstances Surrounding Certain Deaths</a></strong><div class="smalltext">Scientists, doctors, journalist?  anyone? Oh...that's just the tip of the iceberg...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">15</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">99</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=6905&amp;action=lastpost" title="Michael Hastings' Inferno"><strong>Michael Hastings' Inferno</strong></a>
+<br/>01-01-2021, 03:25 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=20">Minstrel</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_89" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=89">The Complete 9/11</a></strong><div class="smalltext">What exactly happened on September 11th? From then to now...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">17</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">85</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=4782&amp;action=lastpost" title="World Trade Center 7... It Wasn't The Flames."><strong>World Trade Center 7... I...</strong></a>
+<br/>09-08-2019, 04:55 PM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=5">gordi</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_90" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=90">The Roswell Incident</a></strong><div class="smalltext">The official story tells us that nothing happened and that a weather balloon just came crashing down. Many think otherwise.<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">4</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">17</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5492&amp;action=lastpost" title="So you think you know everything about Roswell"><strong>So you think you know eve...</strong></a>
+<br/>06-29-2020, 02:53 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2">guohua</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_91" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=91">The Tesla Experiments</a></strong><div class="smalltext">A man way before his time and still very active in our current news...<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">4</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">42</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=2873&amp;action=lastpost" title="This conspiracy theory tied directly to Tesla- Trump and time travel"><strong>This conspiracy theory ti...</strong></a>
+<br/>10-24-2018, 12:27 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=2">guohua</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat --><!-- start: forumbit_depth1_cat -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead" colspan="5">
+<div class="expcolimage"><img alt="[-]" class="expander" id="cat_75_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong><a href="forumdisplay.php?fid=75">The Rogue's Lounge</a></strong><br/><div class="smalltext">Pull up a chair, sit a spell, or share something interesting!</div></div>
+</td>
+</tr>
+</thead>
+<tbody id="cat_75_e" style="">
+<tr>
+<td class="tcat" colspan="2"><span class="smalltext"><strong>Forum</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Threads</strong></span></td>
+<td align="center" class="tcat" style="white-space: nowrap" width="85"><span class="smalltext"><strong>Posts</strong></span></td>
+<td align="center" class="tcat" width="200"><span class="smalltext"><strong>Last Post</strong></span></td>
+</tr>
+<!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow1" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_76" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow1" valign="top">
+<strong><a href="forumdisplay.php?fid=76">Bar, Grill and Grotto</a></strong><div class="smalltext">The Spot to kick bar, have a beer or two, enjoy a nice BBQ with friends or enjoy the Spa Grotto...no matter what you choose, it's Party Time !<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">91</td>
+<td align="center" class="trow1" style="white-space: nowrap" valign="top">1,056</td>
+<td align="right" class="trow1" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=7148&amp;action=lastpost" title="Happy Birthday Schmoe1"><strong>Happy Birthday Schmoe1</strong></a>
+<br/>02-16-2021, 03:35 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=761">Schmoe1</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum --><!-- start: forumbit_depth2_forum -->
+<tr>
+<td align="center" class="trow2" valign="top" width="1"><div class="forum_status forum_on ajax_mark_read" id="mark_read_77" title="Forum Contains New Posts"><i class="fa fa-comments"></i></div></td>
+<td class="trow2" valign="top">
+<strong><a href="forumdisplay.php?fid=77">Music and Media Room</a></strong><div class="smalltext">Find some tunes of interest to share? Perhaps a video to post?<!-- start: forumbit_moderators -->
+<br/>Moderated By: Moderators
+<!-- end: forumbit_moderators --></div>
+</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">71</td>
+<td align="center" class="trow2" style="white-space: nowrap" valign="top">1,597</td>
+<td align="right" class="trow2" style="white-space: nowrap" valign="top"><!-- start: forumbit_depth2_forum_lastpost -->
+<span class="smalltext">
+<a href="showthread.php?tid=5328&amp;action=lastpost" title="House, Trance and Chillout Music etc."><strong>House, Trance and Chillou...</strong></a>
+<br/>Today, 02:20 AM<br/>by <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=682">DaphneApollo</a></span>
+<!-- end: forumbit_depth2_forum_lastpost --></td>
+</tr>
+<!-- end: forumbit_depth2_forum -->
+</tbody>
+</table>
+<br/>
+<!-- end: forumbit_depth1_cat -->
+<!-- start: index_boardstats -->
+<table border="0" cellpadding="5" cellspacing="0" class="tborder">
+<thead>
+<tr>
+<td class="thead">
+<div class="expcolimage"><img alt="[-]" class="expander" id="boardstats_img" src="http://rogue-nation3.com/images/collapse.png" title="[-]"/></div>
+<div><strong>Board Statistics</strong></div>
+</td>
+</tr>
+</thead>
+<tbody id="boardstats_e" style="">
+<!-- start: index_whosonline -->
+<tr>
+<td class="tcat"><span class="smalltext"><strong>Who's Online</strong> [<a href="online.php">Complete List</a>]</span></td>
+</tr>
+<tr>
+<td class="trow1"><span class="smalltext">94 users active in the past 15 minutes (4 members, 0 of whom are invisible, and 89 guests).<br/>Bing, <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=4"><span style="color: green;"><strong><em>BIAD</em></strong></span></a>, <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=685">Freija</a>, <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=19">Grace</a>, <a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=26"><span style="color: green;"><strong><em>Ninurta</em></strong></span></a></span></td>
+</tr>
+<!-- end: index_whosonline -->
+<!-- start: index_stats -->
+<tr><td class="tcat"><span class="smalltext"><strong>Board Statistics</strong></span></td></tr>
+<tr>
+<td class="trow1"><span class="smalltext">
+Our members have made a total of 64,648 posts in 7,003 threads.<br/>
+We currently have 205 members registered.<br/>
+Please welcome our newest member, <b><a href="http://rogue-nation3.com/member.php?action=profile&amp;uid=990">NoNameOne</a></b><br/>
+The most users online at one time was 866 on 10-31-2020 at 08:09 AM
+</span>
+</td>
+</tr>
+<!-- end: index_stats -->
+<tr>
+<td class="tfoot" style="text-align: right">
+<span class="smalltext">
+<a href="misc.php?action=markread">Mark All Forums Read</a> |
+			<a href="showteam.php">Forum Team</a>
+<!-- start: index_statspage -->
+ |
+			<a href="stats.php">Forum Statistics</a>
+<!-- end: index_statspage -->
+</span>
+</td>
+</tr>
+</tbody>
+</table>
+<br/>
+<!-- end: index_boardstats -->
+<dl class="forum_legend smalltext">
+<dt><div class="forum_status forum_on"><i class="fa fa-comments"></i></div></dt>
+<dd>Forum Contains New Posts</dd>
+<dt><div class="forum_status forum_off"><i class="fa fa-comments"></i></div></dt>
+<dd>Forum Contains No New Posts</dd>
+<dt><div class="forum_status forum_offlock"><i class="fa fa-comments"></i></div></dt>
+<dd>Forum is Locked</dd>
+<dt><div class="forum_status forum_offlink"><i class="fa fa-comments"></i></div></dt>
+<dd>Redirect Forum</dd>
+</dl>
+<br class="clear"/>
+<!-- start: footer -->
+</div>
+</div>
+<div id="footer">
+<div class="upper">
+<div class="wrapper">
+<ul class="menu bottom_links">
+<!-- start: footer_contactus -->
+<li><a href="http://rogue-nation3.com/contact.php">Contact Us</a></li>
+<!-- end: footer_contactus -->
+<li><a href="http://rogue-nation3.com/">Rogue-Nation</a></li>
+<li><a href="#top">Return to Top</a></li>
+<li><a href="http://rogue-nation3.com/archive/index.php">Lite (Archive) Mode</a></li>
+<li><a href="http://rogue-nation3.com/misc.php?action=syndication">RSS Syndication</a></li>
+</ul>
+</div>
+</div>
+<div class="lower">
+<div class="wrapper">
+<span id="current_time"><strong>Current time:</strong> 03-26-2021, 09:57 PM</span>
+<span id="copyright">
+<!-- MyBB is free software developed and maintained by a volunteer community.
+					It would be much appreciated by the MyBB Group if you left the full copyright and "powered by" notice intact,
+					to show your support for MyBB.  If you choose to remove or modify the copyright below,
+					you may be refused support on the MyBB Community Forums.
+
+					This is free software, support us and we'll support you. -->
+				Powered By <a href="http://mybb.com&gt;&lt;img src=" images="" poweredbymybbimage"=""></a>MyBB, © 2002-2021 <a href="http://www.mybb.com" target="_blank">MyBB Group</a>.  
+				<!-- End powered by -->
+</span><br/><strong>Designed and Coded by: </strong>
+<a href="http://community.mybb.com/user-86917.html" rel="nofollow">DevilKing</a>
+</div>
+</div>
+</div>
+<!-- The following piece of code allows MyBB to run scheduled tasks. DO NOT REMOVE --><!-- start: task_image -->
+<img alt="" height="1" src="http://rogue-nation3.com/task.php" width="1"/>
+<!-- end: task_image --><!-- End task image code -->
+</div>
+<!-- end: footer -->
+
+<script async="" charset="utf-8" src="jscripts/imgbb.js" type="text/javascript"></script>
+</body>
+</html>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input name="cmd" type="hidden" value="_s-xclick"/>
+<input name="hosted_button_id" type="hidden" value="SR2FV5B47TBLA"/>
+<input alt="PayPal - The safer, easier way to pay online!" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" type="image"/>
+<img alt="" border="0" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1"/>
+<!-- end: index --></form>

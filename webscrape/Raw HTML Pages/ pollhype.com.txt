@@ -66,7 +66,7 @@ ga('send', 'pageview');
             } else if (md.mobile()) {
                 dt = 'mobile';
             }
-            window._gmRequestID = window._gmRequestID || "jou2JfwE";
+            window._gmRequestID = window._gmRequestID || "LOwNk7He";
             window._physAddress = "Onwards Software, LLC\nAttention: Office of the General Counsel\n600 N 2nd Street\nSuite 401\nHarrisburg, PA 17101\nEmail: privacy@pollhype.com";
             window.gmStuff = window.gmStuff || {};
             window.gmStuff.noReloads = "";
@@ -106,47 +106,47 @@ ga('send', 'pageview');
 
 
             #internal>article:first-child::before {
-                background: linear-gradient(180deg, #456cea 55%,#fff 45%);
+                background: linear-gradient(180deg, #d33 55%,#fff 45%);
             }
             .article-body-container a {
-                color: #456cea !important;
+                color: #d33 !important;
             }
             .nav-link {
                 color: #1e73be !important;
             }
             .nav-link:hover, .nav-link.active {
-                border-bottom: 5px solid #456cea !important;
+                border-bottom: 5px solid #d33 !important;
             }
             footer a {
-                color: #456cea !important;
+                color: #d33 !important;
             }
             .latest-posts__header {
-                border-bottom: 2px solid #456cea !important;
+                border-bottom: 2px solid #d33 !important;
             }
             .latest-posts__header span {
-                background-color: #456cea !important;
+                background-color: #d33 !important;
             }
             .latest-posts .card:hover a:not(.card__topic) {
-                color: #456cea !important;
+                color: #d33 !important;
             }
             .latest-posts .card__topic:hover {
-                background-color: #456cea !important;
+                background-color: #d33 !important;
             }
             ul.pagination li.active a {
-                border-color: #456cea !important;
-                background-color: #456cea !important;
+                border-color: #d33 !important;
+                background-color: #d33 !important;
             }
             .category-card .read-more-btn {
-                background-color: #456cea !important;
+                background-color: #d33 !important;
             }
             .gallery-main__btn {
-                background-color: #456cea !important;
+                background-color: #d33 !important;
             }
             .gallery-main__btn:hover {
-                background-color: #456cea !important;
+                background-color: #d33 !important;
             }
             section.error-page .home-redirect a:hover {
-                background: #456cea !important;
+                background: #d33 !important;
             }
             div.widget.border {
                 border-color: #1e73be !important;
@@ -155,7 +155,7 @@ ga('send', 'pageview');
                 background: #1e73be !important;
             }
             div.widget a {
-                background-color: #456cea !important;
+                background-color: #d33 !important;
             }</style>
 <!-- GSA -->
 <script src="https://fyatmc.com/"></script>
@@ -414,7 +414,7 @@ $(".nav").append("<a class='nav-link' href='https://shop.pollhype.com' target='_
 <a class="article-url" href="/article/american-company-on-the-frontlines-of-coronavirus-prevention">
 <figure style="background: url(https://cdn.smtimg.com/simg?b=tf-star-images&amp;k=/audiencedrive/1a481cc4-a871-4ee5-be5e-7c6b98a507a6) no-repeat center; background-size: cover;"></figure>
 <div class="article-info">
-<span class="date">2 months ago</span>
+<span class="date">3 months ago</span>
 <h3 class="category-card__title list-item-title">American Company On the Frontlines of Coronavirus Prevention</h3>
 </div>
 </a>
@@ -423,7 +423,7 @@ $(".nav").append("<a class='nav-link' href='https://shop.pollhype.com' target='_
 <a class="article-url" href="/article/photos-show-whats-happened-to-obama's-white-house-garden-since-melania-trump-took-over-fb">
 <figure style="background: url(https://cdn.smtimg.com/simg?b=tf-star-images&amp;k=/audiencedrive/1b98ad95-910e-4758-b567-d162545c4eec) no-repeat center; background-size: cover;"></figure>
 <div class="article-info">
-<span class="date">2 months ago</span>
+<span class="date">3 months ago</span>
 <h3 class="category-card__title list-item-title">Photos Show What's Happened To Obama's White House Garden Since Melania Trump Took Over</h3>
 </div>
 <p>Haters can hate all they want. But, these photos prove that Melania Trump is doing a pretty good job at maintaining the White House image. People wondered what would happen to Michelle Obama's famous vegetable garden after...</p>
@@ -433,7 +433,7 @@ $(".nav").append("<a class='nav-link' href='https://shop.pollhype.com' target='_
 <a class="article-url" href="/article/apparently-melania-trump-is-really-fun-when-she's-not-trapped-inside-the-white-house">
 <figure style="background: url(https://cdn.smtimg.com/simg?b=tf-star-images&amp;k=/audiencedrive/38570411-262c-4db3-a2b8-06ec89c2368c) no-repeat center; background-size: cover;"></figure>
 <div class="article-info">
-<span class="date">2 months ago</span>
+<span class="date">3 months ago</span>
 <h3 class="category-card__title list-item-title">Apparently, Melania Trump Is 'Really Fun' When She's Not Trapped Inside The White House</h3>
 </div>
 </a>
@@ -442,7 +442,7 @@ $(".nav").append("<a class='nav-link' href='https://shop.pollhype.com' target='_
 <a class="article-url" href="/article/donald-trump-female-women-voters-supporters">
 <figure style="background: url(https://cdn.smtimg.com/simg?b=tf-star-images&amp;k=/audiencedrive/f61f98fd-267c-4bf9-9fa6-1fda1ed0bc04) no-repeat center; background-size: cover;"></figure>
 <div class="article-info">
-<span class="date">2 months ago</span>
+<span class="date">3 months ago</span>
 <h3 class="category-card__title list-item-title">These Are The Women Who Are Inspired By Trump's Patriotism</h3>
 </div>
 </a>
@@ -644,7 +644,7 @@ $(".nav").append("<a class='nav-link' href='https://shop.pollhype.com' target='_
     }
 </script>
 <script src="https://dn3nmb5yt1ysw.cloudfront.net/helper-scripts/swivelScripts.js" type="text/javascript"></script>
-<div onclick="function() {window.location='https://requests.goodmeasure.io/audiencedrive/set?requestid=jou2JfwE&amp;ohbother=1' }" style="background-color:black;height:10px;"><div>
+<div onclick="function() {window.location='https://requests.goodmeasure.io/audiencedrive/set?requestid=LOwNk7He&amp;ohbother=1' }" style="background-color:black;height:10px;"><div>
 <style>
 @media only screen and (max-device-width: 812px) { 
      #internal .article-info h3 {
