@@ -32,21 +32,21 @@
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" name="viewport"/>
 <!--Ty David Walsh!-->
 <meta content="on" http-equiv="cleartype"/>
-<link href="https://media4.manhattan-institute.org/modules/system/system.base.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/modules/system/system.menus.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/modules/system/system.messages.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/modules/system/system.theme.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/sites/all/modules/date/date_api/date.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/modules/field/theme/field.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/sites/all/modules/footnotes/footnotes.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/modules/node/node.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/modules/search/search.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/modules/user/user.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/sites/all/modules/views/css/views.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/sites/all/modules/ctools/css/ctools.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/sites/cj/themes/cj/css/styles.css?qq2crv" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://media4.manhattan-institute.org/sites/cj/themes/cj/css/print.css?qq2crv" media="print" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/modules/system/system.base.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/modules/system/system.menus.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/modules/system/system.messages.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/modules/system/system.theme.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/sites/all/modules/date/date_api/date.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/modules/field/theme/field.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/sites/all/modules/footnotes/footnotes.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/modules/node/node.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/modules/search/search.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/modules/user/user.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/sites/all/modules/views/css/views.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/sites/all/modules/ctools/css/ctools.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/sites/cj/themes/cj/css/styles.css?qqdjkv" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://media4.manhattan-institute.org/sites/cj/themes/cj/css/print.css?qqdjkv" media="print" rel="stylesheet" type="text/css"/>
 <style>.cke_source{white-space:pre-wrap !important;}.cke_dialog_ui_input_textarea{white-space:normal !important;}
 .views-exposed-widgets #edit-author-wrapper,.views-exposed-widgets #edit-vid-wrapper,#eck-entity-form-edit-editor-page-homepage .form-item-title,.form-item-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-0-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-0-field-ending-time-und-0-value-date,.form-item-field-ending-time-und-0-value-date,#edit-body-und-0-format .fieldset-wrapper,.field-type-text-long .fieldset-wrapper{display:none;}#foo:checked::before,input.form-checkbox,input.form-radio{opacity:1;}#edit-field-event-member-level-und .form-type-checkbox{float:left;margin-right:10px;}#edit-field-event-allowed-users{clear:both;}.form-item-field-child-events-und-0-field-child-event-und-1-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-1-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-2-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-2-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-3-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-3-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-4-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-4-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-5-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-5-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-6-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-6-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-7-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-7-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-8-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-8-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-9-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-9-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-10-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-10-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-11-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-11-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-12-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-12-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-13-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-13-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-14-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-14-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-15-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-15-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-16-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-16-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-17-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-17-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-18-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-18-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-19-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-19-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-20-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-20-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-21-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-21-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-22-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-22-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-23-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-23-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-24-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-24-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-25-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-25-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-26-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-26-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-27-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-27-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-28-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-28-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-29-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-29-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-30-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-30-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-31-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-31-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-32-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-32-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-33-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-33-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-34-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-34-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-35-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-35-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-36-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-36-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-37-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-37-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-38-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-38-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-39-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-39-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-40-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-40-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-41-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-41-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-42-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-42-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-43-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-43-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-44-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-44-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-45-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-45-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-46-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-46-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-47-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-47-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-48-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-48-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-49-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-49-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-50-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-50-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-51-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-51-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-52-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-52-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-53-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-53-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-54-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-54-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-55-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-55-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-56-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-56-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-57-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-57-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-58-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-58-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-59-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-59-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-60-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-60-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-61-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-61-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-62-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-62-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-63-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-63-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-64-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-64-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-65-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-65-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-66-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-66-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-67-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-67-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-68-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-68-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-69-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-69-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-70-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-70-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-71-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-71-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-72-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-72-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-73-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-73-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-74-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-74-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-75-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-75-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-76-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-76-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-77-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-77-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-78-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-78-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-79-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-79-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-80-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-80-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-81-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-81-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-82-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-82-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-83-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-83-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-84-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-84-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-85-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-85-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-86-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-86-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-87-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-87-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-88-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-88-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-89-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-89-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}.form-item-field-child-events-und-0-field-child-event-und-90-field-starting-time-und-0-value-date,.form-item-field-child-events-und-0-field-child-event-und-90-field-ending-time-und-0-value-date{display:none;}#edit-field-rsvpd{display:none;}
 </style>
@@ -65,31 +65,31 @@
 <script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/libs/jquery.nouislider.all.min.js"></script>
 <script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/libs/fancySelect.js"></script>
 <script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/libs/draggabilly.pkgd.min.js"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/custom.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/l_results-list.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_footer-nav.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_cross-site-search-banner.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_mag-article-list.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_search-bar.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_search-suggestions.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_filters.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/all/themes/mi/js/l_mobile-search-container.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/notifications.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_kohana-field.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/l_overlay-area.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_article-title-bar.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_article-share-bar.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_table-of-contents.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_widget-area.js?qq2crv"></script>
-<script ?qq2crv="" src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_collapsible-section.js"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/l_ipage-sidebar.js?qq2crv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/custom.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/l_results-list.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_footer-nav.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_cross-site-search-banner.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_mag-article-list.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_search-bar.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_search-suggestions.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_filters.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/all/themes/mi/js/l_mobile-search-container.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/notifications.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_kohana-field.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/l_overlay-area.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_article-title-bar.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_article-share-bar.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_table-of-contents.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_widget-area.js?qqdjkv"></script>
+<script ?qqdjkv="" src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_collapsible-section.js"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/l_ipage-sidebar.js?qqdjkv"></script>
 <script src="https://media4.manhattan-institute.org/sites/all/libraries/jwplayer/jwplayer.js"></script>
 <script src="https://media4.manhattan-institute.org/sites/all/libraries/xss/xss.js"></script>
 <script>jwplayer.key="A4sRcOBnVND9u+5uTZ77wLHsOQPzF5kpfOXUZuG5yRA=";</script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_magazine-slider.js?qq2crv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/m_magazine-slider.js?qqdjkv"></script>
 <script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/libs/nouislider.min.js"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/cj-contributor-download.js?qq2crv"></script>
-<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/cj-contributor-save-file.js?qq2crv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/cj-contributor-download.js?qqdjkv"></script>
+<script src="https://media4.manhattan-institute.org/sites/cj/themes/cj/js/cj-contributor-save-file.js?qqdjkv"></script>
 <!-- Facebook moderation setup-->
 <meta content="841926292587734" property="fb:app_id">
 <!-- Google Tag Manager -->
@@ -339,17 +339,17 @@
 </div>
 <div class="l_main-content">
 <header class="l_ipage-header l_ipage-header__frontpage">
-<div class="image-container" style="background-image:url('https://media4.manhattan-institute.org/sites/cj/files/What-Schoo-Shutdowns-Have-Wrought.jpg');">
-<img src="https://media4.manhattan-institute.org/sites/cj/files/What-Schoo-Shutdowns-Have-Wrought.jpg"/>
+<div class="image-container" style="background-image:url('https://media4.manhattan-institute.org/sites/cj/files/an-alternative-to-dc-statehood.jpg');">
+<img src="https://media4.manhattan-institute.org/sites/cj/files/an-alternative-to-dc-statehood.jpg"/>
 </div>
 <div class="content-area">
 <div class="content-wrapper">
 <div class="logo"></div>
 <div class="content">
 <span class="type">eye on the news</span>
-<h2 class="title"><a href="/what-school-shutdowns-have-wrought">What School Shutdowns Have Wrought</a></h2>
-<p class="text">Parents are exploring new educational options for a post-pandemic America.</p>
-<span class="author">Larry Sand</span>
+<h2 class="title"><a href="/an-alternative-to-dc-statehood">Taxation with Representation</a></h2>
+<p class="text">A fair and reasonable alternative to D.C. statehood</p>
+<span class="author">John Steele Gordon</span>
 </div>
 </div>
 </div>
@@ -360,49 +360,49 @@
 </div>
 <!-- start of article -->
 <article class="m_article m_article_article">
-<a class="article-wrapper" href="/lou-ruvo-center-for-brain-health-a-monument-to-self-importance">
+<a class="article-wrapper" href="/beijing-wolf-warrior-diplomacy">
 <div class="graphic">
-<img src="https://media4.manhattan-institute.org/sites/cj/files/Lou_Ruvo_Center_For_Brain_Health_Las_Vegas.jpg">
-<div class="bg-image" style="background-image:url('https://media4.manhattan-institute.org/sites/cj/files/Lou_Ruvo_Center_For_Brain_Health_Las_Vegas.jpg');">
+<img src="https://media4.manhattan-institute.org/sites/cj/files/beijings-wolf-warrior-diplomacy.jpg">
+<div class="bg-image" style="background-image:url('https://media4.manhattan-institute.org/sites/cj/files/beijings-wolf-warrior-diplomacy.jpg');">
 </div>
 </img></div>
 <div class="article-content">
 <span class="type">eye on the news</span>
-<h3 class="title">A Monument to Self-Importance</h3>
-<span class="author">Theodore Dalrymple</span>
-<span class="excerpt">Architecture as a means of memorializing the architect</span>
+<h3 class="title">Beijing’s Wolf Warriors in Alaska</h3>
+<span class="author">Helen Raleigh</span>
+<span class="excerpt">Chinese diplomats’ actions at last week’s summit in Alaska suggest that Xi Jinping will treat the Biden administration like Obama 2.0.</span>
 </div>
 </a>
 </article>
 <!-- start of article -->
 <article class="m_article m_article_article">
-<a class="article-wrapper" href="/neighborhood-schools">
+<a class="article-wrapper" href="/richard-alba-on-demographic-change">
 <div class="graphic">
-<img src="https://media4.manhattan-institute.org/sites/cj/files/neighborhood-schools.jpg">
-<div class="bg-image" style="background-image:url('https://media4.manhattan-institute.org/sites/cj/files/neighborhood-schools.jpg');">
+<img src="https://media4.manhattan-institute.org/sites/cj/files/richard-alba-on-demographic-change.jpg">
+<div class="bg-image" style="background-image:url('https://media4.manhattan-institute.org/sites/cj/files/richard-alba-on-demographic-change.jpg');">
 </div>
 </img></div>
 <div class="article-content">
-<span class="type">from the magazine</span>
-<h3 class="title">There Goes the Neighborhood School</h3>
+<span class="type">books and culture</span>
+<h3 class="title">Coloring Outside the Lines</h3>
 <span class="author">Kay S. Hymowitz</span>
-<span class="excerpt">Brooklyn Diarist</span>
+<span class="excerpt">Census categories obscure more about our demographic situation than they reveal.</span>
 </div>
 </a>
 </article>
 <!-- start of article -->
 <article class="m_article m_article_article">
-<a class="article-wrapper" href="/gavin-newsom-recall-effort-goes-nationwide">
+<a class="article-wrapper" href="/biden-downplaying-risks-of-massive-spending">
 <div class="graphic">
-<img src="https://media4.manhattan-institute.org/sites/cj/files/gavin-newsom-recall-effort-goes-nationwide.jpg"/>
-<div class="bg-image" style="background-image:url('https://media4.manhattan-institute.org/sites/cj/files/gavin-newsom-recall-effort-goes-nationwide.jpg');">
+<img src="https://media4.manhattan-institute.org/sites/cj/files/biden-downplaying-risks-of-massive-spending.jpg"/>
+<div class="bg-image" style="background-image:url('https://media4.manhattan-institute.org/sites/cj/files/biden-downplaying-risks-of-massive-spending.jpg');">
 </div>
 </div>
 <div class="article-content">
 <span class="type">eye on the news</span>
-<h3 class="title">Total Recall</h3>
-<span class="author">Kerry Jackson</span>
-<span class="excerpt">Americans across the country donate to the effort to recall Gavin Newsom.</span>
+<h3 class="title">A Big Gamble</h3>
+<span class="author">Allison Schrager</span>
+<span class="excerpt">The Biden administration downplays the risks of its historically massive spending bills.</span>
 </div>
 </a>
 </article>
@@ -473,14 +473,14 @@
 </article>
 <article class="m_article-spotlight m_article-spotlight__article">
 <div class="article-wrapper">
-<a class="graphic" href="/html/imagine-theres-no-border-14608.html" style="background-image: url('https://media4.manhattan-institute.org/sites/cj/files/world-without-boundariesSL.jpg')">
-<img src="https://media4.manhattan-institute.org/sites/cj/files/world-without-boundariesSL.jpg"/>
+<a class="graphic" href="/san-francisco-homelessness" style="background-image: url('https://media4.manhattan-institute.org/sites/cj/files/homeless-on-golden-gate-aveSL.jpg')">
+<img src="https://media4.manhattan-institute.org/sites/cj/files/homeless-on-golden-gate-aveSL.jpg"/>
 </a>
 <div class="article-content">
-<span class="type">From the Summer 2016 Issue</span>
-<h3 class="title"><a href="/html/imagine-theres-no-border-14608.html">Imagine There’s No Border</a></h3>
-<span class="excerpt">A world without boundaries is a fantasy.</span>
-<span class="author">by Victor Davis Hanson</span>
+<span class="type">From the Autumn 2019 Issue</span>
+<h3 class="title"><a href="/san-francisco-homelessness">San Francisco, Hostage to the Homeless</a></h3>
+<span class="excerpt">Failure to enforce basic standards of public behavior has made one of America’s great cities increasingly unlivable.</span>
+<span class="author">by Heather Mac Donald</span>
 <div class="button-container">
 </div>
 </div>
@@ -488,14 +488,14 @@
 </article>
 <article class="m_article-spotlight m_article-spotlight__article">
 <div class="article-wrapper">
-<a class="graphic" href="/covid-19-and-technology" style="background-image: url('https://media4.manhattan-institute.org/sites/cj/files/covid-19-technologySL.jpg')">
-<img src="https://media4.manhattan-institute.org/sites/cj/files/covid-19-technologySL.jpg"/>
+<a class="graphic" href="/html/washington-diet-13370.html" style="background-image: url('https://media4.manhattan-institute.org/sites/cj/files/washington-dietSL.jpg')">
+<img src="https://media4.manhattan-institute.org/sites/cj/files/washington-dietSL.jpg"/>
 </a>
 <div class="article-content">
-<span class="type">From the Spring 2020 Issue</span>
-<h3 class="title"><a href="/covid-19-and-technology">Covid-19 and the Question Concerning Technology</a></h3>
-<span class="excerpt">How the crisis will change our views on innovation, privacy—and nature.</span>
-<span class="author">by Bruno Maçães</span>
+<span class="type">From the Spring 2011 Issue</span>
+<h3 class="title"><a href="/html/washington-diet-13370.html">The Washington Diet</a></h3>
+<span class="excerpt">Following the government’s nutritional advice can make you fat and sick.</span>
+<span class="author">by Steven Malanga</span>
 <div class="button-container">
 </div>
 </div>
@@ -532,65 +532,65 @@
 <div class="m_front-featured">
 <h4 class="title">Recently Featured</h4>
 <article class="m_article m_article__listitem">
-<a class="article-wrapper" href="/nyc-prep-school-admins-adopt-questionable-anti-racism-curriculum">
+<a class="article-wrapper" href="/new-yorks-budget-reckoning">
 <div class="article-content">
-<span class="type">eye on the news</span>
-<h3 class="title">The Pollyanna Principals</h3>
-<span class="author">Charles Fain Lehman</span>
+<span class="type">audio</span>
+<h3 class="title">New York’s Budget Reckoning</h3>
+<span class="contributor">Steven Malanga, Brian C. Anderson</span>
 </div>
 </a>
 </article>
 <article class="m_article m_article__listitem">
-<a class="article-wrapper" href="/the-lefts-new-constitution">
+<a class="article-wrapper" href="/tom-cotton-senate-bill-on-critical-race-theory">
 <div class="article-content">
 <span class="type">eye on the news</span>
-<h3 class="title">The Left’s New Constitution</h3>
-<span class="author">Mike Gonzalez</span>
+<h3 class="title">Senator Cotton’s Stand</h3>
+<span class="author">Christopher F. Rufo</span>
 </div>
 </a>
 </article>
 <article class="m_article m_article__listitem">
-<a class="article-wrapper" href="/committee-to-review-public-monuments-chicago">
+<a class="article-wrapper" href="/dont-let-financial-regulators-dream-up-climate-solutions">
 <div class="article-content">
 <span class="type">eye on the news</span>
-<h3 class="title">Chicago’s Monumental Mistake</h3>
-<span class="author">John O. McGinnis</span>
+<h3 class="title">Don’t Let Financial Regulators Dream Up Climate Solutions</h3>
+<span class="author">John Cochrane</span>
 </div>
 </a>
 </article>
 <article class="m_article m_article__listitem">
-<a class="article-wrapper" href="/four-centuries-of-crises-in-new-york">
+<a class="article-wrapper" href="/cdc-report-confirms-k-12-schools-not-associated-with-covid-19-transmission">
+<div class="article-content">
+<span class="type">eye on the news</span>
+<h3 class="title">Open Schools Now</h3>
+<span class="author">Joel Zinberg</span>
+</div>
+</a>
+</article>
+<article class="m_article m_article__listitem">
+<a class="article-wrapper" href="/civics-education-and-identity-politics">
+<div class="article-content">
+<span class="type">eye on the news</span>
+<h3 class="title">Roadmap for Progressivism</h3>
+<span class="author">Mark Bauerlein</span>
+</div>
+</a>
+</article>
+<article class="m_article m_article__listitem">
+<a class="article-wrapper" href="/abolish-corporate-income-tax">
 <div class="article-content">
 <span class="type">from the magazine</span>
-<h3 class="title">The Enduring City</h3>
-<span class="author">Jason M. Barr</span>
+<h3 class="title">Abolish the Corporate Income Tax</h3>
+<span class="author">John Steele Gordon</span>
 </div>
 </a>
 </article>
 <article class="m_article m_article__listitem">
-<a class="article-wrapper" href="/andrew-cuomos-hold-on-power-is-unraveling">
+<a class="article-wrapper" href="/lockdowns-and-domestic-violence">
 <div class="article-content">
 <span class="type">eye on the news</span>
-<h3 class="title">A Governor Unraveling</h3>
-<span class="author">Seth  Barron</span>
-</div>
-</a>
-</article>
-<article class="m_article m_article__listitem">
-<a class="article-wrapper" href="/a-formula-for-tyranny-and-more-racism">
-<div class="article-content">
-<span class="type">eye on the news</span>
-<h3 class="title">“A Formula for Tyranny and More Racism”</h3>
-<span class="author">Glenn C. Loury</span>
-</div>
-</a>
-</article>
-<article class="m_article m_article__listitem">
-<a class="article-wrapper" href="/cdc-contradictory-guidance-evictions-immigration">
-<div class="article-content">
-<span class="type">eye on the news</span>
-<h3 class="title">Crossing the Line</h3>
-<span class="author">Joel Zinberg</span>
+<h3 class="title">Lockdowns and Domestic Violence</h3>
+<span class="author">Charles Fain Lehman</span>
 </div>
 </a>
 </article>
@@ -600,8 +600,8 @@
 </section>
 </div>
 <div class="m_front-city-quote">
-<div class="quote"><i>City Journal</i> is the best magazine in America.</div>
-<div class="source">Peggy Noonan</div>
+<div class="quote">As the journalist enterprises multiply . . . a few publications of reliable excellence become increasingly important. <i>City Journal</i> is at the top of the short list.</div>
+<div class="source">George F. Will</div>
 <a class="button" href="/subscribe">Subscribe now</a>
 </div>
 <div class="l_ipage-container">
@@ -663,33 +663,33 @@
 <h3 class="title">In the News</h3>
 </div>
 <article class="m_article m_article__news">
-<a class="article-wrapper" href="https://www.realclearmarkets.com/articles/2021/02/18/the_most_disturbing_aspect_of_the_gamestop_spectacle_660785.html" target="_blank">
+<a class="article-wrapper" href="https://insidesources.com/rising-tide-of-crime-across-u-s-complicates-search-for-motive-in-atlanta-killings/" target="_blank">
 <div class="article-content">
 <div class="subtitle">
-<span class="author">Allison Schrager</span>
-<span class="source">in RealClear Markets</span>
+<span class="author">Charles Fain Lehman</span>
+<span class="source">in Real Clear Politics</span>
 </div>
-<h3 class="title">The Most Disturbing Aspect of the GameStop Spectacle</h3>
+<h3 class="title">Rising Tide of Crime Across U.S. Complicates Search for Motive in Atlanta Killings</h3>
 </div>
 </a>
 </article> <article class="m_article m_article__news">
-<a class="article-wrapper" href="https://nypost.com/2021/02/14/soaring-crime-is-killing-nycs-subway-system/" target="_blank">
+<a class="article-wrapper" href="https://www.businessinsider.com/semi-annual-time-changes-are-a-pointless-disruptive-and-expensive-2021-3" target="_blank">
+<div class="article-content">
+<div class="subtitle">
+<span class="author">Allison Schrager</span>
+<span class="source">in Insider</span>
+</div>
+<h3 class="title">Semi-annual time changes are a pointless, disruptive, and expensive annual ritual</h3>
+</div>
+</a>
+</article> <article class="m_article m_article__news">
+<a class="article-wrapper" href="https://nypost.com/2021/03/21/how-broken-windows-policing-couldve-saved-rosalee-sanchezs-life/" target="_blank">
 <div class="article-content">
 <div class="subtitle">
 <span class="author">Nicole Gelinas</span>
 <span class="source">in the New York Post</span>
 </div>
-<h3 class="title">Soaring crime is killing NYC’s subway system</h3>
-</div>
-</a>
-</article> <article class="m_article m_article__news">
-<a class="article-wrapper" href="https://ifstudies.org/blog/whats-at-stake-in-the-coming-title-ix-war-" target="_blank">
-<div class="article-content">
-<div class="subtitle">
-<span class="author">Kay Hymowitz</span>
-<span class="source">in the Institute for Family Studies</span>
-</div>
-<h3 class="title">What’s at Stake in the Coming Title IX War</h3>
+<h3 class="title">How broken-windows policing could've saved Rosalee Sanchez's life</h3>
 </div>
 </a>
 </article> </div>
@@ -957,5 +957,5 @@
         height: inherit;
       }
     </style>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"2b469b0edd","applicationID":"118507861","transactionName":"YgdbZEZUXkZTVUFcCltNeFNAXF9bHVhaUQBqElhXUWpUUFRXQFkR","queueTime":0,"applicationTime":291,"atts":"TkBYEg5OTUg=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"2b469b0edd","applicationID":"118507861","transactionName":"YgdbZEZUXkZTVUFcCltNeFNAXF9bHVhaUQBqElhXUWpUUFRXQFkR","queueTime":0,"applicationTime":237,"atts":"TkBYEg5OTUg=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
 </html>

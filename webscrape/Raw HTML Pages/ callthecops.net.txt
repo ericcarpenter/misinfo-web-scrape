@@ -455,12 +455,38 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433114706441-4');
 </div><!-- .Wrapper -->
 <div class="tieicon-up-open" id="topcontrol" title="Scroll To Top"></div>
 <div id="fb-root"></div>
+<script id="wp-polyfill-js" src="http://www.callthecops.net/wp-includes/js/dist/vendor/wp-polyfill.min.js" type="text/javascript"></script>
+<script id="wp-polyfill-js-after" type="text/javascript">
+( 'fetch' in window ) || document.write( '<script src="http://www.callthecops.net/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="http://www.callthecops.net/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="http://www.callthecops.net/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="http://www.callthecops.net/wp-includes/js/dist/vendor/wp-polyfill-url.min.js"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="http://www.callthecops.net/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="http://www.callthecops.net/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js"></scr' + 'ipt>' );
+</script>
+<script id="wp-i18n-js" src="http://www.callthecops.net/wp-includes/js/dist/i18n.min.js" type="text/javascript"></script>
+<script id="lodash-js" src="http://www.callthecops.net/wp-includes/js/dist/vendor/lodash.min.js" type="text/javascript"></script>
+<script id="lodash-js-after" type="text/javascript">
+window.lodash = _.noConflict();
+</script>
+<script id="wp-url-js" src="http://www.callthecops.net/wp-includes/js/dist/url.min.js" type="text/javascript"></script>
+<script id="wp-hooks-js" src="http://www.callthecops.net/wp-includes/js/dist/hooks.min.js" type="text/javascript"></script>
+<script id="wp-api-fetch-js-translations" type="text/javascript">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script id="wp-api-fetch-js" src="http://www.callthecops.net/wp-includes/js/dist/api-fetch.min.js" type="text/javascript"></script>
+<script id="wp-api-fetch-js-after" type="text/javascript">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "http://www.callthecops.net/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "dd82ef052e" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "http://www.callthecops.net/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
 <script id="contact-form-7-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/www.callthecops.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+var wpcf7 = {"cached":"1"};
 /* ]]> */
 </script>
-<script id="contact-form-7-js" src="http://www.callthecops.net/wp-content/plugins/contact-form-7/includes/js/scripts.js" type="text/javascript"></script>
+<script id="contact-form-7-js" src="http://www.callthecops.net/wp-content/plugins/contact-form-7/includes/js/index.js" type="text/javascript"></script>
 <script id="disqus_count-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var countVars = {"disqusShortname":"callthecops1"};

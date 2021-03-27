@@ -40,10 +40,10 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <meta content="ie=edge" http-equiv="x-ua-compatible"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"dd9de9ceae",applicationID:"452522458"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(7),c=e(8),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(9);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e){return!(!e||!e.protocol||"file:"===e.protocol)}t.exports=r},{}],4:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(6),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],5:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],6:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],7:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],8:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],9:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(7),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=x.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=e(2),c=e("handle"),f=e(7),u=e("ee"),s=e(5),d=e(3),p=window,l=p.document,m="addEventListener",v="attachEvent",g=p.XMLHttpRequest,w=g&&g.prototype;if(d(p.location)){NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1208.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:b,userAgent:s};e(1),e(4),l[m]?(l[m]("DOMContentLoaded",o,!1),p[m]("load",r,!1)):(l[v]("onreadystatechange",i),p[v]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0}},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(8),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
 <link href="/themes/custom/bootstrap_custom/CNSNewsFavicon.png" rel="shortcut icon" type="image/png"/>
 <title>Home | CNSNews</title>
-<link href="/sites/default/files/css/css_LxFvC2bNh9-bQUqQmzkKJySbvYA2mvtqgfc4-MLhApg.css?qprjw9" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_LxFvC2bNh9-bQUqQmzkKJySbvYA2mvtqgfc4-MLhApg.css?qq4icb" media="all" rel="stylesheet"/>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" media="all" rel="stylesheet"/>
-<link href="/sites/default/files/css/css_3Dcpeh2IFMWuIiF0sp-sEYC58-JcI18k4K25jXvPsW0.css?qprjw9" media="all" rel="stylesheet"/>
-<link href="/sites/default/files/css/css_awierFxzjLSsHIQolvrdK0noDrwY6AKLX3W835PnIJU.css?qprjw9" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_3Dcpeh2IFMWuIiF0sp-sEYC58-JcI18k4K25jXvPsW0.css?qq4icb" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_awierFxzjLSsHIQolvrdK0noDrwY6AKLX3W835PnIJU.css?qq4icb" media="all" rel="stylesheet"/>
 <!--[if lte IE 8]>
 <script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
 <![endif]-->
@@ -153,7 +153,7 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <main class="main-content col" id="content" role="main">
 <div class="block block-views block-views-blockalert-block-1">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-alert view-id-alert view-display-id-block_1 js-view-dom-id-4e48c09dbb427ee208282eafc31dcf1e18b235d4428d527cc36287d39fd92c5c">
+<div class="views-element-container col-auto"><div class="view view-alert view-id-alert view-display-id-block_1 js-view-dom-id-52dee71a4672c19e845fbec4a457cbd00e571bb795b5c1611b7b312d8fae7ba7">
 </div>
 </div>
 </div>
@@ -165,22 +165,22 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg desktop_2 order-2 order-lg-1">
 <div class="block block-views block-views-blockfront-queue-block-4">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_4 js-view-dom-id-470f1fab18bd9f622ff831cebc752660d2b18ac9c780a96f1a5381c7746ae3b3">
+<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_4 js-view-dom-id-b1a29383da321fb72f29ebfef3231cd6085999d444d3470ebf9e3f2249eac3c2">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/washington/susan-jones/dhs-secretary-mayorkas-we-can-do-children-arriving-border-same-hope"><img alt="Immigrants cross the Rio Grande between Ciudad Juarez, Mexico and El Paso, Texas, on April 29, 2019. (Photo by PAUL RATJE/AFP via Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/immigration.jpg?itok=xqO_mM6L" typeof="foaf:Image" width="700"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/washington/cnsnewscom-staff/nancy-pelosi-my-whole-thing-congress-about-children"><img alt="(Photo by JIM WATSON/AFP via Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/pelget5.jpg?itok=DJ_Y9i7A" typeof="foaf:Image" width="700"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/susan-jones/dhs-secretary-mayorkas-we-can-do-children-arriving-border-same-hope" hreflang="en">DHS Secretary Mayorkas: 'We Can Do This' for the Children Arriving at Border With 'Same Hope' He Once Had</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Susan Jones | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/cnsnewscom-staff/nancy-pelosi-my-whole-thing-congress-about-children" hreflang="en">Nancy Pelosi: ‘My Whole Thing in Congress Is About the Children’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">CNSNews.com Staff | March 26,  2021</span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/national/melanie-arter/border-patrol-president-we-are-pace-arrest-more-people-1-year-we"><img alt="Customs Agent with Illegal Immigrants (Photo by David Turnley/Corbis/VCG via Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/GettyImages-635935241.jpg?itok=_mQC_huf" typeof="foaf:Image" width="700"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/washington/melanie-arter/psaki-despite-defending-its-use-2005-biden-thinks-filibuster-being"><img alt="White House Press Secretary Jen Psaki speaks during the daily press briefing at the White House in Washington, DC, on March 17, 2021. (Photo by JIM WATSON/AFP via Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/GettyImages-1231771637.jpg?itok=uMqbo3dW" typeof="foaf:Image" width="700"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/melanie-arter/border-patrol-president-we-are-pace-arrest-more-people-1-year-we" hreflang="en">Border Patrol President: We Are on Pace to Arrest More People in 1 Year Than We Ever Have in CBP History</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/melanie-arter/psaki-despite-defending-its-use-2005-biden-thinks-filibuster-being" hreflang="en">Psaki: Despite Defending Its Use in 2005, Biden Thinks Filibuster Is Being Abused Now</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 26,  2021</span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/national/melanie-arter/border-patrol-council-president-criminal-cartels-generated-400"><img alt='Recently-installed "Bollard" style fencing is pictured on the US-Mexico border near Santa Teresa, New Mexico, on April 30, 2019. (Photo by PAUL RATJE/AFP via Getty Images)' class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/GettyImages-1140287494.jpg?itok=-snrYDsp" typeof="foaf:Image" width="700"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/washington/melanie-arter/psaki-biden-ignoring-fox-news-press-conference-were-here-having"><img alt="White House Press Secretary Jen Psaki takes a question during a press briefing on January 29, 2021, in the Brady Briefing Room of the White House in Washington, DC. (Photo by NICHOLAS KAMM/AFP via Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/GettyImages-1230853908.jpg?itok=HM40yoCC" typeof="foaf:Image" width="700"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/melanie-arter/border-patrol-council-president-criminal-cartels-generated-400" hreflang="en">Border Patrol Council President: Criminal Cartels Generated $400 Million in Profit in February Alone</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/melanie-arter/psaki-biden-ignoring-fox-news-press-conference-were-here-having" hreflang="en">Psaki on Biden Ignoring Fox News at Press Conference: ‘We’re Here Having a Conversation, Aren’t We?’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 26,  2021</span></div>
 </div>
 </div>
 </div>
@@ -192,12 +192,12 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="desktop_1">
 <div class="block block-views block-views-blockfront-queue-block-3">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_3 js-view-dom-id-cbdaec6218be976be4f52b6334590887cfa1ce9f55d92da30fc66d4412dc706c">
+<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_3 js-view-dom-id-59c1868a6ff2c195b98dc2c4335d35d96ff50fdad165072790d4aa29049c6a90">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/washington/melanie-arter/rep-john-katko-people-terror-watch-list-caught-coming-across"><img alt="US Representative John Katko (R-NY) addresses the press during the congressional border delegation visit to El Paso, Texas on March 15, 2021. (Photo by JUSTIN HAMEL/AFP via Getty Images) " class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/GettyImages-1231736349.jpg?itok=G4Xwiugl" typeof="foaf:Image" width="700"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/national/terence-p-jeffrey/cdc-004-covid-19-deaths-are-children-17-and-under"><img alt="(Photo by Drew Angerer/Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/fauciget1.png?itok=CMfshb7E" typeof="foaf:Image" width="700"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/melanie-arter/rep-john-katko-people-terror-watch-list-caught-coming-across" hreflang="en">Rep. John Katko: People on the Terror Watch List Caught Coming Across the Border in Last Few Days</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 15,  2021 </span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/national/terence-p-jeffrey/cdc-004-covid-19-deaths-are-children-17-and-under" hreflang="en">CDC: 0.04% of COVID-19 Deaths Are in Children 17 and Under</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Terence P. Jeffrey | March 27,  2021 </span></div>
 </div>
 </div>
 </div>
@@ -208,22 +208,24 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="desktop_3">
 <div class="block block-views block-views-blockfront-queue-block-5">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_5 js-view-dom-id-3cd80193b6e4fb2c25130764fefda3c907c082eddd06a147c41befa0515d04a1">
+<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_5 js-view-dom-id-c8bcf019021fadbbb22be2310b3763d4a0ede857be9ebd632327a21285e2eba1">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/washington/melanie-arter/border-patrol-council-president-illegal-immigration-has-nothing-do"><img alt="After being apprehended by Border Patrol, illegal immigrants wait to be transported to a central processing center shortly after they crossed the border from Mexico into the United States on Monday, March 26, 2018 in the Rio Grande Valley Sector near McAllen, Texas. (Photo by LOREN ELLIOTT/AFP via Getty Images)" class="image-style-sectional-thumbs img-fluid" height="100" src="https://cdn.cnsnews.com/styles/sectional_thumbs/s3/2021-03/GettyImages-938359284.jpg?itok=zWFcw4Gq" typeof="foaf:Image" width="150"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/michael-w-chapman/catholic-bishop-biden-should-not-present-himself-holy-communion"><img alt="" class="image-style-sectional-thumbs img-fluid" height="100" src="https://cdn.cnsnews.com/styles/sectional_thumbs/s3/2021-03/paprocki%201.jpg?itok=ythQSKfm" typeof="foaf:Image" width="150"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/melanie-arter/border-patrol-council-president-illegal-immigration-has-nothing-do" hreflang="en">Border Patrol Council President: ‘Illegal Immigration Has Nothing to Do with Race’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content">Blog
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/michael-w-chapman/catholic-bishop-biden-should-not-present-himself-holy-communion" hreflang="en">Catholic Bishop: Biden 'Should Not Present Himself' for Holy Communion</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Michael W. Chapman | March 26,  2021</span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/washington/kim/conservatives-equality-act-ignores-scientific-and-biological-reality"><img alt="" class="image-style-sectional-thumbs img-fluid" height="100" src="https://cdn.cnsnews.com/styles/sectional_thumbs/s3/2021-03/gay%20flag%203.jpg?itok=DXsNXG3I" typeof="foaf:Image" width="150"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/washington/melanie-arter/wh-majority-illegal-immigrant-adults-are-turned-away-border"><img alt="White House Press Secretary Jen Psaki speaks during a press briefing on February 17, 2021, in the Brady Briefing Room of the White House in Washington, DC. (Photo by SAUL LOEB/AFP via Getty Images)" class="image-style-sectional-thumbs img-fluid" height="100" src="https://cdn.cnsnews.com/styles/sectional_thumbs/s3/2021-03/GettyImages-1231220919.jpg?itok=5PUuypfL" typeof="foaf:Image" width="150"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/kim/conservatives-equality-act-ignores-scientific-and-biological-reality" hreflang="en">Conservatives: Equality Act ‘Ignores Scientific and Biological Reality,’ Undermines ‘Centuries of Legal Principles’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">A. Kim | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/melanie-arter/wh-majority-illegal-immigrant-adults-are-turned-away-border" hreflang="en">WH: Majority of Illegal Immigrant Adults Are Turned Away at the Border</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 26,  2021</span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/national/michael-w-chapman/rev-graham-vatican-right-god-cannot-bless-gay-unions-because"><img alt="" class="image-style-sectional-thumbs img-fluid" height="100" src="https://cdn.cnsnews.com/styles/sectional_thumbs/s3/2021-03/franklin%20graham%20mugshot_1.png?itok=XVG-DjUt" typeof="foaf:Image" width="150"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/cnsnewscom-staff/center-american-progress-us-women-taiwanese-indian-malaysian-chinese-ancestry"><img alt="(Photo by Joe Woolhead/Construction Photography/Avalon/Getty Images)" class="image-style-sectional-thumbs img-fluid" height="100" src="https://cdn.cnsnews.com/styles/sectional_thumbs/s3/2021-03/workget1.jpg?itok=6cpvnsGw" typeof="foaf:Image" width="150"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/michael-w-chapman/rev-graham-vatican-right-god-cannot-bless-gay-unions-because" hreflang="en">Rev. Graham: Vatican is Right, God Cannot Bless Gay Unions Because They Are Sinful</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Michael W. Chapman | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content">Blog
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/cnsnewscom-staff/center-american-progress-us-women-taiwanese-indian-malaysian-chinese-ancestry" hreflang="en">Center for American Progress: U.S. Women of Taiwanese, Indian, Malaysian, Chinese Ancestry Earn More Than White Men</a></span></div><div class="views-field views-field-nothing"><span class="field-content">CNSNews.com Staff | March 26,  2021</span></div>
 </div>
 </div>
 </div>
@@ -236,28 +238,27 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="desktop_4">
 <div class="block block-views block-views-blockfront-queue-block-6">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_6 js-view-dom-id-ef273b61e9181e7fed4cb822b35a0fc63cd716d4a1ee556ab2096837c1a73b9b">
+<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_6 js-view-dom-id-7ca9d7466f9d303b0be28dce333301431c49c070c29db34811d2f29972d12ea0">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-type"><div class="field-content">Commentary
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/commentary/patrick-j-buchanan/who-and-what-killed-george-floyd" hreflang="en">Who and What Killed George Floyd?</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Patrick J. Buchanan | March 16,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-field-type"><div class="field-content">Blog
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/michael-w-chapman/rutgers-require-covid-vaccination-students-returning-campus-fall-2021" hreflang="en">Rutgers to Require COVID Vaccination for Students Returning to Campus in Fall 2021</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Michael W. Chapman | March 26,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/susan-jones/biden-touts-his-stimulus-plan-no-comment-worsening-border-crisis" hreflang="en">As Biden Touts His Stimulus Plan, No Comment on Worsening Border Crisis</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Susan Jones | March 16,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/international/patrick-goodenough/afghanistan-biden-makes-three-gaffes-30-seconds" hreflang="en">On Afghanistan, Biden Makes Three Gaffes in 30 Seconds</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Patrick Goodenough | March 26,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
 <div class="views-field views-field-field-type"><div class="field-content">Blog
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/craig-bannister/candace-owens-tells-rapper-cardi-b-you-are-cancer-cell-culture" hreflang="en">Candace Owens Tells Rapper Cardi B.: ‘You Are a Cancer Cell to Culture’</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Craig Bannister | March 16,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/craig-bannister/media-condemn-cruz-not-wearing-mask-give-schumer-okay" hreflang="en">Media Condemn Cruz for Not Wearing Mask – But, Give Schumer the ‘Okay’</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Craig Bannister | March 26,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/international/patrick-goodenough/south-africas-top-judge-resists-order-apologize-public-pro" hreflang="en">South Africa’s Top Judge Resists Order to Apologize for Public Pro-Israel Remarks</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Patrick Goodenough | March 16,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/national/susan-jones/georgia-gov-kemp-were-actually-expanding-right-vote-georgia" hreflang="en">Georgia Gov. Kemp: 'We're Actually Expanding the Right to Vote in Georgia'</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Susan Jones | March 26,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-type"><div class="field-content">Blog
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/craig-bannister/columbia-university-hosting-6-different-identity-graduation-ceremonies-based" hreflang="en">Columbia University Hosting 6 Different ‘Identity’ Graduation Ceremonies Based on Race, Gender, Ethnicity, Etc.</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Craig Bannister | March 16,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/national/michael-w-chapman/arkansas-governor-signs-law-banning-biological-males-girls" hreflang="en">Arkansas Governor Signs Law Banning Biological Males From Girls' Sports</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Michael W. Chapman | March 26,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/susan-jones/mccarthy-sw-border-where-biden-should-bring-air-force-one" hreflang="en">McCarthy at SW Border: 'This Is Where (Biden) Should Bring Air Force One'</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Susan Jones | March 16,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/national/susan-jones/twitter-ceo-we-believe-free-expression-moderating-content-critical-us" hreflang="en">Twitter CEO: 'We Believe in Free Expression'; But Moderating Content Is 'Critical to Us'</a></span></div><div class="views-field views-field-nothing-1"><span class="field-content">Susan Jones | March 26,  2021</span></div><div class="views-field views-field-nothing"><span class="field-content"><hr/></span></div>
 </div>
 </div>
 </div>
@@ -272,55 +273,56 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="mobile_rest">
 <div class="block block-views block-views-blockfront-queue-block-7">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_7 js-view-dom-id-5d105a50433e6f0c6c3242fba5a091bf6ea09a4c7806b03ad3c7f552880a7866">
+<div class="views-element-container col-auto"><div class="view view-front-queue view-id-front_queue view-display-id-block_7 js-view-dom-id-9a3905e0eb6b56b9ecff21cb9cbf5cce1284b13eb2e8755e183ab4c5234b99db">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/washington/melanie-arter/border-patrol-council-president-illegal-immigration-has-nothing-do"><img alt="After being apprehended by Border Patrol, illegal immigrants wait to be transported to a central processing center shortly after they crossed the border from Mexico into the United States on Monday, March 26, 2018 in the Rio Grande Valley Sector near McAllen, Texas. (Photo by LOREN ELLIOTT/AFP via Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/GettyImages-938359284.jpg?itok=fohwOxoB" typeof="foaf:Image" width="100"/>
-</a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/melanie-arter/border-patrol-council-president-illegal-immigration-has-nothing-do" hreflang="en">Border Patrol Council President: ‘Illegal Immigration Has Nothing to Do with Race’</a></span></div>
-</div>
-<div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/washington/kim/conservatives-equality-act-ignores-scientific-and-biological-reality"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/gay%20flag%203.jpg?itok=YNuO4k3H" typeof="foaf:Image" width="100"/>
-</a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/kim/conservatives-equality-act-ignores-scientific-and-biological-reality" hreflang="en">Conservatives: Equality Act ‘Ignores Scientific and Biological Reality,’ Undermines ‘Centuries of Legal Principles’</a></span></div>
-</div>
-<div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/national/michael-w-chapman/rev-graham-vatican-right-god-cannot-bless-gay-unions-because"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/franklin%20graham%20mugshot_1.png?itok=HfODzYat" typeof="foaf:Image" width="100"/>
-</a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/michael-w-chapman/rev-graham-vatican-right-god-cannot-bless-gay-unions-because" hreflang="en">Rev. Graham: Vatican is Right, God Cannot Bless Gay Unions Because They Are Sinful</a></span></div>
-</div>
-<div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/commentary/patrick-j-buchanan/who-and-what-killed-george-floyd"><img alt="A poster featuring the late George Floyd waves over a June 19, 2020 protest march in Brooklyn, N.Y.  (Photo by Robert Nickelsberg/Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/george-floyd-poster-Robert%20Nickelsberg-getty.jpg?itok=EDcS9FSj" typeof="foaf:Image" width="100"/>
-</a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content">Commentary
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/commentary/patrick-j-buchanan/who-and-what-killed-george-floyd" hreflang="en">Who and What Killed George Floyd?</a></span></div>
-</div>
-<div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/national/susan-jones/biden-touts-his-stimulus-plan-no-comment-worsening-border-crisis"><img alt="Border Patrol agents apprehend a group of migrants near downtown El Paso, Texas on March 15, 2021. (Photo by JUSTIN HAMEL/AFP via Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/migration-elpaso%20detention.g.jpg?itok=DhSZMoGp" typeof="foaf:Image" width="100"/>
-</a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/susan-jones/biden-touts-his-stimulus-plan-no-comment-worsening-border-crisis" hreflang="en">As Biden Touts His Stimulus Plan, No Comment on Worsening Border Crisis</a></span></div>
-</div>
-<div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/blog/craig-bannister/candace-owens-tells-rapper-cardi-b-you-are-cancer-cell-culture"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/CandaceOwensGettyZachGibson_1.jpg?itok=HvdzsYYt" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/michael-w-chapman/catholic-bishop-biden-should-not-present-himself-holy-communion"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/paprocki%201.jpg?itok=k-mxNrvj" typeof="foaf:Image" width="100"/>
 </a>
 </div></div><div class="views-field views-field-field-type"><div class="field-content">Blog
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/craig-bannister/candace-owens-tells-rapper-cardi-b-you-are-cancer-cell-culture" hreflang="en">Candace Owens Tells Rapper Cardi B.: ‘You Are a Cancer Cell to Culture’</a></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/michael-w-chapman/catholic-bishop-biden-should-not-present-himself-holy-communion" hreflang="en">Catholic Bishop: Biden 'Should Not Present Himself' for Holy Communion</a></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/international/patrick-goodenough/south-africas-top-judge-resists-order-apologize-public-pro"><img alt="South African Chief Justice Mogoeng Mogoeng speaks during a session of parliament in Cape Town. (Photo by Rodger Bosch/AFP via Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/safrica-Mogoeng-SAjusticeG.jpg?itok=833gnhQP" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/washington/melanie-arter/wh-majority-illegal-immigrant-adults-are-turned-away-border"><img alt="White House Press Secretary Jen Psaki speaks during a press briefing on February 17, 2021, in the Brady Briefing Room of the White House in Washington, DC. (Photo by SAUL LOEB/AFP via Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/GettyImages-1231220919.jpg?itok=8SiAmcG3" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/international/patrick-goodenough/south-africas-top-judge-resists-order-apologize-public-pro" hreflang="en">South Africa’s Top Judge Resists Order to Apologize for Public Pro-Israel Remarks</a></span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/melanie-arter/wh-majority-illegal-immigrant-adults-are-turned-away-border" hreflang="en">WH: Majority of Illegal Immigrant Adults Are Turned Away at the Border</a></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/blog/craig-bannister/columbia-university-hosting-6-different-identity-graduation-ceremonies-based"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/ColumbiaUGraduate.jpg?itok=Z-yBxlc4" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/cnsnewscom-staff/center-american-progress-us-women-taiwanese-indian-malaysian-chinese-ancestry"><img alt="(Photo by Joe Woolhead/Construction Photography/Avalon/Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/workget1.jpg?itok=hqtRWmo_" typeof="foaf:Image" width="100"/>
 </a>
 </div></div><div class="views-field views-field-field-type"><div class="field-content">Blog
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/craig-bannister/columbia-university-hosting-6-different-identity-graduation-ceremonies-based" hreflang="en">Columbia University Hosting 6 Different ‘Identity’ Graduation Ceremonies Based on Race, Gender, Ethnicity, Etc.</a></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/cnsnewscom-staff/center-american-progress-us-women-taiwanese-indian-malaysian-chinese-ancestry" hreflang="en">Center for American Progress: U.S. Women of Taiwanese, Indian, Malaysian, Chinese Ancestry Earn More Than White Men</a></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/national/susan-jones/mccarthy-sw-border-where-biden-should-bring-air-force-one"><img alt="House Minority Leader Kevin McCarthy addresses the press during a congressional visit to the border community of El Paso, Texas on March 15, 2021. (Photo by JUSTIN HAMEL/AFP via Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/mccarthy-delegation-border%2Cjpg.jpg?itok=LPm62OBv" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/michael-w-chapman/rutgers-require-covid-vaccination-students-returning-campus-fall-2021"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/rutgers%20mascot.jpeg?itok=bNSfBTn3" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/susan-jones/mccarthy-sw-border-where-biden-should-bring-air-force-one" hreflang="en">McCarthy at SW Border: 'This Is Where (Biden) Should Bring Air Force One'</a></span></div>
+</div></div><div class="views-field views-field-field-type"><div class="field-content">Blog
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/michael-w-chapman/rutgers-require-covid-vaccination-students-returning-campus-fall-2021" hreflang="en">Rutgers to Require COVID Vaccination for Students Returning to Campus in Fall 2021</a></span></div>
+</div>
+<div class="views-row">
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/international/patrick-goodenough/afghanistan-biden-makes-three-gaffes-30-seconds"><img alt="Then-Vice President Joe Biden looks on as Afghan President Ashraf Ghani addresses a joint session of Congress in March 2015. (Photo by Nicholas Kamm/AFP via Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/ghani-bidenG2.jpg?itok=k2YhgpMH" typeof="foaf:Image" width="100"/>
+</a>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/international/patrick-goodenough/afghanistan-biden-makes-three-gaffes-30-seconds" hreflang="en">On Afghanistan, Biden Makes Three Gaffes in 30 Seconds</a></span></div>
+</div>
+<div class="views-row">
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/craig-bannister/media-condemn-cruz-not-wearing-mask-give-schumer-okay"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/SchumerMaskless.JPG?itok=z2Hs6VY2" typeof="foaf:Image" width="100"/>
+</a>
+</div></div><div class="views-field views-field-field-type"><div class="field-content">Blog
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/craig-bannister/media-condemn-cruz-not-wearing-mask-give-schumer-okay" hreflang="en">Media Condemn Cruz for Not Wearing Mask – But, Give Schumer the ‘Okay’</a></span></div>
+</div>
+<div class="views-row">
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/national/susan-jones/georgia-gov-kemp-were-actually-expanding-right-vote-georgia"><img alt="Georgians wait to vote in the January 5 Senate runoff elections. (Photo by VIRGINIE KIPPELEN/AFP via Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/georgia%20vote.jpg?itok=WD29xSVm" typeof="foaf:Image" width="100"/>
+</a>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/national/susan-jones/georgia-gov-kemp-were-actually-expanding-right-vote-georgia" hreflang="en">Georgia Gov. Kemp: 'We're Actually Expanding the Right to Vote in Georgia'</a></span></div>
+</div>
+<div class="views-row">
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/national/michael-w-chapman/arkansas-governor-signs-law-banning-biological-males-girls"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/hutchinson%2C%20asa%20%20getty%20.jpg?itok=p7PTF9D4" typeof="foaf:Image" width="100"/>
+</a>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/national/michael-w-chapman/arkansas-governor-signs-law-banning-biological-males-girls" hreflang="en">Arkansas Governor Signs Law Banning Biological Males From Girls' Sports</a></span></div>
+</div>
+<div class="views-row">
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/national/susan-jones/twitter-ceo-we-believe-free-expression-moderating-content-critical-us"><img alt="Twitter CEO Jack Dorsey testifies before a joint House committee on March 25. (Photo: Screen capture)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/capture-dorsey.jpg?itok=t10t4CPB" typeof="foaf:Image" width="100"/>
+</a>
+</div></div><div class="views-field views-field-field-type"><div class="field-content"></div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/national/susan-jones/twitter-ceo-we-believe-free-expression-moderating-content-critical-us" hreflang="en">Twitter CEO: 'We Believe in Free Expression'; But Moderating Content Is 'Critical to Us'</a></span></div>
 </div>
 </div>
 </div>
@@ -341,12 +343,12 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg-5">
 <div class="block block-views block-views-blockfront-views-block-1">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_1 js-view-dom-id-fc0ad78cf9dc1e02770f6172016e1a1263791ca0034d5d86e2ea843cb7da9814">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_1 js-view-dom-id-5fb5f10890d9ae0f90dc67c773537313fa4e91d21cf2457eac59108abeea9bd1">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/blog/emma-riley/tucker-elites-say-science-decency-settled-wear-your-mask-or-be-beaten-public"><img alt="Tucker Carlson hosts his weekday night Fox News show. (Photo credit: YouTube/TRS Entertainment)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/Tucker%20Carlson_YouTube-TRS%20Entertainment.jpg?itok=lrcWCnuu" typeof="foaf:Image" width="700"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/craig-bannister/actress-sharon-stone-cancel-culture-stupidest-thing-i-have-ever-seen-people"><img alt="" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/SharonStoneGettyValerieMacon.jpg?itok=wVK9doAD" typeof="foaf:Image" width="700"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/emma-riley/tucker-elites-say-science-decency-settled-wear-your-mask-or-be-beaten-public" hreflang="en">Tucker: Elites Say Science on Decency Is Settled. Wear Your Mask or Be Beaten in Public </a></span></div><div class="views-field views-field-nothing"><span class="field-content">Emma Riley | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/craig-bannister/actress-sharon-stone-cancel-culture-stupidest-thing-i-have-ever-seen-people" hreflang="en">Actress Sharon Stone: ‘Cancel Culture Is the Stupidest Thing I Have Ever Seen’: ‘People Are Afraid of Sentences’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Craig Bannister | March 26,  2021</span></div>
 </div>
 </div>
 </div>
@@ -357,27 +359,27 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 offset-lg-1 col-lg-6">
 <div class="block block-views block-views-blockfront-views-block-2">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_2 js-view-dom-id-6d8c0248da1e1fe15ba5fced5d8920860a9a0bbb7627b8e8355c728fccac7fee">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_2 js-view-dom-id-95df050163d9747800e8e7bcf9d27bc8302e728d31fe3b78b098425996bea934">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/blog/craig-bannister/rep-lauren-boebert-left-claims-theres-war-women-theyre-ones-leading-it"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/LaurenBoebertGettyJasonConnolly_0.jpg?itok=zirdrNu-" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/quinn-weimer/levin-illegals-not-coming-because-bidens-nice-because-hes-idiot"><img alt="Conservative radio host Mark Levin gives a speech. (Photo credit: Michael Kovac/Getty Images for Radio Hall of Fame)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/Mark%20Levin_Michael%20Kovac-Getty%20Images%20for%20Radio%20Hall%20of%20Fame_2.jpg?itok=wFXrPQn8" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/craig-bannister/rep-lauren-boebert-left-claims-theres-war-women-theyre-ones-leading-it" hreflang="en">Rep. Lauren Boebert: The Left Claims There’s a ‘War on Women’ – ‘But, They’re the Ones Leading It!’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Craig Bannister | March 16,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/quinn-weimer/levin-illegals-not-coming-because-bidens-nice-because-hes-idiot" hreflang="en">Levin: Illegals Not Coming Because Biden's 'Nice' But Because He's 'an Idiot' </a></span></div><div class="views-field views-field-nothing"><span class="field-content">Quinn Weimer | March 26,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/blog/craig-bannister/candace-owens-tells-rapper-cardi-b-you-are-cancer-cell-culture"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/CandaceOwensGettyZachGibson_1.jpg?itok=HvdzsYYt" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/craig-bannister/report-biden-claims-exorbitant-use-filibuster-2020-it-was-used-327-times-dems"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/BidenScreenshot.png?itok=FA4yP2XP" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/craig-bannister/candace-owens-tells-rapper-cardi-b-you-are-cancer-cell-culture" hreflang="en">Candace Owens Tells Rapper Cardi B.: ‘You Are a Cancer Cell to Culture’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Craig Bannister | March 16,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/craig-bannister/report-biden-claims-exorbitant-use-filibuster-2020-it-was-used-327-times-dems" hreflang="en">Report: Biden Claims Exorbitant Use of Filibuster in 2020 – But, It Was Used 327 Times by Dems, Once by GOP</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Craig Bannister | March 26,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/blog/craig-bannister/columbia-university-hosting-6-different-identity-graduation-ceremonies-based"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/ColumbiaUGraduate.jpg?itok=Z-yBxlc4" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/craig-bannister/media-condemn-cruz-not-wearing-mask-give-schumer-okay"><img alt="" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/SchumerMaskless.JPG?itok=z2Hs6VY2" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/craig-bannister/columbia-university-hosting-6-different-identity-graduation-ceremonies-based" hreflang="en">Columbia University Hosting 6 Different ‘Identity’ Graduation Ceremonies Based on Race, Gender, Ethnicity, Etc.</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Craig Bannister | March 16,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/craig-bannister/media-condemn-cruz-not-wearing-mask-give-schumer-okay" hreflang="en">Media Condemn Cruz for Not Wearing Mask – But, Give Schumer the ‘Okay’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Craig Bannister | March 26,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/blog/kim/media-claim-trump-failed-vaccines-levin-unburies-gao-audit-saying-otherwise"><img alt="Conservative talk-show host Mark Levin speaks during the annual Conservative Political Action Conference (CPAC) 2016. (Photo credit: SAUL LOEB/AFP via Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/Mark%20Levin_SAUL%20LOEB-AFP%20via%20Getty%20Images.jpg?itok=bWlLlhJr" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/blog/kim/shapiro-good-luck-if-you-think-texans-and-alabamans-will-lap-gun-control"><img alt="An assault rifle decal on a gun rights advocate's pickup truck urges the defense of the U.S. Constitution's Second Amendment. (Photo credit: Robert Alexander/Getty Images)" class="image-style-front-thumbs img-fluid" height="67" src="https://cdn.cnsnews.com/styles/front_thumbs/s3/2021-03/2nd%20Amendment%20Decal_Robert%20Alexander-Getty%20Images.jpg?itok=3CluecwT" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/blog/kim/media-claim-trump-failed-vaccines-levin-unburies-gao-audit-saying-otherwise" hreflang="en">Media Claim Trump Failed on Vaccines. Levin Unburies GAO Audit Saying Otherwise  </a></span></div><div class="views-field views-field-nothing"><span class="field-content">A. Kim | March 15,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/blog/kim/shapiro-good-luck-if-you-think-texans-and-alabamans-will-lap-gun-control" hreflang="en">Shapiro: 'Good Luck' If You Think Texans and Alabamans Will Lap Up Gun Control  </a></span></div><div class="views-field views-field-nothing"><span class="field-content">A. Kim | March 25,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 </div>
 </div>
@@ -403,22 +405,22 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg-6">
 <div class="block block-views block-views-blockfront-views-block-3">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_3 js-view-dom-id-69521f04245a2693f378a08c23e8d551e5eeee5ddb3cb2173cf05bdfaaf60664">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_3 js-view-dom-id-977203da023baac61d96db0cb474bf549a2a7c44dcfd998183b5546365264d8d">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/index.php/author/bill-donohue"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2020-01/dona2.jpg?itok=eZku00LE" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/author/ilana-mercer"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2021-03/Ilana%20Mercer.jpg?itok=k33GcUhy" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/commentary/bill-donohue/vaticans-critics-should-remember-scripture-not-public-sentiment-governs" hreflang="en">Vatican's Critics Should Remember: Scripture, Not Public Sentiment, Governs Church Doctrine</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Bill Donohue | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/commentary/ilana-mercer/americans-should-recall-how-foreign-policy-alinskyites-destroyed-south" hreflang="en">Americans Should Recall How Foreign-Policy Alinskyites Destroyed South Africa</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Ilana Mercer | March 26,  2021</span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/index.php/author/ken-blackwell"><img class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/picture-954-1430505217.jpg?itok=9f6Ns0_H" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/author/tim-graham"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2020-02/TimGraham2019.jpg?itok=EESpwLV0" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/commentary/ken-blackwell/dont-let-media-throw-trump-bashing-smoke-screen-over-election-integrity" hreflang="en">Don't Let Media Throw Trump-Bashing Smoke Screen Over Election Integrity</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Ken Blackwell | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/commentary/tim-graham/humiliation-highlights-pro-biden-press-corps" hreflang="en">Humiliation Highlights From the Pro-Biden Press Corps</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Tim Graham | March 26,  2021</span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/index.php/author/tony-perkins"><img class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/picture-847-1510279875.jpg?itok=Id66_8ON" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/author/patrick-j-buchanan"><img class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/picture-557-1510326723.jpg?itok=dx8FVjFj" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/commentary/tony-perkins/biden-pentagon-deploys-weaponized-pr-against-national-security-threat" hreflang="en">Biden Pentagon Deploys Weaponized PR Against National Security Threat of...Tucker Carlson</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Tony Perkins | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/commentary/patrick-j-buchanan/why-putins-pipeline-welcome-germany" hreflang="en">Why Putin's Pipeline Is Welcome in Germany</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick J. Buchanan | March 26,  2021</span></div>
 </div>
 </div>
 </div>
@@ -429,22 +431,22 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg-6">
 <div class="block block-views block-views-blockfront-views-block-4">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_4 js-view-dom-id-d16a53e06df1f7597c463446987f9e2a9dc966dbdacd498974eb58ee1a59a3f3">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_4 js-view-dom-id-03dc6316e6a5ab362aed3bf16be59c4652dd70c3571ddfcefee9e170cfa597a6">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/index.php/author/stephen-moore"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2020-02/Moore_Steve_cropped%20for%20CNSNews.jpg?itok=9jdRffBf" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/author/scott-centorino"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2021-03/Scott%20Centorino.jpg?itok=g0cLpa8P" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/commentary/stephen-moore/dont-force-workers-join-union" hreflang="en">Don't Force Workers to Join a Union</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Stephen Moore | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/commentary/scott-centorino/why-welfare-enemy-middle-class-mobility-case-leia-explains-nutshell" hreflang="en">Why Is Welfare the Enemy of Middle-Class Mobility? The Case of 'Leia' Explains in a Nutshell</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Scott Centorino | March 25,  2021</span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/index.php/author/john-o-mcginnis"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2021-03/John%20O.%20McGinnis.jpg?itok=HszJLXOS" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/author/christopher-f-rufo"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2020-07/Christopher%20F.%20Rufo.png?itok=t27Co4tT" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/commentary/john-o-mcginnis/chicagos-monumental-mistake" hreflang="en">Chicago’s Monumental Mistake</a></span></div><div class="views-field views-field-nothing"><span class="field-content">John O. McGinnis | March 15,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/commentary/christopher-f-rufo/sen-cotton-takes-stand-against-training-soldiers-critical-race-theory" hreflang="en">Sen. Cotton Takes a Stand Against Training Soldiers in Critical Race Theory</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Christopher F. Rufo | March 25,  2021</span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/index.php/author/bill-donohue"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2020-01/dona2.jpg?itok=eZku00LE" typeof="foaf:Image" width="100"/>
+<div class="views-field views-field-user-picture"><div class="field-content"> <a href="/author/bill-donohue"><img alt="" class="image-style-scaled-thumb img-fluid" height="100" src="https://cdn.cnsnews.com/styles/scaled_thumb/s3/pictures/2020-01/dona2.jpg?itok=eZku00LE" typeof="foaf:Image" width="100"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/commentary/bill-donohue/vatican-slams-door-gay-unions" hreflang="en">Vatican Slams the Door on Gay Unions</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Bill Donohue | March 15,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/commentary/bill-donohue/leno-apologizes-asians-not-catholics" hreflang="en">Leno Apologizes to Asians But Not Catholics</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Bill Donohue | March 25,  2021</span></div>
 </div>
 </div>
 </div>
@@ -462,22 +464,22 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 </a>
 <div class="block block-views block-views-blocktop-videos-block-1">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-top-videos view-id-top_videos view-display-id-block_1 js-view-dom-id-69abab5b415a99f6be999043d04d3924bd89e7d73904404bc5ed945a00d26327">
+<div class="views-element-container col-auto"><div class="view view-top-videos view-id-top_videos view-display-id-block_1 js-view-dom-id-a5e836d9197bb0af6a11b5e87ba8d5012c57fd8ec9f2b479b6697053ee0e0be1">
 <div class="view-content row">
 <div class="col-xs-12 col-lg-4 views-row">
-<div class="views-field views-field-field-video-embed-link"><div class="field-content"><div class="video-embed-field-provider-mrctv video-embed-field-responsive-video col-auto"><iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.mrctv.org/embed/558483"></iframe>
+<div class="views-field views-field-field-video-embed-link"><div class="field-content"><div class="video-embed-field-provider-mrctv video-embed-field-responsive-video col-auto"><iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.mrctv.org/embed/558836"></iframe>
 </div>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/node/2155009" hreflang="en">McCarthy at SW Border: 'This Is Where (Biden) Should Bring Air Force One'</a></span></div>
-</div>
-<div class="col-xs-12 col-lg-4 views-row">
-<div class="views-field views-field-field-video-embed-link"><div class="field-content"><div class="video-embed-field-provider-mrctv video-embed-field-responsive-video col-auto"><iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.mrctv.org/embed/558506"></iframe>
-</div>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/node/2155011" hreflang="en">Tucker: Elites Say Science on Decency Is Settled. Wear Your Mask or Be Beaten in Public</a></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/node/2155010" hreflang="en">Psaki: Despite Defending Its Use in 2005, Biden Thinks Filibuster Is Being Abused Now</a></span></div>
 </div>
 <div class="col-xs-12 col-lg-4 views-row">
-<div class="views-field views-field-field-video-embed-link"><div class="field-content"><div class="video-embed-field-provider-mrctv video-embed-field-responsive-video col-auto"><iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.mrctv.org/embed/558481"></iframe>
+<div class="views-field views-field-field-video-embed-link"><div class="field-content"><div class="video-embed-field-provider-mrctv video-embed-field-responsive-video col-auto"><iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.mrctv.org/embed/558808"></iframe>
 </div>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/node/2155010" hreflang="en">Sen. Cotton: Biden’s Not Deploying FEMA to Stop Illegals, But to ‘Expedite Them, Wave Them in Even Faster’</a></span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/node/2155009" hreflang="en">Media Harass Cruz About Not Wearing Mask - But, Give 'OK' to Schumer</a></span></div>
+</div>
+<div class="col-xs-12 col-lg-4 views-row">
+<div class="views-field views-field-field-video-embed-link"><div class="field-content"><div class="video-embed-field-provider-mrctv video-embed-field-responsive-video col-auto"><iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.mrctv.org/embed/558812"></iframe>
+</div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/node/2155011" hreflang="en">Twitter CEO: 'We Believe in Free Expression'; But Moderating Content Is 'Critical to Us'</a></span></div>
 </div>
 </div>
 </div>
@@ -495,12 +497,12 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg-5">
 <div class="block block-views block-views-blockfront-views-block-5">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_5 js-view-dom-id-553d8718e9ee286a5c4aeaab397a54036c130090afb4e90b7184093940bb8c52">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_5 js-view-dom-id-137c5af8903edb5315c56c3882881c4212221f2d127af331bb2f28473c6111ed">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/washington/cnsnewscom-staff/bidens-covid-law-spends-4-million-2023-preservation-and"><img alt="(Photo by Stefani Reynolds-Pool/Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/bidenget1_0.jpg?itok=s0G3olb3" typeof="foaf:Image" width="700"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/washington/cnsnewscom-staff/joe-biden-looks-ahead-2024-i-have-no-idea-whether-there-will-be"><img alt="(Screen Capture)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/bidsc2.jpg?itok=VtD86Jtx" typeof="foaf:Image" width="700"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/cnsnewscom-staff/bidens-covid-law-spends-4-million-2023-preservation-and" hreflang="en">Biden’s COVID Law Spends $4 Million in 2023 for ‘Preservation and Maintenance of Native American Languages’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">CNSNews.com Staff | March 15,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/cnsnewscom-staff/joe-biden-looks-ahead-2024-i-have-no-idea-whether-there-will-be" hreflang="en"> Joe Biden Looks Ahead to 2024: ‘I Have No Idea Whether There Will be a Republican Party’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">CNSNews.com Staff | March 25,  2021</span></div>
 </div>
 </div>
 </div>
@@ -511,19 +513,19 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 offset-lg-1 col-lg-6">
 <div class="block block-views block-views-blockfront-views-block-6">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_6 js-view-dom-id-ebcb6f0f7afbf4905b424fb0fe03d93a70715656655d0129a2f2b4523b885ccd">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_6 js-view-dom-id-606ba14b0c2699cc4d5881dd4ff6046278ce8f4dd928b903c8d200bdfb05637a">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/kim/conservatives-equality-act-ignores-scientific-and-biological-reality" hreflang="en">Conservatives: Equality Act ‘Ignores Scientific and Biological Reality,’ Undermines ‘Centuries of Legal Principles’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">A. Kim | March 16,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/melanie-arter/biden-border-crisis-i-guess-i-should-be-flattered-people-are" hreflang="en">Biden on Border Crisis: ‘I Guess I Should Be Flattered People Are Coming Because I’m the Nice Guy’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 25,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/susan-jones/rep-escobar-flow-humanity-arriving-our-front-door-never-stopped" hreflang="en">Rep. Escobar: 'The Flow of Humanity Arriving at Our Front Door Never Stopped'</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Susan Jones | March 15,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/cnsnewscom-staff-writer/biden-when-press-will-get-transparency-border-facilities" hreflang="en">Biden on When Press Will Get 'Transparency' at Border Facilities: 'I Don't Know, To Be Clear'</a></span></div><div class="views-field views-field-nothing"><span class="field-content">CNSNews.com Staff Writer | March 25,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/melanie-arter/cnns-jake-tapper-corrects-stacey-abrams-we-shouldnt-say-theres-no" hreflang="en">CNN's Jake Tapper Corrects Stacey Abrams: ‘We Shouldn’t Say There’s No Fraud’ - 3 Trump Supporters Voted for Their Dead Parents</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 15,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/cnsnewscom-staff/nancy-pelosi-we-have-saved-lives" hreflang="en">Nancy Pelosi: ‘We Have Saved Lives’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">CNSNews.com Staff | March 25,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/washington/susan-jones/treasury-secretary-yellen-no-decision-yet-wealth-tax" hreflang="en">Treasury Secretary Yellen: No Decision Yet on 'Wealth Tax'</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Susan Jones | March 15,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/washington/melanie-arter/biden-trump-let-unaccompanied-minors-starve-mud-edge-rio-grande" hreflang="en">Biden: Trump Let Unaccompanied Minors Starve in the Mud on the Edge of the Rio Grande</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Melanie Arter | March 25,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 </div>
 </div>
@@ -543,12 +545,12 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg-5">
 <div class="block block-views block-views-blockfront-views-block-7">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_7 js-view-dom-id-8809687efa27a40b90088f38f602ad05ab064846102a89d6368e1ce5810ae3b9">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_7 js-view-dom-id-571ea962cc18b8229258e118571ba00e08bb7be9151993f944f2c3a1bf5e544e">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/national/susan-jones/dr-fauci-now-believes-3-feet-social-distancing-may-be-enough"><img alt="A sign advises travelers to respect social distancing at a largely empty Tom Bradley International Terminal at Los Angeles International airport on August 12, 2020 in Los Angeles during the coronavirus pandemic. (Photo by ROBYN BECK/AFP via Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/social%20distancing-g.jpg?itok=w0czh9Gy" typeof="foaf:Image" width="700"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/national/michael-w-chapman/arkansas-governor-signs-law-banning-biological-males-girls"><img alt="" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/hutchinson%2C%20asa%20%20getty%20.jpg?itok=4RPkUx5m" typeof="foaf:Image" width="700"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/susan-jones/dr-fauci-now-believes-3-feet-social-distancing-may-be-enough" hreflang="en">Dr. Fauci Now Believes 3 Feet of Social Distancing May Be Enough</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Susan Jones | March 15,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/national/michael-w-chapman/arkansas-governor-signs-law-banning-biological-males-girls" hreflang="en">Arkansas Governor Signs Law Banning Biological Males From Girls' Sports</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Michael W. Chapman | March 26,  2021</span></div>
 </div>
 </div>
 </div>
@@ -559,19 +561,19 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 offset-lg-1 col-lg-6">
 <div class="block block-views block-views-blockfront-views-block-9">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_9 js-view-dom-id-5fcf810f5cf2e002d6405d3714f4d1180b9c41324d0d4085ee5c63eb971f9b8e">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_9 js-view-dom-id-b094d6399818d741db91a4717cda87543c8d38ce2def06e997f9e22f9b273990">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/michael-w-chapman/rev-graham-vatican-right-god-cannot-bless-gay-unions-because" hreflang="en">Rev. Graham: Vatican is Right, God Cannot Bless Gay Unions Because They Are Sinful</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Michael W. Chapman | March 16,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/national/susan-jones/clever-biden-put-vp-charge-border-security-his-news-conference" hreflang="en">'Clever' of Biden to Put VP in Charge of Border Security Before His News Conference, Gingrich Says</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Susan Jones | March 25,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/cnsnewscom-staff-writer/alabama-gop-trump-was-one-greatest-and-most-effective" hreflang="en">Alabama GOP: Trump Was 'One of the Greatest and Most Effective Presidents' in the History of the Republic</a></span></div><div class="views-field views-field-nothing"><span class="field-content">CNSNews.com Staff Writer | March 15,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/national/michael-w-chapman/adf-noem-caved-pressure-corporate-special-interests-over" hreflang="en">ADF: 'Noem Caved to Pressure From Corporate Special Interests' Over Transgender Bill </a></span></div><div class="views-field views-field-nothing"><span class="field-content">Michael W. Chapman | March 25,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/patrick-goodenough/biden-gives-false-impression-it-took-months-under-trump" hreflang="en">Biden Gives the False Impression That It Took 'Months' Under Trump to Vaccinate 8% of Over-65s</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 12,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/national/michael-w-chapman/nc-republicans-introduce-bill-protect-girls-sports-biological" hreflang="en">N.C. Republicans Introduce Bill to Protect Girls' Sports From Biological Males</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Michael W. Chapman | March 24,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/national/quinn-weimer/arkansas-passes-near-total-ban-abortion-new-law-says-abortion-crime" hreflang="en">Arkansas Passes Near-Total Ban on Abortion – New Law Says Abortion is ‘Crime Against Humanity’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Quinn Weimer | March 10,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/national/susan-jones/rep-hice-these-tragedies-reveal-we-have-spiritual-problem-country" hreflang="en">Rep. Hice: 'These Tragedies Reveal That We Have a Spiritual Problem in This Country'</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Susan Jones | March 24,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 </div>
 </div>
@@ -591,12 +593,12 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg-5">
 <div class="block block-views block-views-blockfront-views-block-8">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_8 js-view-dom-id-44e1d6937852519088895f2cb2b662fa270ecb6767aaf84fa12619b438239b6e">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_8 js-view-dom-id-9a39698e3f3f4646d2c9381321773bcfcf7972d4fcaae59635038dd8f76b6b7b">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-field-images"><div class="field-content"> <a href="/index.php/article/international/patrick-goodenough/asked-about-moscow-hosting-hezbollah-state-dept-doesnt"><img alt="Russian Foreign Minister Sergei Lavrov meets with a Hezbollah delegation led by Mohammed Raad in Moscow on Monday. (Photo: Russian foreign ministry)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/Lavrov-hezbRFM.jpg?itok=qdJ9LKj_" typeof="foaf:Image" width="700"/>
+<div class="views-field views-field-field-images"><div class="field-content"> <a href="/article/international/patrick-goodenough/rep-connolly-amendment-naming-china-global-health-bill"><img alt="Democrat Rep. Gerry Connolly of Virginia. (Photo by Graeme Jennings/Pool/AFP via Getty Images)" class="image-style-top-1-front-page img-fluid" height="350" src="https://cdn.cnsnews.com/styles/top_1_front_page/s3/2021-03/connolly-maskG%2Cjpg.jpg?itok=LfI7HHK6" typeof="foaf:Image" width="700"/>
 </a>
-</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/international/patrick-goodenough/asked-about-moscow-hosting-hezbollah-state-dept-doesnt" hreflang="en">Asked About Moscow Hosting Hezbollah, State Dep't. Doesn’t Mention Russia or the Terrorists</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 16,  2021</span></div>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/article/international/patrick-goodenough/rep-connolly-amendment-naming-china-global-health-bill" hreflang="en">Rep. Connolly: Amendment Naming China in Global Health Bill ‘Will Have Racial Ramifications in America’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 26,  2021</span></div>
 </div>
 </div>
 </div>
@@ -607,19 +609,19 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 offset-lg-1 col-lg-6">
 <div class="block block-views block-views-blockfront-views-block-10">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_10 js-view-dom-id-eaa7ce51ccbf2d32028a371877b122209a019a4f23226e79659a40c01a7f9006">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_10 js-view-dom-id-c016524025133abb2f84677956ce4bd45ed6ffc6d7dd348d34d53734b015eae4">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/international/james-carstensen/wave-eu-countries-halt-astrazeneca-over-blot-clot-fears-some" hreflang="en">Wave of EU Countries Halt AstraZeneca Over Blot Clot Fears; Some Experts Warn Against Overreaction</a></span></div><div class="views-field views-field-nothing"><span class="field-content">James Carstensen | March 16,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/international/patrick-goodenough/afghanistan-biden-makes-three-gaffes-30-seconds" hreflang="en">On Afghanistan, Biden Makes Three Gaffes in 30 Seconds</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 26,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/international/patrick-goodenough/south-africas-top-judge-resists-order-apologize-public-pro" hreflang="en">South Africa’s Top Judge Resists Order to Apologize for Public Pro-Israel Remarks</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 16,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/international/patrick-goodenough/north-korea-conducts-first-ballistic-missile-test-year" hreflang="en">North Korea Conducts First Ballistic Missile Test in a Year</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 24,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/international/patrick-goodenough/delivering-trumps-vision-first-majority-muslim-country" hreflang="en">Delivering on Trump’s Vision, First Majority-Muslim Country Opens Embassy in Israel’s Capital</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 15,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/international/patrick-goodenough/pushing-biden-armenian-genocide-recognition-senators-quote" hreflang="en">Pushing Biden for ‘Armenian Genocide’ Recognition, Senators Quote Him: ‘Silence Is Complicity’</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 25,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="/index.php/article/international/patrick-goodenough/biden-administration-insists-china-wont-dominate-talks" hreflang="en">Biden Administration Insists China Won't 'Dominate' Talks With Asian Allies</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 15,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="/article/international/patrick-goodenough/stop-interfering-slogans-appear-chinese-t-shirts-beijing" hreflang="en">‘Stop Interfering’ Slogans Appear on Chinese T-Shirts as Beijing Hits Back at Western Criticism</a></span></div><div class="views-field views-field-nothing"><span class="field-content">Patrick Goodenough | March 24,  2021</span></div><div class="views-field views-field-nothing-1"><span class="field-content"><hr/></span></div>
 </div>
 </div>
 </div>
@@ -637,16 +639,16 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg-6">
 <div class="block block-views block-views-blockfront-views-block-11">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_11 js-view-dom-id-e3997f31f83a7a4c65493273a72d3df61d6bd62549a0b08dd1bf31a2c34466dc">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_11 js-view-dom-id-9a6a989f3d93c4e495b8007fc171433526b41d2ef0f072bcfdf7e42737fa3f80">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/are-baby-boomers-and-millennials-ruining-america-part-one/" target="_blank"> Are Baby Boomers And Millennials Ruining America? Part One</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/are-baby-boomers-and-millennials-ruining-america-part-one/">-Liberty Nation</a></div></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/trump-to-cnn-miss-me-yet/" target="_blank">Trump To CNN – Miss Me Yet?</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/trump-to-cnn-miss-me-yet/">-Liberty Nation</a></div></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/is-joy-reid-making-a-career-from-race-baiting/" target="_blank">Is Joy Reid Making A Career From Race-Baiting?</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/is-joy-reid-making-a-career-from-race-baiting/">-Liberty Nation</a></div></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/does-joy-behar-have-enough-fuel-to-gaslight-the-views-audience/" target="_blank">Does Joy Behar Have Enough Fuel To Gaslight The View’s Audience?</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/does-joy-behar-have-enough-fuel-to-gaslight-the-views-audience/">-Liberty Nation</a></div></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/what-oprah-forgot-to-mention-about-the-marvelous-miss-markle/" target="_blank">What Oprah Forgot To Mention About The Marvelous Miss Markle</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/what-oprah-forgot-to-mention-about-the-marvelous-miss-markle/">-Liberty Nation</a></div></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/hit-and-run-journalism-greatest-threat-to-the-republic/" target="_blank">Hit-And-Run Journalism – Greatest Threat To The Republic?</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/hit-and-run-journalism-greatest-threat-to-the-republic/">-Liberty Nation</a></div></div>
 </div>
 </div>
 </div>
@@ -657,16 +659,16 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <div class="col-xs-12 col-lg-6">
 <div class="block block-views block-views-blockfront-views-block-12">
 <div class="content">
-<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_12 js-view-dom-id-f2f7116bd56dfeb76bafd44f02f8bb4496eda99dd0d87da37dd33d841c10dc23">
+<div class="views-element-container col-auto"><div class="view view-front-views view-id-front_views view-display-id-block_12 js-view-dom-id-e36384b3764fb4b0fa1ffdef3b5b070213f3b804a004217782fabc5e916b1748">
 <div class="view-content row">
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/tech-tyranny-shaping-the-next-generation/" target="_blank">Tech Tyranny: Shaping The Next Generation</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/tech-tyranny-shaping-the-next-generation/">-Liberty Nation</a></div></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/a-lesson-in-liberty-free-speech-slain-in-scotland/" target="_blank">A Lesson In Liberty: Free Speech Slain In Scotland</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/a-lesson-in-liberty-free-speech-slain-in-scotland/">-Liberty Nation</a></div></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/cuomo-accusers-multiply-media-struggles-to-ignore-them/" target="_blank">Cuomo Accusers Multiply – Media Struggles To Ignore Them</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/cuomo-accusers-multiply-media-struggles-to-ignore-them/">-Liberty Nation</a></div></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/hate-crimes-a-concept-manufactured-to-divide-us/" target="_blank">Hate Crimes: A Concept Manufactured To Divide Us</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/hate-crimes-a-concept-manufactured-to-divide-us/">-Liberty Nation</a></div></div>
 </div>
 <div class="views-row">
-<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/the-24-hour-news-cycle-is-a-manipulated-algorithm/" target="_blank">The 24-Hour News Cycle is a Manipulated Algorithm</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/the-24-hour-news-cycle-is-a-manipulated-algorithm/">-Liberty Nation</a></div></div>
+<div class="views-field views-field-title"><span class="field-content"><a href="https://www.libertynation.com/critical-race-theory-nothing-but-a-tool-for-hate/" target="_blank">Critical Race Theory – Nothing But A Tool For Hate?</a></span></div><div class="views-field views-field-field-link-1"><div class="field-content"><a href="https://www.libertynation.com/critical-race-theory-nothing-but-a-tool-for-hate/">-Liberty Nation</a></div></div>
 </div>
 </div>
 </div>
@@ -728,5 +730,5 @@ CNSNews has a full staff of credentialed journalists at its world headquarters i
 <script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","user":{"uid":0,"permissionsHash":"060b58b62cdf057386de855194a518267bb8ca53286a4d9603d30047085fba67"}}</script>
 <script src="/sites/default/files/js/js_sJP85Mv0O0fwwz-SnqGG3ZOGLYjpFeAwGlb_a7ARgls.js"></script>
 <script async="" defer="" src="https://mrc7.s3.amazonaws.com/intranet/deliverable/intranet.js" type="text/javascript"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"dd9de9ceae","applicationID":"452522458","transactionName":"ZFBSMEBXV0tSVkEPVl0acQdGX1ZWHEVUAVxsVlEHWlM=","queueTime":0,"applicationTime":43,"atts":"SBdRRghNREU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"dd9de9ceae","applicationID":"452522458","transactionName":"ZFBSMEBXV0tSVkEPVl0acQdGX1ZWHEVUAVxsVlEHWlM=","queueTime":0,"applicationTime":9,"atts":"SBdRRghNREU=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
 </html>

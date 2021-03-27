@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<title></title>
+<script type="text/javascript">
+/* <![CDATA[ */
+var evf_settings = {"currency_code":"USD","currency_thousands":",","currency_decimal":".","currency_symbol":"$","currency_symbol_pos":"left"}
+/* ]]> */
+</script>
+<meta content="max-image-preview:large" name="robots">
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://x22report.com/feed/" rel="alternate" title=" » Feed" type="application/rss+xml"/>
+<link href="https://x22report.com/comments/feed/" rel="alternate" title=" » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/x22report.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=2cc6b44821f578839819af918ab2fbfb"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://x22report.com/wp-includes/css/dist/block-library/style.min.css?ver=2cc6b44821f578839819af918ab2fbfb" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-includes/css/dist/block-library/theme.min.css?ver=2cc6b44821f578839819af918ab2fbfb" id="wp-block-library-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-includes/css/dist/components/style.min.css?ver=2cc6b44821f578839819af918ab2fbfb" id="wp-components-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/wptelegram-widget/assets/static/css/wptelegram-widget--blocks.4e9f1538.css?ver=1614277960" id="wptelegram-widget--blocks-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/custom-twitter-feeds-pro/css/ctf-styles.min.css?ver=1.14" id="ctf_styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-includes/css/dashicons.min.css?ver=2cc6b44821f578839819af918ab2fbfb" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/everest-forms/assets/css/everest-forms.css?ver=1.7.4" id="everest-forms-general-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.3.4" id="post-views-counter-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/top-bar-pro/inc/../css/topbar_style.min.css?ver=2cc6b44821f578839819af918ab2fbfb" id="topbar_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/wptelegram-widget/assets/static/css/wptelegram-widget--public.3d0c567f.css?ver=1614277960" id="wptelegram-widget--public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/everest-forms-pro/assets/css/everest-forms-pro-frontend.css?ver=1.3.9" id="everest-forms-pro-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/themes/colormag-pro/style.css?ver=3.1.1" id="colormag_style-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="colormag_style-inline-css" type="text/css">
+.colormag-button, blockquote, button, input[type=reset], input[type=button], input[type=submit], .home-icon.front_page_on, .main-navigation a:hover, .main-navigation ul li ul li a:hover, .main-navigation ul li ul li:hover>a, .main-navigation ul li.current-menu-ancestor>a, .main-navigation ul li.current-menu-item ul li a:hover, .main-navigation ul li.current-menu-item>a, .main-navigation ul li.current_page_ancestor>a, .main-navigation ul li.current_page_item>a, .main-navigation ul li:hover>a, .main-small-navigation li a:hover, .site-header .menu-toggle:hover, #masthead.colormag-header-classic .main-navigation ul ul.sub-menu li:hover > a, #masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-ancestor > a, #masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-item > a, #masthead.colormag-header-clean #site-navigation .menu-toggle:hover, #masthead.colormag-header-clean #site-navigation.main-small-navigation .menu-toggle, #masthead.colormag-header-classic #site-navigation.main-small-navigation .menu-toggle, #masthead .main-small-navigation li:hover > a, #masthead .main-small-navigation li.current-page-ancestor > a, #masthead .main-small-navigation li.current-menu-ancestor > a, #masthead .main-small-navigation li.current-page-item > a, #masthead .main-small-navigation li.current-menu-item > a, #masthead.colormag-header-classic #site-navigation .menu-toggle:hover, .main-navigation ul li.focus > a, #masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.focus > a, .main-small-navigation .current-menu-item>a, .main-small-navigation .current_page_item>a, #masthead.colormag-header-clean .main-small-navigation li:hover > a, #masthead.colormag-header-clean .main-small-navigation li.current-page-ancestor > a, #masthead.colormag-header-clean .main-small-navigation li.current-menu-ancestor > a, #masthead.colormag-header-clean .main-small-navigation li.current-page-item > a, #masthead.colormag-header-clean .main-small-navigation li.current-menu-item > a, #main .breaking-news-latest, .fa.search-top:hover, .widget_featured_posts .article-content .above-entry-meta .cat-links a, .widget_call_to_action .btn--primary, .colormag-footer--classic .footer-widgets-area .widget-title span::before, .colormag-footer--classic-bordered .footer-widgets-area .widget-title span::before, .widget_featured_posts .widget-title span, .widget_featured_slider .slide-content .above-entry-meta .cat-links a, .widget_highlighted_posts .article-content .above-entry-meta .cat-links a, .category-slide-next, .category-slide-prev, .slide-next, .slide-prev, .tabbed-widget ul li, #content .wp-pagenavi .current,#content .wp-pagenavi a:hover, #secondary .widget-title span, #tertiary .widget-title span, #content .post .article-content .above-entry-meta .cat-links a, .page-header .page-title span, .entry-meta .post-format i, .format-link, .more-link, .pagination span, .comments-area .comment-author-link span, .footer-widgets-area .widget-title span, .advertisement_above_footer .widget-title span, .sub-toggle, .error, #primary .widget-title span, .related-posts-wrapper.style-three .article-content .entry-title a:hover:before, .widget_slider_area .widget-title span, .widget_beside_slider .widget-title span, .top-full-width-sidebar .widget-title span, .wp-block-quote, .wp-block-quote.is-style-large, .wp-block-quote.has-text-align-right{background-color:#3675b5;}a, #masthead .main-small-navigation li:hover > .sub-toggle i, #masthead .main-small-navigation li.current-page-ancestor > .sub-toggle i, #masthead .main-small-navigation li.current-menu-ancestor > .sub-toggle i, #masthead .main-small-navigation li.current-page-item > .sub-toggle i, #masthead .main-small-navigation li.current-menu-item > .sub-toggle i, #masthead.colormag-header-classic #site-navigation .fa.search-top:hover, #masthead.colormag-header-classic #site-navigation.main-small-navigation .random-post a:hover .fa-random, #masthead.colormag-header-classic #site-navigation.main-navigation .random-post a:hover .fa-random, #masthead.colormag-header-classic .breaking-news .newsticker a:hover, .dark-skin #masthead.colormag-header-classic #site-navigation.main-navigation .home-icon:hover .fa, #masthead.colormag-header-classic .main-navigation .home-icon a:hover .fa, .byline a:hover, .comments a:hover, .edit-link a:hover, .posted-on a:hover, .social-links:not(.search-random-icons-container .social-links) i.fa:hover, .tag-links a:hover, #masthead.colormag-header-clean .social-links li:hover i.fa, #masthead.colormag-header-classic .social-links li:hover i.fa, #masthead.colormag-header-clean .breaking-news .newsticker a:hover, .widget_featured_posts .article-content .entry-title a:hover, .widget_featured_slider .slide-content .below-entry-meta .byline a:hover, .widget_featured_slider .slide-content .below-entry-meta .comments a:hover, .widget_featured_slider .slide-content .below-entry-meta .posted-on a:hover, .widget_featured_slider .slide-content .entry-title a:hover, .widget_block_picture_news.widget_featured_posts .article-content .entry-title a:hover, .widget_highlighted_posts .article-content .below-entry-meta .byline a:hover, .widget_highlighted_posts .article-content .below-entry-meta .comments a:hover, .widget_highlighted_posts .article-content .below-entry-meta .posted-on a:hover, .widget_highlighted_posts .article-content .entry-title a:hover, i.fa-arrow-up, i.fa-arrow-down, #site-title a, #content .post .article-content .entry-title a:hover, .entry-meta .byline i, .entry-meta .cat-links i, .entry-meta a, .post .entry-title a:hover, .search .entry-title a:hover, .entry-meta .comments-link a:hover, .entry-meta .edit-link a:hover, .entry-meta .posted-on a:hover, .entry-meta .tag-links a:hover, .single #content .tags a:hover, .count, .next a:hover, .previous a:hover, .related-posts-main-title .fa, .single-related-posts .article-content .entry-title a:hover, .pagination a span:hover, #content .comments-area a.comment-edit-link:hover, #content .comments-area a.comment-permalink:hover, #content .comments-area article header cite a:hover, .comments-area .comment-author-link a:hover, .comment .comment-reply-link:hover, .nav-next a, .nav-previous a, #colophon .footer-menu ul li a:hover, .footer-widgets-area a:hover, a#scroll-up i, .main-small-navigation li.current-menu-item > .sub-toggle i, .num-404, .related-posts-wrapper-flyout .entry-title a:hover, .human-diff-time .human-diff-time-display:hover{color:#3675b5;}#site-navigation{border-top-color:#3675b5;}#masthead.colormag-header-classic .main-navigation ul ul.sub-menu li:hover, #masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-ancestor, #masthead.colormag-header-classic .main-navigation ul ul.sub-menu li.current-menu-item, #masthead.colormag-header-classic #site-navigation .menu-toggle:hover, #masthead.colormag-header-classic #site-navigation.main-small-navigation .menu-toggle, #masthead.colormag-header-classic .main-navigation ul > li:hover > a, #masthead.colormag-header-classic .main-navigation ul > li.current-menu-item > a, #masthead.colormag-header-classic .main-navigation ul > li.current-menu-ancestor > a, #masthead.colormag-header-classic .main-navigation ul li.focus > a, .pagination a span:hover{border-color:#3675b5;}.widget_featured_posts .widget-title, #secondary .widget-title, #tertiary .widget-title, .page-header .page-title, .footer-widgets-area .widget-title, .advertisement_above_footer .widget-title, #primary .widget-title, .widget_slider_area .widget-title, .widget_beside_slider .widget-title, .top-full-width-sidebar .widget-title{border-bottom-color:#3675b5;}.post .entry-title, #content .post .article-content .entry-title a, #content .post .single-title-above .entry-title a{color:#9b0101;}.type-page .entry-title, .type-page .entry-title a{color:#9b0101;}h1, h2, h3, h4, h5, h6{color:#9b0101;}.below-entry-meta .comments, .elementor .elementor-widget-wrap .tg-module-wrapper .tg-module-meta .tg-module-comments{display:none}
+</style>
+<link href="https://x22report.com/wp-content/themes/colormag-pro/fontawesome/css/font-awesome.min.css?ver=3.1.1" id="colormag-fontawesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Open+Sans%3A600%2Cregular&amp;subset=latin&amp;ver=3.1.1" id="colormag_googlefonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/all-in-one-video-gallery-premium/public/assets/css/backward-compatibility.css?ver=2.4.4" id="all-in-one-video-gallery-backward-compatibility-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/all-in-one-video-gallery-premium/public/assets/css/public.css?ver=2.4.4" id="all-in-one-video-gallery-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://x22report.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" id="addtoany-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="shortcode-for-current-date-script-js" src="https://x22report.com/wp-content/plugins/shortcode-for-current-date/dist/script.js?ver=2cc6b44821f578839819af918ab2fbfb" type="text/javascript"></script>
+<script id="jquery-core-js" src="https://x22report.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://x22report.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="addtoany-js" src="https://x22report.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" type="text/javascript"></script>
+<script id="topbar_js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var tpbr_settings = {"initial_state":"open","user_who":"notloggedin","fixed":"fixed","guests_or_users":"all","yn_close":"notclose","fontsize":"16","delay":"2000","border":"noborder","message":"No Report On Friday, March 12, Next Report On Sunday March 14","status":"inactive","yn_button":"nobutton","color":"#3675b5","button_text":"More Info","button_url":"https:\/\/x22report.com\/x22-report-status\/","button_behavior":"newwindow","is_admin_bar":"","close_url":"https:\/\/x22report.com\/wp-content\/plugins\/top-bar-pro\/inc\/..\/images\/close.png","excluded_ids":"","post_id":"8853","user_role":"guest","detect_sticky":"0","role_administrator":"1","role_editor":"1","role_author":"1","role_contributor":"1","role_subscriber":"1"};
+/* ]]> */
+</script>
+<script id="topbar_js-js" src="https://x22report.com/wp-content/plugins/top-bar-pro/inc/../js/tpbr.min.js?ver=2cc6b44821f578839819af918ab2fbfb" type="text/javascript"></script>
+<!--[if lte IE 8]>
+<script type='text/javascript' src='https://x22report.com/wp-content/themes/colormag-pro/js/html5shiv.min.js?ver=3.1.1' id='html5-js'></script>
+<![endif]-->
+<link href="https://x22report.com/wp-json/" rel="https://api.w.org/"/><link href="https://x22report.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://x22report.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+a2a_config.onclick=1;
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<!-- This site is using AdRotate v5.8 Professional to display their advertisements - https://ajdg.solutions/ -->
+<!-- AdRotate CSS -->
+<style media="screen" type="text/css">
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-2 {  margin: 0 auto; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+</style>
+<!-- /AdRotate CSS -->
+<!-- GA Google Analytics @ https://m0n.co/ga -->
+<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-38744088-1', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('send', 'pageview');
+		</script>
+<style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09f}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><!-- All in one Favicon 4.7 --><link href="https://x22report.com/wp-content/uploads/2019/08/favicon_new-3.ico" rel="shortcut icon"/>
+<style id="wp-custom-css" type="text/css">
+			.post-views.post-7.entry-meta{
+	display: inline-block;
+font-size: 10px;
+color: #888888;
+}		</style>
+</meta></head>
+<body class="home blog custom-background wp-embed-responsive everest-forms-no-js box-layout" data-rsssl="1">
+<div class="hfeed site" id="page">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<header class="site-header clearfix" id="masthead">
+<div class="clearfix" id="header-text-nav-container">
+<div class="news-bar">
+<div class="inner-wrap clearfix">
+<div class="social-links clearfix">
+<ul>
+</ul>
+</div><!-- .social-links -->
+</div>
+</div>
+<div class="inner-wrap">
+<div class="clearfix" id="header-text-nav-wrap">
+<div id="header-left-section">
+<div id="header-logo-image">
+</div><!-- #header-logo-image -->
+<div class="screen-reader-text" id="header-text">
+<h1 id="site-title">
+<a href="https://x22report.com/" rel="home" title=""></a>
+</h1>
+</div><!-- #header-text -->
+</div><!-- #header-left-section -->
+<div id="header-right-section">
+<div class="clearfix" id="header-right-sidebar">
+<aside class="widget widget_text clearfix" id="text-8"> <div class="textwidget"><p>Date: Fri - Mar 26, 2021         <strong>Reports:</strong>  Weekly Monday-Friday Released Between ~6:00-7:00 pm EST | Weekend Sunday Released Between ~6:00-7:00 pm EST</p>
+</div>
+</aside> </div>
+</div><!-- #header-right-section -->
+</div><!-- #header-text-nav-wrap -->
+</div><!-- .inner-wrap -->
+<div class="wp-custom-header" id="wp-custom-header"><div class="header-image-wrap"><a href="https://x22report.com/" rel="home" title=""><img alt="" class="header-image" height="361" src="https://x22report.com/wp-content/uploads/2020/06/logo_city_header-scaled.jpg" width="2560"/></a></div></div>
+<nav class="main-navigation clearfix" id="site-navigation">
+<div class="inner-wrap clearfix">
+<div class="home-icon front_page_on">
+<a href="https://x22report.com/" title="">
+<i class="fa fa-home"></i>
+</a>
+</div>
+<div class="search-random-icons-container">
+<div class="top-search-wrap">
+<i class="fa fa-search search-top"></i>
+<div class="search-form-top">
+<form action="https://x22report.com/" class="search-form searchform clearfix" method="get" role="search">
+<div class="search-wrap">
+<input class="s field" name="s" placeholder="Search" type="search" value=""/>
+<button class="search-icon" type="submit"></button>
+</div>
+</form><!-- .searchform -->
+</div>
+</div>
+</div>
+<p class="menu-toggle"></p>
+<div class="menu-primary-container"><ul class="menu" id="menu-x22-report"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035" id="menu-item-1035"><a href="https://x22report.com/patriot-news/">Patriot News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6838" id="menu-item-6838"><a href="https://x22report.com/x22-report-tv/">X22 Private Server</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7087" id="menu-item-7087"><a href="https://watch.x22report.tv/webtv-v3/">Private Server Login</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7148" id="menu-item-7148"><a href="#">Everything X22</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7241" id="menu-item-7241"><a href="https://x22report.com/x22-report-status/">X22 Report Status</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7151" id="menu-item-7151"><a href="https://x22report.com/official-accounts/">Official Accounts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7150" id="menu-item-7150"><a href="https://x22report.com/all-x22-reports/">All X22 Reports</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7152" id="menu-item-7152"><a href="https://x22report.com/x22-report-archives/">X22 Report Podcasts</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7149" id="menu-item-7149"><a href="https://x22report.com/all-spotlight-interviews/">All Spotlight Interviews</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2391" id="menu-item-2391"><a href="#">Resources</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1973" id="menu-item-1973"><a href="https://x22report.com/latest-from-qanon/">Latest From Qanon</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7233" id="menu-item-7233"><a href="https://x22report.com/twitter-news/">Twitter News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1164" id="menu-item-1164"><a href="https://x22report.com/border-wall/">Border Wall</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2390" id="menu-item-2390"><a href="https://x22report.com/paris-climate-accord-explained/">Paris Climate Accord Explained</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7979" id="menu-item-7979"><a href="#">Channels</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7981" id="menu-item-7981"><a href="https://x22report.com/bitcoin-ben/">Bitcoin Ben</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8044" id="menu-item-8044"><a href="https://x22report.com/jordan-sather/">Jordan Sather</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7998" id="menu-item-7998"><a href="https://x22report.com/praying-medic/">Praying Medic</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7990" id="menu-item-7990"><a href="https://x22report.com/redpill78/">RedPill78</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-767" id="menu-item-767"><a href="/contact-us">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-764" id="menu-item-764"><a href="/about">About</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1046" id="menu-item-1046"><a href="https://x22report.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-766" id="menu-item-766"><a href="/disclaimer">Disclaimer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7518" id="menu-item-7518"><a href="https://x22report.com/terms-of-service/">Terms Of Service</a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+</nav>
+</div><!-- #header-text-nav-container -->
+</header><!-- #masthead -->
+<div class="clearfix" id="main">
+<div class="top-full-width-sidebar inner-wrap clearfix">
+</div>
+<div class="inner-wrap clearfix">
+<div class="front-page-top-section clearfix">
+<div class="widget_slider_area">
+<section class="widget widget_text clearfix" id="text-4"><h3 class="widget-title"><span>Next Report On Friday</span></h3> <div class="textwidget"></div>
+</section> </div>
+<div class="widget_beside_slider">
+<section class="widget widget_a2a_share_save_widget clearfix" id="a2a_share_save_widget-11"><div class="a2a_kit a2a_kit_size_30 addtoany_list"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fx22report.com%2F&amp;linkname=" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fx22report.com%2F&amp;linkname=" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fx22report.com%2F&amp;linkname=" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fx22report.com%2F&amp;linkname=" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></section> </div>
+</div>
+<div class="main-content-section clearfix">
+<div id="primary">
+<div class="clearfix" id="content">
+<section class="widget 5e2078f827c24 clearfix" id="5e2078f827c24-4"><div class="a-single a-36"><a class="gofollow" data-track="MzYsMCwxLDYw" href="https://x22report.com/x22-report-tv/"><img alt="" class="aligncenter size-full wp-image-6840" height="250" src="https://x22report.com/wp-content/uploads/2020/09/secureserver_banner_new-scaled.jpg" width="800"> </img></a></div></section><section class="widget widget_block_picture_news widget_highlighted_posts widget_featured_meta widget_featured_posts clearfix" id="colormag_news_in_picture_widget-3">
+<h3 class="widget-title"><span>Latest X22 Report (podcast &amp; video)</span></h3>
+<div class="widget_block_picture_news_inner_wrap">
+<div class="widget_highlighted_post_area_no_slide" id="style5_slider_colormag_news_in_picture_widget-3">
+<div class="single-article">
+<figure><a href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/" title="25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436"><img alt="25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" loading="lazy" src="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03252021_lg-390x205.jpg" title="25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436" width="390"/></a></figure>
+<div class="article-content">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div> <h3 class="entry-title">
+<a href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/" title="25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436">
+				25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436			</a>
+</h3>
+<div class="below-entry-meta"><span class="posted-on"><a href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/" rel="bookmark" title="7:49 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-25T19:49:38-04:00">March 25, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+					x22report				</a>
+</span>
+</span>
+<span class="comments">
+<i class="fa fa-comment"></i><a href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/#respond">0</a> </span>
+</div> </div>
+</div>
+<div class="single-article">
+<figure><a href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/" title="You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435"><img alt="You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435" class="attachment-colormag-featured-post-medium size-colormag-featured-post-medium wp-post-image" height="205" loading="lazy" src="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03242021_lg-390x205.jpg" title="You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435" width="390"/></a></figure>
+<div class="article-content">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div> <h3 class="entry-title">
+<a href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/" title="You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435">
+				You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435			</a>
+</h3>
+<div class="below-entry-meta"><span class="posted-on"><a href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/" rel="bookmark" title="7:19 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-24T19:19:33-04:00">March 24, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+					x22report				</a>
+</span>
+</span>
+<span class="comments">
+<i class="fa fa-comment"></i><a href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/#respond">0</a> </span>
+</div> </div>
+</div>
+</div>
+</div>
+</section><section class="widget 5e2078f827c24 clearfix" id="5e2078f827c24-14"><!-- Error, Ad (40) is not available at this time due to schedule/budgeting/geolocation/mobile restrictions! --></section><section class="widget_text widget widget_custom_html clearfix" id="custom_html-59"><div class="textwidget custom-html-widget"><div id="ld-4795-5000"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13499335648425062,size:[0, 0],id:"ld-4795-5000"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></div></section><section class="widget_text widget widget_custom_html clearfix" id="custom_html-69"><h3 class="widget-title"><span>Unmasked: Have we uncovered the truth about the 2020 election?</span></h3><div class="textwidget custom-html-widget"><center><iframe allowfullscreen="" class="rumble" frameborder="0" height="280" src="https://rumble.com/embed/vb3171/?pub=2hzb1" width="500"></iframe></center><br/></div></section><section class="widget aiovg-widget-videos clearfix" id="aiovg-widget-videos-6"><h3 class="widget-title"><span>Latest Episodes From Other Channels</span></h3>
+<div class="aiovg aiovg-videos aiovg-videos-template-classic">
+<div class="aiovg-row">
+<div class="aiovg-col aiovg-col-2">
+<div class="aiovg-thumbnail aiovg-thumbnail-style-image-top" data-id="8871">
+<a class="aiovg-responsive-container" href="https://x22report.com/aiovg_videos/bidens-first-press-conference-a-disaster-dem-defends-dead-voters-us-navy-reveals-new-ufo-case/" style="padding-bottom: 56.25%;">
+<img alt="Biden’s First Press Conference A Disaster, Dem Defends Dead Voters &amp; US Navy Reveals New UFO Case" class="aiovg-responsive-element" src="https://x22report.com/wp-content/uploads/everest_forms_uploads/7808-7cc796d1f381ca4c4484bd0216a00df6/train-wreck-752b1c1f966dee1c96f51e3a8ee72ecb.jpg"/>
+<div class="aiovg-play-icon"></div>
+</a>
+<div class="aiovg-caption">
+<div class="aiovg-title">
+<a class="aiovg-link-title" href="https://x22report.com/aiovg_videos/bidens-first-press-conference-a-disaster-dem-defends-dead-voters-us-navy-reveals-new-ufo-case/">Biden’s First Press Conference A Disaster, Dem Defends Dead Voters &amp; US Navy Reveals New UFO Case</a>
+</div>
+</div>
+</div>
+</div>
+<div class="aiovg-col aiovg-col-2">
+<div class="aiovg-thumbnail aiovg-thumbnail-style-image-top" data-id="8870">
+<a class="aiovg-responsive-container" href="https://x22report.com/aiovg_videos/occams-razor-with-redpill78-craig-mason-ep-76/" style="padding-bottom: 56.25%;">
+<img alt="Occam’s Razor With RedPill78 &amp; Craig Mason Ep. 76" class="aiovg-responsive-element" src="https://x22report.com/wp-content/uploads/everest_forms_uploads/7808-7cc796d1f381ca4c4484bd0216a00df6/Occams-Razor-76-752b1c1f966dee1c96f51e3a8ee72ecb.jpg"/>
+<div class="aiovg-play-icon"></div>
+</a>
+<div class="aiovg-caption">
+<div class="aiovg-title">
+<a class="aiovg-link-title" href="https://x22report.com/aiovg_videos/occams-razor-with-redpill78-craig-mason-ep-76/">Occam’s Razor With RedPill78 &amp; Craig Mason Ep. 76</a>
+</div>
+</div>
+</div>
+</div>
+</div></div></section><section class="widget aiovg-widget-videos clearfix" id="aiovg-widget-videos-3"><h3 class="widget-title"><span>Latest X22 Report Spotlight Interview</span></h3>
+<div class="aiovg aiovg-videos aiovg-videos-template-classic">
+<div class="aiovg-row">
+<div class="aiovg-col aiovg-col-2">
+<div class="aiovg-thumbnail aiovg-thumbnail-style-image-top" data-id="8868">
+<a class="aiovg-responsive-container" href="https://x22report.com/aiovg_videos/bob-kudla-cb-clear-message-failed-gold-will-follow-bitcoin-fiat-currency-is-doomed/" style="padding-bottom: 56.25%;">
+<img alt="Bob Kudla – [CB] Clear Message Failed, Gold Will Follow Bitcoin, Fiat Currency Is Doomed" class="aiovg-responsive-element" src="https://x22report.com/wp-content/uploads/2020/12/x22_studio_splash_screen_bob_kulda_black.jpg"/>
+<div class="aiovg-play-icon"></div>
+</a>
+<div class="aiovg-caption">
+<div class="aiovg-title">
+<a class="aiovg-link-title" href="https://x22report.com/aiovg_videos/bob-kudla-cb-clear-message-failed-gold-will-follow-bitcoin-fiat-currency-is-doomed/">Bob Kudla – [CB] Clear Message Failed, Gold Will Follow Bitcoin, Fiat Currency Is Doomed</a>
+</div>
+</div>
+</div>
+</div>
+<div class="aiovg-col aiovg-col-2">
+<div class="aiovg-thumbnail aiovg-thumbnail-style-image-top" data-id="8794">
+<a class="aiovg-responsive-container" href="https://x22report.com/aiovg_videos/claudio-grass-there-is-a-war-on-freedom-the-people-will-fight-back-the-light-is-coming/" style="padding-bottom: 56.25%;">
+<img alt="Claudio Grass – There Is A War On Freedom, The People Will Fight Back, The Light Is Coming" class="aiovg-responsive-element" src="https://x22report.com/wp-content/uploads/2021/03/x22_studio_splash_screen_claudio_grass.jpg"/>
+<div class="aiovg-play-icon"></div>
+</a>
+<div class="aiovg-caption">
+<div class="aiovg-title">
+<a class="aiovg-link-title" href="https://x22report.com/aiovg_videos/claudio-grass-there-is-a-war-on-freedom-the-people-will-fight-back-the-light-is-coming/">Claudio Grass – There Is A War On Freedom, The People Will Fight Back, The Light Is Coming</a>
+</div>
+</div>
+</div>
+</div>
+</div></div></section><section class="widget widget_feedzy_wp_widget clearfix" id="feedzy_wp_widget-6"><h3 class="widget-title"><span>Latest Patriot News</span></h3><div class="feedzy-lazy" data-_dry_run_tags_="" data-_dryrun_="no" data-amp="yes" data-classname="" data-default="https://x22report.com/wp-content/uploads/2019/08/news.jpg" data-error_empty="" data-feed_title="no" data-feeds="https://thefederalist.com/feed/,https://www.thegatewaypundit.com/feed/,https://www.theepochtimes.com/feed,https://feeds.feedburner.com/zerohedge/feed,https://www.washingtonexaminer.com/tag/politics.rss,https://uncoverdc.com/feed/,https://dailycaller.com/feed/,https://feeds.feedburner.com/breitbart" data-follow="no" data-http="default" data-keywords_ban="" data-keywords_inc="" data-keywords_title="" data-lazy="yes" data-max="4" data-meta="auto" data-multiple_meta="" data-offset="" data-refresh="1_hours" data-size="35" data-sort="date_desc" data-summary="yes" data-summarylength="200" data-target="_blank" data-thumb="yes" data-title="100">Loading...</div></section><section class="widget_text widget widget_custom_html clearfix" id="custom_html-37"><div class="textwidget custom-html-widget"><a href="/sentinel-alerts/">More news...</a>
+<br/>
+<br/>
+<div id="ld-2628-4981"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12241008142517350,size:[0, 0],id:"ld-2628-4981"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+<br/>
+<br/></div></section><section class="widget_text widget widget_custom_html clearfix" id="custom_html-14"><h3 class="widget-title"><span>All X22 Reports (podcast &amp; video)</span></h3><div class="textwidget custom-html-widget"></div></section>
+<div class="article-container">
+<article class="post-8853 post type-post status-publish format-standard has-post-thumbnail hentry category-reports" id="post-8853">
+<div class="featured-image">
+<a href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/" title="25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436">
+<img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="389" loading="lazy" sizes="(max-width: 700px) 100vw, 700px" src="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03252021_lg.jpg" srcset="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03252021_lg.jpg 700w, https://x22report.com/wp-content/uploads/2021/03/youtube_website_03252021_lg-300x167.jpg 300w" width="700"/> </a>
+</div>
+<div class="article-content clearfix">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div>
+<header class="entry-header">
+<h2 class="entry-title">
+<a href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/" title="25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436">25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436</a>
+</h2>
+</header>
+<div class="below-entry-meta">
+<span class="posted-on"><a href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/" rel="bookmark" title="7:49 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-25T19:49:38-04:00">March 25, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+						x22report					</a>
+</span>
+</span>
+<span class="comments">
+<a href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/#respond"><i class="fa fa-comment"></i> 0 Comments</a> </span>
+</div>
+<div class="entry-content clearfix">
+<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="addtoany_header">SPREAD THE WORD</div><div class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-title="25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436" data-a2a-url="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fx22report.com%2F25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436%2F&amp;linkname=25th%20Ready%20For%20%5BJB%5D%2C%20How%20Do%20You%20Sneak%20One%20In%2C%20Scavino%20Stay%20Strong%20%E2%80%93%20Ep.%202436" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fx22report.com%2F25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436%2F&amp;linkname=25th%20Ready%20For%20%5BJB%5D%2C%20How%20Do%20You%20Sneak%20One%20In%2C%20Scavino%20Stay%20Strong%20%E2%80%93%20Ep.%202436" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fx22report.com%2F25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436%2F&amp;linkname=25th%20Ready%20For%20%5BJB%5D%2C%20How%20Do%20You%20Sneak%20One%20In%2C%20Scavino%20Stay%20Strong%20%E2%80%93%20Ep.%202436" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fx22report.com%2F25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436%2F&amp;linkname=25th%20Ready%20For%20%5BJB%5D%2C%20How%20Do%20You%20Sneak%20One%20In%2C%20Scavino%20Stay%20Strong%20%E2%80%93%20Ep.%202436" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><iframe allowtransparency="true" data-name="pb-iframe-player" height="150" loading="lazy" scrolling="no" src="https://www.podbean.com/player-v2/?i=r7x6d-fedb8c-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Arial&amp;skin=2&amp;btn-skin=4" style="border: none; min-width: min(100%, 430px);" title="Ep. 2436 - 25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong" width="100%"></iframe><br>
+</br></p>
+<div id="ld-9497-5862"></div>
+<p><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12400444173676646,size:[0, 0],id:"ld-9497-5862"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></p>
+<a class="more-link" href="https://x22report.com/25th-ready-for-jb-how-do-you-sneak-one-in-scavino-stay-strong-ep-2436/" title="25th Ready For [JB], How Do You Sneak One In, Scavino Stay Strong – Ep. 2436">
+<span>Read more</span>
+</a>
+</div>
+</div>
+</article>
+<article class="post-8840 post type-post status-publish format-standard has-post-thumbnail hentry category-reports" id="post-8840">
+<div class="featured-image">
+<a href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/" title="You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435">
+<img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="389" loading="lazy" sizes="(max-width: 700px) 100vw, 700px" src="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03242021_lg.jpg" srcset="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03242021_lg.jpg 700w, https://x22report.com/wp-content/uploads/2021/03/youtube_website_03242021_lg-300x167.jpg 300w" width="700"/> </a>
+</div>
+<div class="article-content clearfix">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div>
+<header class="entry-header">
+<h2 class="entry-title">
+<a href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/" title="You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435">You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435</a>
+</h2>
+</header>
+<div class="below-entry-meta">
+<span class="posted-on"><a href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/" rel="bookmark" title="7:19 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-24T19:19:33-04:00">March 24, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+						x22report					</a>
+</span>
+</span>
+<span class="comments">
+<a href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/#respond"><i class="fa fa-comment"></i> 0 Comments</a> </span>
+</div>
+<div class="entry-content clearfix">
+<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="addtoany_header">SPREAD THE WORD</div><div class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-title="You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435" data-a2a-url="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fx22report.com%2Fyou-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435%2F&amp;linkname=You%20Are%20Watching%20A%20Show%2C%20Moves%20%26%20Countermoves%2C%20Establishment%20Panic%20%E2%80%93%20Ep.%202435" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fx22report.com%2Fyou-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435%2F&amp;linkname=You%20Are%20Watching%20A%20Show%2C%20Moves%20%26%20Countermoves%2C%20Establishment%20Panic%20%E2%80%93%20Ep.%202435" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fx22report.com%2Fyou-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435%2F&amp;linkname=You%20Are%20Watching%20A%20Show%2C%20Moves%20%26%20Countermoves%2C%20Establishment%20Panic%20%E2%80%93%20Ep.%202435" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fx22report.com%2Fyou-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435%2F&amp;linkname=You%20Are%20Watching%20A%20Show%2C%20Moves%20%26%20Countermoves%2C%20Establishment%20Panic%20%E2%80%93%20Ep.%202435" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><iframe allowtransparency="true" data-name="pb-iframe-player" height="150" loading="lazy" scrolling="no" src="https://www.podbean.com/player-v2/?i=n7vhp-fec289-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Arial&amp;skin=2&amp;btn-skin=4" style="border: none; min-width: min(100%, 430px);" title="Ep. 2435 - You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic" width="100%"></iframe><br>
+</br></p>
+<div id="ld-9497-5862"></div>
+<p><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12400444173676646,size:[0, 0],id:"ld-9497-5862"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></p>
+<a class="more-link" href="https://x22report.com/you-are-watching-a-show-moves-countermoves-establishment-panic-ep-2435/" title="You Are Watching A Show, Moves &amp; Countermoves, Establishment Panic – Ep. 2435">
+<span>Read more</span>
+</a>
+</div>
+</div>
+</article>
+<article class="post-8824 post type-post status-publish format-standard has-post-thumbnail hentry category-reports" id="post-8824">
+<div class="featured-image">
+<a href="https://x22report.com/what-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434/" title="What We Are Witnessing Is The Destruction Of The Old Guard, Clock Activated – Ep. 2434">
+<img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="389" loading="lazy" sizes="(max-width: 700px) 100vw, 700px" src="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03232021_lg.jpg" srcset="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03232021_lg.jpg 700w, https://x22report.com/wp-content/uploads/2021/03/youtube_website_03232021_lg-300x167.jpg 300w" width="700"/> </a>
+</div>
+<div class="article-content clearfix">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div>
+<header class="entry-header">
+<h2 class="entry-title">
+<a href="https://x22report.com/what-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434/" title="What We Are Witnessing Is The Destruction Of The Old Guard, Clock Activated – Ep. 2434">What We Are Witnessing Is The Destruction Of The Old Guard, Clock Activated – Ep. 2434</a>
+</h2>
+</header>
+<div class="below-entry-meta">
+<span class="posted-on"><a href="https://x22report.com/what-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434/" rel="bookmark" title="6:47 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-23T18:47:17-04:00">March 23, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+						x22report					</a>
+</span>
+</span>
+<span class="comments">
+<a href="https://x22report.com/what-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434/#respond"><i class="fa fa-comment"></i> 0 Comments</a> </span>
+</div>
+<div class="entry-content clearfix">
+<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="addtoany_header">SPREAD THE WORD</div><div class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-title="What We Are Witnessing Is The Destruction Of The Old Guard, Clock Activated – Ep. 2434" data-a2a-url="https://x22report.com/what-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fx22report.com%2Fwhat-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434%2F&amp;linkname=What%20We%20Are%20Witnessing%20Is%20The%20Destruction%20Of%20The%20Old%20Guard%2C%20Clock%20Activated%20%E2%80%93%20Ep.%202434" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fx22report.com%2Fwhat-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434%2F&amp;linkname=What%20We%20Are%20Witnessing%20Is%20The%20Destruction%20Of%20The%20Old%20Guard%2C%20Clock%20Activated%20%E2%80%93%20Ep.%202434" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fx22report.com%2Fwhat-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434%2F&amp;linkname=What%20We%20Are%20Witnessing%20Is%20The%20Destruction%20Of%20The%20Old%20Guard%2C%20Clock%20Activated%20%E2%80%93%20Ep.%202434" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fx22report.com%2Fwhat-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434%2F&amp;linkname=What%20We%20Are%20Witnessing%20Is%20The%20Destruction%20Of%20The%20Old%20Guard%2C%20Clock%20Activated%20%E2%80%93%20Ep.%202434" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><iframe allowtransparency="true" data-name="pb-iframe-player" height="150" loading="lazy" scrolling="no" src="https://www.podbean.com/player-v2/?i=zn649-fea599-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Arial&amp;skin=2&amp;btn-skin=4" style="border: none;" title="Ep. 2434 - What We Are Witnessing Is The Destruction Of The Old Guard, Clock Activated" width="100%"></iframe><br>
+</br></p>
+<div id="ld-9497-5862"></div>
+<p><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12400444173676646,size:[0, 0],id:"ld-9497-5862"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></p>
+<a class="more-link" href="https://x22report.com/what-we-are-witnessing-is-the-destruction-of-the-old-guard-clock-activated-ep-2434/" title="What We Are Witnessing Is The Destruction Of The Old Guard, Clock Activated – Ep. 2434">
+<span>Read more</span>
+</a>
+</div>
+</div>
+</article>
+<article class="post-8808 post type-post status-publish format-standard has-post-thumbnail hentry category-reports" id="post-8808">
+<div class="featured-image">
+<a href="https://x22report.com/self-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433/" title="Self Destruction Will Immediately Show The World The TRUTH, It Had To Happen – Ep. 2433">
+<img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="389" loading="lazy" sizes="(max-width: 700px) 100vw, 700px" src="https://x22report.com/wp-content/uploads/2021/03/youtube_website_032202021_lg.jpg" srcset="https://x22report.com/wp-content/uploads/2021/03/youtube_website_032202021_lg.jpg 700w, https://x22report.com/wp-content/uploads/2021/03/youtube_website_032202021_lg-300x167.jpg 300w" width="700"/> </a>
+</div>
+<div class="article-content clearfix">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div>
+<header class="entry-header">
+<h2 class="entry-title">
+<a href="https://x22report.com/self-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433/" title="Self Destruction Will Immediately Show The World The TRUTH, It Had To Happen – Ep. 2433">Self Destruction Will Immediately Show The World The TRUTH, It Had To Happen – Ep. 2433</a>
+</h2>
+</header>
+<div class="below-entry-meta">
+<span class="posted-on"><a href="https://x22report.com/self-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433/" rel="bookmark" title="7:40 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-22T19:40:20-04:00">March 22, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+						x22report					</a>
+</span>
+</span>
+<span class="comments">
+<a href="https://x22report.com/self-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433/#respond"><i class="fa fa-comment"></i> 0 Comments</a> </span>
+</div>
+<div class="entry-content clearfix">
+<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="addtoany_header">SPREAD THE WORD</div><div class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-title="Self Destruction Will Immediately Show The World The TRUTH, It Had To Happen – Ep. 2433" data-a2a-url="https://x22report.com/self-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fx22report.com%2Fself-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433%2F&amp;linkname=Self%20Destruction%20Will%20Immediately%20Show%20The%20World%20The%20TRUTH%2C%20It%20Had%20To%20Happen%20%E2%80%93%20Ep.%202433" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fx22report.com%2Fself-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433%2F&amp;linkname=Self%20Destruction%20Will%20Immediately%20Show%20The%20World%20The%20TRUTH%2C%20It%20Had%20To%20Happen%20%E2%80%93%20Ep.%202433" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fx22report.com%2Fself-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433%2F&amp;linkname=Self%20Destruction%20Will%20Immediately%20Show%20The%20World%20The%20TRUTH%2C%20It%20Had%20To%20Happen%20%E2%80%93%20Ep.%202433" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fx22report.com%2Fself-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433%2F&amp;linkname=Self%20Destruction%20Will%20Immediately%20Show%20The%20World%20The%20TRUTH%2C%20It%20Had%20To%20Happen%20%E2%80%93%20Ep.%202433" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><iframe allowtransparency="true" data-name="pb-iframe-player" height="150" loading="lazy" scrolling="no" src="https://www.podbean.com/player-v2/?i=nj5jh-fe8a58-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Arial&amp;skin=2&amp;btn-skin=4" style="border: none;" title="Ep. 2433 - Self Destruction Will Immediately Show The World The TRUTH, It Had To Happen" width="100%"></iframe><br>
+</br></p>
+<div id="ld-9497-5862"></div>
+<p><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12400444173676646,size:[0, 0],id:"ld-9497-5862"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></p>
+<a class="more-link" href="https://x22report.com/self-destruction-will-immediately-show-the-world-the-truth-it-had-to-happen-ep-2433/" title="Self Destruction Will Immediately Show The World The TRUTH, It Had To Happen – Ep. 2433">
+<span>Read more</span>
+</a>
+</div>
+</div>
+</article>
+<article class="post-8796 post type-post status-publish format-standard has-post-thumbnail hentry category-reports" id="post-8796">
+<div class="featured-image">
+<a href="https://x22report.com/march-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432/" title="March Madness, Public Will Know Soon, When Does A Bird Sing? – Ep. 2432">
+<img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="375" loading="lazy" sizes="(max-width: 700px) 100vw, 700px" src="https://x22report.com/wp-content/uploads/2021/03/website_newsbrief_03212021_lg.jpg" srcset="https://x22report.com/wp-content/uploads/2021/03/website_newsbrief_03212021_lg.jpg 700w, https://x22report.com/wp-content/uploads/2021/03/website_newsbrief_03212021_lg-300x161.jpg 300w" width="700"/> </a>
+</div>
+<div class="article-content clearfix">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div>
+<header class="entry-header">
+<h2 class="entry-title">
+<a href="https://x22report.com/march-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432/" title="March Madness, Public Will Know Soon, When Does A Bird Sing? – Ep. 2432">March Madness, Public Will Know Soon, When Does A Bird Sing? – Ep. 2432</a>
+</h2>
+</header>
+<div class="below-entry-meta">
+<span class="posted-on"><a href="https://x22report.com/march-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432/" rel="bookmark" title="5:34 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-21T17:34:57-04:00">March 21, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+						x22report					</a>
+</span>
+</span>
+<span class="comments">
+<a href="https://x22report.com/march-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432/#respond"><i class="fa fa-comment"></i> 0 Comments</a> </span>
+</div>
+<div class="entry-content clearfix">
+<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="addtoany_header">SPREAD THE WORD</div><div class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-title="March Madness, Public Will Know Soon, When Does A Bird Sing? – Ep. 2432" data-a2a-url="https://x22report.com/march-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fx22report.com%2Fmarch-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432%2F&amp;linkname=March%20Madness%2C%20Public%20Will%20Know%20Soon%2C%20When%20Does%20A%20Bird%20Sing%3F%20%E2%80%93%20Ep.%202432" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fx22report.com%2Fmarch-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432%2F&amp;linkname=March%20Madness%2C%20Public%20Will%20Know%20Soon%2C%20When%20Does%20A%20Bird%20Sing%3F%20%E2%80%93%20Ep.%202432" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fx22report.com%2Fmarch-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432%2F&amp;linkname=March%20Madness%2C%20Public%20Will%20Know%20Soon%2C%20When%20Does%20A%20Bird%20Sing%3F%20%E2%80%93%20Ep.%202432" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fx22report.com%2Fmarch-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432%2F&amp;linkname=March%20Madness%2C%20Public%20Will%20Know%20Soon%2C%20When%20Does%20A%20Bird%20Sing%3F%20%E2%80%93%20Ep.%202432" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><iframe allowtransparency="true" data-name="pb-iframe-player" height="150" loading="lazy" scrolling="no" src="https://www.podbean.com/player-v2/?i=84e2w-fe696e-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Arial&amp;skin=2&amp;btn-skin=4" style="border: none;" title="Ep. 2432 - March Madness, Public Will Know Soon, When Does A Bird Sing?" width="100%"></iframe><br>
+</br></p>
+<div id="ld-9497-5862"></div>
+<p><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12400444173676646,size:[0, 0],id:"ld-9497-5862"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></p>
+<a class="more-link" href="https://x22report.com/march-madness-public-will-know-soon-when-does-a-bird-sing-ep-2432/" title="March Madness, Public Will Know Soon, When Does A Bird Sing? – Ep. 2432">
+<span>Read more</span>
+</a>
+</div>
+</div>
+</article>
+<article class="post-8779 post type-post status-publish format-standard has-post-thumbnail hentry category-reports" id="post-8779">
+<div class="featured-image">
+<a href="https://x22report.com/watch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431/" title="Watch The Water, Boomerang, Epstein, Story Goes Much Deeper – Ep. 2431">
+<img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="389" loading="lazy" sizes="(max-width: 700px) 100vw, 700px" src="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03192021_lg.jpg" srcset="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03192021_lg.jpg 700w, https://x22report.com/wp-content/uploads/2021/03/youtube_website_03192021_lg-300x167.jpg 300w" width="700"/> </a>
+</div>
+<div class="article-content clearfix">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div>
+<header class="entry-header">
+<h2 class="entry-title">
+<a href="https://x22report.com/watch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431/" title="Watch The Water, Boomerang, Epstein, Story Goes Much Deeper – Ep. 2431">Watch The Water, Boomerang, Epstein, Story Goes Much Deeper – Ep. 2431</a>
+</h2>
+</header>
+<div class="below-entry-meta">
+<span class="posted-on"><a href="https://x22report.com/watch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431/" rel="bookmark" title="7:05 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-19T19:05:27-04:00">March 19, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+						x22report					</a>
+</span>
+</span>
+<span class="comments">
+<a href="https://x22report.com/watch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431/#respond"><i class="fa fa-comment"></i> 0 Comments</a> </span>
+</div>
+<div class="entry-content clearfix">
+<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="addtoany_header">SPREAD THE WORD</div><div class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-title="Watch The Water, Boomerang, Epstein, Story Goes Much Deeper – Ep. 2431" data-a2a-url="https://x22report.com/watch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fx22report.com%2Fwatch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431%2F&amp;linkname=Watch%20The%20Water%2C%20Boomerang%2C%20Epstein%2C%20Story%20Goes%20Much%20Deeper%20%E2%80%93%20Ep.%202431" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fx22report.com%2Fwatch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431%2F&amp;linkname=Watch%20The%20Water%2C%20Boomerang%2C%20Epstein%2C%20Story%20Goes%20Much%20Deeper%20%E2%80%93%20Ep.%202431" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fx22report.com%2Fwatch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431%2F&amp;linkname=Watch%20The%20Water%2C%20Boomerang%2C%20Epstein%2C%20Story%20Goes%20Much%20Deeper%20%E2%80%93%20Ep.%202431" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fx22report.com%2Fwatch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431%2F&amp;linkname=Watch%20The%20Water%2C%20Boomerang%2C%20Epstein%2C%20Story%20Goes%20Much%20Deeper%20%E2%80%93%20Ep.%202431" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><iframe allowtransparency="true" data-name="pb-iframe-player" height="150" loading="lazy" scrolling="no" src="https://www.podbean.com/player-v2/?i=6kskv-fe4934-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Arial&amp;skin=2&amp;btn-skin=4" style="border: none;" title="Ep. 2431 - Watch The Water, Boomerang, Epstein, Story Goes Much Deeper" width="100%"></iframe><br/>
+</p>
+<div id="ld-9497-5862"></div>
+<p><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12400444173676646,size:[0, 0],id:"ld-9497-5862"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></p>
+<a class="more-link" href="https://x22report.com/watch-the-water-boomerang-epstein-story-goes-much-deeper-ep-2431/" title="Watch The Water, Boomerang, Epstein, Story Goes Much Deeper – Ep. 2431">
+<span>Read more</span>
+</a>
+</div>
+</div>
+</article>
+<article class="post-8766 post type-post status-publish format-standard has-post-thumbnail hentry category-reports" id="post-8766">
+<div class="featured-image">
+<a href="https://x22report.com/we-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430/" title="We Have Reached Cruising Altitude A While Ago, Prepare For Landing – Ep. 2430">
+<img alt="" class="attachment-colormag-featured-image size-colormag-featured-image wp-post-image" height="389" loading="lazy" sizes="(max-width: 700px) 100vw, 700px" src="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03182021_lg.jpg" srcset="https://x22report.com/wp-content/uploads/2021/03/youtube_website_03182021_lg.jpg 700w, https://x22report.com/wp-content/uploads/2021/03/youtube_website_03182021_lg-300x167.jpg 300w" width="700"/> </a>
+</div>
+<div class="article-content clearfix">
+<div class="above-entry-meta"><span class="cat-links"><a href="https://x22report.com/category/reports/" rel="category tag" style="background:#1e73be">Reports</a> </span></div>
+<header class="entry-header">
+<h2 class="entry-title">
+<a href="https://x22report.com/we-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430/" title="We Have Reached Cruising Altitude A While Ago, Prepare For Landing – Ep. 2430">We Have Reached Cruising Altitude A While Ago, Prepare For Landing – Ep. 2430</a>
+</h2>
+</header>
+<div class="below-entry-meta">
+<span class="posted-on"><a href="https://x22report.com/we-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430/" rel="bookmark" title="6:58 pm"><i class="fa fa-calendar-o"></i> <time class="entry-date published updated" datetime="2021-03-18T18:58:33-04:00">March 18, 2021</time></a></span>
+<span class="byline">
+<span class="author vcard">
+<i class="fa fa-user"></i>
+<a class="url fn n" href="https://x22report.com/author/x22report/" title="x22report">
+						x22report					</a>
+</span>
+</span>
+</div>
+<div class="entry-content clearfix">
+<div class="addtoany_share_save_container addtoany_content addtoany_content_top"><div class="addtoany_header">SPREAD THE WORD</div><div class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-title="We Have Reached Cruising Altitude A While Ago, Prepare For Landing – Ep. 2430" data-a2a-url="https://x22report.com/we-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430/"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fx22report.com%2Fwe-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430%2F&amp;linkname=We%20Have%20Reached%20Cruising%20Altitude%20A%20While%20Ago%2C%20Prepare%20For%20Landing%20%E2%80%93%20Ep.%202430" rel="nofollow noopener" target="_blank" title="Facebook"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fx22report.com%2Fwe-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430%2F&amp;linkname=We%20Have%20Reached%20Cruising%20Altitude%20A%20While%20Ago%2C%20Prepare%20For%20Landing%20%E2%80%93%20Ep.%202430" rel="nofollow noopener" target="_blank" title="Twitter"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fx22report.com%2Fwe-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430%2F&amp;linkname=We%20Have%20Reached%20Cruising%20Altitude%20A%20While%20Ago%2C%20Prepare%20For%20Landing%20%E2%80%93%20Ep.%202430" rel="nofollow noopener" target="_blank" title="Reddit"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fx22report.com%2Fwe-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430%2F&amp;linkname=We%20Have%20Reached%20Cruising%20Altitude%20A%20While%20Ago%2C%20Prepare%20For%20Landing%20%E2%80%93%20Ep.%202430" rel="nofollow noopener" target="_blank" title="Email"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div><p><iframe allowtransparency="true" data-name="pb-iframe-player" height="150" loading="lazy" scrolling="no" src="https://www.podbean.com/player-v2/?i=vmkwb-fe31b8-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Verdana&amp;skin=2&amp;btn-skin=4" style="border: none;" title="Ep. 2430 - We Have Reached Cruising Altitude A While Ago, Prepare For Landing" width="100%"></iframe><br/>
+</p>
+<div id="ld-9497-5862"></div>
+<p><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12400444173676646,size:[0, 0],id:"ld-9497-5862"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></p>
+<a class="more-link" href="https://x22report.com/we-have-reached-cruising-altitude-a-while-ago-prepare-for-landing-ep-2430/" title="We Have Reached Cruising Altitude A While Ago, Prepare For Landing – Ep. 2430">
+<span>Read more</span>
+</a>
+</div>
+</div>
+</article>
+<ul class="default-wp-page clearfix">
+<li class="previous"><a href="https://x22report.com/page/2/">← Previous</a></li>
+<li class="next"></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="secondary">
+<aside class="widget_text widget widget_custom_html clearfix" id="custom_html-47"><div class="textwidget custom-html-widget"><div id="ld-7490-8237"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13191901687788646,size:[0, 0],id:"ld-7490-8237"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></div></aside><aside class="widget_text widget widget_custom_html clearfix" id="custom_html-73"><h3 class="widget-title"><span>Get Episode Alerts First</span></h3><div class="textwidget custom-html-widget"><script data-webform-id="zIvCu" src="https://app.getresponse.com/view_webform_v2.js?u=vmtH&amp;webforms_id=zIvCu" type="text/javascript"></script></div></aside><aside class="widget widget_text clearfix" id="text-17"> <div class="textwidget"><p>The Episode Alerts are used for the following</p>
+<ol>
+<li>Alert you when a new Report is released</li>
+<li>Alert when everything is censored. This allows the X22 Report to contact you to let you know where to go next to listen to the reports.</li>
+</ol>
+</div>
+</aside><aside class="widget_text widget widget_custom_html clearfix" id="custom_html-25"><div class="textwidget custom-html-widget"><div id="ld-6872-959"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:12704908734573158,size:[0, 0],id:"ld-6872-959"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div></aside><aside class="widget widget_wptelegram_widget_ajax_widget clearfix" id="wptelegram_widget_ajax_widget-2"> <div>
+<div class="wptelegram-widget-wrap">
+<div class="wptelegram-widget-ajax-widget">
+<iframe frameborder="0" height="600" src="https://x22report.com/wptelegram/widget/view/@realx22report/" width="100%">Your Browser Does Not Support iframes!</iframe>
+</div>
+</div>
+</div>
+</aside><aside class="widget 5e2078f827c24 clearfix" id="5e2078f827c24-10"><center>.<div class="a-single a-39"><a class="gofollow" data-track="MzksMCwxLDYw" href="https://www.consciousstrength.net/ " rel="noopener" target="_blank"><img alt="Superfoods " class="wp-image-8071 size-full" height="282" src="https://x22report.com/wp-content/uploads/2021/01/jordan_sather_conscious_strength.jpg" width="300"/></a></div>.</center></aside><aside class="widget widget_media_image clearfix" id="media_image-3"><figure class="wp-caption alignnone" style="width: 878px"><img alt="" class="image wp-image-787 attachment-full size-full" height="680" loading="lazy" sizes="(max-width: 878px) 100vw, 878px" src="https://x22report.com/wp-content/uploads/2019/08/bitcoin_donation2.jpg" srcset="https://x22report.com/wp-content/uploads/2019/08/bitcoin_donation2.jpg 878w, https://x22report.com/wp-content/uploads/2019/08/bitcoin_donation2-300x232.jpg 300w, https://x22report.com/wp-content/uploads/2019/08/bitcoin_donation2-768x595.jpg 768w" style="max-width: 100%; height: auto;" width="878"/><figcaption class="wp-caption-text">13n2Fe31X5ySH7KEMWETrtBCsyubsbNs8Q</figcaption></figure></aside><aside class="widget 5e2078f829b5c clearfix" id="5e2078f829b5c-12"><h3 class="widget-title"><span>Other Videos</span></h3><div class="g g-4"><div class="g-single a-23"><center><blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">The Climate Scam Explained...<br/>.<a href="https://twitter.com/va_shiva?ref_src=twsrc%5Etfw">@va_shiva</a> WHY <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> did the RIGHT thing on pulling out of Paris Accords: <a href="https://t.co/n2IQhcvJFb">https://t.co/n2IQhcvJFb</a></p>— X22 Report (@X22Report) <a href="https://twitter.com/X22Report/status/1177590070154543104?ref_src=twsrc%5Etfw">September 27, 2019</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+</center>
+<br/></div></div></aside><aside class="widget_text widget widget_custom_html clearfix" id="custom_html-33"><div class="textwidget custom-html-widget"><iframe allowtransparency="true" data-name="pb-iframe-player" height="150" scrolling="no" src="https://www.podbean.com/player-v2/?i=upr6y-fee657-pb&amp;from=pb6admin&amp;download=1&amp;share=1&amp;download=1&amp;rtl=0&amp;fonts=Arial&amp;skin=2&amp;btn-skin=4" style="border: none; min-width: min(100%, 430px);" title="Bob Kudla - [CB] Clear Message Failed, Gold Will Follow Bitcoin, Fiat Currency Is Doomed" width="100%"></iframe>
+<center><a href="https://x22report.com/x22-report-archives/" rel="noopener" target="_blank">Click Here for the X22 Report Spotlight Audio</a></center></div></aside><aside class="widget widget_media_image clearfix" id="media_image-4"><h3 class="widget-title"><span>Mask Facts</span></h3><a href="https://aapsonline.org/mask-facts/"><img alt="" class="image wp-image-6261 attachment-medium size-medium" height="282" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://x22report.com/wp-content/uploads/2020/07/mask_facts-300x282.jpg" srcset="https://x22report.com/wp-content/uploads/2020/07/mask_facts-300x282.jpg 300w, https://x22report.com/wp-content/uploads/2020/07/mask_facts.jpg 630w" style="max-width: 100%; height: auto;" width="300"/></a></aside><aside class="widget 5e2078f829b5c clearfix" id="5e2078f829b5c-3"><h3 class="widget-title"><span>X22 Report Prepping</span></h3><div class="g g-3"><div class="g-single a-7"><center><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=tf_til&amp;ad_type=product_link&amp;tracking_id=x22report-20&amp;marketplace=amazon®ion=US&amp;placement=B001BKS3Z2&amp;asins=B001BKS3Z2&amp;linkId=f08cedc9425b38a6bac22116207a2f8f&amp;show_border=true&amp;link_opens_in_new_window=true&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" style="width:120px;height:240px;">
+</iframe></center></div></div></aside><aside class="widget 5e2078f827c24 clearfix" id="5e2078f827c24-2"><h3 class="widget-title"><span>Attacks Blocked for X22 Report</span></h3><div class="a-single a-31"><a href="" target="_blank"><img src="/wp-content/uploads/2020/05/attacks46.jpg"/></a></div></aside>
+</div>
+</div>
+<script nitro-exclude="">
+    if (!window.NITROPACK_STATE || window.NITROPACK_STATE != 'FRESH') {
+        var proxyPurgeOnly = 0;
+        if (typeof navigator.sendBeacon !== 'undefined') {
+            var nitroData = new FormData(); nitroData.append('nitroBeaconUrl', 'aHR0cHM6Ly9YMjJSZXBvcnQuY29tLw=='); nitroData.append('nitroBeaconCookies', 'W10='); nitroData.append('nitroBeaconHash', '950e9bd9e9509c00a9d1f6246f15decea6c3bfeee838bcc5e7885000bdeb4a6934c2caf717d22ea8773e9e15b5432c6855075129b577d7cb2e1eb1d8fab8849a'); nitroData.append('proxyPurgeOnly', ''); nitroData.append('layout', 'home'); navigator.sendBeacon(location.href, nitroData);
+        } else {
+            var xhr = new XMLHttpRequest(); xhr.open('POST', location.href, true); xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded'); xhr.send('nitroBeaconUrl=aHR0cHM6Ly9YMjJSZXBvcnQuY29tLw==&nitroBeaconCookies=W10=&nitroBeaconHash=950e9bd9e9509c00a9d1f6246f15decea6c3bfeee838bcc5e7885000bdeb4a6934c2caf717d22ea8773e9e15b5432c6855075129b577d7cb2e1eb1d8fab8849a&proxyPurgeOnly=&layout=home');
+        }
+    }
+</script> </div><!-- .inner-wrap -->
+</div><!-- #main -->
+<footer class="clearfix copyright-center colormag-footer--classic" id="colophon">
+<div class="footer-socket-wrapper clearfix">
+<div class="inner-wrap">
+<div class="footer-socket-area">
+<div class="footer-socket-right-section">
+<nav class="footer-menu clearfix">
+</nav>
+</div>
+<div class="footer-socket-left-section">
+<div class="copyright"><p>Copyright © 2021 X22 Report. All rights reserved.</p></div> </div>
+</div><!-- .footer-socket-area -->
+</div><!-- .inner-wrap -->
+</div><!-- .footer-socket-wrapper -->
+</footer><!-- #colophon -->
+<a href="#masthead" id="scroll-up"><i class="fa fa-chevron-up"></i></a>
+</div><!-- #page -->
+<!-- Powered by WPtouch Pro: 4.3.36 --> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace( /everest-forms-no-js/, 'everest-forms-js' );
+		document.body.className = c;
+	</script>
+<link href="https://x22report.com/wp-content/plugins/feedzy-rss-feeds/css/feedzy-rss-feeds.css?ver=3.5.2" id="feedzy-rss-feeds-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="adrotate-clicktracker-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var click_object = {"ajax_url":"https:\/\/x22report.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script id="adrotate-clicktracker-js" src="https://x22report.com/wp-content/plugins/adrotate-pro/library/jquery.adrotate.clicktracker.js" type="text/javascript"></script>
+<script id="wptelegram-widget--public-js" src="https://x22report.com/wp-content/plugins/wptelegram-widget/assets/static/js/wptelegram-widget--public.9d2950cc.js?ver=2337788dc405ca6332beb9f1e35f337a" type="text/javascript"></script>
+<script id="inputmask-js" src="https://x22report.com/wp-content/plugins/everest-forms/assets/js/inputmask/jquery.inputmask.bundle.min.js?ver=4.0.0-beta.58" type="text/javascript"></script>
+<script id="jquery-validate-js" src="https://x22report.com/wp-content/plugins/everest-forms/assets/js/jquery-validate/jquery.validate.min.js?ver=1.19.2" type="text/javascript"></script>
+<script id="everest-forms-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var everest_forms_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","submit":"Submit","disable_user_details":"no","everest_forms_data_save":"4bbb8507ab","i18n_messages_required":"This field is required.","i18n_messages_url":"Please enter a valid URL.","i18n_messages_email":"Please enter a valid email address.","i18n_messages_email_suggestion":"Did you mean {suggestion}?","i18n_messages_email_suggestion_title":"Click to accept this suggestion.","i18n_messages_confirm":"Field values do not match.","i18n_messages_check_limit":"You have exceeded number of allowed selections: {#}.","i18n_messages_number":"Please enter a valid number.","i18n_no_matches":"No matches found","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"i18n_no_countries":"No countries found","i18n_messages_phone":"Please enter a valid phone number.","i18n_messages_fileextension":"File type is not allowed.","i18n_messages_filesize":"File exceeds max size allowed."};
+/* ]]> */
+</script>
+<script id="everest-forms-js" src="https://x22report.com/wp-content/plugins/everest-forms/assets/js/frontend/everest-forms.min.js?ver=1.7.4" type="text/javascript"></script>
+<script id="everest-forms-pro-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var everest_forms_pro_params = {"plugin_url":"https:\/\/x22report.com\/wp-content\/plugins\/everest-forms-pro\/"};
+/* ]]> */
+</script>
+<script id="everest-forms-pro-js" src="https://x22report.com/wp-content/plugins/everest-forms-pro/assets/js/frontend/everest-forms-pro.min.js?ver=1.3.9" type="text/javascript"></script>
+<script id="conditional-logic-builder-js" src="https://x22report.com/wp-content/plugins/everest-forms-pro/assets/js/frontend/conditional-logic-frontend.min.js?ver=1.3.9" type="text/javascript"></script>
+<script id="colormag-navigation-js" src="https://x22report.com/wp-content/themes/colormag-pro/js/navigation.min.js?ver=3.1.1" type="text/javascript"></script>
+<script id="colormag-fitvids-js" src="https://x22report.com/wp-content/themes/colormag-pro/js/fitvids/jquery.fitvids.min.js?ver=3.1.1" type="text/javascript"></script>
+<script id="colormag-skip-link-focus-fix-js" src="https://x22report.com/wp-content/themes/colormag-pro/js/skip-link-focus-fix.min.js?ver=3.1.1" type="text/javascript"></script>
+<script id="colormag-custom-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var colormag_load_more = {"tg_nonce":"0b4e6a17b8","ajax_url":"https:\/\/x22report.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script id="colormag-custom-js" src="https://x22report.com/wp-content/themes/colormag-pro/js/colormag-custom.min.js?ver=3.1.1" type="text/javascript"></script>
+<script id="colormag-bxslider-js" src="https://x22report.com/wp-content/themes/colormag-pro/js/jquery.bxslider.min.js?ver=3.1.1" type="text/javascript"></script>
+<script id="colormag-loadmore-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var colormag_script_vars = {"no_more_posts":"No more post"};
+/* ]]> */
+</script>
+<script id="colormag-loadmore-js" src="https://x22report.com/wp-content/themes/colormag-pro/js/loadmore.min.js?ver=3.1.1" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://x22report.com/wp-includes/js/wp-embed.min.js?ver=2cc6b44821f578839819af918ab2fbfb" type="text/javascript"></script>
+<script id="feedzy-rss-feeds-lazy-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var feedzy = {"url":"https:\/\/x22report.com\/wp-json\/feedzy\/v1\/lazy\/","rest_nonce":"4745ec3e76","nonce":"62e9257a21"};
+/* ]]> */
+</script>
+<script id="feedzy-rss-feeds-lazy-js" src="https://x22report.com/wp-content/plugins/feedzy-rss-feeds/js/feedzy-lazy.js?ver=3.5.2" type="text/javascript"></script>
+</body>
+</html>

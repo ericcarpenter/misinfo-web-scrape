@@ -19,7 +19,7 @@ aa('init', {
 </script>
 <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"US","siteName":"Cato Institute","userUid":0});</script>
 <script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-1677831-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
-<script src="/sites/cato.org/files/hotjar/hotjar.script.js?qpvm5s"></script>
+<script src="/sites/cato.org/files/hotjar/hotjar.script.js?qqkyoh"></script>
 <link href="https://www.cato.org/blog" rel="canonical"/>
 <meta content="noodp" name="robots"/>
 <link href="https://www.cato.org/sites/cato.org/files/2021-02/cato-social-image-min.jpg" rel="image_src"/>
@@ -136,23 +136,23 @@ aa('init', {
   }
 </style>
 <title>Blog | Cato Institute</title>
-<link href="/build/sidebar/css/sidebar.css?qpvm5s" media="all" rel="stylesheet">
+<link href="/build/sidebar/css/sidebar.css?qqkyoh" media="all" rel="stylesheet">
 <link href="/sites/cato.org/files/css/css_NcTEC6mlTNBroFfLcoPyUmCz4tnwelKGKhYqcDOA1H0.css" media="all" rel="stylesheet">
-<link href="/build/blog_page/css/blog-page.css?qpvm5s" media="all" rel="stylesheet">
-<link href="/build/date_time/css/date-time.css?qpvm5s" media="all" rel="stylesheet">
+<link href="/build/blog_page/css/blog-page.css?qqkyoh" media="all" rel="stylesheet">
+<link href="/build/date_time/css/date-time.css?qqkyoh" media="all" rel="stylesheet">
 <link href="/sites/cato.org/files/css/css_zTlrHj8T5K0j4v-dvBU42uxy4Ide5WkHuamDCT7DKXs.css" media="all" rel="stylesheet"/>
-<link href="/build/expand_list/css/expand-list.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/site_section_header/css/site-section-header.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/site_section_menu/css/site-section-menu.css?qpvm5s" media="all" rel="stylesheet"/>
+<link href="/build/expand_list/css/expand-list.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/site_section_header/css/site-section-header.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/site_section_menu/css/site-section-menu.css?qqkyoh" media="all" rel="stylesheet"/>
 <link href="/sites/cato.org/files/css/css__Wi8zTgLPRabTWK-BO3qmtN7DJ8iY12sVT1R-axkHlw.css" media="all" rel="stylesheet"/>
-<link href="/build/cato_2020/css/bootstrap.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/cato_2020/css/app.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/cato_2020/css/component.pagination.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/cato_2020/css/component.tooltip.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/cato_2020/css/component.popover.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/cato_2020/css/component.entity-embed.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/cato_2020/css/component.blog-sidebar.css?qpvm5s" media="all" rel="stylesheet"/>
-<link href="/build/cato_2020/css/theme.transitions.css?qpvm5s" media="all" rel="stylesheet"/>
+<link href="/build/cato_2020/css/bootstrap.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/cato_2020/css/app.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/cato_2020/css/component.pagination.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/cato_2020/css/component.tooltip.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/cato_2020/css/component.popover.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/cato_2020/css/component.entity-embed.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/cato_2020/css/component.blog-sidebar.css?qqkyoh" media="all" rel="stylesheet"/>
+<link href="/build/cato_2020/css/theme.transitions.css?qqkyoh" media="all" rel="stylesheet"/>
 <!--[if lte IE 8]>
 <script src="/sites/cato.org/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
 <![endif]-->
@@ -181,14 +181,14 @@ aa('init', {
 <div class="navbar-brand">
 <a class="js-site-header-logo home-logo__container" href="/" rel="home">
 <svg aria-label="Cato Institute logo linking back to homepage" class="home-logo" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/logo/images/sprites.svg?qpvm5s#sprite-cato-logo"></use>
+<use xlink:href="/build/logo/images/sprites.svg?qqkyoh#sprite-cato-logo"></use>
 </svg>
 </a>
 </div>
 <a class="navbar-toggler js-mobile-navigation-toggle" href="javascript:void(0);">
 <div class="icon__wrapper">
 <svg class="icon icon--menu" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-menu"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-menu"></use>
 </svg>
 </div>
 <div class="navbar-toggler__text text-uppercase fs-xs mt-2">Menu</div>
@@ -197,12 +197,12 @@ aa('init', {
 <div class="flex-grow-1 d-flex flex-column h-100 justify-content-between js-header-menu">
 <nav aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" role="navigation">
 <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
-<ul class="header__nav header__nav--site justify-content-between align-items-center nav js-site-menu menu-level-0" data-datetime="2021-03-12T21:54:24+00:00" data-region="header_main_menu">
+<ul class="header__nav header__nav--site justify-content-between align-items-center nav js-site-menu menu-level-0" data-datetime="2021-03-26T14:25:50+00:00" data-region="header_main_menu">
 <li class="header__nav__item header__nav--site__item nav-item--expanded nav-item">
 <a class="header__nav__link header__nav--site__link js-mega-menu-link fs-xs text-uppercase js-site-menu-link nav-link" data-drupal-link-system-path="node/42736" href="/about">About</a>
 <div class="menu_link_content menu-link-contentmain view-mode-default header__nav__panel js-mega-menu-panel header__nav__panel--has-child-block header__nav__panel--has-child-menu" style="display: none">
 <div class="header__nav__panel__menu theme primary py-3">
-<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-12T21:54:24+00:00">
+<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-26T14:25:50+00:00">
 <li class="nav-item">
 <a class="text-uppercase js-site-menu-link fs-xs nav-link" data-drupal-link-system-path="node/43959" href="/about/annual-reports">Annual Reports</a>
 </li>
@@ -237,7 +237,7 @@ aa('init', {
 <a class="header__nav__link header__nav--site__link js-mega-menu-link fs-xs text-uppercase js-site-menu-link nav-link" data-drupal-link-system-path="people" href="/people">Experts</a>
 <div class="menu_link_content menu-link-contentmain view-mode-default header__nav__panel js-mega-menu-panel header__nav__panel--has-child-menu" style="display: none">
 <div class="header__nav__panel__menu theme primary py-3">
-<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-12T21:54:24+00:00">
+<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-26T14:25:50+00:00">
 <li class="nav-item">
 <a class="text-uppercase js-site-menu-link fs-xs nav-link" data-drupal-link-system-path="people/policy-scholars" href="/people/policy-scholars">Policy Scholars</a>
 </li>
@@ -255,7 +255,7 @@ aa('init', {
 <a class="header__nav__link header__nav--site__link js-mega-menu-link fs-xs text-uppercase js-site-menu-link nav-link" data-drupal-link-system-path="node/91472" href="/events">Events</a>
 <div class="menu_link_content menu-link-contentmain view-mode-default header__nav__panel js-mega-menu-panel header__nav__panel--has-child-block header__nav__panel--has-child-menu" style="display: none">
 <div class="header__nav__panel__menu theme primary py-3">
-<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-12T21:54:24+00:00">
+<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-26T14:25:50+00:00">
 <li class="nav-item">
 <a class="text-uppercase js-site-menu-link fs-xs nav-link" data-drupal-link-system-path="events/upcoming" href="/events/upcoming">Upcoming</a>
 </li>
@@ -281,7 +281,7 @@ aa('init', {
 <a class="header__nav__link header__nav--site__link js-mega-menu-link fs-xs text-uppercase js-site-menu-link nav-link" data-drupal-link-system-path="node/91474" href="/publications">Publications</a>
 <div class="menu_link_content menu-link-contentmain view-mode-default header__nav__panel js-mega-menu-panel header__nav__panel--has-child-block header__nav__panel--has-child-menu" style="display: none">
 <div class="header__nav__panel__menu theme primary py-3">
-<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-12T21:54:24+00:00">
+<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-26T14:25:50+00:00">
 <li class="nav-item">
 <a class="text-uppercase js-site-menu-link fs-xs nav-link" href="/studies">Studies</a>
 </li>
@@ -313,7 +313,7 @@ aa('init', {
 <a class="header__nav__link header__nav--site__link js-mega-menu-link fs-xs text-uppercase js-site-menu-link nav-link" href="https://securessl.cato.org/support/donate">Donate</a>
 <div class="menu_link_content menu-link-contentmain view-mode-default header__nav__panel js-mega-menu-panel header__nav__panel--has-child-menu" style="display: none">
 <div class="header__nav__panel__menu theme primary py-3">
-<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-12T21:54:24+00:00">
+<ul class="nav js-site-menu menu-level-1 flex-column" data-datetime="2021-03-26T14:25:50+00:00">
 <li class="nav-item">
 <a class="text-uppercase js-site-menu-link fs-xs nav-link" data-drupal-link-system-path="node/43832" href="/support">Sponsorship Benefits</a>
 </li>
@@ -335,7 +335,7 @@ aa('init', {
 <button class="input-group-button input-group-button--submit btn none" type="submit">
 <div class="icon__wrapper">
 <svg class="icon icon--search" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-search"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-search"></use>
 </svg>
 </div>
 </button>
@@ -349,7 +349,7 @@ aa('init', {
 </div>
 <nav aria-labelledby="issues-header-menu-label" id="issues-header-menu" role="navigation">
 <h2 class="visually-hidden" id="issues-header-menu-label">Issues</h2>
-<ul class="header__nav header__nav--issues nav menu-level-0 js-issues-menu" data-datetime="2021-03-12T21:54:03+00:00">
+<ul class="header__nav header__nav--issues nav menu-level-0 js-issues-menu" data-datetime="2021-03-26T14:24:23+00:00">
 <li class="nav-item nav-item--expanded header__nav__item header__nav--issues__item">
 <a class="nav-link nav-link--prominent header__nav__link header__nav--issues__link fs-xxl js-mega-menu-link js-issues-menu-link" href="/constitution-law">Constitution and Law</a>
 <div class="header__nav__panel header__nav__panel--has-child-menu js-mega-menu-panel">
@@ -548,7 +548,7 @@ aa('init', {
 <template class="js-expand-text"> <div>Blog</div>
 <div class="collapse__title__icon icon__wrapper">
 <svg class="icon icon--expand-more" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-expand-more"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-expand-more"></use>
 </svg>
 </div>
 </template>
@@ -556,7 +556,7 @@ aa('init', {
 <div>Blog</div>
 <div class="collapse__title__icon icon__wrapper">
 <svg class="icon icon--expand-less" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-expand-less"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-expand-less"></use>
 </svg>
 </div>
 </template>
@@ -604,7 +604,7 @@ aa('init', {
 <div class="views-element-container block block-views block-views-blockblog-topics-block-1 block-" id="block-cato-2020-views-block-blog-topics-block-1">
 <div class="fs-xs block--inner">
 <div>
-<div class="js-view-dom-id-67b7e95800693b19d287e67d58695cbf3375ad00c89b43f87cd44ad8f6eb7b5f block">
+<div class="js-view-dom-id-07fbc86408985e8adcd43fa6adc09320d06ec4869850606d7dacb8d26f5f1ac5 block">
 <div class="block__header">
 <h5 class="block__title d-flex mb-4 meta meta--large text-uppercase p-mb-last-child-0">
     Topics
@@ -835,29 +835,29 @@ aa('init', {
 </div>
 </div>
 <div class="sidebar__content p-mb-last-child-0"> <div class="views-element-container">
-<div class="js-view-dom-id-f75693c8e50721326f45d6798905337e2b1ab16945314348a69ad28d31f3df2e">
+<div class="js-view-dom-id-36e0d10e4646bbded0844b3aca0014e411efae8df267f06e2c9c10ac49abe702">
 <div class="spacer--standout--bottom spacer--nomargin--last-child">
-<article about="/blog/marijuana-federalism-can-work-south-dakota-too" class="blog-page" role="article">
+<article about="/blog/criminal-liability-wrong-tool-enforcing-election-laws" class="blog-page" role="article">
 <div class="blog-page__header mb-5">
 <div class="meta meta--default text-uppercase p-mb-last-child-0">
-<span class="date-time__date date-time__date--default">March 16, 2021</span> <span class="date-time__time date-time__time--default">2:50PM</span>
+<span class="date-time__date date-time__date--default">March 26, 2021</span> <span class="date-time__time date-time__time--default">3:25PM</span>
 </div>
-<h1 class="h2"><a href="/blog/marijuana-federalism-can-work-south-dakota-too"><span>Marijuana Federalism Can Work in South Dakota Too</span>
+<h1 class="h2"><a href="/blog/criminal-liability-wrong-tool-enforcing-election-laws"><span>Criminal Liability Is the Wrong Tool for Enforcing Election Laws</span>
 </a></h1>
 </div>
 <div class="blog-page__separator d-flex align-items-center mb-5">
 <div class="me-4 authors fs-xs fw-medium">
     By 
   
-            <a href="https://www.cato.org/people/trevor-burrus" hreflang="und">Trevor Burrus</a> and <a href="https://www.cato.org/people/stacy-hanson" hreflang="en">Stacy Hanson</a>
+            <a href="https://www.cato.org/people/jay-schweikert" hreflang="und">Jay Schweikert</a>
 </div>
 <hr class="blog-page__rule flex-grow-1"/>
-<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/marijuana-federalism-can-work-south-dakota-too">
+<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/criminal-liability-wrong-tool-enforcing-election-laws">
 <a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
 <div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
 <div class="icon__wrapper">
 <svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-share"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-share"></use>
 </svg>
 </div>
 <div class="text-icon-inline__content">
@@ -867,38 +867,38 @@ aa('init', {
 </a>
 <div class="popover-content js-popover-content"> <div class="fs-xl">
 <div class="js-share-icons icon-row d-flex align-items-center">
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/marijuana-federalism-can-work-south-dakota-too" href="https://twitter.com/intent/tweet?text=Marijuana%20Federalism%20Can%20Work%20in%20South%20Dakota%20Too&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fmarijuana-federalism-can-work-south-dakota-too&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/criminal-liability-wrong-tool-enforcing-election-laws" href="https://twitter.com/intent/tweet?text=Criminal%20Liability%20Is%20the%20Wrong%20Tool%20for%20Enforcing%20Election%20Laws&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcriminal-liability-wrong-tool-enforcing-election-laws&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-twitter"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-twitter"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/marijuana-federalism-can-work-south-dakota-too" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fmarijuana-federalism-can-work-south-dakota-too" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/criminal-liability-wrong-tool-enforcing-election-laws" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcriminal-liability-wrong-tool-enforcing-election-laws" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-facebook"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-facebook"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/marijuana-federalism-can-work-south-dakota-too" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fmarijuana-federalism-can-work-south-dakota-too&amp;title=Marijuana%20Federalism%20Can%20Work%20in%20South%20Dakota%20Too" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/criminal-liability-wrong-tool-enforcing-election-laws" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcriminal-liability-wrong-tool-enforcing-election-laws&amp;title=Criminal%20Liability%20Is%20the%20Wrong%20Tool%20for%20Enforcing%20Election%20Laws" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-linkedin"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-linkedin"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/marijuana-federalism-can-work-south-dakota-too" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fmarijuana-federalism-can-work-south-dakota-too" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/criminal-liability-wrong-tool-enforcing-election-laws" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fcriminal-liability-wrong-tool-enforcing-election-laws" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-reddit"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-reddit"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/marijuana-federalism-can-work-south-dakota-too" href="mailto:?subject=Cato Institute: Marijuana%20Federalism%20Can%20Work%20in%20South%20Dakota%20Too&amp;body=From%20the%20Cato%20Institute%3A%0A%0AMarijuana%20Federalism%20Can%20Work%20in%20South%20Dakota%20Too%0A%0AWhen%20South%20Dakotans%20went%20to%20the%20polls%2C%20they%20had%20long%20been%20exposed%20to%20the%20fiscal%2C%20policy%2C%20and%20human%20costs%20of%20the%20state%E2%80%99s%20marijuana%20enforcement%20practices.%20They%20voiced%20their%20strong%20support%20for%20Amendment%20A%26amp%3Bnbsp%3Band%2C%20as%20is%20their%20legal%20right%2C%20chose%20to%20amend%20their%20state%E2%80%99s%20constitution%20to%20fully%20effectuate%20their%20will.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fmarijuana-federalism-can-work-south-dakota-too" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/criminal-liability-wrong-tool-enforcing-election-laws" href="mailto:?subject=Cato Institute: Criminal%20Liability%20Is%20the%20Wrong%20Tool%20for%20Enforcing%20Election%20Laws&amp;body=From%20the%20Cato%20Institute%3A%0A%0ACriminal%20Liability%20Is%20the%20Wrong%20Tool%20for%20Enforcing%20Election%20Laws%0A%0AEnforcing%20mundane%20election%20procedures%20through%20criminal%20liability%20is%20unnecessary%2C%20unjust%2C%20and%20needlessly%20deters%20people%20from%20exercising%20both%20their%20freedom%20of%20speech%20and%20their%20right%20to%20vote.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fcriminal-liability-wrong-tool-enforcing-election-laws" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-email"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-email"></use>
 </svg>
 </div>
 </a>
@@ -910,13 +910,30 @@ aa('init', {
 <div class="blog-page__content mb-5 pb-4">
 <div class="body-text fs-lg">
 <div class="body-text fs-lg">
-<p>In November 2020, 54 percent of South Dakotans approved Amendment A, legalizing the adult use of marijuana. Opposing the outcome of the amendment, state officials initiated a lawsuit arguing that Amendment A violates the South Dakota Constitution’s single‐​subject rule, which restricts amendments to being about only a single subject. A South Dakota circuit judge agreed, striking down the amendment. Now before the South Dakota Supreme Court, supporters of the amendment are seeking to protect the will of the voters.</p>
-<p>Over the past half century, states have increasingly rejected federal marijuana policies, recognizing marijuana’s medicinal benefits and the disastrous consequences of criminalizing a plant‐​based substance with no known potential for fatal overdose. And while marijuana legalization may be new territory for South Dakota, the state would not be navigating the transition blindly. Since 1996, states across the country have advanced marijuana reforms nearly every year providing an abundance of examples on how to successfully implement legalization.</p>
-<p>That is, of course, how federalism is supposed to work. The Framers of the Constitution created a system where the powers of the federal government are limited and enumerated while the residual powers of the states are much more broad. The Framers understood that the United States was, even then, a vast and diverse country that should not be centrally governed in a homogenous way. Only by giving states considerable leeway to choose local policies would this collection of diverse states be able to live together cooperatively rather than combatively. </p>
-<p>Congress disrupted that federal structure with the first federal marijuana law, the Marijuana Tax Act of 1937, and further undermined it with the Controlled Substances Act of 1970. Yet starting in the mid‐​1990s, when the first states authorized medical marijuana, state marijuana laws have changed as local attitudes about marijuana have changed. This hasn’t been uniform, of course, as there are still 15 states that don’t allow even medical marijuana, while 14 states now allow adult recreational use. South Dakota tried to become the 15th state, but legal challenges may overturn the voters’ will. </p>
-<p>An overwhelming majority of states that changed their state laws to legalize the adult use of cannabis even did so, like South Dakota, through a citizen‐​led ballot initiative process whereby the state electorate directly chose to enact these reforms. It is this kind of policy experimentation that the Tenth Amendment stands to protect, especially in the face of federal opposition.</p>
-<p>When South Dakotans went to the polls, they had long been exposed to the fiscal, policy, and human costs of the state’s marijuana enforcement practices. They voiced their strong support for Amendment A and, as is their legal right, chose to amend their state’s constitution to fully effectuate their will.</p>
-<p>Now before the South Dakota Supreme Court, Cato has joined with the DKT Liberty Project, Due Process Institute, and Reason Foundation to file <a href="https://www.cato.org/sites/cato.org/files/2021-03/Appeal-No-29546-Thom-v-Barnett-Amicus-Brief.pdf">a brief</a> urging the court to reject the challenge to Amendment A and to honor the will of South Dakota’s voters. South Dakota, like all states, is free to experiment with marijuana laws that do not mirror federal law. It has worked elsewhere, and it can work in South Dakota.</p>
+<p>Yesterday, Georgia Governor Brian Kemp <a href="https://www.npr.org/2021/03/25/981357583/georgia-legislature-approves-election-overhaul-including-changes-to-absentee-vot">signed into law</a> a massive overhaul of Georgia’s elections laws. The <a href="https://www.documentcloud.org/documents/20521102-house-sub-to-sb-202">96‐​page bill</a> addresses a wide range of subjects — amongst other things, it puts strict limits on mail‐​in voting, expands access to early in‐​person voting, adds new ID requirements, and creates new regulations for poll workers at voting stations.</p>
+<p>Election law is not my field of expertise, and I will leave to others to debate whether the changes to election procedures themselves are necessary or prudent. But what I am sure about is that enforcing mundane election procedures through <em>criminal</em> liability is unnecessary, unjust, and needlessly deters people from exercising both their freedom of speech and their right to vote. And in that respect, if nothing else, the Georgia law expands on and exacerbates what was already a serious problem.</p>
+<p>Let’s start by looking at one of the most controversial and widely discussed provisions of the new law — the criminal prohibition on passing out food and drink to voters waiting in line. Here’s what the operative language of the new bill actually says (the bolded text is the new provision):</p>
+<blockquote><p>(a) No person shall solicit votes in any manner or by any means or method, nor shall any person distribute or display any campaign material, <strong>nor shall any person give, offer to give, or participate in the giving of any money or gifts, including, but not limited to, food and drink, to an elector,</strong> nor shall any person solicit signatures for any petition, nor shall any person, other than election officials discharging their duties, establish or set up any tables or booths on any day in which ballots are being cast:</p>
+<p>(1) Within 150 feet of the outer edge of any building within which a polling place is established;</p>
+<p>(2) Within any polling place; or</p>
+<p>(3) Within 25 feet of any voter standing in line to vote at any polling place.</p>
+</blockquote>
+<p>I have seen <a href="https://twitter.com/AGHamilton29/status/1375302804173168641?s=20">some suggestion</a> that the intent behind this new provision was not to prohibit distributing food or drink generally, but rather to prohibit distributing food or drink for the specific purpose of soliciting votes. Perhaps that was the intent, but that’s not what the bill actually says. Note that the law, as amended, specifically and separately says that “no person shall solicit votes in any manner or by means or method” <em>and</em> that no person shall “give … food and drink, to an elector.” The most natural, semantic interpretation here is that giving food and drink to an elector is its own independent prohibition, because this clause isn’t limited by the “soliciting votes” clause that precedes it.</p>
+<p>Moreover, the bill goes on to clarify that this new provision does <em>not </em>prohibit “making available self‐​service water from an unattended receptacle to an elector waiting in line to vote.” That naturally suggests that the previous provision means what it says — that any distribution of food and drink besides a self‐​service water station <em>is</em> prohibited. So yes, this particular criticism of the bill, though it might sound hyperbolic, is entirely accurate. Whether or not it was the product of sloppy drafting, the law as written plainly prohibits giving food and water to voters waiting in line.</p>
+<p>But even more egregiously, this new prohibition — like all the pre‐​existing prohibitions on interacting with voters in or around a polling place — is enforced through <em>criminal</em> penalties. This section of the bill amends <a href="https://law.justia.com/codes/georgia/2010/title-21/chapter-2/article-11/part-1/21-2-414/">Georgia Code Section 21–2-414,</a> which says that “[a]ny person who violates this Code section shall be guilty of a misdemeanor.” And while a “misdemeanor” might not sound all that serious, this isn’t some sort of “third‐​degree misdemeanor” that’s punishable by a small fine or community service. <a href="https://law.justia.com/codes/georgia/2010/title-17/chapter-10/article-1/17-10-3">Georgia Code Section 17–10-3</a> generally provides that all misdemeanors are punishable by a fine of up to $1000 and incarceration in a county jail for up to a year.</p>
+<p>It is self‐​evidently absurd for Georgia to prohibit, in any way at all, the mere act of giving food and water to voters. But even if some of the activities on this list should, in principle, be prohibited in and around polling locations, there’s no good reason that <em>any</em> mundane violations of this law should be enforced through the threat of incarceration.</p>
+<p>For example, this statute already prohibited “distribut[ing] or display[ing] any campaign material” and “solicit[ing] signatures for any petition.” The <a href="https://supreme.justia.com/cases/federal/us/504/191/">Supreme Court has held</a> that narrowly drawn, viewpoint‐​neutral prohibitions on such activities in the immediate area surrounding a polling place are constitutional, so it’s not inherently impermissible for Georgia to regulate such activities. But imagine what typical violations of these prohibitions might look like:</p>
+<ul>
+<li>A voter who forgets to remove their campaign button when they get in line to vote.</li>
+<li>An overzealous campaign staffer who hands out pamphlets too close to the polling location.</li>
+<li>A citizen who thinks a voting line would be a convenient place to gather signatures for a petition on whatever issue they’re interested in.</li>
+</ul>
+<p>It is reasonable (though hardly self‐​evident) to suggest that these activities shouldn’t be allowed at a polling location. If so, election officials could certainly ask any such individuals to cease this activity. If they refuse to do so, they could be removed from the polling location and/​or issued a fine. But does anyone genuinely think that the appropriate response to these activities is <em>putting someone in jail</em>?</p>
+<p>Moreover, the “giving food and water” provision is far from the only new criminal prohibition in the Georgia law. The bill also created new elaborate requirements for handling absentee ballots, and then states that “[h]andling a completed absentee ballot application by any person or entity other than as allowed in this subsection shall be a misdemeanor.” This means, for example, that if you attempt to return a completed absentee ballot on behalf of a friend or co‐​worker (but not a “relative”), you could go to jail. The bill also makes it a misdemeanor to take a photograph of a completed ballot — which voters actually have <a href="https://law.justia.com/cases/federal/appellate-courts/ca1/15-2021/15-2021-2016-09-28.html">the constitutional right to do</a>, at least in some cases.</p>
+<p>Sadly, Georgia is not alone in using criminal penalties to enforce mundane election and voting rules. Consider the case of <a href="https://www.aclu.org/issues/voting-rights/fighting-voter-suppression/crystal-mason-thought-she-had-right-vote-texas">Crystal Mason</a>, a Texas citizen who was sentenced to five years<em> </em>in prison for submitting a provisional ballot while in a supervised release program following a tax‐​fraud conviction. Ms. Mason made an honest mistake. After her original term of incarceration was finished, she believed she was eligible to vote. Even though she was not on the list of registered voters, an election official expressly invited her to submit a provisional ballot, which she did. She was unaware, however, that because she was still in her term of supervised release, Texas considered her ineligible to vote.</p>
+<p>For this single mistake, Ms. Mason was convicted and sentenced to five years in prison for attempting to cast an illegal vote. A court of appeals upheld her conviction, acknowledging that she made an honest mistake, but nevertheless holding that “the fact that she did not know she was legally ineligible to vote was irrelevant to her prosecution.” The Cato Institute filed an <a href="https://www.cato.org/legal-briefs/mason-v-texas"><em>amicus</em> brief</a> in support of Ms. Mason’s petition to the Texas Court of Criminal Appeals, and hopefully she will get the justice she deserves. But regardless of what happens here, her case is a stark illustration of how states are far too quick to rely on criminal prosecution as the default mechanism for enforcing election laws.</p>
+<p>Incarceration is an extraordinary remedy. Short of execution, taking away someone’s freedom and locking them in a cage — and thereby separating them from their family, removing them from their job, and subjecting them to the routine horrors of life in prison — is the most severe action the state can take against a citizen. It should be treated as a last resort, appropriate only for the most dangerous and anti‐​social individuals, and subject to robust procedural checks.</p>
+<p>This means that criminal liability should play little to no role in enforcing election laws. Measured criminal penalties <em>may</em> be appropriate in instances of outright bribery or intentional fraud, but they should never be used to enforce mundane polling‐​place regulations, as the Georgia law does. Nor should they ever be used in response to unintentional violations of voter‐​registration procedures. Such a heavy‐​handed approach to enforcement needlessly discourages people from exercising both their right to vote and their right to engage in election‐​related speech. Whatever disagreements we might have about voter IDs, or mail‐​in ballots vs. in‐​person voting, we should at least agree on that much.</p>
 </div>
 </div>
 </div>
@@ -929,7 +946,7 @@ aa('init', {
 </div>
 <div class="block--inner">
 <span class="content-reference-link fs-xs">
-<a href="https://www.cato.org/constitutional-law" hreflang="en">Constitutional Law</a>, <a href="https://www.cato.org/drug-war" hreflang="en">Drug War</a>
+<a href="https://www.cato.org/criminal-justice" hreflang="en">Criminal Justice</a>, <a href="https://www.cato.org/free-speech-civil-liberties" hreflang="en">Free Speech and Civil Liberties</a>, <a href="https://www.cato.org/elections-election-law" hreflang="en">Elections and Election Law</a>
 </span>
 </div>
 </div>
@@ -937,12 +954,220 @@ aa('init', {
 </article>
 </div>
 <div class="spacer--standout--bottom spacer--nomargin--last-child">
-<article about="/blog/cost-benefit-analysis-lockdown-very-difficult-do-well" class="blog-page" role="article">
+<article about="/blog/nuclear-power-costs" class="blog-page" role="article">
 <div class="blog-page__header mb-5">
 <div class="meta meta--default text-uppercase p-mb-last-child-0">
-<span class="date-time__date date-time__date--default">March 16, 2021</span> <span class="date-time__time date-time__time--default">12:47PM</span>
+<span class="date-time__date date-time__date--default">March 26, 2021</span> <span class="date-time__time date-time__time--default">1:47PM</span>
 </div>
-<h1 class="h2"><a href="/blog/cost-benefit-analysis-lockdown-very-difficult-do-well"><span>A Cost‐​Benefit Analysis of a Lockdown Is Very Difficult To Do Well</span>
+<h1 class="h2"><a href="/blog/nuclear-power-costs"><span>Nuclear Power Costs</span>
+</a></h1>
+</div>
+<div class="blog-page__separator d-flex align-items-center mb-5">
+<div class="me-4 authors fs-xs fw-medium">
+    By 
+  
+            <a href="https://www.cato.org/people/peter-van-doren" hreflang="und">Peter Van Doren</a>
+</div>
+<hr class="blog-page__rule flex-grow-1"/>
+<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/nuclear-power-costs">
+<a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
+<div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
+<div class="icon__wrapper">
+<svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-share"></use>
+</svg>
+</div>
+<div class="text-icon-inline__content">
+      SHARE
+    </div>
+</div>
+</a>
+<div class="popover-content js-popover-content"> <div class="fs-xl">
+<div class="js-share-icons icon-row d-flex align-items-center">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/nuclear-power-costs" href="https://twitter.com/intent/tweet?text=Nuclear%20Power%20Costs&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnuclear-power-costs&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-twitter"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/nuclear-power-costs" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnuclear-power-costs" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-facebook"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/nuclear-power-costs" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnuclear-power-costs&amp;title=Nuclear%20Power%20Costs" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-linkedin"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/nuclear-power-costs" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fnuclear-power-costs" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-reddit"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/nuclear-power-costs" href="mailto:?subject=Cato Institute: Nuclear%20Power%20Costs&amp;body=From%20the%20Cato%20Institute%3A%0A%0ANuclear%20Power%20Costs%0A%0AAn%20important%20reality%20check%20for%20those%20who%20believe%20nuclear%20power%20is%20an%20essential%20component%20of%20any%20strategy%20to%20reduce%20greenhouse%20gas%20emissions.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fnuclear-power-costs" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-email"></use>
+</svg>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="blog-page__content mb-5 pb-4">
+<div class="body-text fs-lg">
+<div class="body-text fs-lg">
+<p>The <em>New Yorker </em>recently published a short <a href="https://protect-us.mimecast.com/s/K5CxCKr9XLs2wByjuMpLXu?domain=newyorker.com">article</a> about environmentalists who support nuclear power because they believe it is an essential component of any strategy to reduce greenhouse gas emissions. The article discussed the risks from nuclear accidents, such as Fukushima and correctly noted that more than a thousand people died in the forced evacuation of the area, dwarfing the expected direct health effects of radiation exposure.</p>
+<p>A recent <a href="https://www.cato.org/sites/cato.org/files/2020-03/regv43n1-reviews.pdf#page=22">paper</a> extended that analysis by examining the effects of the shut‐​down of all nuclear power plants in Japan following the Fukushima accident in March 2011. The absence of nuclear power was accompanied by an increase in electricity prices (38 percent in the Tokyo region) to pay for the cost of imported fossil fuels used to substitute for nuclear generation. The increased electricity prices reduced electricity use and increased mortality from reduced heating in homes. From 2011 to 2014, higher electricity prices resulted in 1,280 additional deaths in Japan’s 21 largest cities. In contrast, the estimated cumulative deaths that will occur from excessive radiation exposure caused by the reactor meltdown is 130.</p>
+<p>One characteristic of nuclear power conspicuously absent from the <em>New Yorker</em> discussion was its cost. In theory, low‐​cost nuclear power has been the answer to many energy and environmental policy questions ever since the 1950s. In practice, its costs have increased inexorably. Why?</p>
+<p>In the <a href="https://www.cato.org/regulation/spring-2021">Spring issue</a> of <em>Regulation</em> I <a href="https://www.cato.org/regulation/spring-2021/working-papers">review</a> a recent paper that documents the history of nuclear power plant construction in the United States and the increase in costs. From 1967 through 1978, 107 were constructed. Rather than costs going down over that time because of learning by doing, plant costs more than doubled with each doubling of cumulative U.S. capacity. The problem was declining “materials deployment productivity”—that is, the amount of concrete and steel that workers put together per unit time.</p>
+<p>About 30 percent of the productivity reduction stems from nuclear regulatory safety concerns. According to the authors:</p>
+<blockquote><p>While our analysis identifies the rebar density in reinforced concrete as the most influential variable for cost decrease, changes to the amount and composition of containment concrete are constrained by safety regulations, most notably the requirement for containment structures to withstand commercial aircraft impacts. New plant designs with underground (embedded) reactors could allow for thinner containment walls. However, these designs are still under development and pose the risk of high excavation costs in areas or at sites with low productivity.</p>
+</blockquote>
+<p>The sources of the other 70 percent of productivity slowdown were construction management and workflow issues, including lack of material and tool availability, overcrowded work areas, and scheduling conflicts between crews of different trades. Craft laborers, for example, were unproductive during 75 percent of scheduled working hours.</p>
+<p>Plant builders attempted to address these problems by increasing the use of standardized prefabricated modules that could be shipped to site and installed. These were employed in later reactors, but whatever advantages they provided did not improve aggregate productivity.</p>
+<p>Since the 1990s, two nuclear projects have begun construction in the U.S. Both are two‐​reactor expansions of existing generating stations. The VC Summer project in South Carolina was abandoned in 2017 with sunk costs of $9 billion, and the Vogtle project in Georgia is severely delayed. Recent <a href="https://energyathaas.wordpress.com/2020/03/09/the-high-cost-of-nuclear-jobs/">estimates</a> place the total price of the Vogtle expansion at $25 billion, almost twice as high as the initial estimate of $14 billion, and costs are anticipated to rise further.</p>
+<p>These problems are not unique to the United States. Projects in Finland and France also have experienced cost escalation, cost overrun, and schedule delays, which I also <a href="https://www.cato.org/commentary/nuclear-power-dock">described</a> ten years ago.</p>
+<p>The paper provides an important reality check for those who believe nuclear power is an essential component of any strategy to reduce greenhouse gas emissions.</p>
+</div>
+</div>
+</div>
+<div class="blog-page__topics">
+<div class="block">
+<div class="block__header">
+<h5 class="eyebrow-text meta meta--default text-uppercase p-mb-last-child-0">
+    Related Tags
+  </h5>
+</div>
+<div class="block--inner">
+<span class="content-reference-link fs-xs">
+<a href="https://www.cato.org/economics" hreflang="und">Economics</a>, <a href="https://www.cato.org/regulatory-studies" hreflang="en">Regulation</a>, <a href="https://www.cato.org/research/energy-environment" hreflang="en">Energy and Environment</a>, <a href="https://www.cato.org/environmental-regulation" hreflang="en">Environmental Regulation</a>
+</span>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="spacer--standout--bottom spacer--nomargin--last-child">
+<article about="/blog/new-documentary-modernization-indigenous-tribes-india" class="blog-page" role="article">
+<div class="blog-page__header mb-5">
+<div class="meta meta--default text-uppercase p-mb-last-child-0">
+<span class="date-time__date date-time__date--default">March 26, 2021</span> <span class="date-time__time date-time__time--default">1:44PM</span>
+</div>
+<h1 class="h2"><a href="/blog/new-documentary-modernization-indigenous-tribes-india"><span>New Documentary on Modernization and Indigenous Tribes in India</span>
+</a></h1>
+</div>
+<div class="blog-page__separator d-flex align-items-center mb-5">
+<div class="me-4 authors fs-xs fw-medium">
+    By 
+  
+            <a href="https://www.cato.org/people/ian-vasquez" hreflang="und">Ian Vásquez</a>
+</div>
+<hr class="blog-page__rule flex-grow-1"/>
+<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/new-documentary-modernization-indigenous-tribes-india">
+<a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
+<div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
+<div class="icon__wrapper">
+<svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-share"></use>
+</svg>
+</div>
+<div class="text-icon-inline__content">
+      SHARE
+    </div>
+</div>
+</a>
+<div class="popover-content js-popover-content"> <div class="fs-xl">
+<div class="js-share-icons icon-row d-flex align-items-center">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/new-documentary-modernization-indigenous-tribes-india" href="https://twitter.com/intent/tweet?text=New%20Documentary%20on%20Modernization%20and%20Indigenous%20Tribes%20in%20India&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-documentary-modernization-indigenous-tribes-india&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-twitter"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/new-documentary-modernization-indigenous-tribes-india" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-documentary-modernization-indigenous-tribes-india" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-facebook"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/new-documentary-modernization-indigenous-tribes-india" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-documentary-modernization-indigenous-tribes-india&amp;title=New%20Documentary%20on%20Modernization%20and%20Indigenous%20Tribes%20in%20India" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-linkedin"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/new-documentary-modernization-indigenous-tribes-india" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-documentary-modernization-indigenous-tribes-india" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-reddit"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/new-documentary-modernization-indigenous-tribes-india" href="mailto:?subject=Cato Institute: New%20Documentary%20on%20Modernization%20and%20Indigenous%20Tribes%20in%20India&amp;body=From%20the%20Cato%20Institute%3A%0A%0ANew%20Documentary%20on%20Modernization%20and%20Indigenous%20Tribes%20in%20India%0A%0ASome%2030%26amp%3Bnbsp%3Byears%20ago%2C%20the%20Indian%20government%20displaced%20tens%20of%20thousands%20of%20families%20as%20part%20of%20its%20Sardar%20Sarovar%20Dam%20project.%20A%26amp%3Bnbsp%3Bnew%20documentary%20now%20streaming%20on%20Disney%2BHotstar%20shows%20how%20the%20relocated%20forest%20tribes%20have%20fared.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-documentary-modernization-indigenous-tribes-india" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-email"></use>
+</svg>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="blog-page__content mb-5 pb-4">
+<div class="body-text fs-lg">
+<div class="body-text fs-lg">
+<p>
+<div class="align-right embedded-entity" data-embed-button="image" data-entity-embed-display="view_mode:media.blog_post" data-entity-embed-display-settings="https://www.hotstar.com/us/dammed-but-not-damned-trailer/1260055894" data-entity-type="media" data-entity-uuid="e0108930-0394-42d1-962f-cc3bc6361a62" data-langcode="en"><a href="https://www.hotstar.com/us/dammed-but-not-damned-trailer/1260055894">
+<img alt="Screenshot of Dammed but Not Damned trailer" class="lozad image-style-pubs-2x component-image" data-src="/sites/cato.org/files/styles/pubs_2x/public/2021-03/202103_blog_vasquez261.jpg?itok=GehITuXn" height="774" loading="lazy" typeof="foaf:Image" width="1383"/></a></div>
+</p><p>Some 30 years ago, the Indian government displaced tens of thousands of families as part of its Sardar Sarovar Dam project. The families belonged to indigenous forest tribes that have been living in the jungle for thousands of years. They were resettled in mainstream villages where they were given land and were much more integrated with modern society. At the time and since, many activists claimed that tribespeople would not be able to cope with the shift from subsistence agriculture in the forest to modern commercial life in mainstream villages, would lose their land and other compensation to loan sharks, and be devastated culturally and economically by the forces of modernity. Their culture was different and should be preserved.</p>
+<p>Were the critics right? Not at all. A <a href="https://www.hotstar.com/us/dammed-but-not-damned-trailer/1260055894">new documentary</a> now streaming on Disney+Hotstar shows how the relocated forest tribes have fared.</p>
+<p>The film, “Dammed but Not Damned,” is based on field research by Cato scholar Swami Aiyar and Columbia University professor Neeraj Kaushal, who surveyed 1,200 forest tribe families. When the relocation occurred, some forest tribes who lived deep in the forest or above the waterline did not move. That allowed the researchers to conduct a sort of controlled experiment, comparing the resettled families with their former neighbors. Contrary to claims that the resettled forest tribes would be taken advantage of and become paupers, Aiyar and Neeraj found that their standard of living notably improved, exceeding that of the forest tribes that stayed behind. On a range of indicators—land and asset ownership, housing quality, agricultural practices, access to schools and hospitals—the relocated families were better off.</p>
+<p>Why were the outcomes so much better than in some other similar projects? First, the activists convinced the relevant tribunal that compensation should not just be cash but must include five acres of land for every male adult. Assistance from the NGOs was critical in locating suitable land, ensuring that resettlement pledges were honored, and overcoming the usual bureaucratic obstacles. Lesson: for success, the oustees must be empowered with promised property rights and civil rights, for which NGOs can be a help.</p>
+<p>The authors reported their findings in the Cato study <a href="https://www.cato.org/policy-analysis/how-property-civil-rights-help-forest-tribes-modernize-prosper-lessons-india?queryID=fa502de3a515e58e5c5d6d5b36535c11">“How Property and Civil Rights Help Forest Tribes Modernize and Prosper”</a> and in this <a href="https://www.nber.org/papers/w24423">academic study</a> and this <a href="https://www.epw.in/journal/2019/12/special-articles/are-resettled-oustees-sardar-sarovar-dam-project-.html">article</a> for a broader audience, which the new documentary summarizes. Extending basic rights did not eliminate the forest tribes’ distinct culture either. The authors argue that members of all forest tribes be afforded the same basic rights and conclude with an important point:</p>
+<p>“All humans were tribespeople for 99.9 percent of their history. Some of us came out of the forest a few hundred or thousand years ago, a tiny period on the evolutionary scale. Those left behind are not museum pieces to be preserved. They can catch up quickly if empowered. To treat them as fundamentally different is paternalistic elitism.”</p>
+<p>We hope their film gets a wide viewing.</p>
+</div>
+</div>
+</div>
+<div class="blog-page__topics">
+<div class="block">
+<div class="block__header">
+<h5 class="eyebrow-text meta meta--default text-uppercase p-mb-last-child-0">
+    Related Tags
+  </h5>
+</div>
+<div class="block--inner">
+<span class="content-reference-link fs-xs">
+<a href="https://www.cato.org/international" hreflang="und">International</a>, <a href="https://www.cato.org/global-freedom" hreflang="und">Global Freedom</a>, <a href="https://www.cato.org/civil-rights" hreflang="en">Civil Rights</a>, <a href="https://www.cato.org/economic-freedom" hreflang="en">Economic Freedom</a>, <a href="https://www.cato.org/growth-development" hreflang="en">Growth and Development</a>, <a href="https://www.cato.org/international-economics-development-immigration" hreflang="en">International Economics, Development &amp; Immigration</a>, <a href="https://www.cato.org/property-rights" hreflang="en">Property Rights</a>
+</span>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="spacer--standout--bottom spacer--nomargin--last-child">
+<article about="/blog/political-economy-essential-business-designation" class="blog-page" role="article">
+<div class="blog-page__header mb-5">
+<div class="meta meta--default text-uppercase p-mb-last-child-0">
+<span class="date-time__date date-time__date--default">March 26, 2021</span> <span class="date-time__time date-time__time--default">12:05PM</span>
+</div>
+<h1 class="h2"><a href="/blog/political-economy-essential-business-designation"><span>The Political Economy of “Essential” Business Designation</span>
 </a></h1>
 </div>
 <div class="blog-page__separator d-flex align-items-center mb-5">
@@ -952,12 +1177,12 @@ aa('init', {
             <a href="https://www.cato.org/people/ryan-bourne" hreflang="und">Ryan Bourne</a>
 </div>
 <hr class="blog-page__rule flex-grow-1"/>
-<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/cost-benefit-analysis-lockdown-very-difficult-do-well">
+<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/political-economy-essential-business-designation">
 <a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
 <div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
 <div class="icon__wrapper">
 <svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-share"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-share"></use>
 </svg>
 </div>
 <div class="text-icon-inline__content">
@@ -967,38 +1192,38 @@ aa('init', {
 </a>
 <div class="popover-content js-popover-content"> <div class="fs-xl">
 <div class="js-share-icons icon-row d-flex align-items-center">
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/cost-benefit-analysis-lockdown-very-difficult-do-well" href="https://twitter.com/intent/tweet?text=A%20Cost%E2%80%90%E2%80%8BBenefit%20Analysis%20of%20a%26nbsp%3BLockdown%20Is%20Very%20Difficult%20To%20Do%20Well&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcost-benefit-analysis-lockdown-very-difficult-do-well&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/political-economy-essential-business-designation" href="https://twitter.com/intent/tweet?text=The%20Political%20Economy%20of%20%E2%80%9CEssential%E2%80%9D%20Business%20Designation&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fpolitical-economy-essential-business-designation&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-twitter"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-twitter"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/cost-benefit-analysis-lockdown-very-difficult-do-well" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcost-benefit-analysis-lockdown-very-difficult-do-well" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/political-economy-essential-business-designation" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fpolitical-economy-essential-business-designation" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-facebook"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-facebook"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/cost-benefit-analysis-lockdown-very-difficult-do-well" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcost-benefit-analysis-lockdown-very-difficult-do-well&amp;title=A%20Cost%E2%80%90%E2%80%8BBenefit%20Analysis%20of%20a%26nbsp%3BLockdown%20Is%20Very%20Difficult%20To%20Do%20Well" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/political-economy-essential-business-designation" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fpolitical-economy-essential-business-designation&amp;title=The%20Political%20Economy%20of%20%E2%80%9CEssential%E2%80%9D%20Business%20Designation" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-linkedin"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-linkedin"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/cost-benefit-analysis-lockdown-very-difficult-do-well" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fcost-benefit-analysis-lockdown-very-difficult-do-well" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/political-economy-essential-business-designation" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fpolitical-economy-essential-business-designation" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-reddit"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-reddit"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/cost-benefit-analysis-lockdown-very-difficult-do-well" href="mailto:?subject=Cato Institute: A%20Cost%E2%80%90%E2%80%8BBenefit%20Analysis%20of%20a%26nbsp%3BLockdown%20Is%20Very%20Difficult%20To%20Do%20Well&amp;body=From%20the%20Cato%20Institute%3A%0A%0AA%20Cost%E2%80%90%E2%80%8BBenefit%20Analysis%20of%20a%26amp%3Bnbsp%3BLockdown%20Is%20Very%20Difficult%20To%20Do%20Well%0A%0AThe%20uncertainties%2C%20including%20of%20behavioral%20responses%20to%20the%20virus%2C%20mean%20assessing%20the%20benefits%20of%20lockdowns%20relative%20to%20their%20costs%20is%20extremely%20hard.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fcost-benefit-analysis-lockdown-very-difficult-do-well" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/political-economy-essential-business-designation" href="mailto:?subject=Cato Institute: The%20Political%20Economy%20of%20%E2%80%9CEssential%E2%80%9D%20Business%20Designation&amp;body=From%20the%20Cato%20Institute%3A%0A%0AThe%20Political%20Economy%20of%20%E2%80%9CEssential%E2%80%9D%20Business%20Designation%0A%0AA%20new%20study%20suggests%20that%20business%20donations%20to%20governors%E2%80%99%20election%20campaigns%20influenced%20whether%20their%20industries%20were%20deemed%20%E2%80%9Cessential.%E2%80%9D%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fpolitical-economy-essential-business-designation" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-email"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-email"></use>
 </svg>
 </div>
 </a>
@@ -1010,19 +1235,118 @@ aa('init', {
 <div class="blog-page__content mb-5 pb-4">
 <div class="body-text fs-lg">
 <div class="body-text fs-lg">
-<p>In an interesting op-ed in <a href="https://www.wsj.com/articles/the-lockdowns-werent-worth-it-11615485413">the Wall Street Journal</a>, Philippe Lemoine writes (with my emphasis):</p>
-<blockquote><p>The coronavirus lockdowns constitute the most extensive attacks on individual freedom in the West since World War II. <strong>Yet not a single government has published a cost-benefit analysis to justify lockdown policies—something policy makers are often required to do while making far less consequential decisions</strong>. If my arguments are wrong and lockdown policies are cost-effective, a government document should be able to demonstrate that. <strong>No government has produced such a document, perhaps because officials know what it would show</strong>.</p>
+<p>The pandemic has been a goldmine for case studies of economic principles or phenomena. That was the inspiration behind my forthcoming book, <em>Economics In One Virus </em>(available for pre‐​order <a href="https://www.amazon.com/Economics-One-Virus-Introduction-Reasoning/dp/1952223067/ref=sr_1_1?dchild=1&amp;qid=1607445189&amp;refinements=p_27%3ARyan+A.+Bourne&amp;s=books&amp;sr=1-1&amp;text=Ryan+A.+Bourne">here</a>)<em>.</em> But while there has been plenty of discussion of, say, COVID-19 as an “externality” problem or evaluation of cost‐​benefit analyses for lockdowns and other mandates, there has been less focus so far on the political economy aspects of the crisis.</p>
+<p>In the book, I introduce readers to the public choice school of economics by analyzing the reasons why particular industries, especially passenger airlines, might have found it easier to obtain “ring‐​fenced” relief funds, as other sectors scrambled in capital markets or to secure support from the Paycheck Protection Program. More recent research, however, highlights how political incentives shaped the contours of policy in another area: the regulations dubbed “lockdowns.”</p>
+<p>In a new paper for the <em>Journal of Political Institutions and Political Economy</em>, <a href="https://ideas.repec.org/a/now/jnlpip/113.00000031.html">political scientists Jesse Crosson and Srinivas Parinandi</a> assess whether it was more likely that a state’s governor designated an industry “essential” in COVID-19 executive orders if the businesses in said industry had donated to the governor’s gubernatorial election campaign.</p>
+<p>Using the wide variation of industry designation across states and a host of control variables, including the political party of the governor and the prevalence of COVID-19 in the state, they find the presence of a gubernatorial campaign contribution leads to a roughly 10 percent increase in the probability that an industry will be deemed essential. They tentatively suggest that there may have been around 250 such cases around the country.</p>
+<p>The researchers then assess whether governors appear to “reward” businesses in industries who have donated <em>exclusively</em> to them (and not their opponent). They find no evidence of this being the case, nor of governors punishing businesses who donate to opponents. Instead what appears to be happening is that governors are more likely to bestow “essential” status on industries that are simply more politically active.</p>
+<p>An obvious retort is “well, maybe those industries that really are essential are just more likely to be politically active too.” The researchers test this by dividing their sample into two groups: those states that reference federal critical infrastructure (CISA) guidance in their orders and those that do not. This guidance was the federal government’s attempt to tell governors what they deemed to really be “essential” to keep open. But the results stand across both samples—suggesting that donations impact “essential” designation germanely.</p>
+<p><span>What does this mean? Well, it is suggestive that governors take into account political donations when making COVID-19 policy, even absent direct lobbying from companies. No doubt in some instances, this was because the governors genuinely believed the activities “safe” or maybe even helpful to public health efforts. But electoral incentives were likely in play too.</span></p>
+<p><span>COVID-19 public health orders are often talked of as if disinterested bureaucrats sit down to work out what is optimal for controlling the spread of the disease. Last year <a href="https://www.cato.org/blog/what-nonessential-business">I criticized</a> blanket “nonessential business” closures on the grounds that the interconnectedness of economies left huge room for unintended knock‐​on consequences—with policymakers ignoring how “one person’s non‐​essential business might be another business owner’s key supplier.” This new paper reminds us of another truth: politicians are people and are affected by self‐​interested incentives too.</span></p>
+<p><span>—</span></p>
+<p><span><span>For more on the economics of COVID-19, you can pre‐​order my book, </span></span><em><a href="https://www.amazon.com/Economics-One-Virus-Introduction-Reasoning/dp/1952223067/ref=sr_1_1?dchild=1&amp;qid=1607445189&amp;refinements=p_27%3ARyan+A.+Bourne&amp;s=books&amp;sr=1-1&amp;text=Ryan+A.+Bourne"><span>Economics In One Virus</span></a> </em><span><span><span><span><span>(U.S.) The UK pre‐​order site is </span></span></span></span></span><a href="https://www.amazon.co.uk/Economics-One-Virus-Introduction-Reasoning/dp/1952223067"><span><span><span>here</span></span></span></a><span><span><span><span><span><span><span>.</span></span></span></span></span></span></span></p>
+</div>
+</div>
+</div>
+<div class="blog-page__topics">
+<div class="block">
+<div class="block__header">
+<h5 class="eyebrow-text meta meta--default text-uppercase p-mb-last-child-0">
+    Related Tags
+  </h5>
+</div>
+<div class="block--inner">
+<span class="content-reference-link fs-xs">
+<a href="https://www.cato.org/economics" hreflang="und">Economics</a>, <a href="https://www.cato.org/government-politics" hreflang="en">Government and Politics</a>, <a href="https://www.cato.org/proper-role-government-pandemic" hreflang="en">Proper Role of Government in a Pandemic</a>
+</span>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="spacer--standout--bottom spacer--nomargin--last-child">
+<article about="/blog/intels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" class="blog-page" role="article">
+<div class="blog-page__header mb-5">
+<div class="meta meta--default text-uppercase p-mb-last-child-0">
+<span class="date-time__date date-time__date--default">March 26, 2021</span> <span class="date-time__time date-time__time--default">12:03PM</span>
+</div>
+<h1 class="h2"><a href="/blog/intels-ceo-says-they-dont-need-subsidies-government-should-take-him-word"><span>Intel’s CEO Says They Don’t Need Subsidies; the Government Should Take Him at His Word</span>
+</a></h1>
+</div>
+<div class="blog-page__separator d-flex align-items-center mb-5">
+<div class="me-4 authors fs-xs fw-medium">
+    By 
+  
+            <a href="https://www.cato.org/people/scott-lincicome" hreflang="und">Scott Lincicome</a>
+</div>
+<hr class="blog-page__rule flex-grow-1"/>
+<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/intels-ceo-says-they-dont-need-subsidies-government-should-take-him-word">
+<a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
+<div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
+<div class="icon__wrapper">
+<svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-share"></use>
+</svg>
+</div>
+<div class="text-icon-inline__content">
+      SHARE
+    </div>
+</div>
+</a>
+<div class="popover-content js-popover-content"> <div class="fs-xl">
+<div class="js-share-icons icon-row d-flex align-items-center">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/intels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" href="https://twitter.com/intent/tweet?text=Intel%E2%80%99s%20CEO%20Says%20They%20Don%E2%80%99t%20Need%20Subsidies%3B%20the%20Government%20Should%20Take%20Him%20at%20His%20Word&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fintels-ceo-says-they-dont-need-subsidies-government-should-take-him-word&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-twitter"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/intels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fintels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-facebook"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/intels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fintels-ceo-says-they-dont-need-subsidies-government-should-take-him-word&amp;title=Intel%E2%80%99s%20CEO%20Says%20They%20Don%E2%80%99t%20Need%20Subsidies%3B%20the%20Government%20Should%20Take%20Him%20at%20His%20Word" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-linkedin"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/intels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fintels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-reddit"></use>
+</svg>
+</div>
+</a>
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/intels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" href="mailto:?subject=Cato Institute: Intel%E2%80%99s%20CEO%20Says%20They%20Don%E2%80%99t%20Need%20Subsidies%3B%20the%20Government%20Should%20Take%20Him%20at%20His%20Word&amp;body=From%20the%20Cato%20Institute%3A%0A%0AIntel%E2%80%99s%20CEO%20Says%20They%20Don%E2%80%99t%20Need%20Subsidies%3B%20the%20Government%20Should%20Take%20Him%20at%20His%20Word%0A%0AThe%20federal%20government%20should%20pocket%20any%20planned%20subsidies%20to%20Intel%20%E2%80%94%20just%20as%20Intel%E2%80%99s%20CEO%20himself%20has%20suggested.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fintels-ceo-says-they-dont-need-subsidies-government-should-take-him-word" rel="nofollow" target="_blank">
+<div class="icon__wrapper">
+<svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-email"></use>
+</svg>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="blog-page__content mb-5 pb-4">
+<div class="body-text fs-lg">
+<div class="body-text fs-lg">
+<p>As discussed here <a href="https://www.cato.org/people/scott-lincicome?query=semiconductors">repeatedly</a>, semiconductors are at the center of the debate in Washington about whether the United States should (once again) embrace industrial policy. In particular, numerous elected officials and wonks support appropriating tens of billions of new taxpayer dollars, initially approved under the 2021 National Defense Authorization Act, to subsidize the construction of semiconductor manufacturing facilities (“fabs”) on U.S. soil. Among the primary reasons for why such subsidies are urgently needed is the claim that American chipmakers have lost their edge and either can’t or won’t build new fabs here without the same kind of subsidies that the Chinese government has lavished upon its industry (<a href="https://www.cato.org/blog/conservative-industrial-policy-china-threat?queryID=585b96fab889b96bfe211ec0fa42794a">lackluster results notwithstanding</a>).</p>
+<p>Not everyone agrees, however, including not just libertarian skeptics like me but also… the new CEO of Intel, the United States’ largest chipmaker. In announcing the company’s new <a href="https://twitter.com/scottlincicome/status/1374476135187161098">$20 billion plan</a> to build two new fabs in Arizona, in fact, Intel’s head honcho <a href="https://www.nextplatform.com/2021/03/24/the-once-the-future-and-the-fabulous-intel/amp/">expressly said</a> this week that the company doesn’t need taxpayer help (though of course, they won’t object to free money!):</p>
+<blockquote><p>While specifics were not given out, Gelsinger said that Intel was expecting to receive incentives from the Biden administration for building out indigenous fab capacity here in the United States and also incentives from the state of Arizona for the $20 billion foundry buildout revealed today. Not that Intel needs it, apparently.</p>
+<p>“This is the Intel strategy, period. Full stop,” declared Gelsinger. “<strong>It does not depend on a penny of government support or state support or any other investments to make it successful. It is the right strategy for us going forward</strong>,” he said, adding that “of course, governments – we want incentives. We want investments because it is the right thing for them to accelerate manufacturing and this imbalance of the global supply chain. <strong>But we’re making these commitments without any commitments from the governments to accelerate them.</strong>” Intel is, as Gelsinger punned it, “putting our chips on the table” first and then anticipating that eager governments will up the ante some.</p>
 </blockquote>
-<p>There is a more charitable explanation for their reticence: doing a comprehensive cost-benefit analysis of a lockdown is actually incredibly difficult, especially before the lockdown is implemented. Libertarians, in particular, would appreciate all the uncertainties, knowledge problems, and difficulties in aggregating very subjective values at play.</p>
-<p>To be clear: these are not reasons to avoid doing a cost-benefit analysis of a lockdown. I think given the consequential nature of the policies, an attempt, even with a bunch of uncertainties and caveats, would have been clarifying about the trade-offs incumbent in any major decision. But we should not pretend such a task was straightforward.</p>
-<p>In my forthcoming book, <em><a href="https://www.amazon.com/Economics-One-Virus-Introduction-Reasoning/dp/1952223067/ref=sr_1_1?dchild=1&amp;qid=1607445189&amp;refinements=p_27%3ARyan+A.+Bourne&amp;s=books&amp;sr=1-1&amp;text=Ryan+A.+Bourne">Economics In One Virus</a>, </em>I try to delineate all the issues that would need to be addressed to do a cost-benefit analysis of a lockdown well. There are major challenges on both the benefit and cost sides, and indeed in using the results to inform policy.</p>
-<p>On the benefits side, one would have to:</p>
-<ul>
-<li><strong>Place a value on the reductions of the statistical risk of dying from COVID-19</strong>. Economists commonly use the “value of a statistical life” for this, but these values tend to be derived from labor market studies assessing very minor risks facing working-age people at work. These are unlikely to be appropriate for older people facing much higher fatality risks from COVID-19, and whom are likely to have more varied preferences on how much they would pay to avoid death risks.</li>
-<li><strong>Estimate how many lives would be saved by lockdown policies</strong>. “Defining the counterfactual” here is hard. The alternative to lockdowns wasn’t normality, but quite a lot of voluntary social distancing that already saved lives. And as Lemoine writes in the op-ed, people’s behavior tends to tighten further when the disease prevalence is high, ending the exponential spread and resulting in waves of cases and deaths. The problem is that within countries there appears little consistency about when that behavioral tightening will occur. So assessing the difference between the disease patterns in lockdowns and without them in advance is near impossible. Of course, depending on when the lockdown was planned to take place, at least some of the COVID-19 “deaths avoided” would be deaths delayed until the next outbreak too.</li>
-<li><strong>Account for the value of the reduction in non-fatality risks. </strong>A lot of people value avoiding getting sick or the worry that their family members will become ill. It therefore stands to reason that there are economic welfare benefits from lockdowns reducing these non-fatality risks too. Some economists have even concluded these benefits may be of a similar aggregate value to that of reduced deaths, simply because the number of COVID-19 cases avoided from any lockdown restriction vastly exceeds the number of deaths avoided.</li>
-</ul>
-<a href="/blog/cost-benefit-analysis-lockdown-very-difficult-do-well" hreflang="en">Read the rest of this post →</a>
+<p>Despite subsidy supporters’ claims, Intel’s position here shouldn’t be surprising. First, research <a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1307&amp;context=up_workingpapers">has</a> <a href="https://www.americanprogress.org/issues/economy/reports/2018/11/01/457771/realities-economic-development-subsidies/">repeatedly</a> <a href="https://www.mercatus.org/system/files/farren_and_philpot_-_policy_brief_-_amazon_hq2_the_story_so_far_-_v1.pdf">shown</a> that subsidies rarely tip the scales of corporate decision‐​making and are most often considered after a recipient’s plans have been made. (Intel rival Samsung has <a href="https://www.bloomberg.com/news/articles/2021-01-22/samsung-is-said-to-consider-10-billion-texas-chipmaking-plant">reportedly</a> said similar things in private about U.S. subsidies for a new semiconductor plant in Texas.)</p>
+<p>Second, despite recent and well‐​publicized struggles producing top‐​end chips, Intel is still incredibly profitable and flush with cash. According to the <a href="https://twitter.com/scottlincicome/status/1374505957447794693?s=20"><em>Wall Street Journal</em></a>, for example, “Besides the $20 billion earmarked for the new Arizona fabs, to be spent between now and 2024, Intel… expects to have between $19 billion and $20 billion in total capital spending this year—a record amount that is about 45% above the company’s average annual capital expenditures over the past five years.” Last year, in the middle of a global pandemic, the company <a href="https://twitter.com/scottlincicome/status/1286701440371765253">spent</a> only (<em>only!</em>) about $15 billion on capital expenditures, leaving it with almost $18 billion in free cash flow.</p>
+<p>Intel’s problems, it seems, have had nothing to do with a pressing need for more capital and much to do with <a href="https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/">recent decisions</a> about how to spend it. Indeed, the <em>Journal </em>previously <a href="https://twitter.com/scottlincicome/status/1367148396545466372">reported</a> that “Intel has fallen behind Taiwan Semiconductor Manufacturing in the most‐​advanced production processes, even though the American chip maker has outspent its Taiwanese rival by an average of nearly 6‐​to‐​1 on research and development annually over the past 10 years.” There’s little reason to think that billions of taxpayer dollars, untethered from market discipline, will improve Intel’s new approach (and, in fact, <a href="https://www.sciencedirect.com/science/article/pii/S1043951X17300585">there’s</a> <a href="https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/pirs.12269">plenty</a> <a href="https://www.nber.org/papers/w25432">of</a> <a href="https://poseidon01.ssrn.com/delivery.php?ID=378070074070096108127099068089114076009075022081036087078090006067078004091127078007021011006001039100019103102004111092118084116049039081035024104113089069084107025069011095094065091120007105065102120065011090014028093031030070095074121114124117089072&amp;EXT=pdf&amp;INDEX=TRUE">evidence</a> that it could do just the opposite). </p>
+<p>The federal government should therefore pocket any planned subsidies to Intel — just as Intel’s CEO himself has suggested.</p>
 </div>
 </div>
 </div>
@@ -1035,7 +1359,7 @@ aa('init', {
 </div>
 <div class="block--inner">
 <span class="content-reference-link fs-xs">
-<a href="https://www.cato.org/economics" hreflang="und">Economics</a>, <a href="https://www.cato.org/covid-19" hreflang="en">COVID-19</a>, <a href="https://www.cato.org/economic-impact-covid-19" hreflang="en">Economic Impact of COVID-19</a>
+<a href="https://www.cato.org/economics" hreflang="und">Economics</a>, <a href="https://www.cato.org/manufacturing-industrial-policy" hreflang="en">Manufacturing and Industrial Policy</a>
 </span>
 </div>
 </div>
@@ -1043,27 +1367,27 @@ aa('init', {
 </article>
 </div>
 <div class="spacer--standout--bottom spacer--nomargin--last-child">
-<article about="/blog/misconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" class="blog-page" role="article">
+<article about="/blog/man-hammer-every-criminal-justice-problem-looks-nail" class="blog-page" role="article">
 <div class="blog-page__header mb-5">
 <div class="meta meta--default text-uppercase p-mb-last-child-0">
-<span class="date-time__date date-time__date--default">March 16, 2021</span> <span class="date-time__time date-time__time--default">10:14AM</span>
+<span class="date-time__date date-time__date--default">March 26, 2021</span> <span class="date-time__time date-time__time--default">11:59AM</span>
 </div>
-<h1 class="h2"><a href="/blog/misconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom"><span>Misconceptions About the WTO’s Appeals Mechanism Are Seeping Into Washington Conventional Wisdom</span>
+<h1 class="h2"><a href="/blog/man-hammer-every-criminal-justice-problem-looks-nail"><span>To a Man With a Hammer, Every Criminal Justice Problem Looks Like a Nail</span>
 </a></h1>
 </div>
 <div class="blog-page__separator d-flex align-items-center mb-5">
 <div class="me-4 authors fs-xs fw-medium">
     By 
   
-            <a href="https://www.cato.org/people/simon-lester" hreflang="und">Simon Lester</a>
+            <a href="https://www.cato.org/people/clark-neily" hreflang="und">Clark Neily</a> and <span class="text-semibold">Shon Hopwood</span>
 </div>
 <hr class="blog-page__rule flex-grow-1"/>
-<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/misconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom">
+<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/man-hammer-every-criminal-justice-problem-looks-nail">
 <a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
 <div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
 <div class="icon__wrapper">
 <svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-share"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-share"></use>
 </svg>
 </div>
 <div class="text-icon-inline__content">
@@ -1073,38 +1397,38 @@ aa('init', {
 </a>
 <div class="popover-content js-popover-content"> <div class="fs-xl">
 <div class="js-share-icons icon-row d-flex align-items-center">
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/misconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" href="https://twitter.com/intent/tweet?text=Misconceptions%20About%20the%20WTO%E2%80%99s%20Appeals%20Mechanism%20Are%20Seeping%20Into%20Washington%20Conventional%20Wisdom&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fmisconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/man-hammer-every-criminal-justice-problem-looks-nail" href="https://twitter.com/intent/tweet?text=To%20a%26nbsp%3BMan%20With%20a%26nbsp%3BHammer%2C%20Every%20Criminal%20Justice%20Problem%20Looks%20Like%20a%26nbsp%3BNail&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fman-hammer-every-criminal-justice-problem-looks-nail&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-twitter"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-twitter"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/misconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fmisconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/man-hammer-every-criminal-justice-problem-looks-nail" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fman-hammer-every-criminal-justice-problem-looks-nail" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-facebook"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-facebook"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/misconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fmisconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom&amp;title=Misconceptions%20About%20the%20WTO%E2%80%99s%20Appeals%20Mechanism%20Are%20Seeping%20Into%20Washington%20Conventional%20Wisdom" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/man-hammer-every-criminal-justice-problem-looks-nail" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fman-hammer-every-criminal-justice-problem-looks-nail&amp;title=To%20a%26nbsp%3BMan%20With%20a%26nbsp%3BHammer%2C%20Every%20Criminal%20Justice%20Problem%20Looks%20Like%20a%26nbsp%3BNail" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-linkedin"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-linkedin"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/misconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fmisconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/man-hammer-every-criminal-justice-problem-looks-nail" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fman-hammer-every-criminal-justice-problem-looks-nail" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-reddit"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-reddit"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/misconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" href="mailto:?subject=Cato Institute: Misconceptions%20About%20the%20WTO%E2%80%99s%20Appeals%20Mechanism%20Are%20Seeping%20Into%20Washington%20Conventional%20Wisdom&amp;body=From%20the%20Cato%20Institute%3A%0A%0AMisconceptions%20About%20the%20WTO%E2%80%99s%20Appeals%20Mechanism%20Are%20Seeping%20Into%20Washington%20Conventional%20Wisdom%0A%0AFinding%20a%26amp%3Bnbsp%3Bcompromise%20in%20the%20WTO%E2%80%99s%20dispute%20settlement%20system%20is%20going%20to%20be%20one%20of%20the%20most%20difficult%20challenges%20faced%20by%20Biden%E2%80%99s%20trade%20policy%20team.%20The%20misconceptions%20about%20the%20Appellate%20Body%20that%20have%20seeped%20into%20the%20discussion%20here%20in%20Washington%20will%20make%20the%20task%20much%20harder.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fmisconceptions-about-wtos-appeals-mechanism-are-seeping-washington-conventional-wisdom" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/man-hammer-every-criminal-justice-problem-looks-nail" href="mailto:?subject=Cato Institute: To%20a%26nbsp%3BMan%20With%20a%26nbsp%3BHammer%2C%20Every%20Criminal%20Justice%20Problem%20Looks%20Like%20a%26nbsp%3BNail&amp;body=From%20the%20Cato%20Institute%3A%0A%0ATo%20a%26amp%3Bnbsp%3BMan%20With%20a%26amp%3Bnbsp%3BHammer%2C%20Every%20Criminal%20Justice%20Problem%20Looks%20Like%20a%26amp%3Bnbsp%3BNail%0A%0AA%20spike%20in%20violent%20crime%20during%20the%20pandemic%20is%20no%20reason%20to%20jettison%20decades%20of%20progress%20on%20criminal%20justice%20reform%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fman-hammer-every-criminal-justice-problem-looks-nail" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-email"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-email"></use>
 </svg>
 </div>
 </a>
@@ -1116,21 +1440,15 @@ aa('init', {
 <div class="blog-page__content mb-5 pb-4">
 <div class="body-text fs-lg">
 <div class="body-text fs-lg">
-<p>The Washington Post editorial board had a <a href="https://www.washingtonpost.com/opinions/biden-must-learn-the-right-lesson-from-globalization/2021/03/05/20428b50-7dd9-11eb-85cd-9b7fa90c8873_story.html">recent op‐​ed</a> that focused on defending globalization and free trade from critics. As part of the piece, however, they included the following statement about the WTO’s Appellate Body, which, loosely speaking, is the highest “court”:</p>
-<blockquote><p>If the administration’s call for “reform” of global institutions means it intends to fix the World Trade Organization’s often biased forum for appealing trade rulings — without trashing or withdrawing from the WTO, as former president Donald Trump would have — well and good.</p>
-</blockquote>
-<p>In response, I sent the following letter to the Post to clarify some points about the Appellate Body:</p>
-<blockquote><p>I agree with the general thrust of your editorial entitled “Biden must learn the right lesson from globalization.” However, I take issue with your reference to the WTO’s “often biased forum for appealing trade rulings.”</p>
-<p>A fair accounting of the decisions of the WTO’s Appellate Body shows that the U.S. won some and lost some; and that the Appellate Body sometimes found domestic laws to violate WTO rules, while other times offered up more deference to these laws than the WTO’s “lower court” (called “panels”) did. If there is a bias, it is not obvious what it is. I worked as a staffer supporting the Appellate Body’s “judges” from 1999–2001, and I can say with certainty that every decision was based on a good faith effort to interpret and apply the rules.</p>
-<p>That doesn’t mean the Appellate Body got every decision right, of course. All courts make mistakes. And it’s fine to revisit the Appellate Body’s role. It is certainly the right of the governments who make up the WTO to reconsider the scope of appeals.</p>
-<p>But “often biased” is a strong charge that should not be tossed around lightly, and in this situation overstates the case.</p>
-</blockquote>
-<p>I’m going to elaborate on some of these points here. When people talk about bias, the bias is usually against someone or something. Here, I think the most likely claims of bias would be that the Appellate Body was biased against (1) the United States or (2) certain types of trade measures.</p>
-<p>With regard to bias against the United States, about a year ago I did a <a href="https://ielp.worldtradelaw.net/2020/03/us-wins-and-losses-in-wto-disputes.html">blog post</a> that provided data on wins and losses in WTO disputes. WTO disputes are often complex, and it can be hard to judge wins and losses, but with various caveats, my conclusion was that “[the] figures indicate that the U.S. does a little better than average as a complainant and also as a respondent, although the variance from the average is pretty small.” If there’s a bias against the United States, I didn’t see it in the data.</p>
-<p>As to bias against specific types of trade measures, I think that even many of the anti‐​globalization critics of the WTO would say that the Appellate Body provided a correction to some of the earlier panel decisions that dealt with environmental and other public policy laws and regulations. The Appellate Body showed more deference to these laws and regulations than many panels had, and the U.S. government was generally supportive of that change in approach.</p>
-<p>On the other hand, the Appellate Body showed less deference than did some panels in the area of “trade remedies” (anti‐​dumping, countervailing duties, and safeguards). If the United States has concerns about this, its most productive option, in my view, is to propose specific changes to the WTO provisions in this area. This could involve changes to the substantive law or to the standard of review.</p>
-<p>To be clear, I don’t think the approaches of WTO panels and the Appellate Body in either of these areas should be considered “bias” in the negative sense of the term. The governments who are Members of the WTO create a set of rules, and then those governments bring cases that panels and the Appellate Body hear. It may be that the “judges” who serve as panelists or on the Appellate Body at a given time have certain instincts on particular issues, but that doesn’t mean they are taking an unthinking approach based on preconceived notions. Rather, like domestic judges, panels and the Appellate Body make a good faith effort to interpret and apply the rules in specific cases. Nevertheless, there will always be disagreement on the interpretive approach and on outcomes.</p>
-<p>The Trump administration used allegations of “overreach” in appellate rulings to <a href="https://www.cato.org/blog/saving-wtos-appeals-process">block appointments</a> to the Appellate Body, leaving WTO dispute settlement in crisis. Finding a compromise is going to be one of the most difficult challenges faced by Biden’s trade policy team. The misconceptions about the Appellate Body that have seeped into the discussion here in Washington will make the task much harder.</p>
+<p><span>With </span><a href="https://www.usatoday.com/story/news/nation/2020/08/12/americans-confidence-police-falls-new-low-gallup-poll-shows/3352910001/"><span>public confidence</span></a><span> in police the lowest it has been in decades, </span><a href="https://www.washingtonpost.com/graphics/2018/investigations/where-murders-go-unsolved/"><span>plummeting clearance rates for homicide</span></a><span> and other serious crimes, and growing unrest over our criminal justice system’s myriad pathologies, Josh Hammer takes to the pages of <em>City Journal</em> to trumpet a spike in violent crime during the COVID pandemic and issue a </span><a href="https://www.city-journal.org/recover-the-moral-imperative-of-law-and-order"><span>clarion call</span></a><span> for an even more carceral response across the board—more laws, more arrests, more convictions, and more bodies in cages. Why? Because despite being the world’s most prolific jailers, our real problem is that we don’t lock up <em>enough</em> people.</span></p>
+<p><span>Nearly every sentence in Hammer’s piece is wrong. In reality, crime trends have been at historic lows for decades (even as many states and the federal government have been locking up <em>fewer</em> people, not more), and there is zero evidence of any connection between decarceral criminal justice reforms and the surge in violent crime during the COVID pandemic.</span></p>
+<p><span>But in Hammer’s telling, high crime rates began to plummet in the 1990s amidst bipartisan support for “tough on crime” policies, and we have been reaping the supposed benefits of that aggressively carceral approach ever since. Lately, however, a feckless band of “light‐​on‐​crime libertarians” and Soros‐​loving Democrats have been trying to undo that progress under the banner of criminal justice reform by prosecuting fewer crimes, imposing lighter sentences, and making police more accountable. It’s an interesting and certainly creative historical take, but it doesn’t stand up to scrutiny.</span></p>
+<p><span>Let’s start with the view that being tough on crime and imposing draconian sentences on large swaths of Americans was the primary<em> </em>cause of the great crime decline of the 1990s. Hammer is not an economist or criminologist, and he cites no support for the suggestion of a strong causal link between crime rates and incarceration rates—presumably because the evidence from actual experts </span><a href="https://www.urban.org/sites/default/files/publication/70411/307337-Did-Getting-Tough-on-Crime-Pay-.pdf"><span>is contrary</span></a><span>. Many variables, such as social, economic, and environmental factors influence criminal activity, and </span><a href="https://www.vera.org/downloads/publications/for-the-record-prison-paradox_02.pdf"><span>experts</span></a><span> have found that increases in incarceration have only a small impact on the crime rate. Indeed, one prominent economist replicated several “high‐​credibility” studies on whether incarceration reduces crime, and </span><a href="https://www.openphilanthropy.org/files/Focus_Areas/Criminal_Justice_Reform/The_impacts_of_incarceration_on_crime_10.pdf"><span>he concluded</span></a><span> that “the best estimate of the impact of additional incarceration on crime in the United States today is zero.” These experts’ views are borne out by recent data. Between 2007 and 2017, </span><a href="https://www.brennancenter.org/our-work/analysis-opinion/between-2007-and-2017-34-states-reduced-crime-and-incarceration-tandem#:~:text=Between%202007%20and%202017%2C%2034%20states%20reduced%20both%20imprisonment%20and,see%20our%20latest%20crime%20report)."><span>thirty‐​four states reduced both their crime rates and their prison populations</span></a><span>. </span></p>
+<p><span>With helpful facts in short supply, Hammer tars the First Step Act as an “unparalleled federal jailbreak” without noting that it was a modest reform that has thus far seen the release of just a few thousand aging prisoners—a rounding error in a country with more than two million people behind bars. And his vacuous assertion that it’s “no big stretch to get from the First Step Act to last summer’s prolonged Antifa‐​Black Lives Matter urban anarchy” is pure applesauce, unadorned by data, evidence, or syllogism. </span></p>
+<p><span>Equally puzzling—particularly from a self‐​styled “common‐​good” originalist—is Hammer’s embrace of qualified immunity, a </span><a href="https://www.unlawfulshield.com/frequently-asked-questions-about-qualified-immunity/" target="_blank"><span>judicially confected legal doctrine</span></a><span> specifically designed to ensure that police and other “state actors” who have been plausibly alleged to have violated people’s rights don’t have to answer for it in court. More thoughtful conservatives, including Justices </span><a href="https://scholar.google.com/scholar_case?case=14446377882276636631&amp;q=crawford+el+qualified+immunity&amp;hl=en&amp;as_sdt=6,47"><span>Antonin Scalia</span></a><span> and </span><a href="https://www.courthousenews.com/justice-thomas-calls-for-supreme-court-to-review-qualified-immunity/"><span>Clarence Thomas</span></a><span>, </span><a href="https://reason.com/volokh/2018/08/31/judge-willett-questions-qalified-immunit/"><span>Judge Don Willett</span></a><span>,</span><span> and University of Chicago Law Professor </span><a href="https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=13555&amp;context=journal_articles"><span>Will Baude</span></a><span>, have challenged the legitimacy of qualified immunity on originalist grounds, while scholars of all stripes have shown what an </span><a href="https://www.lawfareblog.com/unpacking-decade-appellate-decisions-qualified-immunity"><span>unmitigated disaster</span></a><span> it has been for </span><a href="https://www.cato.org/publications/legal-briefs/jessop-v-city-fresno-scotus"><span>justice, accountability, and the “moral primacy of order and public safety”</span></a><span> that Hammer himself extols in his piece. </span></p>
+<p><span>Another surprise coming from a conservative is Hammer’s apparent disdain for democracy, at least when it involves electoral majorities choosing reform‐​minded district attorneys who entertain the heresy that it might actually be possible—as such notoriously crime‐​friendly states as </span><a href="https://time.com/5646746/us-crime-incarceration-rates-drop-study/" target="_blank"><span>Texas, Georgia</span></a><span> and </span><a href="https://empowerms.org/latest-data-show-mississippis-criminal-justice-reforms-are-working/#:~:text=Data%20published%20by%20the%20Mississippi,continued%20to%20decrease%20in%202020.&amp;text=Current%20incarceration%20numbers%20represent%20a,state%20remain%20near%20record%20lows." target="_blank"><span>Mississippi</span></a><span> discovered—to reduce crime rates while locking up fewer people.</span></p>
+<p><span>The leave‐​no‐​prison‐​unfilled approach Hammer touts goes well beyond what even Jeff Sessions and William Barr implemented during their respective tenures as Attorney General. There are over 5,000 federal crimes, yet neither Sessions nor Barr tried to charge everyone who violated those statutes. They couldn’t. The federal criminal justice system would be overwhelmed if they did, which is why they used prosecutorial discretion the same way so‐​called “progressive” prosecutors have—to prioritize and target the worst behaviors. </span></p>
+<p><span>Americans should be wary of enthusiastic dilettantes who think a one‐​year spike in crime rates during a global pandemic represents a civic emergency for which the only prescription is to abandon decades of progress on criminal justice reform and simply put even more people behind bars. We tried that approach, and we learned that it doesn’t work—those of us who did our homework, anyway. </span></p>
 </div>
 </div>
 </div>
@@ -1143,7 +1461,7 @@ aa('init', {
 </div>
 <div class="block--inner">
 <span class="content-reference-link fs-xs">
-<a href="https://www.cato.org/trade-agreements-wto" hreflang="en">Trade Agreements and the WTO</a>
+<a href="https://www.cato.org/criminal-justice" hreflang="en">Criminal Justice</a>
 </span>
 </div>
 </div>
@@ -1151,27 +1469,27 @@ aa('init', {
 </article>
 </div>
 <div class="spacer--standout--bottom spacer--nomargin--last-child">
-<article about="/blog/bidens-asia-dilemma-allies-north-korea-diplomacy" class="blog-page" role="article">
+<article about="/blog/new-brandeis-hipster-antitrust-comes-washington" class="blog-page" role="article">
 <div class="blog-page__header mb-5">
 <div class="meta meta--default text-uppercase p-mb-last-child-0">
-<span class="date-time__date date-time__date--default">March 15, 2021</span> <span class="date-time__time date-time__time--default">7:13PM</span>
+<span class="date-time__date date-time__date--default">March 25, 2021</span> <span class="date-time__time date-time__time--default">10:45AM</span>
 </div>
-<h1 class="h2"><a href="/blog/bidens-asia-dilemma-allies-north-korea-diplomacy"><span>Biden’s Asia Dilemma: Allies and North Korea Diplomacy</span>
+<h1 class="h2"><a href="/blog/new-brandeis-hipster-antitrust-comes-washington"><span>New Brandeis “Hipster” Antitrust Comes to Washington</span>
 </a></h1>
 </div>
 <div class="blog-page__separator d-flex align-items-center mb-5">
 <div class="me-4 authors fs-xs fw-medium">
     By 
   
-            <a href="https://www.cato.org/people/eric-gomez" hreflang="und">Eric Gomez</a>
+            <a href="https://www.cato.org/people/ryan-bourne" hreflang="und">Ryan Bourne</a> and <span class="text-semibold">Erin Partin</span>
 </div>
 <hr class="blog-page__rule flex-grow-1"/>
-<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/bidens-asia-dilemma-allies-north-korea-diplomacy">
+<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/new-brandeis-hipster-antitrust-comes-washington">
 <a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
 <div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
 <div class="icon__wrapper">
 <svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-share"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-share"></use>
 </svg>
 </div>
 <div class="text-icon-inline__content">
@@ -1181,38 +1499,38 @@ aa('init', {
 </a>
 <div class="popover-content js-popover-content"> <div class="fs-xl">
 <div class="js-share-icons icon-row d-flex align-items-center">
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/bidens-asia-dilemma-allies-north-korea-diplomacy" href="https://twitter.com/intent/tweet?text=Biden%E2%80%99s%20Asia%20Dilemma%3A%20Allies%20and%20North%20Korea%20Diplomacy&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fbidens-asia-dilemma-allies-north-korea-diplomacy&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/new-brandeis-hipster-antitrust-comes-washington" href="https://twitter.com/intent/tweet?text=New%20Brandeis%20%E2%80%9CHipster%E2%80%9D%20Antitrust%20Comes%20to%20Washington&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-brandeis-hipster-antitrust-comes-washington&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-twitter"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-twitter"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/bidens-asia-dilemma-allies-north-korea-diplomacy" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fbidens-asia-dilemma-allies-north-korea-diplomacy" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/new-brandeis-hipster-antitrust-comes-washington" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-brandeis-hipster-antitrust-comes-washington" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-facebook"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-facebook"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/bidens-asia-dilemma-allies-north-korea-diplomacy" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fbidens-asia-dilemma-allies-north-korea-diplomacy&amp;title=Biden%E2%80%99s%20Asia%20Dilemma%3A%20Allies%20and%20North%20Korea%20Diplomacy" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/new-brandeis-hipster-antitrust-comes-washington" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-brandeis-hipster-antitrust-comes-washington&amp;title=New%20Brandeis%20%E2%80%9CHipster%E2%80%9D%20Antitrust%20Comes%20to%20Washington" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-linkedin"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-linkedin"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/bidens-asia-dilemma-allies-north-korea-diplomacy" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fbidens-asia-dilemma-allies-north-korea-diplomacy" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/new-brandeis-hipster-antitrust-comes-washington" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-brandeis-hipster-antitrust-comes-washington" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-reddit"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-reddit"></use>
 </svg>
 </div>
 </a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/bidens-asia-dilemma-allies-north-korea-diplomacy" href="mailto:?subject=Cato Institute: Biden%E2%80%99s%20Asia%20Dilemma%3A%20Allies%20and%20North%20Korea%20Diplomacy&amp;body=From%20the%20Cato%20Institute%3A%0A%0ABiden%E2%80%99s%20Asia%20Dilemma%3A%20Allies%20and%20North%20Korea%20Diplomacy%0A%0AIt%20may%20be%20impossible%20for%20Washington%20to%20keep%20both%20Seoul%20and%20Tokyo%20happy%20because%20each%20capital%20has%20very%20different%20ideas%20about%20what%20it%20wants%20out%20of%20U.S.%20policy%20toward%20North%20Korea.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fbidens-asia-dilemma-allies-north-korea-diplomacy" rel="nofollow" target="_blank">
+<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/new-brandeis-hipster-antitrust-comes-washington" href="mailto:?subject=Cato Institute: New%20Brandeis%20%E2%80%9CHipster%E2%80%9D%20Antitrust%20Comes%20to%20Washington&amp;body=From%20the%20Cato%20Institute%3A%0A%0ANew%20Brandeis%20%E2%80%9CHipster%E2%80%9D%20Antitrust%20Comes%20to%20Washington%0A%0ABiden%20administration%20nominees%20Lina%20Khan%20and%20Timothy%20Wu%20point%20to%20a%26amp%3Bnbsp%3Btroubling%20shift%20towards%20anti%E2%80%90%E2%80%8Btrust%20behavior%20that%20Cato%20scholars%20oppose.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fnew-brandeis-hipster-antitrust-comes-washington" rel="nofollow" target="_blank">
 <div class="icon__wrapper">
 <svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-email"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-email"></use>
 </svg>
 </div>
 </a>
@@ -1224,15 +1542,14 @@ aa('init', {
 <div class="blog-page__content mb-5 pb-4">
 <div class="body-text fs-lg">
 <div class="body-text fs-lg">
-<p>The Biden administration is working quickly to make good on its rhetoric about making <a href="https://apnews.com/article/biden-foreign-policy-g7-summit-munich-cc10859afd0f542fd268c0a7ddcd9bb6">America’s alliance relationships great again</a>. East Asia has been the primary theater for alliance repair work thus far. The new administration moved quickly to reach military cost‐​sharing agreements with <a href="https://thediplomat.com/2021/03/south-korea-and-us-reach-agreement-on-defense-cost-sharing/">South Korea</a> and <a href="https://www.japantimes.co.jp/news/2021/02/17/national/japan-us-troop-cost/">Japan</a>, smoothing over a prominent <a href="https://www.cato.org/blog/making-offer-south-korea-cant-accept?queryID=947a987962960fa872f82c19ab3d4e5c">source of friction</a> left by the Trump administration.</p>
-<p>Biden has made it clear that he wants the United States and its allies to move together when solving common problems, but this ideal is starting to run up against an inconvenient truth of divergent priorities in friendly capitals.</p>
-<p>It may be impossible for Washington to keep both Seoul and Tokyo happy because each capital has very different ideas about what it wants out of U.S. policy toward North Korea. While both South Korea and Japan would prefer to see North Korea completely denuclearize, the two U.S. allies have different priorities and their approaches to the problem vary significantly.</p>
-<p>Generally speaking, the Moon Jae‐​in administration in Seoul would like to do more to incentivize North Korea to improve relations with both South Korea and the United States. Getting rid of North Korea’s nuclear weapons is one of the major goals of South Korea’s strategy, but achieving denuclearization will require improvements in other policy areas along the way. South Korea’s efforts to <a href="https://www.ncnk.org/node/1633">reduce the risk of conventional military actions</a> along the DMZ, plans for greater economic engagement and <a href="https://apnews.com/article/db806277a16b48c5baf62e326d076121">infrastructure improvements</a>, and calls for a <a href="https://en.yna.co.kr/view/AEN20200922010200315">peace declaration </a>to end the Korean War are examples of how Seoul prioritizes broader engagement efforts as a way to eventually achieve denuclearization. This approach enjoyed some early success in 2018, but after the failure of the U.S.-North Korea summit in Hanoi in February 2019, the North has effectively shut down the South’s engagement push.</p>
-<p>Compared to South Korea’s approach, Japan’s position contains very little room for engagement with North Korea until it makes significant steps toward denuclearization. While South Korea and the United States engaged in summit diplomacy with Kim Jong Un in 2018, Tokyo reiterated that <a href="https://www.washingtonpost.com/world/japans-abe-finds-himself-on-sidelines-amid-outreach-with-north-korea/2018/09/23/5dce8842-bdac-11e8-97f6-0cbdd4d9270e_story.html">sanctions on North Korea should not be lifted</a> until it gives up nuclear weapons. Engagement is not completely off the table. Former prime minister Shinzo Abe, for example, said that he would be <a href="https://www.reuters.com/article/us-northkorea-japan-abe/japans-abe-signals-shift-on-north-korea-says-will-meet-kim-without-conditions-media-idUSKCN1S90K1">willing to negotiate directly with Kim Jong Un</a> without preconditions. This offer of a summit was the exception to the rule, however, and Japan’s approach to North Korea’s nuclear program has generally <a href="https://www.nytimes.com/2017/09/17/opinion/north-korea-shinzo-abe-japan.html">favored greater pressure</a> over engagement.</p>
-<p>This presents a frustrating choice for the Biden administration if it remains committed to working closely with allies to address North Korea’s nuclear program. Adopting policies that favor Seoul’s approach of greater engagement with North Korea and place denuclearization as one of many goals for diplomacy would necessarily place the United States at odds with Japan’s preferences for denuclearization first. Hewing closely to Tokyo’s approach would mean throttling back on the engagement efforts that South Korea favors.</p>
-<p>Early signs suggest the Biden administration will favor Japan over South Korea in this dilemma. In a <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/12/quad-leaders-joint-statement-the-spirit-of-the-quad/">statement released after the first leader‐​level Quad summit on March 12</a>, the United States backed away from the phrase “denuclearization of the Korean Peninsula” and instead committed to the “denuclearization of North Korea.” The former phrase was an important feature of both the <a href="https://www.ncnk.org/resources/publications/panmunjeom_declaration_for_peace.pdf/file_view">April 2018 Panmunjom Declaration for Peace</a> and the <a href="https://www.ncnk.org/resources/publications/180612-trump-kim-joint-statement.pdf/file_view">June 2018 Singapore summit joint statement</a>, which South Korea participated in and strongly supported, respectively. The State Department repeated the “denuclearization of North Korea” formula in a <a href="https://www.state.gov/reaffirming-the-unbreakable-u-s-japan-alliance/">March 14 press release</a> that previewed an upcoming visit to Japan by the U.S. secretaries of state and defense.</p>
-<p>Washington’s review of its North Korea policy is still ongoing but based on these recent statements it seems likely that the Biden administration will adopt a policy that is more closely aligned with Japan’s rather than South Korea’s preferences. This would be bad news for the Moon administration, which has consistently stressed the need for greater U.S. engagement with North Korea despite Kim going to ground after the Hanoi summit.</p>
-<p>A tougher U.S. policy that brings Washington and Tokyo into closer alignment would help Biden differentiate himself from Trump, but it is unlikely to nudge North Korea closer to either denuclearization or arms control. Instead of trying to make allies happy, the Biden administration should <a href="https://www.cato.org/commentary/us-north-korea-diplomacy-president-not-problem-goal?queryID=4fb2d1e9dda4a5cdaca8104ce74de1d9">focus on looking out for the best interests of the United States</a>.</p>
+<p>Two of the Biden administration’s <a href="https://finance.yahoo.com/news/biden-flashes-warning-big-tech-193848166.html">recent</a> <a href="https://www.politico.com/news/2021/03/09/biden-antitrust-tech-ftc-474875">nominees</a> – Lina Khan, tapped to serve as a member of the Federal Trade Commission and Timothy Wu, awaiting appointment to the National Economic Council as a special assistant on technology and competition policy – signal a troubling shift towards the adoption of retrograde and economically‐​damaging approaches to antitrust.</p>
+<p>Khan came to prominence in 2017 with the publication of “Amazon’s Antitrust Paradox,” which argued that antitrust’s narrow focus on “consumer welfare” led to a permissive attitude to anticompetitive behaviors by companies such as Amazon. Features of modern platforms’ business models, she said, incentivized these companies to prioritize growth over profits, making “predatory pricing” rational. Meanwhile, the fact that Amazon acted both as a seller and the provider of what she deemed “essential” infrastructure meant the company was able to “exploit” product information for anticompetitive ends.</p>
+<p>I appeared on a panel with Khan at Columbia University in October 2019. It was clear that she generally believes “systemic” high levels of “market concentration” are inherently problematic—a view that is <a href="https://www.cato.org/economic-policy-brief/does-rising-industry-concentration-signify-monopoly-power?queryID=f7011be4dc458a449cd608c91ebdb81c">empirically debatable</a> and that economists have anyway rejected since the revolution that said consumers’ welfare should be supreme. Khan has been an important advocate, though, of the progressive view that aggressive antitrust policy, by reducing business size, is the key to reduce a range of perceived social problems, including inequality, weak private investment, and the “democratic” harms of large companies as “private government.”</p>
+<p>Tim Wu has a similarly long background of antitrust advocacy, like Khan, with a recent focus on big tech. Most famously, he is credited with bringing the concept of net neutrality – the requirement that internet service providers treat all internet content, users, and websites equally – to the forefront of the public consciousness.</p>
+<p>He shares Khan’s anti‐​bigness instincts. His recent book, <em>The Curse of Bigness: Antitrust in the New Gilded Age</em>, even goes as far as suggesting that insufficient application of antitrust laws to check “private power” has contributed significantly to our political ills today. In policy terms, he would preemptively ban large companies from acquiring others (as Facebook bought Instagram and WhatsApp), irrespective of the likely impacts on consumers. And he would heavily prosecute other companies deemed to engage in anticompetitive action heavily.</p>
+<p>Cato Institute scholars have <a href="https://www.cato.org/commentary/case-against-antitrust">opposed antitrust laws</a> in general, not least because they tend to entrench static thinking, ignoring the key margin of competition in the long‐​term: <a href="https://www.cato.org/publications/policy-analysis/time-different-schumpeter-tech-giants-monopoly-fatalism">Schumpeterian creative destruction.</a></p>
+<p>But the broad focus in recent decades on consumers’ welfare at least brings focus to the outcomes of business behavior, rather than attempting to shape complex markets and ecosystems towards some preconceived idea of what competition should look like. Indeed, the consumer welfare approach was developed precisely because the previous “structuralist” model that Wu and Khan implicitly advocate led to ad hoc rulings, the banning of pro‐​competitive behavior, and deleterious consequences for innovation.</p>
+<p>Many of the particular empirical claims of the likes of Wu and Khan are <a href="https://clsbluesky.law.columbia.edu/2018/10/15/the-dubious-rise-and-inevitable-fall-of-hipster-antitrust/">contentious</a> and they downplay the massive <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207101">consumer surplus</a> <a href="https://mitsloan.mit.edu/ideas-made-to-matter/how-much-are-search-engines-worth-to-you">big tech</a> firms have generated. But, as I concluded in my remarks at Columbia (from <a href="https://www.youtube.com/watch?v=M4Dfjs8n9JI&amp;t=5213s">1:11:00</a>), application of their desired structuralist approach to competition policy risks not only an unwelcome return to rulings that harm consumers, but deterring the sorts of innovations that have really made us all better off in ways we can’t even conceive.</p>
 </div>
 </div>
 </div>
@@ -1245,308 +1562,7 @@ aa('init', {
 </div>
 <div class="block--inner">
 <span class="content-reference-link fs-xs">
-<a href="https://www.cato.org/defense-foreign-policy" hreflang="en">Defense and Foreign Policy</a>
-</span>
-</div>
-</div>
-</div>
-</article>
-</div>
-<div class="spacer--standout--bottom spacer--nomargin--last-child">
-<article about="/blog/ron-paul-our-big-fat-fed" class="blog-page" role="article">
-<div class="blog-page__header mb-5">
-<div class="meta meta--default text-uppercase p-mb-last-child-0">
-<span class="date-time__date date-time__date--default">March 15, 2021</span> <span class="date-time__time date-time__time--default">9:54AM</span>
-</div>
-<h1 class="h2"><a href="/blog/ron-paul-our-big-fat-fed"><span>Ron Paul and Our Big, Fat Fed</span>
-</a></h1>
-</div>
-<div class="blog-page__separator d-flex align-items-center mb-5">
-<div class="me-4 authors fs-xs fw-medium">
-    By 
-  
-            <a href="https://www.cato.org/people/george-selgin" hreflang="und">George Selgin</a>
-</div>
-<hr class="blog-page__rule flex-grow-1"/>
-<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/ron-paul-our-big-fat-fed">
-<a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
-<div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
-<div class="icon__wrapper">
-<svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-share"></use>
-</svg>
-</div>
-<div class="text-icon-inline__content">
-      SHARE
-    </div>
-</div>
-</a>
-<div class="popover-content js-popover-content"> <div class="fs-xl">
-<div class="js-share-icons icon-row d-flex align-items-center">
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/ron-paul-our-big-fat-fed" href="https://twitter.com/intent/tweet?text=Ron%20Paul%20and%20Our%20Big%2C%20Fat%20Fed&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fron-paul-our-big-fat-fed&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-twitter"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/ron-paul-our-big-fat-fed" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fron-paul-our-big-fat-fed" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-facebook"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/ron-paul-our-big-fat-fed" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fron-paul-our-big-fat-fed&amp;title=Ron%20Paul%20and%20Our%20Big%2C%20Fat%20Fed" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-linkedin"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/ron-paul-our-big-fat-fed" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fron-paul-our-big-fat-fed" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-reddit"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/ron-paul-our-big-fat-fed" href="mailto:?subject=Cato Institute: Ron%20Paul%20and%20Our%20Big%2C%20Fat%20Fed&amp;body=From%20the%20Cato%20Institute%3A%0A%0ARon%20Paul%20and%20Our%20Big%2C%20Fat%20Fed%0A%0AThe%20Federal%20Reserve%E2%80%99s%20balance%20sheet%20is%20just%20shy%20of%20%247.6%20trillion.%20And%20Ron%20Paul%20is%20partly%20responsible%20for%20it.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fron-paul-our-big-fat-fed" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-email"></use>
-</svg>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="blog-page__content mb-5 pb-4">
-<div class="body-text fs-lg">
-<div class="body-text fs-lg">
-<p>Regular readers of <em>Alt-M</em> don't need to be told that yours truly is <a href="https://www.alt-m.org/2018/07/03/the-six-trillion-dollar-man/" rel="nofollow noopener noreferrer">no fan of the Fed's gigantic credit footprint</a>. Even before the recent crisis, he lamented both the extent to which the Fed went from merely <em>regulating</em> this nation's short-term money market to <em>being </em>its short-term money market, and the switch to an abundant reserve or <a href="https://www.amazon.com/Floored-Misguided-Experiment-Prolonged-Recession/dp/1948647087" rel="nofollow external noopener noreferrer" target="_blank">"floor" operating system</a> that made a bigger Fed footprint inevitable.</p>
-<p>By the time the Great Recession ended, the Fed's balance sheet was more than four times as large as it was in mid-2008. And now, thanks to the COVID-19 crisis, it has doubled in size yet again, to just shy of $7.6 trillion.</p>
-<p>And Ron Paul is partly responsible for it.</p>
-<p>What? Ron Paul, the retired Texas Congressman who was throughout his long career a constant thorn in the Fed's side? The man who, far from wanting to see the Fed get bigger, led a famous campaign to <a href="https://en.wikipedia.org/wiki/End_the_Fed" rel="nofollow external noopener noreferrer" target="_blank">end it</a>? Yes, <em>that </em>Ron Paul, believe it or not. As paradoxical as it may sound, were it not for one of Paul's earliest attempts to limit the Fed's money-creating powers, it might be as much as $1.3 trillion <em>smaller</em>, as of this writing, than it is in fact.</p>
-<a href="/blog/ron-paul-our-big-fat-fed" hreflang="en">Read the rest of this post →</a>
-</div>
-</div>
-</div>
-<div class="blog-page__topics">
-<div class="block">
-<div class="block__header">
-<h5 class="eyebrow-text meta meta--default text-uppercase p-mb-last-child-0">
-    Related Tags
-  </h5>
-</div>
-<div class="block--inner">
-<span class="content-reference-link fs-xs">
-<a href="https://www.cato.org/monetary-policy" hreflang="en">Monetary Policy</a>, <a href="https://www.cato.org/center-monetary-financial-alternatives" hreflang="en">Center for Monetary and Financial Alternatives</a>, <a href="https://www.cato.org/finance-banking-monetary-policy" hreflang="en">Finance, Banking &amp; Monetary Policy</a>
-</span>
-</div>
-</div>
-</div>
-</article>
-</div>
-<div class="spacer--standout--bottom spacer--nomargin--last-child">
-<article about="/blog/pro-acts-would-be-revolution-labor-law" class="blog-page" role="article">
-<div class="blog-page__header mb-5">
-<div class="meta meta--default text-uppercase p-mb-last-child-0">
-<span class="date-time__date date-time__date--default">March 12, 2021</span> <span class="date-time__time date-time__time--default">10:42AM</span>
-</div>
-<h1 class="h2"><a href="/blog/pro-acts-would-be-revolution-labor-law"><span>The PRO Act: An Intended Revolution In Labor Law</span>
-</a></h1>
-</div>
-<div class="blog-page__separator d-flex align-items-center mb-5">
-<div class="me-4 authors fs-xs fw-medium">
-    By 
-  
-            <a href="https://www.cato.org/people/walter-olson" hreflang="und">Walter Olson</a>
-</div>
-<hr class="blog-page__rule flex-grow-1"/>
-<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/pro-acts-would-be-revolution-labor-law">
-<a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
-<div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
-<div class="icon__wrapper">
-<svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-share"></use>
-</svg>
-</div>
-<div class="text-icon-inline__content">
-      SHARE
-    </div>
-</div>
-</a>
-<div class="popover-content js-popover-content"> <div class="fs-xl">
-<div class="js-share-icons icon-row d-flex align-items-center">
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/pro-acts-would-be-revolution-labor-law" href="https://twitter.com/intent/tweet?text=The%20PRO%20Act%3A%20An%20Intended%20Revolution%20In%20Labor%20Law&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fpro-acts-would-be-revolution-labor-law&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-twitter"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/pro-acts-would-be-revolution-labor-law" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fpro-acts-would-be-revolution-labor-law" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-facebook"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/pro-acts-would-be-revolution-labor-law" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fpro-acts-would-be-revolution-labor-law&amp;title=The%20PRO%20Act%3A%20An%20Intended%20Revolution%20In%20Labor%20Law" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-linkedin"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/pro-acts-would-be-revolution-labor-law" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fpro-acts-would-be-revolution-labor-law" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-reddit"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/pro-acts-would-be-revolution-labor-law" href="mailto:?subject=Cato Institute: The%20PRO%20Act%3A%20An%20Intended%20Revolution%20In%20Labor%20Law&amp;body=From%20the%20Cato%20Institute%3A%0A%0AThe%20PRO%20Act%3A%20An%20Intended%20Revolution%20In%20Labor%20Law%0A%0AAmerica%20shouldn%E2%80%99t%20return%20to%20the%20failed%20labor%20law%20principles%20of%20the%20Thirties.%20The%20proposed%20PRO%20Act%20is%20regressive%20and%20a%26amp%3Bnbsp%3Bmenace%20to%20liberty.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fpro-acts-would-be-revolution-labor-law" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-email"></use>
-</svg>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="blog-page__content mb-5 pb-4">
-<div class="body-text fs-lg">
-<div class="body-text fs-lg">
-<p>The right direction for labor law reform is to move toward more respect for freedom of contract and a federal government retrenchment from a role in regulating union‐​management relations that is nowhere contemplated for it in the Constitution. Instead, the PRO Act, passed this week by the House on a near‐​party‐​line vote, would put the private workplace on a forced march in precisely the wrong direction. (Details on the bill’s provisions <a href="https://www.employmentlawwatch.com/2021/03/articles/employment-us/labor-law-under-the-biden-administration-a-preview-of-the-pro-act/">here</a>, <a href="https://www.littler.com/publication-press/publication/pro-act-would-upend-us-labor-laws-non-union-and-unionized-employers">here</a>, <a href="https://www.fisherphillips.com/resources-alerts-pro-act-could-pay-dividends">here</a>, and <a href="https://www.natlawreview.com/article/labor-law-reform-horizon-ten-things-to-watch-under-pro-act">here</a>.)</p>
-<ul>
-<li>It would trash voluntary contractual relations, including the legitimate role of independent contracting, where it would follow the disastrous path of <a href="https://www.overlawyered.com/?s=%22ab5%22">California’s AB5</a> in putting a wide array of <a href="https://theweek.com/articles/970098/federal-labor-legislation-that-kill-livelihood">freelance jobs at risk</a>. It would also invalidate many <a href="https://www.cato.org/blog/epic-systems-v-lewis-its-ok-calm-down-about-arbitration">pre‐​dispute agreements to arbitrate</a>, and bar many employees from being given the legal status of supervisors even if they welcome that role.</li>
-<li>It would thrust the federal government even further into private workplace regulation through <a href="https://www.overlawyered.com/?s=%22joint+employer%22">“joint employer” rules</a> that <a href="https://www.cato.org/blog/obama-administration-declares-war-franchisors-subcontractors">blur and misattribute</a> responsibility among multiple employers, a new federal power to <a href="https://www.littler.com/publication-press/publication/pro-act-would-upend-us-labor-laws-non-union-and-unionized-employers#mature">impose a first contract</a> when union negotiations do not result in one, and highly punitive new <a href="https://www.littler.com/publication-press/publication/pro-act-would-upend-us-labor-laws-non-union-and-unionized-employers#mature">penalties and legal exposures</a>, including personal liability for officers and directors.</li>
-<li>It even has dubious First Amendment implications, as with provisions seeking to regulate (and deter) management’s <a href="https://www.overlawyered.com/?s=%22persuader+rule%22">resort to legal counsel</a> in unionization drives, and a requirement that in‐​house employee forums established by a company be required to carry anti‐​management messaging.</li>
-</ul>
-<p>The PRO Act is regressive, looking back to a vision of labor relations that was <a href="https://www.cato.org/cato-handbook-policymakers/cato-handbook-policy-makers-8th-edition-2017/62-labor-employment-law">mistaken even in its Thirties heyday</a>. And it is a menace to liberty. </p>
-</div>
-</div>
-</div>
-<div class="blog-page__topics">
-<div class="block">
-<div class="block__header">
-<h5 class="eyebrow-text meta meta--default text-uppercase p-mb-last-child-0">
-    Related Tags
-  </h5>
-</div>
-<div class="block--inner">
-<span class="content-reference-link fs-xs">
-<a href="https://www.cato.org/labor-law-regulation" hreflang="en">Labor Law and Regulation</a>
-</span>
-</div>
-</div>
-</div>
-</article>
-</div>
-<div class="spacer--standout--bottom spacer--nomargin--last-child">
-<article about="/blog/congress-should-not-expect-miracle-monetary-stimulus" class="blog-page" role="article">
-<div class="blog-page__header mb-5">
-<div class="meta meta--default text-uppercase p-mb-last-child-0">
-<span class="date-time__date date-time__date--default">March 12, 2021</span> <span class="date-time__time date-time__time--default">10:40AM</span>
-</div>
-<h1 class="h2"><a href="/blog/congress-should-not-expect-miracle-monetary-stimulus"><span>Congress Should Not Expect a Miracle from Monetary Stimulus</span>
-</a></h1>
-</div>
-<div class="blog-page__separator d-flex align-items-center mb-5">
-<div class="me-4 authors fs-xs fw-medium">
-    By 
-  
-            <a href="https://www.cato.org/people/james-dorn" hreflang="und">James A. Dorn</a>
-</div>
-<hr class="blog-page__rule flex-grow-1"/>
-<div class="ms-4 share-popover js-share-popover popover-wrapper js-popover" data-share-target="https://www.cato.org/blog/congress-should-not-expect-miracle-monetary-stimulus">
-<a class="js-popover-trigger cursor-pointer popover-trigger" data-bs-placement="bottom" data-bs-trigger="click" id="popover-trigger">
-<div class="text-icon-inline align-items-center text-icon-inline-- text-icon-inline--margin">
-<div class="icon__wrapper">
-<svg class="icon icon--share" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-share"></use>
-</svg>
-</div>
-<div class="text-icon-inline__content">
-      SHARE
-    </div>
-</div>
-</a>
-<div class="popover-content js-popover-content"> <div class="fs-xl">
-<div class="js-share-icons icon-row d-flex align-items-center">
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="tweet" data-social-network="Twitter" data-social-target="https://www.cato.org/blog/congress-should-not-expect-miracle-monetary-stimulus" href="https://twitter.com/intent/tweet?text=Congress%20Should%20Not%20Expect%20a%26nbsp%3BMiracle%20from%20Monetary%20Stimulus&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcongress-should-not-expect-miracle-monetary-stimulus&amp;via=CatoInstitute&amp;related=Libertarianism" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-twitter"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="like" data-social-network="Facebook" data-social-target="https://www.cato.org/blog/congress-should-not-expect-miracle-monetary-stimulus" href="https://www.facebook.com/dialog/share?app_id=158687980817033&amp;href=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcongress-should-not-expect-miracle-monetary-stimulus" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-facebook"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="share" data-social-network="LinkedIn" data-social-target="https://www.cato.org/blog/congress-should-not-expect-miracle-monetary-stimulus" href="https://www.linkedin.com/shareArticle?mini=true&amp;source=Cato%20Institute&amp;url=https%3A%2F%2Fwww.cato.org%2Fblog%2Fcongress-should-not-expect-miracle-monetary-stimulus&amp;title=Congress%20Should%20Not%20Expect%20a%26nbsp%3BMiracle%20from%20Monetary%20Stimulus" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-linkedin"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="submit" data-social-network="Reddit" data-social-target="https://www.cato.org/blog/congress-should-not-expect-miracle-monetary-stimulus" href="https://reddit.com/https%3A%2F%2Fwww.cato.org%2Fblog%2Fcongress-should-not-expect-miracle-monetary-stimulus" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--reddit" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-reddit"></use>
-</svg>
-</div>
-</a>
-<a class="js-share-service icon-row__link me-2 link--" data-social-action="send" data-social-network="Email" data-social-target="https://www.cato.org/blog/congress-should-not-expect-miracle-monetary-stimulus" href="mailto:?subject=Cato Institute: Congress%20Should%20Not%20Expect%20a%26nbsp%3BMiracle%20from%20Monetary%20Stimulus&amp;body=From%20the%20Cato%20Institute%3A%0A%0ACongress%20Should%20Not%20Expect%20a%26amp%3Bnbsp%3BMiracle%20from%20Monetary%20Stimulus%0A%0ACongress%20should%20not%20treat%20stimulus%20like%20a%26amp%3Bnbsp%3Bmiracle%20drug%20that%20will%20mend%20the%20pandemic%20or%20believe%20the%20Fed%20can%20simply%20monetize%20Treasury%20debt%20without%20longer%E2%80%90%E2%80%8Brun%20consequences.%0A%0Ahttps%3A%2F%2Fwww.cato.org%2Fblog%2Fcongress-should-not-expect-miracle-monetary-stimulus" rel="nofollow" target="_blank">
-<div class="icon__wrapper">
-<svg class="icon icon--email" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-email"></use>
-</svg>
-</div>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="blog-page__content mb-5 pb-4">
-<div class="body-text fs-lg">
-<div class="body-text fs-lg">
-<p>Monetary policy can only do so much: it cannot permanently increase the wealth of a nation. That is the lesson from economic history. In the short run, the Fed can affect real variables like output and employment by expansionary monetary policy, but trying to use monetary stimulus as the primary vehicle to move the economy forward is an invitation for price inflation in the longer run.</p>
-<p>In enacting President Biden’s $1.9 trillion <a href="https://www.cnbc.com/2021/03/10/stimulus-update-house-passes-1point9-trillion-covid-relief-bill-sends-to-biden.html">relief bill</a>, Congress should not expect a miracle. The risk is that as the Fed buys a larger share of the federal debt, inflation could increase—if there is an excess supply of money. Although policymakers are focused on the near term, it would be irresponsible to assume that most of the impact of the monetary stimulus <a href="https://www.washingtonpost.com/opinions/2021/02/04/larry-summers-biden-covid-stimulus/">will show up in real economic growth rather than higher inflation. </a></p>
-<p>The <a href="https://www.federalreserve.gov/aboutthefed/section2a.htm">Federal Reserve Act</a>, as amended in 1978, states that the Fed’s primary responsibility is to achieve long-run price stability and maximum employment. To do so the Fed is required to “maintain long-run growth of the monetary and credit aggregates commensurate with the economy’s long-run potential to increase production.”</p>
-<p>The Fed’s experiment with <a href="https://www.frbsf.org/education/publications/doctor-econ/2003/january/monetary-policy-1970s-1980s/">targeting the quantity of money</a> (actually the quantity of nonborrowed reserves) was short-lived (1979–1982), as financial innovation and other factors weakened the link between money and prices. In 1993, Fed Chairman Alan Greenspan told Congress that the monetary aggregates were not reliable guides for monetary policy. Ben Bernanke moved to an inflation targeting regime in 2012, and last year Jerome Powell moved to <a href="https://www.brookings.edu/blog/up-front/2020/09/02/what-do-changes-in-the-feds-longer-run-goals-and-monetary-strategy-statement-mean/">“flexible average inflation targeting.”</a></p>
-<p>Rather than aiming at inflation of 2 percent a year, which already deviates from “price stability” (zero inflation), the FOMC now aims at <em>average</em> inflation of 2 percent. That change in the monetary framework gives the Fed greater discretion to pump up money and credit. Indeed, the <a href="https://www.wsj.com/articles/the-risks-of-too-much-stimulus-11612307861#:~:text=Yet%20all%20the%20factors%20are,international%20production%20and%20transportation%20capacity.">M2 money supply</a> has increased more than 25 percent during the last 12 months.</p>
-<p>Nevertheless, the steep rise in M2 should be viewed in line with the sharp decline in the velocity of money (which means a rise in the demand for money) as a result of the pandemic and near zero interest rates. Consequently, the demand and supply of money may not be that far out of line, thus reducing (for the moment) inflationary pressures. It is uncertain how rapidly velocity will return to trend after the pandemic.</p>
-<p>Moreover, it is important to understand that, under the Fed’s new operating system (the so-called floor system), the Board of Governors can increase the interest on excess reserves (IOER) to <a href="https://www.alt-m.org/2020/04/27/return-of-the-inflation-mongers/">neutralize the inflationary impact of QE</a>. That means <span>growth in the Fed's balance sheet mostly results in corresponding growth in bank's free reserves, with no corresponding growth in broader money measures.</span></p>
-<p><span>Yet, with IOER near zero and the economy recovering, the Fed may be reluctant to increase the rate it pays on reserves. Consequently, there is a risk that increases in the monetary base could have a larger impact on the monetary aggregates, with implications for future inflation.</span></p>
-<p>Meanwhile, a little more inflation is seen as beneficial in achieving “maximum employment” (which policymakers have <a href="https://www.federalreserve.gov/newsevents/speech/clarida20200831a.htm">never attempted to assign a numerical value</a>, since it is unobservable), and the Fed now believes the <a href="https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2019-economic-commentaries/ec-201911-flattening-phillips-curve.aspx">Phillips curve</a> is flat. Thus, policymakers believe that monetary stimulus, intended to lower unemployment, is unlikely to generate long-run inflation in excess of the desired 2 percent <em>average</em>.</p>
-<a href="/blog/congress-should-not-expect-miracle-monetary-stimulus" hreflang="en">Read the rest of this post →</a>
-</div>
-</div>
-</div>
-<div class="blog-page__topics">
-<div class="block">
-<div class="block__header">
-<h5 class="eyebrow-text meta meta--default text-uppercase p-mb-last-child-0">
-    Related Tags
-  </h5>
-</div>
-<div class="block--inner">
-<span class="content-reference-link fs-xs">
-<a href="https://www.cato.org/monetary-policy" hreflang="en">Monetary Policy</a>, <a href="https://www.cato.org/center-monetary-financial-alternatives" hreflang="en">Center for Monetary and Financial Alternatives</a>, <a href="https://www.cato.org/finance-banking-monetary-policy" hreflang="en">Finance, Banking &amp; Monetary Policy</a>
+<a href="https://www.cato.org/economics" hreflang="und">Economics</a>, <a href="https://www.cato.org/government-politics" hreflang="en">Government and Politics</a>, <a href="https://www.cato.org/antitrust" hreflang="en">Antitrust</a>
 </span>
 </div>
 </div>
@@ -1613,7 +1629,7 @@ aa('init', {
 <span aria-hidden="true">
 <div class="icon__wrapper">
 <svg class="icon icon--arrow-forward" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-arrow-forward"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-arrow-forward"></use>
 </svg>
 </div>
 </span>
@@ -1651,7 +1667,7 @@ aa('init', {
 <div class="site-footer__logo">
 <a class="home-logo__container" href="/" rel="home">
 <svg aria-label="Cato Institute logo linking back to homepage" class="home-logo" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/logo/images/sprites.svg?qpvm5s#sprite-cato-logo"></use>
+<use xlink:href="/build/logo/images/sprites.svg?qqkyoh#sprite-cato-logo"></use>
 </svg>
 </a>
 </div>
@@ -1659,42 +1675,42 @@ aa('init', {
 <a class="icon-row__link me-2 link--text" href="https://www.facebook.com/CatoInstitute">
 <div class="icon__wrapper">
 <svg class="icon icon--facebook" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-facebook"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-facebook"></use>
 </svg>
 </div>
 </a>
 <a class="icon-row__link me-2 link--text" href="https://twitter.com/catoinstitute">
 <div class="icon__wrapper">
 <svg class="icon icon--twitter" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-twitter"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-twitter"></use>
 </svg>
 </div>
 </a>
 <a class="icon-row__link me-2 link--text" href="https://www.youtube.com/catoinstitutevideo">
 <div class="icon__wrapper">
 <svg class="icon icon--youtube" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-youtube"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-youtube"></use>
 </svg>
 </div>
 </a>
 <a class="icon-row__link me-2 link--text" href="https://www.linkedin.com/company/cato-institute">
 <div class="icon__wrapper">
 <svg class="icon icon--linkedin" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-linkedin"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-linkedin"></use>
 </svg>
 </div>
 </a>
 <a class="icon-row__link me-2 link--text" href="https://instagram.com/catoinstitute">
 <div class="icon__wrapper">
 <svg class="icon icon--instagram" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-instagram"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-instagram"></use>
 </svg>
 </div>
 </a>
 <a class="icon-row__link me-2 link--text" href="https://www.cato.org/ecommunity/rss">
 <div class="icon__wrapper">
 <svg class="icon icon--rss" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
-<use xlink:href="/build/icon/images/sprites.svg?qpvm5s#sprite-rss"></use>
+<use xlink:href="/build/icon/images/sprites.svg?qqkyoh#sprite-rss"></use>
 </svg>
 </div>
 </a>
@@ -1742,6 +1758,9 @@ aa('init', {
 <a class="nav-link site-footer__nav-link no-link-padding" data-drupal-link-system-path="node/91480" href="/contact">Contact</a>
 </li>
 </ul>
+</li>
+<li class="nav-item site-footer__nav-item site-footer__nav-item--level-0">
+<a class="nav-link site-footer__nav-link no-link-padding site-footer__nav-link--heading" data-drupal-link-system-path="podcasts" href="/podcasts">Podcasts</a>
 </li>
 </ul>
 </nav>
@@ -1859,22 +1878,22 @@ aa('init', {
 </footer>
 </div>
 </div>
-<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"blog","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"customAnalyticsEvents":[],"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"statusMessages":"20000","cachebuster":"qpvm5s","user":{"uid":0,"permissionsHash":"caeb9220bdbbb8c5708bcad81254b66d28b775335c8e40dac456c3f63ec8fd76"}}</script>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"blog","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"customAnalyticsEvents":[],"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"statusMessages":"20000","cachebuster":"qqkyoh","user":{"uid":0,"permissionsHash":"caeb9220bdbbb8c5708bcad81254b66d28b775335c8e40dac456c3f63ec8fd76"}}</script>
 <script src="/sites/cato.org/files/js/js_c8LbWbHV1txem3q8oAzuadnL-HiBShaQH_WRviNqT_g.js"></script>
 <script src="/sites/cato.org/files/js/js_JRVkdaDX240seMFt89i8e1ofG7q62O49uL5YwWn9rjc.js"></script>
-<script src="/build/runtime.js?qpvm5s"></script>
-<script src="/build/vendor/js/core-js-pure.js?qpvm5s"></script>
-<script src="/build/vendor/js/babel.js?qpvm5s"></script>
-<script src="/build/vendor/js/luxon.js?qpvm5s"></script>
-<script src="/build/web_themes_custom_cato_2020_resource_js_modules_FetchStyle_js.js?qpvm5s"></script>
-<script src="/build/cato_2020/js/app.js?qpvm5s"></script>
-<script src="/build/share_popover/js/share-popover.js?qpvm5s"></script>
-<script src="/build/vendor/js/bootstrap.js?qpvm5s"></script>
-<script src="/build/vendor/js/popperjs.js?qpvm5s"></script>
-<script src="/build/popover/js/popover.js?qpvm5s"></script>
-<script src="/build/expand_list/js/expand-list.js?qpvm5s"></script>
-<script src="/build/web_themes_custom_cato_2020_resource_js_modules_ResponsiveWidgetBooter_js.js?qpvm5s"></script>
-<script src="/build/expand_collapse/js/expand-collapse.js?qpvm5s"></script>
+<script src="/build/runtime.js?qqkyoh"></script>
+<script src="/build/vendor/js/core-js-pure.js?qqkyoh"></script>
+<script src="/build/vendor/js/babel.js?qqkyoh"></script>
+<script src="/build/vendor/js/luxon.js?qqkyoh"></script>
+<script src="/build/web_themes_custom_cato_2020_resource_js_modules_FetchStyle_js.js?qqkyoh"></script>
+<script src="/build/cato_2020/js/app.js?qqkyoh"></script>
+<script src="/build/share_popover/js/share-popover.js?qqkyoh"></script>
+<script src="/build/vendor/js/bootstrap.js?qqkyoh"></script>
+<script src="/build/vendor/js/popperjs.js?qqkyoh"></script>
+<script src="/build/popover/js/popover.js?qqkyoh"></script>
+<script src="/build/expand_list/js/expand-list.js?qqkyoh"></script>
+<script src="/build/web_themes_custom_cato_2020_resource_js_modules_ResponsiveWidgetBooter_js.js?qqkyoh"></script>
+<script src="/build/expand_collapse/js/expand-collapse.js?qqkyoh"></script>
 <script src="/sites/cato.org/files/js/js_vvcqGiEtlqJeCAuH1jugAe6w5vMojk8J4wLkuc8EXzs.js"></script>
 <!-- Start of HubSpot Embed Code -->
 <script async="" defer="" id="hs-script-loader" src="//js.hs-scripts.com/4957480.js" type="text/javascript"></script>
@@ -1902,7 +1921,7 @@ aa('init', {
           twq('track','PageView');
         </script>
 <!-- End Twitter universal website tag code -->
-<script async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1694870410" type="text/javascript"></script>
+<script async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=1&amp;cb=1367816719" type="text/javascript"></script>
 </body>
 </html>
-<!-- Cached at: 2021-03-16T14:52:50-04:00 -->
+<!-- Cached at: 2021-03-26T16:39:46-04:00 -->

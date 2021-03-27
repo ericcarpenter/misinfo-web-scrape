@@ -142,7 +142,7 @@ var pluploadL10n = {"queue_limit_exceeded":"You have attempted to queue too many
 <script id="plupload-handlers-js" src="https://chaser.com.au/wp-includes/js/plupload/handlers.min.js?ver=5.5.3" type="text/javascript"></script>
 <script id="give_ffm_frontend-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var give_ffm_frontend = {"ajaxurl":"https:\/\/chaser.com.au\/wp-admin\/admin-ajax.php","error_message":"Please complete all required fields","submit_button_text":"Donate Now","nonce":"f95044bd6a","confirmMsg":"Are you sure?","i18n":{"timepicker":{"choose_time":"Choose Time","time":"Time","hour":"Hour","minute":"Minute","second":"Second","done":"Done","now":"Now"},"repeater":{"max_rows":"You have added the maximum number of fields allowed."}},"plupload":{"url":"https:\/\/chaser.com.au\/wp-admin\/admin-ajax.php?nonce=a6a179e79a","flash_swf_url":"https:\/\/chaser.com.au\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"*"}],"multipart":true,"urlstream_upload":true}};
+var give_ffm_frontend = {"ajaxurl":"https:\/\/chaser.com.au\/wp-admin\/admin-ajax.php","error_message":"Please complete all required fields","submit_button_text":"Donate Now","nonce":"28b7ae3bf8","confirmMsg":"Are you sure?","i18n":{"timepicker":{"choose_time":"Choose Time","time":"Time","hour":"Hour","minute":"Minute","second":"Second","done":"Done","now":"Now"},"repeater":{"max_rows":"You have added the maximum number of fields allowed."}},"plupload":{"url":"https:\/\/chaser.com.au\/wp-admin\/admin-ajax.php?nonce=1a48b5ab43","flash_swf_url":"https:\/\/chaser.com.au\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"*"}],"multipart":true,"urlstream_upload":true}};
 /* ]]> */
 </script>
 <script id="give_ffm_frontend-js" src="https://chaser.com.au/wp-content/plugins/give-form-field-manager/assets/js/frontend/give-ffm-frontend.min.js?ver=1.4.4" type="text/javascript"></script>
@@ -156,7 +156,7 @@ var give_stripe_vars = {"zero_based_currency":"","zero_based_currencies_list":["
 <script id="babel-polyfill-js" src="https://chaser.com.au/wp-content/plugins/give/assets/dist/js/babel-polyfill.js?ver=2.5.10" type="text/javascript"></script>
 <script id="give-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var give_global_vars = {"ajaxurl":"https:\/\/chaser.com.au\/wp-admin\/admin-ajax.php","checkout_nonce":"5f36863ed5","currency":"AUD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","number_decimals":"2","give_version":"2.5.10","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/chaser.com.au\/wp-admin\/admin-ajax.php","ajaxNonce":"98eec28b0d","loading":"Loading","select_option":"Please select an option","default_gateway":"stripe","permalinks":"1","number_decimals":2},"cookie_hash":"fc288a9e5c4dd591d3220bbd3311468a","session_nonce_cookie_name":"wp-give_session_reset_nonce_fc288a9e5c4dd591d3220bbd3311468a","session_cookie_name":"wp-give_session_fc288a9e5c4dd591d3220bbd3311468a","delete_session_nonce_cookie":"0"};
+var give_global_vars = {"ajaxurl":"https:\/\/chaser.com.au\/wp-admin\/admin-ajax.php","checkout_nonce":"5614a8a442","currency":"AUD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","number_decimals":"2","give_version":"2.5.10","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/chaser.com.au\/wp-admin\/admin-ajax.php","ajaxNonce":"7d735644cc","loading":"Loading","select_option":"Please select an option","default_gateway":"stripe","permalinks":"1","number_decimals":2},"cookie_hash":"fc288a9e5c4dd591d3220bbd3311468a","session_nonce_cookie_name":"wp-give_session_reset_nonce_fc288a9e5c4dd591d3220bbd3311468a","session_cookie_name":"wp-give_session_fc288a9e5c4dd591d3220bbd3311468a","delete_session_nonce_cookie":"0"};
 var giveApiSettings = {"root":"https:\/\/chaser.com.au\/wp-json\/give-api\/v2\/","rest_base":"give-api\/v2"};
 /* ]]> */
 </script>
@@ -194,7 +194,7 @@ var Give_Recurring_Vars = {"email_access":"1","pretty_intervals":{"1":"Every","2
 <header class="header-fixed" style="left: 0px;">
 <div class="header-main table">
 <div class="table-cell header-mobile header-item item-left" onclick="menu()" title="Topics"><div class="sections"><div class="section_item"></div><div class="section_item"></div><div class="section_item_last"></div></div></div>
-<div class="table-cell header-item item-left" onclick="window.location.href='https://chaser.com.au/general-news/scomos-empathy-coach-wins-peace-prize-after-stopping-a-massacre/'" title="Latest">LATEST</div>
+<div class="table-cell header-item item-left" onclick="window.location.href='https://chaser.com.au/entertainment/hamish-mcdonald-shocked-to-learn-he-is-actually-the-host-of-q-a-not-just-a-viewer/'" title="Latest">LATEST</div>
 <div class="table-cell header-item item-left" onclick="window.location.href='http://www.chaser.com.au//2011/man-spends-entire-camping-trip-trying-to-get-phone-reception/#popular'" style="opacity: 0;" title="Popular">POPULAR</div>
 <div class="table-cell header-logo">
 <a href="/" title="Striving for mediocrity in a world of excellence.">
@@ -882,60 +882,60 @@ Privacy Policy
 <div class="container">
 <div style="overflow: hidden; width:0;height:0;position:absolute;top:0;left:0;">Striving for mediocrity in a world of excelence, The Chaser is a media empire which rivals Rupert Murdoch’s in all fields except power, influence, popularity and profitability.</div>
 <div class="table row_1">
-<a class="block_item top_story" href="https://chaser.com.au/general-news/scomos-empathy-coach-wins-peace-prize-after-stopping-a-massacre/">
-<img alt="" class="top_story_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/shutterstock_145006510-315x180.jpg"> <div class="top_story_caption">
+<a class="block_item top_story" href="https://chaser.com.au/entertainment/hamish-mcdonald-shocked-to-learn-he-is-actually-the-host-of-q-a-not-just-a-viewer/">
+<img alt="" class="top_story_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/ec43bcd0-0f1a-11ea-8fed-aaab1a4aa0a8-315x180.jpg"> <div class="top_story_caption">
 <div class="top_story_title">
-ScoMo’s empathy coach wins peace prize after stopping a massacre </div>
+Hamish McDonald shocked to learn he is actually the host of Q&amp;A, not just a viewer </div>
 <div class="top_story_extract">
-$190,000 of Taxpayer money well spent </div>
+"Ohhh I am supposed to be the host?" </div>
 </div>
 </img></a>
 <div class="breaker_50">
 </div>
 <div class="block_item">
-<a class="long_block" href="https://chaser.com.au/world/same-sex-marriage-is-immoral-say-organisation-protecting-hundreds-of-child-molesters/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/shutterstock_1261504201-315x180.jpg"/> <div class="long_block_title">
-“Same sex marriage is immoral” say organisation protecting hundreds of child molesters </div>
+<a class="long_block" href="https://chaser.com.au/national/tracy-grimshaw-raided-by-the-afp/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/Grimshaw-raid-315x180.png"/> <div class="long_block_title">
+Tracy Grimshaw raided by the AFP </div>
 </a>
-<a class="long_block" href="https://chaser.com.au/national/liberals-call-in-former-minister-for-women-to-investigate-partys-sexism-problem/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/abbott_wink_large-315x180.jpg"/> <div class="long_block_title">
-Liberals call in former Minister for Women to investigate party’s sexism problem </div>
+<a class="long_block" href="https://chaser.com.au/national/politically-connected-commentators-heroically-reveal-serious-issues-they-kept-quiet-for-years/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/Our-heroes-315x180.png"/> <div class="long_block_title">
+Politically connected commentators heroically reveal serious issues they kept quiet for years </div>
 </a>
-<a class="long_block" href="https://chaser.com.au/general-news/dictator-dan-would-have-shot-the-ladies-says-sky-news/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/PM-stops-massacre-315x180.png"/> <div class="long_block_title">
-‘Dictator Dan would have shot the ladies’ says Sky News </div>
+<a class="long_block" href="https://chaser.com.au/national/cabinet-reshuffled-ruler-of-australia-remains-the-same/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/rupert-murdoch-fox-315x180.jpg"/> <div class="long_block_title">
+Cabinet reshuffled, ruler of Australia remains the same </div>
 </a>
 </div>
 </div>
 <div class="table row_2">
-<a class="card_item" href="https://chaser.com.au/national/chaser-fact-check-yes-morrison-is-better-than-dictators-who-shoot-their-citizens/">
-<img alt="" class="card_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/PM-didnt-massacre-civilians-315x180.png"/><div class="card_caption">
+<a class="card_item" href="https://chaser.com.au/general-news/scomos-empathy-coach-talked-down-from-parliament-roof-after-tense-four-hour-negotiation/">
+<img alt="" class="card_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/empathy_consultant-315x180.jpg"/><div class="card_caption">
 <div class="card_title">
-CHASER FACT-CHECK: Yes, Morrison is better than dictators who shoot their citizens </div>
+Scomo’s empathy coach talked down from Parliament roof after tense four-hour negotiation </div>
 </div>
 </a>
 <div class="breaker_25">
 </div>
-<a class="card_item" href="https://chaser.com.au/national/liberal-party-launches-new-campaign-slogan-were-not-going-to-shoot-you/">
-<img alt="" class="card_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/morrison-315x180.jpeg"/><div class="card_caption">
+<a class="card_item" href="https://chaser.com.au/national/police-release-drawing-of-man-suspected-of-stopping-boats-in-suez-canal/">
+<img alt="" class="card_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/suez2-315x180.jpg"/><div class="card_caption">
 <div class="card_title">
-Liberal Party launches new campaign slogan: “We’re not going to shoot you!” </div>
+Police release drawing of man suspected of stopping boats in Suez Canal </div>
 </div>
 </a>
 <div class="breaker_25">
 </div>
-<a class="card_item" href="https://chaser.com.au/general-news/jenny-applies-for-emotional-stress-leave/">
-<img alt="" class="card_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/02/jenny3-315x180.jpg"/><div class="card_caption">
+<a class="card_item" href="https://chaser.com.au/general-news/sacked-from-cabinet-horrified-porter-realises-hell-now-have-to-deal-with-centrelink/">
+<img alt="" class="card_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/porter_centrelink-315x180.jpg"/><div class="card_caption">
 <div class="card_title">
-Jenny applies for emotional stress leave </div>
+Sacked from cabinet, horrified Porter realises he’ll have to deal with centrelink </div>
 </div>
 </a>
 <div class="breaker_25">
 </div>
-<a class="card_item" href="https://chaser.com.au/entertainment/bolt-launches-defamation-lawsuit-against-himself-for-making-him-look-like-an-idiot/">
-<img alt="" class="card_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/andrew_bolt_chaser-copy-315x180.jpg"/><div class="card_caption">
+<a class="card_item" href="https://chaser.com.au/national/morrison-announces-cabinet-reshuffle-over-fears-staffer-might-have-had-sex-on-it/">
+<img alt="" class="card_image wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/morrison_annoyed-315x180.jpg"/><div class="card_caption">
 <div class="card_title">
-Bolt launches defamation lawsuit against himself for making him look like an idiot </div>
+ Morrison announces cabinet reshuffle over fears staffer might have had sex on it </div>
 </div>
 </a>
 </div>
@@ -950,33 +950,33 @@ Bolt launches defamation lawsuit against himself for making him look like an idi
 <div class="block_row"><div class="election_heading">More News</div></div>
 <div class="block_item block_item70 features_list">
 <div class="block_item features_list">
-<a class="long_block" href="https://chaser.com.au/general-news/pm-urges-protesters-to-imagine-their-own-daughters-were-powerful-men-accused-of-sexual-assault/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" sizes="(max-width: 315px) 100vw, 315px" src="https://chaser.com.au/wp-content/uploads/2021/03/scomo_march-315x180.jpg" srcset="https://chaser.com.au/wp-content/uploads/2021/03/scomo_march-315x180.jpg 315w, https://chaser.com.au/wp-content/uploads/2021/03/scomo_march-300x170.jpg 300w"/> <div class="long_block_title">
-PM urges protesters to imagine their own daughters were powerful men accused of sexual assault </div>
+<a class="long_block" href="https://chaser.com.au/general-news/cabinet-reshuffle-morrison-struggling-to-decide-which-man-to-appoint-as-minister-for-women/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/morrison_thinking_chaser-315x180.jpg"/> <div class="long_block_title">
+Cabinet reshuffle: Morrison struggling to decide which man to appoint as Minister for Women </div>
 </a>
-<a class="long_block" href="https://chaser.com.au/general-news/scomo-awarded-feminist-of-the-year-after-not-firing-indiscriminately-into-crowd/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/scomo_gun-315x180.jpg"/> <div class="long_block_title">
-ScoMo awarded feminist of the year after not firing indiscriminately into crowd </div>
+<a class="long_block" href="https://chaser.com.au/national/we-need-more-women-mps-in-the-liberal-party-but-not-if-that-means-fewer-men-says-pm/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/Scomo-lick-315x180.jpg"/> <div class="long_block_title">
+‘We need more women MPs in the Liberal Party, but not if that means fewer men’ says PM </div>
 </a>
-<a class="long_block" href="https://chaser.com.au/national/how-good-is-not-shooting-women-says-scott-morrison/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/scomo_armie-315x180.jpg"/> <div class="long_block_title">
-“How good is not shooting women,” says Scott Morrison </div>
+<a class="long_block" href="https://chaser.com.au/national/morrison-apologizes-for-false-allegation-i-didnt-know-sky-wasnt-part-of-the-liberal-party/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/morrison_shrug_chaser-315x180.jpg"/> <div class="long_block_title">
+Morrison apologizes to News Corp for false allegation “I didn’t know Sky wasn’t part of the Liberal Party” </div>
 </a>
 </div>
 <div class="breaker_50">
 </div>
 <div class="block_item features_list">
-<a class="long_block" href="https://chaser.com.au/national/sleazy-creep-who-regularly-chatted-up-women-in-canberra-bars-somehow-thinks-he-has-reputation-to-protect/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/porter_shrug-315x180.jpg"/> <div class="long_block_title">
-Sleazy creep who regularly chatted up women in Canberra bars somehow thinks he has reputation to protect </div>
+<a class="long_block" href="https://chaser.com.au/national/nation-shocked-that-govt-detaining-children-on-island-prison-isnt-great-at-ethics/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/ethics-315x180.jpg"/> <div class="long_block_title">
+Nation shocked that govt detaining children on island prison isn’t great at ethics </div>
 </a>
-<a class="long_block" href="https://chaser.com.au/national/scott-morrison-seen-at-his-own-march4trustingwhatyourmatetoldyou/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/LNP-protest-315x180.png"/> <div class="long_block_title">
-Scott Morrison seen at his own ‘March4TrustingWhatYourMateToldYou” </div>
+<a class="long_block" href="https://chaser.com.au/national/heartwarming-baker-hands-out-free-bread-from-boat-and-is-immediately-detained-on-nauru/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/boat_baker-315x180.jpg"/> <div class="long_block_title">
+Heartwarming: Baker hands out free bread from boat and is immediately detained on Nauru </div>
 </a>
-<a class="long_block" href="https://chaser.com.au/general-news/newspoll-has-labor-leading-cheers-guy-who-vowed-to-never-trust-newspoll-again-after-last-election/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/shutterstock_1012263394-315x180.jpg"/> <div class="long_block_title">
-‘Newspoll has Labor leading’ cheers guy who vowed to never trust Newspoll again after last election </div>
+<a class="long_block" href="https://chaser.com.au/national/morrison-clarifies-reason-he-didnt-shoot-crowd-is-hes-too-busy-aiming-at-own-foot/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/morrison_shooting_foot-315x180.jpg"/> <div class="long_block_title">
+Morrison clarifies reason he didn’t shoot crowd is he’s too busy aiming at own foot </div>
 </a>
 </div>
 </div>
@@ -992,6 +992,10 @@ Scott Morrison seen at his own ‘March4TrustingWhatYourMateToldYou” </div>
 <div class="block_row"><div class="election_heading">World News</div></div>
 <div class="block_item block_item70 features_list">
 <div class="block_item features_list">
+<a class="long_block" href="https://chaser.com.au/world/same-sex-marriage-is-immoral-say-organisation-protecting-hundreds-of-child-molesters/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/shutterstock_1261504201-315x180.jpg"/> <div class="long_block_title">
+“Same sex marriage is immoral” say organisation protecting hundreds of child molesters </div>
+</a>
 <a class="long_block" href="https://chaser.com.au/world/german-greek-immigrant-family-concerned-about-whether-their-great-grandson-is-english-enough/">
 <img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/philip-315x180.jpg"/> <div class="long_block_title">
 German/Greek immigrant family concerned about whether their great grandson is English enough </div>
@@ -1000,14 +1004,14 @@ German/Greek immigrant family concerned about whether their great grandson is En
 <img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/philip_smothered-315x180.jpg"/> <div class="long_block_title">
 Security rushed to Prince Philip’s hospital bed to ensure he doesn’t say a fucking word </div>
 </a>
-<a class="long_block" href="https://chaser.com.au/world/the-queen-looking-into-if-she-can-still-behead-people/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/rtr23acl-315x180.jpg"/> <div class="long_block_title">
-The Queen looking into if she can still behead people </div>
-</a>
 </div>
 <div class="breaker_50">
 </div>
 <div class="block_item features_list">
+<a class="long_block" href="https://chaser.com.au/world/the-queen-looking-into-if-she-can-still-behead-people/">
+<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/rtr23acl-315x180.jpg"/> <div class="long_block_title">
+The Queen looking into if she can still behead people </div>
+</a>
 <a class="long_block" href="https://chaser.com.au/world/harry-and-meghan-announce-completion-of-their-one-millionth-interview-about-how-they-just-want-their-privacy/">
 <img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/03/cnn-315x180.jpg"/> <div class="long_block_title">
 Harry and Meghan announce completion of their one millionth interview about how they just want their privacy </div>
@@ -1015,10 +1019,6 @@ Harry and Meghan announce completion of their one millionth interview about how 
 <a class="long_block" href="https://chaser.com.au/world/cancel-culture-strikes-again-as-snowflakes-ruin-ted-cruzs-holiday/">
 <img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/02/Ted-Cruz-Snow-315x180.png"/> <div class="long_block_title">
 Cancel Culture strikes again as snowflakes ruin Ted Cruz’s holiday </div>
-</a>
-<a class="long_block" href="https://chaser.com.au/world/republicans-vote-to-acquit-osama-bin-laden/">
-<img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2021/02/Cruz-bin-Laden-315x180.png"/> <div class="long_block_title">
-Republicans vote to acquit Osama bin Laden </div>
 </a>
 </div>
 </div>
@@ -1045,7 +1045,7 @@ The Chaser Report – Ep 35 – A Midsummer Night’s Vaccine </div>
 <div class="block_item features_list">
 <a class="long_block" href="https://chaser.com.au/podcasts/the-chaser-report-ep-34-happy-f-day/">
 <img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2020/12/ep34_rectangle-315x180.jpg"/> <div class="long_block_title">
-The Chaser Report – Ep 34 – Happy F Day!  </div>
+The Chaser Report – Ep 34 – Happy F Day! </div>
 </a>
 <a class="long_block" href="https://chaser.com.au/podcasts/the-chaser-report-ep-33-trump-wins-election-as-long-as-you-dont-count-all-the-votes/">
 <img alt="" class="long_block_thumb wp-post-image" loading="lazy" src="https://chaser.com.au/wp-content/uploads/2020/12/ep33_rectangle-315x180.jpg"/> <div class="long_block_title">
@@ -1133,33 +1133,33 @@ More videos
 <div class="block_row"><div class="election_heading">Shovel Politics<img src="https://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV.png" style="height: 1em; width: 1em;"/></div></div>
 <div class="block_item block_item70 features_list">
 <div class="block_item features_list">
-<a class="long_block" href="https://www.theshovel.com.au/2021/03/16/scott-morrison-guy-sebastian-bunnings-women/">
-<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/scott-morrison-fighter-jet.jpeg"/> <div class="long_block_title">
-Scott Morrison Calls Press Conference In Fighter Jet With Guy Sebastian To Announce Free Bunnings Vouchers For All Australian Women </div>
+<a class="long_block" href="https://www.theshovel.com.au/2021/03/25/government-shifts-to-netflix-model-of-political-scandals-dropping-all-483-episodes-at-once/">
+<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/Netflix-Government-scandals.png"/> <div class="long_block_title">
+Government Shifts To Netflix Model Of Political Scandals, Dropping All 483 Episodes At Once </div>
 </a>
-<a class="long_block" href="https://www.theshovel.com.au/2021/03/16/christian-porter-takes-mental-health-leave-to-seek-the-professional-legal-help-he-needs/">
-<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/christian-porter-rape-scandal.png"/> <div class="long_block_title">
-Christian Porter Takes Mental Health Leave To Seek The Professional Legal Help He Needs </div>
+<a class="long_block" href="https://www.theshovel.com.au/2021/03/24/new-look-morrison-promises-to-cover-up-rapes-more-respectfully-from-now-on/">
+<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/Scott-Morrison-sad.png"/> <div class="long_block_title">
+New-Look Morrison Promises To Cover Up Rapes More Respectfully From Now On </div>
 </a>
-<a class="long_block" href="https://www.theshovel.com.au/2021/03/15/abc-says-it-doesnt-have-time-to-read-the-defamation-proceedings-launched-by-christian-porter/">
-<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/christian-porter-ABC.png"/> <div class="long_block_title">
-ABC Says It Doesn’t Have Time To Read The Defamation Proceedings Launched By Christian Porter </div>
+<a class="long_block" href="https://www.theshovel.com.au/2021/03/23/i-dont-use-a-desk-mate-scott-morrison-responsibility/">
+<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/Scott-Morrison-press-conference.png"/> <div class="long_block_title">
+“I Don’t Use A Desk, Mate”: Scott Morrison Refuses To Take Responsibility For Latest Sex Scandal </div>
 </a>
 </div>
 <div class="breaker_50">
 </div>
 <div class="block_item features_list">
-<a class="long_block" href="https://www.theshovel.com.au/2021/03/15/ikea-renames-its-3-seat-sofa-the-wa-liberal-party/">
-<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/ikea-wa-election.png"/> <div class="long_block_title">
-IKEA Renames Its 3-Seat Sofa ‘The WA Liberal Party’ To Commemorate Historic Election Result </div>
+<a class="long_block" href="https://www.theshovel.com.au/2021/03/23/morrison-responds-decisively-to-sydney-floods-by-announcing-funding-for-ark/">
+<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2020/02/noah-ark-620x398.jpg"/> <div class="long_block_title">
+Morrison Responds Decisively To Sydney Floods By Announcing Funding For Ark </div>
 </a>
-<a class="long_block" href="https://www.theshovel.com.au/2021/03/15/christian-porter-agrees-to-meet-with-march4justice-organisers-if-theyll-iron-his-shirt-first/">
-<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/christian-porter-satire-2.png"/> <div class="long_block_title">
-Christian Porter Agrees To Meet With March4Justice Organisers If They’ll Iron His Shirt First </div>
+<a class="long_block" href="https://www.theshovel.com.au/2021/03/23/use-of-sex-workers-at-parliament-house-first-time-mps-have-ever-paid-for-anything/">
+<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/parliament-house-close-up.png"/> <div class="long_block_title">
+Use Of Sex Workers At Parliament House First Time MPs Have Ever Paid For Anything </div>
 </a>
-<a class="long_block" href="https://www.theshovel.com.au/2021/03/12/christian-porter-arrested-robodebt-hecs/">
-<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/Christian-Porter.png"/> <div class="long_block_title">
-Christian Porter Arrested After Robodebt Finds He Owes $6 On His HECS Bill </div>
+<a class="long_block" href="https://www.theshovel.com.au/2021/03/23/morrison-wife-masturbating-desk-appropriate/">
+<img class="long_block_thumb wp-post-image" src="https://www.theshovel.com.au/wp-content/uploads/2021/03/Scott-and-Jenny-morrison.png"/> <div class="long_block_title">
+Morrison Sits Down With Wife To Determine Whether Masturbating On Female MP’s Desk Is Appropriate Or Not </div>
 </a>
 </div>
 </div>
@@ -1293,7 +1293,7 @@ UN called in to resolve washing-up stalemate
 </div>
 <div class="footer-copyright">© Copyright Chaser Corp. 2021.</div>
 </footer>
-<a href="https://chaser.com.au/?blackhole=10ce83d5e5" rel="nofollow" style="display:none;" title="Blackhole for Bad Bots">Do NOT follow this link or you will be banned from the site!</a>
+<a href="https://chaser.com.au/?blackhole=0b21310910" rel="nofollow" style="display:none;" title="Blackhole for Bad Bots">Do NOT follow this link or you will be banned from the site!</a>
 <style>
 @media screen and (max-width: 768px){
 	[id*=give-form] div#give-sidebar-left, [id*=give-form] div.images, [id*=give-form] div.summary{

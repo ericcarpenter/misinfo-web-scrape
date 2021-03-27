@@ -75,13 +75,13 @@ img.emoji {
 <link href="https://www.americanprogress.org/content/plugins/Popup-Maker/assets/css/site.min.css?ver=1.4.15" id="popup-maker-site-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://act.americanprogress.org/ea-demo/frontend/pbAssets/build/css/enPage.css?ver=4.6.10" id="en_styles-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.americanprogress.org/content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=4.6.10" id="related-posts-by-taxonomy-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.americanprogress.org/content/themes/cap_core/css/printing-rules.css?ver=1.0.16" id="printing-rules-css" media="print" rel="stylesheet" type="text/css"/>
-<link href="https://www.americanprogress.org/content/themes/cap_core/css/min/style.min.css?ver=1.0.16" id="cap_core-style-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.americanprogress.org/content/themes/cap_core/css/custom.css?ver=1.0.16" id="custom-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.americanprogress.org/content/themes/cap_core/css/responsive2.css?ver=1.0.16" id="responsive2-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.americanprogress.org/content/themes/cap_core/css/responsive.css?ver=1.0.16" id="responsive-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.americanprogress.org/content/themes/cap_core/css/print.css?ver=1.0.16" id="print-css" media="print" rel="stylesheet" type="text/css"/>
-<link href="https://www.americanprogress.org/content/mu-plugins/js/dragdealer-master/src/dragdealer.css?ver=1.0.16" id="dragdealer-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.americanprogress.org/content/themes/cap_core/css/printing-rules.css?ver=1.0.19" id="printing-rules-css" media="print" rel="stylesheet" type="text/css"/>
+<link href="https://www.americanprogress.org/content/themes/cap_core/css/min/style.min.css?ver=1.0.19" id="cap_core-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.americanprogress.org/content/themes/cap_core/css/custom.css?ver=1.0.19" id="custom-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.americanprogress.org/content/themes/cap_core/css/responsive2.css?ver=1.0.19" id="responsive2-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.americanprogress.org/content/themes/cap_core/css/responsive.css?ver=1.0.19" id="responsive-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.americanprogress.org/content/themes/cap_core/css/print.css?ver=1.0.19" id="print-css" media="print" rel="stylesheet" type="text/css"/>
+<link href="https://www.americanprogress.org/content/mu-plugins/js/dragdealer-master/src/dragdealer.css?ver=1.0.19" id="dragdealer-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.americanprogress.org/content/themes/cap_core/bower_components/mdi/css/materialdesignicons.min.css?ver=4.6.10" id="mdi-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.americanprogress.org/content/themes/cap_core/css/jquery.fancybox.css?ver=4.6.10" id="fancybox-css" media="all" rel="stylesheet" type="text/css"/>
 <script src="https://www.americanprogress.org/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
@@ -108,7 +108,7 @@ var swiftypeObj = {"engineKey":"Eqsrs2GTE_JFL6QA-25N","placeholderText":"Search 
 <script src="https://www.americanprogress.org/content/mu-plugins/js/consolidated/ui-utils.min.js?ver=4.6.10" type="text/javascript"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var aamLocal = {"nonce":"bea6c76929","ajaxurl":"https:\/\/www.americanprogress.org\/wp-admin\/admin-ajax.php"};
+var aamLocal = {"nonce":"bc807d7233","ajaxurl":"https:\/\/www.americanprogress.org\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script src="//www.americanprogress.org/content/plugins/advanced-access-manager/media/js/aam-login.js?ver=4.6.10" type="text/javascript"></script>
@@ -284,34 +284,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- START REVOLUTION SLIDER 5.2.6 auto mode -->
 <div class="rev_slider fullwidthabanner" data-version="5.2.6" id="rev_slider_19_1" style="display:none;">
 <ul> <!-- SLIDE  -->
-<li data-description="Florida leaders must address environmental racism through the creation of a Florida Future Fund that will build just, equitable, and healthy communities." data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-497149" data-link="https://www.americanprogress.org/issues/green/reports/2021/03/16/497149/securing-safe-just-climate-ready-future-florida/" data-masterspeed="default" data-param1="Energy and Environment" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://cdn.americanprogress.org/content/uploads/2021/03/15073824/FloridaFutureFund.png" data-title="Securing a Safe, Just, and Climate-Ready Future for Florida" data-transition="parallaxvertical">
+<li data-description="The United States’ maternal health crisis demands federal and state action to improve coverage, the delivery of care, and pregnancy outcomes. The cost of inaction will almost certainly be dire." data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-497536" data-link="https://www.americanprogress.org/issues/women/reports/2021/03/25/497536/building-aca-administrative-actions-improve-maternal-health/" data-masterspeed="default" data-param1="Women" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://cdn.americanprogress.org/content/uploads/2021/03/24114952/GettyImages-823333090-cropped.jpg" data-title="Building on the ACA: Administrative Actions to Improve Maternal Health" data-transition="parallaxvertical">
 <!-- MAIN IMAGE -->
-<img alt="Bird's-eye view of houses along an eroded beach/shoreline close to the water's edge." class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="694" src="https://cdn.americanprogress.org/content/uploads/2021/03/15073824/FloridaFutureFund.png" title="FloridaFutureFund" width="1040"/>
+<img alt="" class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="694" src="https://cdn.americanprogress.org/content/uploads/2021/03/24114952/GettyImages-823333090-cropped.jpg" title="GettyImages-823333090–cropped" width="1040"/>
 <!-- LAYERS -->
 <!-- LAYER NR. 1 -->
-<div class="tp-caption News-Title tp-resizeme" data-fontsize="['30','30','30','20']" data-height="['98','98','none','none']" data-hoffset="['70','70','65','53']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['155','155','43','35']" data-whitespace="normal" data-width="['693','693','612','369']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497149-layer-1" style="z-index: 5; min-width: 693px; max-width: 693px; max-width: 98px; max-width: 98px; white-space: normal; font-size: 30px; line-height: 30px; font-weight: 700;">Securing a Safe, Just, and Climate-Ready Future for Florida </div>
+<div class="tp-caption News-Title tp-resizeme" data-fontsize="['30','30','30','20']" data-height="['98','98','none','none']" data-hoffset="['70','70','65','53']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['155','155','43','35']" data-whitespace="normal" data-width="['693','693','612','369']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497536-layer-1" style="z-index: 5; min-width: 693px; max-width: 693px; max-width: 98px; max-width: 98px; white-space: normal; font-size: 30px; line-height: 30px; font-weight: 700;">Building on the ACA: Administrative Actions to Improve Maternal Health </div>
 <!-- LAYER NR. 2 -->
-<div class="tp-caption tp-resizeme" data-fontsize="['20','20','20','14']" data-height="['223','223','none','none']" data-hoffset="['73','73','70','58']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['225','225','163','122']" data-whitespace="normal" data-width="['657','657','596','359']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497149-layer-2" style="z-index: 6; min-width: 657px; max-width: 657px; max-width: 223px; max-width: 223px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;">Florida leaders must address environmental racism through the creation of a Florida Future Fund that will build just, equitable, and healthy communities. </div>
+<div class="tp-caption tp-resizeme" data-fontsize="['20','20','20','14']" data-height="['223','223','none','none']" data-hoffset="['73','73','70','58']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['225','225','163','122']" data-whitespace="normal" data-width="['657','657','596','359']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497536-layer-2" style="z-index: 6; min-width: 657px; max-width: 657px; max-width: 223px; max-width: 223px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;">The United States’ maternal health crisis demands federal and state action to improve coverage, the delivery of care, and pregnancy outcomes. The cost of inaction will almost certainly be dire. </div>
 </li>
 <!-- SLIDE  -->
-<li data-description="The American Rescue Plan expands health coverage and affordability for millions of people as the country climbs out of the coronavirus crisis." data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-497019" data-link="https://www.americanprogress.org/issues/healthcare/reports/2021/03/11/497019/policies-improve-health-insurance-coverage-america-recovers-covid-19/" data-masterspeed="default" data-param1="Health Care" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://cdn.americanprogress.org/content/uploads/2021/03/10061836/GettyImages-1211059989.jpg" data-title="Policies To Improve Health Insurance Coverage as America Recovers From COVID-19" data-transition="parallaxvertical">
+<li data-description="The Biden administration should restart the collection of employer pay data, convene a new interagency equal pay task force, undertake an initiative to promote greater pay transparency, and designate more funding for enforcement of equal pay protections in order to regain lost ground and make progress for working women." data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-497478" data-link="https://www.americanprogress.org/issues/women/reports/2021/03/24/497478/10-essential-actions-promote-equal-pay/" data-masterspeed="default" data-param1="Women" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://cdn.americanprogress.org/content/uploads/2021/03/23115915/PayDataCollectionBrief.jpg" data-title="10 Essential Actions To Promote Equal Pay" data-transition="parallaxvertical">
 <!-- MAIN IMAGE -->
-<img alt="Getty/The Washington Post/Michael S. Williamson" class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="694" src="https://cdn.americanprogress.org/content/uploads/2021/03/10061836/GettyImages-1211059989.jpg" title="After Losing Their Jobs, Many Now Are Losing Their Insurance" width="1040"/>
+<img alt="Getty/Alexi Rosenfeld" class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="694" src="https://cdn.americanprogress.org/content/uploads/2021/03/23115915/PayDataCollectionBrief.jpg" title="PayDataCollectionBrief" width="1040"/>
 <!-- LAYERS -->
 <!-- LAYER NR. 1 -->
-<div class="tp-caption News-Title tp-resizeme" data-fontsize="['30','30','30','20']" data-height="['98','98','none','none']" data-hoffset="['70','70','65','53']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['155','155','43','35']" data-whitespace="normal" data-width="['693','693','612','369']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497019-layer-1" style="z-index: 5; min-width: 693px; max-width: 693px; max-width: 98px; max-width: 98px; white-space: normal; font-size: 30px; line-height: 30px; font-weight: 700;">Policies To Improve Health Insurance Coverage as America Recovers From COVID-19 </div>
+<div class="tp-caption News-Title tp-resizeme" data-fontsize="['30','30','30','20']" data-height="['98','98','none','none']" data-hoffset="['70','70','65','53']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['155','155','43','35']" data-whitespace="normal" data-width="['693','693','612','369']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497478-layer-1" style="z-index: 5; min-width: 693px; max-width: 693px; max-width: 98px; max-width: 98px; white-space: normal; font-size: 30px; line-height: 30px; font-weight: 700;">10 Essential Actions To Promote Equal Pay </div>
 <!-- LAYER NR. 2 -->
-<div class="tp-caption tp-resizeme" data-fontsize="['20','20','20','14']" data-height="['223','223','none','none']" data-hoffset="['73','73','70','58']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['225','225','163','122']" data-whitespace="normal" data-width="['657','657','596','359']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497019-layer-2" style="z-index: 6; min-width: 657px; max-width: 657px; max-width: 223px; max-width: 223px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;">The American Rescue Plan expands health coverage and affordability for millions of people as the country climbs out of the coronavirus crisis. </div>
+<div class="tp-caption tp-resizeme" data-fontsize="['20','20','20','14']" data-height="['223','223','none','none']" data-hoffset="['73','73','70','58']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['225','225','163','122']" data-whitespace="normal" data-width="['657','657','596','359']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497478-layer-2" style="z-index: 6; min-width: 657px; max-width: 657px; max-width: 223px; max-width: 223px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;">The Biden administration should restart the collection of employer pay data, convene a new interagency equal pay task force, undertake an initiative to promote greater pay transparency, and designate more funding for enforcement of equal pay protections in order to regain lost ground and make progress for working women. </div>
 </li>
 <!-- SLIDE  -->
-<li data-description="By engaging with advocates and policymakers, a National Task Force on Civic Engagement and Voter Participation can increase Americans’ civic engagement." data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-497200" data-link="https://www.americanprogress.org/issues/democracy/reports/2021/03/16/497200/biden-administration-can-tackle-americas-voter-turnout-problem/" data-masterspeed="default" data-param1="Democracy and Government" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://cdn.americanprogress.org/content/uploads/2021/03/15121159/VoterTurnoutBrief.jpg" data-title="How the Biden Administration Can Tackle America’s Voter Turnout Problem" data-transition="parallaxvertical">
+<li data-description="Long-term tax incentives for clean electricity can serve as the cornerstone of power sector decarbonization and part of a virtuous cycle of standards and investments." data-easein="default" data-easeout="default" data-hideafterloop="0" data-hideslideonmobile="off" data-index="rs-497500" data-link="https://www.americanprogress.org/issues/green/news/2021/03/24/497500/investing-clean-electricity-build-back-better/" data-masterspeed="default" data-param1="Energy and Environment" data-param10="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-rotate="0" data-saveperformance="off" data-slotamount="default" data-thumb="https://cdn.americanprogress.org/content/uploads/2021/03/23123637/GettyImages-1134505238-CROPPED.png" data-title="Investing in Clean Electricity to Build Back Better" data-transition="parallaxvertical">
 <!-- MAIN IMAGE -->
-<img alt="Getty/CQ-Roll Call Inc/Tom Williams" class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="694" src="https://cdn.americanprogress.org/content/uploads/2021/03/15121159/VoterTurnoutBrief.jpg" title="VoterTurnoutBrief" width="1040"/>
+<img alt="Getty/Robert Alexander" class="rev-slidebg" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat" data-no-retina="" height="694" src="https://cdn.americanprogress.org/content/uploads/2021/03/23123637/GettyImages-1134505238-CROPPED.png" title="GettyImages-1134505238-CROPPED" width="1040"/>
 <!-- LAYERS -->
 <!-- LAYER NR. 1 -->
-<div class="tp-caption News-Title tp-resizeme" data-fontsize="['30','30','30','20']" data-height="['98','98','none','none']" data-hoffset="['70','70','65','53']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['155','155','43','35']" data-whitespace="normal" data-width="['693','693','612','369']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497200-layer-1" style="z-index: 5; min-width: 693px; max-width: 693px; max-width: 98px; max-width: 98px; white-space: normal; font-size: 30px; line-height: 30px; font-weight: 700;">How the Biden Administration Can Tackle America’s Voter Turnout Problem </div>
+<div class="tp-caption News-Title tp-resizeme" data-fontsize="['30','30','30','20']" data-height="['98','98','none','none']" data-hoffset="['70','70','65','53']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['155','155','43','35']" data-whitespace="normal" data-width="['693','693','612','369']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497500-layer-1" style="z-index: 5; min-width: 693px; max-width: 693px; max-width: 98px; max-width: 98px; white-space: normal; font-size: 30px; line-height: 30px; font-weight: 700;">Investing in Clean Electricity to Build Back Better </div>
 <!-- LAYER NR. 2 -->
-<div class="tp-caption tp-resizeme" data-fontsize="['20','20','20','14']" data-height="['223','223','none','none']" data-hoffset="['73','73','70','58']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['225','225','163','122']" data-whitespace="normal" data-width="['657','657','596','359']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497200-layer-2" style="z-index: 6; min-width: 657px; max-width: 657px; max-width: 223px; max-width: 223px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;">By engaging with advocates and policymakers, a National Task Force on Civic Engagement and Voter Participation can increase Americans’ civic engagement. </div>
+<div class="tp-caption tp-resizeme" data-fontsize="['20','20','20','14']" data-height="['223','223','none','none']" data-hoffset="['73','73','70','58']" data-responsive_offset="on" data-splitin="none" data-splitout="none" data-start="500" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-voffset="['225','225','163','122']" data-whitespace="normal" data-width="['657','657','596','359']" data-x="['left','left','left','left']" data-y="['top','top','top','top']" id="slide-497500-layer-2" style="z-index: 6; min-width: 657px; max-width: 657px; max-width: 223px; max-width: 223px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Open Sans;">Long-term tax incentives for clean electricity can serve as the cornerstone of power sector decarbonization and part of a virtuous cycle of standards and investments. </div>
 </li>
 </ul>
 <script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
@@ -499,17 +499,17 @@ jsFileLocation:"//www.americanprogress.org/content/plugins/revslider/public/asse
 <input class="ghost" id="extra_check" name="extra_check" type="checkbox" value="1"/>
 </input></form>
 </div>
-</div><h3><a href="https://www.americanprogress.org/issues/lgbtq-rights/view/"><span>LGBTQ Rights</span></a></h3><div class="cards row one-layout">
-<a class="card card-497158 one-one one-box img-left" href="https://www.americanprogress.org/issues/lgbtq-rights/reports/2021/03/15/497158/need-know-equality-act/">
-<div class="img"> <img alt="What You Need To Know About the Equality Act" src="https://cdn.americanprogress.org/content/uploads/2021/03/12114342/GettyImages-1174493827-450x283.jpg"/></div>
+</div><h3><a href="https://www.americanprogress.org/tag/equal-pay-day/"><span>Equal Pay Day</span></a></h3><div class="cards row one-layout">
+<a class="card card-497475 one-one one-box img-left" href="https://www.americanprogress.org/issues/women/reports/2021/03/24/497475/salary-history-bans-matter-securing-equal-pay/">
+<div class="img"> <img alt="Why Salary History Bans Matter To Securing Equal Pay" src="https://cdn.americanprogress.org/content/uploads/2021/03/23122929/SecuringEqualPay-450x283.png"/></div>
 <div class="card-content one_column">
-<h5 class="card-title">What You Need To Know About the Equality Act</h5>
+<h5 class="card-title">Why Salary History Bans Matter To Securing Equal Pay</h5>
 <div class="description-one"><div class="nomobile" itemprop="description">
-	    This fact sheet outlines how the Equality Act would provide much-needed civil rights protections for LGBTQ people, women, people of faith, and others.
+	    A comprehensive effort to secure equal pay must include limiting employers’ reliance on salary history in hiring and compensation decisions, as this practice can result in wage disparities and pay discrimination for women and workers of color.
       </div></div>
-<div class="byline-one"><div class="byline bio-pic-only nomobile">By Theo Santos, Caroline Medina, and Sharita Gruberg</div></div>
+<div class="byline-one"><div class="byline bio-pic-only nomobile">By Robin Bleiweis</div></div>
 <div class="card-meta card-meta-one">
-<span class="primary-issue" data-issue="lgbtq-rights">LGBTQ Rights</span>
+<span class="primary-issue" data-issue="women">Women</span>
 </div>
 </div>
 </a></div><h3><a href="https://www.americanprogress.org/tag/coronavirus/"><span>Coronavirus</span></a></h3><div class="cards row one-third-layout w-images">
@@ -552,52 +552,52 @@ jsFileLocation:"//www.americanprogress.org/content/plugins/revslider/public/asse
 </a>
 </div>
 <div class="col-md-1-3 flexrow">
-<a class="card-496733" href="https://www.americanprogress.org/issues/economy/reports/2021/03/05/496733/latinos-face-disproportionate-health-economic-impacts-covid-19/">
+<a class="card-497019" href="https://www.americanprogress.org/issues/healthcare/reports/2021/03/11/497019/policies-improve-health-insurance-coverage-america-recovers-covid-19/">
 <div class="three-box onethird">
-<div class="card-image" style="overflow-x: hidden; overflow-y: hidden;"> <img alt="Latinos Face Disproportionate Health and Economic Impacts From COVID-19" class="nomobile" src="https://cdn.americanprogress.org/content/uploads/2021/03/04114742/GettyImages-1258001713-325x217.jpg"/></div>
+<div class="card-image" style="overflow-x: hidden; overflow-y: hidden;"> <img alt="Policies To Improve Health Insurance Coverage as America Recovers From COVID-19" class="nomobile" src="https://cdn.americanprogress.org/content/uploads/2021/03/10061836/GettyImages-1211059989-325x217.jpg"/></div>
 <div class="card-content card-1-3">
-<h5 class="card-title">Latinos Face Disproportionate Health and Economic Impacts From COVID-19</h5>
+<h5 class="card-title">Policies To Improve Health Insurance Coverage as America Recovers From COVID-19</h5>
 <div class="description-one">
 <div class="nomobile" itemprop="description" style="display:block">
-              Congress and the Biden administration must act quickly to minimize further harm during the COVID-19 pandemic—particularly for Latinos and other communities of color.
+              The American Rescue Plan expands health coverage and affordability for millions of people as the country climbs out of the coronavirus crisis.
             </div>
 </div>
-<div class="byline bio-pic-only nomobile">By Ryan Zamarripa and Lorena Roque</div>
+<div class="byline bio-pic-only nomobile">By Emily Gee and Thomas Waldrop</div>
 </div>
 <div class="card-meta">
-<span class="primary-issue thirdprimary">Economy</span>
+<span class="primary-issue thirdprimary">Health Care</span>
 </div>
 </div>
 </a>
 </div>
-</div><h3><a href="https://www.americanprogress.org/issues/criminal-justice/view/"><span>Criminal Justice Reform</span></a></h3><div class="cards row one-layout">
-<a class="card card-497069 one-one one-box img-left" href="https://www.americanprogress.org/issues/criminal-justice/reports/2021/03/11/497069/introducing-community-responders-dispatch-right-response-every-911-call/">
-<div class="img"> <img alt="Introducing Community Responders: How To Dispatch the Right Response to Every 911 Call" src="https://cdn.americanprogress.org/content/uploads/2021/03/10110131/GettyImages-1156750185-450x283.jpg"/></div>
+</div><h3><a href="https://www.americanprogress.org/issues/green/view/"><span>Energy and Environment</span></a></h3><div class="cards row one-layout">
+<a class="card card-497366 one-one one-box img-left" href="https://www.americanprogress.org/issues/green/news/2021/03/23/497366/oil-gas-companies-lying-much-oil-control-u-s-public-lands/">
+<div class="img"> <img alt="Oil and Gas Companies Are Lying About How Much Oil They Control on U.S. Public Lands" src="https://cdn.americanprogress.org/content/uploads/2021/03/22130335/OilGasLeasesColumn-450x283.jpg"/></div>
 <div class="card-content one_column">
-<h5 class="card-title">Introducing Community Responders: How To Dispatch the Right Response to Every 911 Call</h5>
+<h5 class="card-title">Oil and Gas Companies Are Lying About How Much Oil They Control on U.S. Public Lands</h5>
 <div class="description-one"><div class="nomobile" itemprop="description">
-	    Civilian first responders are good for the public—and for the police.
+	    The oil industry already has at least 10 years’ worth of unused leases at its disposal, even with the leasing pause.
       </div></div>
-<div class="byline-one"><div class="byline bio-pic-only nomobile">By Betsy Pearl and Amos Irwin</div></div>
+<div class="byline-one"><div class="byline bio-pic-only nomobile">By Sahir Doshi, Jenny Rowland-Shea, and Nicole Gentile</div></div>
 <div class="card-meta card-meta-one">
-<span class="primary-issue" data-issue="criminal-justice">Criminal Justice</span>
+<span class="primary-issue" data-issue="green">Energy and Environment</span>
 </div>
 </div>
 </a></div><h3 style="font-size: 1.3rem"><a href="https://www.americanprogress.org/events/upcoming-events/"><span>Events</span></a></h3><div class="cards row two-third-one-third-layout event-widget">
-<a href="https://www.americanprogress.org/events/2021/03/03/496672/stateside-chat-working-toward-equitable-just-climate-future/">
+<a href="https://www.americanprogress.org/events/2021/03/23/497432/reinvigorating-diplomacy-north-korea/">
 <div class="card event two-thirds" itemscope="" itemtype="http://schema.org/Event">
 <div class="card-content">
 <div class="event-row-meta two-thirds">
-<span class="mdi mdi-calendar"></span><time class="date" content="Thursday  Mar 18, 2021T04:00:00 PM" datetime="2021-03-18" itemprop="startDate">Thursday  March 18, 2021  12:00pm  -  1:00pm</time>
+<span class="mdi mdi-calendar"></span><time class="date" content="Tuesday  Mar 30, 2021T02:30:00 PM" datetime="2021-03-30" itemprop="startDate">Tuesday  March 30, 2021  10:30am  -  11:30am</time>
 </div><!-- even-row-meta -->
-<h5><span itemprop="name">Stateside Chat: Working Toward an Equitable and Just Climate Future</span></h5>
-<div class="event-description mobileHERE" itemprop="description">Please join the Center for American Progress and the League of Conservation Voters for a discussion on climate progress taking place across the country and how these best practices can be used as models for the federal government.</div>
+<h5><span itemprop="name">Reinvigorating Diplomacy with North Korea</span></h5>
+<div class="event-description mobileHERE" itemprop="description">Please join the Center for American Progress for a conversation with leading experts on how the United States, South Korea, and Japan can work together to reinvigorate diplomacy with North Korea. </div>
 <div class="card-meta">
 <span><a class="rsvp-link" href="{$rsvp}">RSVP</a></span>
 </div><!-- card-meta -->
 </div><!-- card-content -->
 <div class="h">
-<meta content="Thursday  Mar 18, 2021  5:00 PM" itemprop="endDate"/>
+<meta content="Tuesday  Mar 30, 2021  3:30 PM" itemprop="endDate"/>
 <meta content="P0Y0M0DT1H0M0S" itemprop="duration"/>
 <div itemprop="location" itemscope="" itemtype="http://schema.org/Place">
 <div itemprop="address">1333 H St NW, Washington, DC</div>
@@ -614,21 +614,21 @@ jsFileLocation:"//www.americanprogress.org/content/plugins/revslider/public/asse
 <div class="card-content">
 <h3>Past Events</h3>
 <ul class="link-list">
-<li class="eventlist"><a href="https://www.americanprogress.org/events/2021/03/09/496902/bringing-environmental-social-governance-considerations-forefront/ " target="external">Meeting Investor Demand for Environmental, Social and Governance Information</a></li><li class="eventlist"><a href="https://www.americanprogress.org/events/2021/01/07/494329/building-perfect-union/ " target="external">Building A More Perfect Union</a></li><li class="eventlist"><a href="https://www.americanprogress.org/events/2020/12/08/493579/making-money-green/ " target="external">The Financial System &amp; Climate Change: A Regulatory Imperative</a></li>
+<li class="eventlist"><a href="https://www.americanprogress.org/events/2021/03/03/496672/stateside-chat-working-toward-equitable-just-climate-future/ " target="external">Stateside Chat: Working Toward an Equitable and Just Climate Future</a></li><li class="eventlist"><a href="https://www.americanprogress.org/events/2021/03/09/496902/bringing-environmental-social-governance-considerations-forefront/ " target="external">Meeting Investor Demand for Environmental, Social and Governance Information</a></li><li class="eventlist"><a href="https://www.americanprogress.org/events/2021/01/07/494329/building-perfect-union/ " target="external">Building A More Perfect Union</a></li>
 </ul>
 </div>
 </div>
-</div><h3><a href="https://www.americanprogress.org/issues/politics-and-elections/view/"><span>Politics and Elections</span></a></h3><div class="cards row one-layout">
-<a class="card card-496744 one-one one-box img-left" href="https://www.americanprogress.org/issues/politics-and-elections/reports/2021/03/10/496744/americans-want-federal-government-help-people-need/">
-<div class="img"> <img alt="Americans Want the Federal Government To Help People in Need" src="https://cdn.americanprogress.org/content/uploads/2021/03/05120009/PovertyPollingReport-450x283.jpg"/></div>
+</div><h3><a href="https://www.americanprogress.org/tag/racial-wealth/"><span>Racial Wealth Gap</span></a></h3><div class="cards row one-layout">
+<a class="card card-497377 one-one one-box img-left" href="https://www.americanprogress.org/issues/economy/reports/2021/03/19/497377/eliminating-black-white-wealth-gap-generational-challenge/">
+<div class="img"> <img alt="Eliminating the Black-White Wealth Gap Is a Generational Challenge" src="https://cdn.americanprogress.org/content/uploads/2021/03/18121729/GettyImages-117488284612-450x283.jpg"/></div>
 <div class="card-content one_column">
-<h5 class="card-title">Americans Want the Federal Government To Help People in Need</h5>
+<h5 class="card-title">Eliminating the Black-White Wealth Gap Is a Generational Challenge</h5>
 <div class="description-one"><div class="nomobile" itemprop="description">
-	    Results from a national survey of registered voters shed light on how Americans view the importance of the social safety net and other economic policies amid the coronavirus pandemic.
+	    Closing the racial wealth gap is a generational challenge that requires new yet doable policies.
       </div></div>
-<div class="byline-one"><div class="byline bio-pic-only nomobile">By John Halpin, Karl Agne, and Nisha Jain</div></div>
+<div class="byline-one"><div class="byline bio-pic-only nomobile">By Christian E. Weller and Lily Roberts</div></div>
 <div class="card-meta card-meta-one">
-<span class="primary-issue" data-issue="politics-and-elections">Politics and Elections</span>
+<span class="primary-issue" data-issue="economy">Economy</span>
 </div>
 </div>
 </a></div><h3><a href="https://www.americanprogress.org/tag/minimum-wage/"><span>Minimum Wage</span></a></h3><div class="cards row one-third-layout w-images">
@@ -689,17 +689,17 @@ jsFileLocation:"//www.americanprogress.org/content/plugins/revslider/public/asse
 </div>
 </a>
 </div>
-</div><h3><a href="https://www.americanprogress.org/issues/women/view/"><span>Women</span></a></h3><div class="cards row one-layout">
-<a class="card card-496907 one-one one-box img-left" href="https://www.americanprogress.org/issues/immigration/news/2021/03/10/496907/profile-immigrant-women-workforce/">
-<div class="img"> <img alt="A Profile of Immigrant Women in the Workforce" src="https://cdn.americanprogress.org/content/uploads/2021/03/09074839/GettyImages-1304126825-cropped-450x283.jpg"/></div>
+</div><h3><a href="https://www.americanprogress.org/issues/lgbtq-rights/view/"><span>LGBTQ Rights</span></a></h3><div class="cards row one-layout">
+<a class="card card-497158 one-one one-box img-left" href="https://www.americanprogress.org/issues/lgbtq-rights/reports/2021/03/15/497158/need-know-equality-act/">
+<div class="img"> <img alt="What You Need To Know About the Equality Act" src="https://cdn.americanprogress.org/content/uploads/2021/03/12114342/GettyImages-1174493827-450x283.jpg"/></div>
 <div class="card-content one_column">
-<h5 class="card-title">A Profile of Immigrant Women in the Workforce</h5>
+<h5 class="card-title">What You Need To Know About the Equality Act</h5>
 <div class="description-one"><div class="nomobile" itemprop="description">
-	    Immigrant women are integral members of U.S. society, working across industries that serve all communities and spur economic growth. As the pandemic continues to disproportionately affect women in the workforce, future policy must consider the contributions and needs of immigrant women.
+	    This fact sheet outlines how the Equality Act would provide much-needed civil rights protections for LGBTQ people, women, people of faith, and others.
       </div></div>
-<div class="byline-one"><div class="byline bio-pic-only nomobile">By Sofia Carratala, Nicole Prchal Svajlenka, and Sarah Jane Glynn</div></div>
+<div class="byline-one"><div class="byline bio-pic-only nomobile">By Theo Santos, Caroline Medina, and Sharita Gruberg</div></div>
 <div class="card-meta card-meta-one">
-<span class="primary-issue" data-issue="immigration">Immigration</span>
+<span class="primary-issue" data-issue="lgbtq-rights">LGBTQ Rights</span>
 </div>
 </div>
 </a></div><h3><span>Progressive Pulse</span></h3><div class="cards row one-third-layout prog-pulse"><div class="card one-third">
@@ -720,17 +720,17 @@ jsFileLocation:"//www.americanprogress.org/content/plugins/revslider/public/asse
 <div class="card-meta">
 <span class="primary-issue">TalkPoverty</span>
 </div>
-</div></div><h3><a href="https://www.americanprogress.org/issues/education-postsecondary/view/"><span>Higher Education</span></a></h3><div class="cards row one-layout">
-<a class="card card-496936 one-one one-box img-left" href="https://www.americanprogress.org/issues/education-postsecondary/reports/2021/03/10/496936/american-rescue-plan-help-prevent-state-public-higher-education-cuts/">
-<div class="img"> <img alt="American Rescue Plan Could Help Prevent State Public Higher Education Cuts" src="https://cdn.americanprogress.org/content/uploads/2021/03/09101056/GettyImages-1231559132-450x283.jpg"/></div>
+</div></div><h3><a href="https://www.americanprogress.org/tag/voting-rights/"><span>Voting Rights</span></a></h3><div class="cards row one-layout">
+<a class="card card-497200 one-one one-box img-left" href="https://www.americanprogress.org/issues/democracy/reports/2021/03/16/497200/biden-administration-can-tackle-americas-voter-turnout-problem/">
+<div class="img"> <img alt="How the Biden Administration Can Tackle America’s Voter Turnout Problem" src="https://cdn.americanprogress.org/content/uploads/2021/03/15121159/VoterTurnoutBrief-450x283.jpg"/></div>
 <div class="card-content one_column">
-<h5 class="card-title">American Rescue Plan Could Help Prevent State Public Higher Education Cuts</h5>
+<h5 class="card-title">How the Biden Administration Can Tackle America’s Voter Turnout Problem</h5>
 <div class="description-one"><div class="nomobile" itemprop="description">
-	    States cut funding for public higher education by $1.9 billion this year; they must take advantage of state and local aid in the latest stimulus bill to avoid budget cuts next year.
+	    By engaging with advocates and policymakers, a National Task Force on Civic Engagement and Voter Participation can increase Americans’ civic engagement.
       </div></div>
-<div class="byline-one"><div class="byline bio-pic-only nomobile">By Victoria Yuen</div></div>
+<div class="byline-one"><div class="byline bio-pic-only nomobile">By Hauwa Ahmed</div></div>
 <div class="card-meta card-meta-one">
-<span class="primary-issue" data-issue="education-postsecondary">Education, Postsecondary</span>
+<span class="primary-issue" data-issue="democracy">Democracy and Government</span>
 </div>
 </div>
 </a></div><h3><a href="https://www.americanprogress.org/tag/the-solutions-we-need/"><span>The Solutions We Need</span></a></h3><div class="cards row one-third-layout w-images">
@@ -754,20 +754,20 @@ jsFileLocation:"//www.americanprogress.org/content/plugins/revslider/public/asse
 </a>
 </div>
 <div class="col-md-1-3 flexrow">
-<a class="card-495035" href="https://www.americanprogress.org/issues/guns-crime/news/2021/01/26/495035/gun-violence-prevention-priorities-new-congress-new-administration/">
+<a class="card-497203" href="https://www.americanprogress.org/issues/women/reports/2021/03/17/497203/proactive-abortion-agenda/">
 <div class="three-box onethird">
-<div class="card-image" style="overflow-x: hidden; overflow-y: hidden;"> <img alt="Gun Violence Prevention Priorities for a New Congress and a New Administration" class="nomobile" src="https://cdn.americanprogress.org/content/uploads/2021/01/25124535/GVPPrioritiesColumn-325x217.jpg"/></div>
+<div class="card-image" style="overflow-x: hidden; overflow-y: hidden;"> <img alt="A Proactive Abortion Agenda" class="nomobile" src="https://cdn.americanprogress.org/content/uploads/2021/03/16124641/ProactiveAbortionAgendaReport-325x217.jpg"/></div>
 <div class="card-content card-1-3">
-<h5 class="card-title">Gun Violence Prevention Priorities for a New Congress and a New Administration</h5>
+<h5 class="card-title">A Proactive Abortion Agenda</h5>
 <div class="description-one">
 <div class="nomobile" itemprop="description" style="display:block">
-              The start of a new Congress and a new administration presents a crucial opportunity to make progress in reducing gun violence.
+              Policymakers must go beyond baseline legal protections to treat abortion as the essential health care service it is, ensuring meaningful access to abortion for all and removing barriers put in place to circumvent <em>Roe v. Wade</em>.
             </div>
 </div>
-<div class="byline bio-pic-only nomobile">By Chelsea Parsons</div>
+<div class="byline bio-pic-only nomobile">By Jamille Fields Allsbrook and Nora Ellmann</div>
 </div>
 <div class="card-meta">
-<span class="primary-issue thirdprimary">Gun Violence Prevention</span>
+<span class="primary-issue thirdprimary">Women</span>
 </div>
 </div>
 </a>
@@ -1052,61 +1052,7 @@ jsFileLocation:"//www.americanprogress.org/content/plugins/revslider/public/asse
 <script src="https://www.americanprogress.org/content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6" type="text/javascript"></script>
 <script src="https://www.americanprogress.org/content/plugins/lazy-load/js/lazy-load.js?ver=0.6" type="text/javascript"></script>
 <script src="https://www.americanprogress.org/wp-includes/js/wp-embed.min.js?ver=4.6.10" type="text/javascript"></script>
-<style>
-            #pum-474774 > .pum-container,
-            #pum-474788 > .pum-container {
-                top: 50% !important;
-                left: 50% !important;
-                transform: translate(-50%,-50%) !important;
-            }
-            </style>
-<script type="text/javascript">
-            function setCookie(cname,cvalue,exdays) {
-              var d = new Date();
-              d.setTime(d.getTime() + (exdays*24*60*60*1000));
-              var expires = "expires=" + d.toGMTString();
-              document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-            }
-
-            function getCookie(cname) {
-              var name = cname + "=";
-              var decodedCookie = decodeURIComponent(document.cookie);
-              var ca = decodedCookie.split(";");
-              for(var i = 0; i < ca.length; i++) {
-                var c = ca[i];
-                while (c.charAt(0) == " ") {
-                  c = c.substring(1);
-                }
-                if (c.indexOf(name) == 0) {
-                  return c.substring(name.length, c.length);
-                }
-              }
-              return "";
-            }
-
-            jQuery(document).ready(function() {
-                //var pum_html_arr = ['"<div id=\"pum-474788\" class=\"pum pum-overlay pum-theme-295075 popmake-overlay 1 pum-active\" data-popmake=\"{&quot;id&quot;:474788,&quot;slug&quot;:&quot;direct-appeal-popup-test-5&quot;,&quot;theme_id&quot;:295075,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;delay&quot;:&quot;500&quot;,&quot;cookie&quot;:{&quot;name&quot;:null}}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}\" role=\"dialog\" aria-hidden=\"false\" style=\"z-index: 1999999998;\">\n\n\t<div id=\"popmake-474788\" class=\"pum-container popmake theme-295075 pum-responsive pum-responsive-medium responsive size-medium active custom-position\" style=\"min-width: auto; top: 132px; left: 224px; opacity: 1;\" data-gtm-vis-recent-on-screen-30159935_48=\"1162\" data-gtm-vis-first-on-screen-30159935_48=\"1162\" data-gtm-vis-total-visible-time-30159935_48=\"100\" data-gtm-vis-has-fired-30159935_48=\"1\">\n\n\t\t\t\t<div class=\"pum-content popmake-content\">\n\t\t\t<style>\ndiv#popmake-474788,\ndiv#popmake-474788 .pum-content,\ndiv#popmake-474788 .pum-content p,\ndiv#popmake-474788 .pum-content a,\ndiv#popmake-474788 .pum-content img {\n    border: 0 !important;\n    margin: 0 !important;\n    padding: 0 !important;\n}\ndiv#popmake-474788,\ndiv#popmake-474788 .pum-content,\ndiv#popmake-474788 .pum-content a.image {\n     background-repeat: no-repeat;\n     background-size: contain;\n     display: block;\n     height: 378px;\n     width: 672px;\n}\ndiv#popmake-474788 .pum-content a.image {\n    background-image: url(\"https:\/\/cdn.americanprogress.org\/content\/uploads\/2021\/03\/05064257\/March-Lighbox_descktop.png\");\n}\ndiv#popmake-474788 .pum-content a.image img {\n     display: none;\n}\n@media screen and (max-width: 700px) {\n  div#popmake-474788,\n  div#popmake-474788 .pum-content,\n  div#popmake-474788 .pum-content a.image {\n    background-repeat: no-repeat;\n    background-size: contain;\n    display: block;\n    height: 332px;\n    width: 213px;\n   }\n  div#popmake-474788 .pum-content a.image {\n    background-image: url(\"https:\/\/cdn.americanprogress.org\/content\/uploads\/2021\/03\/05064255\/March-Lighbox_mobile.png\");\n  }\n}\n<\/style>\n<p><a class=\"image\" href=\"https:\/\/donate.americanprogress.org\/page\/27238\/donate\/1#CA=15\">\n<img src=\"https:\/\/cdn.americanprogress.org\/content\/uploads\/2021\/03\/05064257\/March-Lighbox_descktop.png\"><\/a><\/p>\n\t\t<\/div>\n\n\t\t\t\t            <button type=\"button\" class=\"pum-close popmake-close\" aria-label=\"Close\">\n\t\t\tCLOSE            <\/button>\n\n\t<\/div>\n\n<\/div>"','null'];
-                var pum_html_arr = ['"<div id=\"pum-474788\" class=\"pum pum-overlay pum-theme-295075 popmake-overlay 1 pum-active\" data-popmake=\"{&quot;id&quot;:474788,&quot;slug&quot;:&quot;direct-appeal-popup-test-5&quot;,&quot;theme_id&quot;:295075,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;delay&quot;:&quot;500&quot;,&quot;cookie&quot;:{&quot;name&quot;:null}}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;meta&quot;:{&quot;display&quot;:{&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;&quot;,&quot;responsive_max_width&quot;:&quot;&quot;,&quot;custom_width&quot;:&quot;640&quot;,&quot;custom_height&quot;:&quot;380&quot;,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;location&quot;:&quot;center top&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;,&quot;responsive_min_width_unit&quot;:&quot;px&quot;,&quot;responsive_max_width_unit&quot;:&quot;px&quot;,&quot;custom_width_unit&quot;:&quot;px&quot;,&quot;custom_height_unit&quot;:&quot;px&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;},&quot;click_open&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}}\" role=\"dialog\" aria-hidden=\"false\" style=\"z-index: 1999999998;\">\n\n\t<div id=\"popmake-474788\" class=\"pum-container popmake theme-295075 pum-responsive pum-responsive-medium responsive size-medium active custom-position\" style=\"min-width: auto; top: 132px; left: 224px; opacity: 1;\" data-gtm-vis-recent-on-screen-30159935_48=\"1162\" data-gtm-vis-first-on-screen-30159935_48=\"1162\" data-gtm-vis-total-visible-time-30159935_48=\"100\" data-gtm-vis-has-fired-30159935_48=\"1\">\n\n\t\t\t\t<div class=\"pum-content popmake-content\">\n\t\t\t<style>\ndiv#popmake-474788,\ndiv#popmake-474788 .pum-content,\ndiv#popmake-474788 .pum-content p,\ndiv#popmake-474788 .pum-content a,\ndiv#popmake-474788 .pum-content img {\n    border: 0 !important;\n    margin: 0 !important;\n    padding: 0 !important;\n}\ndiv#popmake-474788,\ndiv#popmake-474788 .pum-content,\ndiv#popmake-474788 .pum-content a.image {\n     background-repeat: no-repeat;\n     background-size: contain;\n     display: block;\n     height: 378px;\n     width: 672px;\n}\ndiv#popmake-474788 .pum-content a.image {\n    background-image: url(\"https:\/\/cdn.americanprogress.org\/content\/uploads\/2021\/03\/05064257\/March-Lighbox_descktop.png\");\n}\ndiv#popmake-474788 .pum-content a.image img {\n     display: none;\n}\n@media screen and (max-width: 700px) {\n  div#popmake-474788,\n  div#popmake-474788 .pum-content,\n  div#popmake-474788 .pum-content a.image {\n    background-repeat: no-repeat;\n    background-size: contain;\n    display: block;\n    height: 332px;\n    width: 213px;\n   }\n  div#popmake-474788 .pum-content a.image {\n    background-image: url(\"https:\/\/cdn.americanprogress.org\/content\/uploads\/2021\/03\/05064255\/March-Lighbox_mobile.png\");\n  }\n}\n<\/style>\n<p><a class=\"image\" href=\"https:\/\/donate.americanprogress.org\/page\/27238\/donate\/1#CA=15\">\n<img src=\"https:\/\/cdn.americanprogress.org\/content\/uploads\/2021\/03\/05064257\/March-Lighbox_descktop.png\"><\/a><\/p>\n\t\t<\/div>\n\n\t\t\t\t            <button type=\"button\" class=\"pum-close popmake-close\" aria-label=\"Close\">\n\t\t\tCLOSE            <\/button>\n\n\t<\/div>\n\n<\/div>"'];
-
-                jQuery("body").on("click", ".pum-overlay, pum-close", function() {
-                    jQuery(".pum-overlay").hide();
-                    jQuery(".pum-container").hide();
-                });
-
-                console.log("Checking for the existance of the cappum cookie.");
-                if(getCookie("cappum") == "") {
-                    console.log("Cookie not found. Making a new one...");
-                    setCookie("cappum", "visited", 1);
-                    var rand = Math.floor(Math.random() * pum_html_arr.length);
-                    jQuery("body").append(pum_html_arr[rand]);
-                    jQuery(".pum").fadeIn();
-                    console.log("Displaying popup #" + rand);
-                } else {
-                    console.log("Cookie found! No popups to display.");
-                }
-                
-            });
-            </script><script src="https://use.typekit.net/yoa2xga.js"></script>
+<script src="https://use.typekit.net/yoa2xga.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 </body>
 </html>
