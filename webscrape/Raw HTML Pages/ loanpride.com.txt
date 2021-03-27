@@ -14,7 +14,7 @@
 <meta content="" property="og:description"/>
 <title>Loan Pride - </title>
 <script type="text/javascript">
-        var omg_ads = {"ajaxurl":"https:\/\/loanpride.com\/wp\/wp-admin\/admin-ajax.php","content":["<p>LoanPride is the place to get updated on everything that\u2019s internet. From your daily dose of celebrities, via style and relationships, to posts that will inspire you &#8211; our team will bring you everything you wanted to know, and some stuff you didn\u2019t even know you needed! Be a part of the process and send us your suggestions for posts, or sit back, relax and simply enjoy LoanPride.<\/p>\n"],"current_utm":"taboola","utm_source":"facebook","scroll_delay":"20","preload_ads":"0","ad_timeout":"2000","fb_trigger":"15","fb_id":"668858816904236","next":false};
+        var omg_ads = {"ajaxurl":"https:\/\/loanpride.com\/wp\/wp-admin\/admin-ajax.php","content":["<p>LoanPride is the place to get updated on everything that\u2019s internet. From your daily dose of celebrities, via style and relationships, to posts that will inspire you &#8211; our team will bring you everything you wanted to know, and some stuff you didn\u2019t even know you needed! Be a part of the process and send us your suggestions for posts, or sit back, relax and simply enjoy LoanPride.<\/p>\n"],"current_utm":"outbrain","utm_source":"facebook","scroll_delay":"20","preload_ads":"0","ad_timeout":"2000","fb_trigger":"15","fb_id":"668858816904236","next":false};
       </script>
 <link href="//loanpride.com" rel="dns-prefetch"/>
 <link href="//netdna.bootstrapcdn.com" rel="dns-prefetch"/>
@@ -55,7 +55,7 @@ img.emoji {
 <link href="https://loanpride.com?display_custom_css=css&amp;ver=4.7.2" id="wp-add-custom-css-css" media="all" rel="stylesheet" type="text/css"/>
 <script src="https://loanpride.com/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4" type="text/javascript"></script>
 <script src="https://loanpride.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
-<script src="https://loanpride.com/wp-content/plugins/omg-ab-testing/js/header_script.js?ver=1615960064" type="text/javascript"></script>
+<script src="https://loanpride.com/wp-content/plugins/omg-ab-testing/js/header_script.js?ver=1616862965" type="text/javascript"></script>
 <link href="https://loanpride.com/wp-json/" rel="https://api.w.org/"/>
 <link href="https://loanpride.com/wp/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
 <link href="https://loanpride.com/wp/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
@@ -1129,13 +1129,17 @@ a:hover {
 <div class="left relative" id="foot-bot">
 <div class="foot-menu relative">
 <!-- <div class="menu"><ul>
+<li class="page_item page-item-68216"><a href="https://loanpride.com/about-us-fr/">À propos</a></li>
 <li class="page_item page-item-319"><a href="https://loanpride.com/about-us/">About Us</a></li>
+<li class="page_item page-item-68220"><a href="https://loanpride.com/terms-of-use-fr/">Conditions d&#8217;utilisation</a></li>
 <li class="page_item page-item-10149"><a href="https://loanpride.com/contact-us/">Contact Us</a></li>
+<li class="page_item page-item-68218"><a href="https://loanpride.com/contact-us-fr/">Contactez-nous</a></li>
 <li class="page_item page-item-66525"><a href="https://loanpride.com/privacy-policy-de/">Datenschutzerklärung</a></li>
 <li class="page_item page-item-2"><a href="https://loanpride.com/">Home</a></li>
 <li class="page_item page-item-66527"><a href="https://loanpride.com/imprint-de/">Impressum</a></li>
 <li class="page_item page-item-66521"><a href="https://loanpride.com/contact-us-de/">Kontakt</a></li>
 <li class="page_item page-item-314"><a href="https://loanpride.com/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-68222"><a href="https://loanpride.com/privacy-policy-fr/">Protection des données</a></li>
 <li class="page_item page-item-12223"><a href="https://loanpride.com/sovrn/">sovrn</a></li>
 <li class="page_item page-item-45281"><a href="https://loanpride.com/terms-of-use/">Terms Of Use</a></li>
 <li class="page_item page-item-54046"><a href="https://loanpride.com/testpage/">testpage-desktop</a></li>
@@ -1213,7 +1217,7 @@ var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a
 /* ]]> */
 </script>
 <script src="https://loanpride.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1" type="text/javascript"></script>
-<script src="https://loanpride.com/wp-content/plugins/omg-ab-testing/js/footer_script.js?ver=1615960064" type="text/javascript"></script>
+<script src="https://loanpride.com/wp-content/plugins/omg-ab-testing/js/footer_script.js?ver=1616862965" type="text/javascript"></script>
 <script src="https://loanpride.com/wp-content/themes/devoe/js/scripts.js?ver=4.7.2" type="text/javascript"></script>
 <script src="https://loanpride.com/wp-content/themes/devoe/js/jquery.nicescroll.js?ver=4.7.2" type="text/javascript"></script>
 <script src="https://loanpride.com/wp-content/themes/devoe/js/jquery.infinitescroll.min.js?ver=4.7.2" type="text/javascript"></script>

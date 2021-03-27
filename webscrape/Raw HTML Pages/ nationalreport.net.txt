@@ -8,7 +8,7 @@
 <link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/style.css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://nationalreport.net/feed/" rel="alternate" title="National Report RSS Feed" type="application/rss+xml"/>
 <link href="https://nationalreport.net/feed/atom/" rel="alternate" title="National Report Atom Feed" type="application/atom+xml"/>
-<link href="https://nationalreport.net/xmlrpc.php" rel="pingback"/>
+<link href="http://nationalreport.net/xmlrpc.php" rel="pingback"/>
 <link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/styles/default.css" rel="stylesheet" type="text/css"/>
 <link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/custom.css" rel="stylesheet" type="text/css"/>
 <!--<meta property="fb:app_id" content="133213666852567" />-->
@@ -26,7 +26,7 @@
 <link href="//2.gravatar.com" rel="dns-prefetch"/>
 <link crossorigin="" href="https://secureservercdn.net" rel="preconnect"/>
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/secureservercdn.net\/166.62.108.196\/c40.9d4.myftpupload.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7&time=1615958349"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/secureservercdn.net\/166.62.108.196\/c40.9d4.myftpupload.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7&time=1616854791"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 <meta content="Newspaper v.1.0.2" name="generator"/><style type="text/css">
@@ -43,18 +43,18 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7&amp;time=1615958349" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7&amp;time=1616854791" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
 <style id="wp-block-library-inline-css" type="text/css">
 .has-text-align-justify{text-align:justify;}
 </style>
-<link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/ads-for-wp/public/assets/css/adsforwp-front.min.css?ver=1.9.16.1&amp;time=1615958349" id="ads-for-wp-front-css-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.0.2&amp;time=1615958349" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
-<script id="jquery-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/includes/js/jquery.min.js?ver=1.4.2&amp;time=1615958349" type="text/javascript"></script>
-<script id="jquery-superfish-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/includes/js/superfish.js?ver=1.4.2&amp;time=1615958349" type="text/javascript"></script>
-<script id="jquery-tabber-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/includes/js/tabber.js?ver=1.4.2&amp;time=1615958349" type="text/javascript"></script>
-<script id="jquery-custom-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/includes/js/custom.js?ver=1.4.2&amp;time=1615958349" type="text/javascript"></script>
+<link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/ads-for-wp/public/assets/css/adsforwp-front.min.css?ver=1.9.16.1&amp;time=1616854791" id="ads-for-wp-front-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.0.2&amp;time=1616854791" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/includes/js/jquery.min.js?ver=1.4.2&amp;time=1616854791" type="text/javascript"></script>
+<script id="jquery-superfish-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/includes/js/superfish.js?ver=1.4.2&amp;time=1616854791" type="text/javascript"></script>
+<script id="jquery-tabber-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/includes/js/tabber.js?ver=1.4.2&amp;time=1616854791" type="text/javascript"></script>
+<script id="jquery-custom-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/themes/newspaper/includes/js/custom.js?ver=1.4.2&amp;time=1616854791" type="text/javascript"></script>
 <link href="https://nationalreport.net/wp-json/" rel="https://api.w.org/"/><link href="https://nationalreport.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
-<link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-includes/wlwmanifest.xml?time=1615958349" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<link href="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-includes/wlwmanifest.xml?time=1616854791" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
 <meta content="WordPress 5.7" name="generator"/>
 <link href="https://wp.me/3dd01" rel="shortlink"/>
 <!-- This site is using AdRotate v5.8.10 to display their advertisements - https://ajdg.solutions/ -->
@@ -103,7 +103,7 @@ body.custom-background { background-color: #ffffff; }
   gtag('config', 'UA-38890568-1');
 </script>
 </head>
-<body class="home blog custom-background chrome">
+<body class="home blog custom-background unknown">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -115,7 +115,7 @@ body.custom-background { background-color: #ffffff; }
 <div id="wrapper">
 <!--<img class="aligncenter wp-image-69042 size-full" title="" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/uploads/2017/03/tmmBanner2.png"/></a>-->
 <div id="top">
-<span><span>03</span><span>17</span><span class="top-year">2021</span>Headline: </span>
+<span><span>03</span><span>27</span><span class="top-year">2021</span>Headline: </span>
 <ul id="ticker">
 <li>
 <a href="https://nationalreport.net/trump-admin-to-deregulate-pressure-of-golden-showers/" rel="bookmark" title="Trump Admin to Deregulate Pressure of Golden Showers">Trump Admin to Deregulate Pressure of Golden Showers</a>
@@ -369,7 +369,7 @@ Millions of Americans are in mourning after news broke this afternoon that rocke
 <a href="https://nationalreport.net/category/politics/">Politics</a> </span>
 <h2 class="entry-title"><a href="https://nationalreport.net/trump-admin-to-deregulate-pressure-of-golden-showers/" rel="bookmark" title="Permalink to Trump Admin to Deregulate Pressure of Golden Showers">Trump Admin to Deregulate Pressure of Golden Showers</a></h2>
 <div class="entry-meta">
-<abbr title="August 13, 2020 at 1:21 pm">7 months ago</abbr> <span class="entry-sep">|</span> <span class="entry-comment"><a href="https://nationalreport.net/trump-admin-to-deregulate-pressure-of-golden-showers/#respond">0 comment</a></span>
+<abbr title="August 13, 2020 at 1:21 pm">8 months ago</abbr> <span class="entry-sep">|</span> <span class="entry-comment"><a href="https://nationalreport.net/trump-admin-to-deregulate-pressure-of-golden-showers/#respond">0 comment</a></span>
 </div> <!--end .entry-meta-->
 </li><li class="clear featured-2">
 <a href="https://nationalreport.net/wounded-social-justice-warrior-project-rebuilds-hope-sense-of-purpose/" rel="bookmark"><img alt="" class="entry-thumb wp-post-image" height="215" loading="lazy" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/uploads/2016/06/Wounded-Social-Justice-Warrior-Program-300x215.jpg" width="300"/></a>
@@ -409,7 +409,7 @@ Millions of Americans are in mourning after news broke this afternoon that rocke
 <a href="https://nationalreport.net/category/business/">Business</a> </span>
 <h2 class="entry-title"><a href="https://nationalreport.net/jared-kushners-dick-sued-by-pencil-company/" rel="bookmark" title="Permalink to Jared Kushner’s Dick Sued by Pencil Company Over Brand Confusion">Jared Kushner’s Dick Sued by Pencil Company Over Brand Confusion</a></h2>
 <div class="entry-meta">
-<abbr title="July 13, 2020 at 10:47 am">8 months ago</abbr> <span class="entry-sep">|</span> <span class="entry-comment"><a href="https://nationalreport.net/jared-kushners-dick-sued-by-pencil-company/#comments">2 comments</a></span>
+<abbr title="July 13, 2020 at 10:47 am">9 months ago</abbr> <span class="entry-sep">|</span> <span class="entry-comment"><a href="https://nationalreport.net/jared-kushners-dick-sued-by-pencil-company/#comments">2 comments</a></span>
 </div> <!--end .entry-meta-->
 </li>
 </ul><!--end column2-->
@@ -424,7 +424,7 @@ Millions of Americans are in mourning after news broke this afternoon that rocke
 </p>
 <p id="subscribe-submit">
 <input name="action" type="hidden" value="subscribe"/>
-<input name="source" type="hidden" value="https://nationalreport.net/"/>
+<input name="source" type="hidden" value="http://nationalreport.net/"/>
 <input name="sub-type" type="hidden" value="widget"/>
 <input name="redirect_fragment" type="hidden" value="blog_subscription-6"/>
 <button name="jetpack_subscriptions_widget" type="submit">
@@ -514,21 +514,21 @@ Millions of Americans are in mourning after news broke this afternoon that rocke
 var click_object = {"ajax_url":"https:\/\/nationalreport.net\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script id="clicktrack-adrotate-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js?time=1615958349" type="text/javascript"></script>
+<script id="clicktrack-adrotate-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js?time=1616854791" type="text/javascript"></script>
 <script id="adsforwp-ads-front-js-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var adsforwp_obj = {"ajax_url":"https:\/\/nationalreport.net\/wp-admin\/admin-ajax.php","adsforwp_front_nonce":"fadd9b3323","ad_performance_tracker":"1"};
+var adsforwp_obj = {"ajax_url":"https:\/\/nationalreport.net\/wp-admin\/admin-ajax.php","adsforwp_front_nonce":"089faab42d","ad_performance_tracker":"1"};
 /* ]]> */
 </script>
-<script id="adsforwp-ads-front-js-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/ads-for-wp/public/assets/js/ads-front.min.js?ver=1.9.16.1&amp;time=1615958349" type="text/javascript"></script>
+<script id="adsforwp-ads-front-js-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/ads-for-wp/public/assets/js/ads-front.min.js?ver=1.9.16.1&amp;time=1616854791" type="text/javascript"></script>
 <script id="adsforwp-ads-frontend-js-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var adsforwp_browser_obj = [];
 /* ]]> */
 </script>
-<script id="adsforwp-ads-frontend-js-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/ads-for-wp/public/assets/js/ads-frontend.min.js?ver=1.9.16.1&amp;time=1615958349" type="text/javascript"></script>
-<script id="wp-embed-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-includes/js/wp-embed.min.js?ver=5.7&amp;time=1615958349" type="text/javascript"></script>
-<script async="async" defer="defer" src="https://stats.wp.com/e-202111.js" type="text/javascript"></script>
+<script id="adsforwp-ads-frontend-js-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-content/plugins/ads-for-wp/public/assets/js/ads-frontend.min.js?ver=1.9.16.1&amp;time=1616854791" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://secureservercdn.net/166.62.108.196/c40.9d4.myftpupload.com/wp-includes/js/wp-embed.min.js?ver=5.7&amp;time=1616854791" type="text/javascript"></script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-202112.js" type="text/javascript"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:9.0.2',blog:'47477245',post:'0',tz:'-7',srv:'nationalreport.net'} ]);

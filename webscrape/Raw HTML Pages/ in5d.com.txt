@@ -1,10 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
-<head profile="http://gmpg.org/xfn/11"><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11"><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <script data-cfasync="false" data-ezscrex="false" data-pagespeed-no-defer="">var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck=__ez.ck||{};__ez.template={};__ez.template.isOrig=true;__ez.queue=(function(){var count=0,incr=0,items=[],timeDelayFired=false,hpItems=[],lpItems=[],allowLoad=true;var obj={func:function(name,funcName,parameters,isBlock,blockedBy,deleteWhenComplete,proceedIfError){var self=this;this.name=name;this.funcName=funcName;this.parameters=parameters===null?null:(parameters instanceof Array)?parameters:[parameters];this.isBlock=isBlock;this.blockedBy=blockedBy;this.deleteWhenComplete=deleteWhenComplete;this.isError=false;this.isComplete=false;this.isInitialized=false;this.proceedIfError=proceedIfError;this.isTimeDelay=false;this.process=function(){log("... func = "+name);self.isInitialized=true;self.isComplete=true;log("... func.apply: "+name);var funcs=self.funcName.split('.');var func=null;if(funcs.length>3){}else if(funcs.length===3){func=window[funcs[0]][funcs[1]][funcs[2]];}else if(funcs.length===2){func=window[funcs[0]][funcs[1]];}else{func=window[self.funcName];}
 if(typeof func!=='undefined'&&func!==null){func.apply(null,this.parameters);}
-if(self.deleteWhenComplete===true)delete items[name];if(self.isBlock===true){log("----- F'D: "+self.name);processAll();}}},file:function(name,path,isBlock,blockedBy,async,defer,proceedIfError){var self=this;this.name=name;this.path=path;this.async=async;this.defer=defer;this.isBlock=isBlock;this.blockedBy=blockedBy;this.isInitialized=false;this.isError=false;this.isComplete=false;this.proceedIfError=proceedIfError;this.isTimeDelay=false;this.process=function(){self.isInitialized=true;log("... file = "+name);var scr=document.createElement('script');scr.src=path;if(async===true)scr.async=true;else if(defer===true)scr.defer=true;scr.onerror=function(){log("----- ERR'D: "+self.name);self.isError=true;if(self.isBlock===true){processAll();}};scr.onreadystatechange=scr.onload=function(){var state=scr.readyState;log("----- F'D: "+self.name);if((!state||/loaded|complete/.test(state))){self.isComplete=true;if(self.isBlock===true){processAll();}}};document.getElementsByTagName('head')[0].appendChild(scr);}}};function init(){window.addEventListener("load",function(){setTimeout(function(){timeDelayFired=true;log('TDELAY -----');processAll();},5000);},false);}
+if(self.deleteWhenComplete===true)delete items[name];if(self.isBlock===true){log("----- F'D: "+self.name);processAll();}}},file:function(name,path,isBlock,blockedBy,async,defer,proceedIfError){var self=this;this.name=name;this.path=path;this.async=async;this.defer=defer;this.isBlock=isBlock;this.blockedBy=blockedBy;this.isInitialized=false;this.isError=false;this.isComplete=false;this.proceedIfError=proceedIfError;this.isTimeDelay=false;this.process=function(){self.isInitialized=true;log("... file = "+name);var scr=document.createElement('script');scr.src=path;if(async===true)scr.async=true;else if(defer===true)scr.defer=true;scr.onerror=function(){log("----- ERR'D: "+self.name);self.isError=true;if(self.isBlock===true){processAll();}};scr.onreadystatechange=scr.onload=function(){var state=scr.readyState;log("----- F'D: "+self.name);if((!state||/loaded|complete/.test(state))){self.isComplete=true;if(self.isBlock===true){processAll();}}};document.getElementsByTagName('head')[0].appendChild(scr);}},fileLoaded:function(name,isComplete){this.name=name;this.path="";this.async=false;this.defer=false;this.isBlock=false;this.blockedBy=[];this.isInitialized=true;this.isError=false;this.isComplete=isComplete;this.proceedIfError=false;this.isTimeDelay=false;this.process=function(){};}};function init(){window.addEventListener("load",function(){setTimeout(function(){timeDelayFired=true;log('TDELAY -----');processAll();},5000);},false);}
 function addFile(name,path,isBlock,blockedBy,async,defer,proceedIfError,priority){var item=new obj.file(name,path,isBlock,blockedBy,async,defer,proceedIfError);if(priority===true){hpItems[name]=item}else{lpItems[name]=item}
 items[name]=item;checkIfBlocked(item);}
 function setallowLoad(settobool){allowLoad=settobool}
@@ -16,10 +14,13 @@ function checkIfBlocked(item){if(isBlocked(item)===true||allowLoad==false)return
 function isBlocked(item){if(item.isTimeDelay===true&&timeDelayFired===false){log(item.name+" blocked = TIME DELAY!");return true;}
 if(item.blockedBy instanceof Array){for(var i=0;i<item.blockedBy.length;i++){var block=item.blockedBy[i];if(items.hasOwnProperty(block)===false){log(item.name+" blocked = "+block);return true;}else if(item.proceedIfError===true&&items[block].isError===true){return false;}else if(items[block].isComplete===false){log(item.name+" blocked = "+block);return true;}}}
 return false;}
+function markLoaded(filename){if(!filename||0===filename.length){return;}
+if(filename in items){var item=items[filename];if(item.isComplete===true){log(item.name+' '+filename+': error loaded duplicate')}else{item.isComplete=true;item.isInitialized=true;}}else{items[filename]=new obj.fileLoaded(filename,true);}
+log("Added dummyfile: "+items[filename]);}
 function log(msg){var href=window.location.href;var reg=new RegExp('[?&]ezq=([^&#]*)','i');var string=reg.exec(href);var res=string?string[1]:null;if(res==="1")console.debug(msg);}
 function processAll(){count++;if(count>200)return;log("let's go");processItems(hpItems);processItems(lpItems);}
 function processItems(list){for(var i in list){if(list.hasOwnProperty(i)===false)continue;var item=list[i];if(item.isComplete===true||isBlocked(item)||item.isInitialized===true||item.isError===true){if(item.isError===true){log(item.name+': error')}else if(item.isComplete===true){log(item.name+': complete already')}else if(item.isInitialized===true){log(item.name+': initialized already')}}else{item.process();}}}
-init();return{addFile:addFile,addDelayFile:addTimeDelayFile,addFunc:addFunc,addDelayFunc:addTimeDelayFunc,items:items,processAll:processAll,setallowLoad:setallowLoad};})();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};__ez.queue.addFile('/detroitchicago/boise.js', '//g.ezoic.net/detroitchicago/boise.js?gcb=192-4&cb=1', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/memphis.js', '//g.ezoic.net/detroitchicago/memphis.js?gcb=192-4&cb=5', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/minneapolis.js', '//g.ezoic.net/detroitchicago/minneapolis.js?gcb=192-4&cb=3', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/rochester.js', '//g.ezoic.net/detroitchicago/rochester.js?gcb=192-4&cb=4', false, ['/detroitchicago/memphis.js','/detroitchicago/minneapolis.js'], true, false, true, false);__ez.vep=(function(){var pixels=[],pxURL="/detroitchicago/grapefruit.gif";function AddPixel(vID,pixelData){if(__ez.dot.isDefined(vID)&&__ez.dot.isValid(pixelData)){pixels.push({type:'video',video_impression_id:vID,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(pixelData)});}}
+init();return{addFile:addFile,addDelayFile:addTimeDelayFile,addFunc:addFunc,addDelayFunc:addTimeDelayFunc,items:items,processAll:processAll,setallowLoad:setallowLoad,markLoaded:markLoaded,};})();__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};__ez.queue.addFile('/detroitchicago/boise.js', '//g.ezoic.net/detroitchicago/boise.js?gcb=194-4&cb=1', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/memphis.js', '//g.ezoic.net/detroitchicago/memphis.js?gcb=194-4&cb=5', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/minneapolis.js', '//g.ezoic.net/detroitchicago/minneapolis.js?gcb=194-4&cb=3', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/rochester.js', '//g.ezoic.net/detroitchicago/rochester.js?gcb=194-4&cb=6', false, ['/detroitchicago/memphis.js','/detroitchicago/minneapolis.js'], true, false, true, false);__ez.vep=(function(){var pixels=[],pxURL="/detroitchicago/grapefruit.gif";function AddPixel(vID,pixelData){if(__ez.dot.isDefined(vID)&&__ez.dot.isValid(pixelData)){pixels.push({type:'video',video_impression_id:vID,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(pixelData)});}}
 function Fire(){if(typeof document.visibilityState!=='undefined'&&document.visibilityState==="prerender"){return;}
 if(__ez.dot.isDefined(pixels)&&pixels.length>0){while(pixels.length>0){var j=5;if(j>pixels.length){j=pixels.length;}
 var pushPixels=pixels.splice(0,j);var pixelURL=__ez.dot.getURL(pxURL)+"?orig="+(__ez.template.isOrig===true?1:0)+"&v="+btoa(JSON.stringify(pushPixels));__ez.dot.Fire(pixelURL);}}
@@ -40,8 +41,8 @@ function getEzimData(adSlot){if(typeof _ezim_d=="undefined"){return false}
 var adUnitName=__ez.dot.getAdUnitPath(adSlot).split('/').pop();if(typeof _ezim_d==='object'&&_ezim_d.hasOwnProperty(adUnitName)){return _ezim_d[adUnitName];}
 for(var ezimKey in _ezim_d){if(ezimKey.split('/').pop()===adUnitName){return _ezim_d[ezimKey];}}
 return false;}
-return{Add:AddPixel,AddAndFire:AddAndFirePixel,AddAndFireOrig:AddAndFireOrigPixel,AddById:AddPixelById,Fire:Fire,GetPixels:GetCurrentPixels,};})();__ez.queue.addFile('/detroitchicago/raleigh.js', '//g.ezoic.net/detroitchicago/raleigh.js?gcb=192-4&cb=5', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/tampa.js', '//g.ezoic.net/detroitchicago/tampa.js?gcb=192-4&cb=3', false, [], true, false, true, false);</script>
-<script data-cfasync="false" data-ezscrex="false">(function(){if("function"===typeof window.CustomEvent)return!1;window.CustomEvent=function(c,a){a=a||{bubbles:!1,cancelable:!1,detail:null};var b=document.createEvent("CustomEvent");b.initCustomEvent(c,a.bubbles,a.cancelable,a.detail);return b}})();</script><script data-cfasync="false" data-ezscrex="false">__ez.queue.addFile('/detroitchicago/tulsa.js', '//g.ezoic.net/detroitchicago/tulsa.js?gcb=192-4&cb=5', false, [], true, false, true, false);</script>
+return{Add:AddPixel,AddAndFire:AddAndFirePixel,AddAndFireOrig:AddAndFireOrigPixel,AddById:AddPixelById,Fire:Fire,GetPixels:GetCurrentPixels,};})();__ez.queue.addFile('/detroitchicago/raleigh.js', '//g.ezoic.net/detroitchicago/raleigh.js?gcb=194-4&cb=5', false, [], true, false, true, false);__ez.queue.addFile('/detroitchicago/tampa.js', '//g.ezoic.net/detroitchicago/tampa.js?gcb=194-4&cb=3', false, [], true, false, true, false);</script>
+<script data-cfasync="false" data-ezscrex="false">(function(){if("function"===typeof window.CustomEvent)return!1;window.CustomEvent=function(c,a){a=a||{bubbles:!1,cancelable:!1,detail:null};var b=document.createEvent("CustomEvent");b.initCustomEvent(c,a.bubbles,a.cancelable,a.detail);return b}})();</script><script data-cfasync="false" data-ezscrex="false">__ez.queue.addFile('/detroitchicago/tulsa.js', '//g.ezoic.net/detroitchicago/tulsa.js?gcb=194-4&cb=5', false, [], true, false, true, false);</script>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <title>In5D - Welcome Home  : In5D</title>
 <link href="http://in5d.com/xmlrpc.php" rel="pingback"/>
@@ -86,12 +87,12 @@ img.emoji {
 </style>
 <link href="http://in5d.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=5.7" id="scap.flashblock-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://in5d.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=5.7" id="scap.player-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="http://in5d.com/wp-content/plugins/ezoic-integration/public/css/ezoic-integration-public.css?ver=1.3.14" id="ezoic-integration-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/plugins/ezoic-integration/public/css/ezoic-integration-public.css?ver=1.4" id="ezoic-integration-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://in5d.com/wp-content/themes/wp-brilliance103/style.css?ver=5.7" id="theme-main-styles-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://in5d.com/wp-content/themes/wp-brilliance103/style-font.css?ver=5.7" id="theme-fonts-styles-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://in5d.com/wp-content/themes/wp-brilliance103/style-responsive.css?ver=5.7" id="theme-responsive-styles-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://in5d.com/wp-content/themes/wp-brilliance103/custom.css?ver=5.7" id="theme-custom-styles-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="http://in5d.com/wp-content/plugins/newsletter/style.css?ver=7.0.7" id="newsletter-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://in5d.com/wp-content/plugins/newsletter/style.css?ver=7.0.9" id="newsletter-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://in5d.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15" id="addtoany-css" media="all" rel="stylesheet" type="text/css"/>
 <script id="scap.soundmanager2-js" src="http://in5d.com/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js?ver=5.7" type="text/javascript"></script>
 <script id="jquery-core-js" src="http://in5d.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
@@ -124,18 +125,16 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-weight:bold;}
 <meta content="p4cScVBFWSUOr_De9VjAxR0JFucgA75ux96u6xXGmDg" name="google-site-verification"/>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-117514536-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-117514536-1');
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117514536-1');
 </script>
 <meta content="875315395224F04101224AC66ECB37B3" name="msvalidate.01"/>
 <script src="https://www.google.com/recaptcha/api.js"></script>
 <meta content="78B3CBCA60A367246E754D685D9481EA" name="msvalidate.01"/>
-<p align="center"><a href="https://in5d.net/product-category/ladies-fitted-crew/?orderby=date"><img src="http://in5d.com/wp-content/uploads/2020/11/bannerrrrrrr.jpg" style="display: inline-block; max-width: 100%;"/></a></p>
-&gt;
 <script type="text/javascript">var ezouid = "1";</script><base href="http://in5d.com/"/><script type="text/javascript">
 var ezoTemplate = 'old_site_excl';
 if(typeof ezouid == 'undefined')
@@ -154,7 +153,7 @@ var ezoicSearchable = 1;
 </script>
 <!--{jquery}-->
 <!-- END EZHEAD -->
-<script data-cfasync="false" data-ezscrex="false" type="text/javascript">var _ezaq = {"ad_cache_level":0,"ad_lazyload_version":0,"city":"Janesville","country":"US","days_since_last_visit":-1,"domain_id":53541,"domain_test_group":20200401,"engaged_time_visit":0,"ezcache_level":0,"ezcache_skip_code":0,"form_factor_id":1,"framework_id":1,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"metro_code":669,"page_ad_positions":"","page_view_count":0,"page_view_id":"81993388-724f-4ade-4ed3-fd3ce3987268","position_selection_id":0,"postal_code":"53546","pv_event_count":0,"response_size_orig":103073,"response_time_orig":0,"serverid":"18.215.63.32:15384","state":"WI","t_epoch":1615960609,"template_id":131,"time_on_site_visit":0,"url":"http://in5d.com/","user_id":0,"visit_uuid":"99a397a3-5c56-43eb-6cfa-00afdfd4a10b","word_count":1988,"worst_bad_word_level":0};var _ezExtraQueries = "&ez_orig=1";</script><script data-cfasync="false" data-ezscrex="false" type="text/javascript">var ezWp = true;</script>
+<script data-cfasync="false" data-ezscrex="false" type="text/javascript">var _ezaq = {"ad_cache_level":0,"ad_lazyload_version":0,"ad_load_version":0,"city":"Janesville","country":"US","days_since_last_visit":-1,"domain_id":53541,"domain_test_group":20210308,"engaged_time_visit":0,"ezcache_level":0,"ezcache_skip_code":0,"form_factor_id":1,"framework_id":1,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"metro_code":669,"page_ad_positions":"","page_view_count":0,"page_view_id":"b3d0bd0b-c41c-43b9-618a-68c59ada2666","position_selection_id":0,"postal_code":"53546","pv_event_count":0,"response_size_orig":103094,"response_time_orig":0,"serverid":"18.234.67.12:2589","state":"WI","t_epoch":1616792432,"template_id":131,"time_on_site_visit":0,"url":"http://in5d.com/","user_id":0,"visit_uuid":"d9f8430e-0350-4ec0-69a1-e951796a6f3b","word_count":1988,"worst_bad_word_level":0};var _ezExtraQueries = "&ez_orig=1";</script><script data-cfasync="false" data-ezscrex="false" type="text/javascript">var ezWp = true;</script>
 <script data-cfasync="false" data-ezscrex="false" data-pagespeed-no-defer="">
 function create_ezolpl(pvID, rv) {
     var d = new Date();
@@ -182,9 +181,14 @@ function attach_ezolpl(pvID, rv) {
     }
 }
 
-__ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["81993388-724f-4ade-4ed3-fd3ce3987268", "false"], false, ['/detroitchicago/boise.js'], true, false, false, false);
-</script></head>
-<body class="home blog c-sw">
+__ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["b3d0bd0b-c41c-43b9-618a-68c59ada2666", "false"], false, ['/detroitchicago/boise.js'], true, false, false, false);
+</script></head><body class="home blog c-sw"><p align="center"><a href="https://in5d.net/product-category/ladies-fitted-crew/?orderby=date"><img src="http://in5d.com/wp-content/uploads/2020/11/bannerrrrrrr.jpg" style="display: inline-block; max-width: 100%;"/></a></p>
+&gt;
+
+
+
+
+
 <div id="outer-wrap">
 <div class="clearfix" id="header">
 <div class="limit clearfix">
@@ -251,8 +255,8 @@ __ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["81993388-724f-4ade-4ed3-f
 <p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 728x90-ATF-in5d -->
 <ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-slot="5135278769" style="display:inline-block;width:728px;height:90px"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p>
 </div>
 </div>
@@ -925,7 +929,7 @@ __ez.queue.addFunc("attach_ezolpl", "attach_ezolpl", ["81993388-724f-4ade-4ed3-f
 </div>
 </div></div><div class="widget widget_text" id="text-68"><div class="widget-wrap"><h3 class="widgettitle"><span>15 Minute Manifestation</span></h3> <div class="textwidget"><p><a href="https://280b2yb-6-4mexfr6eien9pk1o.hop.clickbank.net/?tid=0901" rel="”nofollow” noopener" target="_new"><img alt="15 Minute Manifestation" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2019/06/15-minute-manifestation.jpg" width="300"/></a></p>
 </div>
-</div></div><div class="widget widget_text" id="text-63"><div class="widget-wrap"><h3 class="widgettitle"><span>Starseed Discovery Session</span></h3> <div class="textwidget"><p><a href="https://www.youareadivinehuman.org/starseed-coaching" rel="”nofollow” noopener" target="_new"><img alt="ads" height="250" loading="lazy" src="http://in5d.com/wp-content/uploads/2020/08/matthew-john2.jpg" width="300"/></a></p>
+</div></div><div class="widget widget_text" id="text-63"><div class="widget-wrap"><h3 class="widgettitle"><span>Starseed Discovery Session</span></h3> <div class="textwidget"><p><a href="https://www.youareadivinehuman.org/soul-path-reading" rel="”nofollow” noopener" target="_new"><img alt="ads" height="250" loading="lazy" src="http://in5d.com/wp-content/uploads/2021/03/matthew-john-soul-plan-e1616598294665.jpg" width="300"/></a></p>
 </div>
 </div></div><div class="widget widget_text" id="text-46"><div class="widget-wrap"> <div class="textwidget"><p><a href="https://hop.clickbank.net/?affiliate=11112012&amp;vendor=numerology" rel="”nofollow” noopener" target="_new"><img alt="Numerology Reading" height="250" loading="lazy" src="https://in5d.com/wp-content/uploads/2015/07/numerology-coincidence.jpg" width="300"/></a></p>
 </div>
@@ -1366,8 +1370,8 @@ document.getElementsByTagName("head")[0].appendChild(s);
 <div class="widget_text widget widget_custom_html" id="custom_html-4"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Zen RESP2 10-27-2018 -->
 <ins class="adsbygoogle" data-ad-client="ca-pub-9714056978270892" data-ad-format="auto" data-ad-slot="4598401669" data-full-width-responsive="true" style="display:block"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script></div></div></div> </div>
 <div class="footer-widget3">
 </div>
@@ -1406,76 +1410,76 @@ document.getElementsByTagName("head")[0].appendChild(s);
 <div id="backtotop">Top</div>
 </div> <!-- End #outerwrap div -->
 <!-- WP Audio player plugin v1.9.6 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
-<script type="text/javascript">
-        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
-        soundManager.url = 'http://in5d.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
-        function play_mp3(flg, ids, mp3url, volume, loops)
-        {
-            //Check the file URL parameter value
-            var pieces = mp3url.split("|");
-            if (pieces.length > 1) {//We have got an .ogg file too
-                mp3file = pieces[0];
-                oggfile = pieces[1];
-                //set the file URL to be an array with the mp3 and ogg file
-                mp3url = new Array(mp3file, oggfile);
-            }
-
-            soundManager.createSound({
-                id: 'btnplay_' + ids,
-                volume: volume,
-                url: mp3url
-            });
-
-            if (flg == 'play') {
-    stop_all_tracks();                soundManager.play('btnplay_' + ids, {
-                    onfinish: function() {
-                        if (loops == 'true') {
-                            loopSound('btnplay_' + ids);
-                        }
-                        else {
-                            document.getElementById('btnplay_' + ids).style.display = 'inline';
-                            document.getElementById('btnstop_' + ids).style.display = 'none';
-                        }
-                    }
-                });
-            }
-            else if (flg == 'stop') {
-    //soundManager.stop('btnplay_'+ids);
-                soundManager.pause('btnplay_' + ids);
-            }
-        }
-        function show_hide(flag, ids)
-        {
-            if (flag == 'play') {
-                document.getElementById('btnplay_' + ids).style.display = 'none';
-                document.getElementById('btnstop_' + ids).style.display = 'inline';
-            }
-            else if (flag == 'stop') {
-                document.getElementById('btnplay_' + ids).style.display = 'inline';
-                document.getElementById('btnstop_' + ids).style.display = 'none';
-            }
-        }
-        function loopSound(soundID)
-        {
-            window.setTimeout(function() {
-                soundManager.play(soundID, {onfinish: function() {
-                        loopSound(soundID);
-                    }});
-            }, 1);
-        }
-        function stop_all_tracks()
-        {
-            soundManager.stopAll();
-            var inputs = document.getElementsByTagName("input");
-            for (var i = 0; i < inputs.length; i++) {
-                if (inputs[i].id.indexOf("btnplay_") == 0) {
-                    inputs[i].style.display = 'inline';//Toggle the play button
-                }
-                if (inputs[i].id.indexOf("btnstop_") == 0) {
-                    inputs[i].style.display = 'none';//Hide the stop button
-                }
-            }
-        }
+<script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'http://in5d.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+    stop_all_tracks();                soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
     </script>
 <!-- MobileMenu JS -->
 <script type="text/javascript">
@@ -1505,6 +1509,5 @@ var countVars = {"disqusShortname":"in5d"};
 __ez.queue.addFile('edmonton.php', '//g.ezoic.net/detroitchicago/edmonton.webp?a=a&cb=4&shcb=34', true, ['/detroitchicago/minneapolis.js'], true, false, false, false);
 __ez.queue.addFile('jellyfish.php', '//g.ezoic.net/porpoiseant/jellyfish.webp?a=a&cb=4&shcb=34', false, [], true, false, false, false);
 </script>
-<script>var _audins_dom="in5d_com",_audins_did=53541;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=192-4");</script><noscript><div style="display:none;"><img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.in5d_com,DomainId.53541" width="1"/></div></noscript>
-<script data-cfasync="false" type="text/javascript"></script></body>
-</html>
+<script>var _audins_dom="in5d_com",_audins_did=53541;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=194-4");</script><noscript><div style="display:none;"><img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.in5d_com,DomainId.53541" width="1"/></div></noscript>
+<script data-cfasync="false" type="text/javascript"></script></body></html>

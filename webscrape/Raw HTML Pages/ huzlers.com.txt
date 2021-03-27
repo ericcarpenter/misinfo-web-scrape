@@ -53,12 +53,12 @@
 <link href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://www.huzlers.com/feed/" rel="alternate" title="Huzlers » Feed" type="application/rss+xml"/>
 <link href="https://www.huzlers.com/comments/feed/" rel="alternate" title="Huzlers » Comments Feed" type="application/rss+xml"/>
-<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-members/css/blocks/member.min.css?ver=7.2.0" id="bp-member-block-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-members/css/blocks/members.min.css?ver=7.2.0" id="bp-members-block-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-groups/css/blocks/group.min.css?ver=7.2.0" id="bp-group-block-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-groups/css/blocks/groups.min.css?ver=7.2.0" id="bp-groups-block-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-members/css/blocks/member.min.css?ver=7.2.1" id="bp-member-block-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-members/css/blocks/members.min.css?ver=7.2.1" id="bp-members-block-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-groups/css/blocks/group.min.css?ver=7.2.1" id="bp-group-block-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-groups/css/blocks/groups.min.css?ver=7.2.1" id="bp-groups-block-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://c0.wp.com/c/5.7/wp-includes/css/dashicons.min.css" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-templates/bp-nouveau/css/buddypress.min.css?ver=7.2.0" id="bp-nouveau-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://www.huzlers.com/wp-content/plugins/buddypress/bp-templates/bp-nouveau/css/buddypress.min.css?ver=7.2.1" id="bp-nouveau-css" media="screen" rel="stylesheet" type="text/css"/>
 <link href="https://www.huzlers.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.huzlers.com/wp-content/plugins/daftplug-instantify/pwa/public/assets/css/style-offlinenotification.css?ver=4.6" id="daftplug-instantify-pwa-offlinenotification-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.huzlers.com/wp-content/plugins/daftplug-instantify/pwa/public/assets/css/style-pwa.min.css?ver=4.6" id="daftplug-instantify-pwa-public-css" media="all" rel="stylesheet" type="text/css"/>
@@ -84,12 +84,12 @@
 <link href="https://c0.wp.com/p/jetpack/9.5/css/jetpack.css" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
 <script id="jquery-core-js" src="https://c0.wp.com/c/5.7/wp-includes/js/jquery/jquery.min.js" type="text/javascript"></script>
 <script id="jquery-migrate-js" src="https://c0.wp.com/c/5.7/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
-<script id="bp-widget-members-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=7.2.0" type="text/javascript"></script>
-<script id="bp-jquery-query-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=7.2.0" type="text/javascript"></script>
-<script id="bp-jquery-cookie-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js?ver=7.2.0" type="text/javascript"></script>
-<script id="bp-jquery-scroll-to-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js?ver=7.2.0" type="text/javascript"></script>
+<script id="bp-widget-members-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js?ver=7.2.1" type="text/javascript"></script>
+<script id="bp-jquery-query-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js?ver=7.2.1" type="text/javascript"></script>
+<script id="bp-jquery-cookie-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js?ver=7.2.1" type="text/javascript"></script>
+<script id="bp-jquery-scroll-to-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js?ver=7.2.1" type="text/javascript"></script>
 <script id="wpp-json" type="application/json">
-{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/www.huzlers.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":0,"token":"baa7a1a300","lang":0,"debug":0}
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/www.huzlers.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":0,"token":"91a04c677a","lang":0,"debug":0}
 </script>
 <script id="wpp-js-js" src="https://www.huzlers.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.2.4" type="text/javascript"></script>
 <script id="modernizr-js" src="https://www.huzlers.com/wp-content/themes/bimber/js/modernizr/modernizr-custom.min.js?ver=3.3.0" type="text/javascript"></script>
@@ -1715,10 +1715,6 @@ oneSignal_options['promptOptions'] = { };
 <li class="g1-collection-item g1-collection-item-carmania">
 <article class="entry-tpl-list-s g1-card g1-card-solid post-88669 post type-post status-publish format-standard has-post-thumbnail category-blog-fiction">
 <div class="entry-featured-media"><a class="g1-frame" href="https://www.huzlers.com/teen-tells-judge-he-thought-he-was-buying-gas-for-his-car-not-marijuana/" title="Teen Tells Judge He Thought He Was Buying “Gas” For His Car, Not Marijuana"><div class="g1-frame-inner"><img alt="" class="attachment-bimber-list-s size-bimber-list-s wp-post-image" height="186" loading="lazy" sizes="(max-width: 265px) 100vw, 265px" src="https://i1.wp.com/www.huzlers.com/wp-content/uploads/2019/06/court-weed-gas-640x360.jpg?resize=265%2C186&amp;ssl=1" srcset="https://i1.wp.com/www.huzlers.com/wp-content/uploads/2019/06/court-weed-gas-640x360.jpg?resize=100%2C70&amp;ssl=1 100w, https://i1.wp.com/www.huzlers.com/wp-content/uploads/2019/06/court-weed-gas-640x360.jpg?resize=200%2C140&amp;ssl=1 200w, https://i1.wp.com/www.huzlers.com/wp-content/uploads/2019/06/court-weed-gas-640x360.jpg?zoom=2&amp;resize=265%2C186&amp;ssl=1 530w" width="265"/><span class="g1-frame-icon g1-frame-icon-"></span></div></a></div>
-<p class="entry-flags">
-<a class="entry-flag entry-flag-trending" href="" title="Trending">
-						Trending					</a>
-</p>
 <div class="entry-body">
 <header class="entry-header">
 <div class="entry-before-title">
@@ -2878,10 +2874,10 @@ oneSignal_options['promptOptions'] = { };
 <script id="jetpack-photon-js" src="https://c0.wp.com/p/jetpack/9.5/_inc/build/photon/photon.min.js" type="text/javascript"></script>
 <script id="bp-nouveau-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var BP_Nouveau = {"ajaxurl":"https:\/\/www.huzlers.com\/wp-admin\/admin-ajax.php","confirm":"Are you sure?","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","object_nav_parent":"#buddypress","objects":["activity","members","groups","blogs","xprofile","friends","messages","settings","notifications","group_members","group_requests"],"nonces":{"activity":"53073eb213","members":"d446f46e4b","groups":"07bdf9ea21","blogs":"9a1979cd6d","xprofile":"fde7cb7919","friends":"f85ee2ef2d","messages":"2d748c6686","settings":"a36c73085a","notifications":"1e316d97f6"}};
+var BP_Nouveau = {"ajaxurl":"https:\/\/www.huzlers.com\/wp-admin\/admin-ajax.php","confirm":"Are you sure?","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","object_nav_parent":"#buddypress","objects":["activity","members","groups","blogs","xprofile","friends","messages","settings","notifications","group_members","group_requests"],"nonces":{"activity":"df76ceab8e","members":"2da0aa6338","groups":"0176ea6fe6","blogs":"d6d1eb04d8","xprofile":"fe1e375708","friends":"f41a302a5e","messages":"2d0c9578eb","settings":"77cc193de5","notifications":"a8404c2752"}};
 /* ]]> */
 </script>
-<script id="bp-nouveau-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-templates/bp-nouveau/js/buddypress-nouveau.min.js?ver=7.2.0" type="text/javascript"></script>
+<script id="bp-nouveau-js" src="https://www.huzlers.com/wp-content/plugins/buddypress/bp-templates/bp-nouveau/js/buddypress-nouveau.min.js?ver=7.2.1" type="text/javascript"></script>
 <script id="wp-polyfill-js" src="https://c0.wp.com/c/5.7/wp-includes/js/dist/vendor/wp-polyfill.min.js" type="text/javascript"></script>
 <script id="wp-polyfill-js-after" type="text/javascript">
 ( 'fetch' in window ) || document.write( '<script src="https://www.huzlers.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.huzlers.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.huzlers.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.huzlers.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.huzlers.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.huzlers.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://www.huzlers.com/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
@@ -2906,7 +2902,7 @@ window.lodash = _.noConflict();
 <script id="wp-api-fetch-js" src="https://c0.wp.com/c/5.7/wp-includes/js/dist/api-fetch.min.js" type="text/javascript"></script>
 <script id="wp-api-fetch-js-after" type="text/javascript">
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://www.huzlers.com/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "baa7a1a300" );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "91a04c677a" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "https://www.huzlers.com/wp-admin/admin-ajax.php?action=rest-nonce";
@@ -2936,7 +2932,7 @@ var macegallery = "{\"i18n\":{\"of\":\"of\"},\"html\":\"\\n<div class=\\\"g1-gal
 <script id="mace-gallery-js" src="https://www.huzlers.com/wp-content/plugins/media-ace/includes/gallery/js/gallery.js?ver=1.4.9" type="text/javascript"></script>
 <script id="snax-collections-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var snax_collections_js_config = "{\"ajax_url\":\"https:\\\/\\\/www.huzlers.com\\\/wp-admin\\\/admin-ajax.php\",\"home_url\":\"https:\\\/\\\/www.huzlers.com\",\"user_id\":0,\"post_id\":0,\"nonce\":\"b29d16b9df\",\"history\":\"off\",\"i18n\":{\"are_you_sure_remove\":\"Entire collection with all items will be removed. Proceed?\",\"are_you_sure_clear_all\":\"All collection items will be removed. Proceed?\",\"removed\":\"Collection has been successfully removed\",\"removing_items\":\"Removing collection items...\"}}";
+var snax_collections_js_config = "{\"ajax_url\":\"https:\\\/\\\/www.huzlers.com\\\/wp-admin\\\/admin-ajax.php\",\"home_url\":\"https:\\\/\\\/www.huzlers.com\",\"user_id\":0,\"post_id\":0,\"nonce\":\"96f02e50a6\",\"history\":\"off\",\"i18n\":{\"are_you_sure_remove\":\"Entire collection with all items will be removed. Proceed?\",\"are_you_sure_clear_all\":\"All collection items will be removed. Proceed?\",\"removed\":\"Collection has been successfully removed\",\"removing_items\":\"Removing collection items...\"}}";
 /* ]]> */
 </script>
 <script id="snax-collections-js" src="https://www.huzlers.com/wp-content/plugins/snax/assets/js/collections.min.js?ver=1.81" type="text/javascript"></script>
@@ -2958,7 +2954,7 @@ var snax_front_config = "{\"ajax_url\":\"https:\\\/\\\/www.huzlers.com\\\/wp-adm
 <script id="enquire-js" src="https://www.huzlers.com/wp-content/themes/bimber/js/enquire/enquire.min.js?ver=2.1.2" type="text/javascript"></script>
 <script id="bimber-global-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var bimber_front_config = "{\"ajax_url\":\"https:\\\/\\\/www.huzlers.com\\\/wp-admin\\\/admin-ajax.php\",\"timeago\":\"on\",\"sharebar\":\"off\",\"i18n\":{\"menu\":{\"go_to\":\"Go to\"},\"newsletter\":{\"subscribe_mail_subject_tpl\":\"Check out this great article: %subject%\"},\"bp_profile_nav\":{\"more_link\":\"More\"}},\"comment_types\":[\"wp\"],\"auto_load_limit\":\"0\",\"auto_play_videos\":false,\"use_gif_player\":true,\"setTargetBlank\":true,\"useWaypoints\":true,\"stack\":\"app\",\"wpp\":{\"token\":\"2408b094b1\"}}";
+var bimber_front_config = "{\"ajax_url\":\"https:\\\/\\\/www.huzlers.com\\\/wp-admin\\\/admin-ajax.php\",\"timeago\":\"on\",\"sharebar\":\"off\",\"i18n\":{\"menu\":{\"go_to\":\"Go to\"},\"newsletter\":{\"subscribe_mail_subject_tpl\":\"Check out this great article: %subject%\"},\"bp_profile_nav\":{\"more_link\":\"More\"}},\"comment_types\":[\"wp\"],\"auto_load_limit\":\"0\",\"auto_play_videos\":false,\"use_gif_player\":true,\"setTargetBlank\":true,\"useWaypoints\":true,\"stack\":\"app\",\"wpp\":{\"token\":\"3e6ed33658\"}}";
 /* ]]> */
 </script>
 <script id="bimber-global-js" src="https://www.huzlers.com/wp-content/themes/bimber/js/global.js?ver=8.5.1" type="text/javascript"></script>
@@ -2989,7 +2985,7 @@ var jpfbembed = {"appid":"249643311490","locale":"en_US"};
 <script id="jetpack-twitter-timeline-js" src="https://c0.wp.com/p/jetpack/9.5/_inc/build/twitter-timeline.min.js" type="text/javascript"></script>
 <script id="wpgdprc.js-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var wpgdprcData = {"ajaxURL":"https:\/\/www.huzlers.com\/wp-admin\/admin-ajax.php","ajaxSecurity":"482aaf8dcd","isMultisite":"","path":"\/","blogId":""};
+var wpgdprcData = {"ajaxURL":"https:\/\/www.huzlers.com\/wp-admin\/admin-ajax.php","ajaxSecurity":"2b0d55a407","isMultisite":"","path":"\/","blogId":""};
 /* ]]> */
 </script>
 <script id="wpgdprc.js-js" src="https://www.huzlers.com/wp-content/plugins/wp-gdpr-compliance/assets/js/front.min.js?ver=1614753018" type="text/javascript"></script>
@@ -3007,7 +3003,7 @@ var wpgdprcData = {"ajaxURL":"https:\/\/www.huzlers.com\/wp-admin\/admin-ajax.ph
                                             });
                 </script>
 </div>
-<script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script defer="" src="https://stats.wp.com/e-202112.js"></script>
 <script>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:9.5',blog:'175243272',post:'0',tz:'0',srv:'www.huzlers.com'} ]);

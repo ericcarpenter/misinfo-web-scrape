@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_m8vy+PKCDUxRVeYeixPl5fHsDEXTN7ITsdiMYVuc6LJ0As5sMr3usLTgMM80Q1lcrtZJuX0F1YiqDnDgFdKizQ==">
+<head>
+<script type="text/javascript">var abp;</script><script src="http://interestingdailynews.com/px.js?ch=1" type="text/javascript"></script><script src="http://interestingdailynews.com/px.js?ch=2" type="text/javascript"></script><script type="text/javascript">function handleABPDetect(){try{if(!abp) return;var imglog = document.createElement("img");imglog.style.height="0px";imglog.style.width="0px";imglog.src="http://interestingdailynews.com/sk-logabpstatus.php?a=eTJ2ejBKSXpNbU1odmd1elpyaEVxYWdSRmJNa3hyZE9qMk9mK1FlY3J5Vi9pL3hNN20wSnRRT25mTDd1SThmZVFoNEVoNHpPdFZPelNCRytMb1JGMHBnUHdPUGh3d2dGdzJlalBydmFrZ0U9&b="+abp;document.body.appendChild(imglog);if(typeof abperurl !== "undefined" && abperurl!="")window.top.location=abperurl;}catch(err){}}</script>
+<meta charset="utf-8"/>
+<style type="text/css">
+        html, body, #partner, iframe {
+            height:100%;
+            width:100%;
+            margin:0;
+            padding:0;
+            border:0;
+            outline:0;
+            font-size:100%;
+            vertical-align:baseline;
+            background:transparent;
+        }
+        /*body {
+            overflow:hidden;
+        }*/
+    </style>
+<meta content="NOW" name="expires"/>
+<meta content="index, follow, all" name="GOOGLEBOT"/>
+<meta content="index, follow, all" name="robots"/>
+<!-- Following Meta-Tag fixes scaling-issues on mobile devices -->
+<meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" name="viewport"/>
+</head>
+<body>
+<div id="partner"></div>
+<script type="text/javascript">
+    document.write(
+        '<script type="text/javascript" language="JavaScript"'
+        + 'src="//sedoparking.com/frmpark/'
+        + window.location.host + '/'
+        + 'Skenzor6'
+        + '/park.js">'
+        + '<\/script>'
+    );
+</script>
+<script language="javascript" type="text/javascript">
+try{if(typeof handleABPDetect=="function"){handleABPDetect();}}catch(err){}
+</script>
+</body>
+</html>

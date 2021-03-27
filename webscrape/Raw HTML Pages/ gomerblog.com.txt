@@ -59,7 +59,7 @@
 <link href="//s.w.org" rel="dns-prefetch"/>
 <link href="http://gomerblog.com/feed/" rel="alternate" title="GomerBlog » Feed" type="application/rss+xml"/>
 <link href="http://gomerblog.com/comments/feed/" rel="alternate" title="GomerBlog » Comments Feed" type="application/rss+xml"/>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/gomerblog.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
 			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
@@ -104,14 +104,14 @@ img.emoji {
 <link href="http://gomerblog.com/wp-content/plugins/td-composer/legacy/Newspaper/assets/css/td_legacy_main.css?ver=1a221c8450bc290d78da968c50c142a1" id="td-legacy-framework-front-style-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://gomerblog.com/wp-content/plugins/td-standard-pack/Newspaper/assets/css/td_standard_pack_main.css?ver=f0bb15f19d923f80d074525b9859334c" id="td-standard-pack-framework-front-style-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="http://gomerblog.com/wp-content/plugins/td-cloud-library/assets/css/tdb_less_front.css?ver=a336a33b491e4d82f056f6bf77847b68" id="tdb_front_style-css" media="all" rel="stylesheet" type="text/css"/>
-<script id="jquery-core-js" src="http://gomerblog.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
+<script id="jquery-core-js" src="http://gomerblog.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="f3877b100e6b04b572f97d74-text/javascript"></script>
 <link href="http://gomerblog.com/wp-json/" rel="https://api.w.org/"/><link href="http://gomerblog.com/wp-json/wp/v2/pages/25168" rel="alternate" type="application/json"/><link href="http://gomerblog.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
 <link href="http://gomerblog.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
 <meta content="WordPress 5.5.1" name="generator"/>
 <link href="http://gomerblog.com/" rel="shortlink"/>
 <link href="http://gomerblog.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgomerblog.com%2F" rel="alternate" type="application/json+oembed"/>
 <link href="http://gomerblog.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgomerblog.com%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
 			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
 		</script>
 <style>
@@ -125,15 +125,15 @@ img.emoji {
 				}
 					</style>
 <!--[if lt IE 9]><script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
         window.tdb_globals = {"wpRestNonce":"7d44a5e825","wpRestUrl":"http:\/\/gomerblog.com\/wp-json\/","permalinkStructure":"\/%year%\/%monthnum%\/%postname%\/","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50};
     </script>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
 				window.tdwGlobal = {"adminUrl":"http:\/\/gomerblog.com\/wp-admin\/","wpRestNonce":"7d44a5e825","wpRestUrl":"http:\/\/gomerblog.com\/wp-json\/","permalinkStructure":"\/%year%\/%monthnum%\/%postname%\/"};
 			</script>
 <meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://gomerblog.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
     
     
 
@@ -1517,7 +1517,7 @@ body {
 	
     }
 </style>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -1527,7 +1527,7 @@ body {
   ga('send', 'pageview');
 
 </script>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
 /**
 * Function that tracks a click on an outbound link in Analytics.
 * This function takes a valid URL string as an argument, and uses that URL string
@@ -1541,7 +1541,7 @@ var trackOutboundLink = function(url) {
    });
 }
 </script>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
   !function(f,b,e,v,n,t,s)
   {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
   n.callMethod.apply(n,arguments):n.queue.push(arguments)};
@@ -1554,8 +1554,8 @@ var trackOutboundLink = function(url) {
   fbq('track', 'PageView');
 </script>
 <noscript><img height="1" src="https://www.facebook.com/tr?id=707194552714648&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script type="f3877b100e6b04b572f97d74-text/javascript">
      (adsbygoogle = window.adsbygoogle || []).push({
           google_ad_client: "ca-pub-1245291873835713",
           enable_page_level_ads: true
@@ -1915,7 +1915,7 @@ Sunday, February 14, 2021
 <div class="td-container-header td-header-row td-header-header">
 <div class="td-header-sp-recs">
 <div class="td-header-rec-wrap">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="14dd3968040f26a5f0a70afc-text/javascript"></script><div class="td-g-rec td-g-rec-id-header tdi_1_0cd td_block_template_1">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="f3877b100e6b04b572f97d74-text/javascript"></script><div class="td-g-rec td-g-rec-id-header tdi_1_0cd td_block_template_1">
 <style>
 /* custom css */
 .tdi_1_0cd.td-a-rec{
@@ -1931,7 +1931,7 @@ Sunday, February 14, 2021
 				        text-align: center;
 				    }
                 }
-</style><script type="14dd3968040f26a5f0a70afc-text/javascript">
+</style><script type="f3877b100e6b04b572f97d74-text/javascript">
 var td_screen_width = window.innerWidth;
 
                     if ( td_screen_width >= 1140 ) {
@@ -1999,7 +1999,7 @@ var td_screen_width = window.innerWidth;
 				}.tdi_7_dcd .wpb_wrapper{
 				    height: auto;
 				}
-</style><div class="wpb_wrapper"><div class="td_block_wrap td_block_1 tdi_8_08d td-pb-border-top td_block_template_1 td-column-3" data-td-block-uid="tdi_8_08d"><script type="14dd3968040f26a5f0a70afc-text/javascript">var block_tdi_8_08d = new tdBlock();
+</style><div class="wpb_wrapper"><div class="td_block_wrap td_block_1 tdi_8_08d td-pb-border-top td_block_template_1 td-column-3" data-td-block-uid="tdi_8_08d"><script type="f3877b100e6b04b572f97d74-text/javascript">var block_tdi_8_08d = new tdBlock();
 block_tdi_8_08d.id = "tdi_8_08d";
 block_tdi_8_08d.atts = '{"limit":"9","custom_title":"Hot Off the Press","separator":"","custom_url":"","block_template_id":"","m4_tl":"","m4_el":"","m6_tl":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"","offset":"","show_modified_date":"","el_class":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m4f_title_font_header":"","m4f_title_font_title":"Article title","m4f_title_font_settings":"","m4f_title_font_family":"","m4f_title_font_size":"","m4f_title_font_line_height":"","m4f_title_font_style":"","m4f_title_font_weight":"","m4f_title_font_transform":"","m4f_title_font_spacing":"","m4f_title_":"","m4f_cat_font_title":"Article category tag","m4f_cat_font_settings":"","m4f_cat_font_family":"","m4f_cat_font_size":"","m4f_cat_font_line_height":"","m4f_cat_font_style":"","m4f_cat_font_weight":"","m4f_cat_font_transform":"","m4f_cat_font_spacing":"","m4f_cat_":"","m4f_meta_font_title":"Article meta info","m4f_meta_font_settings":"","m4f_meta_font_family":"","m4f_meta_font_size":"","m4f_meta_font_line_height":"","m4f_meta_font_style":"","m4f_meta_font_weight":"","m4f_meta_font_transform":"","m4f_meta_font_spacing":"","m4f_meta_":"","m4f_ex_font_title":"Article excerpt","m4f_ex_font_settings":"","m4f_ex_font_family":"","m4f_ex_font_size":"","m4f_ex_font_line_height":"","m4f_ex_font_style":"","m4f_ex_font_weight":"","m4f_ex_font_transform":"","m4f_ex_font_spacing":"","m4f_ex_":"","m6f_title_font_header":"","m6f_title_font_title":"Article title","m6f_title_font_settings":"","m6f_title_font_family":"","m6f_title_font_size":"","m6f_title_font_line_height":"","m6f_title_font_style":"","m6f_title_font_weight":"","m6f_title_font_transform":"","m6f_title_font_spacing":"","m6f_title_":"","m6f_cat_font_title":"Article category tag","m6f_cat_font_settings":"","m6f_cat_font_family":"","m6f_cat_font_size":"","m6f_cat_font_line_height":"","m6f_cat_font_style":"","m6f_cat_font_weight":"","m6f_cat_font_transform":"","m6f_cat_font_spacing":"","m6f_cat_":"","m6f_meta_font_title":"Article meta info","m6f_meta_font_settings":"","m6f_meta_font_family":"","m6f_meta_font_size":"","m6f_meta_font_line_height":"","m6f_meta_font_style":"","m6f_meta_font_weight":"","m6f_meta_font_transform":"","m6f_meta_font_spacing":"","m6f_meta_":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":3,"header_color":"","color_preset":"","border_top":"","class":"tdi_8_08d","tdc_css_class":"tdi_8_08d","tdc_css_class_style":"tdi_8_08d_rand_style"}';
 block_tdi_8_08d.td_column_number = "3";
@@ -2108,7 +2108,7 @@ Las Vegas, NV - With COVID still raging across the country, medical professional
 				}.tdi_12_e95 .wpb_wrapper{
 				    height: auto;
 				}
-</style><div class="wpb_wrapper"><div class="td_block_wrap td_block_3 tdi_13_ecc td_with_ajax_pagination td-pb-border-top td_block_template_1 td-column-2 td_block_padding" data-td-block-uid="tdi_13_ecc"><script type="14dd3968040f26a5f0a70afc-text/javascript">var block_tdi_13_ecc = new tdBlock();
+</style><div class="wpb_wrapper"><div class="td_block_wrap td_block_3 tdi_13_ecc td_with_ajax_pagination td-pb-border-top td_block_template_1 td-column-2 td_block_padding" data-td-block-uid="tdi_13_ecc"><script type="f3877b100e6b04b572f97d74-text/javascript">var block_tdi_13_ecc = new tdBlock();
 block_tdi_13_ecc.id = "tdi_13_ecc";
 block_tdi_13_ecc.atts = '{"ajax_pagination":"infinite","td_ajax_preloading":"","limit":"6","separator":"","custom_title":"","custom_url":"","block_template_id":"","m1_tl":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"","offset":"","show_modified_date":"","el_class":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m1f_title_font_header":"","m1f_title_font_title":"Article title","m1f_title_font_settings":"","m1f_title_font_family":"","m1f_title_font_size":"","m1f_title_font_line_height":"","m1f_title_font_style":"","m1f_title_font_weight":"","m1f_title_font_transform":"","m1f_title_font_spacing":"","m1f_title_":"","m1f_cat_font_title":"Article category tag","m1f_cat_font_settings":"","m1f_cat_font_family":"","m1f_cat_font_size":"","m1f_cat_font_line_height":"","m1f_cat_font_style":"","m1f_cat_font_weight":"","m1f_cat_font_transform":"","m1f_cat_font_spacing":"","m1f_cat_":"","m1f_meta_font_title":"Article meta info","m1f_meta_font_settings":"","m1f_meta_font_family":"","m1f_meta_font_size":"","m1f_meta_font_line_height":"","m1f_meta_font_style":"","m1f_meta_font_weight":"","m1f_meta_font_transform":"","m1f_meta_font_spacing":"","m1f_meta_":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":2,"header_color":"","color_preset":"","border_top":"","class":"tdi_13_ecc","tdc_css_class":"tdi_13_ecc","tdc_css_class_style":"tdi_13_ecc_rand_style"}';
 block_tdi_13_ecc.td_column_number = "2";
@@ -2256,7 +2256,7 @@ tdBlocksArray.push(block_tdi_13_ecc);
 <option class="level-0" value="2147">ZdoggMD</option>
 </select>
 </form>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
 /* <![CDATA[ */
 (function() {
 	var dropdown = document.getElementById( "cat" );
@@ -2369,7 +2369,7 @@ tdBlocksArray.push(block_tdi_13_ecc);
 <option class="current" value="http://gomerblog.com/2013/07/"> July 2013 </option>
 <option class="current" value="http://gomerblog.com/2013/06/"> June 2013 </option>
 </select>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
 /* <![CDATA[ */
 (function() {
 	var dropdown = document.getElementById( "archives-dropdown-10" );
@@ -2384,7 +2384,7 @@ tdBlocksArray.push(block_tdi_13_ecc);
 </script>
 </aside><aside class="td_block_template_1 widget text-68 widget_text" id="text-68"> <div class="textwidget"><p><a href="http://gomerpedia.org/wiki/Main_Page"><img alt="" class="aligncenter wp-image-19272 lazyload" data-src="http://gomerblog.com/wp-content/uploads/2016/11/Gomerpedia.png" height="184" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="223"/><noscript><img alt="" class="aligncenter wp-image-19272" height="184" loading="lazy" src="http://gomerblog.com/wp-content/uploads/2016/11/Gomerpedia.png" width="223"/></noscript></a></p>
 </div>
-</aside></div><div class="td_block_wrap td_block_15 tdi_18_af2 td_with_ajax_pagination td-pb-border-top td_block_template_1 td-column-1 td_block_padding" data-td-block-uid="tdi_18_af2"><script type="14dd3968040f26a5f0a70afc-text/javascript">var block_tdi_18_af2 = new tdBlock();
+</aside></div><div class="td_block_wrap td_block_15 tdi_18_af2 td_with_ajax_pagination td-pb-border-top td_block_template_1 td-column-1 td_block_padding" data-td-block-uid="tdi_18_af2"><script type="f3877b100e6b04b572f97d74-text/javascript">var block_tdi_18_af2 = new tdBlock();
 block_tdi_18_af2.id = "tdi_18_af2";
 block_tdi_18_af2.atts = '{"limit":"6","category_id":"73","ajax_pagination":"infinite","separator":"","custom_title":"","custom_url":"","block_template_id":"","mx4_tl":"","post_ids":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"","offset":"","show_modified_date":"","el_class":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","mx4f_title_font_header":"","mx4f_title_font_title":"Article title","mx4f_title_font_settings":"","mx4f_title_font_family":"","mx4f_title_font_size":"","mx4f_title_font_line_height":"","mx4f_title_font_style":"","mx4f_title_font_weight":"","mx4f_title_font_transform":"","mx4f_title_font_spacing":"","mx4f_title_":"","mx4f_cat_font_title":"Article category tag","mx4f_cat_font_settings":"","mx4f_cat_font_family":"","mx4f_cat_font_size":"","mx4f_cat_font_line_height":"","mx4f_cat_font_style":"","mx4f_cat_font_weight":"","mx4f_cat_font_transform":"","mx4f_cat_font_spacing":"","mx4f_cat_":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_18_af2","tdc_css_class":"tdi_18_af2","tdc_css_class_style":"tdi_18_af2_rand_style"}';
 block_tdi_18_af2.td_column_number = "1";
@@ -2678,7 +2678,7 @@ Follow us on Instagram <a class="td-footer-instagram-user-link" href="https://ww
 <i class="td-icon-font td-icon-twitter"></i>
 </a>
 </span></div></div><aside class="td_block_template_1 widget widget_text"> <div class="textwidget">
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script type="f3877b100e6b04b572f97d74-text/javascript">
 var _qevents = _qevents || [];
 
 (function() {
@@ -2729,34 +2729,34 @@ background-color: blue;
 }
 
 </style>
-<script id="contact-form-7-js-extra" type="14dd3968040f26a5f0a70afc-text/javascript">
+<script id="contact-form-7-js-extra" type="f3877b100e6b04b572f97d74-text/javascript">
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"http:\/\/gomerblog.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script id="contact-form-7-js" src="http://gomerblog.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="google-recaptcha-js" src="https://www.google.com/recaptcha/api.js?render=6LcrxPAUAAAAAF9FAE9KP4gJtWH8-SIZA8HGttfq&amp;ver=3.0" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="wpcf7-recaptcha-js-extra" type="14dd3968040f26a5f0a70afc-text/javascript">
+<script id="contact-form-7-js" src="http://gomerblog.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="google-recaptcha-js" src="https://www.google.com/recaptcha/api.js?render=6LcrxPAUAAAAAF9FAE9KP4gJtWH8-SIZA8HGttfq&amp;ver=3.0" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="wpcf7-recaptcha-js-extra" type="f3877b100e6b04b572f97d74-text/javascript">
 /* <![CDATA[ */
 var wpcf7_recaptcha = {"sitekey":"6LcrxPAUAAAAAF9FAE9KP4gJtWH8-SIZA8HGttfq","actions":{"homepage":"homepage","contactform":"contactform"}};
 /* ]]> */
 </script>
-<script id="wpcf7-recaptcha-js" src="http://gomerblog.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.2.2" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="smush-lazy-load-js" src="http://gomerblog.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.6.3" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="smush-lazy-load-js-after" type="14dd3968040f26a5f0a70afc-text/javascript">
+<script id="wpcf7-recaptcha-js" src="http://gomerblog.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.2.2" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="smush-lazy-load-js" src="http://gomerblog.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.6.3" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="smush-lazy-load-js-after" type="f3877b100e6b04b572f97d74-text/javascript">
 lazySizes.cfg.nativeLoading={setLoadingAttribute:false,disableListeners:{scroll:true}};lazySizes.init();
 </script>
-<script id="underscore-js" src="http://gomerblog.com/wp-includes/js/underscore.min.js?ver=1.8.3" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="tdb_js_posts_autoload-js" src="http://gomerblog.com/wp-content/plugins/td-cloud-library/assets/js/js_posts_autoload.min.js?ver=a336a33b491e4d82f056f6bf77847b68" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="td-site-min-js" src="http://gomerblog.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=10.3.6.1" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="comment-reply-js" src="http://gomerblog.com/wp-includes/js/comment-reply.min.js?ver=5.5.1" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="heateor_sss_sharing_js-js-before" type="14dd3968040f26a5f0a70afc-text/javascript">
+<script id="underscore-js" src="http://gomerblog.com/wp-includes/js/underscore.min.js?ver=1.8.3" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="tdb_js_posts_autoload-js" src="http://gomerblog.com/wp-content/plugins/td-cloud-library/assets/js/js_posts_autoload.min.js?ver=a336a33b491e4d82f056f6bf77847b68" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="td-site-min-js" src="http://gomerblog.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=10.3.6.1" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="comment-reply-js" src="http://gomerblog.com/wp-includes/js/comment-reply.min.js?ver=5.5.1" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="heateor_sss_sharing_js-js-before" type="f3877b100e6b04b572f97d74-text/javascript">
 function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'http://gomerblog.com/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'http://gomerblog.com/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'http://gomerblog.com/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 1, heateorSssVerticalSharingCountEnable = 1, heateorSssSharingOffset = 10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")};var heateorSssWhatsappShareAPI = "web";
 </script>
-<script id="heateor_sss_sharing_js-js" src="http://gomerblog.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.12" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="tdb_js_files_for_front-js" src="http://gomerblog.com/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=a336a33b491e4d82f056f6bf77847b68" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script id="wp-embed-js" src="http://gomerblog.com/wp-includes/js/wp-embed.min.js?ver=5.5.1" type="14dd3968040f26a5f0a70afc-text/javascript"></script>
-<script type="14dd3968040f26a5f0a70afc-text/javascript">
+<script id="heateor_sss_sharing_js-js" src="http://gomerblog.com/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.12" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="tdb_js_files_for_front-js" src="http://gomerblog.com/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=a336a33b491e4d82f056f6bf77847b68" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script id="wp-embed-js" src="http://gomerblog.com/wp-includes/js/wp-embed.min.js?ver=5.5.1" type="f3877b100e6b04b572f97d74-text/javascript"></script>
+<script type="f3877b100e6b04b572f97d74-text/javascript">
 </script>
-<script data-cf-settings="14dd3968040f26a5f0a70afc-|49" defer="" src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"></script></body>
+<script data-cf-settings="f3877b100e6b04b572f97d74-|49" defer="" src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"></script></body>
 </html>

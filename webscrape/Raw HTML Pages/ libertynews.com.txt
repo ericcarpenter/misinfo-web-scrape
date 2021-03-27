@@ -13,17 +13,17 @@
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
 <title>LibertyNEWS</title>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
-<link href="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051613411989/default/theme.scss" rel="stylesheet" type="text/css"/>
+<link href="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051616439015/default/theme.scss" rel="stylesheet" type="text/css"/>
 <!-- because ie8 ignores media queries, we need this -->
 <!--[if IE 8]>
-    <link rel="stylesheet" href="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051613411989/default/tablet-and-desktop.scss" type="text/css" />
+    <link rel="stylesheet" href="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051616439015/default/tablet-and-desktop.scss" type="text/css" />
   <![endif]-->
 <!--[if IE]>
-  <link rel="stylesheet" href="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051613411989/default/ie.scss" type="text/css" />
+  <link rel="stylesheet" href="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051616439015/default/ie.scss" type="text/css" />
   <![endif]-->
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="Sl5v61yA9U1hrBUd+xvV9ExyTK9dbsUVd1qZ4Kzr+q4=" name="csrf-token">
+<meta content="O8CeWKp6n1TCoBAMTlu3iRs0aykXMSp4/fQqiBNRjV0=" name="csrf-token">
 <link href="https://www.libertynews.com/" rel="canonical"/>
 <meta content="LN Feed - Liberty News" name="Title"/>
 <meta content="Today's News Feed" name="Description"/>
@@ -31,8 +31,8 @@
 <meta content="https://www.libertynews.com/" property="og:url"/>
 <meta content="Today's News Feed" property="og:description"/>
 <meta content="article" property="og:type"/>
-<link href="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/meta_images/original/Screen_Shot_2021-03-16_at_7.38.27_AM.png?1615898323" rel="image_src"/>
-<meta content="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/meta_images/original/Screen_Shot_2021-03-16_at_7.38.27_AM.png?1615898323" property="og:image">
+<link href="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/meta_images/original/Screen_Shot_2021-03-26_at_8.21.33_AM.png?1616764909" rel="image_src"/>
+<meta content="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/meta_images/original/Screen_Shot_2021-03-26_at_8.21.33_AM.png?1616764909" property="og:image">
 <meta content="LibertyNEWS" property="og:site_name">
 <script type="text/javascript">
   var NB = NB || {};
@@ -52,7 +52,7 @@
 <script type="text/javascript">
     //<![CDATA[
       window._auth_token_name = "authenticity_token";
-      window._auth_token = "Sl5v61yA9U1hrBUd+xvV9ExyTK9dbsUVd1qZ4Kzr+q4=";
+      window._auth_token = "O8CeWKp6n1TCoBAMTlu3iRs0aykXMSp4/fQqiBNRjV0=";
     //]]>
 </script>
 <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css" media="all" rel="stylesheet" type="text/css"/>
@@ -97,10 +97,10 @@ while we re-configure the social share prompt -->
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(wf, s);
   })(); </script>
-<script src="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051613411989/default/jquery.ui.effect.min.js" type="text/javascript"></script>
-<script src="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051613411989/default/jquery.ui.effect-slide.min.js" type="text/javascript"></script>
-<script src="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051613411989/default/staged-donations.js" type="text/javascript"></script>
-<script src="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051613411989/default/collective.js" type="text/javascript"></script>
+<script src="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051616439015/default/jquery.ui.effect.min.js" type="text/javascript"></script>
+<script src="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051616439015/default/jquery.ui.effect-slide.min.js" type="text/javascript"></script>
+<script src="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051616439015/default/staged-donations.js" type="text/javascript"></script>
+<script src="https://libertynews.nationbuilder.com/themes/2/5b086f9945de9436bf000000/0/attachments/16134130051616439015/default/collective.js" type="text/javascript"></script>
 </link></meta></meta></meta></meta></meta></head>
 <body class="aware-theme v2-theme page-type-basic js">
 <div class="pattern" id="pattern">
@@ -190,6 +190,8 @@ while we re-configure the social share prompt -->
 <!-- _columns_2.html -->
 <div class="twocolumn-container clearfix">
 <div class="left-column">
+<div id="flash_container">
+</div>
 <div class="content-pages-show-basic">
 <!-- _breadcrumbs.html -->
 <!-- /_breadcrumbs.html -->
@@ -200,7 +202,1725 @@ while we re-configure the social share prompt -->
 <span style="text-decoration: underline;"><a href="topthree"><span style="color: #b40000;"><strong>Top 3 Videos</strong></span></a></span><span style="color: #b40000;"><strong> • <span style="text-decoration: underline;"><span style="color: #b40000;"><a href="archive" style="color: #b40000; text-decoration: underline;">Categories</a></span></span><span style="color: #b40000;"> • <span style="text-decoration: underline;"><a href="bydate" style="color: #b40000; text-decoration: underline;">By Date</a></span></span></strong></span>
 </h3>
 <p> </p>
-<h2><span style="color: #b40000;">Today's Feed:<strong><a href="https://youtu.be/_7lUqVwAOW8"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1615894250/mariataxes.jpg?1615894250" style="margin: 3px; float: right;" width="400"/></a></strong></span></h2>
+<h2><span style="color: #b40000;">Today's Feed:<strong><a href="https://twitter.com/tomselliott/status/1375142907703918596"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616762609/bidenbumbles2.jpg?1616762609" style="margin: 3px; float: right;" width="400"/></a><br/><br/></strong></span></h2>
+<ul>
+<li>
+<strong>Top Feeds</strong>
+<ul>
+<li>Joe fumbles, <a href="https://twitter.com/tomselliott/status/1375142907703918596">bumbles</a> (we have all the videos, including Trump's <a href="https://www.youtube.com/watch?v=xZaNhtjaKW0">response</a>)</li>
+</ul>
+</li>
+<li>
+<strong>Team Biden Chronicles</strong>
+<ul>
+<li>
+<span style="text-decoration: underline;"><strong>JOe's Joke-Conference</strong></span>
+<ul>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1375144507545640963">Joe pathetically struggles to find names of approved reporters to call on (video)</a>
+<ul>
+<li><a href="https://twitter.com/Breaking911/status/1375252737479294976">PHOTO of cheat sheet of which reporters to call on</a></li>
+<li>More on <a href="https://www.thegatewaypundit.com/2021/03/breaking-biden-cheat-sheets-included-photos-reporters-read-every-foreign-policy-question/">cheat sheets</a>
+</li>
+<li>More here on cheat sheets from <a href="https://www.foxnews.com/politics/photos-biden-cheat-sheets-first-formal-press-conference">FoxNews</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1375141329907417090">the FIRST SOFTBALL arrives... (video)</a><br/>
+<ul>
+<li><span>"How far are you willing to go to achieve those promises that you made to the American people?"<span style="text-decoration: underline;"><strong><em><a href="https://www.libertynews.com/get_fed"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/attachments/original/1614721403/ln_signupvertical.jpg?1614721403" style="float: right;" width="200"/></a></em></strong></span></span></li>
+<li><em>What is this... North Korean media asking Kim Jong?</em></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1375143557724573702">Border question -- Media says they're coming because Joe is "moral" and "decent" (video)</a></li>
+<li><a href="https://twitter.com/tomselliott/status/1375142907703918596">Joe's brain sputters on filibuster question (video)</a></li>
+<li><a href="https://pjmedia.com/news-and-politics/matt-margolis/2021/03/25/this-may-have-been-the-dumbest-line-of-bidens-painful-press-conference-n1435067">Joe's dumbest line? Tough to choose, but PJ Media picked this</a></li>
+<li><a href="https://twitter.com/Breaking911/status/1375157159063851018">Takes questions from just TEN OUTLETS from pre-approved list. Says "I'm going" (video)</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1375359240991281154"></a><a href="https://www.youtube.com/watch?v=xZaNhtjaKW0">Trump: strange questions... softballs (video)</a>
+</li>
+<li><a href="https://www.youtube.com/watch?v=I5aQdy0DXa8">Hannity-- like watching a train wreck in slow motion (video)</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=KEucxkTUG2c">Tucker -- what press conference? (video)</a><br/>
+<ul>
+<li>You've heard the term "pregnant pause." Joe Biden's pauses were third-trimester quintuplets"</li>
+</ul>
+</li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1375228536986959873">Even Chris Wallace notes Joe reading "talking points" (video)</a><br/>
+<ul>
+<li>Covering Ronald Reagan I never saw that... never seen that</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1375194020562014218">Doocy -- they only allowed "friendly" media questions (video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZMxvJMUjwDE">FoxNews fact checks (video)</a></li>
+<li>Good summary <a href="https://www.zerohedge.com/political/watch-live-joe-bidens-first-press-conference-after-waiting-longer-any-president-century">here</a>
+</li>
+<li>If you dare, watch the whole thing <a href="https://www.youtube.com/watch?v=broBpqkQkO8">here</a><br/><br/>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Good sources</strong>
+<ul>
+<li><a href="https://pandemic.warroom.org/">Bannon's Warroom Pandemic</a></li>
+<li><a href="https://www.thegatewaypundit.com/">Gateway Pundit</a></li>
+<li><a href="https://www.revolver.news/">Revolver.news</a></li>
+<li><a href="https://www.citizenfreepress.com/">Citizen Free Press</a></li>
+<li>Great browser: <a href="brave.com">Brave</a><br/><br/>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span style="color: #b40000;">March 25 Feed:<strong><a href="https://twitter.com/TVNewsHQ/status/1374882126462644231"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616673243/tedmaskpolice.jpg?1616673243" style="margin: 3px; float: right;" width="400"/></a><br/><br/></strong></span></h2>
+<ul>
+<li>
+<strong>Top Feeds</strong>
+<ul>
+<li>Ted Cruz SHAMES mask police (<a href="https://twitter.com/TVNewsHQ/status/1374882126462644231">video</a>)</li>
+<li>Best read: <a href="https://www.wsj.com/articles/news-flash-its-a-bad-bill-h-r-1-11616623948?st=mssjp8t8bb8i90t&amp;reflink=desktopwebshare_permalink">WSJ--Dems want to rig the rules</a>
+</li>
+<li>And the rest of today's top LibertyNews feeds...</li>
+</ul>
+</li>
+<li>
+<strong>Team Biden Chronicles</strong>
+<ul>
+<li>
+<span style="text-decoration: underline;"><strong>JOe's Gun Grab</strong></span>
+<ul>
+<li>
+<a href="https://www.grassfire.com/flashpoll_do_americans_need_gun_rights_or_gun_control"></a><a href="https://www.grassfire.com/flashpoll_do_americans_need_gun_rights_or_gun_control">(Grassfire) Do Americans want gun rights? </a>
+</li>
+<li><a href="https://www.zerohedge.com/political/biden-administration-urges-supreme-court-let-cops-enter-homes-and-seize-guns-without">Joe's team argues before SC for "warrentless gun confiscation"</a></li>
+<li>
+<a href="https://beckernews.com/breaking-9th-circuit-rules-americans-have-no-right-to-carry-guns-either-open-or-concealed-38059/">9th Circuit -- Americans have NO right to open carry!</a><br/>
+<ul>
+<li><span>“The en banc court held that the Second Amendment does not guarantee an unfettered, general right to openly carry arms in public for individual self-defense.”</span></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's border crisis</strong></span>
+<ul>
+<li><a href="https://www.axios.com/biden-harris-border-crisis-d749a52a-2de3-4cc4-aaca-6a7dbc9df25a.html?utm_campaign=organic&amp;utm_medium=socialshare&amp;utm_source=twitter">Joe turns it over to Kamala</a></li>
+<li>
+<a href="https://twitter.com/ThisWeekABC/status/1374793375229091842">Joe blames Trump, turns it over to Kamala (video)</a><a href="https://twitter.com/ThisWeekABC/status/1374793375229091842"> </a>
+</li>
+<li><a href="https://www.zerohedge.com/geopolitical/42-million-people-latin-america-want-migrate-america">Gallup -- 42 MILLION latinos want to come to U.S.</a></li>
+<li><a href="https://www.breitbart.com/border/2021/03/24/exclusive-migrant-got-away-total-tops-130k-in-2021/">Govt now says 130,000 illegals "got away" into US so far this year</a></li>
+<li>
+<a href="https://www.breitbart.com/politics/2021/03/24/exclusive-senate-republicans-line-up-to-oppose-house-passed-amnesty-bills/">Breitbart: only 16 GOP senators on record opposing amnesty</a><br/>
+<ul>
+<li><span>“Do I have 60 now? I think I’m close,” Durbin said</span></li>
+</ul>
+</li>
+<li><a href="https://www.breitbart.com/immigration/2021/03/24/senate-democrats-block-jim-inhofes-resolution-calling-influx-of-migrants-a-border-crisis/">Senate Dems block "border crisis" resolution </a></li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374758348680269826">Kamala: border is "huge problem" (video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=URQZVvPae8g">Gingrich: it's a "peaceful invasion" (video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=wzgi1BXVsyE">Hannity: "unmitigated disaster" (video)</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=E-7V7Nw8ihc">FOXNews inside look at migrant children quarters (video)</a>
+<ul>
+<li>cost: $1,000/day/child; 17,000 arrive this month</li>
+<li>housing in military facilities</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's "Biden Hiden" crisis<em><a href="https://www.libertynews.com/get_fed"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/attachments/original/1614721403/ln_signupvertical.jpg?1614721403" style="float: right;" width="200"/></a></em></strong></span>
+<ul>
+<li><a href="https://twitter.com/disclosetv/status/1374798918127648778">SHOCK -- Joe looks like SENILE, OLD MAN after turning border crisis over to Kamala (video)</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1374847358790463493"></a><a href="https://twitter.com/TVNewsHQ/status/1374847358790463493">Joe: "What press conference?"</a>
+</li>
+<li>
+<a href="https://www.cnn.com/2021/03/24/politics/biden-press-conference-preparation/index.html">Joe's been calling lids to prep.</a> What?
+<ul>
+<li>CNN: "<span>Biden’s three-ring binders are typically organized by topic, with tabs separating the sections and the contents typed out in 14-point font. He has read them in the evenings and returned the next day with feedback for his team.... </span>
+</li>
+<li><span>"So, too, have Biden’s advisers worked to avoid situations that would cause the President’s temper to flare,</span></li>
+<li><span>"Part of avoiding that is providing Biden as many potential questions as possible, aides say, in the hopes he feels prepared for whatever might come his way and not be caught off guard in a way that puts him on the defensive. </span></li>
+</ul>
+</li>
+<li>
+<a href="https://www.americanthinker.com/articles/2021/03/the_unfit_president_.html">The Unfit President</a>
+<ul>
+<li>"Pr<span>esident Joe Biden is functionally incapable of discharging his duties. </span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Capitol Fence crisis</strong></span>
+<ul>
+<li><a href="https://thehill.com/homenews/senate/544832-senators-to-introduce-bill-to-prohibit-permanent-capitol-fence">New bill to ban Capitol fence</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe' Anti-Equality Act</strong></span>
+<ul>
+<li>
+<a href="https://www.grassfire.com/national_review_equality_act_ideological_tyranny"><strong><em></em></strong></a><a href="https://www.grassfire.com/national_review_equality_act_ideological_tyranny">(Grassfire) National Review: Equality Act "ideological tyranny"</a>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Never-Ending Spending</strong></span>
+<ul>
+<li>
+<a href="https://www.libertynews.com/of_course_more_for_government_means_less_for_us"></a><a href="https://www.libertynews.com/of_course_more_for_government_means_less_for_us">(Exclusive) More for government means less for us</a>
+</li>
+<li><a href="https://www.washingtonexaminer.com/news/under-biden-the-taxman-cometh-again">Biden pushing largest tax increase since 1993</a></li>
+<li><a href="https://www.wsj.com/articles/special-dollars-for-dictators-11616624610?st=eeqr5a9vgvptdux&amp;reflink=desktopwebshare_permalink">WSJ -- $1 Trillion being funneled to dictators?</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>The Purge</strong></li>
+<li>
+<strong>Trump and People push back</strong>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374520823625568262">Sen. Kennedy on gun control; "we need more idiot control" (video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=5FN8vCrbZ_s">WV: plan to ban state income tax</a></li>
+<li><a href="https://twitter.com/realchrisrufo/status/1372940700447166464">IA state house passes bill banning critical race theory</a></li>
+<li><a href="https://twitter.com/beingrealmac/status/1374595540651012097">Trump statement with Madison Cawthorn (video)</a></li>
+<li><a href="https://thehill.com/homenews/news/544823-trump-in-talks-to-partner-with-apps-to-create-social-media-network-report">Trump in talks on new social network</a></li>
+<li><a href="https://twitter.com/JamesOKeefeIII/status/1374739598685900803">James O'Keefe PUSHES BACK against ignorant media (video)</a></li>
+</ul>
+</li>
+<li>
+<strong>Election Watch</strong>
+<ul>
+<li><a href="https://www.thegatewaypundit.com/2021/03/scan-ballots-effort-moving-forward-georgia-involving-jovan-pulitizers-technique-forensically-reviewing-ballots-2020-election/">GA "scan the ballots" effort moving forward</a></li>
+<li>
+<a href="https://www.breitbart.com/2020-election/2021/03/24/bicameral-group-sends-letter-pelosi-expressing-outrage-effort-overturn-iowa-election/">Pelosi still working to overturn IA-2 result</a>
+<ul>
+<li><em>Does this mean it's time to impeach Nancy?</em></li>
+</ul>
+</li>
+<li>HR 1
+<ul>
+<li>
+<a href="https://twitter.com/mrctv/status/1374755385400123393">Ted Cruz -- This bill "mandates ballot harvesting" (video)</a>
+<ul>
+<li>"Corrupt politicians act"</li>
+</ul>
+</li>
+<li><a href="https://www.breitbart.com/politics/2021/03/24/watch-chuck-schumer-state-voting-laws-one-of-the-greatest-threats-we-have-to-modern-democracy-in-america/">Schumer: state election laws "threat to modern democracy"</a></li>
+<li>
+<a href="https://www.wsj.com/articles/news-flash-its-a-bad-bill-h-r-1-11616623948?st=mssjp8t8bb8i90t&amp;reflink=desktopwebshare_permalink">WSJ -- Dems want to "rig the rules"</a><br/>
+<ul>
+<li>"<span>Fifty states have their own voting laws, and it makes no sense to micromanage them all from Congress, down to the glue on the envelopes. Democrats have dumped H.R.1 on the public as a half-baked brainstorm because they’re in a rush to rig the rules to their advantage.</span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Great Reset</strong>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=yI0CQdBA53E">Tucker -- Dems want to deny jobs based on race (video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=8L9jX_EmWy4">Kilmeade -- Biden's plan to radically transform America (video)</a></li>
+<li><a href="https://www.zerohedge.com/markets/nevada-just-crowned-its-first-transgender-pageant-winner">NV has tranny pageant winner</a></li>
+<li><a href="https://www.zerohedge.com/covid-19/merkel-cancels-draconian-easter-lockdown-amid-backlash-furious-germans">First tranny confirmed to cabinet post</a></li>
+</ul>
+</li>
+<li><strong>Media/Tech bias</strong></li>
+<li>
+<strong>COVID Facts</strong>
+<ul>
+<li>
+<a href="https://www.wsj.com/articles/herd-immunity-is-near-despite-faucis-denial-11616624554?st=gpmk986th1fjbim&amp;reflink=desktopwebshare_permalink">40-50% of America likely already infected so herd immunity is NEAR!</a>
+<ul>
+<li>"Data from the California Department of Public Health, released earlier this month, show that while only 8.7% of the state’s population has ever tested positive for Covid-19, at least 38.5% of the population has antibodies against the novel coronavirus.</li>
+</ul>
+</li>
+<li>
+<a href="https://www.zerohedge.com/covid-19/uk-lockdown-one-year-it-doesnt-work-it-never-worked-it-wasnt-supposed-work">UK Data -- lockdowns don't work</a>
+<ul>
+<li><span>They don’t make any difference, the curves don’t flatten and the R0 number doesn’t drop and the lives aren’t saved (quite the opposite, as we’ve all seen).</span></li>
+</ul>
+</li>
+<li>
+<a href="https://www.conservativewoman.co.uk/the-many-scandals-of-the-pcr-test-part-1/"><span>The many scandals of the PCR test</span></a>
+<ul>
+<li>
+<span>"</span>if you are testing 30million people (approximately just under half population of the UK), using a conservative 1 per cent false positive rate it will result in 300,000 false positives. If you take the median rate of 2.4 per cent, it results in 720,000 false positive cases. You can guess where I am going here – you’ve already got an epidemic just in false positive cases.  </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>COVID-1984 Shutdown Shockers</strong> 
+<ul>
+<li><a href="https://twitter.com/beingrealmac/status/1374595540651012097">Cuomo Covid Cronyism</a></li>
+<li>
+<a href="https://www.zerohedge.com/markets/consumer-spending-explodes-driven-vaccine-recipients-millennials-splurging-airlines">Shutdown STILL impacting consumer spending</a><br/>
+<ul>
+<li>It's bouncing back, mostly because of stim checks, but still lagging</li>
+</ul>
+</li>
+<li><a href="https://www.zerohedge.com/covid-19/merkel-cancels-draconian-easter-lockdown-amid-backlash-furious-germans">PUSH BACK -- Germany's Merkel drops draconian Easter lockdown</a></li>
+<li><a href="https://twitter.com/drsimonegold/status/1373621230457212931">PUSH BACK -- people in 40 countries protest lockdowns</a></li>
+<li>MASKerade
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374882126462644231">PUSH BACK -- Ted Cruz confronts Maskerade (video)</a></li>
+</ul>
+</li>
+<li>The Jab...
+<ul>
+<li>
+<a href="https://thehill.com/policy/healthcare/544839-astrazeneca-updates-vaccine-efficacy-to-76-percent">AZ now 76% effective</a>. OK.</li>
+</ul>
+</li>
+<li>Shutdown FOREVER!
+<ul>
+<li><a href="https://www.fox5ny.com/news/cdc-says-no-sail-order-to-remain-in-place-until-nov-1-despite-cruise-association-request">CDC: no cruises until November!</a></li>
+</ul>
+</li>
+<li>Fauxi
+<ul>
+<li><a href="https://www.thegatewaypundit.com/2021/03/judicial-watch-obtains-emails-showing-faucis-nih-accommodated-chinas-terms-confidentiality-surrounding-covid-19-february-2020/">Judicial Watch -- Fauci's NIH covered up for China?</a></li>
+<li>
+<a href="https://americanconsequences.com/when-will-we-finally-be-free-of-fauci-buck-sexton/">When will we be free of Fauci?</a><br/>
+<ul>
+<li>"<span>Dr. Fauci, the diminutive public health Stalinist, has shifted the goalposts yet again.</span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Misc Don't Miss</strong>
+<ul>
+<li><a href="https://www.zerohedge.com/geopolitical/marco-rubio-talks-ufos-tmz-theres-stuff-flying-over-us-bases-and-nobody-knows-what-it">Rubio talks about UFOs: "stuff flying over militery installations" (video)</a></li>
+<li><a href="https://twitter.com/elonmusk/status/1374167754404630528">Musk: "strongest argument against aliens"</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong>Good sources</strong>
+<ul>
+<li><a href="https://pandemic.warroom.org/">Bannon's Warroom Pandemic</a></li>
+<li><a href="https://www.thegatewaypundit.com/">Gateway Pundit</a></li>
+<li><a href="https://www.revolver.news/">Revolver.news</a></li>
+<li><a href="https://www.citizenfreepress.com/">Citizen Free Press</a></li>
+<li>Great browser: <a href="brave.com">Brave</a><br/><br/>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span style="color: #b40000;">March 24 Feed:<strong><a href="https://www.youtube.com/watch?v=t27srFo6vIU"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616586092/tuckergun.jpg?1616586092" style="margin: 3px; float: right;" width="400"/></a></strong></span></h2>
+<ul>
+<li>
+<strong>Top Feeds</strong>
+<ul>
+<li>Left launches <a href="https://www.youtube.com/watch?v=t27srFo6vIU">GUN GRAB</a>;</li>
+<li>Best read: <a href="https://www.zerohedge.com/covid-19/one-year-flatten-life-we-knew-it">One year to flatten life as we knew it</a>
+</li>
+<li>Read #2 -- <a href="https://www.wsj.com/articles/incredible-shrinking-income-inequality-11616517284?st=8izu5jldw6ba751&amp;reflink=desktopwebshare_permalink">how transfer payments are leveling income</a>
+</li>
+<li>And the rest of today's top LibertyNEWS feeds...</li>
+</ul>
+</li>
+<li>
+<strong>CO Shooting</strong>
+<ul>
+<li>
+<a href="https://twitter.com/Breaking911/status/1374614515552301057">The victims</a>
+<ul>
+<li>more <a href="https://thenationalpulse.com/analysis/boulder-shooting-victims/">here</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.zerohedge.com/political/6-killed-including-1-cop-boulder-grocery-store-shooting-suspect-custody">The shooter: Ahmad Al-Issa</a>
+<ul>
+<li><a href="https://www.dailymail.co.uk/news/article-9393669/Gunman-21-charged-murder-shooting-killing-10-people.html">Ranted about "racist islamophobes"</a></li>
+<li><a href="https://thenationalpulse.com/news/boulder-shooter-ahmad-al-issa-posted-anti-trump-messages/">Anti-Trump tweets</a></li>
+<li>
+<a href="https://twitter.com/Malcolm_fleX48/status/1374383419241631749">FB scrubs account</a>; <a href="https://twitter.com/shaylaleeraquel/status/1374376047341309955">criticized Christianity</a>
+</li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/kamala-harriss-niece-meena-harris-slams-white-men-boulder-shooting-quietly-deletes-tweet-shooter-ided-muslim/">Kamala's niece blames "white men" then deletes tweet</a></li>
+<li>
+<a href="https://www.thegatewaypundit.com/2021/03/barack-obama-blames-isis-inspired-boulder-shooting-disaffection-racism-misogyny-calls-gun-control/">Barack: "disaffection, racism and misogyny" caused it;</a> what?</li>
+<li>
+<a href="https://twitter.com/MMFlint/status/1374527864666656770">Michael Moore: proves anyone can assimilate. What?</a><br/>
+<ul>
+<li>"The life of Ahmad Al Aliwi Alissa shows that people can come from all over the world and truly assimilate into our beloved American culture.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/justin_hart/status/1374537581753298946">Left activist tweets prove it's ALL ABOUT NARRATIVE</a></li>
+</ul>
+</li>
+<li>
+<strong>Team Biden Chronicles<em><a href="https://www.libertynews.com/get_fed"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/attachments/original/1614721403/ln_signupvertical.jpg?1614721403" style="float: right;" width="200"/></a></em></strong>
+<ul>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Gun Grab</strong></span><strong></strong>
+<ul>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1374408885696487429">Joe calls for ban on "assault weapons" (video)</a>
+<ul>
+<li>"I don't need to wait another minute"</li>
+</ul>
+</li>
+<li><a href="https://www.breitbart.com/clips/2021/03/23/blumenthal-republicans-are-complicit-in-all-these-shootings/">Blumenthal: GOP "complicit" in shootings</a></li>
+<li><a href="https://www.newsmax.com/politics/congress-guns/2021/03/23/id/1014862/">Schumer calls for Senate vote</a></li>
+<li><a href="https://redstate.com/jeffc/2021/03/23/democrats-using-mass-shootings-to-push-for-killing-the-filibuster-n349181">Dems -- shooting means we need to kill filibuster</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=t27srFo6vIU">Tucker on the Gun Grab (video)</a>
+<ul>
+<li>"People surrounded by armed soldiers are telling you you don't have a right to own a gun"</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374475887849086982">Gutfeld: Left sided with rioters (Video)</a></li>
+<li><a href="https://youtu.be/5a7TrEtrSq0">Ted Cruz in Senate on gun control (video)</a></li>
+<li><a href="https://youtu.be/6WIRcO_VUZI?t=73">Hawley: we're headed to national gun registry (Video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=MFjF9kW9Mcc">Joe says "get a shot gun" because they are easy. WAtch this (video)</a></li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/firearms-moron/">Gateway Pundit's gun quiz</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's border crisis</strong></span>
+<ul>
+<li>
+<a href="https://www.zerohedge.com/political/our-defenses-are-down-border-agent-gives-insider-account-over-crowded-facilities">Horrible conditions</a><br/>
+<ul>
+<li>"The family-unit holding cells smell like urine and vomit. Fights break out in the unaccompanied-minor cells. Scabies, lice, the flu, and COVID-19 run rampant. Up to 80 individuals are squeezed into each 24- by 30-foot cell, and there aren’t enough mattresses for everyone. Sheets of plastic divide the rooms.</li>
+</ul>
+</li>
+<li><a href="https://www.zerohedge.com/political/arizona-town-declares-state-emergency-over-border-crisis">State of emergency in AZ town</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1374514404792832007"></a><a href="https://twitter.com/TVNewsHQ/status/1374514404792832007">Kayleigh: "unprecedented" (video)</a>
+</li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374473483065847817">Watters: is the crisis FUNNY? (video)</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1374390562652971008">Cruz: media would have lost their minds if Trump blocked them (Video)</a><br/>
+<ul>
+<li><span>“If Trump had done this and said ‘no reporters are allowed on the border’ the media would have rightly lost their minds. Too many reporters in the liberal media view their job as Biden cheerleaders”</span></li>
+</ul>
+</li>
+<li><a href="https://www.breitbart.com/radio/2021/03/23/exclusive-rep-mo-brooks-amnesty-would-add-100-million-people-in-10-20-years/"><span>Mo Brooks: amnesty will add 100 million in 10-20 years</span></a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's "Biden Hiden" crisis<a href="https://townhall.com/political-cartoons/2021/03/24/181304?hpnl=true"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616584068/stg032421dAPR20210323124509.jpg?1616584068" style="margin: 3px; float: right;" width="350"/></a></strong></span>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374408885696487429">LISTEN to Joe's demeanor. It's sad (video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=SAJBe2MxRzg">Tucker responds to "Biden-Harris" admin (video)</a></li>
+<li><a href="https://www.youtube.com/watch?v=_g6mCJsnXSk">Hannity: Joe cleared schedule; Lara Trump prediction (video)</a></li>
+<li><a href="https://townhall.com/political-cartoons/2021/03/24/181304?hpnl=true">New presidential "seal"</a></li>
+</ul>
+</li>
+<li><span style="text-decoration: underline;"><strong>Joe's Capitol Fence crisis</strong></span></li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe' Anti-Equality Act</strong></span>
+<ul>
+<li><a href="https://www.grassfire.com/equality_act_not_equal_for_people_of_faith">(Grassfire) Equality Act NOT EQUAL for people of faith</a></li>
+<li><a href="https://www.grassfire.com/pro_lgtbq_groups_4m_equality_act_ad_blitz">(Grassfire) $4m spending blitz coming to pass Equality Act</a></li>
+<li><a href="https://www.catholicnewsagency.com/news/what-the-equality-act-could-mean-for-catholics-66086">Analysis: what this could mean for Catholics (and other people of faith)</a></li>
+</ul>
+</li>
+<li><span style="text-decoration: underline;"><strong>Joe's Never-Ending Spending</strong></span></li>
+<li><a href="https://www.wsj.com/articles/unusual-leap-in-gas-prices-puts-3-a-gallon-in-sight-11616578202?st=rqqqchirwhda9pb&amp;reflink=desktopwebshare_permalink"><span style="text-decoration: underline;"><strong>Joe's rising Gas prices</strong></span></a></li>
+</ul>
+</li>
+<li>
+<strong>The Purge</strong>
+<ul>
+<li><a href="https://youtu.be/6WIRcO_VUZI?t=294">DHS to put "extremists" such as Capitol breachers on "no fly list"</a></li>
+<li><a href="https://www.washingtonexaminer.com/news/trump-hotels-dropped-by-major-luxury-travel-agency">Trump hotels PURGED from travel agency network</a></li>
+<li>
+<a href="https://twitter.com/Breaking911/status/1374519934152175621">Two Dem Senators won't vote for white Biden nominees</a><br/>
+<ul>
+<li><em>Umm... is this not racism?</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Trump and People push back</strong>
+<ul>
+<li><a href="https://youtu.be/6WIRcO_VUZI?t=294">Josh Hawley: ditch the Patriot Act (video)</a></li>
+</ul>
+</li>
+<li>
+<strong>Election Watch</strong>
+<ul>
+<li><a href="https://www.thegatewaypundit.com/2021/03/republican-controlled-wisconsin-assembly-authorizes-investigation-2020-presidential-election/"> WI to investigate 2020 election</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/23/poll-majority-of-black-and-hispanic-voters-support-voter-id/">Poll: black (64%) and hispanic voters (78%) want Voter ID</a></li>
+</ul>
+</li>
+<li>
+<strong>COVID Facts</strong>
+<ul>
+<li><a href="https://twitter.com/C19Assembly/status/1374397683587149826">UK researchers will investigate EVERY covid-attributed death (video)</a></li>
+<li>
+<a href="https://threadreaderapp.com/thread/1374373277972402195.html">For the umpteenth time... the data that shows masks DON'T WORK</a>
+<ul>
+<li>"From 2008-2020, 12 NEGATIVE randomized controlled trials on masking, conducted among ~18K persons, worldwide, have ESTABLISHED that masking does NOT reduce community respiratory virus transmission </li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>COVID-1984 Shutdown Shockers<a href="https://twitter.com/BenMarten/status/1374559629674385408"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616585295/ExNqNGFUcAcmgxw.jpg?1616585295" style="margin: 3px; float: right;" width="400"/></a></strong> 
+<ul>
+<li><a href="https://threadreaderapp.com/thread/1374450602223177735.html">Great thread on DISASTER of lockdowns</a></li>
+<li>
+<a href="https://www.zerohedge.com/covid-19/covid-19-baby-bust-here-and-its-likely-permanent">Shutdown caused alarming BABY BUST</a><br/>
+<ul>
+<li>"<span>The Brookings Institution estimated in December that, as a result of the pandemic, 300,000 fewer babies would be born in the U.S. in 2021 compared with last year. "</span>
+</li>
+</ul>
+</li>
+<li><a href="https://www.zerohedge.com/covid-19/one-year-flatten-life-we-knew-it">One year to flatten life as we knew it</a></li>
+<li><a href="https://twitter.com/LightTruthpaper/status/1374110712373592068">PUSH BACK -- People leave plane when child told to wear mask (video)</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=4J-XJ8olWT4">GUTFELD on the shocking weight gain during lockdown (video)</a>
+<ul>
+<li>the one common risk factor grew (during shutdown); notes we can't talk about obesity</li>
+</ul>
+</li>
+<li>
+<a href="https://www.zerohedge.com/markets/great-coronavirus-migration-31-all-young-adults-relocated-during-pandemic">Great shutdown migration</a><br/>
+<ul>
+<li>31% of Gen Z moved; most moves from urban to less urban</li>
+</ul>
+</li>
+<li>MASKerade
+<ul>
+<li><a href="https://twitter.com/BenMarten/status/1374559629674385408">IN makes it 21 states free from mask mandates!</a></li>
+<li><a href="https://www.breitbart.com/health/2021/03/23/charles-hurt-fauci-politicians-undermine-vaccine-miracle-with-masks/">Charles Hurt: Maskerade damages vaccine miracle</a></li>
+<li><a href="https://twitter.com/SKMorefield/status/1374490347200339986">Rand Paul -- govt. has burden of proof (video)</a></li>
+<li><a href="https://rationalground.com/the-cdc-jumps-the-shark/">When and how CDC jumped shark on masks</a></li>
+</ul>
+</li>
+<li>The Jab...
+<ul>
+<li><a href="https://twitter.com/TaylorRMarshall/status/1374431594933493760">Three irrelevent ex Prezes push the jab (video)</a></li>
+<li><a href="https://www.zerohedge.com/markets/taking-vitamin-pill-worlds-first-oral-covid-vaccine-nears-human-trials">Vaccine pill coming</a></li>
+</ul>
+</li>
+<li>Shutdown FOREVER!
+<ul>
+<li><a href="https://www.zerohedge.com/covid-19/covid-restrictions-remain-place-years-says-uks-public-health-official">UK official: shutdown "for years"</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Misc Don't Miss</strong>
+<ul>
+<li><a href="https://twitter.com/wonderofscience/status/1374673451139489794">AMAZING -- fly WITH a golden eagle (Video)</a></li>
+<li>
+<a href="https://www.wsj.com/articles/incredible-shrinking-income-inequality-11616517284?st=8izu5jldw6ba751&amp;reflink=desktopwebshare_permalink">WSJ: how transfer payments are leveling income</a><br/>
+<ul>
+<li>"<span>As government transfer payments to low-income households exploded, their labor-force participation collapsed and the percentage of income in the bottom quintile coming from government payments rose above 90%."</span>
+</li>
+<li><span>"In 2017, federal, state and local governments redistributed $2.8 trillion, or 22% of the nation’s earned household income."</span></li>
+<li><span>"Americans pay $4.4 trillion a year in federal, state and local taxes. Households in the top two earned-income quintiles pay 82% of the tax bill"</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong>Good sources</strong>
+<ul>
+<li><a href="https://pandemic.warroom.org/">Bannon's Warroom Pandemic</a></li>
+<li><a href="https://www.thegatewaypundit.com/">Gateway Pundit</a></li>
+<li><a href="https://www.revolver.news/">Revolver.news</a></li>
+<li><a href="https://www.citizenfreepress.com/">Citizen Free Press</a></li>
+<li>Great browser: <a href="brave.com">Brave</a><br/><br/>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span style="color: #b40000;">March 23 Feed:<strong><a href="https://youtu.be/Lbosv_EFo7k"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616499864/trumpnewsm.jpg?1616499864" style="margin: 3px; float: right;" width="400"/></a></strong></span></h2>
+<ul>
+<li>
+<strong>Top Feeds</strong>
+<ul>
+<li>Trump unloads in two new interviews (<a href="https://youtu.be/Lbosv_EFo7k">video</a>);</li>
+<li>Best read: <a href="https://www.christianitytoday.com/edstetzer/2021/march/equality-act-people-of-faith-and-religious-freedom.html">Equality Act doesn't support equality</a>
+</li>
+<li>And the rest of today's top LibertyNews feeds...</li>
+</ul>
+</li>
+<li>
+<strong>Trump Interviews</strong>
+<ul>
+<li>Trump interview on NewsMAX
+<ul>
+<li><a href="https://youtu.be/Lbosv_EFo7k">Part One</a></li>
+<li><a href="https://youtu.be/bQIUpdJcIQI">Part Two</a></li>
+</ul>
+</li>
+<li>
+<a href="https://youtu.be/_e7iW0Til8s">Trump phone-in interview of FoxNEWS (video)</a>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374029786171969536">Trump blasts cancel culture (video)</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1374023580682444803">Calls Biden "Bernie on steroids" (video)</a><strong></strong>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://www.zerohedge.com/political/6-killed-including-1-cop-boulder-grocery-store-shooting-suspect-custody"><strong>Colorado shooting</strong></a></li>
+<li>
+<strong>Team Biden Chronicles<em><a href="https://www.libertynews.com/get_fed"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/attachments/original/1614721403/ln_signupvertical.jpg?1614721403" style="float: right;" width="200"/></a></em></strong>
+<ul>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's border crisis</strong></span>
+<ul>
+<li>
+<a href="https://youtu.be/4gdq3GXG0VE">Tucker: Biden has "lost control" of border (Video)</a>
+<ul>
+<li><em>"A new city of Chicago every year"</em></li>
+</ul>
+</li>
+<li><a href="https://www.grassfire.com/trump_blasts_biden_as_border_crisis_explodes">(Grassfire) Trump blasts Biden as border crisis explodes</a></li>
+<li><a href="https://www.zerohedge.com/political/human-traffickers-made-14-million-day-february-border-rush-report">Traffickers making $14m per day</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/22/photos-migrants-fly-biden-president-2020-flag-mexico-awaiting-u-s-entry/">Illegals fly "Biden" flat; no social distancing in sight!</a></li>
+<li><a href="https://www.americanthinker.com/blog/2021/03/biden_tells_reporters_he_will_reestablish_what_existed_before_and_tell_refugees_to_apply_for_asylum_from_their_home_countries.html">Biden says he will "reestablish what existed before"; Trump's policies?</a></li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374066646638342144">Question: why Ntl Guard in garages while illegals get hotels? (video)</a></li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374274026818957314">Kayleigh: press must ask hard questions (video)</a></li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374177648797175810">Candace: "this is a border plan" (video)</a></li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1374102898523705344">Kamala visit border? "Not today" (video)</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's "Biden Hiden" crisis</strong></span>
+<ul>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1374160654555316224">"lid" called in 1pm hour. no public events</a><br/>
+<ul>
+<li><em>lids "happen a fair amount"</em></li>
+</ul>
+</li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/leaked-email-biden-white-house-biden-harris-white-house/">Biden Admin now officially "Biden-Harris Administration"</a></li>
+</ul>
+</li>
+<li><span style="text-decoration: underline;"><strong>Joe's Capitol Fence crisis</strong></span></li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe' Anti-Equality Act</strong></span>
+<ul>
+<li><a href="https://news.yahoo.com/lgbtq-advocates-plan-4-million-103051015.html">LGBTQ groups planning $4 MILLION blitz on Equality Act</a></li>
+<li>
+<a href="https://www.christianitytoday.com/edstetzer/2021/march/equality-act-people-of-faith-and-religious-freedom.html">Act does not support equality</a>
+<ul>
+<li>"<span>The Equality Act would become the first major piece of legislation in the history of the United States to exclude protections for religious freedom. The bill does not even recognize the sacred rights of religious congregations, communities, or denominations. In fact, it would discriminate against people of faith by adversely affecting religious schools, benevolence organizations, women’s sports, sex specific facilities, and conscience rights.</span>
+</li>
+</ul>
+</li>
+<li><a href="https://www.nationalreview.com/2021/03/the-equality-act-is-a-push-for-ideological-submission-not-civil-rights/">A push for "ideological submission"</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Never-Ending Spending</strong></span>
+<ul>
+<li>
+<a href="https://breaking911.com/breaking-biden-team-prepping-massive-new-spending-proposal-to-pay-for-universal-pre-k-free-community-college-climate-equality-measures/"></a><a href="https://www.zerohedge.com/political/first-details-bidens-3-trillion-build-back-better-infrastructure-plan-have-just-leaked">Prepping massive $3 TRILLION spending package</a>
+<ul>
+<li>"<span>Per the NYT, Biden's economic advisers are preparing to recommend spending as much as $3 trillion on an "infrastructure" package that also features some facets of the Green New Deal, and other progressive measures to help "narrow economic inequality." </span>
+</li>
+</ul>
+</li>
+<li><a href="https://www.foxbusiness.com/politics/republicans-tax-hikes-bidens-infrastructure-plan-mcconnell"><span>McConnell says GOP won't support tax hikes</span></a></li>
+<li><a href="https://thehill.com/homenews/house/544428-senate-republicans-torn-over-return-of-earmarks"><span>McConnell says not much GOP support for earmarks</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>The Purge<a href="https://www.washingtonexaminer.com/news/cigna-critical-race-theory-training-dont-say-brown-bag-lunch-mindful-religious-privilege"><img alt="Cigna Christian Privilege " src="https://mediadc.brightspotcdn.com/dims4/default/3814fa3/2147483647/strip/true/crop/4640x2610+0+0/resize/4640x2610!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F26%2F39%2Fc203c078413b87439cbe66308baf%2Fchristian-privilege.jpg" style="margin: 3px; float: right;" width="400"/></a></strong>
+<ul>
+<li>
+<a href="https://www.washingtonexaminer.com/news/cigna-critical-race-theory-training-dont-say-brown-bag-lunch-mindful-religious-privilege">CIGNA purges "white"; pushes critical race theory</a><br/>
+<ul>
+<li>
+<span> Lessons include reviews of concepts such as " </span><a href="https://www.washingtonexaminer.com/news/san-diego-teachers-required-to-attend-white-privilege-training-where-they-are-told-you-are-racist-report" rel="noopener" target="_blank">white privilege</a><span>," "gender privilege," and something called "religious privilege," </span>
+</li>
+</ul>
+</li>
+<li><a href="https://www.zerohedge.com/political/physics-professor-calls-abandonment-quantum-supremacy-anti-racism-measure">Even Physics is "woke"; "Quantum Supremacy" now "Quantum Primacy"</a></li>
+</ul>
+</li>
+<li>
+<strong>Trump and People push back</strong>
+<ul>
+<li>
+<a href="https://www.breitbart.com/politics/2021/03/22/donald-trump-names-ron-desantis-josh-hawley-ted-cruz-rand-paul-sarah-sanders-kristi-noem-future-of-republican-party/">Trump names "future" of GOP</a><br/>
+<ul>
+<li>Ron, Josh, Ted, Rand, Sarah, Kristi</li>
+</ul>
+</li>
+<li><a href="https://thehill.com/homenews/media/544310-heritage-foundation-president-resigns">Will Heritage come home? Kay Cole James resigns</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=WpCvuJOru6A">Mo Brooks running for AL Senate (Video)</a>
+<ul>
+<li>"shoulder to shoulder with President Trump"</li>
+</ul>
+</li>
+<li><a href="https://www.wsj.com/articles/the-christian-baker-who-said-no-11616452331?st=5h7tsgx5ustbn9i&amp;reflink=desktopwebshare_permalink">The Christian baker who said NO</a></li>
+<li><a href="https://twitter.com/DesertMonkey4/status/1374176813430173696">Tucker confronts Noem on gender and women's sports (video)</a></li>
+</ul>
+</li>
+<li>
+<strong>Election Watch</strong>
+<ul>
+<li>
+<a href="https://www.regent.edu/misc/analyzing-american-election-integrity/registration/">Election Integrity Conference TODAY (free registration) </a>
+<ul>
+<li>details <a href="https://www.thegatewaypundit.com/2021/03/former-rep-michele-bachmann-joins-steve-bannon-promote-election-integrity-conference-tuesday-ben-carson-mark-steyn-eric-metaxas-jim-joe-hoft-etc-video/">here</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://thenationalpulse.com/analysis/the-q-lie-the-power-grab-response-after-january-6th-was-the-real-insurrection/">Real insurrection took place AFTER JANUARY 6</a>
+<ul>
+<li>"I<span>t is now obvious that the continued military occupation of Washington D.C. under a phony, Q-pretext is a purposeful overreaction to silence objections over the use of mass mail-in ballots to swing the 2020 election.</span>
+</li>
+</ul>
+</li>
+<li><a href="https://www.washingtonexaminer.com/news/gop-mounts-defense-against-dc-statehood-as-bill-gets-house-hearing"><span>Push for DC statehood coming to tilt elections further</span></a></li>
+</ul>
+</li>
+<li>
+<strong>Great Reset</strong>
+<ul>
+<li><a href="https://rumble.com/vc8nil-cardinal-burke-forces-of-the-great-reset-have-used-covid-to-advance-evil-ag.html"> Cardinal: Great Reset advances "evil agenda" (video)</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/22/evanston-illinois-approves-nations-first-reparations-for-black-residents/">IL city approves first reparations</a></li>
+</ul>
+</li>
+<li>
+<strong>Media/Tech bias</strong>
+<ul>
+<li><a href="https://newsbusters.org/blogs/nb/mark-finkelstein/2021/03/22/joe-scarborough-bizarre-think-putin-would-beat-biden-debate">Joe Scar -- Biden beats Putin in debate!</a></li>
+</ul>
+</li>
+<li>
+<strong>COVID Facts</strong>
+<ul>
+<li><a href="https://twitter.com/ianmSC/status/1374048769721782282"> US deaths dropping despite CDC prediction</a></li>
+<li><a href="https://www.npr.org/sections/health-shots/2021/03/11/975486163/high-obesity-rates-in-southern-states-magnify-covid-19-s-threat">Obesity is the KEY RISK FACTOR (that nobody talks about)</a></li>
+<li>Regeneron works</li>
+<li>
+<a href="https://www.wsj.com/articles/the-dubious-origins-of-long-covid-11616452583?st=jv2xonpsc0jqzhz&amp;reflink=desktopwebshare_permalink">Dubious Origins of Long Covid</a><br/>
+<ul>
+<li>"<span> Long Covid is largely an invention of vocal patient activist groups. Legitimizing it with generous funding risks worsening the symptoms the NIH is hoping to treat.</span>
+</li>
+<li>"<span>many of the survey respondents who attributed their symptoms to the aftermath of a Covid-19 infection likely never had the virus in the first place.</span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>COVID-1984 Shutdown Shockers</strong> 
+<ul>
+<li><a href="https://www.theblaze.com/news/virginia-restaurant-owner-defies-governor">VA restaurant owner resists GOV edict</a></li>
+<li>
+<a href="https://www.apa.org/news/press/releases/stress/2021/one-year-pandemic-stress">Survey: shutdown PLAYED HAVOC with health</a><br/>
+<ul>
+<li>42% gained an average of 29 pounds in past year!</li>
+<li>Nearly half of Americans (47%) said they delayed or canceled health care services since the pandemic started.</li>
+<li>Gen Z adults (46%) were the most likely generation to say that their mental health has worsened</li>
+</ul>
+</li>
+<li>The Jab...
+<ul>
+<li><a href="https://www.zerohedge.com/political/new-normal-reality-police">Question the jab? You'll get censored and banned</a></li>
+<li><a href="https://www.zerohedge.com/political/want-job-get-shot">Ron Paul on jab mandates</a></li>
+<li><a href="https://t.co/niHmPuffXi?amp=1">DeSantis reject Jab mandate</a></li>
+<li><a href="https://www.wsj.com/articles/u-s-health-officials-raise-concerns-over-astrazeneca-vaccine-data-11616485793?st=eh81jparlwat8zz&amp;reflink=desktopwebshare_permalink">More AstraZ concerns</a></li>
+</ul>
+</li>
+<li>Shutdown FOREVER!
+<ul>
+<li><a href="https://www.zerohedge.com/covid-19/germany-moves-extend-covid-lockdown-uk-scientist-warns-summer-travel-unlikely-3rd-wave">Europe observer: "summer travel unlikely"</a></li>
+</ul>
+</li>
+<li>Fauxi
+<ul>
+<li>
+<a href="https://www.zerohedge.com/political/propaganda-watch-dr-fauci-childrens-book-way"><strong><img alt="" class="image" src="https://www.revolver.news/wp-content/uploads/2021/03/2021.03.22-12.26-revolvernews-60588d0cd3008.png" style="float: right;" width="175"/></strong></a><a href="https://www.breitbart.com/clips/2021/03/22/fauci-i-dont-think-u-s-made-mistakes-with-lockdowns/">Fauci says lockdowns were good (video)</a>
+</li>
+<li><a href="https://www.zerohedge.com/political/propaganda-watch-dr-fauci-childrens-book-way">Dr. Fauci children's book?</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Misc Don't Miss</strong>
+<ul>
+<li><a href="https://youtu.be/wQOblgAvrHw">Amazing drone footage of volcano (video)</a></li>
+<li><a href="https://twitter.com/wonderofscience/status/1352778097339207680">Earth as seen from Mars (puts us in perspective)</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong>Good sources</strong>
+<ul>
+<li><a href="https://pandemic.warroom.org/">Bannon's Warroom Pandemic</a></li>
+<li><a href="https://www.thegatewaypundit.com/">Gateway Pundit</a></li>
+<li><a href="https://www.revolver.news/">Revolver.news</a></li>
+<li><a href="https://www.citizenfreepress.com/">Citizen Free Press</a></li>
+<li>Great browser: <a href="brave.com">Brave</a><br/><br/>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span style="color: #b40000;">March 22 Feed:<strong><a href="https://youtu.be/sZICJH1_HwM"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616414457/wattersborder.jpg?1616414457" style="margin: 3px; float: right;" width="400"/></a></strong></span></h2>
+<ul>
+<li>
+<strong>Top Feeds</strong>
+<ul>
+<li>Joe's border crisis <a href="https://youtu.be/sZICJH1_HwM">EXPLODES</a>;</li>
+<li>Best read: <a href="https://www.wsj.com/articles/wheres-the-science-behind-cdcs-6-foot-social-distance-decree-11616358952?mod=opinion_lead_pos7">non-science of six feet distancing</a>
+</li>
+<li>And the rest of today's top LibertyNews feeds...</li>
+</ul>
+</li>
+<li>
+<strong>Team Biden Chronicles</strong>
+<ul>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's border crisis</strong></span>
+<ul>
+<li><a href="https://www.grassfire.com/poll_should_biden_dems_blame_trump_for_border_crisis">(Grassfire) Poll: Should Biden blame Trump for border crisis?</a></li>
+<li>
+<a href="https://youtu.be/sZICJH1_HwM">Jesse Watters -- this isn't a GOPtalking point (video)</a><br/>
+<ul>
+<li><em>6,000 illegals a day; Biden will let 90% remain!</em></li>
+</ul>
+</li>
+<li><a href="https://www.foxnews.com/politics/border-crisis-823-unaccompanied-migrant-children-held-in-boder-patrol-custody-for-over-10-days-report">Children being held too long</a></li>
+<li><a href="https://www.breitbart.com/border/2021/03/21/exclusive-biden-spending-millions-per-day-to-halt-border-wall-construction/">Joe spending $6m PER DAY to stop wall construction</a></li>
+<li><a href="https://www.breitbart.com/border/2021/03/21/exclusive-biden-begins-immediate-catch-and-release-of-migrant-families-without-court-dates/">Joe launches catch and release</a></li>
+<li>
+<a href="https://breaking911.com/breaking-fmr-president-trump-calls-for-investigation-into-dhs-chiefs-gag-order-on-border-agents-calls-it-huge-cover-up/">TRUMP calls for investigation into Joe's border crisis</a><br/>
+<ul>
+<li>"<em>The only way to end the Biden Border Crisis is for them to admit their total failure and adopt the profoundly effective, proven Trump policies. </em><em>They must immediately complete the wall, which can be done in a matter of weeks—they should never have stopped it.<a href="https://www.libertynews.com/get_fed"><strong><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/attachments/original/1614721403/ln_signupvertical.jpg?1614721403" style="float: right;" width="200"/></strong></a></em>
+</li>
+</ul>
+</li>
+<li><a href="https://youtu.be/qxURBZN-Mpw?t=38">Kayliegh: this is Joe's crisis(video)</a></li>
+<li><a href="https://twitter.com/JuliaFriedland/status/1373651079032930306?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1373651079032930306%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.zerohedge.com%2Fpolitical%2Fracist-biden-admin-says-its-simple-border-closed-still-zero-access-journalists">ABC to illegal: why come? Illegal: Because of Joe (video)</a></li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1373788265225011202">Joe will visit border "at some point" (video)</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1373646020706512898">Even Chris Wallace objects to media blackout (video)</a>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1373636484218155009">Even Chuck Todd... "a crisis" (video)</a></li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1373626762597429252">Even CNN... (video)</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1373436867329294336">Newt Gingrich: entire Left "fantasy world" (video)</a></li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/biden-administration-national-media-ignore-migrant-children-drowning-crossing-rio-grande/">Illegals DROWNING at border</a></li>
+<li>
+<a href="https://www.breitbart.com/immigration/2021/03/21/corporate-donors-dominate-push-give-amnesty-4-4m-illegal-aliens/">BIG BIZ pushing amnesty</a>
+<ul>
+<li><em>Amazon, facebook, apple, ibm, target.. everybody</em></li>
+</ul>
+</li>
+<li><a href="https://www.breitbart.com/immigration/2021/03/21/rick-scott-amnesty/">BETRAYAL: Some in GOP pushing amnesty</a></li>
+<li><a href="https://www.zerohedge.com/geopolitical/brandon-smith-illegal-immigration-crisis-all-about-new-covid-lockdowns">Analysis: is this all a misdirect to keep us shut down?</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's "Biden Hiden" crisis</strong></span>
+<ul>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1373201624550756356"></a><a href="https://twitter.com/TVNewsHQ/status/1373201624550756356">Hannity -- Can't ignore Joe's (literal) stumbles (video)</a>
+<ul>
+<li>Failling video <a href="https://twitter.com/Breaking911/status/1372946685328957442">here</a>; </li>
+<li><a href="https://www.youtube.com/watch?v=CVisjousxYU">Tucker responds (video)</a></li>
+<li><a href="https://t.co/KQmCAqgrmd?amp=1">Media ignores</a></li>
+<li><a href="https://twitter.com/gril887/status/1372979205026242566">Best Joe Falling Meme #1</a></li>
+<li><a href="https://twitter.com/gril887/status/1373063651909906442">Best Joe Falling Meme #2</a></li>
+<li>More memes <a href="https://citizenfreepress.com/breaking/the-biden-memes-wont-stop/">here</a>
+</li>
+</ul>
+</li>
+<li><a href="https://redstate.com/andrewmalcolm/2021/03/22/a-detailed-and-disturbing-overview-joe-biden-looks-seriously-unwell-n347977">Joe looks unwell</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Never-Ending Spending</strong></span>
+<ul>
+<li>
+<a href="https://www.zerohedge.com/markets/house-democrats-propose-4350-earmarks-year-costing-13-billion"></a><a href="https://www.zerohedge.com/markets/house-democrats-propose-4350-earmarks-year-costing-13-billion">$13b in EARMARKS coming</a>
+</li>
+<li><a href="https://www.wsj.com/articles/down-the-biden-tax-threshold-11616360766?st=qkxo6l2zym7aq94&amp;reflink=desktopwebshare_permalink">Bait and switch on tax increases (WSJ)</a></li>
+<li><a href="https://www.cnn.com/2021/03/20/politics/what-is-a-filibuster/index.html?utm_term=image&amp;utm_source=twCNNp&amp;utm_medium=social&amp;utm_content=2021-03-21T04%3A40%3A00">Filibuster now "racist"?</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Trump and People push back</strong>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1373857372918181888">Trump on FoxTV 11am ET</a></li>
+<li><a href="https://www.zerohedge.com/markets/trump-returning-social-media-his-own-platform-several-months-adviser">REPORT -- Trump returning to social media on TRUMP PLATFORM</a></li>
+<li><a href="https://www.zerohedge.com/covid-19/miami-beach-declares-state-emergency-due-overwhelming-spring-break-crowds">People FLOCK to FL for FREEDOM!</a></li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/catholic-priest-goes-off-joe-biden-viral-rant-video/">Catholic priest REBUKES Biden (video)</a></li>
+<li><a href="https://www.gingrich360.com/productions/the-truth-with-lisa-boothe-podcast/">Trump radio interview</a></li>
+</ul>
+</li>
+<li>
+<strong>Election Watch</strong>
+<ul>
+<li><a href="https://nationalfile.com/breaking-trump-doubles-down-says-election-was-rigged-supreme-court-was-gutless/">Trump DOUBLES DOWN in '20 election</a></li>
+<li>
+<a href="https://www1.cbn.com/cbnnews/israel/2021/march/commentary-heres-what-you-need-to-know-about-israels-fourth-election-in-two-years"> Israel: no absentee or early voting</a><br/>
+<ul>
+<li>"<span>Israel has no early voting or absentee ballots. As most Israeli adults have been vaccinated, on election day, Israelis will line up to vote in person, in a socially distanced way, and place a paper ballot inside an envelope, and place that envelope inside a second."</span>
+</li>
+</ul>
+</li>
+<li><a href="https://justthenews.com/politics-policy/elections/county-emails-georgia-fulton-state-farm%2C"><span>Emails reveal more questions about GA vote count</span></a></li>
+</ul>
+</li>
+<li>
+<strong>Great Reset</strong>
+<ul>
+<li><a href="https://www.zerohedge.com/political/father-arrested-after-continuing-call-his-child-she-after-court-ordered-gender-transition">Father arrested for calling daughter "she"</a></li>
+</ul>
+</li>
+<li>
+<strong>Media/Tech bias</strong>
+<ul>
+<li>
+<a href="https://www.breitbart.com/the-media/2021/03/20/federal-judge-accuses-new-york-times-washington-post-of-shocking-bias-against-republicans/">Judge BLASTS NYT, Left media bias</a><br/>
+<ul>
+<li>“The orientation of these three papers is followed by <em>The Associated Press</em> and most large papers across the country (such as the <em>Los Angeles Times</em>, <em>Miami Herald</em>, and <em>Boston Globe</em>),” he said in the opinion. “Nearly all television—network and cable—is a Democratic Party trumpet. Even the government-supported <em>National Public Radio</em> follows along.”</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>COVID Facts</strong>
+<ul>
+<li><a href="https://www.wsj.com/articles/wheres-the-science-behind-cdcs-6-foot-social-distance-decree-11616358952?mod=opinion_lead_pos7"><strong> </strong>Where's the science on six feet (Scott Gottlieb)</a></li>
+</ul>
+</li>
+<li>
+<strong>COVID-1984 Shutdown Shockers</strong> 
+<ul>
+<li>
+<a href="https://www.washingtonexaminer.com/news/americans-overestimate-hospitalization-covid-study">Poll shows FEAR causes covid risk to be greatly exaggerated</a><br/>
+<ul>
+<li>Majority Americans think MOST deaths UNDER 65; realty? 81% OVER 65</li>
+<li>Nearly 70% of DEMs think &gt;20% hospitalized; reality? 1-5%<a href="https://twitter.com/TheEliKlein/status/1373408037692710914"><span><img alt="Image" class="css-9pa8cd" src="https://pbs.twimg.com/media/Ew9TVNFWYAQByO3?format=jpg&amp;name=small" style="margin: 3px; float: right;" width="400"/></span></a>
+</li>
+<li>"<span>The fact that COVID-19 poses a much higher mortality risk to the old than the young was the most clear feature of the virus from very early on; it is remarkable that many Americans remain misinformed about this basic factor"</span>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://www.zerohedge.com/markets/two-thirds-manhattan-white-collar-workers-will-not-return-full-time-survey-says">Shutdown RUINED commercial real estate</a><br/>
+<ul>
+<li>2/3 of NYC white collar workers not returning to office</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/kerpen/status/1373639007658250240">Blue states are in virtual schools</a></li>
+<li>
+<a href="https://twitter.com/CNBCClosingBell/status/1373017828866068498">Former CdC director: social distancing "single costliest mitigation tactic we've ever employed" (video)</a>
+<ul>
+<li>More <a href="https://www.zerohedge.com/covid-19/one-year-ago-gather-crowds-masks-are-useless-only-few-percent-are-vulnerable">here</a>
+</li>
+</ul>
+</li>
+<li>MASKerade
+<ul>
+<li>
+<a href="https://www.zerohedge.com/geopolitical/burn-your-masks-massive-anti-lockdown-protests-rage-worldwide">Europe protests: BURN YOUR MASKS!</a>
+<ul>
+<li><a href="https://twitter.com/BreesAnna/status/1373283996176617476">VIDEO</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>The Jab...
+<ul>
+<li><a href="https://www.zerohedge.com/covid-19/german-researchers-link-astrazeneca-jab-rare-blood-clots">AstraJab linked to blood clots</a></li>
+<li><a href="https://www.zerohedge.com/covid-19/royal-caribbean-only-accepts-vaccinated-passengers-next-caribbean-cruise">Royal Caribbean requires vaccine!</a></li>
+<li><a href="https://www.zerohedge.com/political/watch-uk-announces-vaccine-certificates-says-they-are-not-vaccine-passports">UK IMPLEMENTS vaccine passport!</a></li>
+<li><a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations">US -- 44m fully vaccinated; another 40m one dose</a></li>
+</ul>
+</li>
+<li>Shutdown FOREVER!
+<ul>
+<li><a href="https://twitter.com/Breaking911/status/1373007951787659268">Biden: it's going to "come again and again and again and again" (video)</a></li>
+<li>
+<a href="https://www.zerohedge.com/covid-19/olympic-committee-makes-it-official-all-foreign-travelers-barred-tokyo-games">No foreign visitors to Japan olympics </a><br/>
+<ul>
+<li><em>Let's just cancel them.... who cares?</em></li>
+</ul>
+</li>
+<li><a href="https://thefederalist.com/2021/03/18/oregon-health-officials-propose-making-mask-mandates-permanent/">Oregon: make masks permanent!</a></li>
+<li><a href="https://t.co/O5KzqMquQa?amp=1">UK: Mask up for "several years"</a></li>
+</ul>
+</li>
+<li>Fauxi
+<ul>
+<li>
+<a href="https://twitter.com/andrewbostom/status/1373791767737303041">Former Fauci -- infection gives you immunity</a><img alt="Infographic: Who's Getting The Most Sleep? | Statista" src="https://cdn.statcdn.com/Infographic/images/normal/4845.jpeg" style="margin: 3px; float: right;" width="350"/>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Misc Don't Miss</strong>
+<ul>
+<li>
+<a href="https://www.youtube.com/watch?v=antLneVlxcs">Watch Tesla's latest auto-drive FAIL (video)</a>
+<ul>
+<li>More <a href="https://www.zerohedge.com/markets/tesla-yanks-laughably-bad-full-self-driving-beta-arks-wood-sets-3000-price-target">here</a>
+</li>
+</ul>
+</li>
+<li><a href="https://www.zerohedge.com/medical/if-you-sleep-move-holland">Dutch sleep most; Americans get up first</a></li>
+<li>
+<a href="https://www.zerohedge.com/technology/warp-speed-may-be-possible-tremendous-amount-energy">Warp Drive Possible!</a><br/>
+<ul>
+<li><em>Well, sort of, just would take more power than 100x the mass of Jupiter!</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong>Good sources</strong>
+<ul>
+<li><a href="https://pandemic.warroom.org/">Bannon's Warroom Pandemic</a></li>
+<li><a href="https://www.thegatewaypundit.com/">Gateway Pundit</a></li>
+<li><a href="https://www.revolver.news/">Revolver.news</a></li>
+<li><a href="https://www.citizenfreepress.com/">Citizen Free Press</a></li>
+<li>Great browser: <a href="brave.com">Brave</a><br/><br/>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span style="color: #b40000;">March 19 Feed:<strong><a href="https://twitter.com/dcexaminer/status/1372589804240596992"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616155980/rand2.jpg?1616155980" style="margin: 3px; float: right;" width="400"/></a></strong></span></h2>
+<ul>
+<li>
+<strong>Top Feeds</strong>
+<ul>
+<li> Rand Paul exposes Fauci "mask parade" (<a href="https://twitter.com/dcexaminer/status/1372589804240596992">video</a>)</li>
+<li>Best read: DeSantis <a href="https://www.wsj.com/articles/ron-desantis-on-the-pandemic-year-dont-trust-the-elites-11616093752?st=30teonulsabb88i&amp;reflink=desktopwebshare_permalink">BLITZES</a> elites for COVID shutdown</li>
+<li>And the rest of today's top LibertyNews feeds...</li>
+</ul>
+</li>
+<li>
+<strong>Team Biden Chronicles</strong>
+<ul>
+<li>
+<span style="text-decoration: underline;"><strong>Joe' Anti-Equality Act</strong></span>
+<ul>
+<li><a href="https://www.grassfire.com/priest_equality_act_is_an_instrument_of_the_devil">(Grassfire) Priest: Equality Act "instrument of devil"</a></li>
+<li><a href="https://www.grassfire.com/gop_senators_blast_equality_act_as_harmful_and_dangerous">(Grassfire) GOP Senators: Equlity Act "dangerous'</a></li>
+<li><a href="https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-equality-act-filibuster-biden-b1819326.html">Graham threatens to block</a></li>
+<li><a href="https://www.christianitytoday.com/ct/podcasts/quick-to-listen/equality-act-lgbtq-religious-liberty-houghton-podcast.html">Christian college president: it "removes traditional religious freedom protection"</a></li>
+<li>
+<a href="https://www.heritage.org/education/commentary/how-equality-act-could-become-classroom-bully-biased-unscientific-curriculum">Heritage: would create "classroom bully</a><br/>
+<ul>
+<li>"<span>Could it compel teachers to peddle unscientific notions that gender is “fluid,” or that a student’s subjective self-identity is superior to the biological reality of his or her chromosomal makeup?...Yes."</span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's border crisis</strong></span>
+<ul>
+<li>
+<a href="https://www.washingtonexaminer.com/news/house-approves-bills-3-million-dreamers-farmworkers-pathway-citizenship">House passes DACA AMNESTY</a><br/>
+<ul>
+<li><a href="https://www.breitbart.com/politics/2021/03/18/pelosi-daca-illegals-are-true-and-legitimate-heirs-of-the-founding-fathers/">Pelosi: illegals "heirs of founders"</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/18/nine-gop-members-vote-for-democrats-daca-amnesty/">9 GOP vote for amnesty</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/18/analysis-4-4m-illegal-aliens-could-get-amnesty-under-house-democrat-plan/">4.4m will get amnesty</a></li>
+</ul>
+</li>
+<li><a href="https://www.washingtonexaminer.com/news/biden-administration-has-14-000-migrant-children-without-parents-custody">14k children in custody</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's "Biden Hiden" crisis</strong></span>
+<ul>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1372718482073214977"></a><a href="https://twitter.com/TVNewsHQ/status/1372718482073214977">Joe calls Kamala "President" (Hannity video)</a>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1372644576633184263">clip</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1372713695118245889">Psaki: "Crisis... no... Challenge on the Border" (video)</a></li>
+<li><a href="https://t.co/bjSBu2dcDU?amp=1">NBC admits Biden WH using Covid to limit press access</a></li>
+</ul>
+</li>
+<li><span style="text-decoration: underline;"><strong>Joe's Capitol Fence crisis</strong></span></li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Never-Ending Spending</strong></span>
+<ul>
+<li>
+<a href="https://www.wsj.com/articles/earmarks-are-the-gops-bridge-to-nowhere-11616107234?st=fivvbk21cxbigyw&amp;reflink=desktopwebshare_permalink"></a><a href="https://www.wsj.com/articles/earmarks-are-the-gops-bridge-to-nowhere-11616107234?st=fivvbk21cxbigyw&amp;reflink=desktopwebshare_permalink">BETRAYAL: GOP HOUSE votes YES ON EARMARKS!</a>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Blundering Foreign Policy</strong></span>
+<ul>
+<li><a href="https://twitter.com/Breaking911/status/1372775860986552323">China leader mocks US Secretary of State (video)</a></li>
+<li><a href="https://twitter.com/Breaking911/status/1372629673037946882">Joe: Putin a killer; Putin: takes one to know one</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1372706592039317505">Putin challenges sleepy Joe to live debate</a>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1372664242453811208">Joe won't address that... </a></li>
+<li><em>didn't do that with Trump!</em></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://www.breitbart.com/politics/2021/03/18/reaction-to-xavier-becerra-confirmation-americans-must-be-prepared-for-what-is-coming/">Becerra confirmed. Sad day for people of faith, unborn.</a></li>
+<li><a href="https://t.co/F3wDzfUBv2?amp=1">Joe cancels O&amp;G lease; gas prices will go up!</a></li>
+</ul>
+</li>
+<li>
+<strong>The Purge</strong>
+<ul>
+<li>
+<span><span style="text-decoration: underline;"><strong><a href="get_fed"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/attachments/original/1614721403/ln_signupvertical.jpg?1614721403" style="float: right; margin: 3px;" width="200"/></a></strong></span></span><a href="https://www.thegatewaypundit.com/2021/03/george-w-bush-sick-stomach-seeing-capitol-stormed-hostile-forces-populist-movements-begin-fritter-time/">W joins the PURGE</a>: "sick to my stomach"
+<ul>
+<li><em>Could the former Prez be any more irrelevant?</em></li>
+</ul>
+</li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/north-carolina-school-district-launches-campaign-disrupt-white-culture-urges-teachers-subvert-white-parents-families/">NC school district: "disrupt white culture"</a></li>
+<li><a href="https://www.dailymail.co.uk/news/article-9377635/Teen-Vogue-editor-27-resigns-racist-tweets-wrote-teenager.html">Teen Vogue editor CANCELLED for teenage tweets</a></li>
+<li><a href="https://www.washingtonexaminer.com/news/marjorie-taylor-greene-resolution-democrats-expel-congress">Dems trying to PURGE Taylor Greene from House</a></li>
+<li><a href="https://www.youtube.com/watch?v=0k-G8UhHuNo">Court: HS coach CANNOT kneel after game (video)</a></li>
+</ul>
+</li>
+<li>
+<strong>Trump and People push back</strong>
+<ul>
+<li><a href="https://www.libertynews.com/earth_proves_of_course_more_regulation_means_less_private_investment">(Exclusive) More Regulation ALWAYS EQUALS less private investment</a></li>
+<li><a href="https://t.co/hZFanQ8Mes?amp=1">CNN ratings PLUNGE 36%</a></li>
+<li><a href="https://justthenews.com/government/white-house/kellyanne-conway-reportedly-lands-multimillion-dollar-donald-trump-book">Maybe Kelleyanne should leave her teen daughter out of multi-mill book deal</a></li>
+<li><a href="https://www.wsj.com/articles/the-tax-cut-ban-and-the-constitution-11616107345?st=5vi7qeht0zpzbyi&amp;reflink=desktopwebshare_permalink">OH sues to block Joe's takeover of state tax policy</a></li>
+</ul>
+</li>
+<li>
+<strong>Election Watch</strong>
+<ul>
+<li><a href="https://www.thegatewaypundit.com/2021/03/video-ten-house-gop-never-trumpers-expected-lose-seats-impeachment-vote/"> 10 House Anti-Trumpers who face defeat in 22</a></li>
+<li><a href="https://www.washingtonexaminer.com/news/arizona-state-senate-planning-full-hand-recount">AZ GOP nears election audit</a></li>
+</ul>
+</li>
+<li>
+<strong>Media/Tech bias</strong>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ySUmB69dOeo">Tucker: Rage mob wants journalists to disappear (video)</a></li>
+</ul>
+</li>
+<li>
+<strong>COVID Facts</strong>
+<ul>
+<li>
+<a href="https://www.hartgroup.org/covid-19-evidence/">Report: Lockdowns serve no purpose</a>
+<ul>
+<li>"The data is in: lockdowns serve no useful purpose and cause catastrophic societal and economic harms. They must never be repeated in this country."</li>
+<li>A "sunk cost fallacy." </li>
+<li>Thread summary <a href="https://threadreaderapp.com/thread/1372819542989271040.html">here</a>
+</li>
+<li><a href="https://www.hartgroup.org/wp-content/uploads/2021/03/HART-REVIEW.pdf">Full 57-page report</a></li>
+</ul>
+</li>
+<li>
+<a href="https://www.wsj.com/articles/ron-desantis-on-the-pandemic-year-dont-trust-the-elites-11616093752?st=30teonulsabb88i&amp;reflink=desktopwebshare_permalink">Desantis WSJ OpEd: DON'T TRUST THE ELITES</a><br/>
+<ul>
+<li>"<span>Lockdowns proved a huge boon to America’s corporate media, which primed its captive audience with fear and partisanship. Everything the corporate press did regarding Covid coverage was inseparable from its yearslong obsession with attacking Donald Trump. Weaponizing Covid in an election year superseded any obligation to present the facts with needed context and perspective."</span>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://humanevents.com/2021/03/18/ron-desantis-versus-the-party-of-science/">Deep Analysis: DeSantis v. "Party of Science"</a>
+<ul>
+<li>Throughout the pandemic, progressives have embraced public health theater: Heavy-handed, highly visible, costly interventions that lack evidence of effectiveness but appease the media-fueled anxieties of their voter base. Cloth <a href="https://www.aiha.org/news/osha-publishes-faqs-about-cloth-face-coverings-in-the-workplace">face coverings</a>, <a href="https://www.forbes.com/sites/jvchamary/2020/10/23/covid19-coronavirus-aerosols/">plexiglass</a> barriers, and<a href="https://www.reuters.com/article/uk-health-coronavirus-who-idUKKBN26U1ZW"> lockdowns</a> all fall into this category. By contrast, DeSantis eschewed performative virtue-signaling in favor of evidence-based measures. While the “party of science” called him a murderer, DeSantis followed the science—and it saved lives.</li>
+</ul>
+</li>
+<li>
+<a href="https://twitter.com/dcexaminer/status/1372589804240596992">Rand Paul takes down Fauci (video)</a>
+<ul>
+<li>"You've been vaccinated and you parade around in two masks for show.... There's virtually zero percent chance you're gonna get it.... You're defying everything we know about immunity."</li>
+<li><a href="https://twitter.com/MichaelPSenger/status/1372590126384050178">6 minute video of exchange</a></li>
+</ul>
+</li>
+<li><a href="https://www.libertynews.com/trump_s_vaccines_the_world_yet_again_demands_the_evil_us_bail_them_out"><strong> </strong>(Exclusive) Trump's vaccines: World wants US to bail them out!</a></li>
+<li><a href="https://archive.fo/274Fk">Why six feet? "It was pulled out of thin air"</a></li>
+<li><a href="https://youtu.be/eZzeVLkCwHo">Dr. Bostom (Brown U epidemiologist) on mask mandate myths (video interview)</a></li>
+</ul>
+</li>
+<li>
+<strong>COVID-1984 Shutdown Shockers</strong>
+<ul>
+<li>
+<a href="https://amgreatness.com/2021/03/16/our-pandemic-response-fear-trumps-liberty/">"We have been subjects of a vast sociological experiment"</a>
+<ul>
+<li>"<span>the citizens of a country who once proudly proclaimed the motto, “don’t tread on me” have been willing to endure a great deal of treading."</span>
+</li>
+</ul>
+</li>
+<li><a href="https://youtu.be/0ywfs4rQipQ">Canadian Pastor JAILED for covid violations (Tucker video) </a></li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/california-theme-parks-tell-visitors-no-screaming-heavy-breathing-roller-coasters/">CA -- "no screaming on roller coasters".... WHAT?!</a></li>
+<li><a href="https://redstate.com/alexparker/2021/03/18/tinder-is-giving-away-pairs-of-covid-tests-to-get-people-to-go-on-actual-dates-again-n346045">Tinder: "His and Hers" covid tests in beg to encourage dating</a></li>
+<li>
+<a href="https://www.cdc.gov/mmwr/volumes/70/wr/mm7011a1.htm?s_cid=mm7011a1_w">CDC barely admits lockdowns hurt children</a><br/>
+<ul>
+<li>Conclusion is a lie. It says, "Children not receiving full-time, in-person instruction and their parents might need additional supports to mitigate pandemic impacts."
+<ul>
+<li>Should say: "Children not receiving full-time, in-person instruction and their parents might need additional supports to mitigate <span style="text-decoration: underline;">UNCONSITUTITIONAL, OPPRESSIVE SHUTDOWN'S</span> impacts.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;">MASKerade</span>
+<ul>
+<li>
+<a href="https://twitter.com/tomselliott/status/1372648677295190017">CNN expert: still wear mask after vaccine! (video)</a>
+<ul>
+<li>"still alot of virus out there...<span>"The virus learns how to, sort of, adapt and mutate now to a vaccinated person. Exposing vaccinated people to the virus, you could start to inspire more and more mutations"de</span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;">The Jab...</span>
+<ul>
+<li><a href="https://twitter.com/Breaking911/status/1372632810104762379">Biden celebrates 100 million jabs</a></li>
+<li><a href="https://news.yahoo.com/chile-pandemic-covid-cases-rising-081328390.html">Chile -- cases rise despite jab</a></li>
+<li><a href="https://www.sciencemag.org/news/2021/03/it-s-very-special-picture-why-vaccine-safety-experts-put-brakes-astrazeneca-s-covid-19?utm_campaign=news_daily_2021-03-17&amp;et_rid=687438071&amp;et_cid=3703486">Why Europe put brakes on AztraZeneca</a></li>
+<li>
+<a href="https://threadreaderapp.com/thread/1372535243090100228.html">Israel: no better than other countries despite jab</a><br/>
+<ul>
+<li>"<span>Israel’s declines in deaths and cases since its January peak are basically indistinguishable from countries that have vaccinated far fewer people. "</span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;">Fauxi</span><br/>
+<ul>
+<li>
+<a href="https://twitter.com/JimmyAdHub/status/1372391477402165249">Fauci: Let's vaccinate 6-month-old babies (video)</a>
+<ul>
+<li>despite <a href="https://www.thegatewaypundit.com/2021/03/scary-dr-fauci-wants-start-vaccinating-little-babies-governments-coronavirus-vaccine/">almost no risk for children</a>
+</li>
+</ul>
+</li>
+<li><a href="https://www.breitbart.com/clips/2021/03/18/fauci-whitmer-a-really-good-governor-who-has-done-some-really-good-things/">Fauci: Whitmer a "good" governor</a></li>
+<li>
+<a href="https://twitter.com/TheEliKlein/status/1372588122857467908">Fauci LIES about reinfection risk (video)</a><br/>
+<ul>
+<li>Truth: "<span>Reinfections by SA variant are almost always asymptomatic or mild, bc of prior infection immunity"</span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Misc Don't Miss</strong>
+<ul>
+<li><a href="https://twitter.com/wonderofscience/status/1372526968495742983">Light Show -- Earth at NIGHT from space (Video)</a></li>
+<li><a href="https://youtu.be/cOBoDT-3oM0">SHOCKING -- Philadelphia's skid row -- apocalyptic scene (video)</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1372777998659641349">HANNITY caught ripping the juul (video)</a>
+<ul>
+<li>Laura has fun with it</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong>Good sources</strong>
+<ul>
+<li><a href="https://pandemic.warroom.org/">Bannon's Warroom Pandemic</a></li>
+<li><a href="https://www.thegatewaypundit.com/">Gateway Pundit</a></li>
+<li><a href="https://www.revolver.news/">Revolver.news</a></li>
+<li><a href="https://www.citizenfreepress.com/">Citizen Free Press</a></li>
+<li>Great browser: <a href="brave.com">Brave</a>
+</li>
+</ul>
+</li>
+</ul>
+<p> </p>
+<h2><span style="color: #b40000;">March 18 Feed:<strong><a href="https://www.youtube.com/watch?v=UCwpIpVaBao"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616070039/hannitybidenborder.jpg?1616070039" style="float: right;" width="400"/></a></strong></span></h2>
+<ul>
+<li>
+<strong>Top Feeds</strong>
+<ul>
+<li>Biden's Border Blackout (<a href="https://www.youtube.com/watch?v=UCwpIpVaBao">video</a>);</li>
+<li>Best READ: <a href="https://www.wsj.com/articles/how-remote-work-is-reshaping-americas-urban-geography-11614960100?st=m24el248okml99o&amp;reflink=desktopwebshare_permalink">WSJ on changing work;</a>
+</li>
+<li>And the rest of today's top LibertyNews feeds...</li>
+</ul>
+</li>
+<li>
+<strong>Team Biden Chronicles</strong>
+<ul>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Anti-Equality Act</strong></span>
+<ul>
+<li><a href="https://www.grassfire.com/equality_act_a_trojan_horse_for_abortion">(Grassfire) Equality Act Senate Hearing Alert</a></li>
+<li><a href="https://www.breitbart.com/health/2021/03/17/equality-act-danger-cross-sex-hormones-could-create-menopausal-teens/">We could create "menopausal teens"</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Never-Ending Spending</strong></span>
+<ul>
+<li>
+<a href="https://www.thegatewaypundit.com/2021/03/america-last-ford-announces-plans-move-plant-mexico-2-months-biden-enters-office/"></a><a href="https://www.thegatewaypundit.com/2021/03/america-last-ford-announces-plans-move-plant-mexico-2-months-biden-enters-office/">Biden: "Trust govt"; Ford: "We're leaving U.S.</a>
+</li>
+<li><a href="https://www.cnbc.com/2021/03/16/1400-stimulus-checks-heres-when-direct-deposits-will-be-available.html">90 million stim checks cashed already</a></li>
+<li><a>BETRAYAL: House GOP votes YES on earmarks!</a></li>
+<li><a href="https://www.wsj.com/articles/the-scorched-earth-senate-11616000875?mod=opinion_lead_pos5">McConnell: "Scorched-earth Senate"</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's border crisis<a href="https://twitter.com/NeilWMcCabe2/status/1372259756199571459"><img alt="Image" class="css-9pa8cd" src="https://pbs.twimg.com/media/Ews-7bIUUAET9e4?format=jpg&amp;name=900x900" style="margin: 3px; float: right;" width="350"/></a></strong></span>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=UCwpIpVaBao">Hannity: Biden's Border Crisis (VIDEO)</a></li>
+<li>
+<a href="https://www.youtube.com/watch?v=AoMXOhjVA-M">TUCKER: Report from the Border (video)</a>
+<ul>
+<li>"large gun battle broke out"</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1372354544806596610">GAG ORDER on Border Agents! (video)</a></li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1372442762751139843">Even MSNBC outraged by border blackout (video)</a><br/>
+<ul>
+<li><em>no ridealongs, no access, no leaks, interviews denied</em></li>
+<li><em>"back to an Obama-era approach"</em></li>
+<li><a href="https://newsbusters.org/blogs/nb/nicholas-fondacaro/2021/03/17/batting-white-house-nbc-refuses-admit-theres-border-crisis">NBC: no border crisis!</a></li>
+</ul>
+</li>
+<li>
+<a href="https://twitter.com/Breaking911/status/1372339383580364802">Joe explains his border policy to Stephy (video)</a>
+<ul>
+<li><em>(If you can follow Joe's.... well... logic)</em></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/tomselliott/status/1372145222872928260">Flashback: Joe urged illegals to "immediately surge to the border" (video)</a></li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/smug-jen-psaki-announces-10-year-old-world-makes-across-us-southern-border-will-allowed-stay-video/">Psaki invites all 10-year-olds to cross</a></li>
+<li><a href="https://www.breitbart.com/clips/2021/03/17/abbott-number-of-people-crossing-border-will-grow-tenfold-and-a-hundredfold-we-cant-get-info-on-health-status-or-to-catch-smugglers/">Abbott: invasion will increase "hundredfold"</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/17/exclusive-kobach-bidens-immigration-its-not-an-unintended-crisis-its-a-planned-event/">Kobach: "this is a planned event"</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/17/lindsey-graham-house-republicans-promote-amnesty-for-illegal-aliens-amid-border-crisis/">BETRAYAL: Graham, others supporting amnesty under "Dignidad" label</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/17/ann-coulter-gop-moves-to-save-biden-we-want-amnesty-too/">Coulter: GOP moves to save Biden</a></li>
+<li><a href="https://www.breitbart.com/border/2021/03/17/large-migrant-groups-continue-crossing-border-into-texas-24k-in-two-weeks/">IMAGES: Flood of illegals!</a></li>
+<li><a href="https://t.co/JbJaRpMzoJ?amp=1">POLL: Working class, swing voters most oppose amnesty</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's "Biden Hiden" crisis</strong></span><a href="https://www.thegatewaypundit.com/2021/03/going-viral-biden-glitchy-video-reporters-people-spooked-chopped-head-hand-tricks/">Is anything REAL? Biden's hand passes THRU MIC</a>? (<a href="https://twitter.com/TheInsiderPaper/status/1372192023197913092">video)</a>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1372437343550967808">Kayleigh: "confounding" that press conf. announced 9 days ahead (video)</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's War Foreign Policy</strong></span><span style="text-decoration: underline;"><strong><br/></strong></span>
+<ul>
+<li><a href="https://www.newsmax.com/politics/putin-biden/2021/03/17/id/1014206/">Biden: "killer" Putin</a></li>
+<li><a href="https://www.zerohedge.com/political/endpoint-critical-race-theory-columbia-university-faces-backlash-segregated-graduations">Russia recalls ambassador</a></li>
+</ul>
+</li>
+<li><a href="https://www.wsj.com/articles/bidens-backdoor-climate-plan-11616020338?mod=opinion_lead_pos1">Backdoor Climate Change Policy</a></li>
+</ul>
+</li>
+<li>
+<strong>The Purge</strong>
+<ul>
+<li><a href="https://archive.fo/GDPpg">Leftist site: "Whiteness is a pandemic"</a></li>
+</ul>
+</li>
+<li>
+<strong>Trump and People push back</strong>
+<ul>
+<li>
+<img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616070109/Messages_Image%281003016532%29.jpg?1616070109" style="margin: 3px; float: right;" width="400"/><a href="https://www.prnewswire.com/news-releases/dan-bongino-to-helm-new-radio-program-for-westwood-one-301249730.html">Dan Bongino radio show to start in Rush's time slot</a>
+</li>
+<li>
+<a href="https://twitter.com/TVNewsHQ/status/1372276961704357894">Desantis: "No room for Critical Race Theory" (video)</a><br/>
+<ul>
+<li><span>“There is no room in our classrooms for things like Critical Race Theory. Teaching kids to hate their country and to hate each other is not worth one red cent of taxpayer money.”</span></li>
+<li><a href="https://www.bloomberg.com/news/articles/2021-03-16/places-with-the-highest-and-lowest-income-tax-rate-and-take-home-salary?sref=i4qXzk6d"><span>Report: KEEP MORE OF YOUR MONEY in FL!</span></a></li>
+</ul>
+</li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/dr-fauci-birx-people-frankly-made-nothing-mistakes-president-trump-doctors-destroyed-freedom-using-covid-19/"><span>Trump criticizes Fauci, Birx</span></a></li>
+<li>
+<a href="https://archive.fo/jRptr"><span>Sen. Ron Johnson: "I won's be silenced"</span></a>
+<ul>
+<li><span>"I wasn’t concerned by the Trump supporters who came to Washington on Jan. 6 to protest peacefully. Thousands of protesters—no one knows the actual number—marched to the Capitol. Only about 800 people illegally entered the Capitol. Still fewer engaged in violent acts."<span style="text-decoration: underline;"><strong><a href="get_fed"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/attachments/original/1614721403/ln_signupvertical.jpg?1614721403" style="float: right; margin: 3px;" width="200"/></a></strong></span></span></li>
+</ul>
+</li>
+<li><a href="https://www.foxnews.com/politics/trump-mar-a-lago-fundraising-republicans"><span>GOP candidates make pilgrimages to Mar-a-Lago</span></a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/17/gop-insiders-warn-companies-woke-leftism-paving-way-for-corporate-free-populist-republican-party/"><span>Insider memo: GOP moving from corporate party to populist party</span></a></li>
+</ul>
+</li>
+<li>
+<strong>Election Watch</strong>
+<ul>
+<li><a href="https://www.thegatewaypundit.com/2021/03/75-voters-support-voter-laws-something-democrats-determined-eliminate/"> 75% of Americans WANT voter ID</a></li>
+<li><a href="https://rumble.com/veple3-breaking-judge-rules-30000-suspected-counterfeit-ballots-analyzed-in-georgi.html">Bannon on 30k GA ballots that judge says analyze! (video)</a></li>
+<li><a href="https://www.theamericanconservative.com/articles/something-rotten-in-the-georgia-secretary-of-states-office/">Something's rotten in GA sec. of state office</a></li>
+<li><a href="https://justthenews.com/politics-policy/elections/thumonths-after-trump-complaints-some-courts-are-finding-illegalities">Courts finally finding irregularities in 20 election</a></li>
+</ul>
+</li>
+<li>
+<strong>Great Reset</strong>
+<ul>
+<li><a href="https://www.grassfire.com/woke_leftists_don_t_want_you_to_know_this"> (Grassfire) Woke Leftists don't want you to know THIS</a></li>
+<li>
+<a href="https://www.zerohedge.com/political/endpoint-critical-race-theory-columbia-university-faces-backlash-segregated-graduations">COLUMBIA to have multiple graduations: "endpoint of critical race theory"</a>
+<ul>
+<li><a href="https://www.zerohedge.com/geopolitical/denmark-limit-non-western-residents-neighborhoods-30">Pushback: Denmark limiting non-Western residents</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>COVID-1984 Shutdown Shockers</strong> 
+<ul>
+<li><a href="https://t.co/B5aS8Gy8U6?amp=1">More covid suicides than deaths children</a></li>
+<li><a href="https://twitter.com/OBusybody/status/1372353744755642371"> Lockdown death and disease count</a></li>
+<li><a href="https://twitter.com/EWoodhouse7/status/1372404236886147074">Deaths AT HOME skyrocketed in 20-- not because of COVID!</a></li>
+<li>
+<a href="https://twitter.com/NeilWMcCabe2/status/1372259756199571459"></a><a href="https://www.wsj.com/articles/who-china-hunt-covid-origins-11616004512?st=0ipdm8cvpj3v8vr&amp;reflink=desktopwebshare_permalink">WSJ-- China virus investigation stymied from start</a>
+</li>
+<li>
+<a href="https://www.wsj.com/articles/how-remote-work-is-reshaping-americas-urban-geography-11614960100?st=m24el248okml99o&amp;reflink=desktopwebshare_permalink">WSJ: Shutdown CHANGING WORK! Creating "Zoom Towns"</a><br/>
+<ul>
+<li><span>"A year ago, just before the start of pandemic lockdowns, some 10% or less of the U.S. labor force worked remotely full-time. Within a month, according to Gallup and other surveys, around half of American workers were at distant desktops. Today, most of them still are. And surveys of employers and employees alike suggest a fundamental shift."<strong><a href="https://twitter.com/OBusybody/status/1372353744755642371"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1616070190/EwuTPwlWUAEN9w6.jpg?1616070190" style="margin: 3px; float: right;" width="400"/></a></strong></span></li>
+</ul>
+</li>
+<li><a href="https://www.zerohedge.com/markets/americas-small-businesses-govt-life-support-debt-apocalypse-can-kicked">Small BIZ now on govt. LIFE SUPPORT!</a></li>
+<li>MASKerade
+<ul>
+<li>
+<a href="https://tennesseestar.com/2021/03/17/exclusive-maskless-climate-envoy-kerry-endangers-passengers-on-boston-to-dc-flight/">Kerry BUSTED for maskless plane flight</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=AO1V9O7AR8g">TUCKER MOCKS (video)</a></li>
+</ul>
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=L0IXCQON_0A">what? how to ride roller coaster in COVID age (video)</a><br/>
+<ul>
+<li>wear mask; "scream inside your heart"</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/GovRonDeSantis/status/1372331114690457600"> Desantis MASKLESS at pub</a></li>
+</ul>
+</li>
+<li>The Jab...
+<ul>
+<li><a href="https://www.zerohedge.com/markets/watch-graphic-shows-link-between-uk-vaccine-rollout-and-rising-antibody-levels">1/3 of US now vaccinated</a></li>
+</ul>
+</li>
+<li>Shutdown FOREVER!
+<ul>
+<li><a href="https://www.wsj.com/podcasts/the-journal/dr-anthony-fauci-the-game-is-not-over/ca8118cb-2923-4f8c-bbe5-87880c09f3c4">Fauci: "game is not over"</a></li>
+<li><a href="https://nypost.com/2021/03/17/cdc-suggests-school-social-distancing-requirements-could-change/?utm_source=NYPTwitter&amp;utm_campaign=SocialFlow&amp;utm_medium=SocialFlow">CDC: 6 feet good, 3 feet better?</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Misc Don't Miss</strong>
+<ul>
+<li><a href="https://twitter.com/Buailtin/status/1371195445503004674">Exhausted Walrus makes it to Ireland (video)</a></li>
+<li><a href="https://twitter.com/wonderofscience/status/1371836621167939589">What's bigger: Moon or Pluto?</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong>Good sources</strong>
+<ul>
+<li><a href="https://pandemic.warroom.org/">Bannon's Warroom Pandemic</a></li>
+<li><a href="https://www.thegatewaypundit.com/">Gateway Pundit</a></li>
+<li><a href="https://www.revolver.news/">Revolver.news</a></li>
+<li><a href="https://www.citizenfreepress.com/">Citizen Free Press</a></li>
+<li>Great browser: <a href="brave.com">Brave</a>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span style="color: #b40000;"><br/>March 17 Feed:<strong><a href="https://youtu.be/UM9JvYjPW6o"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1615980028/trumpfox.jpg?1615980028" style="margin: 3px; float: right;" width="400"/></a></strong></span></h2>
+<ul>
+<li>
+<strong>Top Feeds</strong>
+<ul>
+<li> Trump speaks on Biden, Borders and '24 (<a href="https://youtu.be/UM9JvYjPW6o">video</a>), and the rest of today's top LibertyNews feeds...</li>
+</ul>
+</li>
+<li>
+<strong>Team Biden Chronicles</strong>
+<ul>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's Never-Ending Spending</strong></span>
+<ul>
+<li>
+<a href="https://justthenews.com/government/congress/schumer-canceling-50k-student-debt-makes-sense-even-if-it-wont-help-those-who"></a><a href="https://justthenews.com/government/congress/schumer-canceling-50k-student-debt-makes-sense-even-if-it-wont-help-those-who">Schumer on why $50k school loan forgiveness "makes sense"</a>
+<ul>
+<li><em>but what about those who paid off loans and didn't buy houses/cars?</em></li>
+</ul>
+</li>
+<li><a href="https://www.newsmax.com/politics/stimulus-tax-cuts/2021/03/16/id/1014066/">Stimulus BANNED state-level tax cuts!</a></li>
+</ul>
+</li>
+<li>
+<strong>Joe's End of Filibuster</strong>
+<ul>
+<li>
+<a href="https://twitter.com/Breaking911/status/1371956369159507969"></a><a href="https://twitter.com/Breaking911/status/1371956369159507969">Schumer: we'll break the filibuster (video)</a>
+</li>
+<li><a href="https://www.foxnews.com/politics/biden-supports-changing-filibuster-rules-in-senate">Joe wants filibuster gone</a></li>
+<li>
+<a href="https://www.zerohedge.com/political/mcconnell-flips-out-over-filibuster-threatens-scorched-earth-senate-if-dems-pursue-power">McConnell promises "scorched earth" Senate if filibuster broken</a>
+<ul>
+<li><a href="https://youtu.be/Q4bpLzUHVDw">video</a></li>
+<li>“As soon as Republicans wound up back in the saddle, we wouldn’t just erase every liberal change that hurt the country....“We’d strengthen America with all kinds of conservative policies with zero input from the other side....“Nationwide right-to-work for working Americans. Defunding Planned Parenthood and sanctuary cities on day one.... A whole new era of domestic energy production. Sweeping new protections for conscience and the right to life of the unborn... Concealed-carry reciprocity in all 50 states and the District of Columbia. Massive hardening of security on<span style="text-decoration: underline;"><strong><span><a href="get_fed"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/libertynews/pages/9/attachments/original/1614721403/ln_signupvertical.jpg?1614721403" style="float: right; margin: 3px;" width="200"/></a></span></strong></span>
+</li>
+<li>Would require a "<a href="https://twitter.com/burgessev/status/1371835559069515789">quorum</a>" to shut down Dems</li>
+<li><a href="https://www.wsj.com/articles/mcconnells-filibuster-throwdown-11615935214?st=kjeki6bw6kkjsid&amp;reflink=desktopwebshare_permalink">WSJ applauds...</a></li>
+<li><a href="https://www.americanthinker.com/blog/2021/03/mitch_mcconnells_grand_guignol_performance_in_the_senate.html">Analysis: McConnell was faking it</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's border crisis</strong></span>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1371903092749373445">Joe has no plans on visiting border (video)</a></li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/biden-border-crisis-worse-previously-reported-13000-unaccompanied-migrant-children-now-us-custody-cbs/">13k children in custody</a></li>
+<li><a href="https://www.washingtonexaminer.com/news/house-democrats-mccarthy-lying-border-cbp-confirms">Border Protection confirms terrorists crossing</a></li>
+<li><a href="https://www.breitbart.com/politics/2021/03/16/rick-scott-circulates-daca-amnesty-plan-amid-illegal-immigration-surge/">GOP leader pushed amnesty plan</a></li>
+<li><a href="https://youtu.be/QhVa6XuP2wU">Tucker Carlson on immigration crisis from El Salvador (video)</a></li>
+<li><a href="https://youtu.be/vJbL2KBNTkc">Kayleigh: Biden has a "fact problem" (video)</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Joe's "Biden Hiden" crisis</strong></span>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1371949862162468872">First presser next Thursday (day 64)</a></li>
+<li><a href="https://twitter.com/thehill/status/1371913463497424900?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1371913463497424900%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.thegatewaypundit.com%2F2021%2F03%2Fjoe-biden-kicks-off-help-tour-3-minute-pennsylvania-stop-reads-notecards-shoos-away-reporters-video%2F">Joe's (barely a) stop in PA (video)</a></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;"><strong>Equality Act</strong></span>
+<ul>
+<li>
+<a href="https://www.grassfire.com/equality_act_a_trojan_horse_for_abortion"></a><a href="https://www.grassfire.com/equality_act_a_trojan_horse_for_abortion">(Grassfire) Senate Equality Act hearing imminent</a>
+</li>
+<li>
+<a href="https://alphanewsmn.com/instrument-of-the-devil-priest-sounds-alarm-on-equality-act/">Priest: Act is "instrument of devil"</a>
+<ul>
+<li><span>“The Equality Act is an instrument of the devil,” he concluded. “It comes straight from hell in order to bind the hands and the mouths of good people who seek to speak the truth.”</span></li>
+<li><span>“It will threaten everyday speech where people can be fined or lose their jobs for using the wrong name or even the wrong pronoun. I can be charged with hate speech by preaching the Gospel from this pulpit.”</span></li>
+<li><a href="https://youtu.be/lsvCbYgk3s8"><span>video</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>The Purge</strong>
+<ul>
+<li><a href="https://pjmedia.com/news-and-politics/tyler-o-neil/2021/03/16/don-lemon-traditional-marriage-is-not-what-god-is-about-n1432844">Don Lemon: traditional marriage is "not what God is about"</a></li>
+<li><a href="https://www.wsj.com/articles/amazon-wont-let-you-read-my-book-11615934447?st=f7sryxu0j5rq0o6&amp;reflink=desktopwebshare_permalink">"Amazon banned my book"</a></li>
+</ul>
+</li>
+<li>
+<strong>Trump and People push back</strong>
+<ul>
+<li>Trump on Maria (<a href="https://youtu.be/UM9JvYjPW6o">full interview here</a>)
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1371969849036001282">Trump on Meghan Markle for president (video)</a></li>
+<li>
+<a>Trump on taking the vaccine (video)</a>
+<ul>
+<li>"I would recommend it.... but we have our freedoms"</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/TVNewsHQ/status/1371965566462926850">Trump on the wall (video)</a></li>
+</ul>
+</li>
+<li><a href="https://www.zerohedge.com/political/alaska-republican-party-censures-sen-lisa-murkowski-vows-primary-her">Alaska GOP censures Murk, promise primary</a></li>
+</ul>
+</li>
+<li>
+<strong>Election Watch</strong>
+<ul>
+<li>
+<a href="https://www.zerohedge.com/political/study-shows-very-few-capitol-hill-rioters-were-qanon-red-staters-ties-right-wing-groups"> Study of 1/6 breach: protestors were "broader core of people"</a>
+<ul>
+<li>Nearly 90% had no ties or right-wing affiliations whatsoever. And they found out that 85% of the people arrested were business owners or held down white-collar jobs.</li>
+</ul>
+</li>
+<li>
+<a href="https://thenationalpulse.com/analysis/capitol-riot-details-trump-right/">Report: Trump wanted 10k national guard for rally</a><br/>
+<ul>
+<li><span>“You’re going to need 10,000 people… You do what you need to do. You do what you need to do,” Trump told his Acting Secretary of Defense Christopher Miller.</span></li>
+</ul>
+</li>
+<li>
+<a href="https://www.breitbart.com/2020-election/2021/03/16/mi-court-michigan-secretary-of-states-absentee-ballot-order-broke-law-vindicating-trump-claim/">MI court -- ballot order BROKE LAW</a>
+<ul>
+<li>"<span>nowhere in this state’s election law has the Legislature indicated that signatures are to be presumed valid, nor did the Legislature require that signatures are to be accepted so long as there are any redeeming qualities in the application"</span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Great Reset</strong>
+<ul>
+<li><a href="https://redstate.com/alexparker/2021/03/16/marvel-comics-introduces-a-new-and-gay-captain-america-n344897">Marvel's new Captain America is GAY</a></li>
+<li>
+<a href="https://redstate.com/alexparker/2021/03/16/marvel-comics-introduces-a-new-and-gay-captain-america-n344897"><img alt="Image" class="css-9pa8cd" src="https://pbs.twimg.com/media/EwjI62NWUAQlKzP?format=jpg&amp;name=medium" style="margin: 3px; float: right;" width="350"/></a><a href="https://twitter.com/Breaking911/status/1372091632502325248">What? VP pledges to UN for rights! (video)</a>
+<ul>
+<li><span>"The status of democracy depends on our collective commitment to those values articulated in the universal declaration of human rights."</span></li>
+</ul>
+</li>
+<li><a href="https://mariomurilloministries.wordpress.com/2021/03/15/its-like-teaching-your-young-son-to-smoke-dope/">Critique of Wokeness in Evangelicalism</a></li>
+</ul>
+</li>
+<li>
+<strong>Media/Tech bias</strong>
+<ul>
+<li><a href="https://twitter.com/TVNewsHQ/status/1371970945380929546">Greg Gutfeld on the WPost "find the fraud" election lie (video)</a></li>
+</ul>
+</li>
+<li>
+<strong>COVID Facts</strong>
+<ul>
+<li><a href="https://www.zerohedge.com/covid-19/former-state-dept-lead-investigator-says-covid-19-escaped-wuhan-lab-may-have-been"> State department investigator: COVID escaped from lab</a></li>
+<li>
+<a href="https://www.zerohedge.com/markets/its-over-far-wall-street-concerned-covid-done">Wall Street says: COVID is "OVER"</a>
+<ul>
+<li><span>COVID-19 is no longer the #1 “tail risk” for the first time since Feb’20...</span></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>COVID-1984 Shutdown Shockers</strong><a href="https://twitter.com/kerpen/status/1371979678458777606"><img alt="Image" class="css-9pa8cd" src="https://pbs.twimg.com/media/EwpAPLTXAAUbJPU?format=png&amp;name=900x900" style="margin: 3px; float: right;" width="400"/></a> 
+<ul>
+<li><a href="https://www.zerohedge.com/political/consent-governed">What about the "consent of the governed"?</a></li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/california-shut-off-power-restaurant-refusing-comply-shut-using-generators-stay-open-anyways/">CA shuts down power to restaurant; they use generators!</a></li>
+<li><a href="https://archive.fo/uQVWO">Murders UP again this year</a></li>
+<li><a href="https://archive.fo/RfbHS">Pandemic-inspired housing boom... or bubble?</a></li>
+<li><a href="https://www.wsj.com/articles/college-admission-season-is-crazier-than-ever-that-could-change-who-gets-in-11615909061?mod=hp_lead_pos5">COVID even messed up college admissions</a></li>
+<li><a href="coronavirus">COVID is even messing up BIRTH!!!</a></li>
+<li><a href="https://twitter.com/HereSayMedia/status/1371996701506949122">It's not "learning loss" in shutdown schools, it's "learning change" (video)</a></li>
+<li>
+<span style="text-decoration: underline;">MASKerade</span>
+<ul>
+<li><a href="https://www.thegatewaypundit.com/2021/03/exclusive-nyc-judge-removes-6-year-old-mother-didnt-wear-mask-dropping-off-school/">Mom loses custody of daughter because of MASK!</a></li>
+<li>
+<a href="https://t.co/xPSPNkyN3J?amp=1">Masks causing "physical harm to children"</a><br/>
+<ul>
+<li>breathing difficulties, headaches, dizziness</li>
+</ul>
+</li>
+<li><a href="https://www.thegatewaypundit.com/2021/03/family-kicked-off-flight-four-year-old-autistic-son-wouldnt-wear-mask-despite-note-doctor/">Family kicked off plane b/c 4-year-old autistic not masked</a></li>
+<li>
+<a href="https://thehill.com/opinion/healthcare/543315-feehery-the-face-of-left-wing-authoritarianism#.YFC86NkrLio.twitter">Masks are "face of left-wing authoritarianism</a><br/>
+<ul>
+<li>"<span>Mask mandates have turned out to be very useful in compelling social order, despite overwhelming actual scientific evidence that they play almost no role in limiting the spread of COVID-19, or any other respiratory virus for that matter. </span>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;">The Jab...</span>
+<ul>
+<li>
+<a href="https://twitter.com/andrewbostom/status/1372010181891133444">Vaccines are experimental and under federal law "cannot be required"</a><br/>
+<ul>
+<li>"individuals must have the option to accept or decline to be vaccinated"</li>
+</ul>
+</li>
+<li><a href="https://threadreaderapp.com/thread/1371862891696156678.html">The pressure campaign to rush the jab</a></li>
+<li>
+<a href="https://thehill.com/homenews/house/543511-a-number-of-republican-lawmakers-are-saying-no-to-covid-19-vaccines">Several GOP congressmen not taking jab</a>
+<ul>
+<li><a href="https://twitter.com/kerpen/status/1371957946926702599">24 governors, no jab</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration: underline;">Fauxi</span>
+<ul>
+<li><a href="https://twitter.com/megynkelly/status/1371311973028143105">Megyn Kelly to Fauci: "you don't control us"</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Misc Don't Miss</strong>
+<ul>
+<li><a href="https://twitter.com/damian_r24/status/1371923174363856898">Fireworks explosion in CA; two dead (video of explosion)</a></li>
+<li><a href="https://apnews.com/article/new-dead-sea-scrolls-israel-19844d3eb208190914182e78d9d79aac">New Dead Sea Scrolls discovered!</a></li>
+<li><a href="https://twitter.com/wonderofscience/status/1350599420237148160">AMAZING rainbow waterfall (video)</a></li>
+<li><a href="https://twitter.com/Breaking911/status/1371844972207611908">Joy Behar says Antifa a "fictitious idea" (video)</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong>Good sources</strong>
+<ul>
+<li><a href="https://pandemic.warroom.org/">Bannon's Warroom Pandemic</a></li>
+<li><a href="https://www.thegatewaypundit.com/">Gateway Pundit</a></li>
+<li><a href="https://www.revolver.news/">Revolver.news</a></li>
+<li><a href="https://www.citizenfreepress.com/">Citizen Free Press</a></li>
+<li>Great browser: <a href="brave.com">Brave</a>
+</li>
+</ul>
+</li>
+</ul>
+<h2><span style="color: #b40000;">March 16 Feed:<strong><a href="https://youtu.be/_7lUqVwAOW8"><img alt="" src="https://d3n8a8pro7vhmx.cloudfront.net/grassfire/pages/1621/attachments/original/1615894250/mariataxes.jpg?1615894250" style="margin: 3px; float: right;" width="400"/></a></strong></span></h2>
 <ul>
 <li>
 <strong>Top Feeds</strong>
@@ -6368,7 +8088,7 @@ while we re-configure the social share prompt -->
 <p>We look forward to hearing from you!<a href="bydate"></a></p>
 <!-- _homepage_excerpt_feedback.html -->
 <div class="form">
-<form action="/forms/feedbacks" class="ajaxForm feedback_form" id="feed_page_new_feedback_form" method="POST"><input name="authenticity_token" type="hidden" value="Sl5v61yA9U1hrBUd+xvV9ExyTK9dbsUVd1qZ4Kzr+q4="/><input name="page_id" type="hidden" value="9"/><input name="return_to" type="hidden" value="https://www.libertynews.com/"/><div aria-hidden="true" class="email_address_form" style="display:none;"><p><label for="email_address">Optional email code</label><br><input autocomplete="off" class="text" id="email_address" name="email_address" type="text"/></br></p></div>
+<form action="/forms/feedbacks" class="ajaxForm feedback_form" id="feed_page_new_feedback_form" method="POST"><input name="authenticity_token" type="hidden" value="O8CeWKp6n1TCoBAMTlu3iRs0aykXMSp4/fQqiBNRjV0="/><input name="page_id" type="hidden" value="9"/><input name="return_to" type="hidden" value="https://www.libertynews.com/"/><div aria-hidden="true" class="email_address_form" style="display:none;"><p><label for="email_address">Optional email code</label><br><input autocomplete="off" class="text" id="email_address" name="email_address" type="text"/></br></p></div>
 <input id="page_id" name="page_id" type="hidden" value="23"/>
 <div class="form-errors"></div>
 <div class="row-fluid">
@@ -6448,7 +8168,7 @@ while we re-configure the social share prompt -->
 </ul>
 <!-- _signup_form.html -->
 <div class="email-signup form block">
-<form action="/forms/signups" class="ajaxForm signup_form" enctype="multipart/form-data" id="feed_page_new_signup_form" method="POST"><input name="authenticity_token" type="hidden" value="Sl5v61yA9U1hrBUd+xvV9ExyTK9dbsUVd1qZ4Kzr+q4="/><input name="page_id" type="hidden" value="9"/><input name="return_to" type="hidden" value="https://www.libertynews.com/"/><div aria-hidden="true" class="email_address_form" style="display:none;"><p><label for="email_address">Optional email code</label><br><input autocomplete="off" class="text" id="email_address" name="email_address" type="text"/></br></p></div>
+<form action="/forms/signups" class="ajaxForm signup_form" enctype="multipart/form-data" id="feed_page_new_signup_form" method="POST"><input name="authenticity_token" type="hidden" value="O8CeWKp6n1TCoBAMTlu3iRs0aykXMSp4/fQqiBNRjV0="/><input name="page_id" type="hidden" value="9"/><input name="return_to" type="hidden" value="https://www.libertynews.com/"/><div aria-hidden="true" class="email_address_form" style="display:none;"><p><label for="email_address">Optional email code</label><br><input autocomplete="off" class="text" id="email_address" name="email_address" type="text"/></br></p></div>
 <input id="page_id" name="page_id" type="hidden" value="9"/> <div class="form-errors"></div>
 <input class="text" id="signup_email" name="signup[email]" placeholder="Email address" required="required" type="email"/><input class="submit-button" name="commit" type="submit" value="Join"/>
 <div class="form-submit"></div>
@@ -6492,6 +8212,9 @@ while we re-configure the social share prompt -->
 <div class="span8 footer-left desktop-visible">
 <h5>Powered by people like you</h5>
 <div class="desktop-visible">
+<img alt="Richard Potocki" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Richard Potocki" width="24"/>
+<img alt="Vickie Combs-robinson" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Vickie Combs-robinson" width="24"/>
+<img alt="Andrew Ade" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Andrew Ade" width="24"/>
 <img alt="Andrea Lapinsky" border="0" class="profile_image" height="24" src="https://cloudinary-a.akamaihd.net/nationbuilder/image/twitter/w_73,h_73,c_fill/898991119.jpg" title="Andrea Lapinsky" width="24"/>
 <img alt="Alice Dresbaugh Wilson" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Alice Dresbaugh Wilson" width="24"/>
 <img alt="Kevin McNamara" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Kevin McNamara" width="24"/>
@@ -6505,11 +8228,11 @@ while we re-configure the social share prompt -->
 <img alt="Melissa Gardner" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Melissa Gardner" width="24"/>
 <img alt="Sharon Owens" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Sharon Owens" width="24"/>
 <img alt="Julie Cory-Gerwe" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Julie Cory-Gerwe" width="24"/>
-<img alt="Dee Reilman" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Dee Reilman" width="24"/>
-<img alt="Ronald Westover" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Ronald Westover" width="24"/>
-<img alt="Liz McIntyre" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Liz McIntyre" width="24"/>
 </div>
 <div class="mobile-visible">
+<img alt="Richard Potocki" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Richard Potocki" width="24"/>
+<img alt="Vickie Combs-robinson" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Vickie Combs-robinson" width="24"/>
+<img alt="Andrew Ade" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Andrew Ade" width="24"/>
 <img alt="Andrea Lapinsky" border="0" class="profile_image" height="24" src="https://cloudinary-a.akamaihd.net/nationbuilder/image/twitter/w_73,h_73,c_fill/898991119.jpg" title="Andrea Lapinsky" width="24"/>
 <img alt="Alice Dresbaugh Wilson" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Alice Dresbaugh Wilson" width="24"/>
 <img alt="Kevin McNamara" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Kevin McNamara" width="24"/>
@@ -6517,9 +8240,6 @@ while we re-configure the social share prompt -->
 <img alt="Darrell Prim" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Darrell Prim" width="24"/>
 <img alt="Sherry Scott" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Sherry Scott" width="24"/>
 <img alt="William Dinger" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="William Dinger" width="24"/>
-<img alt="Julianne Cummings" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Julianne Cummings" width="24"/>
-<img alt="Ethel Brost" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="Ethel Brost" width="24"/>
-<img alt="linda Huckfeldt" border="0" class="profile_image" height="24" src="https://d3n8a8pro7vhmx.cloudfront.net/assets/notifier/profile-avatar.png" title="linda Huckfeldt" width="24"/>
 </div>
 </div>
 <div class="span4 footer-right footer-social-links">

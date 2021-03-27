@@ -32,7 +32,7 @@ gtag('config', 'UA-7117339-4', {
 });
 gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 </script>
-</meta></link></meta></meta></meta></head>
+<script async="" src="/cdn-cgi/bm/cv/669835187/api.js"></script></meta></link></meta></meta></meta></head>
 <body>
 <header id="header">
 <div class="js-overlay-modal overlay-modal"></div>
@@ -93,7 +93,19 @@ gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 <span class="or">or</span>
 <div class="right-alwaya-block">
 <span class="midle-lab-text">24 payments of <span class="green">$253.96</span></span>
-<a class="btn" href="https://www.HugeDomains.com/payment-plan-setup.cfm?d=LifePrevention.com" onclick="document.getElementById('domainProfileHDv3P7c24aID').submit(); return false;">▸ Start Payment Plan</a>
+<a class="btn" href="https://www.HugeDomains.com/payment-plan-setup.cfm?d=LifePrevention.com" id="hdv3Lander136PPSetupBtnID" onclick="hdv3Lander136PPSetupBtnProcessingFunc(); return false; " style="min-width:280px;">▸ Start Payment Plan</a>
+<button class="place-order-btn paymentpay-accaunt-content-btn btn hiddenAtLoad" id="hdv3Lander136PPSetupBtnProcessingID" onclick="return false;" style="height:49px; margin-left:0px; margin-top:0px; width:280px;" type="button" value="">Processing
+<div id="circularG">
+<div class="circularG" id="circularG_1"></div>
+<div class="circularG" id="circularG_2"></div>
+<div class="circularG" id="circularG_3"></div>
+<div class="circularG" id="circularG_4"></div>
+<div class="circularG" id="circularG_5"></div>
+<div class="circularG" id="circularG_6"></div>
+<div class="circularG" id="circularG_7"></div>
+<div class="circularG" id="circularG_8"></div>
+</div>
+</button>
 </div>
 </div>
 <p class="after-forms-paragraf">Make 24 monthly payments of $253.96 <span style="color:#13abb5;">|</span> Pay 0% interest <span style="color:#13abb5;">|</span> Start using the domain today. <a href="https://www.HugeDomains.com/payment-plan-setup.cfm?d=LifePrevention.com">See details</a>.</p>
@@ -104,20 +116,59 @@ gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 <input name="termLength" type="hidden" value="24"/>
 <input name="d" type="hidden" value="LifePrevention.com"/>
 </form>
-<section class="call-us product-page-bottom-block">
+<script>
+function hdv3Lander136PPSetupBtnProcessingFunc() {
+/* processing */
+$('#hdv3Lander136PPSetupBtnID').addClass('hiddenAtLoad');
+$('#hdv3Lander136PPSetupBtnProcessingID').removeClass('hiddenAtLoad');
+/* submit */
+document.getElementById('domainProfileHDv3P7c24aID').submit();
+window.addEventListener("unload", function(event) {
+$('#hdv3Lander136PPSetupBtnID').removeClass('hiddenAtLoad');
+$('#hdv3Lander136PPSetupBtnProcessingID').addClass('hiddenAtLoad');
+});
+return false;
+}
+window.onpageshow = function(event) {
+if (event.persisted) {
+$('#hdv3Lander136PPSetupBtnID').removeClass('hiddenAtLoad');
+$('#hdv3Lander136PPSetupBtnProcessingID').addClass('hiddenAtLoad');
+}
+};
+</script>
+<section class="bonus-presentation productWhiteGrey hdv3pitch">
+<div class="bonus-presentation-wrap small-container">
+<div class="bonus-presentation-item">
+<div class="bonus-presentation_icon"><img alt="" src="https://static.HugeDomains.com/images/hdv3-img/garantee.png"/></div>
+<div class="bonus-presentation_title"><h3>30-day money<br/>back guarantee</h3></div>
+<div class="bonus-presentation_content"><a class="modal-trigger fabThirtyDayMoneyBack" data-modal="contact-form-modal" href="##">Learn more</a></div>
+</div>
+<div class="bonus-presentation-item">
+<div class="bonus-presentation_icon"><img alt="" src="https://static.HugeDomains.com/images/hdv3-img/rocket-icon.png"/></div>
+<div class="bonus-presentation_title"><h3>Quick delivery of<br/>the domain</h3></div>
+<div class="bonus-presentation_content"><a class="modal-trigger fabQuickDeliveryLearnMore" data-modal="contact-form-modal" href="##">Learn more</a></div>
+</div>
+<div class="bonus-presentation-item">
+<div class="bonus-presentation_icon"><img alt="" src="https://static.HugeDomains.com/images/hdv3-img/present-section-ico-3.png"/></div>
+<div class="bonus-presentation_title"><h3>Safe and secure<br/>shopping</h3></div>
+<div class="bonus-presentation_content"><a class="modal-trigger fabSafeSecureShopping" data-modal="contact-form-modal" href="##">Learn more</a></div>
+</div>
+</div>
+</section>
+<section class="call-us product-page-bottom-block productWhiteGrey hdv3pitch">
 <div class="container">
 <div class="call-us-content-wrap">
 <div class="call-us-content-ico">
 <img alt="" src="https://static.HugeDomains.com/images/hdv3-img/call-us.png"/>
 </div>
 <div class="call-us-content">
-<h2 class="call-us-title">Questions? We can help: 1-303-893-0552</h2>
+<h2 class="call-us-title">Questions? We can help: 1‑303‑893‑0552</h2>
 <p class="call-us-subtitle">Call us to learn how we can help you get more value from your domain</p>
 </div>
 </div>
 </div>
 </section>
-<section class="video-lesson productWhiteGrey">
+<section class="video-lesson productWhiteGrey hdv3pitch">
 <div class="video-lesson-wrap small-container">
 <div class="video-block">
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/9wCygJtW_SQ?rel=0&amp;autoplay=0&amp;showinfo=0&amp;controls=0" width="480"></iframe>
@@ -125,43 +176,42 @@ gtag('event', 'pageLoad', { 'siteversion': 'HDv3' });
 <div class="text-video"><p>Turbocharge your website. Watch our video to learn how.</p></div>
 </div>
 </section>
-<section class="testimonails productWhiteGrey">
+<section class="testimonails productWhiteGrey hdv3pitch">
 <div class="testimonails-wrap small-container">
 <div class="block-title"><h2>Since 2005, we’ve helped thousands of people get the perfect domain name</h2></div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#939999;">L</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#939999;">R</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">When I called they answered within a few rings. This was an easy way to get a premium domain on a payment plan. Would recommend!</p>
-<span class="feedback-owner">- Lance Johnson, January 25, 2021</span>
+<p class="feedback">LOVED IT! I've been wanting to purchase this site for years, and I am so glad I was able to thanks to Huge Domains.</p>
+<span class="feedback-owner">- Rebecca Perez, March 15, 2021</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#9085ff;">A</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#9085ff;">V</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">A quick, easy and very straightforward service.</p>
-<span class="feedback-owner">- Alex Rubio Navalón, January 25, 2021</span>
+<p class="feedback">It's amazing to see how fast, easy &amp; secure was to get the domain and to redirect it to my website. It was also very easy to configure my account. What is also amazing is that it has the possibility to pay it in 24 months! Definitely I will use this service again and its a pleasure to give you my feedback and recommendation.</p>
+<span class="feedback-owner">- Victor Kerber, March 9, 2021</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#0047af;">D</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#0047af;">R</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">The whole process was incredibly easy, smooth and fair. I bought my domain on there affordable monthly payment program and my domain is usable (by me) from day 1.
-A few years back I bought "BigSQL.com" from HugeDomains and that was also very easy.</p>
-<span class="feedback-owner">- Denis Lussier, January 22, 2021</span>
+<p class="feedback">Great transaction</p>
+<span class="feedback-owner">- Ricardo Herrera, March 8, 2021</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#830000;">J</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#830000;">N</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">Thank you for your cooperation with us</p>
-<span class="feedback-owner">- Jamal Abdulhadi, January 22, 2021</span>
+<p class="feedback">thanks you very much!</p>
+<span class="feedback-owner">- Ngo Vancuong, March 5, 2021</span>
 </div>
 </div>
 <div class="testimonials-item">
-<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#89969f;">A</div></div>
+<div class="testimonials-item_image"><div class="img-placeholder darkblue" style="background-color:#89969f;">C</div></div>
 <div class="testimonials-item_content">
-<p class="feedback">Quick and easy service with affordable price for what is a real Hugh Domain name. I was very happy that this unique domain name was available. The price offered was cheaper than other services that other companies were offereing the same Domain.</p>
-<span class="feedback-owner">- Adam Goldsmith, January 22, 2021</span>
+<p class="feedback">I was very happy with the service and the payment plan. It is a good domain name that I am able to pay for over time while having the advantage of using it now.</p>
+<span class="feedback-owner">- Chris Lawrence, March 5, 2021</span>
 </div>
 </div>
 <div class="testimonials-container">
@@ -169,36 +219,7 @@ A few years back I bought "BigSQL.com" from HugeDomains and that was also very e
 <a class="see-more" href="https://www.HugeDomains.com/testimonials.cfm">See more testimonials</a>
 </div>
 </section>
-<section class="buy-now top-container product-page-bottom-block">
-<div class="small-container">
-<div class="bn-block text-center">
-<h1 class="domain-name">LifePrevention.com</h1>
-<p>Own this domain today: <span class="green">$6,095</span></p>
-<a class="btn" href="https://www.HugeDomains.com/shopping_cart.cfm?d=LifePrevention&amp;e=com">▸ Buy now</a>
-</div>
-</div>
-</section>
-<section class="other-domains productWhiteGrey">
-<div class="other-domains-wrap small-container">
-<div class="oter-domain-title">
-<h2>Other domains you might like:</h2>
-</div>
-<div class="domains-table">
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=OralcancerPrevention.com">OralcancerPrevention.com</a><span class="price">$2,695</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=JohnstonPrevention.com">JohnstonPrevention.com</a><span class="price">$2,895</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=PoachingPrevention.com">PoachingPrevention.com</a><span class="price">$2,495</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=CellPrevention.COM">CellPrevention.COM</a><span class="price">$1,595</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=FrailtyPrevention.com">FrailtyPrevention.com</a><span class="price">$1,995</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=NovaPrevention.com">NovaPrevention.com</a><span class="price">$2,395</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=PreventionSwineflu.com">PreventionSwineflu.com</a><span class="price">$2,295</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=PreventionOk.com">PreventionOk.com</a><span class="price">$1,995</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=TobaccoPrevention.com">TobaccoPrevention.com</a><span class="price">$5,595</span></span></div>
-<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=ProPrevention.com">ProPrevention.com</a><span class="price">$3,395</span></span></div>
-</div>
-<a class="see-more-domains" href="https://www.HugeDomains.com/domain_search.cfm?domain_name=Life+Prevention">See more...</a>
-</div>
-</section>
-<section class="faq-section productWhiteGrey">
+<section class="faq-section productWhiteGrey hdv3pitch">
 <div class="faq-section-wrap small-container">
 <div class="faq-section-title">
 <h2>FAQs</h2>
@@ -243,6 +264,35 @@ A few years back I bought "BigSQL.com" from HugeDomains and that was also very e
 </div>
 <div class="more-w">
 <a class="see-more-faq" href="https://www.HugeDomains.com/faq.cfm" target="_blank">See more FAQs</a>
+</div>
+</div>
+</section>
+<section class="other-domains productWhiteGrey hdv3pitch">
+<div class="other-domains-wrap small-container">
+<div class="oter-domain-title">
+<h2>Other domains you might like:</h2>
+</div>
+<div class="domains-table">
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=EpidemicPrevention.com">EpidemicPrevention.com</a><span class="price">$4,195</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=HackPrevention.com">HackPrevention.com</a><span class="price">$2,695</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=CtPrevention.com">CtPrevention.com</a><span class="price">$1,795</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=DrugsPrevention.com">DrugsPrevention.com</a><span class="price">$3,095</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=EssentialPrevention.com">EssentialPrevention.com</a><span class="price">$2,195</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=StrategicPrevention.com">StrategicPrevention.com</a><span class="price">$2,995</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=CoPrevention.com">CoPrevention.com</a><span class="price">$2,095</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=WildlifePrevention.com">WildlifePrevention.com</a><span class="price">$1,495</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=SolutionsPrevention.com">SolutionsPrevention.com</a><span class="price">$3,695</span></span></div>
+<div class="domain-row"><span class="domain"><a href="https://www.HugeDomains.com/domain_profile.cfm?d=OdPrevention.com">OdPrevention.com</a><span class="price">$2,895</span></span></div>
+</div>
+<a class="see-more-domains" href="https://www.HugeDomains.com/domain_search.cfm?domain_name=Life+Prevention">See more...</a>
+</div>
+</section>
+<section class="buy-now top-container product-page-bottom-block productWhiteGrey hdv3pitch">
+<div class="small-container">
+<div class="bn-block text-center">
+<h1 class="domain-name">LifePrevention.com</h1>
+<p>Own this domain today: <span class="green">$6,095</span></p>
+<a class="btn" href="https://www.HugeDomains.com/shopping_cart.cfm?d=LifePrevention&amp;e=com">▸ Buy now</a>
 </div>
 </div>
 </section>
@@ -310,6 +360,7 @@ $('#fabButtonPopopOuterDivID').load("https://www.HugeDomains.com/rjs/hdv3-rjs/co
 <li><a href="https://www.HugeDomains.com/business_assets.cfm">Domains as assets</a></li>
 <li><a href="https://www.HugeDomains.com/avoiding_problems.cfm">Don't lose your domain</a></li>
 <li><a href="https://www.HugeDomains.com/domain_name_checklist.cfm">Domain name checklist</a></li>
+<li><a href="https://www.HugeDomains.com/how-domain-transfers-work.cfm">How domain transfers work</a></li>
 </ul>
 </div>
 <div class="col">
@@ -333,7 +384,7 @@ $('#fabButtonPopopOuterDivID').load("https://www.HugeDomains.com/rjs/hdv3-rjs/co
 <h4 class="cta">Talk to a domain expert: <a href="tel:1-303-893-0552">+1-303-893-0552</a></h4>
 </div>
 <p class="copyright text-center">© 2021 HugeDomains.com. All rights reserved.</p>
-<a href="https://www.HugeDomains.com/get-domain.cfm"></a>
+<a href="https://www.HugeDomains.com/domain-info.cfm"></a>
 </div>
 </footer>
 <script src="https://static.HugeDomains.com/js/hdv3-js/jquery.min.js"></script>
@@ -354,4 +405,4 @@ $('#hdv3CartNumberSpanID').removeClass('hiddenAtLoad');
 $('#hdv3CartNumberSpanID').html(cartItems.length);
 }
 </script>
-</body></html>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'63634f273eff3f60',m:'1ae6d48a4b74dc8a02b3f572180d8d3192ec43f5-1616792433-1800-AcEFeaK2cLwaG+i5M8vASWnJQ/+bx9GLybO7uhFmfo+TpXo7cId1fYgBKu8h6LzOOg8HHSouvl43KmYQe+/5AjelBm10SfljiCcyPLzdQw7w4RtUiFgdtwEEe5LIklWSBvRxho3yN8jKoZmmfBbjc3SGBWAOY6RFiYct+59HCaOm',s:[0x6d2c64c7a1,0x33dcd49716],}})();</script></body></html>

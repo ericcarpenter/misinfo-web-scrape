@@ -224,7 +224,7 @@ img.emoji {
 <link href="https://islamicanews.com/wp-content/plugins/td-composer/legacy/Newspaper/assets/css/td_legacy_main.css?ver=c784b8db3e66cd68082f3ff7aa2d70e6" id="td-legacy-framework-front-style-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://islamicanews.com/wp-content/plugins/td-standard-pack/Newspaper/assets/css/td_standard_pack_main.css?ver=6b62588d33477b8e3dc5b8b3c9c8d86c" id="td-standard-pack-framework-front-style-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://islamicanews.com/wp-content/plugins/td-cloud-library/assets/css/tdb_less_front.css?ver=a50385a2d79d6600973a7e697f735a0b" id="tdb_front_style-css" media="all, print" rel="stylesheet" type="text/css"/>
-<link href="https://islamicanews.com/wp-content/sedlex/inline_styles/0a8dd671bf298fb1870d0fc3bfb9eea0a6fcaf3c.css?ver=20210317" id="sedlex_styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://islamicanews.com/wp-content/sedlex/inline_styles/0a8dd671bf298fb1870d0fc3bfb9eea0a6fcaf3c.css?ver=20210327" id="sedlex_styles-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://islamicanews.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.5" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
 <script id="jquery-core-js" src="https://islamicanews.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
 <script id="jquery-migrate-js" src="https://islamicanews.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
@@ -538,10 +538,10 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 				}
 			</style><style type="text/css">img#wpstats{display:none}</style><!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 <script>
-        window.tdb_globals = {"wpRestNonce":"5ab197c6af","wpRestUrl":"https:\/\/islamicanews.com\/wp-json\/","permalinkStructure":"\/%postname%\/","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50};
+        window.tdb_globals = {"wpRestNonce":"b65db436c7","wpRestUrl":"https:\/\/islamicanews.com\/wp-json\/","permalinkStructure":"\/%postname%\/","isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":50};
     </script>
 <script>
-				window.tdwGlobal = {"adminUrl":"https:\/\/islamicanews.com\/wp-admin\/","wpRestNonce":"5ab197c6af","wpRestUrl":"https:\/\/islamicanews.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
+				window.tdwGlobal = {"adminUrl":"https:\/\/islamicanews.com\/wp-admin\/","wpRestNonce":"b65db436c7","wpRestUrl":"https:\/\/islamicanews.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
 			</script>
 <script>
     
@@ -668,7 +668,7 @@ var td_magnific_popup_translation_tNext="Next (Right arrow key)";
 var td_magnific_popup_translation_tCounter="%curr% of %total%";
 var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
 var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
-var tdBlockNonce="e68b9ef48e";
+var tdBlockNonce="7ace0333aa";
 var tdsDateFormat="l, F j, Y";
 var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
 var td_ad_background_click_link="";
@@ -1802,7 +1802,7 @@ var td_ad_background_click_target="";
 <div class="td-header-sp-top-menu">
 <div class="td_data_time">
 <div style="visibility:hidden;">
-Wednesday, March 17, 2021
+Saturday, March 27, 2021
 </div>
 </div>
 </div>
@@ -1939,42 +1939,42 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img alt="" height="1" src="https://www.facebook.com/tr?ev=6021776793675&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" style="display:none" width="1"/><img alt="" height="1" src="https://www.facebook.com/tr?id=1638819439710630&amp;ev=PixelInitialized" style="display:none" width="1"/><img alt="" height="1" src="https://www.facebook.com/tr?id=847659738621425&amp;ev=PixelInitialized" style="display:none" width="1"/></noscript></div>
 <div class="tdc-content-wrap">
-<div class="tdc-zone" id="tdi_1_ce9"><div class="tdc_zone tdi_2_16c wpb_row td-pb-row">
+<div class="tdc-zone" id="tdi_1_7b6"><div class="tdc_zone tdi_2_646 wpb_row td-pb-row">
 <style scoped="">
 
 /* custom css */
-.tdi_2_16c{
+.tdi_2_646{
                     min-height: 0;
                 }
-</style><div class="tdc-row stretch_row_content td-stretch-content" id="tdi_3_2e8"><div class="vc_row tdi_4_622 wpb_row td-pb-row">
+</style><div class="tdc-row stretch_row_content td-stretch-content" id="tdi_3_56f"><div class="vc_row tdi_4_765 wpb_row td-pb-row">
 <style scoped="">
 
 /* custom css */
-.tdi_4_622,
-                .tdi_4_622 .tdc-columns{
+.tdi_4_765,
+                .tdi_4_765 .tdc-columns{
                     min-height: 0;
-                }.tdi_4_622,
-				.tdi_4_622 .tdc-columns{
+                }.tdi_4_765,
+				.tdi_4_765 .tdc-columns{
 				    display: block;
-				}.tdi_4_622 .tdc-columns{
+				}.tdi_4_765 .tdc-columns{
 				    width: 100%;
 				}
-</style><div class="vc_column tdi_6_c34 wpb_column vc_column_container tdc-column td-pb-span12">
+</style><div class="vc_column tdi_6_466 wpb_column vc_column_container tdc-column td-pb-span12">
 <style scoped="">
 
 /* custom css */
-.tdi_6_c34{
+.tdi_6_466{
                     vertical-align: baseline;
-                }.tdi_6_c34 > .wpb_wrapper,
-				.tdi_6_c34 > .wpb_wrapper > .tdc-elements{
+                }.tdi_6_466 > .wpb_wrapper,
+				.tdi_6_466 > .wpb_wrapper > .tdc-elements{
 				    display: block;
-				}.tdi_6_c34 > .wpb_wrapper > .tdc-elements{
+				}.tdi_6_466 > .wpb_wrapper > .tdc-elements{
 				    width: 100%;
-				}.tdi_6_c34 > .wpb_wrapper{
+				}.tdi_6_466 > .wpb_wrapper{
 				    width: auto;
 				    height: auto;
 				}
-</style><div class="wpb_wrapper"><div class="td_block_wrap td_block_big_grid_2 tdi_8_062 td-grid-style-1 td-hover-1 td-big-grids td-pb-border-top td_block_template_12" data-td-block-uid="tdi_8_062"><div class="td_block_inner" id="tdi_8_062"><div class="td-big-grid-wrapper">
+</style><div class="wpb_wrapper"><div class="td_block_wrap td_block_big_grid_2 tdi_8_b7b td-grid-style-1 td-hover-1 td-big-grids td-pb-border-top td_block_template_12" data-td-block-uid="tdi_8_b7b"><div class="td_block_inner" id="tdi_8_b7b"><div class="td-big-grid-wrapper">
 <div class="td_module_mx9 td-animation-stack td-big-grid-post-0 td-big-grid-post td-big-thumb">
 <div class="td-module-thumb"><a class="td-image-wrap" href="https://islamicanews.com/bored-moon-sighting-committee-declares-eid-for-the-hell-of-it/" rel="bookmark" title="Bored Moon Sighting Committee Declares Eid For The Hell of It"><img alt="" class="entry-thumb" data-img-url="https://islamicanews.com/files/2021/01/IN_MOONSIGHTING-741x486.jpg" data-type="image_tag" height="486" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAuUAAAHmAQMAAADuiGKOAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAENJREFUeNrtwYEAAAAAw6D7Ux9gCtUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIgDsnQAAavKUH8AAAAASUVORK5CYII=" title="Bored Moon Sighting Committee Declares Eid For The Hell of It" width="741"/></a></div> <div class="td-meta-info-container">
 <div class="td-meta-align">
@@ -2010,91 +2010,91 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 </div>
 </div>
 </div>
-</div></div><div class="clearfix"></div></div></div> </div></div></div></div><div class="tdc-row stretch_row_content td-stretch-content" id="tdi_9_64a"><div class="vc_row tdi_10_252 wpb_row td-pb-row">
+</div></div><div class="clearfix"></div></div></div> </div></div></div></div><div class="tdc-row stretch_row_content td-stretch-content" id="tdi_9_6ab"><div class="vc_row tdi_10_6fc wpb_row td-pb-row">
 <style scoped="">
 
 /* custom css */
-.tdi_10_252,
-                .tdi_10_252 .tdc-columns{
+.tdi_10_6fc,
+                .tdi_10_6fc .tdc-columns{
                     min-height: 0;
-                }.tdi_10_252,
-				.tdi_10_252 .tdc-columns{
+                }.tdi_10_6fc,
+				.tdi_10_6fc .tdc-columns{
 				    display: block;
-				}.tdi_10_252 .tdc-columns{
+				}.tdi_10_6fc .tdc-columns{
 				    width: 100%;
 				}
-</style><div class="vc_column tdi_12_692 wpb_column vc_column_container tdc-column td-pb-span12">
+</style><div class="vc_column tdi_12_dad wpb_column vc_column_container tdc-column td-pb-span12">
 <style scoped="">
 
 /* custom css */
-.tdi_12_692{
+.tdi_12_dad{
                     vertical-align: baseline;
-                }.tdi_12_692 > .wpb_wrapper,
-				.tdi_12_692 > .wpb_wrapper > .tdc-elements{
+                }.tdi_12_dad > .wpb_wrapper,
+				.tdi_12_dad > .wpb_wrapper > .tdc-elements{
 				    display: block;
-				}.tdi_12_692 > .wpb_wrapper > .tdc-elements{
+				}.tdi_12_dad > .wpb_wrapper > .tdc-elements{
 				    width: 100%;
-				}.tdi_12_692 > .wpb_wrapper{
+				}.tdi_12_dad > .wpb_wrapper{
 				    width: auto;
 				    height: auto;
 				}
-</style><div class="wpb_wrapper"></div></div></div></div><div class="tdc-row" id="tdi_13_459"><div class="vc_row tdi_14_a4c wpb_row td-pb-row">
+</style><div class="wpb_wrapper"></div></div></div></div><div class="tdc-row" id="tdi_13_aeb"><div class="vc_row tdi_14_ba0 wpb_row td-pb-row">
 <style scoped="">
 
 /* custom css */
-.tdi_14_a4c,
-                .tdi_14_a4c .tdc-columns{
+.tdi_14_ba0,
+                .tdi_14_ba0 .tdc-columns{
                     min-height: 0;
-                }.tdi_14_a4c,
-				.tdi_14_a4c .tdc-columns{
+                }.tdi_14_ba0,
+				.tdi_14_ba0 .tdc-columns{
 				    display: block;
-				}.tdi_14_a4c .tdc-columns{
+				}.tdi_14_ba0 .tdc-columns{
 				    width: 100%;
 				}
-</style><div class="vc_column tdi_16_2b2 wpb_column vc_column_container tdc-column td-pb-span12">
+</style><div class="vc_column tdi_16_fff wpb_column vc_column_container tdc-column td-pb-span12">
 <style scoped="">
 
 /* custom css */
-.tdi_16_2b2{
+.tdi_16_fff{
                     vertical-align: baseline;
-                }.tdi_16_2b2 > .wpb_wrapper,
-				.tdi_16_2b2 > .wpb_wrapper > .tdc-elements{
+                }.tdi_16_fff > .wpb_wrapper,
+				.tdi_16_fff > .wpb_wrapper > .tdc-elements{
 				    display: block;
-				}.tdi_16_2b2 > .wpb_wrapper > .tdc-elements{
+				}.tdi_16_fff > .wpb_wrapper > .tdc-elements{
 				    width: 100%;
-				}.tdi_16_2b2 > .wpb_wrapper{
+				}.tdi_16_fff > .wpb_wrapper{
 				    width: auto;
 				    height: auto;
 				}
-</style><div class="wpb_wrapper"></div></div></div></div><div class="tdc-row" id="tdi_17_761"><div class="vc_row tdi_18_336 wpb_row td-pb-row">
+</style><div class="wpb_wrapper"></div></div></div></div><div class="tdc-row" id="tdi_17_6be"><div class="vc_row tdi_18_55c wpb_row td-pb-row">
 <style scoped="">
 
 /* custom css */
-.tdi_18_336,
-                .tdi_18_336 .tdc-columns{
+.tdi_18_55c,
+                .tdi_18_55c .tdc-columns{
                     min-height: 0;
-                }.tdi_18_336,
-				.tdi_18_336 .tdc-columns{
+                }.tdi_18_55c,
+				.tdi_18_55c .tdc-columns{
 				    display: block;
-				}.tdi_18_336 .tdc-columns{
+				}.tdi_18_55c .tdc-columns{
 				    width: 100%;
 				}
-</style><div class="vc_column tdi_20_903 wpb_column vc_column_container tdc-column td-pb-span8">
+</style><div class="vc_column tdi_20_57b wpb_column vc_column_container tdc-column td-pb-span8">
 <style scoped="">
 
 /* custom css */
-.tdi_20_903{
+.tdi_20_57b{
                     vertical-align: baseline;
-                }.tdi_20_903 > .wpb_wrapper,
-				.tdi_20_903 > .wpb_wrapper > .tdc-elements{
+                }.tdi_20_57b > .wpb_wrapper,
+				.tdi_20_57b > .wpb_wrapper > .tdc-elements{
 				    display: block;
-				}.tdi_20_903 > .wpb_wrapper > .tdc-elements{
+				}.tdi_20_57b > .wpb_wrapper > .tdc-elements{
 				    width: 100%;
-				}.tdi_20_903 > .wpb_wrapper{
+				}.tdi_20_57b > .wpb_wrapper{
 				    width: auto;
 				    height: auto;
 				}
-</style><div class="wpb_wrapper"><div class="td_block_wrap td_block_12 tdi_21_9b2 td-pb-border-top td_block_template_12 td-column-2" data-td-block-uid="tdi_21_9b2">
+</style><div class="wpb_wrapper"><div class="td_block_wrap td_block_12 tdi_21_5fb td-pb-border-top td_block_template_12 td-column-2" data-td-block-uid="tdi_21_5fb">
 <style>
 .td_block_template_2.widget > ul > li,
             .td_block_template_6.widget > ul > li,
@@ -2378,18 +2378,18 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
                     display: none;
                 }
             }
-</style><script>var block_tdi_21_9b2 = new tdBlock();
-block_tdi_21_9b2.id = "tdi_21_9b2";
-block_tdi_21_9b2.atts = '{"custom_title":"In Other News","installed_post_types":"post","limit":"10","offset":"4","block_type":"td_block_12","separator":"","custom_url":"","block_template_id":"","m11_tl":"","m11_el":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","sort":"","show_modified_date":"","el_class":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m11f_title_font_header":"","m11f_title_font_title":"Article title","m11f_title_font_settings":"","m11f_title_font_family":"","m11f_title_font_size":"","m11f_title_font_line_height":"","m11f_title_font_style":"","m11f_title_font_weight":"","m11f_title_font_transform":"","m11f_title_font_spacing":"","m11f_title_":"","m11f_cat_font_title":"Article category tag","m11f_cat_font_settings":"","m11f_cat_font_family":"","m11f_cat_font_size":"","m11f_cat_font_line_height":"","m11f_cat_font_style":"","m11f_cat_font_weight":"","m11f_cat_font_transform":"","m11f_cat_font_spacing":"","m11f_cat_":"","m11f_meta_font_title":"Article meta info","m11f_meta_font_settings":"","m11f_meta_font_family":"","m11f_meta_font_size":"","m11f_meta_font_line_height":"","m11f_meta_font_style":"","m11f_meta_font_weight":"","m11f_meta_font_transform":"","m11f_meta_font_spacing":"","m11f_meta_":"","m11f_ex_font_title":"Article excerpt","m11f_ex_font_settings":"","m11f_ex_font_family":"","m11f_ex_font_size":"","m11f_ex_font_line_height":"","m11f_ex_font_style":"","m11f_ex_font_weight":"","m11f_ex_font_transform":"","m11f_ex_font_spacing":"","m11f_ex_":"","m11f_btn_font_title":"Article read more button","m11f_btn_font_settings":"","m11f_btn_font_family":"","m11f_btn_font_size":"","m11f_btn_font_line_height":"","m11f_btn_font_style":"","m11f_btn_font_weight":"","m11f_btn_font_transform":"","m11f_btn_font_spacing":"","m11f_btn_":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":2,"header_color":"","color_preset":"","border_top":"","class":"tdi_21_9b2","tdc_css_class":"tdi_21_9b2","tdc_css_class_style":"tdi_21_9b2_rand_style"}';
-block_tdi_21_9b2.td_column_number = "2";
-block_tdi_21_9b2.block_type = "td_block_12";
-block_tdi_21_9b2.post_count = "10";
-block_tdi_21_9b2.found_posts = "306";
-block_tdi_21_9b2.header_color = "";
-block_tdi_21_9b2.ajax_pagination_infinite_stop = "";
-block_tdi_21_9b2.max_num_pages = "31";
-tdBlocksArray.push(block_tdi_21_9b2);
-</script><div class="td-block-title-wrap"><h4 class="td-block-title"><span>In Other News</span></h4></div><div class="td_block_inner" id="tdi_21_9b2">
+</style><script>var block_tdi_21_5fb = new tdBlock();
+block_tdi_21_5fb.id = "tdi_21_5fb";
+block_tdi_21_5fb.atts = '{"custom_title":"In Other News","installed_post_types":"post","limit":"10","offset":"4","block_type":"td_block_12","separator":"","custom_url":"","block_template_id":"","m11_tl":"","m11_el":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","sort":"","show_modified_date":"","el_class":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m11f_title_font_header":"","m11f_title_font_title":"Article title","m11f_title_font_settings":"","m11f_title_font_family":"","m11f_title_font_size":"","m11f_title_font_line_height":"","m11f_title_font_style":"","m11f_title_font_weight":"","m11f_title_font_transform":"","m11f_title_font_spacing":"","m11f_title_":"","m11f_cat_font_title":"Article category tag","m11f_cat_font_settings":"","m11f_cat_font_family":"","m11f_cat_font_size":"","m11f_cat_font_line_height":"","m11f_cat_font_style":"","m11f_cat_font_weight":"","m11f_cat_font_transform":"","m11f_cat_font_spacing":"","m11f_cat_":"","m11f_meta_font_title":"Article meta info","m11f_meta_font_settings":"","m11f_meta_font_family":"","m11f_meta_font_size":"","m11f_meta_font_line_height":"","m11f_meta_font_style":"","m11f_meta_font_weight":"","m11f_meta_font_transform":"","m11f_meta_font_spacing":"","m11f_meta_":"","m11f_ex_font_title":"Article excerpt","m11f_ex_font_settings":"","m11f_ex_font_family":"","m11f_ex_font_size":"","m11f_ex_font_line_height":"","m11f_ex_font_style":"","m11f_ex_font_weight":"","m11f_ex_font_transform":"","m11f_ex_font_spacing":"","m11f_ex_":"","m11f_btn_font_title":"Article read more button","m11f_btn_font_settings":"","m11f_btn_font_family":"","m11f_btn_font_size":"","m11f_btn_font_line_height":"","m11f_btn_font_style":"","m11f_btn_font_weight":"","m11f_btn_font_transform":"","m11f_btn_font_spacing":"","m11f_btn_":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":2,"header_color":"","color_preset":"","border_top":"","class":"tdi_21_5fb","tdc_css_class":"tdi_21_5fb","tdc_css_class_style":"tdi_21_5fb_rand_style"}';
+block_tdi_21_5fb.td_column_number = "2";
+block_tdi_21_5fb.block_type = "td_block_12";
+block_tdi_21_5fb.post_count = "10";
+block_tdi_21_5fb.found_posts = "306";
+block_tdi_21_5fb.header_color = "";
+block_tdi_21_5fb.ajax_pagination_infinite_stop = "";
+block_tdi_21_5fb.max_num_pages = "31";
+tdBlocksArray.push(block_tdi_21_5fb);
+</script><div class="td-block-title-wrap"><h4 class="td-block-title"><span>In Other News</span></h4></div><div class="td_block_inner" id="tdi_21_5fb">
 <div class="td-block-span12">
 <div class="td_module_11 td_module_wrap td-animation-stack">
 <div class="td-module-thumb"><a class="td-image-wrap" href="https://islamicanews.com/provocative-french-cartoonist-disappointed-his-drawing-of-prophet-muhammad-resulted-in-only-one-beheading/" rel="bookmark" title="Provocative French Cartoonist Disappointed His Drawing of Prophet Muhammad Resulted in Only One Beheading"><img alt="" class="entry-thumb" data-img-url="https://islamicanews.com/files/2020/10/IN_FRENCHCARTOONIST-copy-324x235.jpg" data-type="image_tag" height="235" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAADrAQMAAAArGX0KAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAACBJREFUaN7twTEBAAAAwiD7pzbEXmAAAAAAAAAAAACQHSaOAAGSp1GBAAAAAElFTkSuQmCC" title="Provocative French Cartoonist Disappointed His Drawing of Prophet Muhammad Resulted in Only One Beheading" width="324"/></a></div>
@@ -2547,22 +2547,22 @@ In spite of damning evidence and lying to the... </div>
 </div>
 </div>
 </div>
-</div> </div></div> </div></div><div class="vc_column tdi_24_9c9 wpb_column vc_column_container tdc-column td-pb-span4">
+</div> </div></div> </div></div><div class="vc_column tdi_24_c0f wpb_column vc_column_container tdc-column td-pb-span4">
 <style scoped="">
 
 /* custom css */
-.tdi_24_9c9{
+.tdi_24_c0f{
                     vertical-align: baseline;
-                }.tdi_24_9c9 > .wpb_wrapper,
-				.tdi_24_9c9 > .wpb_wrapper > .tdc-elements{
+                }.tdi_24_c0f > .wpb_wrapper,
+				.tdi_24_c0f > .wpb_wrapper > .tdc-elements{
 				    display: block;
-				}.tdi_24_9c9 > .wpb_wrapper > .tdc-elements{
+				}.tdi_24_c0f > .wpb_wrapper > .tdc-elements{
 				    width: 100%;
-				}.tdi_24_9c9 > .wpb_wrapper{
+				}.tdi_24_c0f > .wpb_wrapper{
 				    width: auto;
 				    height: auto;
 				}
-</style><div class="wpb_wrapper"><div class="wpb_wrapper td_block_wrap vc_widget_sidebar tdi_26_60c"><div class="td_block_wrap td_block_instagram td_block_widget tdi_27_42b td-pb-border-top td_block_template_12" data-td-block-uid="tdi_27_42b">
+</style><div class="wpb_wrapper"><div class="wpb_wrapper td_block_wrap vc_widget_sidebar tdi_26_6f0"><div class="td_block_wrap td_block_instagram td_block_widget tdi_27_cb6 td-pb-border-top td_block_template_12" data-td-block-uid="tdi_27_cb6">
 <style>
 /* custom css */
 .td-instagram-element{
@@ -2711,7 +2711,7 @@ In spite of damning evidence and lying to the... </div>
                     max-width: 100%;
                     display: block;
                     margin-right: 80px;
-                }div.tdi_27_42b .td-instagram-element:hover:before{
+                }div.tdi_27_cb6 .td-instagram-element:hover:before{
                     opacity: 0;
                 }@media (max-width: 767px) {    
                     .td-images-on-row-6 .td-instagram-element {
@@ -2739,7 +2739,7 @@ In spite of damning evidence and lying to the... </div>
                          margin-right: 0;
                     }
                  }
-</style><div class="td-block-title-wrap"></div><div class="td-instagram-wrap td_block_inner td-column-1" id="tdi_27_42b">
+</style><div class="td-block-title-wrap"></div><div class="td-instagram-wrap td_block_inner td-column-1" id="tdi_27_cb6">
 <div class="td-instagram-header">
 <div class="td-instagram-profile-image">
 <div class="td-instagram-profile-image-elem" style="background-image: url(https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/s150x150/43322033_308033566686826_8172040974248181760_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&amp;_nc_ohc=8dstrP0H6mQAX808YLL&amp;oh=0b3ecb94817902d690aab993679048b6&amp;oe=5EFD9177)"></div>
@@ -2795,11 +2795,11 @@ SUBSCRIBE </button>
 </form>
 </aside><aside class="td_block_template_12 widget top-posts-3 widget_top-posts" id="top-posts-3"><h4 class="td-block-title"><span>TRENDING NOW</span></h4><ul class="widgets-list-layout no-grav">
 <li>
-<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/muslim-scientists-clone-hamza-yusuf-to-meet-busy-islamic-conference-schedule/" title="Muslim Scientists Clone Hamza Yusuf To Meet Busy Islamic Conference Schedule">
-<img alt="Muslim Scientists Clone Hamza Yusuf To Meet Busy Islamic Conference Schedule" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="100" src="https://i2.wp.com/islamicanews.com/files/2020/01/Screen-Shot-2020-01-14-at-6.46.08-PM.png?resize=100%2C100&amp;ssl=1" width="100"/>
+<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/imam-leaves-live-streaming-on-after-sermon/" title="Imam Leaves Live Streaming On After Sermon">
+<img alt="Imam Leaves Live Streaming On After Sermon" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="100" src="https://i2.wp.com/islamicanews.com/files/2020/04/IN_WEBCAM.jpg?resize=100%2C100&amp;ssl=1" width="100"/>
 </a>
 <div class="widgets-list-layout-links">
-<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/muslim-scientists-clone-hamza-yusuf-to-meet-busy-islamic-conference-schedule/" title="Muslim Scientists Clone Hamza Yusuf To Meet Busy Islamic Conference Schedule">Muslim Scientists Clone Hamza Yusuf To Meet Busy Islamic Conference Schedule</a>
+<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/imam-leaves-live-streaming-on-after-sermon/" title="Imam Leaves Live Streaming On After Sermon">Imam Leaves Live Streaming On After Sermon</a>
 </div>
 </li>
 <li>
@@ -2811,31 +2811,31 @@ SUBSCRIBE </button>
 </div>
 </li>
 <li>
-<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/to-attract-younger-demographic-mosque-adds-giant-slide-to-minaret/" title="To Attract Younger Demographic, Mosque Adds Giant Slide To Minaret">
-<img alt="To Attract Younger Demographic, Mosque Adds Giant Slide To Minaret" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="100" src="https://i0.wp.com/islamicanews.com/files/2020/01/IN_FUNSLIDE2.jpg?resize=100%2C100&amp;ssl=1" width="100"/>
+<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/obama-prepares-live-gitmo-prisoner-execution/" title="Obama Prepares For Live Gitmo Prisoner Execution">
+<img alt="Obama Prepares For Live Gitmo Prisoner Execution" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="100" src="https://i0.wp.com/islamicanews.com/files/2014/09/obamacution.jpg?resize=100%2C100&amp;ssl=1" width="100"/>
 </a>
 <div class="widgets-list-layout-links">
-<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/to-attract-younger-demographic-mosque-adds-giant-slide-to-minaret/" title="To Attract Younger Demographic, Mosque Adds Giant Slide To Minaret">To Attract Younger Demographic, Mosque Adds Giant Slide To Minaret</a>
+<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/obama-prepares-live-gitmo-prisoner-execution/" title="Obama Prepares For Live Gitmo Prisoner Execution">Obama Prepares For Live Gitmo Prisoner Execution</a>
 </div>
 </li>
 <li>
-<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/man-facing-midlife-crisis-buys-red-toyota-camry/" title="Man Facing Midlife Crisis Buys Red Toyota Camry">
-<img alt="Man Facing Midlife Crisis Buys Red Toyota Camry" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="100" src="https://i2.wp.com/islamicanews.com/files/2014/05/2007-Toyota-Camry-Hybrid-2.jpg?resize=100%2C100&amp;ssl=1" width="100"/>
+<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/determined-to-avoid-any-more-leg-injuries-derrick-rose-severs-both-limbs/" title="Determined to Avoid Any More Leg Injuries, Derrick Rose Severs Both Limbs">
+<img alt="Determined to Avoid Any More Leg Injuries, Derrick Rose Severs Both Limbs" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="100" src="https://i1.wp.com/islamicanews.com/files/2015/04/In_roselegs.jpg?resize=100%2C100&amp;ssl=1" width="100"/>
 </a>
 <div class="widgets-list-layout-links">
-<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/man-facing-midlife-crisis-buys-red-toyota-camry/" title="Man Facing Midlife Crisis Buys Red Toyota Camry">Man Facing Midlife Crisis Buys Red Toyota Camry</a>
+<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/determined-to-avoid-any-more-leg-injuries-derrick-rose-severs-both-limbs/" title="Determined to Avoid Any More Leg Injuries, Derrick Rose Severs Both Limbs">Determined to Avoid Any More Leg Injuries, Derrick Rose Severs Both Limbs</a>
 </div>
 </li>
 <li>
-<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/terrorists-claim-responsibility-messy-apartment/" title="Terrorists Claim Responsibility for Messy Apartment">
-<img alt="Terrorists Claim Responsibility for Messy Apartment" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="100" src="https://i0.wp.com/islamicanews.com/files/2014/06/messyapt.jpg?resize=100%2C100&amp;ssl=1" width="100"/>
+<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/mexican-emoji-clearly-becoming-radicalized/" title="Mexican Emoji Clearly Becoming More ‘Radicalized’">
+<img alt="Mexican Emoji Clearly Becoming More ‘Radicalized’" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="100" src="https://i1.wp.com/islamicanews.com/files/2015/01/in_emojradicalized.jpg?resize=100%2C100&amp;ssl=1" width="100"/>
 </a>
 <div class="widgets-list-layout-links">
-<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/terrorists-claim-responsibility-messy-apartment/" title="Terrorists Claim Responsibility for Messy Apartment">Terrorists Claim Responsibility for Messy Apartment</a>
+<a class="bump-view" data-bump-view="tp" href="https://islamicanews.com/mexican-emoji-clearly-becoming-radicalized/" title="Mexican Emoji Clearly Becoming More ‘Radicalized’">Mexican Emoji Clearly Becoming More ‘Radicalized’</a>
 </div>
 </li>
 </ul>
-</aside><div class="td_block_wrap td_block_7 td_block_widget tdi_28_f41 td-pb-border-top td_block_template_12 td-column-1 td_block_padding" data-td-block-uid="tdi_28_f41">
+</aside><div class="td_block_wrap td_block_7 td_block_widget tdi_28_00b td-pb-border-top td_block_template_12 td-column-1 td_block_padding" data-td-block-uid="tdi_28_00b">
 <style>
 .td_block_template_2.widget > ul > li,
             .td_block_template_6.widget > ul > li,
@@ -3119,18 +3119,18 @@ SUBSCRIBE </button>
                     display: none;
                 }
             }
-</style><script>var block_tdi_28_f41 = new tdBlock();
-block_tdi_28_f41.id = "tdi_28_f41";
-block_tdi_28_f41.atts = '{"custom_title":"HALL OF FAME","custom_url":"","block_template_id":"","header_text_color":"#","accent_text_color":"#","button_text":"","button_color":"#","m6_tl":"","limit":"10","offset":"","el_class":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"popular","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","class":"td_block_widget tdi_28_f41","block_type":"td_block_7","separator":"","show_modified_date":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m6f_title_font_header":"","m6f_title_font_title":"Article title","m6f_title_font_settings":"","m6f_title_font_family":"","m6f_title_font_size":"","m6f_title_font_line_height":"","m6f_title_font_style":"","m6f_title_font_weight":"","m6f_title_font_transform":"","m6f_title_font_spacing":"","m6f_title_":"","m6f_cat_font_title":"Article category tag","m6f_cat_font_settings":"","m6f_cat_font_family":"","m6f_cat_font_size":"","m6f_cat_font_line_height":"","m6f_cat_font_style":"","m6f_cat_font_weight":"","m6f_cat_font_transform":"","m6f_cat_font_spacing":"","m6f_cat_":"","m6f_meta_font_title":"Article meta info","m6f_meta_font_settings":"","m6f_meta_font_family":"","m6f_meta_font_size":"","m6f_meta_font_line_height":"","m6f_meta_font_style":"","m6f_meta_font_weight":"","m6f_meta_font_transform":"","m6f_meta_font_spacing":"","m6f_meta_":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","tdc_css_class":"tdi_28_f41","tdc_css_class_style":"tdi_28_f41_rand_style"}';
-block_tdi_28_f41.td_column_number = "1";
-block_tdi_28_f41.block_type = "td_block_7";
-block_tdi_28_f41.post_count = "10";
-block_tdi_28_f41.found_posts = "306";
-block_tdi_28_f41.header_color = "";
-block_tdi_28_f41.ajax_pagination_infinite_stop = "";
-block_tdi_28_f41.max_num_pages = "31";
-tdBlocksArray.push(block_tdi_28_f41);
-</script><div class="td-block-title-wrap"><h4 class="td-block-title"><span>HALL OF FAME</span></h4></div><div class="td_block_inner" id="tdi_28_f41">
+</style><script>var block_tdi_28_00b = new tdBlock();
+block_tdi_28_00b.id = "tdi_28_00b";
+block_tdi_28_00b.atts = '{"custom_title":"HALL OF FAME","custom_url":"","block_template_id":"","header_text_color":"#","accent_text_color":"#","button_text":"","button_color":"#","m6_tl":"","limit":"10","offset":"","el_class":"","post_ids":"","category_id":"","category_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","sort":"popular","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","ajax_pagination":"","ajax_pagination_infinite_stop":"","class":"td_block_widget tdi_28_00b","block_type":"td_block_7","separator":"","show_modified_date":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m6f_title_font_header":"","m6f_title_font_title":"Article title","m6f_title_font_settings":"","m6f_title_font_family":"","m6f_title_font_size":"","m6f_title_font_line_height":"","m6f_title_font_style":"","m6f_title_font_weight":"","m6f_title_font_transform":"","m6f_title_font_spacing":"","m6f_title_":"","m6f_cat_font_title":"Article category tag","m6f_cat_font_settings":"","m6f_cat_font_family":"","m6f_cat_font_size":"","m6f_cat_font_line_height":"","m6f_cat_font_style":"","m6f_cat_font_weight":"","m6f_cat_font_transform":"","m6f_cat_font_spacing":"","m6f_cat_":"","m6f_meta_font_title":"Article meta info","m6f_meta_font_settings":"","m6f_meta_font_family":"","m6f_meta_font_size":"","m6f_meta_font_line_height":"","m6f_meta_font_style":"","m6f_meta_font_weight":"","m6f_meta_font_transform":"","m6f_meta_font_spacing":"","m6f_meta_":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","tdc_css_class":"tdi_28_00b","tdc_css_class_style":"tdi_28_00b_rand_style"}';
+block_tdi_28_00b.td_column_number = "1";
+block_tdi_28_00b.block_type = "td_block_7";
+block_tdi_28_00b.post_count = "10";
+block_tdi_28_00b.found_posts = "306";
+block_tdi_28_00b.header_color = "";
+block_tdi_28_00b.ajax_pagination_infinite_stop = "";
+block_tdi_28_00b.max_num_pages = "31";
+tdBlocksArray.push(block_tdi_28_00b);
+</script><div class="td-block-title-wrap"><h4 class="td-block-title"><span>HALL OF FAME</span></h4></div><div class="td_block_inner" id="tdi_28_00b">
 <div class="td-block-span12">
 <div class="td_module_6 td_module_wrap td-animation-stack">
 <div class="td-module-thumb"><a class="td-image-wrap" href="https://islamicanews.com/10-steps-getting-second-wife/" rel="bookmark" title="10 Steps to Getting a Second Wife"><img alt="" class="entry-thumb" data-img-url="https://islamicanews.com/files/2014/05/secondwife-1-100x70.gif" data-type="image_tag" height="70" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABGAQMAAAAASKMqAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABBJREFUKM9jGAWjYBQMKwAAA9QAAQWBn6cAAAAASUVORK5CYII=" title="10 Steps to Getting a Second Wife" width="100"/></a></div>
@@ -3299,7 +3299,7 @@ tdBlocksArray.push(block_tdi_28_f41);
 Follow us on Instagram <a class="td-footer-instagram-user-link" href="https://www.instagram.com/islamicanews" target="_blank">@islamicanews</a>
 </h4>
 </div>
-<div class="td_block_wrap td_block_instagram tdi_29_977 td-pb-border-top td_block_template_12" data-td-block-uid="tdi_29_977">
+<div class="td_block_wrap td_block_instagram tdi_29_b0e td-pb-border-top td_block_template_12" data-td-block-uid="tdi_29_b0e">
 <style>
 /* custom css */
 .td-instagram-element{
@@ -3448,7 +3448,7 @@ Follow us on Instagram <a class="td-footer-instagram-user-link" href="https://ww
                     max-width: 100%;
                     display: block;
                     margin-right: 80px;
-                }div.tdi_29_977 .td-instagram-element:hover:before{
+                }div.tdi_29_b0e .td-instagram-element:hover:before{
                     opacity: 0;
                 }@media (max-width: 767px) {    
                     .td-images-on-row-6 .td-instagram-element {
@@ -3476,7 +3476,7 @@ Follow us on Instagram <a class="td-footer-instagram-user-link" href="https://ww
                          margin-right: 0;
                     }
                  }
-</style><div class="td-block-title-wrap"></div><div class="td-instagram-wrap td_block_inner td-column-1" id="tdi_29_977">
+</style><div class="td-block-title-wrap"></div><div class="td-instagram-wrap td_block_inner td-column-1" id="tdi_29_b0e">
 <div class="td-instagram-main td-images-on-row-3 td-image-gap-2">
 <div class="td-instagram-element">
 <a href="https://www.instagram.com/p/CA3aDWJgiOv" target="_blank">
@@ -3500,7 +3500,7 @@ Follow us on Instagram <a class="td-footer-instagram-user-link" href="https://ww
 <div class="td-footer-wrapper td-footer-container td-container-wrap td-footer-template-14">
 <div class="td-container td-footer-bottom-full">
 <div class="td-pb-row">
-<div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://islamicanews.com/"><img alt="Islamica News" src="https://islamicanews.com/files/2011/11/islamica-logo-white.png" title="Islamica News"/></a></aside></div><div class="td-pb-span5"><aside class="footer-text-wrap"><div class="block-title"><span>ABOUT US</span></div>Islamica News is a comedic, satirical publication. Content, characters and events depicted on this site are fictitious and any similarity to actual persons, living or dead, is purely coincidental.<div class="footer-email-wrap">Contact us: <a href="/cdn-cgi/l/email-protection#81e4e5e8f5eef3c1e8f2ede0ece8e2e0efe4f6f2afe2eeec"><span class="__cf_email__" data-cfemail="bcd9d8d5c8d3cefcd5cfd0ddd1d5dfddd2d9cbcf92dfd3d1">[email protected]</span></a></div></aside></div><div class="td-pb-span4"><aside class="footer-social-wrap td-social-style-2"><div class="block-title"><span>FOLLOW US</span></div>
+<div class="td-pb-span3"><aside class="footer-logo-wrap"><a href="https://islamicanews.com/"><img alt="Islamica News" src="https://islamicanews.com/files/2011/11/islamica-logo-white.png" title="Islamica News"/></a></aside></div><div class="td-pb-span5"><aside class="footer-text-wrap"><div class="block-title"><span>ABOUT US</span></div>Islamica News is a comedic, satirical publication. Content, characters and events depicted on this site are fictitious and any similarity to actual persons, living or dead, is purely coincidental.<div class="footer-email-wrap">Contact us: <a href="/cdn-cgi/l/email-protection#3c59585548534e7c554f505d51555f5d52594b4f125f5351"><span class="__cf_email__" data-cfemail="5633323f223924163f253a373b3f3537383321257835393b">[email protected]</span></a></div></aside></div><div class="td-pb-span4"><aside class="footer-social-wrap td-social-style-2"><div class="block-title"><span>FOLLOW US</span></div>
 <span class="td-social-icon-wrap">
 <a href="https://www.facebook.com/islamicanews" target="_blank" title="Facebook">
 <i class="td-icon-font td-icon-facebook"></i>
@@ -3563,7 +3563,7 @@ window.lodash = _.noConflict();
 <script id="wp-api-fetch-js" src="https://islamicanews.com/wp-includes/js/dist/api-fetch.min.js?ver=4dec825c071b87c57f687eb90f7c23c3" type="text/javascript"></script>
 <script id="wp-api-fetch-js-after" type="text/javascript">
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://islamicanews.com/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "5ab197c6af" );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "b65db436c7" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "https://islamicanews.com/wp-admin/admin-ajax.php?action=rest-nonce";
@@ -3588,7 +3588,7 @@ var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","c
 <script id="thickbox-js" src="https://islamicanews.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105" type="text/javascript"></script>
 <script>
 </script>
-<script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script defer="" src="https://stats.wp.com/e-202112.js"></script>
 <script>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:9.5',blog:'65977713',post:'1142932',tz:'-5',srv:'islamicanews.com'} ]);

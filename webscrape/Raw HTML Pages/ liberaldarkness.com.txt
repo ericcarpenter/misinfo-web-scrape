@@ -93,7 +93,7 @@ var ajax_login_object = {"ajaxurl":"http:\/\/liberaldarkness.com\/wp-admin\/admi
 					
 					data.action = 'revslider_ajax_call_front';
 					data.client_action = 'get_slider_html';
-					data.token = '4902df514d';
+					data.token = 'dd925d1186';
 					data.type = obj.type;
 					data.id = obj.id;
 					data.aspectratio = obj.aspectratio;
@@ -399,7 +399,7 @@ table.wikitable > caption {
 <script src="http://liberaldarkness.com/wp-content/themes/NativeChurch/plugins/flexslider/js/jquery.flexslider.js?ver=2.4.3" type="text/javascript"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var upcoming_data = {"c_time":"1615961161"};
+var upcoming_data = {"c_time":"1616866728"};
 /* ]]> */
 </script>
 <script src="http://liberaldarkness.com/wp-content/themes/NativeChurch/plugins/countdown/js/jquery.countdown.min.js?ver=2.4.3" type="text/javascript"></script>

@@ -58,7 +58,7 @@ window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/r
 <script src="https://www.icr.org/sites/default/files/js/js_-C69AbQr3k_jPxPTf4T6hV4esAj0wG2aMcnTNt9Oc_A.js" type="text/javascript"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"icr_newsroom","theme_token":"EbRpwHcN2qfXcEdvKupoN7ICdOgDw6FvewMdFKS6jRM","js":{"sites\/all\/modules\/responsive_menu\/js\/responsive_menu.config.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.12.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/mmenu\/dist\/mmenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/ICR_Newsroom\/scripts\/jquery.browser.js":1,"sites\/all\/themes\/ICR_Newsroom\/scripts\/jquery.cycle.lite.js":1,"sites\/all\/themes\/ICR_Newsroom\/scripts\/custom.js":1,"sites\/all\/themes\/ICR_Newsroom\/bootstrap\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/710ad22887adae6222bf3de4407461ac.css":1,"sites\/all\/libraries\/mmenu\/dist\/mmenu.css":1,"0":1,"sites\/all\/modules\/responsive_menu\/css\/responsive_menu.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/ICR_Newsroom\/css\/global.base.css":1,"sites\/all\/themes\/ICR_Newsroom\/fa-4.7\/css\/font-awesome.min.css":1,"sites\/all\/themes\/ICR_Newsroom\/css\/global.styles.css":1,"sites\/all\/themes\/ICR_Newsroom\/css\/print.css":1,"public:\/\/adaptivetheme\/icr_newsroom_files\/icr_newsroom.responsive.layout.css":1,"public:\/\/adaptivetheme\/icr_newsroom_files\/icr_newsroom.responsive.styles.css":1,"public:\/\/adaptivetheme\/icr_newsroom_files\/icr_newsroom.lt-ie9.layout.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/search\/node":true},"responsive_menu":{"position":"left","theme":"theme-dark","breakpoint":false,"superfish":{"delay":"500","speed":"50","speedOut":"50"}},"adaptivetheme":{"icr_newsroom":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1100px)","tablet_landscape":"only screen and (min-width:960px) and (max-width:1099px)","tablet_portrait":"only screen and (min-width:768px) and (max-width:959px)","smalltouch_landscape":"only screen and (min-width::576px) and (max-width:767px)","smalltouch_portrait":"only screen and (max-width:575px)"}}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"icr_newsroom","theme_token":"84Dp_IzvTP13i1oXqxHQ5WzoLo8okhVaw3T6Me0ATzo","js":{"sites\/all\/modules\/responsive_menu\/js\/responsive_menu.config.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.12.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/mmenu\/dist\/mmenu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/ICR_Newsroom\/scripts\/jquery.browser.js":1,"sites\/all\/themes\/ICR_Newsroom\/scripts\/jquery.cycle.lite.js":1,"sites\/all\/themes\/ICR_Newsroom\/scripts\/custom.js":1,"sites\/all\/themes\/ICR_Newsroom\/bootstrap\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/710ad22887adae6222bf3de4407461ac.css":1,"sites\/all\/libraries\/mmenu\/dist\/mmenu.css":1,"0":1,"sites\/all\/modules\/responsive_menu\/css\/responsive_menu.css":1,"sites\/all\/modules\/addtoany\/addtoany.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/ICR_Newsroom\/css\/global.base.css":1,"sites\/all\/themes\/ICR_Newsroom\/fa-4.7\/css\/font-awesome.min.css":1,"sites\/all\/themes\/ICR_Newsroom\/css\/global.styles.css":1,"sites\/all\/themes\/ICR_Newsroom\/css\/print.css":1,"public:\/\/adaptivetheme\/icr_newsroom_files\/icr_newsroom.responsive.layout.css":1,"public:\/\/adaptivetheme\/icr_newsroom_files\/icr_newsroom.responsive.styles.css":1,"public:\/\/adaptivetheme\/icr_newsroom_files\/icr_newsroom.lt-ie9.layout.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/search\/node":true},"responsive_menu":{"position":"left","theme":"theme-dark","breakpoint":false,"superfish":{"delay":"500","speed":"50","speedOut":"50"}},"adaptivetheme":{"icr_newsroom":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1100px)","tablet_landscape":"only screen and (min-width:960px) and (max-width:1099px)","tablet_portrait":"only screen and (min-width:768px) and (max-width:959px)","smalltouch_landscape":"only screen and (min-width::576px) and (max-width:767px)","smalltouch_portrait":"only screen and (max-width:575px)"}}}});
 //--><!]]>
 </script>
 <!--[if lt IE 9]>
@@ -215,12 +215,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="panel-pane pane-block pane-jonah-big-article no-title block">
 <div class="block-inner clearfix">
 <div class="block-content">
-<div class="big-article"><a href="/article/12729/">
-<img src="/i/Main%20Stage%20-%201400x1050/Mammoth_DNA_Oldest_1400x1050.jpg"/></a>
+<div class="big-article"><a href="/article/12764/">
+<img src="/i/Main%20Stage%20-%201400x1050/Flood_Amazon_Sea_1400x1050.jpg"/></a>
 <div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
-<a href="/article/mammoth-dna-oldest-ever-found/"><div class="article-title">Mammoth DNA: The Oldest Ever Found?</div></a>
-<div class="article-preview">Scientists have sequenced small amounts of DNA from the teeth of two Siberian mammoths said to have lived more than a million years ago.<sup>1,2</sup> The discovery has set an official record for the oldest DNA ever recovered,...</div>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=218"><span class="link-color">JAKE HEBERT, PH.D.</span></a></div>
+<a href="/article/flood-solves-mystery-of-amazon-sea/"><div class="article-title">Flood Solves Mystery of Amazon Sea</div></a>
+<div class="article-preview">In the past 15 years, it‚Äôs been determined that a vast ocean once covered the western Amazon drainage basin.<sup>1</sup> However, studies of the Miocene fossils reveal a conflicting story.<sup>1</sup> Fossils are found...</div>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176"><span class="link-color">TIM CLAREY, PH.D.</span></a></div>
 </div> <!-- big-article -->
 </div>
 </div>
@@ -238,13 +238,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="panel-pane pane-block pane-jonah-article-one no-title block">
 <div class="block-inner clearfix">
 <div class="block-content">
-<div class="small-article"><a href="/article/12673/">
-<img src="/i/articles/af/Main%20Stage%20-%201400x1050/texas_sized_spider.jpg"/></a>
-<div class="article-type"><a href="/aaf/">ACTS &amp; FACTS</a></div>
-<a href="/article/a-texas-size-spider-mystery/"><div class="article-title">A Texas-Size Spider Mystery</div></a>
+<div class="small-article"><a href="/article/12676/">
+<img src="/i/articles/af/Main%20Stage%20-%201400x1050/do_unpersuaded_have_proof.jpg"/></a>
+<div class="article-type">APOLOGETICS</div>
+<a href="/article/do-the-unpersuaded-have-enough-proof/"><div class="article-title">Do the Unpersuaded Have Enough Proof?</div></a>
 <div class="article-preview">
-	The delightfully creepy spider belongs to a class called Arachnidaówhich is distinct from the ìbugî class Insecta. Not surprisingly, according to the fossil record, spiders have always been spiders with...</div>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=32"><span class="link-color">FRANK SHERWIN, M.A.</span></a></div>
+	At a local Bible conference, a respected seminary professor unintentionally contradicted the apostle Paul. During the Q&amp;A session, he opined that ‚Äúyou cannot prove the existence of God to anyone because you must...</div>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=193"><span class="link-color">JAMES J. S. JOHNSON, J.D., TH.D.</span></a></div>
 </div> <!-- small-article -->
 </div>
 </div>
@@ -256,10 +256,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="panel-pane pane-block pane-jonah-headline-one no-title block">
 <div class="block-inner clearfix">
 <div class="block-content">
-<div class="headline-article small-article"><a href="/article/12679/">
+<div class="headline-article small-article"><a href="/article/12675/">
 <div class="article-type"><a href="/aaf/">ACTS &amp; FACTS</a></div>
-<a href="/article/creation-kids-human-hands/"><div class="article-title">Creation Kids: Human Hands</div></a>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=35"><span class="link-color"> VARIOUS AUTHORS</span></a></div>
+<a href="/article/gunnison-black-canyon-flood-solves-mysterious-time/"><div class="article-title">Gunnison's Black Canyon: The Flood Solves Mysterious Missing Time</div></a>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=35"><span class="link-color"> VARIOUS AUTHORS</span></a></div>
 </a></div> <!-- headline-article -->
 </div>
 </div>
@@ -267,10 +267,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="panel-separator"></div><div class="panel-pane pane-block pane-jonah-headline-two no-title block">
 <div class="block-inner clearfix">
 <div class="block-content">
-<div class="headline-article small-article"><a href="/article/12686/">
+<div class="headline-article small-article"><a href="/article/12732/">
 <div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
-<a href="/article/big-fish-fossil-recalls-big-flop/"><div class="article-title">Big Fish Fossil Recalls Big Flop</div></a>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=201"><span class="link-color">BRIAN THOMAS, PH.D.</span></a></div>
+<a href="/article/human-high-altitude-habitation-adaptive-design/"><div class="article-title">Human High-Altitude Habitation Reveals Adaptive Design</div></a>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207"><span class="link-color">JEFFREY P. TOMKINS, PH.D.</span></a></div>
 </a></div> <!-- headline-article -->
 </div>
 </div>
@@ -278,10 +278,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="panel-separator"></div><div class="panel-pane pane-block pane-jonah-headline-three no-title block">
 <div class="block-inner clearfix">
 <div class="block-content">
-<div class="headline-article small-article"><a href="/article/12685/">
+<div class="headline-article small-article"><a href="/article/12730/">
 <div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
-<a href="/article/destruction-of-plants-fits-flood-narrative/"><div class="article-title">Destruction of Plants Fits Flood Narrative</div></a>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176"><span class="link-color">TIM CLAREY, PH.D.</span></a></div>
+<a href="/article/the-pope-the-flood-and-global-warming/"><div class="article-title">The Pope, the Flood, and Global Warming</div></a>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=218"><span class="link-color">JAKE HEBERT, PH.D.</span></a></div>
 </a></div> <!-- headline-article -->
 </div>
 </div>
@@ -289,10 +289,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="panel-separator"></div><div class="panel-pane pane-block pane-jonah-headline-four no-title block">
 <div class="block-inner clearfix">
 <div class="block-content">
-<div class="headline-article small-article"><a href="/article/12672/">
+<div class="headline-article small-article"><a href="/article/12674/">
 <div class="article-type"><a href="/aaf/">ACTS &amp; FACTS</a></div>
-<a href="/article/the-fossils-still-say-no-fins-to-feet-transition/"><div class="article-title">The Fossils Still Say No: The Fins-to-Feet Transition</div></a>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207"><span class="link-color">JEFFREY P. TOMKINS, PH.D.</span></a></div>
+<a href="/article/do-we-see-complex-design-in-mosquito-eggs/"><div class="article-title">Do We See Complex Design in Mosquito Eggs?</div></a>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=246"><span class="link-color">SCOTT ARLEDGE</span></a></div>
 </a></div> <!-- headline-article -->
 </div>
 </div>
@@ -300,10 +300,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="panel-separator"></div><div class="panel-pane pane-block pane-jonah-headline-five no-title block">
 <div class="block-inner clearfix">
 <div class="block-content">
-<div class="headline-article small-article"><a href="/article/12671/">
-<div class="article-type">RESEARCH</div>
-<a href="/article/largest-canyons-were-formed-by-the-receding-flood/"><div class="article-title">Largest Canyons Were Formed by the Receding Flood</div></a>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176"><span class="link-color">TIM CLAREY, PH.D.</span></a></div>
+<div class="headline-article small-article"><a href="/article/12729/">
+<div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
+<a href="/article/mammoth-dna-oldest-ever-found/"><div class="article-title">Mammoth DNA: The Oldest Ever Found?</div></a>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=218"><span class="link-color">JAKE HEBERT, PH.D.</span></a></div>
 </a></div> <!-- headline-article -->
 </div>
 </div>
@@ -328,8 +328,8 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="article-type"><a href="/aaf/">ACTS &amp; FACTS</a></div>
 <a href="/article/remembering-life-and-legacy-dr-henry-m-morris-iii/"><div class="article-title">Remembering the Life and Legacy of Dr. Henry M. Morris III</div></a>
 <div class="article-preview">
-	The Institute for Creation Researchís CEO, Dr. Henry M. Morris III, went to be with his Lord on December 12, 2020. After years of faithful service, Dr. Morris, known warmly around the office as Dr. Henry, was planning...</div>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=27"><span class="link-color">STAFF WRITER</span></a></div>
+	The Institute for Creation Research‚Äôs CEO, Dr. Henry M. Morris III, went to be with his Lord on December 12, 2020. After years of faithful service, Dr. Morris, known warmly around the office as Dr. Henry, was planning...</div>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=27"><span class="link-color">STAFF WRITER</span></a></div>
 </div> <!-- small-article -->
 </div>
 </div>
@@ -344,14 +344,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div class="small-article"><a href="/article//">
 <img src="/i/articles/dop/DOP_Logo_328_116.jpg"/></a>
 <div class="article-type"><a href="/articles/type/6">DAYS OF PRAISE</a></div>
-<a href="/article/12653/"><div class="article-title">No Fear in the Days of Evil</div></a>
+<a href="/article/12662/"><div class="article-title">Reporting on the Parables</div></a>
 <div class="article-preview">
 
 
-ìWherefore should I fear in the days of evil, when the iniquity of my heels shall compass me about?î (Psalm 49:5)
-
-This enigmatic question should be a real concern to elderly unbelieversóor of unbelievers...</div>
-<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=23"><span class="link-color">HENRY M. MORRIS, PH.D.</span></a></div>
+‚ÄúAnd he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far...</div>
+<div class="article-author">BY <a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=23"><span class="link-color">HENRY M. MORRIS, PH.D.</span></a></div>
 </div> <!-- small-article -->
 </div>
 </div>
@@ -446,11 +444,44 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
             });
         }
     </script><div class="the-latest">The Latest</div>
-<div class="ajax-links"><a onclick="refreshStories([9])" onmouseover="this.style.cursor='pointer'">NEWS</a>††
-<a onclick="refreshStories([1,2,3,5,11])" onmouseover="this.style.cursor='pointer'">ACTS &amp; FACTS</a>††
+<div class="ajax-links"><a onclick="refreshStories([9])" onmouseover="this.style.cursor='pointer'">NEWS</a>¬†¬†
+<a onclick="refreshStories([1,2,3,5,11])" onmouseover="this.style.cursor='pointer'">ACTS &amp; FACTS</a>¬†¬†
 <a onclick="refreshStories([13])" onmouseover="this.style.cursor='pointer'">PODCASTS</a>
 </div>
 <div id="latest-wrap"><!-- -->
+<div class="latest-story">
+<div class="story-image">
+<a href="/article/flood-solves-mystery-of-amazon-sea"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Flood_Amazon_Sea_1400x1050.jpg"/></a>
+</div><!-- story-image -->
+<div class="story-details">
+<div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
+<a href="/article/flood-solves-mystery-of-amazon-sea/"><div class="latest-title">Flood Solves Mystery of Amazon Sea</div></a>
+<div class="latest-abstract">In the past 15 years, it‚Äôs been determined that a vast ocean once covered the western Amazon drainage basin.<sup>1</sup> However, studies of the...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
+</div><!-- story-details -->
+</div><br/>
+<div class="latest-story">
+<div class="story-image">
+<a href="/article/human-high-altitude-habitation-adaptive-design"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Human_High_Altitude_1400x1050.jpg"/></a>
+</div><!-- story-image -->
+<div class="story-details">
+<div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
+<a href="/article/human-high-altitude-habitation-adaptive-design/"><div class="latest-title">Human High-Altitude Habitation Reveals Adaptive Design</div></a>
+<div class="latest-abstract">Humans have the remarkable ability to inhabit high altitudes where living conditions are especially harsh and challenging. A new study in Genome Biology...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207">JEFFREY P. TOMKINS, PH.D.</a></div>
+</div><!-- story-details -->
+</div><br/>
+<div class="latest-story">
+<div class="story-image">
+<a href="/article/the-pope-the-flood-and-global-warming"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Pope_Flood_Global_Warming_1400x1050.jpg"/></a>
+</div><!-- story-image -->
+<div class="story-details">
+<div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
+<a href="/article/the-pope-the-flood-and-global-warming/"><div class="latest-title">The Pope, the Flood, and Global Warming</div></a>
+<div class="latest-abstract">In a new book, Pope Francis warns that a ‚Äúgreat flood‚Äù could result if civilization fails to stop global warming, and he draws an analogy between...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=218">JAKE HEBERT, PH.D.</a></div>
+</div><!-- story-details -->
+</div><br/>
 <div class="latest-story">
 <div class="story-image">
 <a href="/article/mammoth-dna-oldest-ever-found"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Mammoth_DNA_Oldest_1400x1050.jpg"/></a>
@@ -459,7 +490,7 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 <div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
 <a href="/article/mammoth-dna-oldest-ever-found/"><div class="latest-title">Mammoth DNA: The Oldest Ever Found?</div></a>
 <div class="latest-abstract">Scientists have sequenced small amounts of DNA from the teeth of two Siberian mammoths said to have lived more than a million years ago.<sup>1,2</sup>...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=218">JAKE HEBERT, PH.D.</a></div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=218">JAKE HEBERT, PH.D.</a></div>
 </div><!-- story-details -->
 </div><br/>
 <div class="latest-story">
@@ -470,7 +501,7 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 <div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
 <a href="/article/big-fish-fossil-recalls-big-flop/"><div class="latest-title">Big Fish Fossil Recalls Big Flop</div></a>
 <div class="latest-abstract">One of the most famous living fossils is back in the news. The coelacanth is an endangered deep-sea fish. Its fins fit to unique, wrist-like bones, and...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=201">BRIAN THOMAS, PH.D.</a></div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=201">BRIAN THOMAS, PH.D.</a></div>
 </div><!-- story-details -->
 </div><br/>
 <div class="latest-story">
@@ -481,7 +512,7 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 <div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
 <a href="/article/destruction-of-plants-fits-flood-narrative/"><div class="latest-title">Destruction of Plants Fits Flood Narrative</div></a>
 <div class="latest-abstract">A recent study has found that the destruction of plants preceded the destruction of many forms of animal life in the rock record.<sup>1</sup> This is exactly...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
 </div><!-- story-details -->
 </div><br/>
 <div class="latest-story">
@@ -492,7 +523,7 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 <div class="article-type"><a href="/articles/search/?f_typeID=9">NEWS</a></div>
 <a href="/article/no-evidence-t-rex-hatchlings-had-feathers/"><div class="latest-title">No Evidence T. rex Hatchlings Had Feathers</div></a>
 <div class="latest-abstract">The recent discovery of a tiny tyrannosaur jaw bone fragment and a claw has some scientists again pushing dinosaurs as birds.<sup>1</sup> But is there...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
 </div><!-- story-details -->
 </div><br/>
 <div class="latest-story">
@@ -504,7 +535,7 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 <a href="/article/inside-march-2021-acts-facts/"><div class="latest-title">Inside March 2021 Acts &amp; Facts</div></a>
 <div class="latest-abstract">
 	Why does ICR uphold the clarity of Scripture? How do we know that canyons were formed by the Genesis Flood? How do fossilized fish confirm biblical...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=27">STAFF WRITER</a></div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=27">STAFF WRITER</a></div>
 </div><!-- story-details -->
 </div><br/>
 <div class="latest-story">
@@ -515,7 +546,7 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 <div class="article-type">DAYS OF PRAISE DEVOTIONALS</div>
 <a href="/article/spring-2021/"><div class="latest-title">Spring 2021</div></a>
 <div class="latest-abstract">...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=35"> VARIOUS AUTHORS</a></div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=35"> VARIOUS AUTHORS</a></div>
 </div><!-- story-details -->
 </div><br/>
 <div class="latest-story">
@@ -525,46 +556,8 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 <div class="story-details">
 <div class="article-type"><a href="/aaf/">ACTS &amp; FACTS</a></div>
 <a href="/article/creation-kids-human-hands/"><div class="latest-title">Creation Kids: Human Hands</div></a>
-<div class="latest-abstract">Youíre never too young to be a creation scientist! Kids, discover fun facts about Godís creation with ICRís special Creation Kids learning...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=35"> VARIOUS AUTHORS</a></div>
-</div><!-- story-details -->
-</div><br/>
-<div class="latest-story">
-<div class="story-image">
-<a href="/article/dross-and-dilution"><img class="latest-story-image" src="/i/articles/af/Main%20Stage%20-%201400x1050/dross_and_dilution.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<div class="article-type"><a href="/aaf/">ACTS &amp; FACTS</a></div>
-<a href="/article/dross-and-dilution/"><div class="latest-title">Dross and Dilution</div></a>
-<div class="latest-abstract">
-	The first of seven great signs of Jesusí deity recorded in Johnís gospel is the wedding in Cana of Galilee (John 2:1-11). By the time Jesus...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=188">HENRY M. MORRIS IV</a></div>
-</div><!-- story-details -->
-</div><br/>
-<div class="latest-story">
-<div class="story-image">
-<a href="/article/do-the-unpersuaded-have-enough-proof"><img class="latest-story-image" src="/i/articles/af/Main%20Stage%20-%201400x1050/do_unpersuaded_have_proof.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<div class="article-type">APOLOGETICS</div>
-<a href="/article/do-the-unpersuaded-have-enough-proof/"><div class="latest-title">Do the Unpersuaded Have Enough Proof?</div></a>
-<div class="latest-abstract">
-	At a local Bible conference, a respected seminary professor unintentionally contradicted the apostle Paul. During the Q&amp;A session, he opined that...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=193">JAMES J. S. JOHNSON, J.D., TH.D.</a></div>
-</div><!-- story-details -->
-</div><br/>
-<div class="latest-story">
-<div class="story-image">
-<a href="/article/gunnison-black-canyon-flood-solves-mysterious-time"><img class="latest-story-image" src="/i/articles/af/Main%20Stage%20-%201400x1050/gunnisons_black_canyon.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<div class="article-type"><a href="/aaf/">ACTS &amp; FACTS</a></div>
-<a href="/article/gunnison-black-canyon-flood-solves-mysterious-time/"><div class="latest-title">Gunnison's Black Canyon: The Flood Solves Mysterious Missing...</div></a>
-<div class="latest-abstract">
-	Brian Thomas, Ph.D., and†Tim Clarey, Ph.D.
-
-	The Gunnison River winds westward from the Colorado Rocky Mountains through dry and dramatic landscapes....</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=35"> VARIOUS AUTHORS</a></div>
+<div class="latest-abstract">You‚Äôre never too young to be a creation scientist! Kids, discover fun facts about God‚Äôs creation with ICR‚Äôs special Creation Kids learning...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=35"> VARIOUS AUTHORS</a></div>
 </div><!-- story-details -->
 </div><br/>
 </div> <!-- latest-wrap -->
@@ -579,7 +572,10 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 <div class="block-inner clearfix">
 <div class="block-content">
 <h2 class="featured-event-title">Featured Event</h2>
-<div class="featured-event-block"><a href="/MarshallTX/"><img src="/i/uttac-300.jpg"/><h3>Uncovering the Truth<br/>About Creation</h3><h4>March 20-21, 2021</h4><h5>Marshall, TX</h5></a></div>
+<div>
+<strong>ICR Events Now Online!</strong>
+<p>Due to public health recommendations regarding COVID-19, we‚Äôve moved our live creation science events online. Using platforms like Zoom or Facebook, students, educators, families, and ministries can enjoy free live stream presentations with our team of scientists. Follow us on Facebook <a href="http://www.facebook.com/icrscience/" target="__blank">@ICRscience</a> ‚Äãto find out about our upcoming presentations or <a href="/virtual-classroom">click here</a> to host a private online presentation for your educational or ministry group. You can discover scientific evidence that confirms the Bible without ever leaving home. </p>
+</div>
 </div>
 </div>
 </div>
@@ -613,282 +609,113 @@ This enigmatic question should be a real concern to elderly unbelieversóor of un
 </div>
 </div><div class="block block-jonah no-title even block-count-5 block-region-content block-related-topics" id="block-jonah-related-topics">
 <!-- BEGIN _jonah_related_articles() -->
-<div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> The Earth Was Uniquely Created</span></div>
+<div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> DNA Was Created as a Reservoir for the Information of Life</span></div>
 <div class="latest-story" style="width: 100%;">
 <div class="story-image">
-<a href="/article/lone-scotland-tree-survived-deadly-elm-disease"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Elm_Disease_1400x1050.jpg"/></a>
+<a href="/article/8192"><img class="latest-story-image" src="/i/wide/scientists_refute_part2_wide.jpg"/></a>
 </div><!-- story-image -->
 <div class="story-details">
-<a href="/article/lone-scotland-tree-survived-deadly-elm-disease/"><div class="latest-title">Lone Scotland Tree Survived Deadly ìElm Diseaseî</div></a>
-<div></div><div class="latest-abstract">One lone elm tree survived a deadly ìelm disease.î
-
-Nicknamed ìEnt Treeî (alluding to arboreal heroes in J. R. R. Tolkienís...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=193">JAMES J. S. JOHNSON, J.D., TH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/secular-science-struggles-origin-earths-water"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Origin_Earths_Water_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/secular-science-struggles-origin-earths-water/"><div class="latest-title">Secular Science Struggles to Explain Origin of Earthí.,.</div></a>
+<a href="/article/8192/"><div class="latest-title">Powerhouse of Scientists Refute Evolution, Part Two</div></a>
 <div></div><div class="latest-abstract">
-	Tim Clarey, Ph.D., and†Jake Hebert, Ph.D.
-
-	Secular scientists continue to struggle to explain the origin of Earthís water. And a new study...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=35"> VARIOUS AUTHORS</a></div>
+	In 2011, 29 leading design scientists held a Biological Information symposium in which they compared the standard Darwinian explanation of origins to...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=201">BRIAN THOMAS, PH.D.</a></div>
 </div><!-- story-details -->
 </div><!-- latest-story -->
 <div class="latest-story" style="width: 100%;">
 <div class="story-image">
-<a href="/article/yellowstone-super-eruptions-declining"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Yellowstone_Super_Eruptions_1400x1050.jpg"/></a>
+<a href="/article/cells-molecular-motor-diversity-confounds"><img class="latest-story-image" src="/i/wide/motor_diversity_wide.jpg"/></a>
 </div><!-- story-image -->
 <div class="story-details">
-<a href="/article/yellowstone-super-eruptions-declining/"><div class="latest-title">Yellowstone Super-Eruptions Declining</div></a>
-<div></div><div class="latest-abstract">Recently, renewed activity has had scientists, and the general public alike, alarmed about an impending supervolcano eruption at Yellowstone.<sup>1</sup>...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> The Global Flood Is the Key to the Past</span></div>
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/deep-earthquakes-provide-insight-into-global-flood"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Deep_Earthquakes_Flood_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/deep-earthquakes-provide-insight-into-global-flood/"><div class="latest-title">Deep Earthquakes Provide Insight into Global Flood</div></a>
-<div></div><div class="latest-abstract">A new analysis of thousands of deep earthquakes has revealed several large structures at the base of the mantle.<sup>1</sup> Known as ultra-low velocity...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/a-whopper-mystery-for-nearly-20-years"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Whopper_Mystery_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/a-whopper-mystery-for-nearly-20-years/"><div class="latest-title">A Whopper Mystery for Nearly 20 Years</div></a>
-<div></div><div class="latest-abstract">Recently, Joshua Rosenfeld made a new attempt to explain an ongoing conundrum in secular geology.<sup>1</sup> Although a mystery to those holding to a...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/desperate-dinosaurs-cannibalized-global-flood"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Desperate_Dinosaurs_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/desperate-dinosaurs-cannibalized-global-flood/"><div class="latest-title">Desperate Dinosaurs Cannibalized During Global Flood</div></a>
-<div></div><div class="latest-abstract">Scientists recently discovered evidence that large theropods were possibly guilty of cannibalism.<sup>1</sup>
-
-The new study, published in PLOS ONE,...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> Oceans</span></div>
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/plethora-of-life-found-on-sea-turtle-shells"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Life_Turtle_Shells_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/plethora-of-life-found-on-sea-turtle-shells/"><div class="latest-title">Plethora of Life Found On Sea Turtle Shells</div></a>
-<div></div><div class="latest-abstract">An amazing abundance of life can be found in the strangest placesósuch as the backs of turtles. It was previously known that an array of life was...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207">JEFFREY P. TOMKINS, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/oysters-and-opportunities"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Oysters_Opportunities_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/oysters-and-opportunities/"><div class="latest-title">Oysters and Opportunities</div></a>
-<div></div><div class="latest-abstract">Under ideal circumstances, we can do a lot of good. But when circumstances handicap or restrict our potentialóin ways we cannot circumventówe...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=193">JAMES J. S. JOHNSON, J.D., TH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/how-algae-do-fine-when-tossed-at-sea"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Algae_Tossed_Sea_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/how-algae-do-fine-when-tossed-at-sea/"><div class="latest-title">How Algae Do Fine When Tossed at Sea</div></a>
-<div></div><div class="latest-abstract">How would you do if someone spun you around every few seconds all day long? Marine algae repeatedly get tossed about in coastal surf, and they cope quite...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=201">BRIAN THOMAS, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> The Flood Was Global</span></div>
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/first-land-bug-buried-in-the-flood"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/First_Land_Bug_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/first-land-bug-buried-in-the-flood/"><div class="latest-title">First Land Bug Buried in the Flood</div></a>
-<div></div><div class="latest-abstract">The Scottish island of Kerrera has produced the earliest known bug in the fossil record, a millipede.<sup>1</sup> It was found in Silurian System rocks...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/deep-earthquakes-provide-insight-into-global-flood"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Deep_Earthquakes_Flood_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/deep-earthquakes-provide-insight-into-global-flood/"><div class="latest-title">Deep Earthquakes Provide Insight into Global Flood</div></a>
-<div></div><div class="latest-abstract">A new analysis of thousands of deep earthquakes has revealed several large structures at the base of the mantle.<sup>1</sup> Known as ultra-low velocity...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/cambrian-explosion-alive-and-well"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Cambrian_Explosion_Clarey_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/cambrian-explosion-alive-and-well/"><div class="latest-title">Cambrian Explosion Alive and Well</div></a>
-<div></div><div class="latest-abstract">A new editorial in GSA Today is claiming that secular scientists should cease using the term ìCambrian Explosion.î<sup>1</sup> Itís not...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> The Miracle of Water</span></div>
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/evidence-for-young-earth-from-ocean-atmosphere"><img class="latest-story-image" src="https://dummyimage.com/328x116/DDD/000&amp;text=Creation Science Update+Article"/>
-</a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/evidence-for-young-earth-from-ocean-atmosphere/"><div class="latest-title">Evidence for a Young Earth from the Ocean and Atmosphere</div></a>
-<div></div><div class="latest-abstract">By Larry Vardiman, PhD 
-Introduction 
-The earth was created by God as the most beautiful planet in our solar system. Why? Because God is a god of beauty...</div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/where-has-all-water-gone"><img class="latest-story-image" src="https://dummyimage.com/328x116/DDD/000&amp;text=Impact+Article"/>
-</a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/where-has-all-water-gone/"><div class="latest-title">Where has All the Water Gone?</div></a>
+<a href="/article/cells-molecular-motor-diversity-confounds/"><div class="latest-title">Cells' Molecular Motor Diversity Confounds Evolution</div></a>
 <div></div><div class="latest-abstract">
-In their unrelenting attempt to find evidence for extraterrestrial life, governments have spent many billions of dollars on space probes of various kinds...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=23">HENRY M. MORRIS, PH.D.</a></div>
+	Scientists believe that the study of genes that encode the proteins for molecular motors will help solve the mysteries of evolution. However, the result...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207">JEFFREY P. TOMKINS, PH.D.</a></div>
 </div><!-- story-details -->
 </div><!-- latest-story -->
 <div class="latest-story" style="width: 100%;">
 <div class="story-image">
-<a href="/article/urge-submerge"><img class="latest-story-image" src="https://dummyimage.com/328x116/DDD/000&amp;text=Back to Genesis+Article"/>
-</a>
+<a href="/article/ancient-canaanite-dna-confirms-biblical"><img class="latest-story-image" src="/i/stage_248/canaanitedna-stage.jpg"/></a>
 </div><!-- story-image -->
 <div class="story-details">
-<a href="/article/urge-submerge/"><div class="latest-title">The Urge to Submerge</div></a>
-<div></div><div class="latest-abstract">"I must go down to the sea again--to the lonely sea and the sky." This famous poem by John Masefield, former Poet Laureate of England, was one...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=23">HENRY M. MORRIS, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> Science</span></div>
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/does-oddball-platypus-genome-reveal-its-origins"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Platypus_Genome_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/does-oddball-platypus-genome-reveal-its-origins/"><div class="latest-title">Does Oddball Platypus Genome Reveal Its Origins?</div></a>
-<div></div><div class="latest-abstract">How in the world did a creature as odd as the duck-billed platypus originate? This creature lays eggs like a reptile, has venom like a reptile, spurs like...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=201">BRIAN THOMAS, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/tree-hugging-revival"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Tree_Hugging_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/tree-hugging-revival/"><div class="latest-title">Tree Hugging Revival</div></a>
-<div></div><div class="latest-abstract">If youíve ever taken a hike, then youíve enjoyed the beauty of trees. They are blessings we should thank God for.<sup>1</sup> Trees are exhibits...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=193">JAMES J. S. JOHNSON, J.D., TH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/complex-metabolic-process-fish-startles-evolution"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Metabolic_Fish_2_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/complex-metabolic-process-fish-startles-evolution/"><div class="latest-title">Complex Metabolic Process in Fish Startles Evolutionists</div></a>
-<div></div><div class="latest-abstract">A complex metabolic process called Chaperone-Mediated-Autophagy (CMA) was thought to be a recent evolutionary development in land vertebrates as it was...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207">JEFFREY P. TOMKINS, PH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> Technology</span></div>
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/seals-help-swedes-chart-paths-of-the-seas"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Seals_Help_Swedes_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/seals-help-swedes-chart-paths-of-the-seas/"><div class="latest-title">Seals Help Swedes to Chart ëPaths of the Seasí</div></a>
-<div></div><div class="latest-abstract">Swedish researchers have recently reported some newly documented ìpaths of the seasî<sup>1,2</sup> thanks to some helpful (and high-tech) Weddell...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=193">JAMES J. S. JOHNSON, J.D., TH.D.</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/the-danger-of-tunnel-vision"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Tunnel_Vision_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/the-danger-of-tunnel-vision/"><div class="latest-title">The Danger of Tunnel Vision</div></a>
-<div></div><div class="latest-abstract">In an executive order, dated May 1, 2020, our president made this declaration:
-
-
-	I, DONALD J. TRUMP, President of the United States of America, find...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=243">REBECCA MORRIS BARBER</a></div>
-</div><!-- story-details -->
-</div><!-- latest-story -->
-<div class="latest-story" style="width: 100%;">
-<div class="story-image">
-<a href="/article/norwegians-find-viking-grave-under-house-floor"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/Viking_Grave_1400x1050.jpg"/></a>
-</div><!-- story-image -->
-<div class="story-details">
-<a href="/article/norwegians-find-viking-grave-under-house-floor/"><div class="latest-title">Norwegians Find Viking Grave Under House Floor</div></a>
-<div></div><div class="latest-abstract">In America we have the idiomatic expression ìskeletons in the closet,î but what about finding a 1,000-year-old Viking grave, literally buried...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=193">JAMES J. S. JOHNSON, J.D., TH.D.</a></div>
+<a href="/article/ancient-canaanite-dna-confirms-biblical/"><div class="latest-title">Ancient Canaanite DNA Confirms Biblical Accuracy</div></a>
+<div></div><div class="latest-abstract">
+	A recent news story emerged regarding sequencing ancient human DNA found in bones thought to be about 4,000 years old. The DNA was found in Sidon, Lebanon,...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207">JEFFREY P. TOMKINS, PH.D.</a></div>
 </div><!-- story-details -->
 </div><!-- latest-story -->
 <div class="the-latest" style="float: none; width: 100%;">More<span class="colored-no-link"> Creation Science Update</span></div>
 <div class="latest-story" style="width: 100%;">
 <div class="story-image">
-<a href="/article/your-flowers-are-listening"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/flowerscanhear-1400x1050-MainPage.jpg"/></a>
+<a href="/article/denisovan-epigenetics-reveals-human-anatomy"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/denisovandna-1400x1050-MainPage.jpg"/></a>
 </div><!-- story-image -->
 <div class="story-details">
-<a href="/article/your-flowers-are-listening/"><div class="latest-title">Your Flowers Are Listening</div></a>
+<a href="/article/denisovan-epigenetics-reveals-human-anatomy/"><div class="latest-title">Denisovan Epigenetics Reveals Human Anatomy</div></a>
 <div></div><div class="latest-abstract">
-	Botanists have known for decades that plants arenít just static entities that simply photosynthesize and reproduce. Indeed, plants read the living...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=32">FRANK SHERWIN, M.A.</a></div>
+	A recent study making the news involves the reconstruction of the facial features and anatomy of the enigmatic humans known as the Denisovan from genetic...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207">JEFFREY P. TOMKINS, PH.D.</a></div>
 </div><!-- story-details -->
 </div><!-- latest-story -->
 <div class="latest-story" style="width: 100%;">
 <div class="story-image">
-<a href="/article/mice-brains-rewire-themselves"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/mousebrainplasticity-1400x1050-MainPage.jpg"/></a>
+<a href="/article/natural-selections-dark-side-historical-revision"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/universityberkeley-1400x1050-MainPage.jpg"/></a>
 </div><!-- story-image -->
 <div class="story-details">
-<a href="/article/mice-brains-rewire-themselves/"><div class="latest-title">Mouse Brains Rewire Themselves</div></a>
+<a href="/article/natural-selections-dark-side-historical-revision/"><div class="latest-title">Natural Selection's Dark Side Prompts Historical Revision</div></a>
 <div></div><div class="latest-abstract">
-	How do you know when something has been engineered? One way to tell is to study the words used to describe its characteristic features. The Mt. Rushmore...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=203">RANDY J. GULIUZZA, P.E., M.D.</a></div>
+	An article addressing some of evolution‚Äôs difficulties was recently published in Aeon, a magazine of philosophy and culture. It was just another...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=203">RANDY J. GULIUZZA, P.E., M.D.</a></div>
 </div><!-- story-details -->
 </div><!-- latest-story -->
 <div class="latest-story" style="width: 100%;">
 <div class="story-image">
-<a href="/article/cichlid-research-genome-engineering"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/cichlidfish-1400x1050-MainPage.jpg"/></a>
+<a href="/article/homo-naledi-lucy-hips"><img class="latest-story-image" src="/i/Main%20Stage%20-%201400x1050/homonaledilucyhips-1400x1050-MainPage.jpg"/></a>
 </div><!-- story-image -->
 <div class="story-details">
-<a href="/article/cichlid-research-genome-engineering/"><div class="latest-title">Cichlid Fish Research Highlights Adaptive Genome Engineering</div></a>
+<a href="/article/homo-naledi-lucy-hips/"><div class="latest-title">Homo naledi had Lucy-Like Hips</div></a>
 <div></div><div class="latest-abstract">
-	Cichlid fish are a top biological model for the study of diversification because of their unique ability to adapt to a wide range of lake and river...</div>
-<div class="latest-author">BY:†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articlesßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=207">JEFFREY P. TOMKINS, PH.D.</a></div>
+	Hips can reveal many things about fossilized organisms, especially when it comes to mammals. They can indicate the difference between species and even...</div>
+<div class="latest-author">BY:¬†<a href="/home?search=AdvancedSearch&amp;f_keyword_all=&amp;f_context_all=any&amp;f_context_exact=any&amp;f_context_any=any&amp;f_context_without=any&amp;f_search_type=articles¬ßion=0&amp;f_constraint=both&amp;=Search&amp;module=home&amp;action=submitsearch&amp;f_authorID=176">TIM CLAREY, PH.D.</a></div>
 </div><!-- story-details -->
 </div><!-- latest-story -->
 <!-- END _jonah_related_articles() -->
 </div><div class="block block-jonah no-title odd last block-count-6 block-region-content block-products-by-author" id="block-jonah-products-by-author">
+<!-- BEGIN _jonah_products_by_author() -->
+<div class="related-products-pane">
+<div class="the-latest" style="float:none;">Shop <span class="colored-no-link">Related Products</span></div><!-- the-latest -->
+<div class="related-products">
+<div class="store-product">
+<a class="store-item-link" href="https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html" target="icr_store">
+<div class="image"><img height="50%" src="https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg" style="max-height: 140px;"/></div>
+<div class="title">The Design and Complexity of the Cell</div></a>
+<div class="price">$14.99</div>
+</div><!-- store-product -->
+<div class="store-product">
+<a class="store-item-link" href="https://store.icr.org/discover-creation-made-in-the-image-of-an.html" target="icr_store">
+<div class="image"><img height="50%" src="https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg" style="max-height: 140px;"/></div>
+<div class="title">Discover Creation: Made in the Image of an Ape?</div></a>
+<div class="price">$9.99</div>
+</div><!-- store-product -->
+<div class="store-product">
+<a class="store-item-link" href="https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html" target="icr_store">
+<div class="image"><img height="50%" src="https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg" style="max-height: 140px;"/></div>
+<div class="title">Discover Creation: Made in the Image of an Ape? - Download</div></a>
+<div class="price">$4.99</div>
+<div class="old-price"><sub>$9.99</sub></div>
+</div><!-- store-product -->
+<div class="store-product">
+<a class="store-item-link" href="https://store.icr.org/dna-battles-were-adam-eve-historical.html" target="icr_store">
+<div class="image"><img height="50%" src="https://cdn.shoplightspeed.com/shops/601440/files/8606111/file.jpg" style="max-height: 140px;"/></div>
+<div class="title">DNA Battles: Were Adam &amp; Eve Historical?</div></a>
+<div class="price">$16.95</div>
+</div><!-- store-product -->
 </div><!-- related-products -->
 </div><!-- related-products-pane --><!-- END _jonah_products_by_author -->
-</section></div> </main></div>
+</div> </div>
 <!-- !Feed Icons -->
-<!-- /end #main-content -->
+</section><!-- /end #main-content -->
 <!-- !Content Aside Region-->
 </div><!-- /end .content-inner -->
-<!-- /end #content-column -->
+</main><!-- /end #content-column -->
 <!-- !Sidebar Regions -->
 </div><!-- /end #columns -->
 <!-- !Footer -->
@@ -897,13 +724,13 @@ In their unrelenting attempt to find evidence for extraterrestrial life, governm
 <!-- !Secondary Content Region -->
 <!-- !Tertiary Content Region -->
 <div class="region region-tertiary-content"><div class="region-inner clearfix"><div class="block block-block no-title odd first last block-count-7 block-region-tertiary-content block-36" id="block-block-36"><div class="block-inner clearfix">
-<div class="block-content content"><div><nav><a href="/discover">About††Us</a><a href="/news">News</a><a href="/icr-magazines">Publications</a><a href="/video">Media</a><a href="/events">Events</a><a href="/donate">Give</a><a href="https://store.icr.org/" target="_blank">Store</a><a href="http://www.icr.edu/" target="_blank">Education</a></nav></div>
+<div class="block-content content"><div><nav><a href="/discover">About¬†¬†Us</a><a href="/news">News</a><a href="/icr-magazines">Publications</a><a href="/video">Media</a><a href="/events">Events</a><a href="/donate">Give</a><a href="https://store.icr.org/" target="_blank">Store</a><a href="http://www.icr.edu/" target="_blank">Education</a></nav></div>
 <p><em><center>As a federally recognized 501(c)(3) nonprofit ministry of the USA, all gifts to ICR are completely tax deductible to the fullest extent allowed by U.S. law.</center></em></p>
 </div>
 </div></div></div></div>
 <!-- !Footer Content Region -->
 <div class="region region-footer"><div class="region-inner clearfix"><div class="block block-block no-title odd first block-count-8 block-region-footer block-37" id="block-block-37"><div class="block-inner clearfix">
-<div class="block-content content"><div><nav><a href="/home/copyright">Use Policy</a>ï<a href="/home/privacy">Privacy Policy</a>ï<a href="/subscriptions">Subscriptions</a>ï<a href="/contact">Contact</a></nav></div>
+<div class="block-content content"><div><nav><a href="/home/copyright">Use Policy</a>‚Ä¢<a href="/home/privacy">Privacy Policy</a>‚Ä¢<a href="/subscriptions">Subscriptions</a>‚Ä¢<a href="/contact">Contact</a></nav></div>
 </div>
 </div></div><div class="block block-block no-title even block-count-9 block-region-footer block-38" id="block-block-38"><div class="block-inner clearfix">
 <div class="block-content content"><div class="footer-social">
@@ -911,7 +738,7 @@ In their unrelenting attempt to find evidence for extraterrestrial life, governm
 </div>
 </div>
 </div></div><div class="block block-block no-title odd last block-count-10 block-region-footer block-39" id="block-block-39"><div class="block-inner clearfix">
-<div class="block-content content"><p class="copyright">Content © 2020 Institute for Creation Research</p>
+<div class="block-content content"><p class="copyright">Content ¬© 2020 Institute for Creation Research</p>
 </div>
 </div></div></div></div>
 <!-- !Mobile Navigation Bar Region -->
@@ -990,7 +817,7 @@ In their unrelenting attempt to find evidence for extraterrestrial life, governm
 </div>
 </div></div></div></div> </div>
 </footer>
-
- <div class="region region-page-bottom"><div class="region-inner clearfix"><div class="off-canvas-wrapper"><div id="off-canvas"></div></div></div></div><script src="https://www.icr.org/sites/default/files/js/js_yMGMAOHjJCQyWAiBsJpRmM4SXNyvrhNEYhK_kD_j8a4.js" type="text/javascript"></script>
+</div>
+</div> <div class="region region-page-bottom"><div class="region-inner clearfix"><div class="off-canvas-wrapper"><div id="off-canvas"></div></div></div></div><script src="https://www.icr.org/sites/default/files/js/js_yMGMAOHjJCQyWAiBsJpRmM4SXNyvrhNEYhK_kD_j8a4.js" type="text/javascript"></script>
 </body>
 </html>

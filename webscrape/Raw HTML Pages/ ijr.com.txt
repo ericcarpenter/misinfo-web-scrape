@@ -20,10 +20,10 @@
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://ijr.com/feed/" rel="alternate" title="IJR » Feed" type="application/rss+xml"/>
 <link href="https://ijr.com/comments/feed/" rel="alternate" title="IJR » Comments Feed" type="application/rss+xml"/>
-<!-- This site uses the Google Analytics by MonsterInsights plugin v7.16.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.17.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script data-cfasync="false" data-no-minify="1" src="https://ijr.com/wp-content/cache/busting/1/gtm-4a7976266b21ca121b1031fd0ab6d645.js" type="text/javascript"></script>
 <script data-cfasync="false" type="text/javascript">
-				var mi_version = '7.16.2';
+				var mi_version = '7.17.0';
 				var mi_track_user = true;
 				var mi_no_track_reason = '';
 				
@@ -102,6 +102,9 @@
 										if ( typeof arguments[2] === 'object' ) {
 											hitObject = arguments[2];
 										}
+										if ( typeof arguments[5] === 'object' ) {
+											Object.assign( hitObject, arguments[5] );
+										}
 										if ( 'undefined' !== typeof (
 											arguments[1].hitType
 										) ) {
@@ -171,7 +174,6 @@
 <link href="https://ijr.com/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/css/buddypress.min.css?ver=1.5.7.3" id="bp-nouveau-css" media="screen" rel="stylesheet" type="text/css"/>
 <link data-minify="1" href="https://ijr.com/wp-content/cache/min/1/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/icons/bb-icons-c5d30f0f7e338b0801db8325e9aa00e4.css" id="bp-nouveau-icons-css" media="screen" rel="stylesheet" type="text/css"/>
 <link href="https://ijr.com/wp-content/plugins/buddyboss-platform/bp-core/css/mentions.min.css?ver=1.5.7.3" id="bp-mentions-css-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://ijr.com/wp-content/plugins/google-analytics-premium/assets/css/frontend.min.css?ver=7.16.2" id="monsterinsights-popular-posts-style-css" media="all" rel="stylesheet" type="text/css"/>
 <link data-minify="1" href="https://ijr.com/wp-content/cache/min/1/wp-content/themes/buddyboss-theme/assets/fonts/fonts-0abd9b34fb529e727e9bbf162acbaae7.css" id="buddyboss-theme-fonts-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://ijr.com/wp-content/themes/buddyboss-theme/assets/css/vendors/magnific-popup.min.css?ver=1.6.3.1" id="buddyboss-theme-magnific-popup-css-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://ijr.com/wp-content/themes/buddyboss-theme/assets/css/vendors/select2.min.css?ver=1.6.3.1" id="buddyboss-theme-select2-css-css" media="all" rel="stylesheet" type="text/css"/>
@@ -189,7 +191,7 @@
 var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/ijr.com","hash_tracking":"false","ua":"UA-30128009-1"};
 /* ]]> */
 </script>
-<script id="monsterinsights-frontend-script-js" src="https://ijr.com/wp-content/plugins/google-analytics-premium/assets/js/frontend-gtag.min.js?ver=7.16.2" type="text/javascript"></script>
+<script id="monsterinsights-frontend-script-js" src="https://ijr.com/wp-content/plugins/google-analytics-premium/assets/js/frontend-gtag.min.js?ver=7.17.0" type="text/javascript"></script>
 <script id="jquery-core-js" src="https://ijr.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
 <script id="jquery-migrate-js" src="https://ijr.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
 <script id="bp-widget-members-js" src="https://ijr.com/wp-content/plugins/buddyboss-platform/bp-core/js/widget-members.min.js?ver=1.5.7.3" type="text/javascript"></script>
@@ -203,7 +205,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 <meta content="oauth_token:01110011 01100101 01100011 01110010 01100101 01110100|ver:2.9.5|site:9968|unit:5573|width:640|height:360|autoplay:0|aspect:1|user_id:11278|default_channel:122|visual:1|ovr_def:1|async_embed:1|player:12036|unit_width:480|unit_height:270|video_image:|widget:1|channels:Array|google_seo:0" name="BridPlugin"/>
 <script>var ajaxurl = 'https://ijr.com/wp-admin/admin-ajax.php';</script>
 <meta content="189885532970" property="fb:pages"/>
-<meta content="https://ijr.com/gas-prices-30-november-expert-says-biden-wants-them-even-higher/?ia_markup=1" property="ia:markup_url"/>
+<meta content="https://ijr.com/capitol-rioters-reportedly-made-donations-to-trump/?ia_markup=1" property="ia:markup_url"/>
 <!-- HFCM by 99 Robots - Snippet # 1: Facebook -->
 <meta content="189885532970" property="fb:pages"/>
 <!-- /end HFCM by 99 Robots -->
@@ -380,257 +382,18 @@ body.home-page header.entry-header {
 <main class="site-main" id="main">
 <div class="post-grid bb-masonry">
 <div class="bb-masonry-sizer"></div>
-<article class="post-1283610 post type-post status-publish format-standard has-post-thumbnail hentry category-wire tag-joe-biden bb-grid-2-3 first" id="post-1283610">
+<article class="post-1285365 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-donald-trump bb-grid-2-3 first" id="post-1285365">
 <div class="post-inner-wrap">
 <div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/gas-prices-30-november-expert-says-biden-wants-them-even-higher/" title="Permalink to Commentary: Gas Prices Have Jumped 30 Percent Since November, Now Expert Says Biden Wants Them Even Higher">
-<img alt="" class="attachment-large size-large wp-post-image" height="443" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-10T212745Z_1_LYNXMPEH291M7_RTROPTP_4_USA-BIOFUELS-EPA-1024x708.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-10T212745Z_1_LYNXMPEH291M7_RTROPTP_4_USA-BIOFUELS-EPA-1024x708.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-10T212745Z_1_LYNXMPEH291M7_RTROPTP_4_USA-BIOFUELS-EPA-300x207.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-10T212745Z_1_LYNXMPEH291M7_RTROPTP_4_USA-BIOFUELS-EPA-768x531.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-10T212745Z_1_LYNXMPEH291M7_RTROPTP_4_USA-BIOFUELS-EPA-1536x1062.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-10T212745Z_1_LYNXMPEH291M7_RTROPTP_4_USA-BIOFUELS-EPA-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-10T212745Z_1_LYNXMPEH291M7_RTROPTP_4_USA-BIOFUELS-EPA-624x431.jpg 624w" width="640"/> </a>
+<a class="entry-media entry-img" href="https://ijr.com/capitol-rioters-reportedly-made-donations-to-trump/" title="Permalink to Capitol Rioters Reportedly Made Donations To Trump Even After Reelection Loss">
+<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2020/12/50665245586_b6f1d0f4ae_o-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2020/12/50665245586_b6f1d0f4ae_o-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2020/12/50665245586_b6f1d0f4ae_o-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2020/12/50665245586_b6f1d0f4ae_o-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2020/12/50665245586_b6f1d0f4ae_o-624x416.jpg 624w, https://ijr.com/wp-content/uploads/2020/12/50665245586_b6f1d0f4ae_o.jpg 1200w" width="640"/> </a>
 </div>
 <div class="entry-content-wrap">
 <header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/gas-prices-30-november-expert-says-biden-wants-them-even-higher/" rel="bookmark">Commentary: Gas Prices Have Jumped 30 Percent Since November, Now Expert Says Biden Wants Them Even Higher</a></h2>
+<h2 class="entry-title"><a href="https://ijr.com/capitol-rioters-reportedly-made-donations-to-trump/" rel="bookmark">Capitol Rioters Reportedly Made Donations To Trump Even After Reelection Loss</a></h2>
 </header><!-- .entry-header -->
 <div class="entry-content">
-					Raising gas prices is a burden to frequent commuters as the total to fill a tank of gas adds up quickly.				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/wj/">
-<img alt="" class="avatar avatar-80 photo avatar-default" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png" srcset="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/wj/">
-				Cameron Arcand, The Western Journal			</a>
-<span class="post-date"><a href="https://ijr.com/gas-prices-30-november-expert-says-biden-wants-them-even-higher/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/gas-prices-30-november-expert-says-biden-wants-them-even-higher/#respond">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283610 -->
-<article class="post-1283599 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-chuck-schumer tag-mitch-mcconnell" id="post-1283599">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/schumer-everything-on-table-filibuster-gop-block-legislation/" title="Permalink to Schumer Declares ‘Everything Is on the Table’ With the Filibuster if GOP Tries To Block Legislation">
-<img alt="" class="attachment-large size-large wp-post-image" height="348" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-7.32.03-PM-1024x557.png" srcset="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-7.32.03-PM-1024x557.png 1024w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-7.32.03-PM-300x163.png 300w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-7.32.03-PM-768x418.png 768w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-7.32.03-PM-1536x835.png 1536w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-7.32.03-PM.png 2048w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-7.32.03-PM-624x339.png 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/schumer-everything-on-table-filibuster-gop-block-legislation/" rel="bookmark">Schumer Declares ‘Everything Is on the Table’ With the Filibuster if GOP Tries To Block Legislation</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					"We will try to get them to work with us."				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/bradley/">
-<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon" srcset="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/bradley/">
-				Bradley Cortright			</a>
-<span class="post-date"><a href="https://ijr.com/schumer-everything-on-table-filibuster-gop-block-legislation/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/schumer-everything-on-table-filibuster-gop-block-legislation/#respond">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283599 -->
-<article class="post-1283595 post type-post status-publish format-standard has-post-thumbnail hentry category-wire" id="post-1283595">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/easily-weaponize-cancel-culture-jews-student-anti-semitism-at-syracuse/" title="Permalink to Student Calls Out Anti-Semitism at Syracuse: They Easily Weaponize ‘Cancel Culture’ Against Jews">
-<img alt="" class="attachment-large size-large wp-post-image" height="426" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/7964551462_e2f6413b53_o-1024x681.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/7964551462_e2f6413b53_o-1024x681.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/7964551462_e2f6413b53_o-300x199.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/7964551462_e2f6413b53_o-768x511.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/7964551462_e2f6413b53_o-1536x1021.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/7964551462_e2f6413b53_o-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/7964551462_e2f6413b53_o-624x415.jpg 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/easily-weaponize-cancel-culture-jews-student-anti-semitism-at-syracuse/" rel="bookmark">Student Calls Out Anti-Semitism at Syracuse: They Easily Weaponize ‘Cancel Culture’ Against Jews</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					"[T]he Left disguises their destructive attempts to cancel those whom they disagree with as merely 'holding people accountable.'"				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/wj/">
-<img alt="" class="avatar avatar-80 photo avatar-default" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png" srcset="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/wj/">
-				Michael Austin, The Western Journal			</a>
-<span class="post-date"><a href="https://ijr.com/easily-weaponize-cancel-culture-jews-student-anti-semitism-at-syracuse/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/easily-weaponize-cancel-culture-jews-student-anti-semitism-at-syracuse/#respond">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283595 -->
-<article class="post-1283583 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-gretchen-whitmer tag-joe-biden tag-law-enforcement tag-nancy-pelosi" id="post-1283583">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/michigan-man-charged-threatening-kill-biden-pelosi-whitmer/" title="Permalink to Michigan Man Charged With Threatening To Kill Biden, Pelosi and Whitmer">
-<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-16T221541Z_1_LYNXMPEH2F1OZ_RTROPTP_4_MICHIGAN-WHITMER-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-16T221541Z_1_LYNXMPEH2F1OZ_RTROPTP_4_MICHIGAN-WHITMER-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T221541Z_1_LYNXMPEH2F1OZ_RTROPTP_4_MICHIGAN-WHITMER-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T221541Z_1_LYNXMPEH2F1OZ_RTROPTP_4_MICHIGAN-WHITMER-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T221541Z_1_LYNXMPEH2F1OZ_RTROPTP_4_MICHIGAN-WHITMER-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T221541Z_1_LYNXMPEH2F1OZ_RTROPTP_4_MICHIGAN-WHITMER-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T221541Z_1_LYNXMPEH2F1OZ_RTROPTP_4_MICHIGAN-WHITMER-624x416.jpg 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/michigan-man-charged-threatening-kill-biden-pelosi-whitmer/" rel="bookmark">Michigan Man Charged With Threatening To Kill Biden, Pelosi and Whitmer</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					The suspect turned himself in on Monday and faced a judge on Tuesday.				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/reuters/">
-<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/reuters/">
-				Reuters			</a>
-<span class="post-date"><a href="https://ijr.com/michigan-man-charged-threatening-kill-biden-pelosi-whitmer/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/michigan-man-charged-threatening-kill-biden-pelosi-whitmer/#respond">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283583 -->
-<article class="post-1283567 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-mitch-mcconnell" id="post-1283567">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/mcconnell-dismisses-filibuster-reform-its-not-broken/" title="Permalink to McConnell Dismisses Calls for Filibuster Reform: ‘It’s Not Broken’">
-<img alt="" class="attachment-large size-large wp-post-image" height="342" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-6.05.38-PM-1024x547.png" srcset="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-6.05.38-PM-1024x547.png 1024w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-6.05.38-PM-300x160.png 300w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-6.05.38-PM-768x410.png 768w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-6.05.38-PM-1536x820.png 1536w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-6.05.38-PM.png 2048w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-6.05.38-PM-624x333.png 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/mcconnell-dismisses-filibuster-reform-its-not-broken/" rel="bookmark">McConnell Dismisses Calls for Filibuster Reform: ‘It’s Not Broken’</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					"It's not broken, and it doesn't need to be fixed."				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/bradley/">
-<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon" srcset="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/bradley/">
-				Bradley Cortright			</a>
-<span class="post-date"><a href="https://ijr.com/mcconnell-dismisses-filibuster-reform-its-not-broken/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/mcconnell-dismisses-filibuster-reform-its-not-broken/#respond">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283567 -->
-<article class="post-1283557 post type-post status-publish format-standard has-post-thumbnail hentry category-wire tag-israel" id="post-1283557">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/archaeologists-discover-new-fragments-famed-dead-sea-scrolls/" title="Permalink to Israeli Archaeologists Discover New Fragments of Famed Dead Sea Scrolls">
-<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-16T134339Z_1_LYNXMPEH2F11V_RTROPTP_4_ISRAEL-ARCHAEOLOGY-SCROLL-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-16T134339Z_1_LYNXMPEH2F11V_RTROPTP_4_ISRAEL-ARCHAEOLOGY-SCROLL-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T134339Z_1_LYNXMPEH2F11V_RTROPTP_4_ISRAEL-ARCHAEOLOGY-SCROLL-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T134339Z_1_LYNXMPEH2F11V_RTROPTP_4_ISRAEL-ARCHAEOLOGY-SCROLL-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T134339Z_1_LYNXMPEH2F11V_RTROPTP_4_ISRAEL-ARCHAEOLOGY-SCROLL-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T134339Z_1_LYNXMPEH2F11V_RTROPTP_4_ISRAEL-ARCHAEOLOGY-SCROLL-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T134339Z_1_LYNXMPEH2F11V_RTROPTP_4_ISRAEL-ARCHAEOLOGY-SCROLL-624x416.jpg 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/archaeologists-discover-new-fragments-famed-dead-sea-scrolls/" rel="bookmark">Israeli Archaeologists Discover New Fragments of Famed Dead Sea Scrolls</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-<p>New fragments of the Dead Sea Scrolls have been found in a cave near the Dead Sea, Israeli archaeologists say. The pieces of parchment build…</p>
-</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/wj/">
-<img alt="" class="avatar avatar-80 photo avatar-default" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png" srcset="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/wj/">
-				Erin Coates, The Western Journal			</a>
-<span class="post-date"><a href="https://ijr.com/archaeologists-discover-new-fragments-famed-dead-sea-scrolls/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/archaeologists-discover-new-fragments-famed-dead-sea-scrolls/#respond">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283557 -->
-<article class="post-1283549 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-joe-biden" id="post-1283549">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/white-house-reveals-biden-hold-first-formal-press-conference/" title="Permalink to White House Reveals When Biden Will Hold His First Formal Press Conference">
-<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/02/2021-02-28T020347Z_3_LYNXNPEH1Q0CE_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/02/2021-02-28T020347Z_3_LYNXNPEH1Q0CE_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/02/2021-02-28T020347Z_3_LYNXNPEH1Q0CE_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/02/2021-02-28T020347Z_3_LYNXNPEH1Q0CE_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/02/2021-02-28T020347Z_3_LYNXNPEH1Q0CE_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/02/2021-02-28T020347Z_3_LYNXNPEH1Q0CE_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/02/2021-02-28T020347Z_3_LYNXNPEH1Q0CE_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-624x416.jpg 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/white-house-reveals-biden-hold-first-formal-press-conference/" rel="bookmark">White House Reveals When Biden Will Hold His First Formal Press Conference</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					He will hold his first press conference.				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/bradley/">
-<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon" srcset="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/bradley/">
-				Bradley Cortright			</a>
-<span class="post-date"><a href="https://ijr.com/white-house-reveals-biden-hold-first-formal-press-conference/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/white-house-reveals-biden-hold-first-formal-press-conference/#comments">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">11 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283549 -->
-<article class="post-1283523 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-immigration tag-joe-biden" id="post-1283523">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/biden-whether-plan-visit-the-border/" title="Permalink to Biden Reveals Whether He Has Plans To Visit the Southern Border">
-<img alt="" class="attachment-large size-large wp-post-image" height="352" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-3.25.18-PM-1024x563.png" srcset="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-3.25.18-PM-1024x563.png 1024w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-3.25.18-PM-300x165.png 300w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-3.25.18-PM-768x422.png 768w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-3.25.18-PM-1536x844.png 1536w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-3.25.18-PM.png 2048w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-3.25.18-PM-624x343.png 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/biden-whether-plan-visit-the-border/" rel="bookmark">Biden Reveals Whether He Has Plans To Visit the Southern Border</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					"Not at the moment."				</div>
+					Accused rioters donated at least $39,734, with $24,822 being given to Trump.				</div>
 <div class="entry-meta">
 <div class="bb-user-avatar-wrap">
 <div class="avatar-wrap">
@@ -640,45 +403,11 @@ body.home-page header.entry-header {
 <div class="meta-wrap">
 <a class="post-author" href="https://ijr.com/members/savannah/">
 				Savannah Rychcik			</a>
-<span class="post-date"><a href="https://ijr.com/biden-whether-plan-visit-the-border/">March 16, 2021</a></span>
+<span class="post-date"><a href="https://ijr.com/capitol-rioters-reportedly-made-donations-to-trump/">March 26, 2021</a></span>
 </div>
 </div>
 <div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/biden-whether-plan-visit-the-border/#comments">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">1 <span class="bb-comment-text">Comment</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283523 -->
-<article class="post-1283509 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-dianne-feinstein tag-gavin-newsom" id="post-1283509">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/feinstein-clarifies-that-she-plans-to-serve-out-her-term/" title="Permalink to Feinstein Clarifies That She Plans To Serve Out Her Term">
-<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-02T010723Z_1_LYNXNPEH21018_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-02T010723Z_1_LYNXNPEH21018_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-02T010723Z_1_LYNXNPEH21018_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-02T010723Z_1_LYNXNPEH21018_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-02T010723Z_1_LYNXNPEH21018_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-02T010723Z_1_LYNXNPEH21018_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-02T010723Z_1_LYNXNPEH21018_RTROPTP_4_HEALTH-CORONAVIRUS-USA-CONGRESS-624x416.jpg 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/feinstein-clarifies-that-she-plans-to-serve-out-her-term/" rel="bookmark">Feinstein Clarifies That She Plans To Serve Out Her Term</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					She went on to suggest that reporters are "making a mountain out of a molehill."				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/bradley/">
-<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon" srcset="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/bradley/">
-				Bradley Cortright			</a>
-<span class="post-date"><a href="https://ijr.com/feinstein-clarifies-that-she-plans-to-serve-out-her-term/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/feinstein-clarifies-that-she-plans-to-serve-out-her-term/#respond">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/capitol-rioters-reportedly-made-donations-to-trump/#respond">
 <i class="bb-icon-comment"></i>
 <span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
 </a>
@@ -686,87 +415,19 @@ body.home-page header.entry-header {
 </div>
 </div>
 </div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283509 -->
-<article class="post-1283539 post type-post status-publish format-standard has-post-thumbnail hentry category-wire" id="post-1283539">
+</article><!-- #post-1285365 -->
+<article class="post-1285349 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-jen-psaki tag-joe-biden" id="post-1285349">
 <div class="post-inner-wrap">
 <div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/op-ed-media-psychologically-abusing-black-people-racially-discriminating-white-people/" title="Permalink to Op-Ed: The Media Is Psychologically Abusing Black People and Racially Discriminating Against White People">
-<img alt="" class="attachment-large size-large wp-post-image" height="446" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2020/06/2020-06-23T090354Z_2_LYNXMPEG5M0ON_RTROPTP_4_USA-SEATTLE-SHOOTING-1024x714.jpg" srcset="https://ijr.com/wp-content/uploads/2020/06/2020-06-23T090354Z_2_LYNXMPEG5M0ON_RTROPTP_4_USA-SEATTLE-SHOOTING-1024x714.jpg 1024w, https://ijr.com/wp-content/uploads/2020/06/2020-06-23T090354Z_2_LYNXMPEG5M0ON_RTROPTP_4_USA-SEATTLE-SHOOTING-300x209.jpg 300w, https://ijr.com/wp-content/uploads/2020/06/2020-06-23T090354Z_2_LYNXMPEG5M0ON_RTROPTP_4_USA-SEATTLE-SHOOTING-768x535.jpg 768w, https://ijr.com/wp-content/uploads/2020/06/2020-06-23T090354Z_2_LYNXMPEG5M0ON_RTROPTP_4_USA-SEATTLE-SHOOTING-1536x1070.jpg 1536w, https://ijr.com/wp-content/uploads/2020/06/2020-06-23T090354Z_2_LYNXMPEG5M0ON_RTROPTP_4_USA-SEATTLE-SHOOTING-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2020/06/2020-06-23T090354Z_2_LYNXMPEG5M0ON_RTROPTP_4_USA-SEATTLE-SHOOTING-624x435.jpg 624w, https://ijr.com/wp-content/uploads/2020/06/2020-06-23T090354Z_2_LYNXMPEG5M0ON_RTROPTP_4_USA-SEATTLE-SHOOTING-600x418.jpg 600w" width="640"/> </a>
+<a class="entry-media entry-img" href="https://ijr.com/psaki-dem-lawmaker-arrested-voting-restrictions/" title="Permalink to Psaki Reacts To Arrest of Georgia Dem Rep. for Protesting Voting Restrictions">
+<img alt="" class="attachment-large size-large wp-post-image" height="356" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-2.57.34-PM-1024x570.png" srcset="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-2.57.34-PM-1024x570.png 1024w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-2.57.34-PM-300x167.png 300w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-2.57.34-PM-768x428.png 768w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-2.57.34-PM-1536x855.png 1536w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-2.57.34-PM.png 2048w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-2.57.34-PM-624x347.png 624w" width="640"/> </a>
 </div>
 <div class="entry-content-wrap">
 <header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/op-ed-media-psychologically-abusing-black-people-racially-discriminating-white-people/" rel="bookmark">Op-Ed: The Media Is Psychologically Abusing Black People and Racially Discriminating Against White People</a></h2>
+<h2 class="entry-title"><a href="https://ijr.com/psaki-dem-lawmaker-arrested-voting-restrictions/" rel="bookmark">Psaki Reacts To Arrest of Georgia Dem Rep. for Protesting Voting Restrictions</a></h2>
 </header><!-- .entry-header -->
 <div class="entry-content">
-					They have participated in psychological abuse.				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/wj/">
-<img alt="" class="avatar avatar-80 photo avatar-default" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png" srcset="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/wj/">
-				Quisha King, The Western Journal			</a>
-<span class="post-date"><a href="https://ijr.com/op-ed-media-psychologically-abusing-black-people-racially-discriminating-white-people/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/op-ed-media-psychologically-abusing-black-people-racially-discriminating-white-people/#comments">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">1 <span class="bb-comment-text">Comment</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283539 -->
-<article class="post-1283522 post type-post status-publish format-standard has-post-thumbnail hentry category-wire tag-jen-psaki" id="post-1283522">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/doocy-hit-psaki-brutal-question-fema-border-is-now-disaster/" title="Permalink to Commentary: Watch Fox's Doocy Hit Psaki with Brutal Question About FEMA at Border: 'Is It Now a Disaster?'">
-<img alt="" class="attachment-large size-large wp-post-image" height="443" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-04T190931Z_1_LYNXMPEH231FV_RTROPTP_4_USA-BIDEN-1024x709.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-04T190931Z_1_LYNXMPEH231FV_RTROPTP_4_USA-BIDEN-1024x709.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-04T190931Z_1_LYNXMPEH231FV_RTROPTP_4_USA-BIDEN-300x208.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-04T190931Z_1_LYNXMPEH231FV_RTROPTP_4_USA-BIDEN-768x532.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-04T190931Z_1_LYNXMPEH231FV_RTROPTP_4_USA-BIDEN-1536x1063.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-04T190931Z_1_LYNXMPEH231FV_RTROPTP_4_USA-BIDEN-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-04T190931Z_1_LYNXMPEH231FV_RTROPTP_4_USA-BIDEN-624x432.jpg 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/doocy-hit-psaki-brutal-question-fema-border-is-now-disaster/" rel="bookmark">Commentary: Watch Fox's Doocy Hit Psaki with Brutal Question About FEMA at Border: 'Is It Now a Disaster?'</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					"Clearly, the numbers are enormous. This is a big challenge and it certainly is a reflection of using every lever of the federal government to help ad…				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/wj/">
-<img alt="" class="avatar avatar-80 photo avatar-default" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png" srcset="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/wj/">
-				C. Douglas Golden, The Western Journal			</a>
-<span class="post-date"><a href="https://ijr.com/doocy-hit-psaki-brutal-question-fema-border-is-now-disaster/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/doocy-hit-psaki-brutal-question-fema-border-is-now-disaster/#comments">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">2 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283522 -->
-<article class="post-1283495 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-donald-trump tag-ron-johnson" id="post-1283495">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/ny-times-editor-trump-sen-ron-johnsons-remark/" title="Permalink to NY Times Editor: ‘We Have’ Trump ‘To Thank’ for Sen. Ron Johnson’s Black Lives Matter Remark">
-<img alt="" class="attachment-large size-large wp-post-image" height="353" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-2.17.58-PM-1024x565.png" srcset="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-2.17.58-PM-1024x565.png 1024w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-2.17.58-PM-300x166.png 300w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-2.17.58-PM-768x424.png 768w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-2.17.58-PM-1536x848.png 1536w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-2.17.58-PM.png 2048w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-2.17.58-PM-624x344.png 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/ny-times-editor-trump-sen-ron-johnsons-remark/" rel="bookmark">NY Times Editor: ‘We Have’ Trump ‘To Thank’ for Sen. Ron Johnson’s Black Lives Matter Remark</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					"We have Donald Trump to thank for this wonderfully disgusting and grotesque outpouring of open racism."				</div>
+					"I think anyone who saw that video would have been deeply concerned." 				</div>
 <div class="entry-meta">
 <div class="bb-user-avatar-wrap">
 <div class="avatar-wrap">
@@ -776,31 +437,31 @@ body.home-page header.entry-header {
 <div class="meta-wrap">
 <a class="post-author" href="https://ijr.com/members/savannah/">
 				Savannah Rychcik			</a>
-<span class="post-date"><a href="https://ijr.com/ny-times-editor-trump-sen-ron-johnsons-remark/">March 16, 2021</a></span>
+<span class="post-date"><a href="https://ijr.com/psaki-dem-lawmaker-arrested-voting-restrictions/">March 26, 2021</a></span>
 </div>
 </div>
 <div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/ny-times-editor-trump-sen-ron-johnsons-remark/#comments">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/psaki-dem-lawmaker-arrested-voting-restrictions/#respond">
 <i class="bb-icon-comment"></i>
-<span class="comments-count">7 <span class="bb-comment-text">Comments</span></span>
+<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
 </a>
 </div>
 </div>
 </div>
 </div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283495 -->
-<article class="post-1283515 post type-post status-publish format-standard has-post-thumbnail hentry category-wire tag-immigration" id="post-1283515">
+</article><!-- #post-1285349 -->
+<article class="post-1285351 post type-post status-publish format-standard has-post-thumbnail hentry category-wire tag-jacob-blake" id="post-1285351">
 <div class="post-inner-wrap">
 <div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/congressman-multiple-terror-suspects-have-been-caught-border-current-surge/" title="Permalink to Congressman Reveals Multiple Terror Suspects Have Been Caught at Border Amid Current Surge">
-<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-05T180016Z_1_LYNXNPEH2418A_RTROPTP_4_USA-IMMIGRATION-BORDER-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-05T180016Z_1_LYNXNPEH2418A_RTROPTP_4_USA-IMMIGRATION-BORDER-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-05T180016Z_1_LYNXNPEH2418A_RTROPTP_4_USA-IMMIGRATION-BORDER-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-05T180016Z_1_LYNXNPEH2418A_RTROPTP_4_USA-IMMIGRATION-BORDER-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-05T180016Z_1_LYNXNPEH2418A_RTROPTP_4_USA-IMMIGRATION-BORDER-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-05T180016Z_1_LYNXNPEH2418A_RTROPTP_4_USA-IMMIGRATION-BORDER-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-05T180016Z_1_LYNXNPEH2418A_RTROPTP_4_USA-IMMIGRATION-BORDER-624x416.jpg 624w" width="640"/> </a>
+<a class="entry-media entry-img" href="https://ijr.com/jacob-blake-sues-kenosha-police-officer-who-shot-him/" title="Permalink to Jacob Blake Sues Kenosha Police Officer Who Shot Him">
+<img alt="" class="attachment-large size-large wp-post-image" height="418" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T084759Z_2_LYNXMPEH2P0EL_RTROPTP_4_GLOBAL-RACE-USA-BOSTON-1024x669.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T084759Z_2_LYNXMPEH2P0EL_RTROPTP_4_GLOBAL-RACE-USA-BOSTON-1024x669.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T084759Z_2_LYNXMPEH2P0EL_RTROPTP_4_GLOBAL-RACE-USA-BOSTON-300x196.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T084759Z_2_LYNXMPEH2P0EL_RTROPTP_4_GLOBAL-RACE-USA-BOSTON-768x502.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T084759Z_2_LYNXMPEH2P0EL_RTROPTP_4_GLOBAL-RACE-USA-BOSTON-1536x1003.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T084759Z_2_LYNXMPEH2P0EL_RTROPTP_4_GLOBAL-RACE-USA-BOSTON-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T084759Z_2_LYNXMPEH2P0EL_RTROPTP_4_GLOBAL-RACE-USA-BOSTON-624x408.jpg 624w" width="640"/> </a>
 </div>
 <div class="entry-content-wrap">
 <header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/congressman-multiple-terror-suspects-have-been-caught-border-current-surge/" rel="bookmark">Congressman Reveals Multiple Terror Suspects Have Been Caught at Border Amid Current Surge</a></h2>
+<h2 class="entry-title"><a href="https://ijr.com/jacob-blake-sues-kenosha-police-officer-who-shot-him/" rel="bookmark">Jacob Blake Sues Kenosha Police Officer Who Shot Him</a></h2>
 </header><!-- .entry-header -->
 <div class="entry-content">
-					"We need to wake up.”				</div>
+					"Justice is more than people going to jail."				</div>
 <div class="entry-meta">
 <div class="bb-user-avatar-wrap">
 <div class="avatar-wrap">
@@ -810,11 +471,11 @@ body.home-page header.entry-header {
 <div class="meta-wrap">
 <a class="post-author" href="https://ijr.com/members/wj/">
 				Jack Davis, The Western Journal			</a>
-<span class="post-date"><a href="https://ijr.com/congressman-multiple-terror-suspects-have-been-caught-border-current-surge/">March 16, 2021</a></span>
+<span class="post-date"><a href="https://ijr.com/jacob-blake-sues-kenosha-police-officer-who-shot-him/">March 26, 2021</a></span>
 </div>
 </div>
 <div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/congressman-multiple-terror-suspects-have-been-caught-border-current-surge/#respond">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/jacob-blake-sues-kenosha-police-officer-who-shot-him/#respond">
 <i class="bb-icon-comment"></i>
 <span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
 </a>
@@ -822,87 +483,19 @@ body.home-page header.entry-header {
 </div>
 </div>
 </div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283515 -->
-<article class="post-1283504 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-2020-presidential-election tag-donald-trump tag-iran tag-joe-biden tag-russia" id="post-1283504">
+</article><!-- #post-1285351 -->
+<article class="post-1285338 post type-post status-publish format-standard has-post-thumbnail hentry category-wire tag-brian-kemp" id="post-1285338">
 <div class="post-inner-wrap">
 <div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/us-intel-report-russia-iran-tried-influence-election/" title="Permalink to US Intel Report Concludes Russia and Iran Tried To Influence Election: Sources">
-<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-16T182856Z_1_LYNXMPEH2F1I2_RTROPTP_4_USA-ELECTION-MICHIGAN-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-16T182856Z_1_LYNXMPEH2F1I2_RTROPTP_4_USA-ELECTION-MICHIGAN-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T182856Z_1_LYNXMPEH2F1I2_RTROPTP_4_USA-ELECTION-MICHIGAN-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T182856Z_1_LYNXMPEH2F1I2_RTROPTP_4_USA-ELECTION-MICHIGAN-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T182856Z_1_LYNXMPEH2F1I2_RTROPTP_4_USA-ELECTION-MICHIGAN-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T182856Z_1_LYNXMPEH2F1I2_RTROPTP_4_USA-ELECTION-MICHIGAN-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T182856Z_1_LYNXMPEH2F1I2_RTROPTP_4_USA-ELECTION-MICHIGAN-624x416.jpg 624w" width="640"/> </a>
+<a class="entry-media entry-img" href="https://ijr.com/georgia-dem-arrested-after-repeatedly-defying-police/" title="Permalink to Georgia Dem Arrested After Repeatedly Defying Police And Hammering on Governor's Door During Protest">
+<img alt="" class="attachment-large size-large wp-post-image" height="336" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Dem-Lawmaker-Arrested-1024x538.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/Dem-Lawmaker-Arrested-1024x538.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/Dem-Lawmaker-Arrested-300x158.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/Dem-Lawmaker-Arrested-768x403.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/Dem-Lawmaker-Arrested-624x328.jpg 624w, https://ijr.com/wp-content/uploads/2021/03/Dem-Lawmaker-Arrested.jpg 1200w" width="640"/> </a>
 </div>
 <div class="entry-content-wrap">
 <header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/us-intel-report-russia-iran-tried-influence-election/" rel="bookmark">US Intel Report Concludes Russia and Iran Tried To Influence Election: Sources</a></h2>
+<h2 class="entry-title"><a href="https://ijr.com/georgia-dem-arrested-after-repeatedly-defying-police/" rel="bookmark">Georgia Dem Arrested After Repeatedly Defying Police And Hammering on Governor's Door During Protest</a></h2>
 </header><!-- .entry-header -->
 <div class="entry-content">
-					Russia and Iran spread misinformation in an attempt to influence the U.S. election, sources say.				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/reuters/">
-<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/reuters/">
-				Reuters			</a>
-<span class="post-date"><a href="https://ijr.com/us-intel-report-russia-iran-tried-influence-election/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/us-intel-report-russia-iran-tried-influence-election/#comments">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">3 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283504 -->
-<article class="post-1283488 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-gavin-newsom" id="post-1283488">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/newsom-worried-recall-effort-gaining-steam-california/" title="Permalink to Newsom Reveals He Is ‘Worried’ About Recall Effort Gaining Steam in California">
-<img alt="" class="attachment-large size-large wp-post-image" height="350" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-1.57.21-PM-1024x560.png" srcset="https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-1.57.21-PM-1024x560.png 1024w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-1.57.21-PM-300x164.png 300w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-1.57.21-PM-768x420.png 768w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-1.57.21-PM-1536x839.png 1536w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-1.57.21-PM.png 2048w, https://ijr.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-16-at-1.57.21-PM-624x341.png 624w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/newsom-worried-recall-effort-gaining-steam-california/" rel="bookmark">Newsom Reveals He Is ‘Worried’ About Recall Effort Gaining Steam in California</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					"The nature of these things, the up or down question, the zero-sum nature of the question is challenging, it's vexing."				</div>
-<div class="entry-meta">
-<div class="bb-user-avatar-wrap">
-<div class="avatar-wrap">
-<a href="https://ijr.com/members/bradley/">
-<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon" srcset="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon 2x" width="80"/> </a>
-</div>
-<div class="meta-wrap">
-<a class="post-author" href="https://ijr.com/members/bradley/">
-				Bradley Cortright			</a>
-<span class="post-date"><a href="https://ijr.com/newsom-worried-recall-effort-gaining-steam-california/">March 16, 2021</a></span>
-</div>
-</div>
-<div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/newsom-worried-recall-effort-gaining-steam-california/#respond">
-<i class="bb-icon-comment"></i>
-<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
-</a>
-</div>
-</div>
-</div>
-</div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283488 -->
-<article class="post-1283486 post type-post status-publish format-standard has-post-thumbnail hentry category-wire tag-immigration tag-james-lankford tag-joe-biden" id="post-1283486">
-<div class="post-inner-wrap">
-<div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/lankford-exposes-huge-gaps-border-wall-caused-biden/" title="Permalink to Commentary: Video: Senator Lankford Exposes Huge Gaps in Border Wall Caused by Joe Biden">
-<img alt="" class="attachment-large size-large wp-post-image" height="336" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Lankford-border-1024x538.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/Lankford-border-1024x538.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/Lankford-border-300x158.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/Lankford-border-768x403.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/Lankford-border-624x328.jpg 624w, https://ijr.com/wp-content/uploads/2021/03/Lankford-border.jpg 1200w" width="640"/> </a>
-</div>
-<div class="entry-content-wrap">
-<header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/lankford-exposes-huge-gaps-border-wall-caused-biden/" rel="bookmark">Commentary: Video: Senator Lankford Exposes Huge Gaps in Border Wall Caused by Joe Biden</a></h2>
-</header><!-- .entry-header -->
-<div class="entry-content">
-					"I visited the AZ border yesterday."				</div>
+					"Rep. Cannon refused to stop knocking on the door." 				</div>
 <div class="entry-meta">
 <div class="bb-user-avatar-wrap">
 <div class="avatar-wrap">
@@ -911,32 +504,32 @@ body.home-page header.entry-header {
 </div>
 <div class="meta-wrap">
 <a class="post-author" href="https://ijr.com/members/wj/">
-				Samantha Chang, The Western Journal			</a>
-<span class="post-date"><a href="https://ijr.com/lankford-exposes-huge-gaps-border-wall-caused-biden/">March 16, 2021</a></span>
+				Jack Davis, The Western Journal			</a>
+<span class="post-date"><a href="https://ijr.com/georgia-dem-arrested-after-repeatedly-defying-police/">March 26, 2021</a></span>
 </div>
 </div>
 <div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/lankford-exposes-huge-gaps-border-wall-caused-biden/#comments">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/georgia-dem-arrested-after-repeatedly-defying-police/#comments">
 <i class="bb-icon-comment"></i>
-<span class="comments-count">1 <span class="bb-comment-text">Comment</span></span>
+<span class="comments-count">3 <span class="bb-comment-text">Comments</span></span>
 </a>
 </div>
 </div>
 </div>
 </div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283486 -->
-<article class="post-1283460 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-brett-kavanaugh" id="post-1283460">
+</article><!-- #post-1285338 -->
+<article class="post-1285324 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-gun-control tag-ted-cruz" id="post-1285324">
 <div class="post-inner-wrap">
 <div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/dem-senator-fbi-probe-into-kavanaugh-fake/" title="Permalink to Dem Senator Alleges the FBI Conducted a ‘Fake’ Background Investigation of Kavanaugh">
-<img alt="" class="attachment-large size-large wp-post-image" height="320" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Untitled-Design-75.png" srcset="https://ijr.com/wp-content/uploads/2021/03/Untitled-Design-75.png 640w, https://ijr.com/wp-content/uploads/2021/03/Untitled-Design-75-300x150.png 300w, https://ijr.com/wp-content/uploads/2021/03/Untitled-Design-75-624x312.png 624w" width="640"/> </a>
+<a class="entry-media entry-img" href="https://ijr.com/cruz-slapped-with-3-pinocchios-misleading-claim/" title="Permalink to Cruz Slapped With 3 ‘Pinocchios’ for ‘Misleading’ Gun Legislation Claim">
+<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-23T171749Z_1_LYNXMPEH2M1BF_RTROPTP_4_USA-GUNS-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-23T171749Z_1_LYNXMPEH2M1BF_RTROPTP_4_USA-GUNS-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-23T171749Z_1_LYNXMPEH2M1BF_RTROPTP_4_USA-GUNS-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-23T171749Z_1_LYNXMPEH2M1BF_RTROPTP_4_USA-GUNS-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-23T171749Z_1_LYNXMPEH2M1BF_RTROPTP_4_USA-GUNS-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-23T171749Z_1_LYNXMPEH2M1BF_RTROPTP_4_USA-GUNS-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-23T171749Z_1_LYNXMPEH2M1BF_RTROPTP_4_USA-GUNS-624x416.jpg 624w" width="640"/> </a>
 </div>
 <div class="entry-content-wrap">
 <header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/dem-senator-fbi-probe-into-kavanaugh-fake/" rel="bookmark">Dem Senator Alleges the FBI Conducted a ‘Fake’ Background Investigation of Kavanaugh</a></h2>
+<h2 class="entry-title"><a href="https://ijr.com/cruz-slapped-with-3-pinocchios-misleading-claim/" rel="bookmark">Cruz Slapped With 3 ‘Pinocchios’ for ‘Misleading’ Gun Legislation Claim</a></h2>
 </header><!-- .entry-header -->
 <div class="entry-content">
-					"It cannot and should not be the policy of the FBI to not follow up on serious allegations of misconduct during background check investigations." 				</div>
+					"Cruz’s amendment would not have prevented any of the six specific protocol failures at the Air Force that allowed Kelley to slip through the cracks…				</div>
 <div class="entry-meta">
 <div class="bb-user-avatar-wrap">
 <div class="avatar-wrap">
@@ -946,31 +539,31 @@ body.home-page header.entry-header {
 <div class="meta-wrap">
 <a class="post-author" href="https://ijr.com/members/savannah/">
 				Savannah Rychcik			</a>
-<span class="post-date"><a href="https://ijr.com/dem-senator-fbi-probe-into-kavanaugh-fake/">March 16, 2021</a></span>
+<span class="post-date"><a href="https://ijr.com/cruz-slapped-with-3-pinocchios-misleading-claim/">March 26, 2021</a></span>
 </div>
 </div>
 <div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/dem-senator-fbi-probe-into-kavanaugh-fake/#comments">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/cruz-slapped-with-3-pinocchios-misleading-claim/#respond">
 <i class="bb-icon-comment"></i>
-<span class="comments-count">22 <span class="bb-comment-text">Comments</span></span>
+<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
 </a>
 </div>
 </div>
 </div>
 </div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283460 -->
-<article class="post-1283446 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-elton-john tag-lgbtq tag-pope-francis" id="post-1283446">
+</article><!-- #post-1285324 -->
+<article class="post-1285318 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-donald-trump tag-impeachment tag-mitt-romney" id="post-1285318">
 <div class="post-inner-wrap">
 <div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/elton-john-swipes-vatican-hypocrisy/" title="Permalink to Elton John Swipes at the Vatican: ‘Hypocrisy’">
-<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2020/03/2020-03-31T032513Z_1_LYNXMPEG2U0AT_RTROPTP_4_HEALTH-CORONAVIRUS-MUSIC-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2020/03/2020-03-31T032513Z_1_LYNXMPEG2U0AT_RTROPTP_4_HEALTH-CORONAVIRUS-MUSIC-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2020/03/2020-03-31T032513Z_1_LYNXMPEG2U0AT_RTROPTP_4_HEALTH-CORONAVIRUS-MUSIC-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2020/03/2020-03-31T032513Z_1_LYNXMPEG2U0AT_RTROPTP_4_HEALTH-CORONAVIRUS-MUSIC-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2020/03/2020-03-31T032513Z_1_LYNXMPEG2U0AT_RTROPTP_4_HEALTH-CORONAVIRUS-MUSIC-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2020/03/2020-03-31T032513Z_1_LYNXMPEG2U0AT_RTROPTP_4_HEALTH-CORONAVIRUS-MUSIC-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2020/03/2020-03-31T032513Z_1_LYNXMPEG2U0AT_RTROPTP_4_HEALTH-CORONAVIRUS-MUSIC-624x416.jpg 624w, https://ijr.com/wp-content/uploads/2020/03/2020-03-31T032513Z_1_LYNXMPEG2U0AT_RTROPTP_4_HEALTH-CORONAVIRUS-MUSIC-600x400.jpg 600w" width="640"/> </a>
+<a class="entry-media entry-img" href="https://ijr.com/romney-given-award-voting-convict-trump/" title="Permalink to Mitt Romney Given Award for Voting To Convict Trump">
+<img alt="" class="attachment-large size-large wp-post-image" height="360" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/photomix-image-2021-03-26T123213.720.png" srcset="https://ijr.com/wp-content/uploads/2021/03/photomix-image-2021-03-26T123213.720.png 800w, https://ijr.com/wp-content/uploads/2021/03/photomix-image-2021-03-26T123213.720-300x169.png 300w, https://ijr.com/wp-content/uploads/2021/03/photomix-image-2021-03-26T123213.720-768x432.png 768w, https://ijr.com/wp-content/uploads/2021/03/photomix-image-2021-03-26T123213.720-624x351.png 624w" width="640"/> </a>
 </div>
 <div class="entry-content-wrap">
 <header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/elton-john-swipes-vatican-hypocrisy/" rel="bookmark">Elton John Swipes at the Vatican: ‘Hypocrisy’</a></h2>
+<h2 class="entry-title"><a href="https://ijr.com/romney-given-award-voting-convict-trump/" rel="bookmark">Mitt Romney Given Award for Voting To Convict Trump</a></h2>
 </header><!-- .entry-header -->
 <div class="entry-content">
-					"Hypocrisy."				</div>
+					"Romney voted to convict Trump for abuse of power."				</div>
 <div class="entry-meta">
 <div class="bb-user-avatar-wrap">
 <div class="avatar-wrap">
@@ -980,31 +573,31 @@ body.home-page header.entry-header {
 <div class="meta-wrap">
 <a class="post-author" href="https://ijr.com/members/madisonsummers/">
 				Madison Summers			</a>
-<span class="post-date"><a href="https://ijr.com/elton-john-swipes-vatican-hypocrisy/">March 16, 2021</a></span>
+<span class="post-date"><a href="https://ijr.com/romney-given-award-voting-convict-trump/">March 26, 2021</a></span>
 </div>
 </div>
 <div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/elton-john-swipes-vatican-hypocrisy/#comments">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/romney-given-award-voting-convict-trump/#respond">
 <i class="bb-icon-comment"></i>
-<span class="comments-count">1 <span class="bb-comment-text">Comment</span></span>
+<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
 </a>
 </div>
 </div>
 </div>
 </div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283446 -->
-<article class="post-1283433 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-immigration tag-joe-biden tag-joe-manchin" id="post-1283433">
+</article><!-- #post-1285318 -->
+<article class="post-1285306 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-coronavirus-outbreak" id="post-1285306">
 <div class="post-inner-wrap">
 <div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/southern-border-manchin-bidens-message/" title="Permalink to Crisis at Southern Border? Manchin Reveals His Thoughts on Biden’s Message To Immigrants">
-<img alt="" class="attachment-large size-large wp-post-image" height="423" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-07T170202Z_2_LYNXMPEH260E8_RTROPTP_4_USA-SENATE-FILLIBUSTER-1024x676.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-07T170202Z_2_LYNXMPEH260E8_RTROPTP_4_USA-SENATE-FILLIBUSTER-1024x676.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-07T170202Z_2_LYNXMPEH260E8_RTROPTP_4_USA-SENATE-FILLIBUSTER-300x198.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-07T170202Z_2_LYNXMPEH260E8_RTROPTP_4_USA-SENATE-FILLIBUSTER-768x507.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-07T170202Z_2_LYNXMPEH260E8_RTROPTP_4_USA-SENATE-FILLIBUSTER-1536x1013.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-07T170202Z_2_LYNXMPEH260E8_RTROPTP_4_USA-SENATE-FILLIBUSTER-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-07T170202Z_2_LYNXMPEH260E8_RTROPTP_4_USA-SENATE-FILLIBUSTER-624x412.jpg 624w" width="640"/> </a>
+<a class="entry-media entry-img" href="https://ijr.com/over-470-people-charged-trying-to-steal-569-million/" title="Permalink to Over 470 People Charged With Trying To Steal More Than $569 Million in Fraud Schemes Related To Pandemic">
+<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/02/2021-02-17T180341Z_3_LYNXMPEH1G1DT_RTROPTP_4_USA-TRUMP-RUSSIA-REPORT-1-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/02/2021-02-17T180341Z_3_LYNXMPEH1G1DT_RTROPTP_4_USA-TRUMP-RUSSIA-REPORT-1-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/02/2021-02-17T180341Z_3_LYNXMPEH1G1DT_RTROPTP_4_USA-TRUMP-RUSSIA-REPORT-1-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/02/2021-02-17T180341Z_3_LYNXMPEH1G1DT_RTROPTP_4_USA-TRUMP-RUSSIA-REPORT-1-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/02/2021-02-17T180341Z_3_LYNXMPEH1G1DT_RTROPTP_4_USA-TRUMP-RUSSIA-REPORT-1-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/02/2021-02-17T180341Z_3_LYNXMPEH1G1DT_RTROPTP_4_USA-TRUMP-RUSSIA-REPORT-1-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/02/2021-02-17T180341Z_3_LYNXMPEH1G1DT_RTROPTP_4_USA-TRUMP-RUSSIA-REPORT-1-624x416.jpg 624w" width="640"/> </a>
 </div>
 <div class="entry-content-wrap">
 <header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/southern-border-manchin-bidens-message/" rel="bookmark">Crisis at Southern Border? Manchin Reveals His Thoughts on Biden’s Message To Immigrants</a></h2>
+<h2 class="entry-title"><a href="https://ijr.com/over-470-people-charged-trying-to-steal-569-million/" rel="bookmark">Over 470 People Charged With Trying To Steal More Than $569 Million in Fraud Schemes Related To Pandemic</a></h2>
 </header><!-- .entry-header -->
 <div class="entry-content">
-					"Oh it's a crisis."				</div>
+					"No matter where you are or who you are, we will find you and prosecute you."				</div>
 <div class="entry-meta">
 <div class="bb-user-avatar-wrap">
 <div class="avatar-wrap">
@@ -1014,11 +607,11 @@ body.home-page header.entry-header {
 <div class="meta-wrap">
 <a class="post-author" href="https://ijr.com/members/savannah/">
 				Savannah Rychcik			</a>
-<span class="post-date"><a href="https://ijr.com/southern-border-manchin-bidens-message/">March 16, 2021</a></span>
+<span class="post-date"><a href="https://ijr.com/over-470-people-charged-trying-to-steal-569-million/">March 26, 2021</a></span>
 </div>
 </div>
 <div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/southern-border-manchin-bidens-message/#respond">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/over-470-people-charged-trying-to-steal-569-million/#respond">
 <i class="bb-icon-comment"></i>
 <span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
 </a>
@@ -1026,19 +619,19 @@ body.home-page header.entry-header {
 </div>
 </div>
 </div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283433 -->
-<article class="post-1283435 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-mitch-mcconnell" id="post-1283435">
+</article><!-- #post-1285306 -->
+<article class="post-1285307 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-brian-kemp tag-stacey-abrams" id="post-1285307">
 <div class="post-inner-wrap">
 <div class="ratio-wrap">
-<a class="entry-media entry-img" href="https://ijr.com/mcconnell-warns-scorched-earth-filibuster/" title="Permalink to McConnell Warns of ‘Scorched Earth’ if Democrats Dump Filibuster">
-<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-16T145405Z_1_LYNXMPEH2F164_RTROPTP_4_USA-TRUMP-IMPEACHMENT-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-16T145405Z_1_LYNXMPEH2F164_RTROPTP_4_USA-TRUMP-IMPEACHMENT-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T145405Z_1_LYNXMPEH2F164_RTROPTP_4_USA-TRUMP-IMPEACHMENT-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T145405Z_1_LYNXMPEH2F164_RTROPTP_4_USA-TRUMP-IMPEACHMENT-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T145405Z_1_LYNXMPEH2F164_RTROPTP_4_USA-TRUMP-IMPEACHMENT-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T145405Z_1_LYNXMPEH2F164_RTROPTP_4_USA-TRUMP-IMPEACHMENT-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-16T145405Z_1_LYNXMPEH2F164_RTROPTP_4_USA-TRUMP-IMPEACHMENT-624x416.jpg 624w" width="640"/> </a>
+<a class="entry-media entry-img" href="https://ijr.com/civil-rights-groups-sue-georgia-voting-restrictions/" title="Permalink to US Civil Rights Groups Sue Georgia Over Sweeping New Voting Restrictions">
+<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T152243Z_3_LYNXMPEH2P1B1_RTROPTP_4_USA-GEORGIA-VOTING-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T152243Z_3_LYNXMPEH2P1B1_RTROPTP_4_USA-GEORGIA-VOTING-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T152243Z_3_LYNXMPEH2P1B1_RTROPTP_4_USA-GEORGIA-VOTING-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T152243Z_3_LYNXMPEH2P1B1_RTROPTP_4_USA-GEORGIA-VOTING-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T152243Z_3_LYNXMPEH2P1B1_RTROPTP_4_USA-GEORGIA-VOTING-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T152243Z_3_LYNXMPEH2P1B1_RTROPTP_4_USA-GEORGIA-VOTING-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T152243Z_3_LYNXMPEH2P1B1_RTROPTP_4_USA-GEORGIA-VOTING-624x416.jpg 624w" width="640"/> </a>
 </div>
 <div class="entry-content-wrap">
 <header class="entry-header">
-<h2 class="entry-title"><a href="https://ijr.com/mcconnell-warns-scorched-earth-filibuster/" rel="bookmark">McConnell Warns of ‘Scorched Earth’ if Democrats Dump Filibuster</a></h2>
+<h2 class="entry-title"><a href="https://ijr.com/civil-rights-groups-sue-georgia-voting-restrictions/" rel="bookmark">US Civil Rights Groups Sue Georgia Over Sweeping New Voting Restrictions</a></h2>
 </header><!-- .entry-header -->
 <div class="entry-content">
-					It would lead to a "completely scorched earth" Senate, he says.				</div>
+					The legislation has alarmed Democrats.				</div>
 <div class="entry-meta">
 <div class="bb-user-avatar-wrap">
 <div class="avatar-wrap">
@@ -1048,19 +641,427 @@ body.home-page header.entry-header {
 <div class="meta-wrap">
 <a class="post-author" href="https://ijr.com/members/reuters/">
 				Reuters			</a>
-<span class="post-date"><a href="https://ijr.com/mcconnell-warns-scorched-earth-filibuster/">March 16, 2021</a></span>
+<span class="post-date"><a href="https://ijr.com/civil-rights-groups-sue-georgia-voting-restrictions/">March 26, 2021</a></span>
 </div>
 </div>
 <div class="push-right flex align-items-center top-meta">
-<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/mcconnell-warns-scorched-earth-filibuster/#comments">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/civil-rights-groups-sue-georgia-voting-restrictions/#comments">
 <i class="bb-icon-comment"></i>
-<span class="comments-count">2 <span class="bb-comment-text">Comments</span></span>
+<span class="comments-count">3 <span class="bb-comment-text">Comments</span></span>
 </a>
 </div>
 </div>
 </div>
 </div><!--Close '.post-inner-wrap'-->
-</article><!-- #post-1283435 -->
+</article><!-- #post-1285307 -->
+<article class="post-1285296 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-coronavirus-outbreak tag-robert-redfield" id="post-1285296">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/redfield-claim-believes-covid-19-originated/" title="Permalink to Redfield Reveals Where He Believes COVID-19 Originated — And It Isn’t a ‘Bat To a Human’">
+<img alt="" class="attachment-large size-large wp-post-image" height="320" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/Untitled-Design-87.png" srcset="https://ijr.com/wp-content/uploads/2021/03/Untitled-Design-87.png 640w, https://ijr.com/wp-content/uploads/2021/03/Untitled-Design-87-300x150.png 300w, https://ijr.com/wp-content/uploads/2021/03/Untitled-Design-87-624x312.png 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/redfield-claim-believes-covid-19-originated/" rel="bookmark">Redfield Reveals Where He Believes COVID-19 Originated — And It Isn’t a ‘Bat To a Human’</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"These are two significant things to say."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/madisonsummers/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/351/5bb3b82274c76-bpthumb.jpg" srcset="https://ijr.com/wp-content/uploads/avatars/351/5bb3b820aa2ca-bpfull.jpg 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/madisonsummers/">
+				Madison Summers			</a>
+<span class="post-date"><a href="https://ijr.com/redfield-claim-believes-covid-19-originated/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/redfield-claim-believes-covid-19-originated/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">7 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285296 -->
+<article class="post-1285288 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-2020-presidential-election tag-media" id="post-1285288">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/fox-news-sued-dominion-1-6-billion-election-claims/" title="Permalink to Fox News Sued by Dominion for $1.6 Billion Over Election Claims">
+<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T113814Z_2_LYNXMPEH2P0TR_RTROPTP_4_USA-ELECTION-DISCLAIMER-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T113814Z_2_LYNXMPEH2P0TR_RTROPTP_4_USA-ELECTION-DISCLAIMER-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T113814Z_2_LYNXMPEH2P0TR_RTROPTP_4_USA-ELECTION-DISCLAIMER-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T113814Z_2_LYNXMPEH2P0TR_RTROPTP_4_USA-ELECTION-DISCLAIMER-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T113814Z_2_LYNXMPEH2P0TR_RTROPTP_4_USA-ELECTION-DISCLAIMER-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T113814Z_2_LYNXMPEH2P0TR_RTROPTP_4_USA-ELECTION-DISCLAIMER-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T113814Z_2_LYNXMPEH2P0TR_RTROPTP_4_USA-ELECTION-DISCLAIMER-624x416.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/fox-news-sued-dominion-1-6-billion-election-claims/" rel="bookmark">Fox News Sued by Dominion for $1.6 Billion Over Election Claims</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"The truth matters. Lies have consequences."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/madisonsummers/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/351/5bb3b82274c76-bpthumb.jpg" srcset="https://ijr.com/wp-content/uploads/avatars/351/5bb3b820aa2ca-bpfull.jpg 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/madisonsummers/">
+				Madison Summers			</a>
+<span class="post-date"><a href="https://ijr.com/fox-news-sued-dominion-1-6-billion-election-claims/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/fox-news-sued-dominion-1-6-billion-election-claims/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">3 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285288 -->
+<article class="post-1285281 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-adam-kinzinger tag-donald-trump" id="post-1285281">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/trump-calls-capitol-riot-zero-threat/" title="Permalink to Trump Calls Capitol Riot ‘Zero Threat, Right From the Start’">
+<img alt="" class="attachment-large size-large wp-post-image" height="433" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/01/2021-01-11T110508Z_1_LYNXMPEH0A0LP_RTROPTP_4_USA-JUSTICE-PROSECUTOR-TRUMP-1024x692.jpg" srcset="https://ijr.com/wp-content/uploads/2021/01/2021-01-11T110508Z_1_LYNXMPEH0A0LP_RTROPTP_4_USA-JUSTICE-PROSECUTOR-TRUMP-1024x692.jpg 1024w, https://ijr.com/wp-content/uploads/2021/01/2021-01-11T110508Z_1_LYNXMPEH0A0LP_RTROPTP_4_USA-JUSTICE-PROSECUTOR-TRUMP-300x203.jpg 300w, https://ijr.com/wp-content/uploads/2021/01/2021-01-11T110508Z_1_LYNXMPEH0A0LP_RTROPTP_4_USA-JUSTICE-PROSECUTOR-TRUMP-768x519.jpg 768w, https://ijr.com/wp-content/uploads/2021/01/2021-01-11T110508Z_1_LYNXMPEH0A0LP_RTROPTP_4_USA-JUSTICE-PROSECUTOR-TRUMP-1536x1038.jpg 1536w, https://ijr.com/wp-content/uploads/2021/01/2021-01-11T110508Z_1_LYNXMPEH0A0LP_RTROPTP_4_USA-JUSTICE-PROSECUTOR-TRUMP-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/01/2021-01-11T110508Z_1_LYNXMPEH0A0LP_RTROPTP_4_USA-JUSTICE-PROSECUTOR-TRUMP-624x422.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/trump-calls-capitol-riot-zero-threat/" rel="bookmark">Trump Calls Capitol Riot ‘Zero Threat, Right From the Start’</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"No remorse and no regret."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/madisonsummers/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/351/5bb3b82274c76-bpthumb.jpg" srcset="https://ijr.com/wp-content/uploads/avatars/351/5bb3b820aa2ca-bpfull.jpg 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/madisonsummers/">
+				Madison Summers			</a>
+<span class="post-date"><a href="https://ijr.com/trump-calls-capitol-riot-zero-threat/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/trump-calls-capitol-riot-zero-threat/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">3 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285281 -->
+<article class="post-1285241 post type-post status-publish format-standard has-post-thumbnail hentry category-wire tag-second-amendment" id="post-1285241">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/federal-court-americans-no-right-carry-arms-openly-public/" title="Permalink to Federal Court Rules Americans Have ‘No Right to Carry Arms Openly in Public’">
+<img alt="" class="attachment-large size-large wp-post-image" height="417" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T105121Z_3_LYNXMPEH2P0O0_RTROPTP_4_USA-COURT-GUNS-1024x667.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T105121Z_3_LYNXMPEH2P0O0_RTROPTP_4_USA-COURT-GUNS-1024x667.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T105121Z_3_LYNXMPEH2P0O0_RTROPTP_4_USA-COURT-GUNS-300x195.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T105121Z_3_LYNXMPEH2P0O0_RTROPTP_4_USA-COURT-GUNS-768x500.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T105121Z_3_LYNXMPEH2P0O0_RTROPTP_4_USA-COURT-GUNS-1536x1000.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T105121Z_3_LYNXMPEH2P0O0_RTROPTP_4_USA-COURT-GUNS-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T105121Z_3_LYNXMPEH2P0O0_RTROPTP_4_USA-COURT-GUNS-624x406.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/federal-court-americans-no-right-carry-arms-openly-public/" rel="bookmark">Federal Court Rules Americans Have ‘No Right to Carry Arms Openly in Public’</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"There is no right to carry arms openly in public."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/wj/">
+<img alt="" class="avatar avatar-80 photo avatar-default" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png" srcset="https://ijr.com/wp-content/uploads/2021/02/wj_logo.png 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/wj/">
+				Erin Coates, The Western Journal			</a>
+<span class="post-date"><a href="https://ijr.com/federal-court-americans-no-right-carry-arms-openly-public/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/federal-court-americans-no-right-carry-arms-openly-public/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">3 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285241 -->
+<article class="post-1285262 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-congress tag-military" id="post-1285262">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/bid-take-back-forever-war-authority-congress/" title="Permalink to Bid To Take Back ‘Forever War’ Authority Advances in US Congress">
+<img alt="" class="attachment-large size-large wp-post-image" height="426" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T010057Z_2_LYNXMPEH2O1ZQ_RTROPTP_4_USA-COAL-SUBSIDY-1024x681.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T010057Z_2_LYNXMPEH2O1ZQ_RTROPTP_4_USA-COAL-SUBSIDY-1024x681.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T010057Z_2_LYNXMPEH2O1ZQ_RTROPTP_4_USA-COAL-SUBSIDY-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T010057Z_2_LYNXMPEH2O1ZQ_RTROPTP_4_USA-COAL-SUBSIDY-768x511.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T010057Z_2_LYNXMPEH2O1ZQ_RTROPTP_4_USA-COAL-SUBSIDY-1536x1022.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T010057Z_2_LYNXMPEH2O1ZQ_RTROPTP_4_USA-COAL-SUBSIDY-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T010057Z_2_LYNXMPEH2O1ZQ_RTROPTP_4_USA-COAL-SUBSIDY-624x415.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/bid-take-back-forever-war-authority-congress/" rel="bookmark">Bid To Take Back ‘Forever War’ Authority Advances in US Congress</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					The House Foreign Affairs Committee voted 28 to 19 to repeal the authorization.				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/reuters/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/reuters/">
+				Reuters			</a>
+<span class="post-date"><a href="https://ijr.com/bid-take-back-forever-war-authority-congress/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/bid-take-back-forever-war-authority-congress/#respond">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285262 -->
+<article class="post-1285263 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-brian-kemp" id="post-1285263">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/georgia-bans-giving-water-voters-line-restrictions/" title="Permalink to Georgia Bans Giving Water To Voters in Line Under Sweeping Restrictions">
+<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T194433Z_2_LYNXMPEH2O1LY_RTROPTP_4_USA-GEORGIA-VOTING-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T194433Z_2_LYNXMPEH2O1LY_RTROPTP_4_USA-GEORGIA-VOTING-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T194433Z_2_LYNXMPEH2O1LY_RTROPTP_4_USA-GEORGIA-VOTING-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T194433Z_2_LYNXMPEH2O1LY_RTROPTP_4_USA-GEORGIA-VOTING-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T194433Z_2_LYNXMPEH2O1LY_RTROPTP_4_USA-GEORGIA-VOTING-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T194433Z_2_LYNXMPEH2O1LY_RTROPTP_4_USA-GEORGIA-VOTING-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T194433Z_2_LYNXMPEH2O1LY_RTROPTP_4_USA-GEORGIA-VOTING-624x416.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/georgia-bans-giving-water-voters-line-restrictions/" rel="bookmark">Georgia Bans Giving Water To Voters in Line Under Sweeping Restrictions</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"There's no doubt there were many alarming issues with how the election was handled."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/reuters/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/reuters/">
+				Reuters			</a>
+<span class="post-date"><a href="https://ijr.com/georgia-bans-giving-water-voters-line-restrictions/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/georgia-bans-giving-water-voters-line-restrictions/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">5 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285263 -->
+<article class="post-1285264 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-joe-biden tag-vladimir-putin tag-xi-jinping" id="post-1285264">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/biden-compares-xi-putin-republican-voting-restriction-plans/" title="Permalink to Biden Compares Xi To Putin, Republican Voting Restriction Plans To Segregation-Era Laws">
+<img alt="" class="attachment-large size-large wp-post-image" height="493" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T180137Z_1_LYNXMPEH2O1MJ_RTROPTP_4_USA-BIDEN-1024x789.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T180137Z_1_LYNXMPEH2O1MJ_RTROPTP_4_USA-BIDEN-1024x789.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T180137Z_1_LYNXMPEH2O1MJ_RTROPTP_4_USA-BIDEN-300x231.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T180137Z_1_LYNXMPEH2O1MJ_RTROPTP_4_USA-BIDEN-768x591.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T180137Z_1_LYNXMPEH2O1MJ_RTROPTP_4_USA-BIDEN-1536x1183.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T180137Z_1_LYNXMPEH2O1MJ_RTROPTP_4_USA-BIDEN-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T180137Z_1_LYNXMPEH2O1MJ_RTROPTP_4_USA-BIDEN-624x481.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/biden-compares-xi-putin-republican-voting-restriction-plans/" rel="bookmark">Biden Compares Xi To Putin, Republican Voting Restriction Plans To Segregation-Era Laws</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"He’s one of the guys, like Putin, who thinks that autocracy is the wave of the future."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/reuters/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/reuters/">
+				Reuters			</a>
+<span class="post-date"><a href="https://ijr.com/biden-compares-xi-putin-republican-voting-restriction-plans/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/biden-compares-xi-putin-republican-voting-restriction-plans/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">1 <span class="bb-comment-text">Comment</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285264 -->
+<article class="post-1285261 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-immigration" id="post-1285261">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/us-plans-going-after-smugglers-migrant-surge/" title="Permalink to US Plans on ‘Going After’ Smugglers Aiding Migrant Surge on Mexico Border: Official">
+<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T034639Z_1_LYNXMPEH2P06K_RTROPTP_4_USA-IMMIGRATION-MEXICO-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-26T034639Z_1_LYNXMPEH2P06K_RTROPTP_4_USA-IMMIGRATION-MEXICO-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T034639Z_1_LYNXMPEH2P06K_RTROPTP_4_USA-IMMIGRATION-MEXICO-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T034639Z_1_LYNXMPEH2P06K_RTROPTP_4_USA-IMMIGRATION-MEXICO-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T034639Z_1_LYNXMPEH2P06K_RTROPTP_4_USA-IMMIGRATION-MEXICO-1536x1025.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T034639Z_1_LYNXMPEH2P06K_RTROPTP_4_USA-IMMIGRATION-MEXICO-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-26T034639Z_1_LYNXMPEH2P06K_RTROPTP_4_USA-IMMIGRATION-MEXICO-624x416.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/us-plans-going-after-smugglers-migrant-surge/" rel="bookmark">US Plans on ‘Going After’ Smugglers Aiding Migrant Surge on Mexico Border: Official</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"We see a convergence of interests."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/reuters/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/reuters/">
+				Reuters			</a>
+<span class="post-date"><a href="https://ijr.com/us-plans-going-after-smugglers-migrant-surge/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/us-plans-going-after-smugglers-migrant-surge/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">1 <span class="bb-comment-text">Comment</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285261 -->
+<article class="post-1285265 post type-post status-publish format-standard has-post-thumbnail hentry category-news" id="post-1285265">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/at-least-five-killed-tornadoes-alabama/" title="Permalink to At Least 5 Killed as Tornadoes Rip Through Alabama, Destroying Homes">
+<img alt="" class="attachment-large size-large wp-post-image" height="427" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T231255Z_1_LYNXMPEH2O1YI_RTROPTP_4_USA-WEATHER-TORNADOES-1024x683.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T231255Z_1_LYNXMPEH2O1YI_RTROPTP_4_USA-WEATHER-TORNADOES-1024x683.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T231255Z_1_LYNXMPEH2O1YI_RTROPTP_4_USA-WEATHER-TORNADOES-300x200.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T231255Z_1_LYNXMPEH2O1YI_RTROPTP_4_USA-WEATHER-TORNADOES-768x512.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T231255Z_1_LYNXMPEH2O1YI_RTROPTP_4_USA-WEATHER-TORNADOES-1536x1024.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T231255Z_1_LYNXMPEH2O1YI_RTROPTP_4_USA-WEATHER-TORNADOES-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T231255Z_1_LYNXMPEH2O1YI_RTROPTP_4_USA-WEATHER-TORNADOES-624x416.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/at-least-five-killed-tornadoes-alabama/" rel="bookmark">At Least 5 Killed as Tornadoes Rip Through Alabama, Destroying Homes</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					Several powerful tornadoes tore through northern Alabama.				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/reuters/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/reuters/">
+				Reuters			</a>
+<span class="post-date"><a href="https://ijr.com/at-least-five-killed-tornadoes-alabama/">March 26, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/at-least-five-killed-tornadoes-alabama/#respond">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285265 -->
+<article class="post-1285204 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-joe-biden tag-kayleigh-mcenany" id="post-1285204">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/mcenany-skewers-biden-handling-first-press-conference/" title="Permalink to McEnany Skewers Biden Over His Handling of First Press Conference">
+<img alt="" class="attachment-large size-large wp-post-image" height="360" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/photomix-image-11.png" srcset="https://ijr.com/wp-content/uploads/2021/03/photomix-image-11.png 800w, https://ijr.com/wp-content/uploads/2021/03/photomix-image-11-300x169.png 300w, https://ijr.com/wp-content/uploads/2021/03/photomix-image-11-768x432.png 768w, https://ijr.com/wp-content/uploads/2021/03/photomix-image-11-624x351.png 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/mcenany-skewers-biden-handling-first-press-conference/" rel="bookmark">McEnany Skewers Biden Over His Handling of First Press Conference</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"He left a lot of questions unanswered, from his position on abolishing the filibuster to just how egregious our southern border crisis truly is."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/bradley/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon" srcset="https://www.gravatar.com/avatar/7c8b950c63c51e88990b07b387c13484?s=80&amp;r=r&amp;d=identicon 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/bradley/">
+				Bradley Cortright			</a>
+<span class="post-date"><a href="https://ijr.com/mcenany-skewers-biden-handling-first-press-conference/">March 25, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/mcenany-skewers-biden-handling-first-press-conference/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">19 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285204 -->
+<article class="post-1285227 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-law-enforcement" id="post-1285227">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/new-york-city-deploying-asian-undercover-force-combat-hate-crimes/" title="Permalink to New York City Deploying Asian Undercover Force To Combat Hate Crimes">
+<img alt="" class="attachment-large size-large wp-post-image" height="440" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T213843Z_1_LYNXMPEH2O1U3_RTROPTP_4_CRIME-GEORGIA-SPAS-1024x704.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T213843Z_1_LYNXMPEH2O1U3_RTROPTP_4_CRIME-GEORGIA-SPAS-1024x704.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T213843Z_1_LYNXMPEH2O1U3_RTROPTP_4_CRIME-GEORGIA-SPAS-300x206.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T213843Z_1_LYNXMPEH2O1U3_RTROPTP_4_CRIME-GEORGIA-SPAS-768x528.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T213843Z_1_LYNXMPEH2O1U3_RTROPTP_4_CRIME-GEORGIA-SPAS-1536x1056.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T213843Z_1_LYNXMPEH2O1U3_RTROPTP_4_CRIME-GEORGIA-SPAS-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T213843Z_1_LYNXMPEH2O1U3_RTROPTP_4_CRIME-GEORGIA-SPAS-624x429.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/new-york-city-deploying-asian-undercover-force-combat-hate-crimes/" rel="bookmark">New York City Deploying Asian Undercover Force To Combat Hate Crimes</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"The next person you target through speech or menacing activity may be a plain-clothed New York police officer - so think twice."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/reuters/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/reuters/">
+				Reuters			</a>
+<span class="post-date"><a href="https://ijr.com/new-york-city-deploying-asian-undercover-force-combat-hate-crimes/">March 25, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/new-york-city-deploying-asian-undercover-force-combat-hate-crimes/#comments">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">3 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285227 -->
+<article class="post-1285219 post type-post status-publish format-standard has-post-thumbnail hentry category-ijr tag-iran tag-joe-biden" id="post-1285219">
+<div class="post-inner-wrap">
+<div class="ratio-wrap">
+<a class="entry-media entry-img" href="https://ijr.com/iran-toughens-stance-hopes-nuclear-thaw-june-diminish/" title="Permalink to As Iran Toughens Stance, Hopes for Nuclear Thaw Before June Diminish">
+<img alt="" class="attachment-large size-large wp-post-image" height="428" loading="lazy" sizes="(max-width:768px) 768px, (max-width:1024px) 1024px, 1024px" src="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T205211Z_1_LYNXMPEH2O1SW_RTROPTP_4_IRAN-NUCLEAR-ANALYSIS-1-1024x684.jpg" srcset="https://ijr.com/wp-content/uploads/2021/03/2021-03-25T205211Z_1_LYNXMPEH2O1SW_RTROPTP_4_IRAN-NUCLEAR-ANALYSIS-1-1024x684.jpg 1024w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T205211Z_1_LYNXMPEH2O1SW_RTROPTP_4_IRAN-NUCLEAR-ANALYSIS-1-300x201.jpg 300w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T205211Z_1_LYNXMPEH2O1SW_RTROPTP_4_IRAN-NUCLEAR-ANALYSIS-1-768x513.jpg 768w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T205211Z_1_LYNXMPEH2O1SW_RTROPTP_4_IRAN-NUCLEAR-ANALYSIS-1-1536x1027.jpg 1536w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T205211Z_1_LYNXMPEH2O1SW_RTROPTP_4_IRAN-NUCLEAR-ANALYSIS-1-scaled.jpg 2048w, https://ijr.com/wp-content/uploads/2021/03/2021-03-25T205211Z_1_LYNXMPEH2O1SW_RTROPTP_4_IRAN-NUCLEAR-ANALYSIS-1-624x417.jpg 624w" width="640"/> </a>
+</div>
+<div class="entry-content-wrap">
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://ijr.com/iran-toughens-stance-hopes-nuclear-thaw-june-diminish/" rel="bookmark">As Iran Toughens Stance, Hopes for Nuclear Thaw Before June Diminish</a></h2>
+</header><!-- .entry-header -->
+<div class="entry-content">
+					"The Americans must lift all sanctions."				</div>
+<div class="entry-meta">
+<div class="bb-user-avatar-wrap">
+<div class="avatar-wrap">
+<a href="https://ijr.com/members/reuters/">
+<img alt="" class="avatar avatar-80 photo" height="80" loading="lazy" src="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce4b0adce-bpthumb.png" srcset="https://ijr.com/wp-content/uploads/avatars/350/5bb4ce49172f1-bpfull.png 2x" width="80"/> </a>
+</div>
+<div class="meta-wrap">
+<a class="post-author" href="https://ijr.com/members/reuters/">
+				Reuters			</a>
+<span class="post-date"><a href="https://ijr.com/iran-toughens-stance-hopes-nuclear-thaw-june-diminish/">March 25, 2021</a></span>
+</div>
+</div>
+<div class="push-right flex align-items-center top-meta">
+<a class="flex align-items-center bb-comments-wrap" href="https://ijr.com/iran-toughens-stance-hopes-nuclear-thaw-june-diminish/#respond">
+<i class="bb-icon-comment"></i>
+<span class="comments-count">0 <span class="bb-comment-text">Comments</span></span>
+</a>
+</div>
+</div>
+</div>
+</div><!--Close '.post-inner-wrap'-->
+</article><!-- #post-1285219 -->
 </div>
 <div class="bb-pagination pagination-below"><a class="button-load-more-posts post-infinite-scroll" data-page="2" data-template="home" href="https://ijr.com/page/2/">Load More</a></div>
 </main><!-- #main -->
@@ -1441,7 +1442,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script id="bp-nouveau-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var BP_Nouveau = {"ajaxurl":"https:\/\/ijr.com\/wp-admin\/admin-ajax.php","only_admin_notice":"As you are the only organizer of this group, you cannot leave it. You can either delete the group or promote another member to be an organizer first and then leave the group.","is_friend_confirm":"Are you sure you want to remove your connection with this member?","confirm":"Are you sure?","confirm_delete_set":"Are you sure you want to delete this set? This cannot be undone.","show_x_comments":"View previous comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","object_nav_parent":"#buddypress","empty_field":"New Field","objects":{"0":"activity","1":"members","3":"blogs","4":"xprofile","5":"friends","6":"media","7":"document","8":"messages","9":"settings","10":"notifications","11":"search","12":"moderation"},"nonces":{"activity":"fb4d2cd0b3","members":"31cff6103c","blogs":"1064cc5b42","xprofile":"238ed2ff08","friends":"124770eacb","media":"ed0d1461a4","document":"a041f95610","messages":"df181d42d7","settings":"6013b53b60","notifications":"f7ea8dcfd8","search":"37aae2a899","moderation":"0906785e0f"},"modbypass":null,"activity":{"params":{"user_id":0,"object":"user","backcompat":false,"post_nonce":"2f86505334","excluded_hosts":[],"user_can_post":false,"is_activity_edit":false,"errors":{"empty_post_update":"Sorry, Your update cannot be empty."},"avatar_url":false,"avatar_width":150,"avatar_height":150,"user_display_name":false,"user_domain":"","avatar_alt":"Profile photo of ","autoload":true,"link_preview":true,"objects":{"profile":{"text":"Post in: Profile","autocomplete_placeholder":"","priority":5}},"access_control_settings":{"can_create_activity":true,"can_create_activity_media":true,"can_create_activity_document":true}},"strings":{"whatsnewPlaceholder":"Write here or use @ to mention someone.","whatsnewLabel":"Post what's new","whatsnewpostinLabel":"Post in","postUpdateButton":"Post Update","cancelButton":"Cancel","commentLabel":"%d Comment","commentsLabel":"%d Comments","loadingMore":"Loading..."}},"media":{"max_upload_size":8,"profile_media":false,"profile_album":false,"group_media":false,"group_album":false,"messages_media":false,"messages_media_active":false,"dropzone_media_message":"Drop images here to upload","media_select_error":"This file type is not supported for photo uploads.","empty_media_type":"Empty media file will not be uploaded.","invalid_media_type":"Unable to upload the file","media_size_error_header":"File too large ","media_size_error_description":"This file type is too large.","dictFileTooBig":"File is too large ({{filesize}} MB). Max file size: {{maxFilesize}} MB.","cover_photo_size_error_header":"Unable to reposition the image ","cover_photo_size_error_description":"To reposition your cover photo, please upload a larger image and then try again.","maxFiles":10,"is_media_directory":"no","create_album_error_title":"Please enter title of album","current_album":0,"current_type":"","move_to_id_popup":0,"media_dict_file_exceeded":"You are allowed to upload only 10 photos at a time.","can_manage_media":false,"emoji":{"profile":true,"groups":true,"messages":true,"forums":true,"document":false},"emoji_filter_url":"https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform\/bp-core\/images\/emojifilter\/","gif":{"profile":true,"groups":true,"messages":true,"forums":true,"document":false},"gif_api_key":"WyBIC0fYOLt4dFQSCKviwWuLPG8zUode","i18n_strings":{"select":"Select","unselect":"Unselect","selectall":"Select All","unselectall":"Unselect All","no_photos_found":"Sorry, no photos were found","upload":"Upload","uploading":"Uploading","upload_status":"%1$d out of %2$d uploaded","album_delete_confirm":"Are you sure you want to delete this album? Photos in this album will also be deleted.","album_delete_error":"There was a problem deleting the album.","media_delete_confirm":"Are you sure you want to delete this media?","folder_delete_confirm":"Are you sure you want to delete this folder? Documents in this folder will also be deleted?","document_delete_confirm":"Are you sure you want to delete this document?","folder_delete_error":"There was a problem deleting the folder.","folder_move_error":"Please select destination folder."},"profile_document":false,"group_document":false,"messages_document":false,"messages_document_active":false,"document_type":"application\/x-abiword,text\/xml,application\/x-ace-compressed,application\/postscript,application\/pdf,application\/vnd.android.package-archive,application\/java-archive,text\/css,text\/plain,text\/csv,application\/msword,application\/vnd.ms-word.document.macroenabled.12,application\/vnd.openxmlformats-officedocument.wordprocessingml.document,application\/vnd.ms-word.template.macroenabled.12,image\/x-eps,image\/gif,application\/x-gzip,application\/gzip,text\/html,image\/x-icon,text\/calendar,application\/octet-stream,image\/jpeg,application\/javascript,audio\/mpeg,application\/vnd.oasis.opendocument.spreadsheet,application\/vnd.oasis.opendocument.text,image\/png,application\/vnd.ms-powerpoint.template.macroenabled.12,application\/vnd.openxmlformats-officedocument.presentationml.template,application\/vnd.openxmlformats-officedocument.presentationml.presentation,application\/vnd.ms-powerpoint,application\/vnd.openxmlformats-officedocument.presentationml.slideshow,application\/vnd.ms-powerpoint.presentation.macroenabled.12,image\/vnd.adobe.photoshop,application\/x-rar-compressed,application\/x-rar,application\/rss+xml,application\/rtf,application\/x-sqlite3,image\/svg+xml,application\/x-tar,image\/tiff,text\/x-vcard,text\/vcard,audio\/x-wav,application\/vnd.ms-excel.sheet.binary.macroenabled.12,application\/vnd.ms-excel,application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application\/vnd.ms-excel.sheet.macroenabled.12,application\/vnd.ms-excel.template.macroenabled.12,application\/vnd.openxmlformats-officedocument.spreadsheetml.template,text\/yaml,application\/zip,application\/x-7z-compressed,.abw,.ace,.ai,.apk,.css,.csv,.doc,.docm,.docx,.dotm,.dotx,.eps,.gif,.gz,.gzip,.htm,.html,.ico,.ics,.ipa,.jar,.jpeg,.jpg,.js,.mp3,.ods,.odt,.pdf,.png,.potm,.potx,.pps,.ppsx,.ppt,.pptm,.pptx,.psd,.rar,.rss,.rtf,.sketch,.svg,.tar,.tiff,.txt,.vcf,.wav,.xlam,.xls,.xlsb,.xlsm,.xlsx,.xltm,.xltx,.xml,.yaml,.zip,.7z","empty_document_type":"Empty documents will not be uploaded.","current_folder":0,"current_user_id":0,"current_group_id":0,"target_text":"Documents","create_folder_error_title":"Please enter title of folder","invalid_file_type":"Unable to upload the file","document_select_error":"Please upload only the following file types: <br \/><div class=\"bb-allowed-file-types\">.abw, .ace, .ai, .apk, .css, .csv, .doc, .docm, .docx, .dotm, .dotx, .eps, .gif, .gz, .gzip, .htm, .html, .ico, .ics, .ipa, .jar, .jpeg, .jpg, .js, .mp3, .ods, .odt, .pdf, .png, .potm, .potx, .pps, .ppsx, .ppt, .pptm, .pptx, .psd, .rar, .rss, .rtf, .sketch, .svg, .tar, .tiff, .txt, .vcf, .wav, .xlam, .xls, .xlsb, .xlsm, .xlsx, .xltm, .xltx, .xml, .yaml, .zip, .7z<\/div>","dropzone_document_message":"Drop files here to upload","is_document_directory":"no","document_preview_error":"Sorry! something went wrong we are not able to preview.","move_to_folder":"Move folder to...","move_to_file":"Move document to...","copy_to_clip_board_text":"Copied to Clipboard","download_button":"Download","document_size_error_header":"File too large ","document_size_error_description":"This file type is too large.","sidebar_download_text":"Download","sidebar_view_text":"View","create_folder":"Create Folder","document_dict_file_exceeded":"You are allowed to upload only 10 documents at a time.","can_manage_document":false},"moderation":{"unblock_user_msg":"Are you sure you want to unblock this member?","no_user_msg":"No blocked members found."},"document":{"dictInvalidFileType":"Please upload only the following file types: <br \/><div class=\"bb-allowed-file-types\">.abw, .ace, .ai, .apk, .css, .csv, .doc, .docm, .docx, .dotm, .dotx, .eps, .gif, .gz, .gzip, .htm, .html, .ico, .ics, .ipa, .jar, .jpeg, .jpg, .js, .mp3, .ods, .odt, .pdf, .png, .potm, .potx, .pps, .ppsx, .ppt, .pptm, .pptx, .psd, .rar, .rss, .rtf, .sketch, .svg, .tar, .tiff, .txt, .vcf, .wav, .xlam, .xls, .xlsb, .xlsm, .xlsx, .xltm, .xltx, .xml, .yaml, .zip, .7z<\/div>","max_upload_size":8,"maxFiles":10,"mp3_preview_extension":"mp3,wav,ogg"}};
+var BP_Nouveau = {"ajaxurl":"https:\/\/ijr.com\/wp-admin\/admin-ajax.php","only_admin_notice":"As you are the only organizer of this group, you cannot leave it. You can either delete the group or promote another member to be an organizer first and then leave the group.","is_friend_confirm":"Are you sure you want to remove your connection with this member?","confirm":"Are you sure?","confirm_delete_set":"Are you sure you want to delete this set? This cannot be undone.","show_x_comments":"View previous comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","object_nav_parent":"#buddypress","empty_field":"New Field","objects":{"0":"activity","1":"members","3":"blogs","4":"xprofile","5":"friends","6":"media","7":"document","8":"messages","9":"settings","10":"notifications","11":"search","12":"moderation"},"nonces":{"activity":"fdc1155f89","members":"f6c38be570","blogs":"94a5c1c19e","xprofile":"dd72e2e15d","friends":"076b56e634","media":"a6994f8efa","document":"1d0ed26617","messages":"187f8cf795","settings":"25eea93e9b","notifications":"e52eee3fe4","search":"5dd76c0d9f","moderation":"563434dfd1"},"modbypass":null,"activity":{"params":{"user_id":0,"object":"user","backcompat":false,"post_nonce":"d8dd378b2c","excluded_hosts":[],"user_can_post":false,"is_activity_edit":false,"errors":{"empty_post_update":"Sorry, Your update cannot be empty."},"avatar_url":false,"avatar_width":150,"avatar_height":150,"user_display_name":false,"user_domain":"","avatar_alt":"Profile photo of ","autoload":true,"link_preview":true,"objects":{"profile":{"text":"Post in: Profile","autocomplete_placeholder":"","priority":5}},"access_control_settings":{"can_create_activity":true,"can_create_activity_media":true,"can_create_activity_document":true}},"strings":{"whatsnewPlaceholder":"Write here or use @ to mention someone.","whatsnewLabel":"Post what's new","whatsnewpostinLabel":"Post in","postUpdateButton":"Post Update","cancelButton":"Cancel","commentLabel":"%d Comment","commentsLabel":"%d Comments","loadingMore":"Loading..."}},"media":{"max_upload_size":8,"profile_media":false,"profile_album":false,"group_media":false,"group_album":false,"messages_media":false,"messages_media_active":false,"dropzone_media_message":"Drop images here to upload","media_select_error":"This file type is not supported for photo uploads.","empty_media_type":"Empty media file will not be uploaded.","invalid_media_type":"Unable to upload the file","media_size_error_header":"File too large ","media_size_error_description":"This file type is too large.","dictFileTooBig":"File is too large ({{filesize}} MB). Max file size: {{maxFilesize}} MB.","cover_photo_size_error_header":"Unable to reposition the image ","cover_photo_size_error_description":"To reposition your cover photo, please upload a larger image and then try again.","maxFiles":10,"is_media_directory":"no","create_album_error_title":"Please enter title of album","current_album":0,"current_type":"","move_to_id_popup":0,"media_dict_file_exceeded":"You are allowed to upload only 10 photos at a time.","can_manage_media":false,"emoji":{"profile":true,"groups":true,"messages":true,"forums":true,"document":false},"emoji_filter_url":"https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform\/bp-core\/images\/emojifilter\/","gif":{"profile":true,"groups":true,"messages":true,"forums":true,"document":false},"gif_api_key":"WyBIC0fYOLt4dFQSCKviwWuLPG8zUode","i18n_strings":{"select":"Select","unselect":"Unselect","selectall":"Select All","unselectall":"Unselect All","no_photos_found":"Sorry, no photos were found","upload":"Upload","uploading":"Uploading","upload_status":"%1$d out of %2$d uploaded","album_delete_confirm":"Are you sure you want to delete this album? Photos in this album will also be deleted.","album_delete_error":"There was a problem deleting the album.","media_delete_confirm":"Are you sure you want to delete this media?","folder_delete_confirm":"Are you sure you want to delete this folder? Documents in this folder will also be deleted?","document_delete_confirm":"Are you sure you want to delete this document?","folder_delete_error":"There was a problem deleting the folder.","folder_move_error":"Please select destination folder."},"profile_document":false,"group_document":false,"messages_document":false,"messages_document_active":false,"document_type":"application\/x-abiword,text\/xml,application\/x-ace-compressed,application\/postscript,application\/pdf,application\/vnd.android.package-archive,application\/java-archive,text\/css,text\/plain,text\/csv,application\/msword,application\/vnd.ms-word.document.macroenabled.12,application\/vnd.openxmlformats-officedocument.wordprocessingml.document,application\/vnd.ms-word.template.macroenabled.12,image\/x-eps,image\/gif,application\/x-gzip,application\/gzip,text\/html,image\/x-icon,text\/calendar,application\/octet-stream,image\/jpeg,application\/javascript,audio\/mpeg,application\/vnd.oasis.opendocument.spreadsheet,application\/vnd.oasis.opendocument.text,image\/png,application\/vnd.ms-powerpoint.template.macroenabled.12,application\/vnd.openxmlformats-officedocument.presentationml.template,application\/vnd.openxmlformats-officedocument.presentationml.presentation,application\/vnd.ms-powerpoint,application\/vnd.openxmlformats-officedocument.presentationml.slideshow,application\/vnd.ms-powerpoint.presentation.macroenabled.12,image\/vnd.adobe.photoshop,application\/x-rar-compressed,application\/x-rar,application\/rss+xml,application\/rtf,application\/x-sqlite3,image\/svg+xml,application\/x-tar,image\/tiff,text\/x-vcard,text\/vcard,audio\/x-wav,application\/vnd.ms-excel.sheet.binary.macroenabled.12,application\/vnd.ms-excel,application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application\/vnd.ms-excel.sheet.macroenabled.12,application\/vnd.ms-excel.template.macroenabled.12,application\/vnd.openxmlformats-officedocument.spreadsheetml.template,text\/yaml,application\/zip,application\/x-7z-compressed,.abw,.ace,.ai,.apk,.css,.csv,.doc,.docm,.docx,.dotm,.dotx,.eps,.gif,.gz,.gzip,.htm,.html,.ico,.ics,.ipa,.jar,.jpeg,.jpg,.js,.mp3,.ods,.odt,.pdf,.png,.potm,.potx,.pps,.ppsx,.ppt,.pptm,.pptx,.psd,.rar,.rss,.rtf,.sketch,.svg,.tar,.tiff,.txt,.vcf,.wav,.xlam,.xls,.xlsb,.xlsm,.xlsx,.xltm,.xltx,.xml,.yaml,.zip,.7z","empty_document_type":"Empty documents will not be uploaded.","current_folder":0,"current_user_id":0,"current_group_id":0,"target_text":"Documents","create_folder_error_title":"Please enter title of folder","invalid_file_type":"Unable to upload the file","document_select_error":"Please upload only the following file types: <br \/><div class=\"bb-allowed-file-types\">.abw, .ace, .ai, .apk, .css, .csv, .doc, .docm, .docx, .dotm, .dotx, .eps, .gif, .gz, .gzip, .htm, .html, .ico, .ics, .ipa, .jar, .jpeg, .jpg, .js, .mp3, .ods, .odt, .pdf, .png, .potm, .potx, .pps, .ppsx, .ppt, .pptm, .pptx, .psd, .rar, .rss, .rtf, .sketch, .svg, .tar, .tiff, .txt, .vcf, .wav, .xlam, .xls, .xlsb, .xlsm, .xlsx, .xltm, .xltx, .xml, .yaml, .zip, .7z<\/div>","dropzone_document_message":"Drop files here to upload","is_document_directory":"no","document_preview_error":"Sorry! something went wrong we are not able to preview.","move_to_folder":"Move folder to...","move_to_file":"Move document to...","copy_to_clip_board_text":"Copied to Clipboard","download_button":"Download","document_size_error_header":"File too large ","document_size_error_description":"This file type is too large.","sidebar_download_text":"Download","sidebar_view_text":"View","create_folder":"Create Folder","document_dict_file_exceeded":"You are allowed to upload only 10 documents at a time.","can_manage_document":false},"moderation":{"unblock_user_msg":"Are you sure you want to unblock this member?","no_user_msg":"No blocked members found."},"document":{"dictInvalidFileType":"Please upload only the following file types: <br \/><div class=\"bb-allowed-file-types\">.abw, .ace, .ai, .apk, .css, .csv, .doc, .docm, .docx, .dotm, .dotx, .eps, .gif, .gz, .gzip, .htm, .html, .ico, .ics, .ipa, .jar, .jpeg, .jpg, .js, .mp3, .ods, .odt, .pdf, .png, .potm, .potx, .pps, .ppsx, .ppt, .pptm, .pptx, .psd, .rar, .rss, .rtf, .sketch, .svg, .tar, .tiff, .txt, .vcf, .wav, .xlam, .xls, .xlsb, .xlsm, .xlsx, .xltm, .xltx, .xml, .yaml, .zip, .7z<\/div>","max_upload_size":8,"maxFiles":10,"mp3_preview_extension":"mp3,wav,ogg"}};
 /* ]]> */
 </script>
 <script id="bp-nouveau-js" src="https://ijr.com/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/js/buddypress-nouveau.min.js?ver=1.5.7.3" type="text/javascript"></script>
@@ -1471,7 +1472,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 <script id="jquery-ui-autocomplete-js" src="https://ijr.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1" type="text/javascript"></script>
 <script id="bp-nouveau-search-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var BP_SEARCH = {"nonce":"254c8b7726","action":"bp_search_ajax","debug":"1","ajaxurl":"https:\/\/ijr.com\/wp-admin\/admin-ajax.php","loading_msg":"Loading Suggestions","enable_ajax_search":"","per_page":"5","autocomplete_selector":".header-search-wrap .search-form","form_selector":".widget_search .search-form","forums_autocomplete":"1"};
+var BP_SEARCH = {"nonce":"b9ec782c98","action":"bp_search_ajax","debug":"1","ajaxurl":"https:\/\/ijr.com\/wp-admin\/admin-ajax.php","loading_msg":"Loading Suggestions","enable_ajax_search":"","per_page":"5","autocomplete_selector":".header-search-wrap .search-form","form_selector":".widget_search .search-form","forums_autocomplete":"1"};
 /* ]]> */
 </script>
 <script id="bp-nouveau-search-js" src="https://ijr.com/wp-content/plugins/buddyboss-platform/bp-templates/bp-nouveau/js/buddypress-search.min.js?ver=1.5.7.3" type="text/javascript"></script>
@@ -1522,7 +1523,7 @@ var bs_data = {"jm_ajax":"https:\/\/ijr.com\/jm-ajax\/","ajaxurl":"https:\/\/ijr
 <script id="bp-zoom-mask-js-js" src="https://ijr.com/wp-content/plugins/buddyboss-platform-pro/assets/js/vendor/jquery.mask.js?ver=5.0.4" type="text/javascript"></script>
 <script id="bp-zoom-js-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var bp_zoom_vars = {"ajax_url":"https:\/\/ijr.com\/wp-admin\/admin-ajax.php","bp_zoom_key":"","bp_zoom_secret":"","home_url":"https:\/\/ijr.com","is_single_meeting":"","is_single_webinar":"","group_id":"","group_meetings_url":"","group_meetings_past_url":"","group_webinars_url":"","group_webinar_past_url":"","meeting_delete_nonce":"f0ed81c867","meeting_confirm_msg":"Are you sure you want to delete this meeting?","webinar_delete_nonce":"ebd44e6817","webinar_confirm_msg":"Are you sure you want to delete this webinar?","user":{"name":"Guest","email":"guest@domain.com"},"scripts":["https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/react.production.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/react-dom.production.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/redux.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/redux-thunk.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/lodash.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/jquery.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/zoom-meeting-1.8.0.min.js"],"styles":["https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/bootstrap.css","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/react-select.css"],"strings":{"day":"day","month":"month","week":"week"}};
+var bp_zoom_vars = {"ajax_url":"https:\/\/ijr.com\/wp-admin\/admin-ajax.php","bp_zoom_key":"","bp_zoom_secret":"","home_url":"https:\/\/ijr.com","is_single_meeting":"","is_single_webinar":"","group_id":"","group_meetings_url":"","group_meetings_past_url":"","group_webinars_url":"","group_webinar_past_url":"","meeting_delete_nonce":"bf45bb1ac3","meeting_confirm_msg":"Are you sure you want to delete this meeting?","webinar_delete_nonce":"d890a82f2a","webinar_confirm_msg":"Are you sure you want to delete this webinar?","user":{"name":"Guest","email":"guest@domain.com"},"scripts":["https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/react.production.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/react-dom.production.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/redux.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/redux-thunk.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/lodash.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/jquery.min.js","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/zoom-meeting-1.8.0.min.js"],"styles":["https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/bootstrap.css","https:\/\/ijr.com\/wp-content\/plugins\/buddyboss-platform-pro\/includes\/integrations\/zoom\/assets\/js\/zoom-web-sdk\/react-select.css"],"strings":{"day":"day","month":"month","week":"week"}};
 /* ]]> */
 </script>
 <script id="bp-zoom-js-js-before" type="text/javascript">
@@ -1536,4 +1537,4 @@ images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.adde
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script async="" data-no-minify="1" src="https://ijr.com/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360">',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
 </body>
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1615960210 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1616792179 -->
