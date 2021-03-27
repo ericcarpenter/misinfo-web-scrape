@@ -1,0 +1,1287 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" id="viewport" name="viewport">
+<link href="https://dailyheadlines.net/feed/" rel="alternate" title="RSS 2.0" type="application/rss+xml"/>
+<link href="https://dailyheadlines.net/feed/rss/" rel="alternate" title="RSS .92" type="text/xml"/>
+<link href="https://dailyheadlines.net/feed/atom/" rel="alternate" title="Atom 0.3" type="application/atom+xml"/>
+<link href="http://dailyheadlines.net/xmlrpc.php" rel="pingback"/>
+<meta content="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-9.50.20-AM-1000x600.png" property="og:image"/>
+<meta content="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-9.50.20-AM-1000x600.png" name="twitter:image"/>
+<meta content="Unapologetic News &amp; Commentary" property="og:description"/>
+<title>Daily Headlines – Unapologetic News &amp; Commentary</title>
+<link href="//netdna.bootstrapcdn.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://dailyheadlines.net/feed/" rel="alternate" title="Daily Headlines » Feed" type="application/rss+xml"/>
+<link href="https://dailyheadlines.net/comments/feed/" rel="alternate" title="Daily Headlines » Comments Feed" type="application/rss+xml"/>
+<!-- This site uses the Google Analytics by ExactMetrics plugin v6.4.0 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+<script data-cfasync="false" type="text/javascript">
+    (window.gaDevIds=window.gaDevIds||[]).push("dNDMyYj");
+	var em_version         = '6.4.0';
+	var em_track_user      = true;
+	var em_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-51154138-2';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	if ( 'undefined' === typeof gaOptout ) {
+		function gaOptout() {
+			__gaTrackerOptout();
+		}
+	}
+	
+	if ( em_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-51154138-2', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + em_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+<!-- / Google Analytics by ExactMetrics -->
+<link data-optimized="1" href="https://dailyheadlines.net/wp-content/litespeed/cssjs/4d148.css?781da" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link data-optimized="1" href="https://dailyheadlines.net/wp-content/litespeed/cssjs/00d72.css?4bba7" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link data-optimized="1" href="https://dailyheadlines.net/wp-content/litespeed/cssjs/f10a1.css?7d306" id="exactmetrics-popular-posts-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link data-optimized="1" href="https://dailyheadlines.net/wp-content/litespeed/cssjs/7a892.css?1ccc0" id="mvp-reset-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.css?ver=5.4.4" id="mvp-fontawesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link data-optimized="1" href="https://dailyheadlines.net/wp-content/litespeed/cssjs/932ca.css?b09e5" id="mvp-style-css" media="all" rel="stylesheet" type="text/css"/>
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='mvp-iecss-css'  href='http://dailyheadlines.net/wp-content/themes/flex-mag/css/iecss.css?ver=5.4.4' type='text/css' media='all' />
+<![endif]-->
+<link data-optimized="1" href="https://dailyheadlines.net/wp-content/litespeed/cssjs/5093d.css?4ccef" id="mvp-media-queries-css" media="all" rel="stylesheet" type="text/css"/>
+<link data-optimized="1" href="https://dailyheadlines.net/wp-content/litespeed/cssjs/8879d.css?a6209" id="newsletter-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://dailyheadlines.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script data-optimized="1" src="https://dailyheadlines.net/wp-content/litespeed/cssjs/a803d.js?3b4f4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var myPPSAjax = {"ajaxurl":"https:\/\/dailyheadlines.net\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script data-optimized="1" src="https://dailyheadlines.net/wp-content/litespeed/cssjs/7fdea.js?65234" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/dailyheadlines.net","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script data-optimized="1" src="https://dailyheadlines.net/wp-content/litespeed/cssjs/d4d39.js?76673" type="text/javascript"></script>
+<link href="https://dailyheadlines.net/wp-json/" rel="https://api.w.org/"/>
+<link href="https://dailyheadlines.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://dailyheadlines.net/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.4.4" name="generator"/>
+<script data-cfasync="false" type="text/javascript">
+/*12845*/ 
+(function(s, o, l, v, e, d) {
+    if (s[o] == null && s[l + e]) {
+        s[o] = "loading";
+        s[l + e](d, l = function() {
+            s[o] = "complete";
+            s[v + e](d, l, !1)
+        }, !1)
+    }
+})(document, "readyState", "add", "remove", "EventListener", "DOMContentLoaded");
+(function() {
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = "https://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=1512caeb-0c9d-4095-a9a4-39fcf75280d9";
+    s.id = "infinity";
+    s.setAttribute("data-guid", "1512caeb-0c9d-4095-a9a4-39fcf75280d9");
+    s.setAttribute("data-version", "async");
+    s.setAttribute("data-abr", "false");
+    var e = document.getElementsByTagName("script")[0];
+    e.parentNode.insertBefore(s, e)
+})();
+(function() {
+    var calc = function() {
+        if (typeof g367CB268B1094004A3689751E7AC568F == "undefined" || !g367CB268B1094004A3689751E7AC568F.Core) {
+            (function() {
+                var domain = "cdn." + "sixft-apart.com";
+                var file = "ac.aspc";
+                var siteGuid = "1512caeb-0c9d-4095-a9a4-39fcf75280d9".replace(/-/g, "");
+                var getHttpRequest = function() {
+                    if (typeof XMLHttpRequest !== "undefined") {
+                        return new XMLHttpRequest();
+                    } else {
+                        var versions = [
+                            "MSXML2.XmlHttp.5.0",
+                            "MSXML2.XmlHttp.4.0",
+                            "MSXML2.XmlHttp.3.0",
+                            "MSXML2.XmlHttp.2.0",
+                            "Microsoft.XmlHttp"
+                        ];
+                        for (var i = 0, len = versions.length; i < len; i++) {
+                            try {
+                                return new ActiveXObject(versions[i]);
+                                break;
+                            } catch (e) {}
+                        }
+                    }
+                };
+                var xhttp = getHttpRequest();
+                xhttp.onreadystatechange = function() {
+                    if (xhttp.readyState == 4) {
+                        if (xhttp.status == 200 || xhttp.status == 304) {
+                            var source = xhttp.responseText;
+                            if (source != null) {
+                                var s = document.createElement("script");
+                                s.type = "text/javascript";
+                                s.id = "infinity";
+                                s.text = source;
+                                s.setAttribute("data-guid", siteGuid);
+                                s.setAttribute("data-abr", "true");
+                                s.setAttribute("data-ajax", "true");
+                                var e = document.getElementsByTagName("script")[0];
+                                e.parentNode.insertBefore(s, e);
+                            }
+                        }
+                    }
+                }
+                xhttp.open('GET', "https://" + domain + "/" + siteGuid, true);
+                xhttp.send(null);
+            })();
+        }
+    };
+    var addEvent = function(element, event, fn) {
+        if (element.addEventListener) element.addEventListener(event, fn, false);
+        else if (element.attachEvent) element.attachEvent("on" + event, fn)
+    };
+    addEvent(window, "load", calc)
+})();
+</script>
+<style type="text/css">
+
+@import url(//fonts.googleapis.com/css?family=Oswald:400,700|Lato:400,700|Work+Sans:900|Montserrat:400,700|Open+Sans:800|Playfair+Display:400,700,900|Quicksand|Raleway:200,400,700|Roboto+Slab:400,700|Work+Sans:100,200,300,400,500,600,700,800,900|Montserrat:100,200,300,400,500,600,700,800,900|Work+Sans:100,200,300,400,400italic,500,600,700,700italic,800,900|Lato:100,200,300,400,400italic,500,600,700,700italic,800,900|Montserrat:100,200,300,400,500,600,700,800,900&subset=latin,latin-ext,cyrillic,cyrillic-ext,greek-ext,greek,vietnamese);
+
+#wallpaper {
+	background: url() no-repeat 50% 0;
+	}
+body,
+.blog-widget-text p,
+.feat-widget-text p,
+.post-info-right,
+span.post-excerpt,
+span.feat-caption,
+span.soc-count-text,
+#content-main p,
+#commentspopup .comments-pop,
+.archive-list-text p,
+.author-box-bot p,
+#post-404 p,
+.foot-widget,
+#home-feat-text p,
+.feat-top2-left-text p,
+.feat-wide1-text p,
+.feat-wide4-text p,
+#content-main table,
+.foot-copy p,
+.video-main-text p {
+	font-family: 'Lato', sans-serif;
+	}
+
+a,
+a:visited,
+.post-info-name a {
+	color: #eb0254;
+	}
+
+a:hover {
+	color: #999999;
+	}
+
+.fly-but-wrap,
+span.feat-cat,
+span.post-head-cat,
+.prev-next-text a,
+.prev-next-text a:visited,
+.prev-next-text a:hover {
+	background: #85858a;
+	}
+
+.fly-but-wrap {
+	background: #bfb2b6;
+	}
+
+.fly-but-wrap span {
+	background: #ffffff;
+	}
+
+.woocommerce .star-rating span:before {
+	color: #85858a;
+	}
+
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #85858a;
+	}
+
+.woocommerce span.onsale,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover {
+	background-color: #85858a;
+	}
+
+span.post-header {
+	border-top: 4px solid #85858a;
+	}
+
+#main-nav-wrap,
+nav.main-menu-wrap,
+.nav-logo,
+.nav-right-wrap,
+.nav-menu-out,
+.nav-logo-out,
+#head-main-top {
+	-webkit-backface-visibility: hidden;
+	background: #d4d4d4;
+	}
+
+nav.main-menu-wrap ul li a,
+.nav-menu-out:hover ul li:hover a,
+.nav-menu-out:hover span.nav-search-but:hover i,
+.nav-menu-out:hover span.nav-soc-but:hover i,
+span.nav-search-but i,
+span.nav-soc-but i {
+	color: #ffffff;
+	}
+
+.nav-menu-out:hover li.menu-item-has-children:hover a:after,
+nav.main-menu-wrap ul li.menu-item-has-children a:after {
+	border-color: #ffffff transparent transparent transparent;
+	}
+
+.nav-menu-out:hover ul li a,
+.nav-menu-out:hover span.nav-search-but i,
+.nav-menu-out:hover span.nav-soc-but i {
+	color: #fdacc8;
+	}
+
+.nav-menu-out:hover li.menu-item-has-children a:after {
+	border-color: #fdacc8 transparent transparent transparent;
+	}
+
+.nav-menu-out:hover ul li ul.mega-list li a,
+.side-list-text p,
+.row-widget-text p,
+.blog-widget-text h2,
+.feat-widget-text h2,
+.archive-list-text h2,
+h2.author-list-head a,
+.mvp-related-text a {
+	color: #222222;
+	}
+
+ul.mega-list li:hover a,
+ul.side-list li:hover .side-list-text p,
+ul.row-widget-list li:hover .row-widget-text p,
+ul.blog-widget-list li:hover .blog-widget-text h2,
+.feat-widget-wrap:hover .feat-widget-text h2,
+ul.archive-list li:hover .archive-list-text h2,
+ul.archive-col-list li:hover .archive-list-text h2,
+h2.author-list-head a:hover,
+.mvp-related-posts ul li:hover .mvp-related-text a {
+	color: #999999 !important;
+	}
+
+span.more-posts-text,
+a.inf-more-but,
+#comments-button a,
+#comments-button span.comment-but-text {
+	border: 1px solid #eb0254;
+	}
+
+span.more-posts-text,
+a.inf-more-but,
+#comments-button a,
+#comments-button span.comment-but-text {
+	color: #eb0254 !important;
+	}
+
+#comments-button a:hover,
+#comments-button span.comment-but-text:hover,
+a.inf-more-but:hover,
+span.more-posts-text:hover {
+	background: #eb0254;
+	}
+
+nav.main-menu-wrap ul li a,
+ul.col-tabs li a,
+nav.fly-nav-menu ul li a,
+.foot-menu .menu li a {
+	font-family: 'Montserrat', sans-serif;
+	}
+
+.feat-top2-right-text h2,
+.side-list-text p,
+.side-full-text p,
+.row-widget-text p,
+.feat-widget-text h2,
+.blog-widget-text h2,
+.prev-next-text a,
+.prev-next-text a:visited,
+.prev-next-text a:hover,
+span.post-header,
+.archive-list-text h2,
+#woo-content h1.page-title,
+.woocommerce div.product .product_title,
+.woocommerce ul.products li.product h3,
+.video-main-text h2,
+.mvp-related-text a {
+	font-family: 'Montserrat', sans-serif;
+	}
+
+.feat-wide-sub-text h2,
+#home-feat-text h2,
+.feat-top2-left-text h2,
+.feat-wide1-text h2,
+.feat-wide4-text h2,
+.feat-wide5-text h2,
+h1.post-title,
+#content-main h1.post-title,
+#post-404 h1,
+h1.post-title-wide,
+#content-main blockquote p,
+#commentspopup #content-main h1 {
+	font-family: 'Work Sans', sans-serif;
+	}
+
+h3.home-feat-title,
+h3.side-list-title,
+#infscr-loading,
+.score-nav-menu select,
+h1.cat-head,
+h1.arch-head,
+h2.author-list-head,
+h3.foot-head,
+.woocommerce ul.product_list_widget span.product-title,
+.woocommerce ul.product_list_widget li a,
+.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta,
+.woocommerce .related h2,
+.woocommerce div.product .woocommerce-tabs .panel h2,
+.woocommerce div.product .product_title,
+#content-main h1,
+#content-main h2,
+#content-main h3,
+#content-main h4,
+#content-main h5,
+#content-main h6 {
+	font-family: 'Work Sans', sans-serif;
+	}
+
+</style>
+<style type="text/css">
+
+
+.post-cont-out,
+.post-cont-in {
+	margin-right: 0;
+	}
+.home-wrap-out2,
+.home-wrap-in2 {
+	margin-left: 0;
+	}
+@media screen and (max-width: 1099px) and (min-width: 768px) {
+	.col-tabs-wrap {
+		display: none;
+		}
+	.home .tabs-top-marg {
+		margin-top: 50px !important;
+		}
+	.home .fixed {
+		-webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.3);
+	 	   -moz-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.3);
+	  	    -ms-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.3);
+	   	     -o-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.3);
+			box-shadow: 0 2px 3px 0 rgba(0,0,0,0.3);
+		}
+}
+@media screen and (max-width: 767px) {
+	ul.col-tabs li.latest-col-tab {
+		display: none;
+		}
+	ul.col-tabs li {
+		width: 50%;
+		}
+}
+
+
+
+
+
+
+
+
+</style>
+<meta content="wordpress-plugin" name="onesignal"/>
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("http://dailyheadlines.net");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '2720d776-7077-467f-b181-cd9b191543ff';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://dailyheadlines.net/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['persistNotification'] = true;
+oneSignal_options['promptOptions'] = { };
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script src="http://media.bytesignal.com/www/delivery/spcjs.php?id=19" type="text/javascript"></script>
+<link href="/manifest.json" rel="manifest"/>
+<script async="" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(function() {
+    OneSignal.init({
+      appId: "2720d776-7077-467f-b181-cd9b191543ff",
+    });
+  });
+</script>
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(24);
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-51154138-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-51154138-2');
+</script>
+<script async="" src="https://cdn1.lockerdomecdn.com/embeds/locstarenterprises_dailyheadlinesnet_sticky.js"></script>
+<style>
+.ai-viewports                 {--ai: 1;}
+.ai-viewport-3                { display: none !important;}
+.ai-viewport-2                { display: none !important;}
+.ai-viewport-1                { display: inherit !important;}
+.ai-viewport-0                { display: none !important;}
+@media (min-width: 768px) and (max-width: 979px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-2                { display: inherit !important;}
+}
+@media (max-width: 767px) {
+.ai-viewport-1                { display: none !important;}
+.ai-viewport-3                { display: inherit !important;}
+}
+</style>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6816846621115852",
+    enable_page_level_ads: true
+  });
+</script>
+</meta></head>
+<body class="home blog">
+<div class="left relative" id="site">
+<div class="left relative" id="site-wrap">
+<div id="fly-wrap">
+<div class="fly-wrap-out">
+<div class="fly-side-wrap">
+<ul class="fly-bottom-soc left relative">
+<li class="rss-soc">
+<a href="https://dailyheadlines.net/feed/rss/" target="_blank">
+<i class="fa fa-rss fa-2"></i>
+</a>
+</li>
+</ul>
+</div><!--fly-side-wrap-->
+<div class="fly-wrap-in">
+<div id="fly-menu-wrap">
+<nav class="fly-nav-menu left relative">
+<div class="menu"><ul>
+<li class="page_item page-item-97841"><a href="https://dailyheadlines.net/bs-email/">bs-email</a></li>
+<li class="page_item page-item-99392"><a href="https://dailyheadlines.net/bs2-1dh/">BS2-1DH</a></li>
+<li class="page_item page-item-19"><a href="https://dailyheadlines.net/contact/">Contact Us</a></li>
+<li class="page_item page-item-94455"><a href="https://dailyheadlines.net/dhcom-email/">dhcom email</a></li>
+<li class="page_item page-item-94457"><a href="https://dailyheadlines.net/dhnet-email/">dhnet email</a></li>
+<li class="page_item page-item-93291"><a href="https://dailyheadlines.net/email/">email</a></li>
+<li class="page_item page-item-93581"><a href="https://dailyheadlines.net/emailtest/">emailfear</a></li>
+<li class="page_item page-item-94458"><a href="https://dailyheadlines.net/fear-email/">fear email</a></li>
+<li class="page_item page-item-52878"><a href="https://dailyheadlines.net/home/">Home</a></li>
+<li class="page_item page-item-94460"><a href="https://dailyheadlines.net/idm-email/">idm email</a></li>
+<li class="page_item page-item-99891"><a href="https://dailyheadlines.net/newsletter/">Newsletter</a></li>
+<li class="page_item page-item-93903"><a href="https://dailyheadlines.net/privacy-settings-page/">Privacy Settings Page</a></li>
+<li class="page_item page-item-96000"><a href="https://dailyheadlines.net/tng/">TNG</a></li>
+<li class="page_item page-item-94459"><a href="https://dailyheadlines.net/tpn-email/">tpn email</a></li>
+</ul></div>
+</nav>
+</div><!--fly-menu-wrap-->
+</div><!--fly-wrap-in-->
+</div><!--fly-wrap-out-->
+</div><!--fly-wrap--> <div class="left relative" id="head-main-wrap">
+<div class="left relative" id="head-main-top">
+<div class="leader-wrap-out">
+<div class="leader-wrap-in">
+<div class="left relative" id="leader-wrap">
+<div id="ld-1951-6542"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13560213655729254,size:[0, 0],id:"ld-1951-6542"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script> </div><!--leader-wrap-->
+</div><!--leader-wrap-in-->
+</div><!--lead-wrap-out-->
+</div><!--head-main-top-->
+<div id="main-nav-wrap">
+<div class="nav-out">
+<div class="nav-in">
+<div class="left" id="main-nav-cont" itemscope="" itemtype="http://schema.org/Organization">
+<div class="nav-logo-out">
+<div class="nav-left-wrap left relative">
+<div class="fly-but-wrap left relative">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div><!--fly-but-wrap-->
+<div class="nav-logo left">
+<a href="https://dailyheadlines.net/" itemprop="url"><img alt="Daily Headlines" itemprop="logo" src="https://dailyheadlines.net/wp-content/uploads/2016/08/001DailyHeadlinesLogoDesign1.png"/></a>
+<h1 class="mvp-logo-title">Daily Headlines</h1>
+</div><!--nav-logo-->
+</div><!--nav-left-wrap-->
+<div class="nav-logo-in">
+<div class="nav-menu-out">
+<div class="nav-menu-in">
+<nav class="main-menu-wrap left">
+<div class="menu-home-page-container"><ul class="menu" id="menu-home-page"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52880" id="menu-item-52880"><a href="https://dailyheadlines.net/home/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211" id="menu-item-211"><a href="https://dailyheadlines.net/contact/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99393" id="menu-item-99393"><a href="https://dailyheadlines.net/bs2-1dh/">BS2-1DH</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99892" id="menu-item-99892"><a href="https://dailyheadlines.net/newsletter/">Newsletter</a></li>
+</ul></div> </nav>
+</div><!--nav-menu-in-->
+<div class="nav-right-wrap relative">
+<div class="nav-search-wrap left relative">
+<span class="nav-search-but left"><i class="fa fa-search fa-2"></i></span>
+<div class="search-fly-wrap">
+<form action="https://dailyheadlines.net/" id="searchform" method="get">
+<input id="s" name="s" onblur='if (this.value == "") { this.value = "Type search term and press enter"; }' onfocus='if (this.value == "Type search term and press enter") { this.value = ""; }' type="text" value="Type search term and press enter"/>
+<input id="searchsubmit" type="hidden" value="Search"/>
+</form> </div><!--search-fly-wrap-->
+</div><!--nav-search-wrap-->
+</div><!--nav-right-wrap-->
+</div><!--nav-menu-out-->
+</div><!--nav-logo-in-->
+</div><!--nav-logo-out-->
+</div><!--main-nav-cont-->
+</div><!--nav-in-->
+</div><!--nav-out-->
+</div><!--main-nav-wrap-->
+</div><!--head-main-wrap-->
+<div class="left relative" id="body-main-wrap">
+<div class="body-main-out relative">
+<div class="body-main-in">
+<div class="left relative" id="body-main-cont">
+<div class="left relative" id="home-main-wrap">
+<div class="home-wrap-out1">
+<div class="home-wrap-in1">
+<div class="left relative" id="home-left-wrap">
+<div class="relative" id="home-left-col">
+<div class="left relative" id="home-mid-wrap">
+<div class="left relative" id="archive-list-wrap">
+<ul class="archive-col-list left relative infinite-content">
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/exposed-now-we-know-what-was-on-notes-joe-biden-kept-looking-at-during-his-first-press-conference/" rel="bookmark" title="EXPOSED: Now We Know What Was On Notes Joe Biden Kept Looking At During His First Press Conference">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-9.50.20-AM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-9.50.20-AM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-9.50.20-AM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-9.50.20-AM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-26-at-9.50.20-AM-80x80.png" width="80"/> </div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">Archives</span>
+<h2>EXPOSED: Now We Know What Was On Notes Joe Biden Kept Looking At During His First Press Conference</h2>
+<p>Yesterday was Joe Biden’s first press conference since being installed as president and it was a doozy. However, we all knew that...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/watch-donald-trump-reacts-to-bidens-disastrous-first-presser/" rel="bookmark" title="WATCH: Donald Trump Reacts to Biden’s Disastrous First Presser">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">2</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>WATCH: Donald Trump Reacts to Biden’s Disastrous First Presser</h2>
+<p>Yesterday was Joe Biden’s FIRST presser and if you missed it you are luckier than the rest of us. Truly, it was...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/biden-puts-kamala-in-charge-of-border-crisis-handler-tells-the-press-its-time-to-leave/" rel="bookmark" title="Biden Puts Kamala in Charge of Border Crisis, Handler Tells the Press ‘It’s Time to Leave’">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/02/2020_10largeimg_1537208255-450x270.jpg" srcset="https://dailyheadlines.net/wp-content/uploads/2021/02/2020_10largeimg_1537208255-450x270.jpg 450w, https://dailyheadlines.net/wp-content/uploads/2021/02/2020_10largeimg_1537208255-300x180.jpg 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/02/2020_10largeimg_1537208255-80x80.jpg" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">8</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">Archives</span>
+<h2>Biden Puts Kamala in Charge of Border Crisis, Handler Tells the Press ‘It’s Time to Leave’</h2>
+<p>Since Joe Biden has been in office, many people have wondered if he was really in charge considering his mental deficits. In...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/watch-reporter-begs-ted-cruz-to-wear-mask-his-response-is-going-viral/" rel="bookmark" title="WATCH: Reporter Begs Ted Cruz To Wear Mask. His Response Is Going Viral">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-25-at-11.27.28-AM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-25-at-11.27.28-AM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-25-at-11.27.28-AM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-25-at-11.27.28-AM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-25-at-11.27.28-AM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">18</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>WATCH: Reporter Begs Ted Cruz To Wear Mask. His Response Is Going Viral</h2>
+<p>The mainstream media and their hysterics are laughable already, to begin with, but this recent one just takes the cake. First off,...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/man-livestreamed-boulder-grocery-store-shooting-graphic-video/" rel="bookmark" title="Man Livestreamed Boulder Grocery Store Shooting: Graphic Video">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-24-at-1.59.56-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-24-at-1.59.56-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-24-at-1.59.56-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-24-at-1.59.56-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-24-at-1.59.56-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">17</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>Man Livestreamed Boulder Grocery Store Shooting: Graphic Video</h2>
+<p>A Colorado man by the name of Dean Schiller managed to Livestream the active shooting scene at King Soopers grocery store on...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/dr-fauci-chinese-communist-caught-colluding-on-mass-vaccinations-extended-lockdowns/" rel="bookmark" title="Dr. Fauci &amp; Chinese Communist Caught Colluding on Mass Vaccinations, Extended Lockdowns">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2020/10/news-alert-concept-graphic-design-tv-news-channels-news-alert-concept-graphic-design-tv-news-channels-illustration-108573906-450x270.jpg" srcset="https://dailyheadlines.net/wp-content/uploads/2020/10/news-alert-concept-graphic-design-tv-news-channels-news-alert-concept-graphic-design-tv-news-channels-illustration-108573906-450x270.jpg 450w, https://dailyheadlines.net/wp-content/uploads/2020/10/news-alert-concept-graphic-design-tv-news-channels-news-alert-concept-graphic-design-tv-news-channels-illustration-108573906-300x180.jpg 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2020/10/news-alert-concept-graphic-design-tv-news-channels-news-alert-concept-graphic-design-tv-news-channels-illustration-108573906-80x80.jpg" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">24</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">Archives</span>
+<h2>Dr. Fauci &amp; Chinese Communist Caught Colluding on Mass Vaccinations, Extended Lockdowns</h2>
+<p>Since the pandemic began one year ago, Dr. Fauci has been considered the go-to man for dealing with this sort of once-in-a-lifetime...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/leaked-white-house-memo-contains-3-word-demand-that-may-indicate-a-major-change-heading-our-way/" rel="bookmark" title="Leaked White House Memo Contains 3 Word DEMAND That May Indicate A Major Change Heading Our Way">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">33</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>Leaked White House Memo Contains 3 Word DEMAND That May Indicate A Major Change Heading Our Way</h2>
+<p>Since Joe Biden was installed in the White House just a couple of short months ago, many of us are already used...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/the-contents-of-hunter-bidens-laptop-from-hell-are-now-revealed-video/" rel="bookmark" title="The Contents of Hunter Biden’s Laptop From Hell Are Now Revealed [VIDEO]">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2020/10/Hunter--450x270.jpg" srcset="https://dailyheadlines.net/wp-content/uploads/2020/10/Hunter--450x270.jpg 450w, https://dailyheadlines.net/wp-content/uploads/2020/10/Hunter--300x180.jpg 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2020/10/Hunter--80x80.jpg" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">36</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>The Contents of Hunter Biden’s Laptop From Hell Are Now Revealed [VIDEO]</h2>
+<p>It has been months of silence from the Biden camp concerning Hunter and his laptop from hell, but now there may be...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/whoa-has-the-antichrist-arrived-on-the-scene-some-people-think-he-has-been-revealed-2/" rel="bookmark" title="WHOA: Has The AntiChrist Arrived On The Scene? Some People Think He Has Been Revealed">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-10.06.54-AM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-10.06.54-AM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-10.06.54-AM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-10.06.54-AM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-27-at-10.06.54-AM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">165</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">Archives</span>
+<h2>WHOA: Has The AntiChrist Arrived On The Scene? Some People Think He Has Been Revealed</h2>
+<p>The Coronavirus Is Ushering In The antiChrist’s One World Government! Video By The Watchmen Antonio Guterres, Secretary-General of the United Nations Is...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/doj-prosecutor-pushes-to-charge-trump-for-capitol-riots/" rel="bookmark" title="DOJ Prosecutor Pushes To “Charge” Trump For Capitol Riots">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-09-at-6.03.51-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-09-at-6.03.51-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-09-at-6.03.51-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-09-at-6.03.51-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/02/Screen-Shot-2021-02-09-at-6.03.51-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">38</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">Archives</span>
+<h2>DOJ Prosecutor Pushes To “Charge” Trump For Capitol Riots</h2>
+<p>These people truly never give up, do they? After Trump was cleared of wrongdoing by the Senate last month, many thought that...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/biden-spending-eighty-six-million-of-your-money-on-hotels-for-illegals/" rel="bookmark" title="Biden Spending Eighty Six MILLION Of YOUR MONEY On HOTELS FOR ILLEGALS!">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/GettyImages-1303940761-450x270.jpg" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/GettyImages-1303940761-450x270.jpg 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/GettyImages-1303940761-300x180.jpg 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/GettyImages-1303940761-80x80.jpg" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">51</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">Archives</span>
+<h2>Biden Spending Eighty Six MILLION Of YOUR MONEY On HOTELS FOR ILLEGALS!</h2>
+<p>Friends, there are some things that I just don’t understand why people even ask or how some people could ever think that...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/biden-calls-kamala-harris-is-president-harris-in-latest-blunder-or-was-it-watch/" rel="bookmark" title="Biden Calls Kamala Harris is “President Harris” in Latest Blunder, or Was It? [WATCH]">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/02/maxresdefault-1-450x270.jpg" srcset="https://dailyheadlines.net/wp-content/uploads/2021/02/maxresdefault-1-450x270.jpg 450w, https://dailyheadlines.net/wp-content/uploads/2021/02/maxresdefault-1-1000x600.jpg 1000w, https://dailyheadlines.net/wp-content/uploads/2021/02/maxresdefault-1-300x180.jpg 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/02/maxresdefault-1-80x80.jpg" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">35</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>Biden Calls Kamala Harris is “President Harris” in Latest Blunder, or Was It? [WATCH]</h2>
+<p>Since Joe Biden was installed in the White House just a couple of short months ago, many of us are already used...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/did-you-know-that-theres-a-white-house-replica-located-on-former-military-base-property/" rel="bookmark" title="Did You Know That There’s A White House Replica Located On Former Military Base Property?">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-12.29.36-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-12.29.36-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-12.29.36-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-12.29.36-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-12.29.36-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">53</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>Did You Know That There’s A White House Replica Located On Former Military Base Property?</h2>
+<p>Online conspiracy theorists have speculated over the course of the past few months that President Joe Biden and members of his administration have...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/old-video-shows-biden-mocking-trump-for-stumbling-down-ramps/" rel="bookmark" title="Old Video Shows Biden Mocking Trump For “Stumbling Down Ramps”">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-11.11.28-AM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-11.11.28-AM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-11.11.28-AM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-11.11.28-AM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-20-at-11.11.28-AM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">42</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>Old Video Shows Biden Mocking Trump For “Stumbling Down Ramps”</h2>
+<p>You already know that Joe Biden took a nasty fall not once but THREE times yesterday morning as he boarded Air Force...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/biden-authorizes-4000-active-duty-troops-to-mobilize-across-united-states/" rel="bookmark" title="IT’s HERE: Biden Authorizes 4,000 Active Duty Troops to Mobilize Across United States….">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-24-at-6.03.03-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-24-at-6.03.03-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-24-at-6.03.03-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-24-at-6.03.03-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-24-at-6.03.03-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">133</span>
+</div><!--feat-info-views-->
+<div class="feat-info-comm">
+<i class="fa fa-comment"></i> <span class="feat-info-text">1</span>
+</div><!--feat-info-comm-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>IT’s HERE: Biden Authorizes 4,000 Active Duty Troops to Mobilize Across United States….</h2>
+<p>Well, we all knew this would happen, but it still angers me to my core. Listen, if you want the vaccination that...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/theres-someone-calling-all-of-bidens-moves-its-not-kamala-harris-or-nancy-pelosi/" rel="bookmark" title="There’s Someone Calling All of Biden’s Moves &amp; It’s NOT Kamala Harris OR Nancy Pelosi">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/01/Screen-Shot-2021-01-20-at-7.33.32-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">232</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>There’s Someone Calling All of Biden’s Moves &amp; It’s NOT Kamala Harris OR Nancy Pelosi</h2>
+<p>Joe Biden’s presidency has been that no one has seen before and hopefully, never will again. After Biden was sworn in last...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/beginning-of-the-end-for-criminal-elite-after-impeachment-scam-fails-this-is-what-they-were-waiting-for-3/" rel="bookmark" title="Beginning Of The End For Criminal Elite After Impeachment Scam Fails, This Is What They Were Waiting For">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/02/pelosi-942x500-1-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/02/pelosi-942x500-1-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/02/pelosi-942x500-1-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/02/pelosi-942x500-1-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">246</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">Archives</span>
+<h2>Beginning Of The End For Criminal Elite After Impeachment Scam Fails, This Is What They Were Waiting For</h2>
+<p>After Trump was found not guilty again after the political hit job from the left everyone knew that the liberal minions would...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/watch-trump-drops-biggest-hint-yet-about-possible-2024-run/" rel="bookmark" title="WATCH: Trump Drops Biggest Hint Yet About Possible 2024 Run">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-18-at-3.20.35-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-18-at-3.20.35-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-18-at-3.20.35-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-18-at-3.20.35-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-18-at-3.20.35-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">40</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>WATCH: Trump Drops Biggest Hint Yet About Possible 2024 Run</h2>
+<p>Those on the left who think that Donald Trump is just going to go away and slink away into the night are...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/biden-suddenly-is-begging-for-donald-trumps-help-and-trump-delivers-big-time/" rel="bookmark" title="Biden Suddenly Is Begging for Donald Trump’s Help — And Trump Delivers, Big Time">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-17-at-12.33.44-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">86</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>Biden Suddenly Is Begging for Donald Trump’s Help — And Trump Delivers, Big Time</h2>
+<p>For weeks, the Biden administration has been dismissive over what the Trump administration had done for the American people in the last...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/sidney-powell-latest-arrests-resignations-more-election-fraud-90000-ballots-in-nevada-returned/" rel="bookmark" title="Sidney Powell Latest! Arrests &amp; Resignations &amp; More Election Fraud &amp; 90,000 Ballots In Nevada Returned">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2020/12/Screen-Shot-2020-12-15-at-11.25.29-AM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2020/12/Screen-Shot-2020-12-15-at-11.25.29-AM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2020/12/Screen-Shot-2020-12-15-at-11.25.29-AM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2020/12/Screen-Shot-2020-12-15-at-11.25.29-AM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2020/12/Screen-Shot-2020-12-15-at-11.25.29-AM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">89</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>Sidney Powell Latest! Arrests &amp; Resignations &amp; More Election Fraud &amp; 90,000 Ballots In Nevada Returned</h2>
+<p>Sunday Powell has been silent lately, but it appears that she has broken her silence and is now talking about that the...</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+<li class="infinite-post">
+<a href="https://dailyheadlines.net/history-repeat-itself-inside-the-1918-spanish-flu-pandemic-that-left-50-million-dead/" rel="bookmark" title="History Repeat Itself: Inside the 1918 Spanish Flu Pandemic that Left 50 Million Dead">
+<div class="archive-list-out">
+<div class="archive-list-img left relative">
+<img alt="" class="reg-img wp-post-image" height="270" sizes="(max-width: 450px) 100vw, 450px" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-15-at-1.28.09-PM-450x270.png" srcset="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-15-at-1.28.09-PM-450x270.png 450w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-15-at-1.28.09-PM-1000x600.png 1000w, https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-15-at-1.28.09-PM-300x180.png 300w" width="450"/> <img alt="" class="mob-img wp-post-image" height="80" src="https://dailyheadlines.net/wp-content/uploads/2021/03/Screen-Shot-2021-03-15-at-1.28.09-PM-80x80.png" width="80"/> <div class="feat-info-wrap">
+<div class="feat-info-views">
+<i class="fa fa-eye fa-2"></i> <span class="feat-info-text">68</span>
+</div><!--feat-info-views-->
+</div><!--feat-info-wrap-->
+</div><!--archive-list-img-->
+<div class="archive-list-in">
+<div class="archive-list-text left relative">
+<span class="side-list-cat">In The News</span>
+<h2>History Repeat Itself: Inside the 1918 Spanish Flu Pandemic that Left 50 Million Dead</h2>
+<p>Isn’t funny how history often repeats itself? We have heard that before but now we are actually seeing it occur in real-time....</p>
+</div><!--archive-list-text-->
+</div><!--archive-list-in-->
+</div><!--archive-list-out-->
+</a>
+</li>
+</ul>
+<div class="nav-links">
+<div class="pagination"><span>Page 1 of 860</span><span class="current">1</span><a class="inactive" href="https://dailyheadlines.net/page/2/">2</a><a class="inactive" href="https://dailyheadlines.net/page/3/">3</a><a class="inactive" href="https://dailyheadlines.net/page/4/">4</a><a class="inactive" href="https://dailyheadlines.net/page/5/">5</a><a href="https://dailyheadlines.net/page/2/">Next ›</a><a href="https://dailyheadlines.net/page/860/">Last »</a></div>
+</div><!--nav-links-->
+</div><!--archive-list-wrap-->
+</div><!--home-mid-wrap-->
+</div><!--home-left-col-->
+</div><!--home-left-wrap-->
+</div><!--home-wrap-in1-->
+<div class="relative" id="arch-right-col">
+<div class="left relative" id="sidebar-wrap">
+<div class="side-widget widget_newsletterwidgetminimal" id="newsletterwidgetminimal-3"><h4 class="post-header"><span class="post-header">Subscribe to DailyHeadlines</span></h4><div class="tnp tnp-widget-minimal"><form action="https://dailyheadlines.net/?na=s" class="tnp-form" method="post"><input name="nr" type="hidden" value="widget-minimal"/><input class="tnp-email" name="ne" placeholder="Email" required="" type="email" value=""/><input class="tnp-submit" type="submit" value="Subscribe"/></form></div></div><div class="widget_text side-widget widget_custom_html" id="custom_html-4"><div class="textwidget custom-html-widget"><div id="ld-8352-2856"></div><script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:13049665356518758,size:[0, 0],id:"ld-8352-2856"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdomecdn.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script></div></div> </div><!--sidebar-wrap--> </div><!--home-right-col-->
+</div><!--home-wrap-out1-->
+</div><!--home-main-wrap-->
+</div><!--body-main-cont-->
+</div><!--body-main-in-->
+</div><!--body-main-out-->
+<footer class="left relative" id="foot-wrap">
+<div class="left relative" id="foot-top-wrap">
+<div class="body-main-out relative">
+<div class="body-main-in">
+<div class="left relative" id="foot-widget-wrap">
+</div><!--foot-widget-wrap-->
+</div><!--body-main-in-->
+</div><!--body-main-out-->
+</div><!--foot-top-->
+<div class="left relative" id="foot-bot-wrap">
+<div class="body-main-out relative">
+<div class="body-main-in">
+<div class="left relative" id="foot-bot">
+<div class="foot-menu relative">
+<div class="menu-home-page-container"><ul class="menu" id="menu-home-page-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52880"><a href="https://dailyheadlines.net/home/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="https://dailyheadlines.net/contact/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99393"><a href="https://dailyheadlines.net/bs2-1dh/">BS2-1DH</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99892"><a href="https://dailyheadlines.net/newsletter/">Newsletter</a></li>
+</ul></div> </div><!--foot-menu-->
+<div class="foot-copy relative">
+<p>Copyright © 2019 DailyHeadlines </p>
+</div><!--foot-copy-->
+</div><!--foot-bot-->
+</div><!--body-main-in-->
+</div><!--body-main-out-->
+</div><!--foot-bot-->
+</footer>
+</div><!--body-main-wrap-->
+</div><!--site-wrap-->
+</div><!--site-->
+<div class="fly-to-top back-to-top">
+<i class="fa fa-angle-up fa-3"></i>
+<span class="to-top-text">To Top</span>
+</div><!--fly-to-top-->
+<div class="fly-fade">
+</div><!--fly-fade-->
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+
+	// Back to Top Button
+    	var duration = 500;
+    	$('.back-to-top').click(function(event) {
+          event.preventDefault();
+          $('html, body').animate({scrollTop: 0}, duration);
+          return false;
+	});
+
+	// Main Menu Dropdown Toggle
+	$('.menu-item-has-children a').click(function(event){
+	  event.stopPropagation();
+	  location.href = this.href;
+  	});
+
+	$('.menu-item-has-children').click(function(){
+    	  $(this).addClass('toggled');
+    	  if($('.menu-item-has-children').hasClass('toggled'))
+    	  {
+    	  $(this).children('ul').toggle();
+	  $('.fly-nav-menu').getNiceScroll().resize();
+	  }
+	  $(this).toggleClass('tog-minus');
+    	  return false;
+  	});
+
+	// Main Menu Scroll
+	$(window).load(function(){
+	  $('.fly-nav-menu').niceScroll({cursorcolor:"#888",cursorwidth: 7,cursorborder: 0,zindex:999999});
+	});
+
+
+
+$(window).load(function() {
+  // The slider being synced must be initialized first
+  $('.post-gallery-bot').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    itemWidth: 80,
+    itemMargin: 10,
+    asNavFor: '.post-gallery-top'
+  });
+
+  $('.post-gallery-top').flexslider({
+    animation: "fade",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    	  prevText: "&lt;",
+          nextText: "&gt;",
+    sync: ".post-gallery-bot"
+  });
+});
+
+});
+
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/dailyheadlines.net\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script data-optimized="1" src="https://dailyheadlines.net/wp-content/litespeed/cssjs/f3165.js?3e7aa" type="text/javascript"></script>
+<script data-optimized="1" src="https://dailyheadlines.net/wp-content/litespeed/cssjs/b120a.js?c8cfa" type="text/javascript"></script>
+<script data-optimized="1" src="https://dailyheadlines.net/wp-content/litespeed/cssjs/5411e.js?f6925" type="text/javascript"></script>
+<script async="async" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.4.4" type="text/javascript"></script>
+<script>
+/* <![CDATA[ */
+ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","visible":"VISIBLE","hidden":"HIDDEN","fallback":"FALLBACK","automatically_placed":"Automatically placed by AdSense Auto ads code","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR"};
+/* ]]> */
+function b2a(a){var b,c=0,l=0,f="",g=[];if(!a)return a;do{var e=a.charCodeAt(c++);var h=a.charCodeAt(c++);var k=a.charCodeAt(c++);var d=e<<16|h<<8|k;e=63&d>>18;h=63&d>>12;k=63&d>>6;d&=63;g[l++]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(e)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(h)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(k)+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".charAt(d)}while(c<
+a.length);return f=g.join(""),b=a.length%3,(b?f.slice(0,b-3):f)+"===".slice(b||3)}function a2b(a){var b,c,l,f={},g=0,e=0,h="",k=String.fromCharCode,d=a.length;for(b=0;64>b;b++)f["ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/".charAt(b)]=b;for(c=0;d>c;c++)for(b=f[a.charAt(c)],g=(g<<6)+b,e+=6;8<=e;)((l=255&g>>>(e-=8))||d-2>c)&&(h+=k(l));return h}b64e=function(a){return btoa(encodeURIComponent(a).replace(/%([0-9A-F]{2})/g,function(b,a){return String.fromCharCode("0x"+a)}))};
+b64d=function(a){return decodeURIComponent(atob(a).split("").map(function(a){return"%"+("00"+a.charCodeAt(0).toString(16)).slice(-2)}).join(""))};
+function ai_run_scripts(){(function(a){if("function"===typeof define&&define.amd){define(a);var c=!0}"object"===typeof exports&&(module.exports=a(),c=!0);if(!c){var d=window.Cookies,b=window.Cookies=a();b.noConflict=function(){window.Cookies=d;return b}}})(function(){function a(){for(var d=0,b={};d<arguments.length;d++){var f=arguments[d],e;for(e in f)b[e]=f[e]}return b}function c(d){function b(){}function f(h,k,g){if("undefined"!==typeof document){g=a({path:"/"},b.defaults,g);"number"===typeof g.expires&&(g.expires=new Date(1*
+new Date+864E5*g.expires));g.expires=g.expires?g.expires.toUTCString():"";try{var l=JSON.stringify(k);/^[\{\[]/.test(l)&&(k=l)}catch(p){}k=d.write?d.write(k,h):encodeURIComponent(String(k)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent);h=encodeURIComponent(String(h)).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent).replace(/[\(\)]/g,escape);l="";for(var n in g)g[n]&&(l+="; "+n,!0!==g[n]&&(l+="="+g[n].split(";")[0]));return document.cookie=h+"="+k+l}}
+function e(h,k){if("undefined"!==typeof document){for(var g={},l=document.cookie?document.cookie.split("; "):[],n=0;n<l.length;n++){var p=l[n].split("="),m=p.slice(1).join("=");k||'"'!==m.charAt(0)||(m=m.slice(1,-1));try{var q=p[0].replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);m=(d.read||d)(m,q)||m.replace(/(%[0-9A-Z]{2})+/g,decodeURIComponent);if(k)try{m=JSON.parse(m)}catch(r){}g[q]=m;if(h===q)break}catch(r){}}return h?g[h]:g}}b.set=f;b.get=function(h){return e(h,!1)};b.getJSON=function(h){return e(h,
+!0)};b.remove=function(h,k){f(h,"",a(k,{expires:-1}))};b.defaults={};b.withConverter=c;return b}return c(function(){})});AiCookies=Cookies.noConflict();
+ai_check_block=function(a){if(null==a)return!0;var c=AiCookies.getJSON("aiBLOCKS");ai_debug_cookie_status="";null==c&&(c={});"undefined"!==typeof ai_delay_showing_pageviews&&(c.hasOwnProperty(a)||(c[a]={}),c[a].hasOwnProperty("d")||(c[a].d=ai_delay_showing_pageviews));if(c.hasOwnProperty(a))for(var d in c[a]){if("x"==d){var b="",f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);var e=new Date;e=c[a][d]-
+Math.round(e.getTime()/1E3);if(0<e&&f==b)return ai_debug_cookie_status=a="closed for "+e+" s = "+Math.round(1E4*e/3600/24)/1E4+" days",!1;ai_set_cookie(a,"x","");c[a].hasOwnProperty("i")||c[a].hasOwnProperty("c")||ai_set_cookie(a,"h","")}else if("d"==d){if(0!=c[a][d])return ai_debug_cookie_status=a="delayed for "+c[a][d]+" pageviews",!1}else if("i"==d){b="";f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);
+if(0==c[a][d]&&f==b)return ai_debug_cookie_status=a="max impressions reached",!1;if(0>c[a][d]&&f==b){e=new Date;e=-c[a][d]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max imp. reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"i","");c[a].hasOwnProperty("c")||c[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("ipt"==d&&0==c[a][d]&&(e=new Date,b=Math.round(e.getTime()/1E3),e=c[a].it-b,0<e))return ai_debug_cookie_status=a="max imp. per time reached ("+
+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;if("c"==d){b="";f=document.querySelectorAll('span[data-ai-block="'+a+'"]')[0];"aiHash"in f.dataset&&(b=f.dataset.aiHash);f="";c[a].hasOwnProperty("h")&&(f=c[a].h);if(0==c[a][d]&&f==b)return ai_debug_cookie_status=a="max clicks reached",!1;if(0>c[a][d]&&f==b){e=new Date;e=-c[a][d]-Math.round(e.getTime()/1E3);if(0<e)return ai_debug_cookie_status=a="max clicks reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1;ai_set_cookie(a,"c","");c[a].hasOwnProperty("i")||
+c[a].hasOwnProperty("x")||ai_set_cookie(a,"h","")}}if("cpt"==d&&0==c[a][d]&&(e=new Date,b=Math.round(e.getTime()/1E3),e=c[a].ct-b,0<e))return ai_debug_cookie_status=a="max clicks per time reached ("+Math.round(1E4*e/24/3600)/1E4+" days = "+e+" s)",!1}ai_debug_cookie_status="OK";return!0};
+ai_check_and_insert_block=function(a,c){if(null==a)return!0;var d=document.getElementsByClassName(c);if(d.length){d=d[0];var b=d.closest(".code-block");if(ai_check_block(a)){if(ai_insert_code(d),b){var f=b.querySelectorAll(".ai-debug-block");b&&f.length&&(b.classList.remove("ai-list-block"),b.classList.remove("ai-list-block-ip"),b.style.visibility="",b.classList.contains("ai-remove-position")&&(b.style.position=""))}}else{f=d.closest("div[data-ai]");if(null!=f&&"undefined"!=typeof f.getAttribute("data-ai")){var e=
+JSON.parse(b64d(f.getAttribute("data-ai")));"undefined"!==typeof e&&e.constructor===Array&&(e[1]="",f.setAttribute("data-ai",b64e(JSON.stringify(e))))}f=b.querySelectorAll(".ai-debug-block");b&&f.length&&(b.classList.remove("ai-list-block"),b.classList.remove("ai-list-block-ip"),b.style.visibility="",b.classList.contains("ai-remove-position")&&(b.style.position=""))}d.classList.remove(c)}d=document.querySelectorAll("."+c+"-dbg");b=0;for(f=d.length;b<f;b++)e=d[b],e.querySelector(".ai-status").textContent=
+ai_debug_cookie_status,e.querySelector(".ai-cookie-data").textContent=ai_get_cookie_text(a),e.classList.remove(c+"-dbg")};function ai_load_cookie(){var a=AiCookies.getJSON("aiBLOCKS");null==a&&(a={});return a}function ai_get_cookie(a,c){var d="",b=ai_load_cookie();b.hasOwnProperty(a)&&b[a].hasOwnProperty(c)&&(d=b[a][c]);return d}
+function ai_set_cookie(a,c,d){var b=ai_load_cookie();if(""===d){if(b.hasOwnProperty(a)){delete b[a][c];a:{c=b[a];for(f in c)if(c.hasOwnProperty(f)){var f=!1;break a}f=!0}f&&delete b[a]}}else b.hasOwnProperty(a)||(b[a]={}),b[a][c]=d;0===Object.keys(b).length&&b.constructor===Object?AiCookies.remove("aiBLOCKS"):AiCookies.set("aiBLOCKS",b,{expires:365,path:"/"});return b}
+ai_get_cookie_text=function(a){var c=AiCookies.getJSON("aiBLOCKS");null==c&&(c={});return c.hasOwnProperty(a)?JSON.stringify(c[a]).replace(/"/g,"").replace("{","").replace("}",""):""};
+ai_insert=function(d,l,v){for(var p=-1!=l.indexOf(":eq")?jQuery(l):document.querySelectorAll(l),t=0,y=p.length;t<y;t++){var b=p[t];selector_string=b.hasAttribute("id")?"#"+b.getAttribute("id"):b.hasAttribute("class")?"."+b.getAttribute("class").replace(RegExp(" ","g"),"."):"";var u=document.createElement("div");u.innerHTML=v;var m=u.getElementsByClassName("ai-selector-counter")[0];null!=m&&(m.innerText=t+1);m=u.getElementsByClassName("ai-debug-name ai-main")[0];if(null!=m){var k="";"before"==d?k=
+ai_front.insertion_before:"after"==d?k=ai_front.insertion_after:"prepend"==d?k=ai_front.insertion_prepend:"append"==d?k=ai_front.insertion_append:"replace-content"==d?k=ai_front.insertion_replace_content:"replace-element"==d&&(k=ai_front.insertion_replace_element);-1==selector_string.indexOf(".ai-viewports")&&(m.innerText=k+" "+l+" ("+b.tagName.toLowerCase()+selector_string+")")}m=document.createRange();k=!0;try{var w=m.createContextualFragment(u.innerHTML)}catch(r){k=!1}"before"==d?k?b.parentNode.insertBefore(w,
+b):jQuery(u.innerHTML).insertBefore(jQuery(b)):"after"==d?k?b.parentNode.insertBefore(w,b.nextSibling):jQuery(u.innerHTML).insertBefore(jQuery(b.nextSibling)):"prepend"==d?k?b.insertBefore(w,b.firstChild):jQuery(u.innerHTML).insertBefore(jQuery(b.firstChild)):"append"==d?k?b.insertBefore(w,null):jQuery(u.innerHTML).appendTo(jQuery(b)):"replace-content"==d?(b.innerHTML="",k?b.insertBefore(w,null):jQuery(u.innerHTML).appendTo(jQuery(b))):"replace-element"==d&&(k?b.parentNode.insertBefore(w,b):jQuery(u.innerHTML).insertBefore(jQuery(b)),
+b.parentNode.removeChild(b))}};
+ai_insert_code=function(d){function l(m,k){return null==m?!1:m.classList?m.classList.contains(k):-1<(" "+m.className+" ").indexOf(" "+k+" ")}function v(m,k){null!=m&&(m.classList?m.classList.add(k):m.className+=" "+k)}function p(m,k){null!=m&&(m.classList?m.classList.remove(k):m.className=m.className.replace(new RegExp("(^|\\b)"+k.split(" ").join("|")+"(\\b|$)","gi")," "))}if("undefined"!=typeof d){var t=!1;if(l(d,"no-visibility-check")||d.offsetWidth||d.offsetHeight||d.getClientRects().length){t=
+d.getAttribute("data-code");var y=d.getAttribute("data-insertion"),b=d.getAttribute("data-selector");if(null!=t)if(null!=y&&null!=b){if(-1!=b.indexOf(":eq")?jQuery(b).length:document.querySelectorAll(b).length)ai_insert(y,b,b64d(t)),p(d,"ai-viewports")}else{y=document.createRange();b=!0;try{var u=y.createContextualFragment(b64d(t))}catch(m){b=!1}b?d.parentNode.insertBefore(u,d.nextSibling):jQuery(b64d(t)).insertBefore(jQuery(d.nextSibling));p(d,"ai-viewports")}t=!0}else u=d.previousElementSibling,
+l(u,"ai-debug-bar")&&l(u,"ai-debug-script")&&(p(u,"ai-debug-script"),v(u,"ai-debug-viewport-invisible")),p(d,"ai-viewports");return t}};
+ai_insert_list_code=function(d){var l=document.getElementsByClassName(d)[0];if("undefined"!=typeof l){var v=ai_insert_code(l),p=l.closest("div.code-block");if(p){v||p.removeAttribute("data-ai");var t=p.querySelectorAll(".ai-debug-block");p&&t.length&&(p.classList.remove("ai-list-block"),p.classList.remove("ai-list-block-ip"),p.style.visibility="",p.classList.contains("ai-remove-position")&&(p.style.position=""))}l.classList.remove(d);v&&ai_process_elements()}};
+ai_insert_viewport_code=function(d){var l=document.getElementsByClassName(d)[0];"undefined"!=typeof l&&(ai_insert_code(l),l.classList.remove(d),ai_process_elements())};ai_insert_code_by_class=function(d){var l=document.getElementsByClassName(d)[0];"undefined"!=typeof l&&(ai_insert_code(l),l.classList.remove(d))};
+ai_insert_client_code=function(d,l){var v=document.getElementsByClassName(d)[0];if("undefined"!=typeof v){var p=v.getAttribute("data-code");null!=p&&ai_check_block()&&ai_check_and_insert_block()&&(v.setAttribute("data-code",p.substring(Math.floor(l/19))),ai_insert_code_by_class(d),v.remove())}};ai_process_elements_active=!1;
+function ai_process_elements(){ai_process_elements_active||setTimeout(function(){ai_process_elements_active=!1;"function"==typeof ai_process_rotations&&ai_process_rotations();"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data"));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data"));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks()},5);ai_process_elements_active=!0}
+var Arrive=function(d,l,v){function p(r,c,e){b.addMethod(c,e,r.unbindEvent);b.addMethod(c,e,r.unbindEventWithSelectorOrCallback);b.addMethod(c,e,r.unbindEventWithSelectorAndCallback)}function t(r){r.arrive=k.bindEvent;p(k,r,"unbindArrive");r.leave=w.bindEvent;p(w,r,"unbindLeave")}if(d.MutationObserver&&"undefined"!==typeof HTMLElement){var y=0,b=function(){var r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector;
+return{matchesSelector:function(c,e){return c instanceof HTMLElement&&r.call(c,e)},addMethod:function(c,e,f){var a=c[e];c[e]=function(){if(f.length==arguments.length)return f.apply(this,arguments);if("function"==typeof a)return a.apply(this,arguments)}},callCallbacks:function(c,e){e&&e.options.onceOnly&&1==e.firedElems.length&&(c=[c[0]]);for(var f=0,a;a=c[f];f++)a&&a.callback&&a.callback.call(a.elem,a.elem);e&&e.options.onceOnly&&1==e.firedElems.length&&e.me.unbindEventWithSelectorAndCallback.call(e.target,
+e.selector,e.callback)},checkChildNodesRecursively:function(c,e,f,a){for(var g=0,h;h=c[g];g++)f(h,e,a)&&a.push({callback:e.callback,elem:h}),0<h.childNodes.length&&b.checkChildNodesRecursively(h.childNodes,e,f,a)},mergeArrays:function(c,e){var f={},a;for(a in c)c.hasOwnProperty(a)&&(f[a]=c[a]);for(a in e)e.hasOwnProperty(a)&&(f[a]=e[a]);return f},toElementsArray:function(c){"undefined"===typeof c||"number"===typeof c.length&&c!==d||(c=[c]);return c}}}(),u=function(){var r=function(){this._eventsBucket=
+[];this._beforeRemoving=this._beforeAdding=null};r.prototype.addEvent=function(c,e,f,a){c={target:c,selector:e,options:f,callback:a,firedElems:[]};this._beforeAdding&&this._beforeAdding(c);this._eventsBucket.push(c);return c};r.prototype.removeEvent=function(c){for(var e=this._eventsBucket.length-1,f;f=this._eventsBucket[e];e--)c(f)&&(this._beforeRemoving&&this._beforeRemoving(f),(f=this._eventsBucket.splice(e,1))&&f.length&&(f[0].callback=null))};r.prototype.beforeAdding=function(c){this._beforeAdding=
+c};r.prototype.beforeRemoving=function(c){this._beforeRemoving=c};return r}(),m=function(r,c){var e=new u,f=this,a={fireOnAttributesModification:!1};e.beforeAdding(function(g){var h=g.target;if(h===d.document||h===d)h=document.getElementsByTagName("html")[0];var n=new MutationObserver(function(x){c.call(this,x,g)});var q=r(g.options);n.observe(h,q);g.observer=n;g.me=f});e.beforeRemoving(function(g){g.observer.disconnect()});this.bindEvent=function(g,h,n){h=b.mergeArrays(a,h);for(var q=b.toElementsArray(this),
+x=0;x<q.length;x++)e.addEvent(q[x],g,h,n)};this.unbindEvent=function(){var g=b.toElementsArray(this);e.removeEvent(function(h){for(var n=0;n<g.length;n++)if(this===v||h.target===g[n])return!0;return!1})};this.unbindEventWithSelectorOrCallback=function(g){var h=b.toElementsArray(this);e.removeEvent("function"===typeof g?function(n){for(var q=0;q<h.length;q++)if((this===v||n.target===h[q])&&n.callback===g)return!0;return!1}:function(n){for(var q=0;q<h.length;q++)if((this===v||n.target===h[q])&&n.selector===
+g)return!0;return!1})};this.unbindEventWithSelectorAndCallback=function(g,h){var n=b.toElementsArray(this);e.removeEvent(function(q){for(var x=0;x<n.length;x++)if((this===v||q.target===n[x])&&q.selector===g&&q.callback===h)return!0;return!1})};return this},k=new function(){function r(f,a,g){return b.matchesSelector(f,a.selector)&&(f._id===v&&(f._id=y++),-1==a.firedElems.indexOf(f._id))?(a.firedElems.push(f._id),!0):!1}var c={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};k=new m(function(f){var a=
+{attributes:!1,childList:!0,subtree:!0};f.fireOnAttributesModification&&(a.attributes=!0);return a},function(f,a){f.forEach(function(g){var h=g.addedNodes,n=g.target,q=[];null!==h&&0<h.length?b.checkChildNodesRecursively(h,a,r,q):"attributes"===g.type&&r(n,a,q)&&q.push({callback:a.callback,elem:n});b.callCallbacks(q,a)})});var e=k.bindEvent;k.bindEvent=function(f,a,g){"undefined"===typeof g?(g=a,a=c):a=b.mergeArrays(c,a);var h=b.toElementsArray(this);if(a.existing){for(var n=[],q=0;q<h.length;q++)for(var x=
+h[q].querySelectorAll(f),z=0;z<x.length;z++)n.push({callback:g,elem:x[z]});if(a.onceOnly&&n.length)return g.call(n[0].elem,n[0].elem);setTimeout(b.callCallbacks,1,n)}e.call(this,f,a,g)};return k},w=new function(){function r(f,a){return b.matchesSelector(f,a.selector)}var c={};w=new m(function(){return{childList:!0,subtree:!0}},function(f,a){f.forEach(function(g){g=g.removedNodes;var h=[];null!==g&&0<g.length&&b.checkChildNodesRecursively(g,a,r,h);b.callCallbacks(h,a)})});var e=w.bindEvent;w.bindEvent=
+function(f,a,g){"undefined"===typeof g?(g=a,a=c):a=b.mergeArrays(c,a);e.call(this,f,a,g)};return w};l&&t(l.fn);t(HTMLElement.prototype);t(NodeList.prototype);t(HTMLCollection.prototype);t(HTMLDocument.prototype);t(Window.prototype);l={};p(k,l,"unbindAllArrive");p(w,l,"unbindAllLeave");return l}}(window,"undefined"===typeof jQuery?null:jQuery,void 0);
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,k){a.raw=k;return a};$jscomp.arrayIteratorImpl=function(a){var k=0;return function(){return k<a.length?{done:!1,value:a[k++]}:{done:!0}}};$jscomp.arrayIterator=function(a){return{next:$jscomp.arrayIteratorImpl(a)}};$jscomp.makeIterator=function(a){var k="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return k?k.call(a):$jscomp.arrayIterator(a)};
+jQuery(function(a){function k(e){e=e.match(E);return null!=e&&1<e.length&&"string"===typeof e[1]&&0<e[1].length?e[1].toLowerCase():null}function z(e){try{var h=Date.parse(e);isNaN(h)&&(h=null)}catch(J){h=null}if(null==h&&e.includes(" ")){e=e.split(" ");try{h=Date.parse(e[0]);if(e[1].includes(":")){var F=e[1].split(":");h+=1E3*(3600*parseInt(F[0])+60*parseInt(F[1])+parseInt(F[2]))}isNaN(h)&&(h=null)}catch(J){h=null}}return h}function n(){(jQuery("#ai-iab-tcf-bar").length||jQuery(".ai-list-manual").length)&&
+"function"==typeof __tcfapi&&"function"==typeof ai_load_blocks&&"undefined"==typeof ai_iab_tcf_callback_installed&&(__tcfapi("addEventListener",2,function(e,h){h&&"useractioncomplete"===e.eventStatus&&(ai_tcData=e,ai_load_blocks(),jQuery("#ai-iab-tcf-status").text("DATA LOADED"),jQuery("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))}),ai_iab_tcf_callback_installed=!0)}Array.prototype.includes||(Array.prototype.includes=function(e){return!!~this.indexOf(e)});var E=/:\/\/(.[^/:]+)/i;
+ai_process_lists=function(e){function h(d,b,g){if(0==d.length){if("!@!"==g)return!0;b!=g&&("true"==g.toLowerCase()?g=!0:"false"==g.toLowerCase()&&(g=!1));return b==g}if("object"!=typeof b&&"array"!=typeof b)return!1;var f=d[0];d=d.slice(1);if("*"==f)for(b=$jscomp.makeIterator(Object.entries(b)),f=b.next();!f.done;f=b.next()){if(f=$jscomp.makeIterator(f.value),f.next(),f=f.next().value,h(d,f,g))return!0}else if(f in b)return h(d,b[f],g);return!1}function F(d,b,g){if("object"!=typeof d||-1==b.indexOf("["))return!1;
+b=b.replace(/]| /gi,"").split("[");return h(b,d,g)}function J(){"function"==typeof __tcfapi&&(a("#ai-iab-tcf-status").text("DETECTED"),__tcfapi("getTCData",2,function(d,b){b?(a("#ai-iab-tcf-bar").addClass("status-ok"),"tcloaded"==d.eventStatus||"useractioncomplete"==d.eventStatus?(ai_tcData=d,d.gdprApplies?a("#ai-iab-tcf-status").text("DATA LOADED"):jQuery("#ai-iab-tcf-status").text("GDPR DOES NOT APPLY"),a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"),setTimeout(function(){ai_process_lists()},
+10)):"cmpuishown"==d.eventStatus&&(ai_cmpuishown=!0,a("#ai-iab-tcf-status").text("CMP UI SHOWN"),a("#ai-iab-tcf-bar").addClass("status-ok").removeClass("status-error"))):(a("#ai-iab-tcf-status").text("__tcfapi getTCData failed"),a("#ai-iab-tcf-bar").removeClass("status-ok").addClass("status-error"))}))}function P(d){"function"==typeof __tcfapi?("undefined"==typeof ai_iab_tcf_callback_installed&&n(),"undefined"==typeof ai_tcData_requested&&(ai_tcData_requested=!0,J(),url_parameters_need_tcData=!0)):
+d&&(a("#ai-iab-tcf-bar").addClass("status-error").removeClass("status-ok"),a("#ai-iab-tcf-status").text("MISSING: __tcfapi function not found"))}e=null==e?a("div.ai-list-data, meta.ai-list-data"):e.filter(".ai-list-data");if(e.length){e.removeClass("ai-list-data");var G=document.cookie.split(";");G.forEach(function(d,b){G[b]=d.trim()});var Q=getAllUrlParams(window.location.search);if(null!=Q.referrer)var r=Q.referrer;else r=document.referrer,""!=r&&(r=k(r));var K=window.navigator.userAgent,L=K.toLowerCase();
+if("undefined"!==typeof MobileDetect)var R=new MobileDetect(K);e.each(function(){var d=a(this).closest("div.code-block"),b=!0,g=a(this).attr("referer-list");if("undefined"!=typeof g){g=b64d(g).split(",");var f=a(this).attr("referer-list-type"),l=!1;a.each(g,function(t,c){if(""==c)return!0;if("*"==c.charAt(0))if("*"==c.charAt(c.length-1)){if(c=c.substr(1,c.length-2),-1!=r.indexOf(c))return l=!0,!1}else{if(c=c.substr(1),r.substr(-c.length)==c)return l=!0,!1}else if("*"==c.charAt(c.length-
+1)){if(c=c.substr(0,c.length-1),0==r.indexOf(c))return l=!0,!1}else if("#"==c){if(""==r)return l=!0,!1}else if(c==r)return l=!0,!1});switch(f){case "B":l&&(b=!1);break;case "W":l||(b=!1)}}if(b&&(g=a(this).attr("client-list"),"undefined"!=typeof g&&"undefined"!==typeof R))switch(g=b64d(g).split(","),f=a(this).attr("client-list-type"),l=!1,a.each(g,function(t,c){if(""==c)return!0;if("*"==c.charAt(0))if("*"==c.charAt(c.length-1)){if(c=c.substr(1,c.length-2).toLowerCase(),-1!=L.indexOf(c))return l=!0,
+!1}else{if(c=c.substr(1).toLowerCase(),L.substr(-c.length)==c)return l=!0,!1}else if("*"==c.charAt(c.length-1)){if(c=c.substr(0,c.length-1).toLowerCase(),0==L.indexOf(c))return l=!0,!1}else if(R.is(c))return l=!0,!1}),f){case "B":l&&(b=!1);break;case "W":l||(b=!1)}var M=g=!1;if(b&&(f=a(this).attr("parameter-list"),"undefined"!=typeof f)){f=b64d(f).split(",");var u=a(this).attr("parameter-list-type"),S=[];G.forEach(function(t){t=t.split("=");try{var c=JSON.parse(decodeURIComponent(t[1]))}catch(T){c=
+decodeURIComponent(t[1])}S[t[0]]=c});var w=!1,H=a(this);a.each(f,function(t,c){var T=c.split("&&");a.each(T,function(X,m){var x=!0;m=m.trim();"!!"==m.substring(0,2)&&(x=!1,m=m.substring(2));var p=m,y="!@!",U=-1!=m.indexOf("["),V=(0==m.indexOf("tcf-v2")||0==m.indexOf("euconsent-v2"))&&-1!=m.indexOf("[");-1!=m.indexOf("=")&&(y=m.split("="),p=y[0],y=y[1],U=-1!=p.indexOf("["),V=(0==p.indexOf("tcf-v2")||0==p.indexOf("euconsent-v2"))&&-1!=p.indexOf("["));if(V)a("#ai-iab-tcf-bar").show(),"object"==typeof ai_tcData?
+(a("#ai-iab-tcf-bar").addClass("status-ok"),p=p.replace(/]| /gi,"").split("["),p.shift(),w=(p=h(p,ai_tcData,y))?x:!x):(H.addClass("ai-list-data"),M=!0,"function"==typeof __tcfapi?P(!1):"undefined"==typeof ai_tcData_retrying&&(ai_tcData_retrying=!0,setTimeout(function(){P(!0)},200)));else if(U)w=(p=F(S,p,y))?x:!x;else{var N=!1;"!@!"==y?G.every(function(W){return W.split("=")[0]==m?(N=!0,!1):!0}):N=-1!=G.indexOf(m);w=N?x:!x}if(!w)return!1});if(w)return!1});switch(u){case "B":w&&(b=!1);break;case "W":w||
+(b=!1)}a(this).hasClass("ai-list-manual")&&(b?(H.removeClass("ai-list-data"),H.removeClass("ai-list-manual")):(g=!0,H.addClass("ai-list-data")));if(!g&&!M&&(f=a(this).data("debug-info"),"undefined"!=typeof f&&(f=a("."+f),0!=f.length))){var q=f.parent();q.hasClass("ai-debug-info")&&q.remove()}}q=a(this).prevAll(".ai-debug-bar.ai-debug-lists");f=""==r?"#":r;q.find(".ai-debug-name.ai-list-info").text(f).attr("title",K);q.find(".ai-debug-name.ai-list-status").text(b?ai_front.visible:ai_front.hidden);
+f=!1;if(b){u=a(this).attr("scheduling-start");var A=a(this).attr("scheduling-end"),B=a(this).attr("scheduling-days");if("undefined"!=typeof u&&"undefined"!=typeof A&&"undefined"!=typeof B){f=!0;var O=parseInt(a(this).attr("scheduling-fallback")),v=parseInt(a(this).attr("gmt"));u=z(b64d(u))+v;A=z(b64d(A))+v;B=b64d(B).split(",");q=a(this).attr("scheduling-type");var C=(new Date).getTime()+v,I=new Date(C),D=I.getDay();0==D?D=6:D--;v=C>=u&&C<A&&B.includes(D.toString());switch(q){case "B":v=!v}v||(b=!1);
+I=I.toISOString().split(".")[0].replace("T"," ");q=a(this).prevAll(".ai-debug-bar.ai-debug-scheduling");q.find(".ai-debug-name.ai-scheduling-info").text(I+" "+D+" current_time:"+C.toString()+"  start_date:"+u.toString()+" ="+(C>=u).toString()+" end_date:"+A.toString()+" =:"+(C<A).toString()+" days:"+B.toString()+" =:"+B.includes(D.toString()).toString());q.find(".ai-debug-name.ai-scheduling-status").text(b?ai_front.visible:ai_front.hidden);b||0==O||(q.removeClass("ai-debug-scheduling").addClass("ai-debug-fallback"),
+q.find(".ai-debug-name.ai-scheduling-status").text(ai_front.fallback+"="+O))}}if(g||M)return!0;a(this).css({visibility:"",position:"",width:"",height:"","z-index":""});b?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&d.css({position:""}),"undefined"!=typeof a(this).data("code")&&(b=b64d(a(this).data("code")),0!=a(this).closest("head").length?(a(this).after(b),a(this).remove()):a(this).append(b),ai_process_element(this))):f&&!v&&0!=O?(d.css({visibility:""}),d.hasClass("ai-remove-position")&&
+d.css({position:""}),a(this).next(".ai-fallback").removeClass("ai-fallback"),"undefined"!=typeof a(this).data("fallback-code")?(b=b64d(a(this).data("fallback-code")),a(this).append(b),ai_process_element(this)):(a(this).hide(),d.find(".ai-debug-block").length||d.hide()),b=d.attr("data-ai"),"undefined"!==typeof b&&!1!==b&&(b=a(this).attr("fallback-tracking"),"undefined"!==typeof b&&!1!==b&&d.attr("data-ai",b))):(a(this).hide(),d.find(".ai-debug-block").length||d.hide(),d.removeAttr("data-ai").removeClass("ai-track"),
+d.find(".ai-debug-block").length?(d.css({visibility:""}).removeClass("ai-close"),d.hasClass("ai-remove-position")&&d.css({position:""})):d.hide());a(this).attr("data-code","");a(this).attr("data-fallback-code","");d.removeClass("ai-list-block")})}};a(document).ready(function(e){setTimeout(function(){ai_process_lists();setTimeout(function(){n()},50);if("function"==typeof ai_load_blocks)jQuery(document).on("cmplzEnableScripts",function(h){"all"===h.consentLevel&&ai_load_blocks()});jQuery("#ai-iab-tcf-bar").click(function(){AiCookies.remove("euconsent-v2",
+{path:"/",domain:"."+window.location.hostname});AiCookies.remove("__lxG__consent__v2",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("__lxG__consent__v2_daisybit",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("__lxG__consent__v2_gdaisybit",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("cmplz_marketing",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("cmplz_stats",{path:"/",domain:"."+window.location.hostname});AiCookies.remove("complianz_consent_status",
+{path:"/",domain:"."+window.location.hostname});jQuery("#ai-iab-tcf-status").text("COOKIE DELETED")})},5)})});function ai_process_element(a){setTimeout(function(){"function"==typeof ai_process_rotations_in_element&&ai_process_rotations_in_element(a);"function"==typeof ai_process_lists&&ai_process_lists(jQuery(".ai-list-data",a));"function"==typeof ai_process_ip_addresses&&ai_process_ip_addresses(jQuery(".ai-ip-data",a));"function"==typeof ai_adb_process_blocks&&ai_adb_process_blocks(a)},5)}
+function getAllUrlParams(a){var k=a?a.split("?")[1]:window.location.search.slice(1);a={};if(k){k=k.split("#")[0];k=k.split("&");for(var z=0;z<k.length;z++){var n=k[z].split("="),E=void 0,e=n[0].replace(/\[\d*\]/,function(h){E=h.slice(1,-1);return""});n="undefined"===typeof n[1]?"":n[1];e=e.toLowerCase();n=n.toLowerCase();a[e]?("string"===typeof a[e]&&(a[e]=[a[e]]),"undefined"===typeof E?a[e].push(n):a[e][E]=n):a[e]=n}}return a};
+
+ai_js_code = true;
+}
+function ai_wait_for_jquery(){function b(b,c){var a=document.createElement("script");a.src=b;var d=document.getElementsByTagName("head")[0],e=!1;a.onload=a.onreadystatechange=function(){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(e=!0,c&&c(),a.onload=a.onreadystatechange=null,d.removeChild(a))};d.appendChild(a)}window.jQuery?ai_run_scripts():(ai_jquery_waiting_counter++,4==ai_jquery_waiting_counter&&b("http://dailyheadlines.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",function(){b("http://dailyheadlines.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=5.4.4",null)}),30>ai_jquery_waiting_counter&&
+setTimeout(function(){ai_wait_for_jquery()},50))}ai_jquery_waiting_counter=0;ai_wait_for_jquery();
+
+</script>
+</body>
+</html>
+<!-- Page generated by LiteSpeed Cache 3.6.1 on 2021-03-26 09:18:35 -->

@@ -17,7 +17,7 @@
 <meta content="News and Articles About Conscious Living on Planet Earth" property="og:description"/>
 <meta content="http://consciouslifenews.com" property="og:url"/>
 <meta content="Conscious Life News" property="og:site_name"/>
-<!-- This site is optimized with the Yoast SEO plugin v16.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta content="News and Articles About Conscious Living on Planet Earth" name="description"/>
 <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
 <link href="https://consciouslifenews.com/" rel="canonical"/>
@@ -68,7 +68,7 @@ img.emoji {
 <script id="jquery-migrate-js" src="https://c0.wp.com/c/5.6.2/wp-includes/js/jquery/jquery-migrate.min.js" type="text/javascript"></script>
 <script id="ct_public-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var ctPublic = {"_ajax_nonce":"602423f8ba","_ajax_url":"https:\/\/consciouslifenews.com\/wp-admin\/admin-ajax.php"};
+var ctPublic = {"_ajax_nonce":"202ade4b16","_ajax_url":"https:\/\/consciouslifenews.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script id="ct_nocache-js-extra" type="text/javascript">
@@ -94,7 +94,7 @@ var advanced_ads_pro_ajax_object = {"ajax_url":"https:\/\/consciouslifenews.com\
 </script>
 <script id="__ytprefs__-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var _EPYT_ = {"ajaxurl":"https:\/\/consciouslifenews.com\/wp-admin\/admin-ajax.php","security":"918757881f","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/consciouslifenews.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/consciouslifenews.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"13.4.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+var _EPYT_ = {"ajaxurl":"https:\/\/consciouslifenews.com\/wp-admin\/admin-ajax.php","security":"b4a6bcb32c","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/consciouslifenews.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/consciouslifenews.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\",\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"13.4.2","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
 /* ]]> */
 </script>
 <script data-rocketlazyloadscript="https://consciouslifenews.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/cardoza-facebook-like-box/cardozafacebook.js,wp-content/plugins/cleantalk-spam-protect/js/apbct-public.min.js,wp-content/plugins/cleantalk-spam-protect/js/cleantalk-modal.min.js,wp-content/plugins/cleantalk-spam-protect/js/cleantalk_nocache.min.js,wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js,wp-content/uploads/69/827/public/assets/js/873.js,wp-content/uploads/69/111/public/assets/js/761.js,wp-content/uploads/69/226/assets/52.js,wp-content/uploads/69/226/351/238/429/607.js,wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js" type="text/javascript"></script>
@@ -172,7 +172,7 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <!--[if lt IE 9]>
 		<script type="text/javascript" src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
 	<![endif]-->
-<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/consciouslifenews.com\/wp-admin\/admin-ajax.php","essb3_nonce":"8646728766","essb3_plugin_url":"https:\/\/consciouslifenews.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"blog_url":"https:\/\/consciouslifenews.com\/","post_id":"77185"};</script>
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/consciouslifenews.com\/wp-admin\/admin-ajax.php","essb3_nonce":"8ea29228b4","essb3_plugin_url":"https:\/\/consciouslifenews.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"blog_url":"https:\/\/consciouslifenews.com\/","post_id":"77185"};</script>
 <script async="" src="//tags-cdn.deployads.com/a/consciouslifenews.com.js"></script>
 </link></link></head>
 <body class="home blog c-sw essb-7.9 aa-prefix-consc-">
@@ -348,92 +348,12 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <div class="cats-by-2">
 <div class="cat-posts-left">
 <h2 class="feat-title"><span><a href="https://consciouslifenews.com/category/conscious-living/">Conscious Living</a></span></h2>
-<div class="post clearfix mypost-1" id="cat-post-202695">
+<div class="post clearfix mypost-1" id="cat-post-203005">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/" rel="bookmark" title="Permanent Link to Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica"> <img alt="Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica" class="thumbnail wide small" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/penguin-escapes-killer-whales.jpg?resize=352%2C198&amp;ssl=1" title="Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica"/>
+<a href="https://consciouslifenews.com/israeli-woman-tells-the-world-whats-really-going-on-in-israel-with-vaccines-we-are-prisoners-in-our-own-country-tomorrow-it-will-be-at-your-country/11203005/" rel="bookmark" title="Permanent Link to Israeli Woman Tells the World What’s Really Going on In Israel With Vaccines: “We are prisoners in our own country! Tomorrow, it will be at YOUR country!”"> <img alt="Israeli Woman Tells the World What’s Really Going on In Israel With Vaccines: “We are prisoners in our own country! Tomorrow, it will be at YOUR country!”" class="thumbnail wide small" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/woman-in-israel-warns-about-forced-vaccines.jpg?resize=352%2C198&amp;ssl=1" title="Israeli Woman Tells the World What’s Really Going on In Israel With Vaccines: “We are prisoners in our own country! Tomorrow, it will be at YOUR country!”"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/" rel="bookmark" title="Permanent Link to Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica">Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 16, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/environment-2/" rel="category tag">Environment</a>, <a href="https://consciouslifenews.com/category/conscious-living/inspirational-conscious-living/" rel="category tag">Inspirational</a>, <a href="https://consciouslifenews.com/category/environment-2/wildlife/" rel="category tag">Wildlife</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/#respond" rel="bookmark" title="Comments for Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>A gentoo penguin in Antarctica escaped a pod of chasing killer whales by leaping into a dinghy full of tourists after flinging itself headfirst into the side of the boat.  #penguins</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/" rel="nofollow" title="Permanent Link to Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-2" id="cat-post-202644">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/can-you-sit-and-do-nothing-seven-benefits-of-nothing/11202644/" rel="bookmark" title="Permanent Link to Can You Sit and Do Nothing? Seven Benefits of “Doing Nothing”"> <img alt="Can You Sit and Do Nothing? Seven Benefits of “Doing Nothing”" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/145412967_s-compressed.jpg?resize=150%2C150&amp;ssl=1" title="Can You Sit and Do Nothing? Seven Benefits of “Doing Nothing”"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/can-you-sit-and-do-nothing-seven-benefits-of-nothing/11202644/" rel="bookmark" title="Permanent Link to Can You Sit and Do Nothing? Seven Benefits of “Doing Nothing”">Can You Sit and Do Nothing? Seven Benefits of “Doing Nothing”</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Written by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/julia/" rel="author" title="Posts by Julia Parsell">Julia Parsell</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 15, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/conscious-living/thrive-movement-conscious-living/" rel="category tag">Thrive</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/can-you-sit-and-do-nothing-seven-benefits-of-nothing/11202644/#comments" rel="bookmark" title="Comments for Can You Sit and Do Nothing? Seven Benefits of “Doing Nothing”">1 Comment</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>First of all, if you are a busy person then you need “nothing” time more than ever. Here are seven reminders, why you need alone time!  #2  It fosters the importance of who you are: an individual, a soul, a risk taker. Why a risk taker? It takes courage to stop doing and just be with yourself.</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/can-you-sit-and-do-nothing-seven-benefits-of-nothing/11202644/" rel="nofollow" title="Permanent Link to Can You Sit and Do Nothing? Seven Benefits of “Doing Nothing”">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-3" id="cat-post-202666">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/watch-we-have-been-controlled-seeing-this-is-ascending-lorie-ladd/11202666/" rel="bookmark" title="Permanent Link to WATCH: We Have Been Controlled – Seeing This Is Ascending | Lorie Ladd"> <img alt="WATCH: We Have Been Controlled – Seeing This Is Ascending | Lorie Ladd" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/we-have-been-controlled.jpg?resize=150%2C150&amp;ssl=1" title="WATCH: We Have Been Controlled – Seeing This Is Ascending | Lorie Ladd"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/watch-we-have-been-controlled-seeing-this-is-ascending-lorie-ladd/11202666/" rel="bookmark" title="Permanent Link to WATCH: We Have Been Controlled – Seeing This Is Ascending | Lorie Ladd">WATCH: We Have Been Controlled – Seeing This Is Ascending | Lorie Ladd</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/israeli-woman-tells-the-world-whats-really-going-on-in-israel-with-vaccines-we-are-prisoners-in-our-own-country-tomorrow-it-will-be-at-your-country/11203005/" rel="bookmark" title="Permanent Link to Israeli Woman Tells the World What’s Really Going on In Israel With Vaccines: “We are prisoners in our own country! Tomorrow, it will be at YOUR country!”">Israeli Woman Tells the World What’s Really Going on In Israel With Vaccines: “We are prisoners in our own country! Tomorrow, it will be at YOUR country!”</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -445,35 +365,35 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 15, 2021		</span>
+			March 26, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/conscious-living/conscious-evolution/" rel="category tag">Conscious Evolution</a>, <a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/conscious-living/inspirational-conscious-living/" rel="category tag">Inspirational</a>, <a href="https://consciouslifenews.com/category/conscious-living/thrive-movement-conscious-living/" rel="category tag">Thrive</a> </span>
+<a href="https://consciouslifenews.com/category/conscious-living/activism-conscious-living/" rel="category tag">Activism</a>, <a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/conscious-living/peace-conscious-living/" rel="category tag">Peace &amp; Human Rights</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/watch-we-have-been-controlled-seeing-this-is-ascending-lorie-ladd/11202666/#respond" rel="bookmark" title="Comments for WATCH: We Have Been Controlled – Seeing This Is Ascending | Lorie Ladd">0 Comments</a>
+<a href="https://consciouslifenews.com/israeli-woman-tells-the-world-whats-really-going-on-in-israel-with-vaccines-we-are-prisoners-in-our-own-country-tomorrow-it-will-be-at-your-country/11203005/#respond" rel="bookmark" title="Comments for Israeli Woman Tells the World What’s Really Going on In Israel With Vaccines: “We are prisoners in our own country! Tomorrow, it will be at YOUR country!”">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>Lorie Ladd explains that the more light you hold, the more you are able to see through the dense systems that have been controlling humanity for a very long time.</p>
+<div class="my-excerpt"><p>A young woman in Israel tells the world that the people in Israel (including pregnant women) are essentially being forced to take the vaccine else they are Type B citizens.</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/watch-we-have-been-controlled-seeing-this-is-ascending-lorie-ladd/11202666/" rel="nofollow" title="Permanent Link to WATCH: We Have Been Controlled – Seeing This Is Ascending | Lorie Ladd">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/israeli-woman-tells-the-world-whats-really-going-on-in-israel-with-vaccines-we-are-prisoners-in-our-own-country-tomorrow-it-will-be-at-your-country/11203005/" rel="nofollow" title="Permanent Link to Israeli Woman Tells the World What’s Really Going on In Israel With Vaccines: “We are prisoners in our own country! Tomorrow, it will be at YOUR country!”">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-4" id="cat-post-202659">
+<div class="post clearfix mypost-2" id="cat-post-202992">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/tips-from-gandhi-on-changing-the-world/11202659/" rel="bookmark" title="Permanent Link to Tips from Gandhi on Changing the World"> <img alt="Tips from Gandhi on Changing the World" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/mahatma-gandhi.jpg?resize=150%2C150&amp;ssl=1" title="Tips from Gandhi on Changing the World"/>
+<a href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/" rel="bookmark" title="Permanent Link to Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation"> <img alt="Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/outcry-to-the-world-from-israel.jpg?resize=150%2C150&amp;ssl=1" title="Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/tips-from-gandhi-on-changing-the-world/11202659/" rel="bookmark" title="Permanent Link to Tips from Gandhi on Changing the World">Tips from Gandhi on Changing the World</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/" rel="bookmark" title="Permanent Link to Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation">Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -485,25 +405,105 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 15, 2021		</span>
+			March 26, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/conscious-living/activism-conscious-living/" rel="category tag">Activism</a>, <a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/conscious-living/thrive-movement-conscious-living/" rel="category tag">Thrive</a> </span>
+<a href="https://consciouslifenews.com/category/conscious-living/activism-conscious-living/" rel="category tag">Activism</a>, <a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/government-2/" rel="category tag">Government</a>, <a href="https://consciouslifenews.com/category/government-2/positive-change-government-2/" rel="category tag">Policies</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/tips-from-gandhi-on-changing-the-world/11202659/#respond" rel="bookmark" title="Comments for Tips from Gandhi on Changing the World">0 Comments</a>
+<a href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/#respond" rel="bookmark" title="Comments for Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>Mahatma Gandhi needs no introduction. Everyone knows about the man who led the Indian people to independence from British rule, back in 1947. Henrik Edberg shares some of his favorite tips from Mahatma Gandhi on changing the world. #bethechange</p>
+<div class="my-excerpt"><p>The entire world is watching in horror as death rates have skyrocketed in Israel since the Israeli government brokered a secret deal with Pfizer to inject the entire population with their experimental COVID shots, which are now being mandated as a condition to participating in society. #israeliscryout</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/tips-from-gandhi-on-changing-the-world/11202659/" rel="nofollow" title="Permanent Link to Tips from Gandhi on Changing the World">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/" rel="nofollow" title="Permanent Link to Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-3" id="cat-post-170524">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/the-extraordinary-diversity-of-et-star-souls-on-and-around-the-earth-2/11170524/" rel="bookmark" title="Permanent Link to The Extraordinary Diversity of ET Star Souls on and Around the Earth"> <img alt="The Extraordinary Diversity of ET Star Souls on and Around the Earth" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2019/06/extraordinary-diversity-et-star-souls-and-around-earth.jpg?resize=150%2C150&amp;ssl=1" title="The Extraordinary Diversity of ET Star Souls on and Around the Earth"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/the-extraordinary-diversity-of-et-star-souls-on-and-around-the-earth-2/11170524/" rel="bookmark" title="Permanent Link to The Extraordinary Diversity of ET Star Souls on and Around the Earth">The Extraordinary Diversity of ET Star Souls on and Around the Earth</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Written by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/chrisbourne/" rel="author" title="Posts by Openhand">Openhand</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 25, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/conscious-living/conscious-evolution/" rel="category tag">Conscious Evolution</a>, <a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/the-extraordinary-diversity-of-et-star-souls-on-and-around-the-earth-2/11170524/#respond" rel="bookmark" title="Comments for The Extraordinary Diversity of ET Star Souls on and Around the Earth">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>It was known that this Intervention would likely sweep across the earth. Benevolent souls from many constellations have seen it happen elsewhere time and again. The Benevolent mission here has been to support the emergent human consciousness and encourage the Original Humans to find their authenticity and deeper connection to the natural flow of the Universe. #starsoul</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/the-extraordinary-diversity-of-et-star-souls-on-and-around-the-earth-2/11170524/" rel="nofollow" title="Permanent Link to The Extraordinary Diversity of ET Star Souls on and Around the Earth">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-4" id="cat-post-202959">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/" rel="bookmark" title="Permanent Link to Why Thinking Like a Scientist Is Good for You"> <img alt="Why Thinking Like a Scientist Is Good for You" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/smart-thinking.jpg?resize=150%2C150&amp;ssl=1" title="Why Thinking Like a Scientist Is Good for You"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/" rel="bookmark" title="Permanent Link to Why Thinking Like a Scientist Is Good for You">Why Thinking Like a Scientist Is Good for You</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 25, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/sci-tech/psychology-sci-tech/" rel="category tag">Psychology-Psychiatry</a>, <a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a>, <a href="https://consciouslifenews.com/category/conscious-living/thrive-movement-conscious-living/" rel="category tag">Thrive</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/#respond" rel="bookmark" title="Comments for Why Thinking Like a Scientist Is Good for You">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>Organizational psychologist Adam Grant explains the importance of questioning our knowledge and opinions in the face of new evidence. #smartthinking</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/" rel="nofollow" title="Permanent Link to Why Thinking Like a Scientist Is Good for You">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
@@ -511,12 +511,12 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 </div>
 <div class="cat-posts-right">
 <h2 class="feat-title"><span><a href="https://consciouslifenews.com/category/health-wellness/">Health &amp; Wellness</a></span></h2>
-<div class="post clearfix mypost-1" id="cat-post-202692">
+<div class="post clearfix mypost-1" id="cat-post-203002">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/virologist-we-are-going-to-pay-huge-price-for-covid-mass-vaccination-campaign/11202692/" rel="bookmark" title="Permanent Link to Virologist: ‘We Are Going to Pay Huge Price’ for COVID Mass Vaccination Campaign"> <img alt="Virologist: ‘We Are Going to Pay Huge Price’ for COVID Mass Vaccination Campaign" class="thumbnail wide small" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/Geert-Vanden-Bossche.jpg?resize=352%2C198&amp;ssl=1" title="Virologist: ‘We Are Going to Pay Huge Price’ for COVID Mass Vaccination Campaign"/>
+<a href="https://consciouslifenews.com/interview-with-vanden-bossche-should-mass-covid-vaccinations-be-stopped/11203002/" rel="bookmark" title="Permanent Link to Interview With Vanden Bossche: Should Mass COVID Vaccinations Be Stopped?"> <img alt="Interview With Vanden Bossche: Should Mass COVID Vaccinations Be Stopped?" class="thumbnail wide small" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/ANH-Vanden-Bossche-interview.jpg?resize=352%2C198&amp;ssl=1" title="Interview With Vanden Bossche: Should Mass COVID Vaccinations Be Stopped?"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/virologist-we-are-going-to-pay-huge-price-for-covid-mass-vaccination-campaign/11202692/" rel="bookmark" title="Permanent Link to Virologist: ‘We Are Going to Pay Huge Price’ for COVID Mass Vaccination Campaign">Virologist: ‘We Are Going to Pay Huge Price’ for COVID Mass Vaccination Campaign</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/interview-with-vanden-bossche-should-mass-covid-vaccinations-be-stopped/11203002/" rel="bookmark" title="Permanent Link to Interview With Vanden Bossche: Should Mass COVID Vaccinations Be Stopped?">Interview With Vanden Bossche: Should Mass COVID Vaccinations Be Stopped?</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -528,7 +528,7 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 16, 2021		</span>
+			March 26, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
@@ -540,23 +540,23 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/virologist-we-are-going-to-pay-huge-price-for-covid-mass-vaccination-campaign/11202692/#respond" rel="bookmark" title="Comments for Virologist: ‘We Are Going to Pay Huge Price’ for COVID Mass Vaccination Campaign">0 Comments</a>
+<a href="https://consciouslifenews.com/interview-with-vanden-bossche-should-mass-covid-vaccinations-be-stopped/11203002/#respond" rel="bookmark" title="Comments for Interview With Vanden Bossche: Should Mass COVID Vaccinations Be Stopped?">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>By vaccinating everyone with a vaccine that doesn’t prevent transmission, we are destroying people’s immune systems, and setting the stage for a global health disaster. #immuneescape #massvaccination</p>
+<div class="my-excerpt"><p>After several hours of discussion, Rob Verkerk, Ph.D., of Alliance for Natural Health International concludes it would be “scientifically, socially and ethically irresponsible” to dismiss Dr. Geert Vanden Bossche’s concerns about mass vaccination. #massvaccinations</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/virologist-we-are-going-to-pay-huge-price-for-covid-mass-vaccination-campaign/11202692/" rel="nofollow" title="Permanent Link to Virologist: ‘We Are Going to Pay Huge Price’ for COVID Mass Vaccination Campaign">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/interview-with-vanden-bossche-should-mass-covid-vaccinations-be-stopped/11203002/" rel="nofollow" title="Permanent Link to Interview With Vanden Bossche: Should Mass COVID Vaccinations Be Stopped?">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-2" id="cat-post-202656">
+<div class="post clearfix mypost-2" id="cat-post-202982">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/simple-remedies-to-optimize-your-energy-and-combat-fatigue/11202656/" rel="bookmark" title="Permanent Link to Simple Remedies to Optimize Your Energy and Combat Fatigue"> <img alt="Simple Remedies to Optimize Your Energy and Combat Fatigue" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/time-restricted-eating-optimize-your-energy.jpg?resize=150%2C150&amp;ssl=1" title="Simple Remedies to Optimize Your Energy and Combat Fatigue"/>
+<a href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/" rel="bookmark" title="Permanent Link to Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert"> <img alt="Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/million-gardens-movement.jpg?resize=150%2C150&amp;ssl=1" title="Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/simple-remedies-to-optimize-your-energy-and-combat-fatigue/11202656/" rel="bookmark" title="Permanent Link to Simple Remedies to Optimize Your Energy and Combat Fatigue">Simple Remedies to Optimize Your Energy and Combat Fatigue</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/" rel="bookmark" title="Permanent Link to Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert">Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -568,87 +568,87 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 15, 2021		</span>
+			March 26, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/health-wellness/weight-loss-health-wellness/" rel="category tag">Diet, Weight Loss, Obesity</a>, <a href="https://consciouslifenews.com/category/health-wellness/food-health-wellness/" rel="category tag">Food, Drink &amp; Nutrition</a>, <a href="https://consciouslifenews.com/category/health-wellness/" rel="category tag">Health</a> </span>
+<a href="https://consciouslifenews.com/category/environment-2/" rel="category tag">Environment</a>, <a href="https://consciouslifenews.com/category/environment-2/farming/" rel="category tag">Farming</a>, <a href="https://consciouslifenews.com/category/health-wellness/food-health-wellness/" rel="category tag">Food, Drink &amp; Nutrition</a>, <a href="https://consciouslifenews.com/category/health-wellness/" rel="category tag">Health</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/simple-remedies-to-optimize-your-energy-and-combat-fatigue/11202656/#respond" rel="bookmark" title="Comments for Simple Remedies to Optimize Your Energy and Combat Fatigue">0 Comments</a>
+<a href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/#respond" rel="bookmark" title="Comments for Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>One of the most effective ways to optimize your energy and combat fatigue is to implement time-restricted eating (TRE), as it improves your mitochondrial health and metabolic flexibility  #timerestrictedeating</p>
+<div class="my-excerpt"><p>What do ten dollars, a garden, Harrison Ford, and Elon Musk’s brother have in common? They’re all being used to combat food insecurity, malnutrition, and to build the world’s single biggest gardener community.  #milliongardensmovement</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/simple-remedies-to-optimize-your-energy-and-combat-fatigue/11202656/" rel="nofollow" title="Permanent Link to Simple Remedies to Optimize Your Energy and Combat Fatigue">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/" rel="nofollow" title="Permanent Link to Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-3" id="cat-post-202677">
+<div class="post clearfix mypost-3" id="cat-post-202937">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/why-is-myaxyl-best-for-joint-pain-and-inflammation/11202677/" rel="bookmark" title="Permanent Link to Why Is Myaxyl Best for Joint Pain and Inflammation?"> <img alt="Why Is Myaxyl Best for Joint Pain and Inflammation?" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/myaxyl-oil.jpg?resize=150%2C150&amp;ssl=1" title="Why Is Myaxyl Best for Joint Pain and Inflammation?"/>
+<a href="https://consciouslifenews.com/people-now-dying-following-the-experimental-johnson-and-johnson-covid-injections/11202937/" rel="bookmark" title="Permanent Link to People Now Dying Following the Experimental Johnson and Johnson COVID Injections"> <img alt="People Now Dying Following the Experimental Johnson and Johnson COVID Injections" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/Johnson-and-Johnson-COVID-vaccine-deaths.jpg?resize=150%2C150&amp;ssl=1" title="People Now Dying Following the Experimental Johnson and Johnson COVID Injections"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/why-is-myaxyl-best-for-joint-pain-and-inflammation/11202677/" rel="bookmark" title="Permanent Link to Why Is Myaxyl Best for Joint Pain and Inflammation?">Why Is Myaxyl Best for Joint Pain and Inflammation?</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/people-now-dying-following-the-experimental-johnson-and-johnson-covid-injections/11202937/" rel="bookmark" title="Permanent Link to People Now Dying Following the Experimental Johnson and Johnson COVID Injections">People Now Dying Following the Experimental Johnson and Johnson COVID Injections</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
 							Posted by					</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
 </span>
 <span class="meta-date">
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 15, 2021		</span>
+			March 24, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/health-wellness/healing-health-wellness/" rel="category tag">Healing &amp; Natural Remedies</a> </span>
+<a href="https://consciouslifenews.com/category/health-wellness/health-hazards-issues-diseases/" rel="category tag">Hazards, Issues &amp; Diseases</a>, <a href="https://consciouslifenews.com/category/health-wellness/" rel="category tag">Health</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/why-is-myaxyl-best-for-joint-pain-and-inflammation/11202677/#respond" rel="bookmark" title="Comments for Why Is Myaxyl Best for Joint Pain and Inflammation?">0 Comments</a>
+<a href="https://consciouslifenews.com/people-now-dying-following-the-experimental-johnson-and-johnson-covid-injections/11202937/#respond" rel="bookmark" title="Comments for People Now Dying Following the Experimental Johnson and Johnson COVID Injections">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>Myaxyl oil is a miraculous oil that combines the goodness of many potent herbs to help eliminate muscle soreness, provides relief from joint pain, stiffness, and joint inflammation.</p>
+<div class="my-excerpt"><p>Reports are now surfacing of people dying following the recently authorized Johnson and Johnson experimental COVID shots here in the United States. #johnsonandjohnsonvaccine</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/why-is-myaxyl-best-for-joint-pain-and-inflammation/11202677/" rel="nofollow" title="Permanent Link to Why Is Myaxyl Best for Joint Pain and Inflammation?">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/people-now-dying-following-the-experimental-johnson-and-johnson-covid-injections/11202937/" rel="nofollow" title="Permanent Link to People Now Dying Following the Experimental Johnson and Johnson COVID Injections">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-4" id="cat-post-202673">
+<div class="post clearfix mypost-4" id="cat-post-202927">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/what-is-nitric-oxide-used-for/11202673/" rel="bookmark" title="Permanent Link to What is Nitric Oxide Used For?"> <img alt="What is Nitric Oxide Used For?" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/What-is-Nitric-Oxide-Used-For.jpg?resize=150%2C150&amp;ssl=1" title="What is Nitric Oxide Used For?"/>
+<a href="https://consciouslifenews.com/will-there-be-food-on-the-table/11202927/" rel="bookmark" title="Permanent Link to Will There Be Food On The Table?"> <img alt="Will There Be Food On The Table?" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/food-shortage.jpg?resize=150%2C150&amp;ssl=1" title="Will There Be Food On The Table?"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/what-is-nitric-oxide-used-for/11202673/" rel="bookmark" title="Permanent Link to What is Nitric Oxide Used For?">What is Nitric Oxide Used For?</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/will-there-be-food-on-the-table/11202927/" rel="bookmark" title="Permanent Link to Will There Be Food On The Table?">Will There Be Food On The Table?</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
 							Posted by					</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
 </span>
 <span class="meta-date">
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 14, 2021		</span>
+			March 24, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
@@ -660,13 +660,13 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/what-is-nitric-oxide-used-for/11202673/#respond" rel="bookmark" title="Comments for What is Nitric Oxide Used For?">0 Comments</a>
+<a href="https://consciouslifenews.com/will-there-be-food-on-the-table/11202927/#respond" rel="bookmark" title="Comments for Will There Be Food On The Table?">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>Supplements that increase nitric oxide are a popular choice today for their multiple benefits, including boosted exercise performance and lowered blood pressure.</p>
+<div class="my-excerpt"><p>This is to serve to warn that what ‘the authorities’ are planning for us in the very near future is a ‘Great Reset’ of what we are accustomed to eating at our daily meals. #foodshortage</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/what-is-nitric-oxide-used-for/11202673/" rel="nofollow" title="Permanent Link to What is Nitric Oxide Used For?">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/will-there-be-food-on-the-table/11202927/" rel="nofollow" title="Permanent Link to Will There Be Food On The Table?">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
@@ -675,52 +675,92 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <div style="clear:both;"></div>
 <div class="cat-posts-left">
 <h2 class="feat-title"><span><a href="https://consciouslifenews.com/category/realtys-edge/">Reality's Edge</a></span></h2>
-<div class="post clearfix mypost-1" id="cat-post-202651">
+<div class="post clearfix mypost-1" id="cat-post-202978">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-15-21-2021/11202651/" rel="bookmark" title="Permanent Link to Your Horoscope and Astrology Overview for March 15-21, 2021"> <img alt="Your Horoscope and Astrology Overview for March 15-21, 2021" class="thumbnail wide small" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2014/11/white-2-compressed.jpg?resize=352%2C198&amp;ssl=1" title="Your Horoscope and Astrology Overview for March 15-21, 2021"/>
+<a href="https://consciouslifenews.com/april-energy-forecast-venus-star-supermoon-and-more/11202978/" rel="bookmark" title="Permanent Link to April Energy Forecast: Venus Star, Supermoon and More!"> <img alt="April Energy Forecast: Venus Star, Supermoon and More!" class="thumbnail wide small" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/April-2021-Energy-Forecast.jpg?resize=352%2C198&amp;ssl=1" title="April Energy Forecast: Venus Star, Supermoon and More!"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-15-21-2021/11202651/" rel="bookmark" title="Permanent Link to Your Horoscope and Astrology Overview for March 15-21, 2021">Your Horoscope and Astrology Overview for March 15-21, 2021</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/april-energy-forecast-venus-star-supermoon-and-more/11202978/" rel="bookmark" title="Permanent Link to April Energy Forecast: Venus Star, Supermoon and More!">April Energy Forecast: Venus Star, Supermoon and More!</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
-							Written by					</span>
+							Posted by					</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/author/patrickarundell/" rel="author" title="Posts by Patrick Arundell">Patrick Arundell</a> </span>
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
 </span>
 <span class="meta-date">
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 14, 2021		</span>
+			March 26, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/realtys-edge/astrology-numerology/" rel="category tag">Astrology &amp; Numerology</a>, <a href="https://consciouslifenews.com/category/horoscopes/astrology-overview/" rel="category tag">Astrology Overview</a>, <a href="https://consciouslifenews.com/category/horoscopes/" rel="category tag">Horoscopes</a> </span>
+<a href="https://consciouslifenews.com/category/realtys-edge/astrology-numerology/" rel="category tag">Astrology &amp; Numerology</a>, <a href="https://consciouslifenews.com/category/realtys-edge/prophecy/" rel="category tag">Predictions &amp; Prophecies</a>, <a href="https://consciouslifenews.com/category/realtys-edge/" rel="category tag">Reality's Edge</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-15-21-2021/11202651/#respond" rel="bookmark" title="Comments for Your Horoscope and Astrology Overview for March 15-21, 2021">0 Comments</a>
+<a href="https://consciouslifenews.com/april-energy-forecast-venus-star-supermoon-and-more/11202978/#respond" rel="bookmark" title="Comments for April Energy Forecast: Venus Star, Supermoon and More!">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>Want to know what the stars have in store for you? Read this weekly astrological report Patrick and be prepared to make the most of your week!</p>
+<div class="my-excerpt"><p>It’s an auspicious April as a Venus Star Point ushers in love and soul growth at the end of March that sets the tone for this month. An Aries new moon stellium and Scorpio Super Moon bring intensity to new intentions — especially around sexuality and transformation.  #energyforecast</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-15-21-2021/11202651/" rel="nofollow" title="Permanent Link to Your Horoscope and Astrology Overview for March 15-21, 2021">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/april-energy-forecast-venus-star-supermoon-and-more/11202978/" rel="nofollow" title="Permanent Link to April Energy Forecast: Venus Star, Supermoon and More!">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-2" id="cat-post-202341">
+<div class="post clearfix mypost-2" id="cat-post-127927">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/pias-pleiadian-earth-energy-report-9-march-2021/11202341/" rel="bookmark" title="Permanent Link to Pia’s Pleiadian-Earth Energy Report: 9 March, 2021"> <img alt="Pia’s Pleiadian-Earth Energy Report: 9 March, 2021" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/orange-lotus-with-rays-of-light.jpg?resize=150%2C150&amp;ssl=1" title="Pia’s Pleiadian-Earth Energy Report: 9 March, 2021"/>
+<a href="https://consciouslifenews.com/many-worlds-quantum-multiverse/11127927/" rel="bookmark" title="Permanent Link to The Many Worlds of the Quantum Multiverse"> <img alt="The Many Worlds of the Quantum Multiverse" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2016/10/many-worlds-quantum-universe.jpg?resize=150%2C150&amp;ssl=1" title="The Many Worlds of the Quantum Multiverse"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/pias-pleiadian-earth-energy-report-9-march-2021/11202341/" rel="bookmark" title="Permanent Link to Pia’s Pleiadian-Earth Energy Report: 9 March, 2021">Pia’s Pleiadian-Earth Energy Report: 9 March, 2021</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/many-worlds-quantum-multiverse/11127927/" rel="bookmark" title="Permanent Link to The Many Worlds of the Quantum Multiverse">The Many Worlds of the Quantum Multiverse</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 24, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/realtys-edge/quantum-physics-sci-tech/" rel="category tag">Quantum Physics</a>, <a href="https://consciouslifenews.com/category/realtys-edge/" rel="category tag">Reality's Edge</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/many-worlds-quantum-multiverse/11127927/#respond" rel="bookmark" title="Comments for The Many Worlds of the Quantum Multiverse">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>The many worlds theory proposes that the wavefunction never actually collapses. The observer simply follows one of those many possible paths into their present reality while all the other paths continue on independent of the observer. Each of these paths branches off into an entirely different reality. #quantumphysics</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/many-worlds-quantum-multiverse/11127927/" rel="nofollow" title="Permanent Link to The Many Worlds of the Quantum Multiverse">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-3" id="cat-post-202944">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/the-3d-matrix-how-to-stand-in-it-without-being-of-it-lorie-ladd/11202944/" rel="bookmark" title="Permanent Link to The 3D Matrix – How to Stand in It Without Being of It | Lorie Ladd"> <img alt="The 3D Matrix – How to Stand in It Without Being of It | Lorie Ladd" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/the-3d-matrix.jpg?resize=150%2C150&amp;ssl=1" title="The 3D Matrix – How to Stand in It Without Being of It | Lorie Ladd"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/the-3d-matrix-how-to-stand-in-it-without-being-of-it-lorie-ladd/11202944/" rel="bookmark" title="Permanent Link to The 3D Matrix – How to Stand in It Without Being of It | Lorie Ladd">The 3D Matrix – How to Stand in It Without Being of It | Lorie Ladd</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -732,35 +772,35 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 8, 2021		</span>
+			March 23, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/realtys-edge/channeling/" rel="category tag">Channeling &amp; Readings</a>, <a href="https://consciouslifenews.com/category/realtys-edge/prophecy/" rel="category tag">Predictions &amp; Prophecies</a>, <a href="https://consciouslifenews.com/category/realtys-edge/" rel="category tag">Reality's Edge</a> </span>
+<a href="https://consciouslifenews.com/category/realtys-edge/ascension-conscious-living/" rel="category tag">Ascension</a>, <a href="https://consciouslifenews.com/category/realtys-edge/" rel="category tag">Reality's Edge</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/pias-pleiadian-earth-energy-report-9-march-2021/11202341/#respond" rel="bookmark" title="Comments for Pia’s Pleiadian-Earth Energy Report: 9 March, 2021">0 Comments</a>
+<a href="https://consciouslifenews.com/the-3d-matrix-how-to-stand-in-it-without-being-of-it-lorie-ladd/11202944/#respond" rel="bookmark" title="Comments for The 3D Matrix – How to Stand in It Without Being of It | Lorie Ladd">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>On March 9th we enter into the marvelous idealistic period of Enlightening Earth Energy that will overlight us for the next thirteen days. This energy is aligned with the radiance of the Sun.</p>
+<div class="my-excerpt"><p>Lorie Ladd explains how you can stand in the 3D Matrix without being in the 3D matrix.</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/pias-pleiadian-earth-energy-report-9-march-2021/11202341/" rel="nofollow" title="Permanent Link to Pia’s Pleiadian-Earth Energy Report: 9 March, 2021">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/the-3d-matrix-how-to-stand-in-it-without-being-of-it-lorie-ladd/11202944/" rel="nofollow" title="Permanent Link to The 3D Matrix – How to Stand in It Without Being of It | Lorie Ladd">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-3" id="cat-post-202328">
+<div class="post clearfix mypost-4" id="cat-post-202876">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/pisces-new-moon-13th-march-2021-zodiac-sign-forecasts/11202328/" rel="bookmark" title="Permanent Link to Pisces New Moon 13th March 2021 + Zodiac Sign Forecasts"> <img alt="Pisces New Moon 13th March 2021 + Zodiac Sign Forecasts" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/pisces-new-moon-march-13th-2021.jpg?resize=150%2C150&amp;ssl=1" title="Pisces New Moon 13th March 2021 + Zodiac Sign Forecasts"/>
+<a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-22-28-2021/11202876/" rel="bookmark" title="Permanent Link to Your Horoscope and Astrology Overview for March 22-28, 2021"> <img alt="Your Horoscope and Astrology Overview for March 22-28, 2021" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2014/11/white-2-compressed.jpg?resize=150%2C150&amp;ssl=1" title="Your Horoscope and Astrology Overview for March 22-28, 2021"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/pisces-new-moon-13th-march-2021-zodiac-sign-forecasts/11202328/" rel="bookmark" title="Permanent Link to Pisces New Moon 13th March 2021 + Zodiac Sign Forecasts">Pisces New Moon 13th March 2021 + Zodiac Sign Forecasts</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-22-28-2021/11202876/" rel="bookmark" title="Permanent Link to Your Horoscope and Astrology Overview for March 22-28, 2021">Your Horoscope and Astrology Overview for March 22-28, 2021</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -772,46 +812,7 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 7, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/realtys-edge/astrology-numerology/" rel="category tag">Astrology &amp; Numerology</a>, <a href="https://consciouslifenews.com/category/realtys-edge/" rel="category tag">Reality's Edge</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/pisces-new-moon-13th-march-2021-zodiac-sign-forecasts/11202328/#respond" rel="bookmark" title="Comments for Pisces New Moon 13th March 2021 + Zodiac Sign Forecasts">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"></div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/pisces-new-moon-13th-march-2021-zodiac-sign-forecasts/11202328/" rel="nofollow" title="Permanent Link to Pisces New Moon 13th March 2021 + Zodiac Sign Forecasts">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-4" id="cat-post-202326">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-08-14-2021/11202326/" rel="bookmark" title="Permanent Link to Your Horoscope and Astrology Overview for March 08-14, 2021"> <img alt="Your Horoscope and Astrology Overview for March 08-14, 2021" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2014/11/white-2-compressed.jpg?resize=150%2C150&amp;ssl=1" title="Your Horoscope and Astrology Overview for March 08-14, 2021"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-08-14-2021/11202326/" rel="bookmark" title="Permanent Link to Your Horoscope and Astrology Overview for March 08-14, 2021">Your Horoscope and Astrology Overview for March 08-14, 2021</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Written by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/patrickarundell/" rel="author" title="Posts by Patrick Arundell">Patrick Arundell</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 7, 2021		</span>
+			March 21, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
@@ -823,13 +824,13 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-08-14-2021/11202326/#respond" rel="bookmark" title="Comments for Your Horoscope and Astrology Overview for March 08-14, 2021">0 Comments</a>
+<a href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-22-28-2021/11202876/#respond" rel="bookmark" title="Comments for Your Horoscope and Astrology Overview for March 22-28, 2021">0 Comments</a>
 </span>
 </span>
 </div>
 <div class="my-excerpt"><p>Want to know what the stars have in store for you? Read this weekly astrological report Patrick and be prepared to make the most of your week!</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-08-14-2021/11202326/" rel="nofollow" title="Permanent Link to Your Horoscope and Astrology Overview for March 08-14, 2021">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/your-horoscope-and-astrology-overview-for-march-22-28-2021/11202876/" rel="nofollow" title="Permanent Link to Your Horoscope and Astrology Overview for March 22-28, 2021">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
@@ -837,12 +838,12 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 </div>
 <div class="cat-posts-right">
 <h2 class="feat-title"><span><a href="https://consciouslifenews.com/category/environment-2/">Environment</a></span></h2>
-<div class="post clearfix mypost-1" id="cat-post-202695">
+<div class="post clearfix mypost-1" id="cat-post-202982">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/" rel="bookmark" title="Permanent Link to Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica"> <img alt="Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica" class="thumbnail wide small" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/penguin-escapes-killer-whales.jpg?resize=352%2C198&amp;ssl=1" title="Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica"/>
+<a href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/" rel="bookmark" title="Permanent Link to Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert"> <img alt="Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert" class="thumbnail wide small" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/million-gardens-movement.jpg?resize=352%2C198&amp;ssl=1" title="Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/" rel="bookmark" title="Permanent Link to Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica">Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/" rel="bookmark" title="Permanent Link to Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert">Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -854,35 +855,35 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 16, 2021		</span>
+			March 26, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/environment-2/" rel="category tag">Environment</a>, <a href="https://consciouslifenews.com/category/conscious-living/inspirational-conscious-living/" rel="category tag">Inspirational</a>, <a href="https://consciouslifenews.com/category/environment-2/wildlife/" rel="category tag">Wildlife</a> </span>
+<a href="https://consciouslifenews.com/category/environment-2/" rel="category tag">Environment</a>, <a href="https://consciouslifenews.com/category/environment-2/farming/" rel="category tag">Farming</a>, <a href="https://consciouslifenews.com/category/health-wellness/food-health-wellness/" rel="category tag">Food, Drink &amp; Nutrition</a>, <a href="https://consciouslifenews.com/category/health-wellness/" rel="category tag">Health</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/#respond" rel="bookmark" title="Comments for Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica">0 Comments</a>
+<a href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/#respond" rel="bookmark" title="Comments for Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>A gentoo penguin in Antarctica escaped a pod of chasing killer whales by leaping into a dinghy full of tourists after flinging itself headfirst into the side of the boat.  #penguins</p>
+<div class="my-excerpt"><p>What do ten dollars, a garden, Harrison Ford, and Elon Musk’s brother have in common? They’re all being used to combat food insecurity, malnutrition, and to build the world’s single biggest gardener community.  #milliongardensmovement</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/" rel="nofollow" title="Permanent Link to Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/" rel="nofollow" title="Permanent Link to Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-2" id="cat-post-202633">
+<div class="post clearfix mypost-2" id="cat-post-202968">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/were-destroying-our-life-support-systems-study-suggests-the-amazon-now-contributes-to-warming/11202633/" rel="bookmark" title="Permanent Link to ‘We’re Destroying Our Life-Support Systems’: Study Suggests the Amazon Now Contributes to Warming"> <img alt="‘We’re Destroying Our Life-Support Systems’: Study Suggests the Amazon Now Contributes to Warming" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/amazon-forest-deforestation.jpg?resize=150%2C150&amp;ssl=1" title="‘We’re Destroying Our Life-Support Systems’: Study Suggests the Amazon Now Contributes to Warming"/>
+<a href="https://consciouslifenews.com/indonesian-man-stops-drought-and-brings-fortune-to-village-by-planting-11000-trees-over-19-years/11202968/" rel="bookmark" title="Permanent Link to Indonesian Man Stops Drought And Brings Fortune to Village By Planting 11,000 Trees Over 19 Years"> <img alt="Indonesian Man Stops Drought And Brings Fortune to Village By Planting 11,000 Trees Over 19 Years" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/indonesian-land-defender-sadiman.jpg?resize=150%2C150&amp;ssl=1" title="Indonesian Man Stops Drought And Brings Fortune to Village By Planting 11,000 Trees Over 19 Years"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/were-destroying-our-life-support-systems-study-suggests-the-amazon-now-contributes-to-warming/11202633/" rel="bookmark" title="Permanent Link to ‘We’re Destroying Our Life-Support Systems’: Study Suggests the Amazon Now Contributes to Warming">‘We’re Destroying Our Life-Support Systems’: Study Suggests the Amazon Now Contributes to Warming</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/indonesian-man-stops-drought-and-brings-fortune-to-village-by-planting-11000-trees-over-19-years/11202968/" rel="bookmark" title="Permanent Link to Indonesian Man Stops Drought And Brings Fortune to Village By Planting 11,000 Trees Over 19 Years">Indonesian Man Stops Drought And Brings Fortune to Village By Planting 11,000 Trees Over 19 Years</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -894,35 +895,75 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 14, 2021		</span>
+			March 25, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/environment-2/" rel="category tag">Environment</a>, <a href="https://consciouslifenews.com/category/environment-2/environmental-hazards/" rel="category tag">Environmental Hazards</a> </span>
+<a href="https://consciouslifenews.com/category/environment-2/eco-friendly/" rel="category tag">Eco-Friendly</a>, <a href="https://consciouslifenews.com/category/environment-2/" rel="category tag">Environment</a>, <a href="https://consciouslifenews.com/category/environment-2/farming/" rel="category tag">Farming</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/were-destroying-our-life-support-systems-study-suggests-the-amazon-now-contributes-to-warming/11202633/#respond" rel="bookmark" title="Comments for ‘We’re Destroying Our Life-Support Systems’: Study Suggests the Amazon Now Contributes to Warming">0 Comments</a>
+<a href="https://consciouslifenews.com/indonesian-man-stops-drought-and-brings-fortune-to-village-by-planting-11000-trees-over-19-years/11202968/#respond" rel="bookmark" title="Comments for Indonesian Man Stops Drought And Brings Fortune to Village By Planting 11,000 Trees Over 19 Years">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>While recent research has raised the alarm that tropical forests including the Amazon could soon stop serving as carbon sinks, a first-of-its-kind study from 30 experts that takes into account other greenhouse gases suggests the world’s largest rainforest may already be contributing to the warming of the planet. #amazonrainforest</p>
+<div class="my-excerpt"><p>In the rural countryside of Indonesia, one elderly man is taking it upon himself to rehabilitate a landscape ravaged by mismanagement. #trees #reforestation #plantingtrees</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/were-destroying-our-life-support-systems-study-suggests-the-amazon-now-contributes-to-warming/11202633/" rel="nofollow" title="Permanent Link to ‘We’re Destroying Our Life-Support Systems’: Study Suggests the Amazon Now Contributes to Warming">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/indonesian-man-stops-drought-and-brings-fortune-to-village-by-planting-11000-trees-over-19-years/11202968/" rel="nofollow" title="Permanent Link to Indonesian Man Stops Drought And Brings Fortune to Village By Planting 11,000 Trees Over 19 Years">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-3" id="cat-post-202568">
+<div class="post clearfix mypost-3" id="cat-post-202903">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/the-rights-of-nature-we-need-nature-more-than-it-needs-us/11202568/" rel="bookmark" title="Permanent Link to The Rights of Nature: We Need Nature More Than It Needs Us"> <img alt="The Rights of Nature: We Need Nature More Than It Needs Us" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/rights-of-nature.jpg?resize=150%2C150&amp;ssl=1" title="The Rights of Nature: We Need Nature More Than It Needs Us"/>
+<a href="https://consciouslifenews.com/tips-for-creating-an-outdoor-sanctuary/11202903/" rel="bookmark" title="Permanent Link to Tips for Creating an Outdoor Sanctuary"> <img alt="Tips for Creating an Outdoor Sanctuary" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/meditation-outdoors.jpg?resize=150%2C150&amp;ssl=1" title="Tips for Creating an Outdoor Sanctuary"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/the-rights-of-nature-we-need-nature-more-than-it-needs-us/11202568/" rel="bookmark" title="Permanent Link to The Rights of Nature: We Need Nature More Than It Needs Us">The Rights of Nature: We Need Nature More Than It Needs Us</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/tips-for-creating-an-outdoor-sanctuary/11202903/" rel="bookmark" title="Permanent Link to Tips for Creating an Outdoor Sanctuary">Tips for Creating an Outdoor Sanctuary</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 22, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/environment-2/eco-friendly/" rel="category tag">Eco-Friendly</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/tips-for-creating-an-outdoor-sanctuary/11202903/#respond" rel="bookmark" title="Comments for Tips for Creating an Outdoor Sanctuary">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>If you want to convert your backyard into a place you can refresh your body and soul, here are some tips to help you start with the project.</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/tips-for-creating-an-outdoor-sanctuary/11202903/" rel="nofollow" title="Permanent Link to Tips for Creating an Outdoor Sanctuary">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-4" id="cat-post-202749">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/new-nasa-satellite-data-prove-carbon-dioxide-is-greening-the-earth-and-restoring-forests/11202749/" rel="bookmark" title="Permanent Link to New NASA Satellite Data Prove Carbon Dioxide is Greening the Earth and Restoring Forests"> <img alt="New NASA Satellite Data Prove Carbon Dioxide is Greening the Earth and Restoring Forests" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/carbon-dioxide-greening-earth.jpg?resize=150%2C150&amp;ssl=1" title="New NASA Satellite Data Prove Carbon Dioxide is Greening the Earth and Restoring Forests"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/new-nasa-satellite-data-prove-carbon-dioxide-is-greening-the-earth-and-restoring-forests/11202749/" rel="bookmark" title="Permanent Link to New NASA Satellite Data Prove Carbon Dioxide is Greening the Earth and Restoring Forests">New NASA Satellite Data Prove Carbon Dioxide is Greening the Earth and Restoring Forests</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -934,7 +975,7 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 11, 2021		</span>
+			March 17, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
@@ -946,53 +987,13 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/the-rights-of-nature-we-need-nature-more-than-it-needs-us/11202568/#respond" rel="bookmark" title="Comments for The Rights of Nature: We Need Nature More Than It Needs Us">0 Comments</a>
+<a href="https://consciouslifenews.com/new-nasa-satellite-data-prove-carbon-dioxide-is-greening-the-earth-and-restoring-forests/11202749/#respond" rel="bookmark" title="Comments for New NASA Satellite Data Prove Carbon Dioxide is Greening the Earth and Restoring Forests">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>This concept of nature existing in its own right as a living entity—not merely as inert property to be extracted and exploited for profit—is the essence of a rapidly spreading Rights of Nature movement. #rightsofnature</p>
+<div class="my-excerpt"><p>The latest Vegetation Index data from NASA shows that the Earth is getting progressively “greener” and lusher over time. Most of this greening is caused by greenhouse gases – you know, those “horrible” emissions that the climate fanatics insist are going to kill us all. Truth be told, greenhouse gases are making the planet more habitable for humans and other life forms. #greenearth</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/the-rights-of-nature-we-need-nature-more-than-it-needs-us/11202568/" rel="nofollow" title="Permanent Link to The Rights of Nature: We Need Nature More Than It Needs Us">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-4" id="cat-post-202544">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/what-is-the-commons-and-why-should-we-reclaim-it/11202544/" rel="bookmark" title="Permanent Link to What Is the Commons — and Why Should We Reclaim It?"> <img alt="What Is the Commons — and Why Should We Reclaim It?" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/mother-earth-commons.jpg?resize=150%2C150&amp;ssl=1" title="What Is the Commons — and Why Should We Reclaim It?"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/what-is-the-commons-and-why-should-we-reclaim-it/11202544/" rel="bookmark" title="Permanent Link to What Is the Commons — and Why Should We Reclaim It?">What Is the Commons — and Why Should We Reclaim It?</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 10, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/environment-2/eco-friendly/" rel="category tag">Eco-Friendly</a>, <a href="https://consciouslifenews.com/category/environment-2/" rel="category tag">Environment</a>, <a href="https://consciouslifenews.com/category/environment-2/farming/" rel="category tag">Farming</a>, <a href="https://consciouslifenews.com/category/environment-2/wildlife/" rel="category tag">Wildlife</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/what-is-the-commons-and-why-should-we-reclaim-it/11202544/#respond" rel="bookmark" title="Comments for What Is the Commons — and Why Should We Reclaim It?">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>In the commons, we are conscious of nature’s ecological limits, aware that all humans have a right to air, water, and food, and we accept responsibility for the rights of future generations.</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/what-is-the-commons-and-why-should-we-reclaim-it/11202544/" rel="nofollow" title="Permanent Link to What Is the Commons — and Why Should We Reclaim It?">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/new-nasa-satellite-data-prove-carbon-dioxide-is-greening-the-earth-and-restoring-forests/11202749/" rel="nofollow" title="Permanent Link to New NASA Satellite Data Prove Carbon Dioxide is Greening the Earth and Restoring Forests">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
@@ -1001,12 +1002,12 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <div style="clear:both;"></div>
 <div class="cat-posts-left">
 <h2 class="feat-title"><span><a href="https://consciouslifenews.com/category/sci-tech/">Science &amp; Tech</a></span></h2>
-<div class="post clearfix mypost-1" id="cat-post-202698">
+<div class="post clearfix mypost-1" id="cat-post-202998">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/scientists-develop-model-for-faster-than-light-warp-drive-that-bends-spacetime-to-send-ships-to-the-stars/11202698/" rel="bookmark" title="Permanent Link to Scientists Develop Model for Faster-Than-Light Warp Drive That Bends Spacetime to Send Ships to the Stars"> <img alt="Scientists Develop Model for Faster-Than-Light Warp Drive That Bends Spacetime to Send Ships to the Stars" class="thumbnail wide small" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/warp-drive-bending-spacetime.jpg?resize=352%2C198&amp;ssl=1" title="Scientists Develop Model for Faster-Than-Light Warp Drive That Bends Spacetime to Send Ships to the Stars"/>
+<a href="https://consciouslifenews.com/novel-coronavirus-circulated-undetected-months-before-first-covid-19-cases-in-wuhan-china/11202998/" rel="bookmark" title="Permanent Link to Novel Coronavirus Circulated Undetected Months Before First COVID-19 Cases in Wuhan, China"> <img alt="Novel Coronavirus Circulated Undetected Months Before First COVID-19 Cases in Wuhan, China" class="thumbnail wide small" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/novel-coronavirus.jpg?resize=352%2C198&amp;ssl=1" title="Novel Coronavirus Circulated Undetected Months Before First COVID-19 Cases in Wuhan, China"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/scientists-develop-model-for-faster-than-light-warp-drive-that-bends-spacetime-to-send-ships-to-the-stars/11202698/" rel="bookmark" title="Permanent Link to Scientists Develop Model for Faster-Than-Light Warp Drive That Bends Spacetime to Send Ships to the Stars">Scientists Develop Model for Faster-Than-Light Warp Drive That Bends Spacetime to Send Ships to the Stars</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/novel-coronavirus-circulated-undetected-months-before-first-covid-19-cases-in-wuhan-china/11202998/" rel="bookmark" title="Permanent Link to Novel Coronavirus Circulated Undetected Months Before First COVID-19 Cases in Wuhan, China">Novel Coronavirus Circulated Undetected Months Before First COVID-19 Cases in Wuhan, China</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -1018,75 +1019,35 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 16, 2021		</span>
+			March 26, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/sci-tech/earth-space-sci-tech/" rel="category tag">Earth &amp; Space</a>, <a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a>, <a href="https://consciouslifenews.com/category/sci-tech/science-sci-tech/" rel="category tag">Science</a>, <a href="https://consciouslifenews.com/category/sci-tech/technology-sci-tech/" rel="category tag">Technology</a> </span>
+<a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a>, <a href="https://consciouslifenews.com/category/sci-tech/science-sci-tech/" rel="category tag">Science</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/scientists-develop-model-for-faster-than-light-warp-drive-that-bends-spacetime-to-send-ships-to-the-stars/11202698/#respond" rel="bookmark" title="Comments for Scientists Develop Model for Faster-Than-Light Warp Drive That Bends Spacetime to Send Ships to the Stars">0 Comments</a>
+<a href="https://consciouslifenews.com/novel-coronavirus-circulated-undetected-months-before-first-covid-19-cases-in-wuhan-china/11202998/#respond" rel="bookmark" title="Comments for Novel Coronavirus Circulated Undetected Months Before First COVID-19 Cases in Wuhan, China">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>Scientists claim they have developed a physical model for a warp drive – a device that would allow spacecraft to travel at faster-than-light speeds. #warpdrive</p>
+<div class="my-excerpt"><p>Using molecular dating tools and epidemiological simulations, researchers estimate that the SARS-CoV-2 virus likely circulated undetected for two months before the first human cases of COVID-19 were described in Wuhan, China in late-December 2019. #coronavirus</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/scientists-develop-model-for-faster-than-light-warp-drive-that-bends-spacetime-to-send-ships-to-the-stars/11202698/" rel="nofollow" title="Permanent Link to Scientists Develop Model for Faster-Than-Light Warp Drive That Bends Spacetime to Send Ships to the Stars">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/novel-coronavirus-circulated-undetected-months-before-first-covid-19-cases-in-wuhan-china/11202998/" rel="nofollow" title="Permanent Link to Novel Coronavirus Circulated Undetected Months Before First COVID-19 Cases in Wuhan, China">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-2" id="cat-post-202713">
+<div class="post clearfix mypost-2" id="cat-post-202959">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/why-do-companies-need-mobile-proxies/11202713/" rel="bookmark" title="Permanent Link to Why Do Companies Need Mobile Proxies?"> <img alt="Why Do Companies Need Mobile Proxies?" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/residential-proxies.jpg?resize=150%2C150&amp;ssl=1" title="Why Do Companies Need Mobile Proxies?"/>
+<a href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/" rel="bookmark" title="Permanent Link to Why Thinking Like a Scientist Is Good for You"> <img alt="Why Thinking Like a Scientist Is Good for You" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/smart-thinking.jpg?resize=150%2C150&amp;ssl=1" title="Why Thinking Like a Scientist Is Good for You"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/why-do-companies-need-mobile-proxies/11202713/" rel="bookmark" title="Permanent Link to Why Do Companies Need Mobile Proxies?">Why Do Companies Need Mobile Proxies?</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 15, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/sci-tech/technology-sci-tech/" rel="category tag">Technology</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/why-do-companies-need-mobile-proxies/11202713/#respond" rel="bookmark" title="Comments for Why Do Companies Need Mobile Proxies?">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>There is a simple solution helping to avoid ban. It is called proxy. Proxy acts like an intermediate between a user and the destination resource.</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/why-do-companies-need-mobile-proxies/11202713/" rel="nofollow" title="Permanent Link to Why Do Companies Need Mobile Proxies?">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-3" id="cat-post-202630">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/scientists-develop-new-magnetic-nanomaterial-for-counterfeit-money-prevention/11202630/" rel="bookmark" title="Permanent Link to Scientists Develop New Magnetic Nanomaterial for Counterfeit Money Prevention"> <img alt="Scientists Develop New Magnetic Nanomaterial for Counterfeit Money Prevention" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/scientists-magnetic-nanomaterial-counterfeit-money.jpg?resize=150%2C150&amp;ssl=1" title="Scientists Develop New Magnetic Nanomaterial for Counterfeit Money Prevention"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/scientists-develop-new-magnetic-nanomaterial-for-counterfeit-money-prevention/11202630/" rel="bookmark" title="Permanent Link to Scientists Develop New Magnetic Nanomaterial for Counterfeit Money Prevention">Scientists Develop New Magnetic Nanomaterial for Counterfeit Money Prevention</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/" rel="bookmark" title="Permanent Link to Why Thinking Like a Scientist Is Good for You">Why Thinking Like a Scientist Is Good for You</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -1098,35 +1059,35 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 14, 2021		</span>
+			March 25, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a>, <a href="https://consciouslifenews.com/category/sci-tech/science-sci-tech/" rel="category tag">Science</a>, <a href="https://consciouslifenews.com/category/sci-tech/technology-sci-tech/" rel="category tag">Technology</a> </span>
+<a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/sci-tech/psychology-sci-tech/" rel="category tag">Psychology-Psychiatry</a>, <a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a>, <a href="https://consciouslifenews.com/category/conscious-living/thrive-movement-conscious-living/" rel="category tag">Thrive</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/scientists-develop-new-magnetic-nanomaterial-for-counterfeit-money-prevention/11202630/#respond" rel="bookmark" title="Comments for Scientists Develop New Magnetic Nanomaterial for Counterfeit Money Prevention">0 Comments</a>
+<a href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/#respond" rel="bookmark" title="Comments for Why Thinking Like a Scientist Is Good for You">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>An international research team led by NUST MISIS has developed a new iron-cobalt-nickel nanocomposite with tunable magnetic properties. The nanocomposite could be used to protect money and securities from counterfeiting. The study was published in Nanomaterials.  #NanoMaterial #NanoTechnology</p>
+<div class="my-excerpt"><p>Organizational psychologist Adam Grant explains the importance of questioning our knowledge and opinions in the face of new evidence. #smartthinking</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/scientists-develop-new-magnetic-nanomaterial-for-counterfeit-money-prevention/11202630/" rel="nofollow" title="Permanent Link to Scientists Develop New Magnetic Nanomaterial for Counterfeit Money Prevention">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/" rel="nofollow" title="Permanent Link to Why Thinking Like a Scientist Is Good for You">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-4" id="cat-post-202593">
+<div class="post clearfix mypost-3" id="cat-post-142237">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/science-says-silence-is-vital-for-our-brains/11202593/" rel="bookmark" title="Permanent Link to Science Says Silence is Vital for Our Brains"> <img alt="Science Says Silence is Vital for Our Brains" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/silence-is-vital-for-our-brains.jpg?resize=150%2C150&amp;ssl=1" title="Science Says Silence is Vital for Our Brains"/>
+<a href="https://consciouslifenews.com/study-reveals-substantial-evidence-live-holographic-universe/11142237/" rel="bookmark" title="Permanent Link to Study Reveals Substantial Evidence That We Live In a Holographic Universe"> <img alt="Study Reveals Substantial Evidence That We Live In a Holographic Universe" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2017/09/holographic-universe.jpg?resize=150%2C150&amp;ssl=1" title="Study Reveals Substantial Evidence That We Live In a Holographic Universe"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/science-says-silence-is-vital-for-our-brains/11202593/" rel="bookmark" title="Permanent Link to Science Says Silence is Vital for Our Brains">Science Says Silence is Vital for Our Brains</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/study-reveals-substantial-evidence-live-holographic-universe/11142237/" rel="bookmark" title="Permanent Link to Study Reveals Substantial Evidence That We Live In a Holographic Universe">Study Reveals Substantial Evidence That We Live In a Holographic Universe</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -1138,25 +1099,65 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 12, 2021		</span>
+			March 24, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/conscious-living/meditation-conscious-living/" rel="category tag">Meditation</a>, <a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a>, <a href="https://consciouslifenews.com/category/sci-tech/science-sci-tech/" rel="category tag">Science</a> </span>
+<a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a>, <a href="https://consciouslifenews.com/category/sci-tech/science-sci-tech/" rel="category tag">Science</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/science-says-silence-is-vital-for-our-brains/11202593/#respond" rel="bookmark" title="Comments for Science Says Silence is Vital for Our Brains">0 Comments</a>
+<a href="https://consciouslifenews.com/study-reveals-substantial-evidence-live-holographic-universe/11142237/#respond" rel="bookmark" title="Comments for Study Reveals Substantial Evidence That We Live In a Holographic Universe">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>Science is now showing that silence may be just what we need to regenerate our exhausted brains and bodies. #silence #brainhealth</p>
+<div class="my-excerpt"><p>Theoretical physicists and astrophysicists, investigating irregularities in the cosmic microwave background (the ‘afterglow’ of the Big Bang), have found there is substantial evidence supporting a #holographic explanation of the universe. A holographic universe, an idea first suggested in the 1990s, is one where all the information that makes up our 3-D ‘reality’ (plus time) is contained in a 2-D surface on its boundaries. #holographicuniverse</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/science-says-silence-is-vital-for-our-brains/11202593/" rel="nofollow" title="Permanent Link to Science Says Silence is Vital for Our Brains">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/study-reveals-substantial-evidence-live-holographic-universe/11142237/" rel="nofollow" title="Permanent Link to Study Reveals Substantial Evidence That We Live In a Holographic Universe">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-4" id="cat-post-202845">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/speaking-to-the-water-with-pat-mccabe/11202845/" rel="bookmark" title="Permanent Link to Speaking to the Water with Pat McCabe"> <img alt="Speaking to the Water with Pat McCabe" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/speaking-to-the-water-pat-mccabe.jpg?resize=150%2C150&amp;ssl=1" title="Speaking to the Water with Pat McCabe"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/speaking-to-the-water-with-pat-mccabe/11202845/" rel="bookmark" title="Permanent Link to Speaking to the Water with Pat McCabe">Speaking to the Water with Pat McCabe</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 21, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/conscious-living/conscious-evolution/" rel="category tag">Conscious Evolution</a>, <a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/sci-tech/nature-environment-2/" rel="category tag">Nature</a>, <a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/speaking-to-the-water-with-pat-mccabe/11202845/#respond" rel="bookmark" title="Comments for Speaking to the Water with Pat McCabe">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>A powerful story about how to tap into the magic and mystery of water from Pat McCabe, a Navajo and Lakota activist. #WaterConsciousness #WaterIsLife</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/speaking-to-the-water-with-pat-mccabe/11202845/" rel="nofollow" title="Permanent Link to Speaking to the Water with Pat McCabe">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
@@ -1164,9 +1165,129 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 </div>
 <div class="cat-posts-right">
 <h2 class="feat-title"><span><a href="https://consciouslifenews.com/category/media-2/">Media &amp; Arts</a></span></h2>
-<div class="post clearfix mypost-1" id="cat-post-202640">
+<div class="post clearfix mypost-1" id="cat-post-202873">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/george-orwells-1984-eerily-predicted-what-our-society-would-be-like-today-72-years-ago/11202640/" rel="bookmark" title="Permanent Link to George Orwell’s 1984 Eerily Predicted What Our Society Would Be Like Today, 72 Years Ago"> <img alt="George Orwell’s 1984 Eerily Predicted What Our Society Would Be Like Today, 72 Years Ago" class="thumbnail wide small" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/big-brother.jpg?resize=352%2C198&amp;ssl=1" title="George Orwell’s 1984 Eerily Predicted What Our Society Would Be Like Today, 72 Years Ago"/>
+<a href="https://consciouslifenews.com/remove-negative-blocks-healing-music-waves-transformation-miracles-piano-music-with-harp/11202873/" rel="bookmark" title="Permanent Link to Remove Negative Blocks, Healing Music Waves, Transformation &amp; Miracles, Piano Music with Harp"> <img alt="Remove Negative Blocks, Healing Music Waves, Transformation &amp; Miracles, Piano Music with Harp" class="thumbnail wide small" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/healing-music-waves.jpg?resize=352%2C198&amp;ssl=1" title="Remove Negative Blocks, Healing Music Waves, Transformation &amp; Miracles, Piano Music with Harp"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/remove-negative-blocks-healing-music-waves-transformation-miracles-piano-music-with-harp/11202873/" rel="bookmark" title="Permanent Link to Remove Negative Blocks, Healing Music Waves, Transformation &amp; Miracles, Piano Music with Harp">Remove Negative Blocks, Healing Music Waves, Transformation &amp; Miracles, Piano Music with Harp</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 22, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/media-2/conscious-art-music/" rel="category tag">Art and Music</a>, <a href="https://consciouslifenews.com/category/media-2/" rel="category tag">Media &amp; Arts</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/remove-negative-blocks-healing-music-waves-transformation-miracles-piano-music-with-harp/11202873/#respond" rel="bookmark" title="Comments for Remove Negative Blocks, Healing Music Waves, Transformation &amp; Miracles, Piano Music with Harp">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>Let go of negative blocks with this healing salt lamp waves frequency music. For transformation and miracles, listen to this piano music (with harp) for 30 minutes each day for 21 days. #healingmusic</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/remove-negative-blocks-healing-music-waves-transformation-miracles-piano-music-with-harp/11202873/" rel="nofollow" title="Permanent Link to Remove Negative Blocks, Healing Music Waves, Transformation &amp; Miracles, Piano Music with Harp">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-2" id="cat-post-202773">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/digital-anti-hate-group-puts-dr-mercola-on-hit-list-plus-mercolas-website-has-been-labeled-a-national-security-threat/11202773/" rel="bookmark" title="Permanent Link to ‘Digital Anti-Hate’ Group Puts Dr. Mercola on Hit List (Plus Mercola’s Website Has Been Labeled a National Security Threat)"> <img alt="‘Digital Anti-Hate’ Group Puts Dr. Mercola on Hit List (Plus Mercola’s Website Has Been Labeled a National Security Threat)" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/dr-mercola-censored.jpg?resize=150%2C150&amp;ssl=1" title="‘Digital Anti-Hate’ Group Puts Dr. Mercola on Hit List (Plus Mercola’s Website Has Been Labeled a National Security Threat)"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/digital-anti-hate-group-puts-dr-mercola-on-hit-list-plus-mercolas-website-has-been-labeled-a-national-security-threat/11202773/" rel="bookmark" title="Permanent Link to ‘Digital Anti-Hate’ Group Puts Dr. Mercola on Hit List (Plus Mercola’s Website Has Been Labeled a National Security Threat)">‘Digital Anti-Hate’ Group Puts Dr. Mercola on Hit List (Plus Mercola’s Website Has Been Labeled a National Security Threat)</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 18, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/media-2/censorship-government-2/" rel="category tag">Censorship</a>, <a href="https://consciouslifenews.com/category/media-2/" rel="category tag">Media &amp; Arts</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/digital-anti-hate-group-puts-dr-mercola-on-hit-list-plus-mercolas-website-has-been-labeled-a-national-security-threat/11202773/#respond" rel="bookmark" title="Comments for ‘Digital Anti-Hate’ Group Puts Dr. Mercola on Hit List (Plus Mercola’s Website Has Been Labeled a National Security Threat)">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>One of the frontrunners in the comprehensive attack on freedom of speech online is a U.K.-based group with opaque funding called the Centre for Countering Digital Hate (CCDH). In its report, “The Anti-Vaxx Playbook,” the CCDH identifies Dr. Mercola as one of the six most influential “anti-vaxxers” online that must be silenced for good.  #censorship #drmercola</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/digital-anti-hate-group-puts-dr-mercola-on-hit-list-plus-mercolas-website-has-been-labeled-a-national-security-threat/11202773/" rel="nofollow" title="Permanent Link to ‘Digital Anti-Hate’ Group Puts Dr. Mercola on Hit List (Plus Mercola’s Website Has Been Labeled a National Security Threat)">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-3" id="cat-post-202738">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/contrary-to-what-the-media-is-telling-you-freedom-does-not-come-from-a-vaccine/11202738/" rel="bookmark" title="Permanent Link to Contrary to What the Media Is Telling You, Freedom Does Not Come From A Vaccine"> <img alt="Contrary to What the Media Is Telling You, Freedom Does Not Come From A Vaccine" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/01/coronavirus-covid-19-vaccine.jpg?resize=150%2C150&amp;ssl=1" title="Contrary to What the Media Is Telling You, Freedom Does Not Come From A Vaccine"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/contrary-to-what-the-media-is-telling-you-freedom-does-not-come-from-a-vaccine/11202738/" rel="bookmark" title="Permanent Link to Contrary to What the Media Is Telling You, Freedom Does Not Come From A Vaccine">Contrary to What the Media Is Telling You, Freedom Does Not Come From A Vaccine</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 17, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/conscious-living/activism-conscious-living/" rel="category tag">Activism</a>, <a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/media-2/controlled-media/" rel="category tag">Corporate Controlled Media</a>, <a href="https://consciouslifenews.com/category/media-2/" rel="category tag">Media &amp; Arts</a>, <a href="https://consciouslifenews.com/category/conscious-living/thrive-movement-conscious-living/" rel="category tag">Thrive</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/contrary-to-what-the-media-is-telling-you-freedom-does-not-come-from-a-vaccine/11202738/#respond" rel="bookmark" title="Comments for Contrary to What the Media Is Telling You, Freedom Does Not Come From A Vaccine">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>There is a belief-forming and currently being pushed by the mainstream media and the U.S. Centers for Disease Control that Americans can have their freedom back if they just roll up their sleeves and take the vaccine. #vaccinefreedom</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/contrary-to-what-the-media-is-telling-you-freedom-does-not-come-from-a-vaccine/11202738/" rel="nofollow" title="Permanent Link to Contrary to What the Media Is Telling You, Freedom Does Not Come From A Vaccine">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-4" id="cat-post-202640">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/george-orwells-1984-eerily-predicted-what-our-society-would-be-like-today-72-years-ago/11202640/" rel="bookmark" title="Permanent Link to George Orwell’s 1984 Eerily Predicted What Our Society Would Be Like Today, 72 Years Ago"> <img alt="George Orwell’s 1984 Eerily Predicted What Our Society Would Be Like Today, 72 Years Ago" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/big-brother.jpg?resize=150%2C150&amp;ssl=1" title="George Orwell’s 1984 Eerily Predicted What Our Society Would Be Like Today, 72 Years Ago"/>
 </a>
 <div class="my-excerpt">
 <h3 class="post-title"><a href="https://consciouslifenews.com/george-orwells-1984-eerily-predicted-what-our-society-would-be-like-today-72-years-ago/11202640/" rel="bookmark" title="Permanent Link to George Orwell’s 1984 Eerily Predicted What Our Society Would Be Like Today, 72 Years Ago">George Orwell’s 1984 Eerily Predicted What Our Society Would Be Like Today, 72 Years Ago</a></h3>
@@ -1204,136 +1325,16 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-2" id="cat-post-202571">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/its-not-just-a-social-media-problem-how-search-engines-spread-misinformation/11202571/" rel="bookmark" title="Permanent Link to It’s Not Just A Social Media Problem – How Search Engines Spread Misinformation"> <img alt="It’s Not Just A Social Media Problem – How Search Engines Spread Misinformation" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/search-engines-spread-misinformation.jpg?resize=150%2C150&amp;ssl=1" title="It’s Not Just A Social Media Problem – How Search Engines Spread Misinformation"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/its-not-just-a-social-media-problem-how-search-engines-spread-misinformation/11202571/" rel="bookmark" title="Permanent Link to It’s Not Just A Social Media Problem – How Search Engines Spread Misinformation">It’s Not Just A Social Media Problem – How Search Engines Spread Misinformation</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 11, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/media-2/internet-media/" rel="category tag">Internet</a>, <a href="https://consciouslifenews.com/category/media-2/" rel="category tag">Media &amp; Arts</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/its-not-just-a-social-media-problem-how-search-engines-spread-misinformation/11202571/#respond" rel="bookmark" title="Comments for It’s Not Just A Social Media Problem – How Search Engines Spread Misinformation">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>Search engines are one of society’s primary gateways to information and people, but they are also conduits for misinformation. #searchenginefakenews</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/its-not-just-a-social-media-problem-how-search-engines-spread-misinformation/11202571/" rel="nofollow" title="Permanent Link to It’s Not Just A Social Media Problem – How Search Engines Spread Misinformation">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-3" id="cat-post-202290">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/social-engineering-via-media-101-how-to-normalize-the-absurd/11202290/" rel="bookmark" title="Permanent Link to Social Engineering Via Media 101 – How to Normalize the Absurd"> <img alt="Social Engineering Via Media 101 – How to Normalize the Absurd" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/social-engineering-via-media.jpg?resize=150%2C150&amp;ssl=1" title="Social Engineering Via Media 101 – How to Normalize the Absurd"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/social-engineering-via-media-101-how-to-normalize-the-absurd/11202290/" rel="bookmark" title="Permanent Link to Social Engineering Via Media 101 – How to Normalize the Absurd">Social Engineering Via Media 101 – How to Normalize the Absurd</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 7, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/media-2/controlled-media/" rel="category tag">Corporate Controlled Media</a>, <a href="https://consciouslifenews.com/category/media-2/" rel="category tag">Media &amp; Arts</a>, <a href="https://consciouslifenews.com/category/media-2/social-media-media-2/" rel="category tag">Social Media</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/social-engineering-via-media-101-how-to-normalize-the-absurd/11202290/#respond" rel="bookmark" title="Comments for Social Engineering Via Media 101 – How to Normalize the Absurd">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>Among the regular flow of info, certain topics or subjects are thrust into public consciousness with regularity. Social engineering is real. It’s happening all around you. Are you paying attention? #socialengineering</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/social-engineering-via-media-101-how-to-normalize-the-absurd/11202290/" rel="nofollow" title="Permanent Link to Social Engineering Via Media 101 – How to Normalize the Absurd">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-4" id="cat-post-202165">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/whos-behind-global-effort-to-silence-critics-of-the-great-reset/11202165/" rel="bookmark" title="Permanent Link to Who’s Behind Global Effort to Silence Critics of the ‘Great Reset?’"> <img alt="Who’s Behind Global Effort to Silence Critics of the ‘Great Reset?’" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/silence-critics-great-reset.jpg?resize=150%2C150&amp;ssl=1" title="Who’s Behind Global Effort to Silence Critics of the ‘Great Reset?’"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/whos-behind-global-effort-to-silence-critics-of-the-great-reset/11202165/" rel="bookmark" title="Permanent Link to Who’s Behind Global Effort to Silence Critics of the ‘Great Reset?’">Who’s Behind Global Effort to Silence Critics of the ‘Great Reset?’</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 2, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/media-2/censorship-government-2/" rel="category tag">Censorship</a>, <a href="https://consciouslifenews.com/category/government-2/corruption/" rel="category tag">Corruption</a>, <a href="https://consciouslifenews.com/category/government-2/" rel="category tag">Government</a>, <a href="https://consciouslifenews.com/category/media-2/" rel="category tag">Media &amp; Arts</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/whos-behind-global-effort-to-silence-critics-of-the-great-reset/11202165/#respond" rel="bookmark" title="Comments for Who’s Behind Global Effort to Silence Critics of the ‘Great Reset?’">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>The Publicis Groupe, an international PR firm, is a partner with the World Economic Forum, which is leading the call for a “reset” of the global economy. Publicis represents tech, pharma, and banking corporations, all of which have partnerships with the U.S. government and global NGOs. #thegreatreset #greatreset</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/whos-behind-global-effort-to-silence-critics-of-the-great-reset/11202165/" rel="nofollow" title="Permanent Link to Who’s Behind Global Effort to Silence Critics of the ‘Great Reset?’">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
 </div>
 <div style="clear:both;"></div>
 <div class="cat-posts-left">
 <h2 class="feat-title"><span><a href="https://consciouslifenews.com/category/government-2/">Government</a></span></h2>
-<div class="post clearfix mypost-1" id="cat-post-202653">
+<div class="post clearfix mypost-1" id="cat-post-202992">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/the-governments-war-on-free-speech-protest-laws-undermine-the-first-amendment/11202653/" rel="bookmark" title="Permanent Link to The Government’s War on Free Speech: Protest Laws Undermine the First Amendment"> <img alt="The Government’s War on Free Speech: Protest Laws Undermine the First Amendment" class="thumbnail wide small" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/war-on-free-speech-undermines-the-first-amendment.jpg?resize=352%2C198&amp;ssl=1" title="The Government’s War on Free Speech: Protest Laws Undermine the First Amendment"/>
+<a href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/" rel="bookmark" title="Permanent Link to Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation"> <img alt="Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation" class="thumbnail wide small" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/outcry-to-the-world-from-israel.jpg?resize=352%2C198&amp;ssl=1" title="Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/the-governments-war-on-free-speech-protest-laws-undermine-the-first-amendment/11202653/" rel="bookmark" title="Permanent Link to The Government’s War on Free Speech: Protest Laws Undermine the First Amendment">The Government’s War on Free Speech: Protest Laws Undermine the First Amendment</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/" rel="bookmark" title="Permanent Link to Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation">Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -1345,35 +1346,35 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 15, 2021		</span>
+			March 26, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
 				in			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/category/government-2/corruption/" rel="category tag">Corruption</a>, <a href="https://consciouslifenews.com/category/government-2/" rel="category tag">Government</a>, <a href="https://consciouslifenews.com/category/government-2/positive-change-government-2/" rel="category tag">Policies</a> </span>
+<a href="https://consciouslifenews.com/category/conscious-living/activism-conscious-living/" rel="category tag">Activism</a>, <a href="https://consciouslifenews.com/category/conscious-living/" rel="category tag">Conscious Living</a>, <a href="https://consciouslifenews.com/category/government-2/" rel="category tag">Government</a>, <a href="https://consciouslifenews.com/category/government-2/positive-change-government-2/" rel="category tag">Policies</a> </span>
 </span>
 <span class="meta-comments">
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/the-governments-war-on-free-speech-protest-laws-undermine-the-first-amendment/11202653/#respond" rel="bookmark" title="Comments for The Government’s War on Free Speech: Protest Laws Undermine the First Amendment">0 Comments</a>
+<a href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/#respond" rel="bookmark" title="Comments for Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>John W. Whitehead discusses how the American Police State has shown itself to be particularly intolerant of free speech activities that challenge its authority, stand up to its power grabs, and force it to operate according to the rules of the Constitution. #freedomofspeech  #WarOnFreeSpeech #FirstAmendment</p>
+<div class="my-excerpt"><p>The entire world is watching in horror as death rates have skyrocketed in Israel since the Israeli government brokered a secret deal with Pfizer to inject the entire population with their experimental COVID shots, which are now being mandated as a condition to participating in society. #israeliscryout</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/the-governments-war-on-free-speech-protest-laws-undermine-the-first-amendment/11202653/" rel="nofollow" title="Permanent Link to The Government’s War on Free Speech: Protest Laws Undermine the First Amendment">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/" rel="nofollow" title="Permanent Link to Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-2" id="cat-post-202590">
+<div class="post clearfix mypost-2" id="cat-post-202962">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/the-biggest-casualty-of-covid-19-is-your-individual-rights/11202590/" rel="bookmark" title="Permanent Link to The Biggest Casualty of COVID-19 Is Your Individual Rights"> <img alt="The Biggest Casualty of COVID-19 Is Your Individual Rights" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/impact-of-covid-19-on-freedom.jpg?resize=150%2C150&amp;ssl=1" title="The Biggest Casualty of COVID-19 Is Your Individual Rights"/>
+<a href="https://consciouslifenews.com/lockdowns-the-biggest-public-health-mistake-ever-made/11202962/" rel="bookmark" title="Permanent Link to Lockdowns: The Biggest Public Health Mistake Ever Made?"> <img alt="Lockdowns: The Biggest Public Health Mistake Ever Made?" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/global-lockdown.jpg?resize=150%2C150&amp;ssl=1" title="Lockdowns: The Biggest Public Health Mistake Ever Made?"/>
 </a>
 <div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/the-biggest-casualty-of-covid-19-is-your-individual-rights/11202590/" rel="bookmark" title="Permanent Link to The Biggest Casualty of COVID-19 Is Your Individual Rights">The Biggest Casualty of COVID-19 Is Your Individual Rights</a></h3>
+<h3 class="post-title"><a href="https://consciouslifenews.com/lockdowns-the-biggest-public-health-mistake-ever-made/11202962/" rel="bookmark" title="Permanent Link to Lockdowns: The Biggest Public Health Mistake Ever Made?">Lockdowns: The Biggest Public Health Mistake Ever Made?</a></h3>
 <div class="meta">
 <span class="meta-author">
 <span class="meta-bullet">
@@ -1385,87 +1386,7 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 			on		</span>
 <span class="meta-inner">
-			March 12, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/government-2/corruption/" rel="category tag">Corruption</a>, <a href="https://consciouslifenews.com/category/government-2/" rel="category tag">Government</a>, <a href="https://consciouslifenews.com/category/government-2/positive-change-government-2/" rel="category tag">Policies</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/the-biggest-casualty-of-covid-19-is-your-individual-rights/11202590/#respond" rel="bookmark" title="Comments for The Biggest Casualty of COVID-19 Is Your Individual Rights">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>While the casualties of government-imposed COVID-19 countermeasures are manifold, the biggest and most tragic of them all is the loss of individual freedoms #lossoffreedom</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/the-biggest-casualty-of-covid-19-is-your-individual-rights/11202590/" rel="nofollow" title="Permanent Link to The Biggest Casualty of COVID-19 Is Your Individual Rights">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-3" id="cat-post-202575">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/zero-carbon-zero-covid-twin-phantoms-of-planetary-genocide/11202575/" rel="bookmark" title="Permanent Link to Zero Carbon – Zero COVID:  Twin Phantoms of Planetary Genocide"> <img alt="Zero Carbon – Zero COVID:  Twin Phantoms of Planetary Genocide" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/phantoms-of-planetary-genocide.jpg?resize=150%2C150&amp;ssl=1" title="Zero Carbon – Zero COVID:  Twin Phantoms of Planetary Genocide"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/zero-carbon-zero-covid-twin-phantoms-of-planetary-genocide/11202575/" rel="bookmark" title="Permanent Link to Zero Carbon – Zero COVID:  Twin Phantoms of Planetary Genocide">Zero Carbon – Zero COVID:  Twin Phantoms of Planetary Genocide</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 11, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/government-2/corruption/" rel="category tag">Corruption</a>, <a href="https://consciouslifenews.com/category/government-2/" rel="category tag">Government</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/zero-carbon-zero-covid-twin-phantoms-of-planetary-genocide/11202575/#respond" rel="bookmark" title="Comments for Zero Carbon – Zero COVID:  Twin Phantoms of Planetary Genocide">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>Within the control system’s Davos engineered genocide program called Agenda 2030/The Great Reset, are some striking cohabitating toxic agendas. Like the Zero Carbon ‘stop climate change’ goal – and the Zero Covid ‘stop the world pandemic’ goal. #genocide</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/zero-carbon-zero-covid-twin-phantoms-of-planetary-genocide/11202575/" rel="nofollow" title="Permanent Link to Zero Carbon – Zero COVID:  Twin Phantoms of Planetary Genocide">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-4" id="cat-post-202361">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/no-secret-agenda-about-the-great-reset-families-reveal-deaths-wrongly-attributed-to-covid-19/11202361/" rel="bookmark" title="Permanent Link to No ‘Secret Agenda’ About The Great Reset + Families Reveal Deaths Wrongly Attributed to Covid-19"> <img alt="No ‘Secret Agenda’ About The Great Reset + Families Reveal Deaths Wrongly Attributed to Covid-19" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/no-secret-agenda-about-the-great-reset.jpg?resize=150%2C150&amp;ssl=1" title="No ‘Secret Agenda’ About The Great Reset + Families Reveal Deaths Wrongly Attributed to Covid-19"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/no-secret-agenda-about-the-great-reset-families-reveal-deaths-wrongly-attributed-to-covid-19/11202361/" rel="bookmark" title="Permanent Link to No ‘Secret Agenda’ About The Great Reset + Families Reveal Deaths Wrongly Attributed to Covid-19">No ‘Secret Agenda’ About The Great Reset + Families Reveal Deaths Wrongly Attributed to Covid-19</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 9, 2021		</span>
+			March 25, 2021		</span>
 </span>
 <span class="meta-cats">
 <span class="meta-bullet">
@@ -1477,13 +1398,93 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <span class="meta-bullet">
 				with			</span>
 <span class="meta-inner">
-<a href="https://consciouslifenews.com/no-secret-agenda-about-the-great-reset-families-reveal-deaths-wrongly-attributed-to-covid-19/11202361/#respond" rel="bookmark" title="Comments for No ‘Secret Agenda’ About The Great Reset + Families Reveal Deaths Wrongly Attributed to Covid-19">0 Comments</a>
+<a href="https://consciouslifenews.com/lockdowns-the-biggest-public-health-mistake-ever-made/11202962/#respond" rel="bookmark" title="Comments for Lockdowns: The Biggest Public Health Mistake Ever Made?">0 Comments</a>
 </span>
 </span>
 </div>
-<div class="my-excerpt"><p>Sky News host Rowan Dean says there is no “secret agenda” about World Economic Forum’s Great Reset – they are shouting it from the rafters. #greatreset</p>
+<div class="my-excerpt"><p>Dr. Jay Bhattacharya has called lockdowns the “single worst public health mistake” of the last 100 years. He and other health experts are calling for focused protection for the vulnerable in the Great Barrington Declaration #covidlockdown</p>
 </div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/no-secret-agenda-about-the-great-reset-families-reveal-deaths-wrongly-attributed-to-covid-19/11202361/" rel="nofollow" title="Permanent Link to No ‘Secret Agenda’ About The Great Reset + Families Reveal Deaths Wrongly Attributed to Covid-19">Continue Reading</a></p>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/lockdowns-the-biggest-public-health-mistake-ever-made/11202962/" rel="nofollow" title="Permanent Link to Lockdowns: The Biggest Public Health Mistake Ever Made?">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-3" id="cat-post-202900">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/doctors-warn-child-suicide-becoming-international-epidemic-thanks-to-govt-restrictions/11202900/" rel="bookmark" title="Permanent Link to Doctors Warn Child Suicide Becoming ‘International Epidemic’ Thanks to Gov’t Restrictions"> <img alt="Doctors Warn Child Suicide Becoming ‘International Epidemic’ Thanks to Gov’t Restrictions" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/empty-classroom.jpg?resize=150%2C150&amp;ssl=1" title="Doctors Warn Child Suicide Becoming ‘International Epidemic’ Thanks to Gov’t Restrictions"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/doctors-warn-child-suicide-becoming-international-epidemic-thanks-to-govt-restrictions/11202900/" rel="bookmark" title="Permanent Link to Doctors Warn Child Suicide Becoming ‘International Epidemic’ Thanks to Gov’t Restrictions">Doctors Warn Child Suicide Becoming ‘International Epidemic’ Thanks to Gov’t Restrictions</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 23, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/government-2/" rel="category tag">Government</a>, <a href="https://consciouslifenews.com/category/government-2/positive-change-government-2/" rel="category tag">Policies</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/doctors-warn-child-suicide-becoming-international-epidemic-thanks-to-govt-restrictions/11202900/#respond" rel="bookmark" title="Comments for Doctors Warn Child Suicide Becoming ‘International Epidemic’ Thanks to Gov’t Restrictions">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>Doctors are warning that children, in particular, are experiencing grave mental health consequences as a result of the lockdowns—leading to an “international epidemic” of child suicide.  #childsuicide</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/doctors-warn-child-suicide-becoming-international-epidemic-thanks-to-govt-restrictions/11202900/" rel="nofollow" title="Permanent Link to Doctors Warn Child Suicide Becoming ‘International Epidemic’ Thanks to Gov’t Restrictions">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-4" id="cat-post-202886">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/teachers-sue-la-school-district-over-covid-vaccine-mandate/11202886/" rel="bookmark" title="Permanent Link to Teachers Sue LA School District Over COVID Vaccine Mandate"> <img alt="Teachers Sue LA School District Over COVID Vaccine Mandate" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/school-teacher.jpg?resize=150%2C150&amp;ssl=1" title="Teachers Sue LA School District Over COVID Vaccine Mandate"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/teachers-sue-la-school-district-over-covid-vaccine-mandate/11202886/" rel="bookmark" title="Permanent Link to Teachers Sue LA School District Over COVID Vaccine Mandate">Teachers Sue LA School District Over COVID Vaccine Mandate</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 23, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/government-2/government-agencies-systems/" rel="category tag">Agencies &amp; Systems</a>, <a href="https://consciouslifenews.com/category/government-2/federal-law/" rel="category tag">Federal Law</a>, <a href="https://consciouslifenews.com/category/government-2/" rel="category tag">Government</a>, <a href="https://consciouslifenews.com/category/government-2/positive-change-government-2/" rel="category tag">Policies</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/teachers-sue-la-school-district-over-covid-vaccine-mandate/11202886/#respond" rel="bookmark" title="Comments for Teachers Sue LA School District Over COVID Vaccine Mandate">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>Groups representing teachers, counselors, and employees say the Los Angeles Unified School District’s vaccine mandate violates federal law and basic human rights. #mandatoryvaccines</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/teachers-sue-la-school-district-over-covid-vaccine-mandate/11202886/" rel="nofollow" title="Permanent Link to Teachers Sue LA School District Over COVID Vaccine Mandate">Continue Reading</a></p>
 </div>
 <div style="clear:both;"></div>
 </div>
@@ -1491,9 +1492,129 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 </div>
 <div class="cat-posts-right">
 <h2 class="feat-title"><span><a href="https://consciouslifenews.com/category/economy/">Economy</a></span></h2>
-<div class="post clearfix mypost-1" id="cat-post-202689">
+<div class="post clearfix mypost-1" id="cat-post-202901">
 <div class="entry clearfix">
-<a href="https://consciouslifenews.com/brace-yourselves-for-the-most-dramatic-shift-in-the-standard-of-living-in-all-of-u-s-history/11202689/" rel="bookmark" title="Permanent Link to Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History"> <img alt="Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History" class="thumbnail wide small" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/economic-collapse.jpg?resize=352%2C198&amp;ssl=1" title="Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History"/>
+<a href="https://consciouslifenews.com/great-reasons-to-pursue-a-masters-in-education-degree/11202901/" rel="bookmark" title="Permanent Link to Great Reasons to Pursue a Master’s in Education Degree"> <img alt="Great Reasons to Pursue a Master’s in Education Degree" class="thumbnail wide small" src="https://3s9h7h3y0i6u2n9j4h5vgkf1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/How-to-Localize-Your-Educational-Content.jpg" title="Great Reasons to Pursue a Master’s in Education Degree"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/great-reasons-to-pursue-a-masters-in-education-degree/11202901/" rel="bookmark" title="Permanent Link to Great Reasons to Pursue a Master’s in Education Degree">Great Reasons to Pursue a Master’s in Education Degree</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 22, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/economy/education/" rel="category tag">Education</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/great-reasons-to-pursue-a-masters-in-education-degree/11202901/#respond" rel="bookmark" title="Comments for Great Reasons to Pursue a Master’s in Education Degree">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>Here are some ways in which earning a master’s in education degree can make a positive impact on your life and the lives of your students as well as some great reasons why it is worth it.</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/great-reasons-to-pursue-a-masters-in-education-degree/11202901/" rel="nofollow" title="Permanent Link to Great Reasons to Pursue a Master’s in Education Degree">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-2" id="cat-post-202802">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/robots-are-coming-for-millions-of-blue-collar-jobs-but-wont-stop-there/11202802/" rel="bookmark" title="Permanent Link to Robots Are Coming for Millions of Blue-Collar Jobs… But Won’t Stop There"> <img alt="Robots Are Coming for Millions of Blue-Collar Jobs… But Won’t Stop There" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/robots-are-coming-millions-blue-collar-jobs.jpg?resize=150%2C150&amp;ssl=1" title="Robots Are Coming for Millions of Blue-Collar Jobs… But Won’t Stop There"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/robots-are-coming-for-millions-of-blue-collar-jobs-but-wont-stop-there/11202802/" rel="bookmark" title="Permanent Link to Robots Are Coming for Millions of Blue-Collar Jobs… But Won’t Stop There">Robots Are Coming for Millions of Blue-Collar Jobs… But Won’t Stop There</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnadrian/" rel="author" title="Posts by clnAdrian">clnAdrian</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 19, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/sci-tech/artificial-intelligence/" rel="category tag">Artificial Intelligence</a>, <a href="https://consciouslifenews.com/category/economy/" rel="category tag">Economy</a>, <a href="https://consciouslifenews.com/category/sci-tech/" rel="category tag">Sci-Tech</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/robots-are-coming-for-millions-of-blue-collar-jobs-but-wont-stop-there/11202802/#respond" rel="bookmark" title="Comments for Robots Are Coming for Millions of Blue-Collar Jobs… But Won’t Stop There">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>CEOs urgently need euphemisms to soften the image of their constant hunt for ways to kill jobs and funnel more money to themselves and top investors. #robots #automation #bluecollarjobs</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/robots-are-coming-for-millions-of-blue-collar-jobs-but-wont-stop-there/11202802/" rel="nofollow" title="Permanent Link to Robots Are Coming for Millions of Blue-Collar Jobs… But Won’t Stop There">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-3" id="cat-post-202797">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/small-business-survival-guide-5-tips-that-can-help-you-make-it-through-tough-times/11202797/" rel="bookmark" title="Permanent Link to Small Business Survival Guide – 5 Tips That Can Help You Make It Through Tough Times"> <img alt="Small Business Survival Guide – 5 Tips That Can Help You Make It Through Tough Times" class="thumbnail" src="//i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/Small-Business-Survival-Guide-.jpg?resize=150%2C150&amp;ssl=1" title="Small Business Survival Guide – 5 Tips That Can Help You Make It Through Tough Times"/>
+</a>
+<div class="my-excerpt">
+<h3 class="post-title"><a href="https://consciouslifenews.com/small-business-survival-guide-5-tips-that-can-help-you-make-it-through-tough-times/11202797/" rel="bookmark" title="Permanent Link to Small Business Survival Guide – 5 Tips That Can Help You Make It Through Tough Times">Small Business Survival Guide – 5 Tips That Can Help You Make It Through Tough Times</a></h3>
+<div class="meta">
+<span class="meta-author">
+<span class="meta-bullet">
+							Posted by					</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
+</span>
+<span class="meta-date">
+<span class="meta-bullet">
+			on		</span>
+<span class="meta-inner">
+			March 18, 2021		</span>
+</span>
+<span class="meta-cats">
+<span class="meta-bullet">
+				in			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/category/economy/conscious-business/" rel="category tag">Business</a> </span>
+</span>
+<span class="meta-comments">
+<span class="meta-bullet">
+				with			</span>
+<span class="meta-inner">
+<a href="https://consciouslifenews.com/small-business-survival-guide-5-tips-that-can-help-you-make-it-through-tough-times/11202797/#respond" rel="bookmark" title="Comments for Small Business Survival Guide – 5 Tips That Can Help You Make It Through Tough Times">0 Comments</a>
+</span>
+</span>
+</div>
+<div class="my-excerpt"><p>From invoice finance for small businesses to budget-balancing basics, here are five life-saving tips that can make all the difference in your business’s success.</p>
+</div>
+<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/small-business-survival-guide-5-tips-that-can-help-you-make-it-through-tough-times/11202797/" rel="nofollow" title="Permanent Link to Small Business Survival Guide – 5 Tips That Can Help You Make It Through Tough Times">Continue Reading</a></p>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="post clearfix mypost-4" id="cat-post-202689">
+<div class="entry clearfix">
+<a href="https://consciouslifenews.com/brace-yourselves-for-the-most-dramatic-shift-in-the-standard-of-living-in-all-of-u-s-history/11202689/" rel="bookmark" title="Permanent Link to Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History"> <img alt="Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History" class="thumbnail" src="//i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/economic-collapse.jpg?resize=150%2C150&amp;ssl=1" title="Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History"/>
 </a>
 <div class="my-excerpt">
 <h3 class="post-title"><a href="https://consciouslifenews.com/brace-yourselves-for-the-most-dramatic-shift-in-the-standard-of-living-in-all-of-u-s-history/11202689/" rel="bookmark" title="Permanent Link to Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History">Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History</a></h3>
@@ -1531,141 +1652,21 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <div style="clear:both;"></div>
 </div>
 </div>
-<div class="post clearfix mypost-2" id="cat-post-202755">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/moving-101-tips-for-staying-fit-and-healthy-during-a-move/11202755/" rel="bookmark" title="Permanent Link to Moving 101: Tips For Staying Fit And Healthy During A Move"> <img alt="Moving 101: Tips For Staying Fit And Healthy During A Move" class="thumbnail" src="https://3s9h7h3y0i6u2n9j4h5vgkf1-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/moving-company-hiring-tips.jpg" title="Moving 101: Tips For Staying Fit And Healthy During A Move"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/moving-101-tips-for-staying-fit-and-healthy-during-a-move/11202755/" rel="bookmark" title="Permanent Link to Moving 101: Tips For Staying Fit And Healthy During A Move">Moving 101: Tips For Staying Fit And Healthy During A Move</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 16, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/economy/" rel="category tag">Economy</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/moving-101-tips-for-staying-fit-and-healthy-during-a-move/11202755/#respond" rel="bookmark" title="Comments for Moving 101: Tips For Staying Fit And Healthy During A Move">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>it’s important to ensure your overall health throughout a move. Here are a few tips for staying fit and healthy during a move.</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/moving-101-tips-for-staying-fit-and-healthy-during-a-move/11202755/" rel="nofollow" title="Permanent Link to Moving 101: Tips For Staying Fit And Healthy During A Move">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-3" id="cat-post-202752">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/how-to-do-the-perfect-market-analysis/11202752/" rel="bookmark" title="Permanent Link to How To Do the Perfect Market Analysis"> <img alt="How To Do the Perfect Market Analysis" class="thumbnail" src="https://3s9h7h3y0i6u2n9j4h5vgkf1-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/forex-stop-loss.jpg" title="How To Do the Perfect Market Analysis"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/how-to-do-the-perfect-market-analysis/11202752/" rel="bookmark" title="Permanent Link to How To Do the Perfect Market Analysis">How To Do the Perfect Market Analysis</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 16, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/economy/investing/" rel="category tag">Investing and Insurance</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/how-to-do-the-perfect-market-analysis/11202752/#respond" rel="bookmark" title="Comments for How To Do the Perfect Market Analysis">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>Forex market analysis includes both technical and fundamental analysis. Here’s what you need to know.</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/how-to-do-the-perfect-market-analysis/11202752/" rel="nofollow" title="Permanent Link to How To Do the Perfect Market Analysis">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
-<div class="post clearfix mypost-4" id="cat-post-202682">
-<div class="entry clearfix">
-<a href="https://consciouslifenews.com/crypto-trading-with-stormgain/11202682/" rel="bookmark" title="Permanent Link to Crypto Trading with StormGain"> <img alt="Crypto Trading with StormGain" class="thumbnail" src="//i2.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/StormGain.jpg?resize=150%2C150&amp;ssl=1" title="Crypto Trading with StormGain"/>
-</a>
-<div class="my-excerpt">
-<h3 class="post-title"><a href="https://consciouslifenews.com/crypto-trading-with-stormgain/11202682/" rel="bookmark" title="Permanent Link to Crypto Trading with StormGain">Crypto Trading with StormGain</a></h3>
-<div class="meta">
-<span class="meta-author">
-<span class="meta-bullet">
-							Posted by					</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/author/clnews/" rel="author" title="Posts by clnews">clnews</a> </span>
-</span>
-<span class="meta-date">
-<span class="meta-bullet">
-			on		</span>
-<span class="meta-inner">
-			March 15, 2021		</span>
-</span>
-<span class="meta-cats">
-<span class="meta-bullet">
-				in			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/category/economy/investing/" rel="category tag">Investing and Insurance</a> </span>
-</span>
-<span class="meta-comments">
-<span class="meta-bullet">
-				with			</span>
-<span class="meta-inner">
-<a href="https://consciouslifenews.com/crypto-trading-with-stormgain/11202682/#respond" rel="bookmark" title="Comments for Crypto Trading with StormGain">0 Comments</a>
-</span>
-</span>
-</div>
-<div class="my-excerpt"><p>Some of the key features you will enjoy when you open an account with StormGain include traditional and advanced trading features, a simple interface, 24-hour support, and interest on deposits.</p>
-</div>
-<p class="readmore"><a class="more-link" href="https://consciouslifenews.com/crypto-trading-with-stormgain/11202682/" rel="nofollow" title="Permanent Link to Crypto Trading with StormGain">Continue Reading</a></p>
-</div>
-<div style="clear:both;"></div>
-</div>
-</div>
 </div>
 <div style="clear:both;"></div>
 </div>
 <div class="index-3-4-archives clearfix">
 <select class="monarchives" name="archive-dropdown-2" onchange="document.location.href=this.options[this.selectedIndex].value;">
 <option value="">Monthly Archives</option>
-<option value="https://consciouslifenews.com/date/2021/03/"> March 2021  (128)</option>
+<option value="https://consciouslifenews.com/date/2021/03/"> March 2021  (204)</option>
 <option value="https://consciouslifenews.com/date/2021/02/"> February 2021  (259)</option>
 <option value="https://consciouslifenews.com/date/2021/01/"> January 2021  (263)</option>
 <option value="https://consciouslifenews.com/date/2020/12/"> December 2020  (287)</option>
-<option value="https://consciouslifenews.com/date/2020/11/"> November 2020  (328)</option>
+<option value="https://consciouslifenews.com/date/2020/11/"> November 2020  (327)</option>
 <option value="https://consciouslifenews.com/date/2020/10/"> October 2020  (349)</option>
 <option value="https://consciouslifenews.com/date/2020/09/"> September 2020  (309)</option>
 <option value="https://consciouslifenews.com/date/2020/08/"> August 2020  (333)</option>
-<option value="https://consciouslifenews.com/date/2020/07/"> July 2020  (335)</option>
+<option value="https://consciouslifenews.com/date/2020/07/"> July 2020  (334)</option>
 <option value="https://consciouslifenews.com/date/2020/06/"> June 2020  (325)</option>
 <option value="https://consciouslifenews.com/date/2020/05/"> May 2020  (317)</option>
 <option value="https://consciouslifenews.com/date/2020/04/"> April 2020  (384)</option>
@@ -1678,10 +1679,10 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <option value="https://consciouslifenews.com/date/2019/09/"> September 2019  (330)</option>
 <option value="https://consciouslifenews.com/date/2019/08/"> August 2019  (325)</option>
 <option value="https://consciouslifenews.com/date/2019/07/"> July 2019  (322)</option>
-<option value="https://consciouslifenews.com/date/2019/06/"> June 2019  (369)</option>
+<option value="https://consciouslifenews.com/date/2019/06/"> June 2019  (368)</option>
 <option value="https://consciouslifenews.com/date/2019/05/"> May 2019  (319)</option>
 <option value="https://consciouslifenews.com/date/2019/04/"> April 2019  (242)</option>
-<option value="https://consciouslifenews.com/date/2019/03/"> March 2019  (218)</option>
+<option value="https://consciouslifenews.com/date/2019/03/"> March 2019  (217)</option>
 <option value="https://consciouslifenews.com/date/2019/02/"> February 2019  (180)</option>
 <option value="https://consciouslifenews.com/date/2019/01/"> January 2019  (171)</option>
 <option value="https://consciouslifenews.com/date/2018/12/"> December 2018  (145)</option>
@@ -1703,7 +1704,7 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <option value="https://consciouslifenews.com/date/2017/08/"> August 2017  (226)</option>
 <option value="https://consciouslifenews.com/date/2017/07/"> July 2017  (212)</option>
 <option value="https://consciouslifenews.com/date/2017/06/"> June 2017  (121)</option>
-<option value="https://consciouslifenews.com/date/2017/05/"> May 2017  (119)</option>
+<option value="https://consciouslifenews.com/date/2017/05/"> May 2017  (118)</option>
 <option value="https://consciouslifenews.com/date/2017/04/"> April 2017  (163)</option>
 <option value="https://consciouslifenews.com/date/2017/03/"> March 2017  (166)</option>
 <option value="https://consciouslifenews.com/date/2017/02/"> February 2017  (146)</option>
@@ -1749,102 +1750,102 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 <form action="https://consciouslifenews.com/" class="catarchives" method="get">
 <select class="postform" id="catdrop2" name="cat" onchange="return this.form.submit()">
 <option value="-1">Category Archives</option>
-<option class="level-0" value="23">Conscious Living  (5,295)</option>
-<option class="level-1" value="26873">   Activism  (464)</option>
+<option class="level-0" value="23">Conscious Living  (5,309)</option>
+<option class="level-1" value="26873">   Activism  (469)</option>
 <option class="level-1" value="10642">   Animals and Pets  (104)</option>
-<option class="level-1" value="9966">   Conscious Evolution  (2,106)</option>
+<option class="level-1" value="9966">   Conscious Evolution  (2,109)</option>
 <option class="level-1" value="333">   Conscious Parenting  (135)</option>
-<option class="level-1" value="10260">   Happiness &amp; Humor  (825)</option>
-<option class="level-1" value="7263">   Inspirational  (1,650)</option>
+<option class="level-1" value="10260">   Happiness &amp; Humor  (826)</option>
+<option class="level-1" value="7263">   Inspirational  (1,652)</option>
 <option class="level-1" value="1709">   Meditation  (447)</option>
-<option class="level-1" value="10364">   Peace &amp; Human Rights  (265)</option>
+<option class="level-1" value="10364">   Peace &amp; Human Rights  (267)</option>
 <option class="level-1" value="20156">   Relationships &amp; Sex  (977)</option>
-<option class="level-1" value="25212">   Thrive  (1,838)</option>
-<option class="level-0" value="1006">Economy  (1,144)</option>
-<option class="level-1" value="10564">   Business  (395)</option>
+<option class="level-1" value="25212">   Thrive  (1,844)</option>
+<option class="level-0" value="1006">Economy  (1,147)</option>
+<option class="level-1" value="10564">   Business  (396)</option>
 <option class="level-1" value="78692">   Careers  (48)</option>
-<option class="level-1" value="78241">   Education  (29)</option>
+<option class="level-1" value="78241">   Education  (30)</option>
 <option class="level-1" value="73907">   Investing and Insurance  (58)</option>
 <option class="level-1" value="80395">   Laws and Lawyers  (25)</option>
 <option class="level-1" value="87170">   Lifestyle and Fashion  (6)</option>
 <option class="level-1" value="37928">   Loans and Frugal Living  (159)</option>
 <option class="level-1" value="56950">   Travel and Entertainment  (72)</option>
-<option class="level-0" value="560">Environment  (1,353)</option>
+<option class="level-0" value="560">Environment  (1,357)</option>
 <option class="level-1" value="27">   Climate Change  (143)</option>
-<option class="level-1" value="37520">   Eco-Friendly  (545)</option>
+<option class="level-1" value="37520">   Eco-Friendly  (548)</option>
 <option class="level-1" value="46231">   Environmental Hazards  (396)</option>
-<option class="level-1" value="865">   Farming  (99)</option>
+<option class="level-1" value="865">   Farming  (101)</option>
 <option class="level-1" value="25799">   Preparedness  (37)</option>
 <option class="level-1" value="25485">   Wildlife  (202)</option>
-<option class="level-0" value="21486">Government  (1,629)</option>
-<option class="level-1" value="46237">   Agencies &amp; Systems  (319)</option>
+<option class="level-0" value="21486">Government  (1,635)</option>
+<option class="level-1" value="46237">   Agencies &amp; Systems  (320)</option>
 <option class="level-1" value="9912">   Bankers &amp; Wall St.  (102)</option>
-<option class="level-1" value="46230">   Corruption  (526)</option>
-<option class="level-1" value="82391">   Federal Law  (11)</option>
+<option class="level-1" value="46230">   Corruption  (527)</option>
+<option class="level-1" value="82391">   Federal Law  (12)</option>
 <option class="level-1" value="3946">   Internet Control  (68)</option>
 <option class="level-1" value="15906">   Military  (292)</option>
-<option class="level-1" value="34819">   Policies  (514)</option>
+<option class="level-1" value="34819">   Policies  (519)</option>
 <option class="level-1" value="339">   Politics  (620)</option>
 <option class="level-1" value="24395">   Spying and Surveillance  (172)</option>
 <option class="level-1" value="24075">   Whistleblower  (138)</option>
-<option class="level-0" value="1037">Health  (3,699)</option>
+<option class="level-0" value="1037">Health  (3,712)</option>
 <option class="level-1" value="46223">   Alternative Health Care  (504)</option>
 <option class="level-1" value="888">   Big Pharma, CDC, EPA &amp; FDA  (263)</option>
 <option class="level-1" value="20235">   Diet, Weight Loss, Obesity  (312)</option>
-<option class="level-1" value="10282">   Exercise and Fitness  (362)</option>
-<option class="level-1" value="10187">   Food, Drink &amp; Nutrition  (1,177)</option>
-<option class="level-1" value="46222">   Hazards, Issues &amp; Diseases  (964)</option>
-<option class="level-1" value="1045">   Healing &amp; Natural Remedies  (976)</option>
+<option class="level-1" value="10282">   Exercise and Fitness  (363)</option>
+<option class="level-1" value="10187">   Food, Drink &amp; Nutrition  (1,182)</option>
+<option class="level-1" value="46222">   Hazards, Issues &amp; Diseases  (969)</option>
+<option class="level-1" value="1045">   Healing &amp; Natural Remedies  (977)</option>
 <option class="level-1" value="25190">   Herbs, Seeds &amp; Spices  (248)</option>
 <option class="level-1" value="36894">   Human Energy Systems  (288)</option>
 <option class="level-1" value="15214">   Longevity &amp; Life Extension  (328)</option>
 <option class="level-1" value="9961">   Mind-Body Connection  (304)</option>
 <option class="level-1" value="80179">   Pet Health  (14)</option>
-<option class="level-1" value="1039">   Prevention  (866)</option>
+<option class="level-1" value="1039">   Prevention  (867)</option>
 <option class="level-1" value="74506">   Skin &amp; Hair Care  (27)</option>
-<option class="level-0" value="46501">Horoscopes  (1,197)</option>
-<option class="level-1" value="47374">   Astrology Overview  (255)</option>
+<option class="level-0" value="46501">Horoscopes  (1,198)</option>
+<option class="level-1" value="47374">   Astrology Overview  (256)</option>
 <option class="level-1" value="46657">   Daily  (799)</option>
 <option class="level-1" value="46659">   Monthly  (28)</option>
 <option class="level-1" value="46658">   Weekly  (114)</option>
-<option class="level-0" value="17628">Media &amp; Arts  (903)</option>
+<option class="level-0" value="17628">Media &amp; Arts  (906)</option>
 <option class="level-1" value="29689">   Alternative Media  (92)</option>
-<option class="level-1" value="9544">   Art and Music  (157)</option>
+<option class="level-1" value="9544">   Art and Music  (158)</option>
 <option class="level-1" value="30401">   Books  (56)</option>
-<option class="level-1" value="25590">   Censorship  (121)</option>
-<option class="level-1" value="8042">   Corporate Controlled Media  (179)</option>
+<option class="level-1" value="25590">   Censorship  (122)</option>
+<option class="level-1" value="8042">   Corporate Controlled Media  (180)</option>
 <option class="level-1" value="3965">   Entertainment  (165)</option>
 <option class="level-1" value="29688">   Films &amp; TV  (145)</option>
 <option class="level-1" value="33797">   Internet  (160)</option>
 <option class="level-1" value="30785">   Social Media  (146)</option>
 <option class="level-0" value="3027">News Flash  (360)</option>
-<option class="level-0" value="51">Reality’s Edge  (1,976)</option>
+<option class="level-0" value="51">Reality’s Edge  (1,982)</option>
 <option class="level-1" value="10860">   Afterlife &amp; Past Lives  (75)</option>
-<option class="level-1" value="10542">   Ascension  (95)</option>
-<option class="level-1" value="10998">   Astrology &amp; Numerology  (603)</option>
+<option class="level-1" value="10542">   Ascension  (97)</option>
+<option class="level-1" value="10998">   Astrology &amp; Numerology  (606)</option>
 <option class="level-1" value="655">   Channeling &amp; Readings  (117)</option>
 <option class="level-1" value="24862">   Dreams, ESP &amp; Remote Viewing  (101)</option>
 <option class="level-1" value="10861">   Dying, NDE, &amp; OBE  (68)</option>
 <option class="level-1" value="1060">   ETs, UFOs &amp; Crop Circles  (192)</option>
-<option class="level-1" value="9777">   Manifestation / LOA  (461)</option>
+<option class="level-1" value="9777">   Manifestation / LOA  (462)</option>
 <option class="level-1" value="1018">   Mysteries  (203)</option>
-<option class="level-1" value="3">   Predictions &amp; Prophecies  (142)</option>
+<option class="level-1" value="3">   Predictions &amp; Prophecies  (143)</option>
 <option class="level-1" value="2899">   Quantum Physics  (158)</option>
 <option class="level-1" value="13013">   Reality Shift  (224)</option>
 <option class="level-1" value="3174">   Spirits  (66)</option>
 <option class="level-1" value="9167">   Spirituality and Religion  (88)</option>
-<option class="level-0" value="146">Sci-Tech  (1,575)</option>
+<option class="level-0" value="146">Sci-Tech  (1,580)</option>
 <option class="level-1" value="944">   Archaeology  (38)</option>
-<option class="level-1" value="63020">   Artificial Intelligence  (7)</option>
+<option class="level-1" value="63020">   Artificial Intelligence  (8)</option>
 <option class="level-1" value="9635">   Earth &amp; Space  (419)</option>
 <option class="level-1" value="17691">   Futurism &amp; Inspiring Inventions  (110)</option>
 <option class="level-1" value="33225">   Medical Advances  (56)</option>
-<option class="level-1" value="998">   Nature  (80)</option>
-<option class="level-1" value="18978">   Psychology-Psychiatry  (127)</option>
-<option class="level-1" value="945">   Science  (736)</option>
+<option class="level-1" value="998">   Nature  (81)</option>
+<option class="level-1" value="18978">   Psychology-Psychiatry  (129)</option>
+<option class="level-1" value="945">   Science  (737)</option>
 <option class="level-1" value="946">   Technology  (525)</option>
-<option class="level-0" value="69741">Stuff  (2,223)</option>
-<option class="level-0" value="1">Uncategorized  (145)</option>
+<option class="level-0" value="69741">Stuff  (2,247)</option>
+<option class="level-0" value="1">Uncategorized  (144)</option>
 <option class="level-0" value="18658">World  (48)</option>
 </select>
 <noscript><input type="submit" value="Go"/></noscript>
@@ -1863,9 +1864,11 @@ h1,h2,h3,h4,h5,h6,h7,#sitetitle .title {font-family:Tahoma,Verdana,sans-serif;fo
 </div></div><div class="widget widget_smart_recent_entries smart_recent_posts" id="srpw_widget-2"><div class="widget-wrap"><h3 class="widgettitle"><span>Recent Posts</span></h3><div class="srpw-block srpw-default-style"><style>.srpw-thumbnail{
 width: 60px;
 height: 60px;
-}</style><ul class="srpw-ul"><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/motion-dancing-with-spirit/11202716/" target="_self">Motion Dancing With Spirit</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/scientists-develop-model-for-faster-than-light-warp-drive-that-bends-spacetime-to-send-ships-to-the-stars/11202698/" target="_self">Scientists Develop Model for Faster-Than-Light Warp Drive That Bends Spacetime to Send Ships to the Stars</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/penguin-escapes-killer-whales-by-jumping-into-tourist-boat-in-antarctica/11202695/" target="_self">Penguin Escapes Killer Whales By Jumping Into Tourist Boat in Antarctica</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/virologist-we-are-going-to-pay-huge-price-for-covid-mass-vaccination-campaign/11202692/" target="_self">Virologist: ‘We Are Going to Pay Huge Price’ for COVID Mass Vaccination Campaign</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/brace-yourselves-for-the-most-dramatic-shift-in-the-standard-of-living-in-all-of-u-s-history/11202689/" target="_self">Brace Yourselves for the Most Dramatic Shift in the Standard of Living in All of U.S. History</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/moving-101-tips-for-staying-fit-and-healthy-during-a-move/11202755/" target="_self">Moving 101: Tips For Staying Fit And Healthy During A Move</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/how-to-do-the-perfect-market-analysis/11202752/" target="_self">How To Do the Perfect Market Analysis</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/can-you-sit-and-do-nothing-seven-benefits-of-nothing/11202644/" target="_self">Can You Sit and Do Nothing? Seven Benefits of “Doing Nothing”</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/watch-we-have-been-controlled-seeing-this-is-ascending-lorie-ladd/11202666/" target="_self">WATCH: We Have Been Controlled – Seeing This Is Ascending | Lorie Ladd</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/tips-from-gandhi-on-changing-the-world/11202659/" target="_self">Tips from Gandhi on Changing the World</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/simple-remedies-to-optimize-your-energy-and-combat-fatigue/11202656/" target="_self">Simple Remedies to Optimize Your Energy and Combat Fatigue</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/the-governments-war-on-free-speech-protest-laws-undermine-the-first-amendment/11202653/" target="_self">The Government’s War on Free Speech: Protest Laws Undermine the First Amendment</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/5-valuable-meditation-tips-for-beginners/11202722/" target="_self">5 Valuable Meditation Tips for Beginners</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/why-do-companies-need-mobile-proxies/11202713/" target="_self">Why Do Companies Need Mobile Proxies?</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/why-is-myaxyl-best-for-joint-pain-and-inflammation/11202677/" target="_self">Why Is Myaxyl Best for Joint Pain and Inflammation?</a><div class="srpw-meta"></div></div></li></ul></div><!-- Generated by http://wordpress.org/plugins/smart-recent-posts-widget/ --></div></div><div class="widget widget_text" id="text-94"><div class="widget-wrap"> <div class="textwidget"><p><a href="https://consciouslifenews.com/self-healing-super-powers" rel="noopener" target="_blank"><img border="0" data-recalc-dims="1" src="https://i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/DrSue-3-Secrets-WEBINAR-350x350-1.jpg?ssl=1"/></a></p>
+}</style><ul class="srpw-ul"><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/israeli-woman-tells-the-world-whats-really-going-on-in-israel-with-vaccines-we-are-prisoners-in-our-own-country-tomorrow-it-will-be-at-your-country/11203005/" target="_self">Israeli Woman Tells the World What’s Really Going on In Israel With Vaccines: “We are prisoners in our own country! Tomorrow, it will be at YOUR country!”</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/novel-coronavirus-circulated-undetected-months-before-first-covid-19-cases-in-wuhan-china/11202998/" target="_self">Novel Coronavirus Circulated Undetected Months Before First COVID-19 Cases in Wuhan, China</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/interview-with-vanden-bossche-should-mass-covid-vaccinations-be-stopped/11203002/" target="_self">Interview With Vanden Bossche: Should Mass COVID Vaccinations Be Stopped?</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/israelis-cry-out-to-the-world-to-stop-mandatory-covid-injections-as-lawsuit-is-filed-in-international-criminal-court-over-nuremberg-code-violation/11202992/" target="_self">Israelis Cry Out to the World to Stop Mandatory COVID Injections as Lawsuit is Filed in International Criminal Court Over Nuremberg Code Violation</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/elon-musks-brother-starts-million-garden-movement-to-plant-a-garden-for-every-household-living-in-a-food-desert/11202982/" target="_self">Elon Musk’s Brother Starts ‘Million Garden Movement’ to Plant a Garden For Every Household Living in a Food Desert</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/april-energy-forecast-venus-star-supermoon-and-more/11202978/" target="_self">April Energy Forecast: Venus Star, Supermoon and More!</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/the-extraordinary-diversity-of-et-star-souls-on-and-around-the-earth-2/11170524/" target="_self">The Extraordinary Diversity of ET Star Souls on and Around the Earth</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/indonesian-man-stops-drought-and-brings-fortune-to-village-by-planting-11000-trees-over-19-years/11202968/" target="_self">Indonesian Man Stops Drought And Brings Fortune to Village By Planting 11,000 Trees Over 19 Years</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/lockdowns-the-biggest-public-health-mistake-ever-made/11202962/" target="_self">Lockdowns: The Biggest Public Health Mistake Ever Made?</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/why-thinking-like-a-scientist-is-good-for-you/11202959/" target="_self">Why Thinking Like a Scientist Is Good for You</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/the-grace-of-a-student/11202921/" target="_self">The Grace Of A Student</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/study-reveals-substantial-evidence-live-holographic-universe/11142237/" target="_self">Study Reveals Substantial Evidence That We Live In a Holographic Universe</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/many-worlds-quantum-multiverse/11127927/" target="_self">The Many Worlds of the Quantum Multiverse</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/after-a-year-under-lockdown-will-our-freedoms-survive-the-tyranny-of-covid-19/11202941/" target="_self">After a Year Under Lockdown, Will Our Freedoms Survive the Tyranny of COVID-19?</a><div class="srpw-meta"></div></div></li><li class="srpw-li srpw-clearfix"><div class="srpw-content"><a class="srpw-title" href="https://consciouslifenews.com/people-now-dying-following-the-experimental-johnson-and-johnson-covid-injections/11202937/" target="_self">People Now Dying Following the Experimental Johnson and Johnson COVID Injections</a><div class="srpw-meta"></div></div></li></ul></div><!-- Generated by http://wordpress.org/plugins/smart-recent-posts-widget/ --></div></div><div class="widget widget_text" id="text-98"><div class="widget-wrap"> <div class="textwidget"><p><a href="https://consciouslifenews.com/heal-yourself-now" rel="noopener" target="_blank"><img border="0" data-recalc-dims="1" src="https://i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/Heal-Yourself-Now-350x350-wDates.jpeg?ssl=1"/></a></p>
 </div>
-</div></div><div class="widget widget_text" id="text-97"><div class="widget-wrap"> <div class="textwidget"><p><a href="http://circlingspace.com/intro-free" rel="noopener" target="_blank"><img border="0" data-recalc-dims="1" src="https://i2.wp.com/consciouslifenews.com/wp-content/uploads/2020/12/Circling-Space-Free-Intro.jpg?ssl=1"/></a></p>
+</div></div><div class="widget widget_text" id="text-97"><div class="widget-wrap"> <div class="textwidget"><p><a href="https://consciouslifenews.com/healing-now-mistakes" rel="noopener" target="_blank"><img border="0" data-recalc-dims="1" src="https://i1.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/Top-5-Healing-Mistakes.jpg?ssl=1"/></a></p>
+</div>
+</div></div><div class="widget widget_text" id="text-94"><div class="widget-wrap"> <div class="textwidget"><p><a href="https://consciouslifenews.com/self-healing-super-powers" rel="noopener" target="_blank"><img border="0" data-recalc-dims="1" src="https://i0.wp.com/consciouslifenews.com/wp-content/uploads/2021/03/DrSue-3-Secrets-WEBINAR-350x350-1.jpg?ssl=1"/></a></p>
 </div>
 </div></div><div class="widget widget_text" id="text-95"><div class="widget-wrap"> <div class="textwidget"><p>Find the best <a href="https://www.alternativecasinos.com" rel="noopener" target="_blank">bitcoin casino bonuses</a> available on the internet!<br/>
 Here’s what you need to know before you <a href="https://buyanxietymedicines.com/buy-ativan-online-in-usa/" rel="noopener" target="_blank">buy Ativan online</a>.</p>
@@ -1989,13 +1992,13 @@ var advadsTracking = {"ajaxurl":"https:\/\/consciouslifenews.com\/wp-admin\/admi
 <script src="https://3s9h7h3y0i6u2n9j4h5vgkf1-wpengine.netdna-ssl.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/metronet-profile-picture/js/mpp-frontend.js,wp-content/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/main.js,wp-content/uploads/69/518/public/assets/js/761.js,wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js,wp-content/themes/wp-blossom102/js/external.js,wp-content/themes/wp-blossom102/js/suckerfish.js,wp-content/themes/wp-blossom102/js/suckerfish-cat.js,wp-content/themes/wp-blossom102/js/jquery.mobilemenu.js,wp-content/plugins/optinmonster/assets/js/helper.js" type="text/javascript"></script>
 <script id="milestone-js" src="https://c0.wp.com/p/jetpack/9.5/_inc/build/widgets/milestone/milestone.min.js" type="text/javascript"></script>
 <script data-rocketlazyloadscript="data:text/javascript;base64,KGZ1bmN0aW9uKGQpe3ZhciBzPWQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7cy50eXBlPSJ0ZXh0L2phdmFzY3JpcHQiO3Muc3JjPSJodHRwczovL2Eub21hcHBhcGkuY29tL2FwcC9qcy9hcGkubWluLmpzIjtzLmFzeW5jPXRydWU7cy5pZD0ib21hcGktc2NyaXB0IjtkLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJoZWFkIilbMF0uYXBwZW5kQ2hpbGQocyk7fSkoZG9jdW1lbnQpOw=="></script><script id="wp-embed-js" src="https://c0.wp.com/c/5.6.2/wp-includes/js/wp-embed.min.js" type="text/javascript"></script>
-<script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script defer="" src="https://stats.wp.com/e-202112.js"></script>
 <script>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:9.5',blog:'185858370',post:'0',tz:'-7',srv:'consciouslifenews.com'} ]);
 	_stq.push([ 'clickTrackerInit', '185858370', '0' ]);
 </script>
-<div class="essb_mailform" data-error="Please fill all form fields"><div class="essb_mailform_header"><div class="heading">Send this to a friend</div></div><div class="essb_mailform_content"><input class="essb_mailform_content_input" id="essb_mailform_from" placeholder="Your email" type="text"/><input class="essb_mailform_content_input" id="essb_mailform_from_name" placeholder="Your name" type="text"/><input class="essb_mailform_content_input" id="essb_mailform_to" placeholder="Recipient email" type="text"/><div class="essb_mailform_content_buttons"><button class="essb_mailform_content_button" id="essb_mailform_btn_submit" onclick="essb_mailform_send();">Send</button><button class="essb_mailform_content_button" id="essb_mailform_btn_cancel" onclick="essb_close_mailform(); return false;">Cancel</button></div><input id="essb_mail_salt" type="hidden" value="1732277490"/><input id="essb_mail_instance" type="hidden" value=""/><input id="essb_mail_post" type="hidden" value=""/></div></div><div class="essb_mailform_shadow"></div><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;; po.src = 'https://3s9h7h3y0i6u2n9j4h5vgkf1-wpengine.netdna-ssl.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script><script type="text/javascript"></script> <script type="text/javascript">var omapi_localized = { ajax: 'https://consciouslifenews.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '4a858d7523', slugs: {"mmmwivcwvakqtraj":{"slug":"mmmwivcwvakqtraj","mailpoet":false}} };</script>
+<div class="essb_mailform" data-error="Please fill all form fields"><div class="essb_mailform_header"><div class="heading">Send this to a friend</div></div><div class="essb_mailform_content"><input class="essb_mailform_content_input" id="essb_mailform_from" placeholder="Your email" type="text"/><input class="essb_mailform_content_input" id="essb_mailform_from_name" placeholder="Your name" type="text"/><input class="essb_mailform_content_input" id="essb_mailform_to" placeholder="Recipient email" type="text"/><div class="essb_mailform_content_buttons"><button class="essb_mailform_content_button" id="essb_mailform_btn_submit" onclick="essb_mailform_send();">Send</button><button class="essb_mailform_content_button" id="essb_mailform_btn_cancel" onclick="essb_close_mailform(); return false;">Cancel</button></div><input id="essb_mail_salt" type="hidden" value="1732277490"/><input id="essb_mail_instance" type="hidden" value=""/><input id="essb_mail_post" type="hidden" value=""/></div></div><div class="essb_mailform_shadow"></div><script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;; po.src = 'https://3s9h7h3y0i6u2n9j4h5vgkf1-wpengine.netdna-ssl.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script><script type="text/javascript"></script> <script type="text/javascript">var omapi_localized = { ajax: 'https://consciouslifenews.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '2959f4c0ca', slugs: {"mmmwivcwvakqtraj":{"slug":"mmmwivcwvakqtraj","mailpoet":false}} };</script>
 <script type="text/javascript">var omapi_data = {"wc_cart":[],"object_id":0,"object_key":"","object_type":"","term_ids":[]};</script>
 <script type="text/javascript">var advads_tracking_ads = {};var advads_tracking_urls = [];var advads_gatracking_uids = [];var advads_tracking_methods = [];var advads_tracking_parallel = [];var advads_tracking_linkbases = [];var advads_gatracking_allads = [];var advads_gatracking_anonym = true;</script> - 
 	         		</div>
@@ -2021,7 +2024,7 @@ var advadsTracking = {"ajaxurl":"https:\/\/consciouslifenews.com\/wp-admin\/admi
 	</script>
 <!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: CLN Email OptIn --><div id="om-mmmwivcwvakqtraj-holder"></div><script data-rocketlazyloadscript="data:text/javascript;base64,dmFyIG1tbXdpdmN3dmFrcXRyYWosbW1td2l2Y3d2YWtxdHJhal9wb2xsPWZ1bmN0aW9uKCl7dmFyIHI9MDtyZXR1cm4gZnVuY3Rpb24obixsKXtjbGVhckludGVydmFsKHIpLHI9c2V0SW50ZXJ2YWwobixsKX19KCk7IWZ1bmN0aW9uKGUsdCxuKXtpZihlLmdldEVsZW1lbnRCeUlkKG4pKXttbW13aXZjd3Zha3F0cmFqX3BvbGwoZnVuY3Rpb24oKXtpZih3aW5kb3dbJ29tX2xvYWRlZCddKXtpZighbW1td2l2Y3d2YWtxdHJhail7bW1td2l2Y3d2YWtxdHJhaj1uZXcgT3B0aW5Nb25zdGVyQXBwKCk7cmV0dXJuIG1tbXdpdmN3dmFrcXRyYWouaW5pdCh7InUiOiIxMjQxNS4yNDE1MzciLCJzdGFnaW5nIjowLCJkZXYiOjAsImJldGEiOjB9KTt9fX0sMjUpO3JldHVybjt9dmFyIGQ9ZmFsc2Usbz1lLmNyZWF0ZUVsZW1lbnQodCk7by5pZD1uLG8uc3JjPSJodHRwczovL2Eub21hcHBhcGkuY29tL2FwcC9qcy9hcGkubWluLmpzIixvLmFzeW5jPXRydWUsby5vbmxvYWQ9by5vbnJlYWR5c3RhdGVjaGFuZ2U9ZnVuY3Rpb24oKXtpZighZCl7aWYoIXRoaXMucmVhZHlTdGF0ZXx8dGhpcy5yZWFkeVN0YXRlPT09ImxvYWRlZCJ8fHRoaXMucmVhZHlTdGF0ZT09PSJjb21wbGV0ZSIpe3RyeXtkPW9tX2xvYWRlZD10cnVlO21tbXdpdmN3dmFrcXRyYWo9bmV3IE9wdGluTW9uc3RlckFwcCgpO21tbXdpdmN3dmFrcXRyYWouaW5pdCh7InUiOiIxMjQxNS4yNDE1MzciLCJzdGFnaW5nIjowLCJkZXYiOjAsImJldGEiOjB9KTtvLm9ubG9hZD1vLm9ucmVhZHlzdGF0ZWNoYW5nZT1udWxsO31jYXRjaCh0KXt9fX19Oyhkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgiaGVhZCIpWzBdfHxkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQpLmFwcGVuZENoaWxkKG8pfShkb2N1bWVudCwic2NyaXB0Iiwib21hcGktc2NyaXB0Iik7"></script><!-- / OptinMonster --> <script type="text/javascript">
 		var mmmwivcwvakqtraj_shortcode = true;		</script>
-<script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script defer="" src="https://stats.wp.com/e-202112.js"></script>
 <script>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:9.5',blog:'185858370',post:'0',tz:'-7',srv:'consciouslifenews.com'} ]);

@@ -25,7 +25,7 @@
 <title>DailyKenn</title>
 <!-- deskripsi dan keyword -->
 <link href="//fonts.googleapis.com/css?family=Droid+Sans%7CBenchNine" rel="stylesheet" type="text/css"/>
-<style type="text/css">@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcDRrBZQI.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcBBrBZQI.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcDBrBZQI.woff2)format('woff2');unicode-range:U+1F00-1FFF;}@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcAxrBZQI.woff2)format('woff2');unicode-range:U+0370-03FF;}@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcAhrBZQI.woff2)format('woff2');unicode-range:U+0590-05FF,U+20AA,U+25CC,U+FB1D-FB4F;}@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcDxrBZQI.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcDhrBZQI.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrB.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Coming Soon';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/comingsoon/v12/qWcuB6mzpYL7AJ2VfdQR1t-VWDk.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}@font-face{font-family:'Cuprum';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/cuprum/v14/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6VjbYJwQj.woff2)format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;}@font-face{font-family:'Cuprum';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/cuprum/v14/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6Vj_YJwQj.woff2)format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;}@font-face{font-family:'Cuprum';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/cuprum/v14/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6VjTYJwQj.woff2)format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB;}@font-face{font-family:'Cuprum';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/cuprum/v14/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6VjXYJwQj.woff2)format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;}@font-face{font-family:'Cuprum';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/cuprum/v14/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6VjvYJw.woff2)format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;}</style>
+<style type="text/css">@font-face{font-family:'Arimo';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/arimo/v17/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxsBw.ttf)format('truetype');}@font-face{font-family:'Coming Soon';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/comingsoon/v12/qWcuB6mzpYL7AJ2VfdQR1u-S.ttf)format('truetype');}@font-face{font-family:'Cuprum';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/cuprum/v14/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6Zjw.ttf)format('truetype');}</style>
 <style id="page-skin-1" type="text/css"><!--
 /*
 -----------------------------------------------
@@ -343,7 +343,7 @@ function hoverxa(){$(".post").hover(function(){$(".jump-link",this).animate({opa
 function accordx(b){$(b+" .widget-content").hide();$(b+" h2:last").addClass("active").next().slideDown("slow");$(b+" h2").css("cursor","pointer").click(function(){if($(this).next().is(":hidden")){$(b+" h2").removeClass("active").next().slideUp("slow");$(this).toggleClass("active").next().slideDown("slow")}})};
 //]]>
 </script>
-<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=9199527610828417213&amp;zx=b4fda70d-31b8-4885-979b-d6dbe0a44dd7" media="none" onload="if(media!='all')media='all'" rel="stylesheet"><noscript><link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=9199527610828417213&amp;zx=b4fda70d-31b8-4885-979b-d6dbe0a44dd7" rel="stylesheet"/></noscript>
+<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=9199527610828417213&amp;zx=cdcd02d6-f505-4034-97dc-93ec6b3cf8fd" media="none" onload="if(media!='all')media='all'" rel="stylesheet"><noscript><link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=9199527610828417213&amp;zx=cdcd02d6-f505-4034-97dc-93ec6b3cf8fd" rel="stylesheet"/></noscript>
 <!-- data-ad-client=ca-pub-9552062901085930 -->
 </link></head>
 <body itemscope="" itemtype="http://schema.org/WebPage">
@@ -362,7 +362,7 @@ Tired of Drudge? In real time... Here are the 200 latest posts from 100 top cons
 </a>
 <div class="descriptionwrapper">
 <p class="description"><span><br/>
-| <a href="https://thedailykenn.blogspot.com/p/twitter-patriots.html">Twitter's Top Patriots ▼</a>  
+  
 | <a href="https://thedailykenn.blogspot.com/p/techdailykenn.html">Tech News ▼</a> | <a href="https://thedailykenn.blogspot.com/"> DailyKenn.com ▼</a> | <a href="https://kenndailymoney.blogspot.com/"> 
 
 Money News ▼</a> 
@@ -404,24 +404,24 @@ Money News ▼</a>
 <div class="blog-posts hfeed">
 <!--Can't find substitution for tag [defaultAdStart]-->
 <div class="date-outer">
-<div class="date-header">Tuesday, March 16, 2021</div>
+<div class="date-header">Friday, March 26, 2021</div>
 <div class="date-posts">
 <div class="post-outer">
-<article class="post hentry" id="7605775669629040485" itemscope="" itemtype="http://schema.org/BlogPosting">
-<a class="thumbx" href="https://thedailykenn.blogspot.com/2021/03/how-hr-1-will-undermine-democracy.html" title="How HR-1 will undermine democracy"><img alt="How HR-1 will undermine democracy" class="post-thumbnail" src="https://1.bp.blogspot.com/-LcCCnHReHZw/YFBrz5PYK-I/AAAAAAABEVY/wMRW-p0MDAomnKJGC2T7MvyOOgLRiTuUgCNcBGAsYHQ/s72-c/03c.png"/></a>
+<article class="post hentry" id="3887140376069139437" itemscope="" itemtype="http://schema.org/BlogPosting">
+<a class="thumbx" href="https://thedailykenn.blogspot.com/2021/03/bidens-news-conference-cheat-sheets.html" title="Biden's news conference cheat sheets caught on camera"><img alt="Biden's news conference cheat sheets caught on camera" class="post-thumbnail" src="https://1.bp.blogspot.com/-awhOAuicIH0/YF2MZH75RCI/AAAAAAABEbw/tRNaS77rNywdCy1me2sTVdzjdbdqW264ACNcBGAsYHQ/s72-c/03c.png"/></a>
 <h2 class="post-title entry-title" itemprop="name headline">
-<a href="https://thedailykenn.blogspot.com/2021/03/how-hr-1-will-undermine-democracy.html" itemprop="url">How HR-1 will undermine democracy</a>
+<a href="https://thedailykenn.blogspot.com/2021/03/bidens-news-conference-cheat-sheets.html" itemprop="url">Biden's news conference cheat sheets caught on camera</a>
 </h2>
 <div class="post-header" style="position:absolute;left:-9999px">
 <div class="post-header-line-1"></div>
 </div>
-<div class="post-body entry-content" id="post-body-7605775669629040485">
+<div class="post-body entry-content" id="post-body-3887140376069139437">
 <p>
- DailyKenn.com — HR 1 is that monstrous legislation meant to move the goal posts of American elections to favor Democrats. It is titled '...
+ DailyKenn.com — Joe Biden appears to have lost his capacity for impromptu speaking. Biden's reliance on teleprompters in the past has b...
 </p>
 </div>
 <div class="jump-link">
-<a href="https://thedailykenn.blogspot.com/2021/03/how-hr-1-will-undermine-democracy.html#more" title="How HR-1 will undermine democracy">Read more »</a>
+<a href="https://thedailykenn.blogspot.com/2021/03/bidens-news-conference-cheat-sheets.html#more" title="Biden's news conference cheat sheets caught on camera">Read more »</a>
 </div>
 <span class="datex">
 <strong></strong>
@@ -433,21 +433,21 @@ Money News ▼</a>
 </span>
 <span class="post-timestamp">
 at
-<a class="timestamp-link" href="https://thedailykenn.blogspot.com/2021/03/how-hr-1-will-undermine-democracy.html" rel="bookmark" title="permanent link"><abbr class="updated published" title="2021-03-16T04:27:00-04:00">March 16, 2021</abbr></a>
+<a class="timestamp-link" href="https://thedailykenn.blogspot.com/2021/03/bidens-news-conference-cheat-sheets.html" rel="bookmark" title="permanent link"><abbr class="updated published" title="2021-03-26T03:23:00-04:00">March 26, 2021</abbr></a>
 </span>
 <span class="post-comment-link">
-<a class="comment-link" href="https://thedailykenn.blogspot.com/2021/03/how-hr-1-will-undermine-democracy.html#comment-form" onclick="">0
+<a class="comment-link" href="https://thedailykenn.blogspot.com/2021/03/bidens-news-conference-cheat-sheets.html#comment-form" onclick="">0
 comments</a>
 </span>
 <span class="post-icons">
 <span class="item-control blog-admin pid-483687494">
-<a href="https://www.blogger.com/post-edit.g?blogID=9199527610828417213&amp;postID=7605775669629040485&amp;from=pencil" title="Edit Post">
+<a href="https://www.blogger.com/post-edit.g?blogID=9199527610828417213&amp;postID=3887140376069139437&amp;from=pencil" title="Edit Post">
 <img alt="" class="icon-action" height="18" src="//img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
 </a>
 </span>
 </span>
 <div class="post-share-buttons goog-inline-block">
-<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=7605775669629040485&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=7605775669629040485&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=7605775669629040485&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=7605775669629040485&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a>
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=3887140376069139437&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=3887140376069139437&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=3887140376069139437&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=3887140376069139437&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a>
 </div>
 </div>
 <div class="post-footer-line post-footer-line-2"><span class="post-labels">
@@ -460,21 +460,21 @@ comments</a>
 </article>
 </div>
 <div class="post-outer">
-<article class="post hentry" id="4068292372899994357" itemscope="" itemtype="http://schema.org/BlogPosting">
-<a class="thumbx" href="https://thedailykenn.blogspot.com/2021/03/vatican-refuses-to-bless-same-sex.html" title="Vatican refuses to 'bless' same-sex unions; calling it..."><img alt="Vatican refuses to 'bless' same-sex unions; calling it..." class="post-thumbnail" src="https://1.bp.blogspot.com/-f2PT9hfZJSw/YFBmWkigW4I/AAAAAAABEVQ/eD_geH5tGp8H22WgsTCcylUHeW67QS5kACNcBGAsYHQ/s72-c/02b.png"/></a>
+<article class="post hentry" id="3374085187255416219" itemscope="" itemtype="http://schema.org/BlogPosting">
+<a class="thumbx" href="https://thedailykenn.blogspot.com/2021/03/arkansas-bans-biological-males-from.html" title="Arkansas bans biological males from women's sports"><img alt="Arkansas bans biological males from women's sports" class="post-thumbnail" src="https://1.bp.blogspot.com/-DnOes0Ympao/YF2Ju_9i5zI/AAAAAAABEbg/R22SHsBsx7ASAKQjOQ-DudOfHytVL5SsQCNcBGAsYHQ/s72-c/04a.png"/></a>
 <h2 class="post-title entry-title" itemprop="name headline">
-<a href="https://thedailykenn.blogspot.com/2021/03/vatican-refuses-to-bless-same-sex.html" itemprop="url">Vatican refuses to 'bless' same-sex unions; calling it...</a>
+<a href="https://thedailykenn.blogspot.com/2021/03/arkansas-bans-biological-males-from.html" itemprop="url">Arkansas bans biological males from women's sports</a>
 </h2>
 <div class="post-header" style="position:absolute;left:-9999px">
 <div class="post-header-line-1"></div>
 </div>
-<div class="post-body entry-content" id="post-body-4068292372899994357">
+<div class="post-body entry-content" id="post-body-3374085187255416219">
 <p>
- DailyKenn.com — Catholic clergy do not have the authority to bless gay unions. That is a decision emanating from the Vatican where its orth...
+ DailyKenn.com — Persons born as males will not be allowed to participate in women's and girl's sports in Arkansas. Legislation was ...
 </p>
 </div>
 <div class="jump-link">
-<a href="https://thedailykenn.blogspot.com/2021/03/vatican-refuses-to-bless-same-sex.html#more" title="Vatican refuses to 'bless' same-sex unions; calling it...">Read more »</a>
+<a href="https://thedailykenn.blogspot.com/2021/03/arkansas-bans-biological-males-from.html#more" title="Arkansas bans biological males from women's sports">Read more »</a>
 </div>
 <span class="datex">
 <strong></strong>
@@ -486,21 +486,21 @@ comments</a>
 </span>
 <span class="post-timestamp">
 at
-<a class="timestamp-link" href="https://thedailykenn.blogspot.com/2021/03/vatican-refuses-to-bless-same-sex.html" rel="bookmark" title="permanent link"><abbr class="updated published" title="2021-03-16T04:04:00-04:00">March 16, 2021</abbr></a>
+<a class="timestamp-link" href="https://thedailykenn.blogspot.com/2021/03/arkansas-bans-biological-males-from.html" rel="bookmark" title="permanent link"><abbr class="updated published" title="2021-03-26T03:14:00-04:00">March 26, 2021</abbr></a>
 </span>
 <span class="post-comment-link">
-<a class="comment-link" href="https://thedailykenn.blogspot.com/2021/03/vatican-refuses-to-bless-same-sex.html#comment-form" onclick="">0
+<a class="comment-link" href="https://thedailykenn.blogspot.com/2021/03/arkansas-bans-biological-males-from.html#comment-form" onclick="">0
 comments</a>
 </span>
 <span class="post-icons">
 <span class="item-control blog-admin pid-483687494">
-<a href="https://www.blogger.com/post-edit.g?blogID=9199527610828417213&amp;postID=4068292372899994357&amp;from=pencil" title="Edit Post">
+<a href="https://www.blogger.com/post-edit.g?blogID=9199527610828417213&amp;postID=3374085187255416219&amp;from=pencil" title="Edit Post">
 <img alt="" class="icon-action" height="18" src="//img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
 </a>
 </span>
 </span>
 <div class="post-share-buttons goog-inline-block">
-<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=4068292372899994357&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=4068292372899994357&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=4068292372899994357&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=4068292372899994357&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a>
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=3374085187255416219&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=3374085187255416219&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=3374085187255416219&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=3374085187255416219&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a>
 </div>
 </div>
 <div class="post-footer-line post-footer-line-2"><span class="post-labels">
@@ -513,21 +513,21 @@ comments</a>
 </article>
 </div>
 <div class="post-outer">
-<article class="post hentry" id="8661160233810514196" itemscope="" itemtype="http://schema.org/BlogPosting">
-<a class="thumbx" href="https://thedailykenn.blogspot.com/2021/03/decomposing-george-floyd-martyrdom-myth.html" title="Decomposing the George Floyd martyrdom myth..."><img alt="Decomposing the George Floyd martyrdom myth..." class="post-thumbnail" src="https://1.bp.blogspot.com/-LlhjkzN69Wc/YFBhoFVHVOI/AAAAAAABEVI/Qb6CT1jG80wunE_cUbyeNUiUNX1bM1C6ACNcBGAsYHQ/s72-c/01a.png"/></a>
+<article class="post hentry" id="8735305464370363522" itemscope="" itemtype="http://schema.org/BlogPosting">
+<a class="thumbx" href="https://thedailykenn.blogspot.com/2021/03/trump-wins-big-in-georgia-with-new.html" title="Trump wins big in Georgia with new secure election law"><img alt="Trump wins big in Georgia with new secure election law" class="post-thumbnail" src="https://1.bp.blogspot.com/-oWh2LaUlenw/YF2DlREIXII/AAAAAAABEbY/v6PBotp4RKUJFNeqjCTOWFRaRizxPZJOACNcBGAsYHQ/s72-c/01a.png"/></a>
 <h2 class="post-title entry-title" itemprop="name headline">
-<a href="https://thedailykenn.blogspot.com/2021/03/decomposing-george-floyd-martyrdom-myth.html" itemprop="url">Decomposing the George Floyd martyrdom myth...</a>
+<a href="https://thedailykenn.blogspot.com/2021/03/trump-wins-big-in-georgia-with-new.html" itemprop="url">Trump wins big in Georgia with new secure election law</a>
 </h2>
 <div class="post-header" style="position:absolute;left:-9999px">
 <div class="post-header-line-1"></div>
 </div>
-<div class="post-body entry-content" id="post-body-8661160233810514196">
+<div class="post-body entry-content" id="post-body-8735305464370363522">
 <p>
-   DailyKenn.com — Political activists love martyrs because they channel human emotion into action. The far-left, however, has a dearth of m...
+ DailyKenn.com — President Donald Trump scored a major victory in Georgia where a new election law promises to enhance fair and secure elect...
 </p>
 </div>
 <div class="jump-link">
-<a href="https://thedailykenn.blogspot.com/2021/03/decomposing-george-floyd-martyrdom-myth.html#more" title="Decomposing the George Floyd martyrdom myth...">Read more »</a>
+<a href="https://thedailykenn.blogspot.com/2021/03/trump-wins-big-in-georgia-with-new.html#more" title="Trump wins big in Georgia with new secure election law">Read more »</a>
 </div>
 <span class="datex">
 <strong></strong>
@@ -539,21 +539,21 @@ comments</a>
 </span>
 <span class="post-timestamp">
 at
-<a class="timestamp-link" href="https://thedailykenn.blogspot.com/2021/03/decomposing-george-floyd-martyrdom-myth.html" rel="bookmark" title="permanent link"><abbr class="updated published" title="2021-03-16T03:37:00-04:00">March 16, 2021</abbr></a>
+<a class="timestamp-link" href="https://thedailykenn.blogspot.com/2021/03/trump-wins-big-in-georgia-with-new.html" rel="bookmark" title="permanent link"><abbr class="updated published" title="2021-03-26T02:48:00-04:00">March 26, 2021</abbr></a>
 </span>
 <span class="post-comment-link">
-<a class="comment-link" href="https://thedailykenn.blogspot.com/2021/03/decomposing-george-floyd-martyrdom-myth.html#comment-form" onclick="">0
+<a class="comment-link" href="https://thedailykenn.blogspot.com/2021/03/trump-wins-big-in-georgia-with-new.html#comment-form" onclick="">0
 comments</a>
 </span>
 <span class="post-icons">
 <span class="item-control blog-admin pid-483687494">
-<a href="https://www.blogger.com/post-edit.g?blogID=9199527610828417213&amp;postID=8661160233810514196&amp;from=pencil" title="Edit Post">
+<a href="https://www.blogger.com/post-edit.g?blogID=9199527610828417213&amp;postID=8735305464370363522&amp;from=pencil" title="Edit Post">
 <img alt="" class="icon-action" height="18" src="//img2.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
 </a>
 </span>
 </span>
 <div class="post-share-buttons goog-inline-block">
-<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=8661160233810514196&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=8661160233810514196&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=8661160233810514196&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=8661160233810514196&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a>
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=8735305464370363522&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=8735305464370363522&amp;target=blog" onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=8735305464370363522&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=9199527610828417213&amp;postID=8735305464370363522&amp;target=facebook" onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a>
 </div>
 </div>
 <div class="post-footer-line post-footer-line-2"><span class="post-labels">
@@ -570,7 +570,7 @@ comments</a>
 </div>
 <div class="blog-pager" id="blog-pager">
 <span id="blog-pager-older-link">
-<a class="blog-pager-older-link" href="https://thedailykenn.blogspot.com/search?updated-max=2021-03-16T03:37:00-04:00&amp;max-results=3" id="Blog1_blog-pager-older-link" title="Older Posts">Older Posts</a>
+<a class="blog-pager-older-link" href="https://thedailykenn.blogspot.com/search?updated-max=2021-03-26T02:48:00-04:00&amp;max-results=3" id="Blog1_blog-pager-older-link" title="Older Posts">Older Posts</a>
 </span>
 </div>
 <div class="clear"></div>
@@ -609,32 +609,34 @@ Subscribe to:
 </style>
 <div class="row">
 <div class="column" style="background-color:#ffffff;">
-<!--left column*********************************-->
-<a href="https://fox59.com/news/crimetracker/family-stimulus-check-argument-led-to-indianapolis-quadruple-murder/">
-• Family: Stimulus check argument led to Indianapolis quadruple murder
+<a href="https://www.jpost.com/diaspora/pollard-jews-will-always-have-dual-loyalty-and-should-consider-spying-for-israel-663285" target='_new"'>
+• Pollard: Jews ‘will always have dual loyalty’ &amp; should consider spying for Israel ...
 </a><p>
-<a href="https://www.wkms.org/post/grammys-2021-10-takeaways-big-weird-night#stream/0">
-• Grammys 2021: 10 Takeaways From A Big, Weird Night
+<a href="http://www.thesmokinggun.com/documents/crime/big-mac-assault-case-375698" target='_new"'>
+• Baby daddy punches child's mom who got wrong McDonald's order...
 </a><p>
-<a href="https://www.yahoo.com/news/capitol-insurrection-two-men-charged-brian-sicknick-151940787.html">
-• 2 charged after death of cop at Jan 6 Capitol protest
-</a>
+<a href="https://newyork.cbslocal.com/2021/03/25/headmaster-john-holian-resigns/" target='_new"'>
+• Black boy forced to kneel while apologizing to teacher...
+</a><p>
 <p><div class="feedgrabbr_widget" id="fgid_70a955536c72179f3aeb2c6e4"></div>
 <script>if (typeof (fg_widgets) === "undefined") fg_widgets = new Array(); fg_widgets.push("fgid_70a955536c72179f3aeb2c6e4");</script>
 <script async="" src="https://www.feedgrabbr.com/widget/fgwidget.js"></script>
-</p></p></p><!--!left--></div>
+</p></p></p></p></div>
 <div class="column" style="background-color:#ffffff;">
 <!--right column**************************************--><!--!right-->
-<a href="https://www.vanityfair.com/hollywood/2021/03/oscar-nominations-2021-full-list">
-• Oscar nominations full list
+<a href="https://www.theverge.com/2021/3/25/22350049/twitter-chrissy-teigen-quits-abuse-harassment" target='_new"'>
+• Chrissy Teigen quits Twitter citing negativity...
 </a><p>
-<a href="https://www.cnbc.com/2021/03/13/crude-to-100-trader-makes-the-case-for-a-spike-in-oil-prices.html">
-• Crude to $100? Trader makes the case...
-</a>
+<a href="https://mooresvilletribune.com/news/national/arrested-development-actor-jessica-walter-dies-at-80/article_906d0134-cc42-536a-ac31-61689667c138.html" target='_new"'>
+• 'Arrested Development' actress Jessica Walter dead at 80 ...
+</a><p>
+<a href="https://www.bloomberg.com/opinion/articles/2021-03-24/when-will-covid-end-we-must-start-planning-for-a-permanent-pandemic" target='_new"'>
+• Pandemic is  permanent; herd immunity is out of reach ...
+</a><p>
 <p><div class="feedgrabbr_widget" id="fgid_ffd38c5e33d77aefe85837a1b"></div>
 <script>if (typeof (fg_widgets) === "undefined") fg_widgets = new Array(); fg_widgets.push("fgid_ffd38c5e33d77aefe85837a1b");</script>
 <script async="" src="https://www.feedgrabbr.com/widget/fgwidget.js"></script>
-</p></p></div></div>
+</p></p></p></p></div></div>
 <center><font size="1">
 Advertisement
 </font><br>
@@ -854,7 +856,7 @@ How to secure your website with Vigilox
 <h2 class="title">Kenn's 100 Top Conservative Sites</h2>
 <div class="widget-content">
 <a href="https://thedailykenn.blogspot.com/p/top-100-conservative-news-sites.html">
-<font size="3"><b>Here's the list ▼</b></font></a>
+<font size="3"><b>Here's the list ►</b></font></a>
 </div>
 <div class="clear"></div>
 <span class="widget-item-control">
@@ -1068,12 +1070,12 @@ jQuery(window).smartresize(isonyax);
 (function(e){var h="http://3.bp.blogspot.com/-iz_MSJzLKJ4/UYl-et5D0iI/AAAAAAAAJDE/TtbzqCN-45I/s000/ajax-loader.gif";var i="";var b=null;var a="div.blog-posts";var d=false;var g=e(window);var k=e(document);var f=/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi;function c(m){e.getScript("http://"+m+".disqus.com/blogger_index.js")}function j(){if(d){return}d=true;if(!i){b.hide();return}b.find("a").hide();b.find("img").show();e.get(i,"html").done(function(o){var m=e("<div></div>").append(o.replace(f,""));var n=m.find("a.blog-pager-older-link");if(n){i=n.attr("href")}else{i="";b.hide()}var p=m.find(a).children(".date-outer");e(a).append(p);resizeThumb("Blog1",200);hoverxa();datenya();if(window._gaq){window._gaq.push(["_trackPageview",i])}if(window.gapi&&window.gapi.plusone&&window.gapi.plusone.go){window.gapi.plusone.go()}if(window.disqus_shortname){c(window.disqus_shortname)}if(window.FB&&window.FB.XFBML&&window.FB.XFBML.parse){window.FB.XFBML.parse()}e(a).isotope("insert",p);setTimeout(function(){e(a).isotope("insert",p)},1000);b.find("img").hide();b.find("a").show();d=false})}function l(){if(_WidgetManager._GetAllData().blog.pageType=="item"){return}i=e("a.blog-pager-older-link").attr("href");if(!i){return}var n=e('<a class="loadpost" href="javascript:;">Load more posts</a>');n.click(j);var m=e('<img class="imgload" src="'+h+'" style="display: none;">');b=e('<div style="text-align: center; font-size: 140%;"></div>');b.append(n);b.append(m);b.insertBefore(e("#blog-pager"));e("#blog-pager").hide()}e(document).ready(l)})(jQuery);
 //]]>
 </script>
-<script src="https://www.blogger.com/static/v1/widgets/1664339785-widgets.js" type="text/javascript"></script>
+<script src="https://www.blogger.com/static/v1/widgets/2080820689-widgets.js" type="text/javascript"></script>
 <script type="text/javascript">
-window['__wavt'] = 'AOuZoY5b0Dhx0IWMWBHA9RS-vuFCXwm7Uw:1615943167512';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d9199527610828417213','//thedailykenn.blogspot.com/','9199527610828417213');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '9199527610828417213', 'title': 'DailyKenn', 'url': 'https://thedailykenn.blogspot.com/', 'canonicalUrl': 'https://thedailykenn.blogspot.com/', 'homepageUrl': 'https://thedailykenn.blogspot.com/', 'searchUrl': 'https://thedailykenn.blogspot.com/search', 'canonicalHomepageUrl': 'https://thedailykenn.blogspot.com/', 'blogspotFaviconUrl': 'https://thedailykenn.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22DailyKenn - Atom\x22 href\x3d\x22https://thedailykenn.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22DailyKenn - RSS\x22 href\x3d\x22https://thedailykenn.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22DailyKenn - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/9199527610828417213/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-9552062901085930', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/a30fc9a250ee66b9', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'DailyKenn', 'metaDescription': ''}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'DailyKenn', 'description': '', 'url': 'https://thedailykenn.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+window['__wavt'] = 'AOuZoY4RCLmYrP0h0JffXUGtKk2tYUKFPA:1616792385599';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d9199527610828417213','//thedailykenn.blogspot.com/','9199527610828417213');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '9199527610828417213', 'title': 'DailyKenn', 'url': 'https://thedailykenn.blogspot.com/', 'canonicalUrl': 'https://thedailykenn.blogspot.com/', 'homepageUrl': 'https://thedailykenn.blogspot.com/', 'searchUrl': 'https://thedailykenn.blogspot.com/search', 'canonicalHomepageUrl': 'https://thedailykenn.blogspot.com/', 'blogspotFaviconUrl': 'https://thedailykenn.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22DailyKenn - Atom\x22 href\x3d\x22https://thedailykenn.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22DailyKenn - RSS\x22 href\x3d\x22https://thedailykenn.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22DailyKenn - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/9199527610828417213/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-9552062901085930', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'adsenseAutoAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/12fac61901954037', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'DailyKenn', 'metaDescription': ''}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'DailyKenn', 'description': '', 'url': 'https://thedailykenn.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
-_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1253365367-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/1050234869-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1933366796-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/1050234869-lightbox_bundle.css'}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'main', document.getElementById('HTML5'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar-atas', document.getElementById('Image1'), {'resize': false}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar-atas', document.getElementById('HTML7'), {}, 'displayModeFull'));

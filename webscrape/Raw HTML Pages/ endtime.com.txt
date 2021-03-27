@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+
+<html class="html_stretched responsive av-preloader-disabled av-default-lightbox html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking html_header_topbar_active html_header_transparency html_mobile_menu_tablet html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch html_minimal_header html_minimal_header_shadow html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_4 av-cookies-no-cookie-consent av-no-preview html_text_menu_active" lang="en-US">
+<head>
+<meta charset="utf-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"9459c680af",applicationID:"218706231"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e("handle"),a=e(7),c=e(8),f=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(e,t){s[t]=i(p+t,!0,"api")}),s.addPageAction=i(p+"addPageAction",!0),s.setCurrentRouteName=i(p+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i="function"==typeof t;return o(l+"tracer",[u.now(),e,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],n),e}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(9);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function r(e){return!(!e||!e.protocol||"file:"===e.protocol)}t.exports=r},{}],4:[function(e,t,n){function r(e,t){var n=e.getEntries();n.forEach(function(e){"first-paint"===e.name?d("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&d("timing",["fcp",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d("lcp",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d("cls",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d("timing",["fi",t,n])}}function c(e){d("pageHide",[p.now(),e])}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,s,d=e("handle"),p=e("loader"),l=e(6),m=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:["paint"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:["largest-contentful-paint"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:"layout-shift",buffered:!0})}catch(v){}}if("addEventListener"in document){var g=!1,w=["click","keydown","mousedown","pointerdown","touchstart"];w.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],5:[function(e,t,n){function r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var n=o.split("."),r=t.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],6:[function(e,t,n){function r(e){function t(){e(a&&document[a]?document[a]:document[i]?"hidden":"visible")}"addEventListener"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;"undefined"!=typeof document.hidden?(i="hidden",o="visibilitychange",a="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",o="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",o="webkitvisibilitychange",a="webkitVisibilityState")},{}],7:[function(e,t,n){function r(e,t){var n=[],r="",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],8:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return o}t.exports=r},{}],9:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function i(e){function t(e){return e&&e instanceof r?e:e?u(e,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){e&&a&&e(n,r,i);for(var c=t(i),f=v(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[h[n]];return p&&p.push([b,n,r,c]),c}}function o(e,t){y[e]=v(e).concat(t)}function m(e,t){var n=y[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function v(e){return y[e]||[]}function g(e){return p[e]=p[e]||i(n)}function w(e,t){s(e,function(e,n){t=t||"feature",h[n]=t,t in d||(d[t]=[])})}var y={},h={},b={on:o,addEventListener:o,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:w,abort:c,aborted:!1};return b}function o(e){return u(e,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=e("gos"),s=e(7),d={},p={},l=t.exports=i();t.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(e,t,n){function r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e("ee").get("handle");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!E++){var e=x.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c("mark",["onload",n+x.offset],null,"api"),c("timing",["load",n]);var r=l.createElement("script");r.src="https://"+e.agent,t.parentNode.insertBefore(r,t)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+x.offset],null,"api")}var a=e(2),c=e("handle"),f=e(7),u=e("ee"),s=e(5),d=e(3),p=window,l=p.document,m="addEventListener",v="attachEvent",g=p.XMLHttpRequest,w=g&&g.prototype;if(d(p.location)){NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:g,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1208.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:b,userAgent:s};e(1),e(4),l[m]?(l[m]("DOMContentLoaded",o,!1),p[m]("load",r,!1)):(l[v]("onreadystatechange",i),p[v]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var E=0}},{}],"wrap-function":[function(e,t,n){function r(e,t){function n(t,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],e)}c(n+"start",[o,a,f],s,u);try{return p=t.apply(a,o)}catch(m){throw c(n+"err",[o,a,m],s,u),m}finally{c(n+"end",[o,a,p],s,u)}}return a(t)?t:(n||(n=""),nrWrapper[p]=t,o(t,nrWrapper,e),nrWrapper)}function r(e,t,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<t.length;u++)f=t[u],c=e[f],a(c)||(e[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!m||t){var c=m;m=!0;try{e.emit(n,r,o,t,a)}catch(f){i([f,n,r,o],e)}m=c}}return e||(e=s),n.inPlace=r,n.flag=p,n}function i(e,t){t||(t=s);try{t.emit("internal-error",e)}catch(n){}}function o(e,t,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(e);return r.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return e[n]=t,t}})}),t}catch(o){i([o],n)}for(var a in e)l.call(e,a)&&(t[a]=e[a]);return t}function a(e){return!(e&&e instanceof Function&&e.apply&&!e[p])}function c(e,t){var n=t(e);return n[p]=e,o(e,n,s),n}function f(e,t,n){var r=e[t];e[t]=c(r,n)}function u(){for(var e=arguments.length,t=new Array(e),n=0;n<e;++n)t[n]=arguments[n];return t}var s=e("ee"),d=e(8),p="nr@original",l=Object.prototype.hasOwnProperty,m=!1;t.exports=r,t.exports.wrapFunction=c,t.exports.wrapInPlace=f,t.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<!-- mobile setting -->
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<!-- Scripts/CSS and wp_head hook -->
+<!-- This site is optimized with the Yoast SEO Premium plugin v14.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Endtime Ministries | End of the Age | Irvin Baxter and Dave Robbins</title>
+<meta content="Endtime Ministries with Irvin Baxter and Dave Robbins. Home of End of the Age TV and Radio, and Endtime Magazine. Your place for Bible prophecy in the news because the end time is now!" name="description">
+<meta content="index, follow" name="robots"/>
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="googlebot"/>
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="bingbot"/>
+<link href="https://endtime.com/home-2/" rel="canonical"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<meta content="Endtime Ministries | End of the Age | Irvin Baxter and Dave Robbins" property="og:title"/>
+<meta content="Endtime Ministries with Irvin Baxter and Dave Robbins. Home of End of the Age TV and Radio, and Endtime Magazine. Your place for Bible prophecy in the news because the end time is now!" property="og:description"/>
+<meta content="https://endtime.com/home-2/" property="og:url"/>
+<meta content="Endtime Ministries | End of the Age" property="og:site_name"/>
+<meta content="https://www.facebook.com/endtimeinc" property="article:publisher"/>
+<meta content="2021-03-25T19:05:33+00:00" property="article:modified_time"/>
+<meta content="https://endtime.com/wp-content/uploads/2018/04/End_of_the_Age_iTunes_Graphic-1024x1024.jpg" property="og:image"/>
+<meta content="1024" property="og:image:width"/>
+<meta content="1024" property="og:image:height"/>
+<meta content="193892327844122" property="fb:app_id"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@EndtimeInc" name="twitter:creator"/>
+<meta content="@EndtimeInc" name="twitter:site"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://endtime.com/#organization","name":"Endtime Ministries","url":"https://endtime.com/","sameAs":["https://www.facebook.com/endtimeinc","https://www.instagram.com/endtimeinc/","https://www.youtube.com/user/endtimeministries","https://en.wikipedia.org/wiki/Endtime_Ministries","https://twitter.com/EndtimeInc"],"logo":{"@type":"ImageObject","@id":"https://endtime.com/#logo","inLanguage":"en-US","url":"https://endtime.com/wp-content/uploads/2019/10/et-logo.png","width":237,"height":237,"caption":"Endtime Ministries"},"image":{"@id":"https://endtime.com/#logo"}},{"@type":"WebSite","@id":"https://endtime.com/#website","url":"https://endtime.com/","name":"Endtime Ministries | End of the Age","description":"The Endtime is Now!","publisher":{"@id":"https://endtime.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://endtime.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://endtime.com/home-2/#webpage","url":"https://endtime.com/home-2/","name":"Endtime Ministries | End of the Age | Irvin Baxter and Dave Robbins","isPartOf":{"@id":"https://endtime.com/#website"},"about":{"@id":"https://endtime.com/#organization"},"datePublished":"2017-04-16T23:41:36+00:00","dateModified":"2021-03-25T19:05:33+00:00","description":"Endtime Ministries with Irvin Baxter and Dave Robbins. Home of End of the Age TV and Radio, and Endtime Magazine. Your place for Bible prophecy in the news because the end time is now!","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://endtime.com/home-2/"]}]}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+<link href="//endtime.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://endtime.com/feed/" rel="alternate" title="Endtime Ministries | End of the Age » Feed" type="application/rss+xml"/>
+<link href="https://endtime.com/comments/feed/" rel="alternate" title="Endtime Ministries | End of the Age » Comments Feed" type="application/rss+xml"/>
+<link href="https://endtime.com/events/?ical=1" rel="alternate" title="Endtime Ministries | End of the Age » iCal Feed" type="text/calendar"/>
+<link href="https://endtime.com/home-2/feed/" rel="alternate" title="Endtime Ministries | End of the Age » Home Comments Feed" type="application/rss+xml"/>
+<!-- google webfont font replacement -->
+<script type="text/javascript">
+
+				(function() {
+					
+					/*	check if webfonts are disabled by user setting via cookie - or user must opt in.	*/
+					var html = document.getElementsByTagName('html')[0];
+					var cookie_check = html.className.indexOf('av-cookies-needs-opt-in') >= 0 || html.className.indexOf('av-cookies-can-opt-out') >= 0;
+					var allow_continue = true;
+					var silent_accept_cookie = html.className.indexOf('av-cookies-user-silent-accept') >= 0;
+
+					if( cookie_check && ! silent_accept_cookie )
+					{
+						if( ! document.cookie.match(/aviaCookieConsent/) || html.className.indexOf('av-cookies-session-refused') >= 0 )
+						{
+							allow_continue = false;
+						}
+						else
+						{
+							if( ! document.cookie.match(/aviaPrivacyRefuseCookiesHideBar/) )
+							{
+								allow_continue = false;
+							}
+							else if( ! document.cookie.match(/aviaPrivacyEssentialCookiesEnabled/) )
+							{
+								allow_continue = false;
+							}
+							else if( document.cookie.match(/aviaPrivacyGoogleWebfontsDisabled/) )
+							{
+								allow_continue = false;
+							}
+						}
+					}
+					
+					if( allow_continue )
+					{
+						var f = document.createElement('link');
+					
+						f.type 	= 'text/css';
+						f.rel 	= 'stylesheet';
+						f.href 	= '//fonts.googleapis.com/css?family=Lato:300,400,700%7COpen+Sans:400,600';
+						f.id 	= 'avia-google-webfont';
+
+						document.getElementsByTagName('head')[0].appendChild(f);
+					}
+				})();
+			
+			</script>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/endtime.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://endtime.com/wp-content/themes/enfold/css/grid.css?ver=4.7.5" id="avia-grid-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/css/base.css?ver=4.7.5" id="avia-base-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/css/layout.css?ver=4.7.5" id="avia-layout-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css?ver=5.2.2" id="avia-module-blog-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css?ver=5.2.2" id="avia-module-postslider-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css?ver=5.2.2" id="avia-module-button-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons_fullwidth/buttons_fullwidth.css?ver=5.2.2" id="avia-module-button-fullwidth-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css?ver=5.2.2" id="avia-module-comments-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css?ver=5.2.2" id="avia-module-gallery-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css?ver=5.2.2" id="avia-module-gridrow-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css?ver=5.2.2" id="avia-module-heading-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css?ver=5.2.2" id="avia-module-hr-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css?ver=5.2.2" id="avia-module-image-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.css?ver=5.2.2" id="avia-module-magazine-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css?ver=5.2.2" id="avia-module-contact-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/promobox/promobox.css?ver=5.2.2" id="avia-module-promobox-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css?ver=5.2.2" id="avia-module-slideshow-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css?ver=5.2.2" id="avia-module-slideshow-fullsize-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.css?ver=5.2.2" id="avia-module-slideshow-ls-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css?ver=5.2.2" id="avia-module-social-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/table/table.css?ver=5.2.2" id="avia-module-table-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.css?ver=5.2.2" id="avia-module-tabs-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.css?ver=5.2.2" id="avia-module-testimonials-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.css?ver=5.2.2" id="avia-module-timeline-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.css?ver=5.2.2" id="avia-module-toggles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css?ver=5.2.2" id="avia-module-video-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/plugins/LayerSlider/assets/static/layerslider/css/layerslider.css?ver=6.11.2" id="layerslider-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Varela+Round:regular%7CMuli:200,300,regular,500,600,700,800,900%7CMontserrat:100,200,300,regular,500,600,700,800,900%7CRoboto:100,300,regular,500,700,900%7CPoppins:100,200,300,regular,500,600,700,800,900%7CBarlow:regular,italic,500,600,700,800,900,500italic&amp;subset=latin%2Clatin-ext" id="ls-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-includes/css/dashicons.min.css?ver=5.2.2" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/plugins/youtube-live-stream-auto-embed/assets/css/youtube-live-style.css?ver=5.2.2" id="youtube-live-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/css/shortcodes.css?ver=4.7.5" id="avia-scs-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=4.7.5" id="avia-popup-css-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/css/avia-snippet-lightbox.css?ver=4.7.5" id="avia-lightbox-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/css/avia-snippet-widget.css?ver=4.7.5" id="avia-widget-css-css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/uploads/dynamic_avia/enfold.css?ver=5f89bfeb750db" id="avia-dynamic-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/css/custom.css?ver=4.7.5" id="avia-custom-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/themes/enfold/config-events-calendar/event-mod.css?ver=5.2.2" id="avia-events-cal-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/plugins/layered-popups/css/style.min.css?ver=6.62" id="ulp-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/plugins/layered-popups/css/link-buttons.min.css?ver=6.62" id="ulp-link-buttons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/plugins/layered-popups/css/animate.min.css?ver=6.62" id="animate.css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/plugins/layered-popups/css/spinkit.min.css?ver=6.62" id="spinkit-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://endtime.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.4.1.1" id="__EPYT__style-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="__EPYT__style-inline-css" type="text/css">
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<link href="https://endtime.com/wp-content/themes/enfold/config-gravityforms/gravity-mod.css?ver=4.7.5" id="avia-gravity-css" media="screen" rel="stylesheet" type="text/css"/>
+<script src="https://endtime.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
+<script src="https://endtime.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/js/avia-compat.js?ver=4.7.5" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/endtime.com\/wp-admin\/admin-ajax.php","security":"940bf53c5d","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/endtime.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/endtime.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs__\"]","epdovol":"1","version":"13.4.1.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script src="https://endtime.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.4.1.1" type="text/javascript"></script>
+<link href="https://endtime.com/wp-json/" rel="https://api.w.org/"/>
+<link href="https://endtime.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://endtime.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.2.2" name="generator"/>
+<link href="https://endtime.com/" rel="shortlink"/>
+<link href="https://endtime.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fendtime.com%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://endtime.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fendtime.com%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<meta content="wcvvGMrB-kto_KfJ0cdeLkgbueDNsADJsGiTDp4uRpc" name="google-site-verification"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-10565479-2"></script>
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'UA-10565479-2');
+
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-545D4KR');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '270632919989936');
+fbq('track', 'InitiateCheckout');</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=270632919989936&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<!-- End Facebook Pixel Code --><!-- organization Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"organization","name":"Endtime Ministries","url":"https:\/\/endtime.com","ContactPoint":{"@type":"ContactPoint","contactType":"customer support","telephone":"+18335636063","url":"https:\/\/www.endtime.com\/contact-us\/","areaServed":"US","contactOption":["",""],"availableLanguage":"English"},"logo":{"@type":"ImageObject","url":"https:\/\/endtime.com\/wp-content\/uploads\/2019\/10\/et-logo.png","width":237,"height":237},"sameAs":["https:\/\/www.facebook.com\/EndtimeMinistriesInc","http:\/\/twitter.com\/ETMinistries","https:\/\/www.instagram.com\/endtimeinc\/","https:\/\/www.youtube.com\/user\/endtimeministries","https:\/\/www.linkedin.com\/company\/1800858","https:\/\/www.pinterest.com\/endtime\/","https:\/\/soundcloud.com\/endtime-ministries"]}</script><!-- / organization Schema optimized by Schema Pro --><!-- site-navigation-element Schema optimized by Schema Pro --><script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Home","url":"https:\/\/endtime.com\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Watch","url":"\/end-of-the-age\/tv"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Watch Live","url":"https:\/\/endtime.com\/end-of-the-age\/tv\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Archives","url":"\/end-of-the-age\/archives"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"End of the Age+","url":"https:\/\/watch.endtime.com\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Schedule","url":"\/end-of-the-age\/schedule\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"TV Transcripts","url":"https:\/\/endtime.com\/end-of-the-age\/transcripts\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"News","url":"https:\/\/endtime.com\/blog\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Prophecy in the News","url":"https:\/\/endtime.com\/prophecy-news\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Urgent Questions","url":"https:\/\/endtime.com\/urgent-questions\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Ask Irvin & Dave","url":"https:\/\/endtime.com\/ask-irvin\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Social Networking","url":"https:\/\/endtime.com\/social-networking\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Events","url":"\/events\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Conferences","url":"\/events\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Israel Tour","url":"https:\/\/endtime.com\/israel-tour\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Bible Studies","url":"https:\/\/endtime.com\/bible-studies\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"About","url":"\/about\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Irvin Baxter","url":"https:\/\/endtime.com\/irvin-baxter\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Dave Robbins","url":"https:\/\/endtime.com\/dave-robbins\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Ministry FAQs","url":"\/faq\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"What We Believe","url":"https:\/\/endtime.com\/what-we-believe\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Jerusalem Prophecy College","url":"https:\/\/jerusalemprophecycollege.com\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Contact Us","url":"https:\/\/endtime.com\/contact-us\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Magazine","url":"https:\/\/endtime.com\/magazine\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Articles - Endtime Magazine","url":"https:\/\/endtime.com\/articles-endtime-magazine\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Store","url":"https:\/\/store.endtime.com\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Donate","url":"https:\/\/store.endtime.com\/p-15-endtime-ministries.aspx?donationFrequency=M"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"Partner","url":"https:\/\/endtime.com\/partner\/"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"PREORDER Revelation V2","url":"\/revelation"}]}</script><!-- / site-navigation-element Schema optimized by Schema Pro --><meta content="v1" name="tec-api-version"/><meta content="https://endtime.com" name="tec-api-origin"/><link href="https://endtime.com/wp-json/tribe/events/v1/" rel="https://theeventscalendar.com/"/><link href="https://gmpg.org/xfn/11" rel="profile"/>
+<link href="https://endtime.com/feed/" rel="alternate" title="Endtime Ministries | End of the Age RSS2 Feed" type="application/rss+xml"/>
+<link href="https://endtime.com/xmlrpc.php" rel="pingback"/>
+<!--[if lt IE 9]><script src="https://endtime.com/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link href="https://endtime.com/wp-content/uploads/2020/06/ET-EM4.jpg" rel="icon" type="image/x-icon"/>
+<script>
+			var ulp_custom_handlers = {};
+			var ulp_cookie_value = "1609970680";
+			var ulp_onload_popup = "";
+			var ulp_onload_mode = "none";
+			var ulp_onload_period = "5";
+			var ulp_onscroll_popup = "";
+			var ulp_onscroll_mode = "none";
+			var ulp_onscroll_period = "5";
+			var ulp_onexit_popup = "";
+			var ulp_onexit_mode = "none";
+			var ulp_onexit_period = "5";
+			var ulp_onidle_popup = "";
+			var ulp_onidle_mode = "none";
+			var ulp_onidle_period = "5";
+			var ulp_onabd_popup = "";
+			var ulp_onabd_mode = "none";
+			var ulp_onabd_period = "5";
+			var ulp_onload_delay = "5";
+			var ulp_onload_close_delay = "0";
+			var ulp_onscroll_offset = "600";
+			var ulp_onidle_delay = "30";
+			var ulp_recaptcha_enable = "off";
+			var ulp_content_id = "4";
+		</script><link href="https://endtime.com/wp-content/uploads/2019/04/cropped-LOGO512x512-32x32.jpg" rel="icon" sizes="32x32">
+<link href="https://endtime.com/wp-content/uploads/2019/04/cropped-LOGO512x512-192x192.jpg" rel="icon" sizes="192x192"/>
+<link href="https://endtime.com/wp-content/uploads/2019/04/cropped-LOGO512x512-180x180.jpg" rel="apple-touch-icon-precomposed"/>
+<meta content="https://endtime.com/wp-content/uploads/2019/04/cropped-LOGO512x512-270x270.jpg" name="msapplication-TileImage">
+<style id="wp-custom-css" type="text/css">
+			#top .av_header_transparency #header_meta {
+	border-bottom:0px;
+}
+
+.sidebar_right > div > aside > div > nav > ul  {
+    display: none!important;
+}
+
+.comment-entry {
+    display: none;
+}		</style>
+<style type="text/css">
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal; font-display: auto;
+src: url('https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot');
+src: url('https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?#iefix') format('embedded-opentype'), 
+url('https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff') format('woff'),
+url('https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff2') format('woff2'),
+url('https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf') format('truetype'), 
+url('https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style>
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.7.5
+Installed: enfold
+AviaFramework Version: 5.0
+AviaBuilder Version: 4.7.1.1
+aviaElementManager Version: 1.0.1
+ML:512-PU:19-PLA:25
+WP:5.2.2
+Compress: CSS:disabled - JS:disabled
+Updates: disabled
+PLAu:22
+-->
+</meta></link></meta></head>
+<body class="home page-template-default page page-id-4 rtl_columns stretched lato open_sans wp-schema-pro-1.5.0 tribe-no-js" data-rsssl="1" id="top" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<div id="wrap_all">
+<header class="all_colors header_color light_bg_color av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch av_mobile_menu_tablet av_header_transparency av_header_searchicon av_header_unstick_top_disabled av_seperator_small_border av_minimal_header av_minimal_header_shadow av_bottom_nav_disabled av_alternate_logo_active" id="header" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+<div class="container_wrap container_wrap_meta av_icon_active_right av_extra_header_active av_phone_active_right av_entry_id_4" id="header_meta">
+<div class="container">
+<ul class="noLightbox social_bookmarks icon_count_4"><li class="social_bookmarks_facebook av-social-link-facebook social_icon_1"><a aria-hidden="false" aria-label="Link to Facebook" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.facebook.com/EndtimeInc" rel="noopener noreferrer" target="_blank" title="Facebook"><span class="avia_hidden_link_text">Facebook</span></a></li><li class="social_bookmarks_youtube av-social-link-youtube social_icon_2"><a aria-hidden="false" aria-label="Link to Youtube" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.youtube.com/endtimeinc" rel="noopener noreferrer" target="_blank" title="Youtube"><span class="avia_hidden_link_text">Youtube</span></a></li><li class="social_bookmarks_twitter av-social-link-twitter social_icon_3"><a aria-hidden="false" aria-label="Link to Twitter" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://twitter.com/EndtimeInc" rel="noopener noreferrer" target="_blank" title="Twitter"><span class="avia_hidden_link_text">Twitter</span></a></li><li class="social_bookmarks_instagram av-social-link-instagram social_icon_4"><a aria-hidden="false" aria-label="Link to Instagram" data-av_icon="" data-av_iconfont="entypo-fontello" href="https://www.instagram.com/endtimeinc" rel="noopener noreferrer" target="_blank" title="Instagram"><span class="avia_hidden_link_text">Instagram</span></a></li></ul><div class="phone-info"><span>1-833-563-6063</span></div> </div>
+</div>
+<div class="container_wrap container_wrap_logo" id="header_main">
+<div class="container av-logo-container"><div class="inner-container"><span class="logo"><a href="https://endtime.com/"><img alt="Endtime Ministries | End of the Age" height="100" src="https://endtime.com/wp-content/uploads/2020/06/endtime-logo.png" title="" width="300"/><span class="subtext"><img alt="Endtime Ministries logo" class="alternate" src="https://endtime.com/wp-content/uploads/2020/06/ET-logo-black-copy-WHITE.png" title="Endtime Ministries logo black copy WHITE"/></span></a></span><nav class="main_menu" data-selectname="Select a page" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation"><div class="avia-menu av-main-nav-wrap"><ul class="menu av-main-nav" id="avia-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-top-level menu-item-top-level-1" id="menu-item-148916"><a href="https://endtime.com/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Home</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-2" id="menu-item-24858"><a href="/end-of-the-age/tv" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Watch</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-24099"><a href="https://endtime.com/end-of-the-age/tv/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Watch Live</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-24101"><a href="/end-of-the-age/archives" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Archives</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-148497"><a href="https://watch.endtime.com/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">End of the Age+</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-140727"><a href="/end-of-the-age/schedule/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Schedule</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-140726"><a href="https://endtime.com/end-of-the-age/transcripts/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">TV Transcripts</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3" id="menu-item-24097"><a href="https://endtime.com/blog/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">News</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-140580"><a href="https://endtime.com/prophecy-news/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Prophecy in the News</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-140581"><a href="https://endtime.com/urgent-questions/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Urgent Questions</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-140582"><a href="https://endtime.com/ask-irvin/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Ask Irvin &amp; Dave</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-24108"><a href="https://endtime.com/social-networking/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Social Networking</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-4" id="menu-item-24081"><a href="/events/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Events</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-24094"><a href="/events/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Conferences</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-24096"><a href="https://endtime.com/israel-tour/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Israel Tour</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-24095"><a href="https://endtime.com/bible-studies/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Bible Studies</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-5" id="menu-item-24078"><a href="/about/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">About</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-24085"><a href="https://endtime.com/irvin-baxter/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Irvin Baxter</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-148724"><a href="https://endtime.com/dave-robbins/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Dave Robbins</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-140711"><a href="/faq/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Ministry FAQs</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-24086"><a href="https://endtime.com/what-we-believe/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">What We Believe</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-24141"><a href="https://jerusalemprophecycollege.com/" itemprop="url" rel="noopener noreferrer" target="_blank"><span class="avia-bullet"></span><span class="avia-menu-text">Jerusalem Prophecy College</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-24087"><a href="https://endtime.com/contact-us/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Contact Us</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-6" id="menu-item-24092"><a href="https://endtime.com/magazine/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Magazine</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-140729"><a href="https://endtime.com/articles-endtime-magazine/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Articles – Endtime Magazine</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-top-level menu-item-top-level-7" id="menu-item-24083"><a href="https://store.endtime.com/" itemprop="url" target="_blank"><span class="avia-bullet"></span><span class="avia-menu-text">Store</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-top-level menu-item-top-level-8" id="menu-item-143257"><a href="https://store.endtime.com/p-15-endtime-ministries.aspx?donationFrequency=M" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Donate</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-24090"><a href="https://endtime.com/partner/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Partner</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom av-menu-button av-menu-button-colored menu-item-mega-parent menu-item-top-level menu-item-top-level-9" id="menu-item-148310"><a href="/revelation" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PREORDER Revelation V2</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special" id="menu-item-search"><a aria-hidden="false" aria-label="Search" data-av_icon="" data-av_iconfont="entypo-fontello" data-avia-search-tooltip="
+
+&lt;form role=&quot;search&quot; action=&quot;https://endtime.com/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" href="?s=" rel="nofollow"><span class="avia_hidden_link_text">Search</span></a></li><li class="av-burger-menu-main menu-item-avia-special">
+<a aria-hidden="false" aria-label="Menu" href="#">
+<span class="av-hamburger av-hamburger--spin av-js-hamburger">
+<span class="av-hamburger-box">
+<span class="av-hamburger-inner"></span>
+<strong>Menu</strong>
+</span>
+</span>
+<span class="avia_hidden_link_text">Menu</span>
+</a>
+</li></ul></div></nav></div> </div>
+<!-- end container_wrap-->
+</div>
+<div class="header_bg"></div>
+<!-- end header -->
+</header>
+<div class="all_colors" data-scroll-offset="88" id="main">
+<div class="avia-layerslider main_color avia-shadow avia-builder-el-0 el_before_av_layerslider avia-builder-el-first container_wrap fullsize" id="layer_slider_1" style="  height: 721px; max-width: 1280px; margin: 0 auto;"><div class="ls-wp-container fitvidsignore" id="layerslider_2_1i6lv8i9mmw2k" style="width:1280px;height:720px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="kenburnsscale:1.2;"><div class="ls-l" data-ls="autoplay:enabled;showinfo:disabled;controls:disabled;muted:enabled;loopmedia:enabled;" style="top:-31px;left:0px;background-size:inherit;background-position:inherit;width:1332px;height:790px;font-size:27px;line-height:29px;"><video controls="" height="360" preload="metadata" width="640">
+<source src="/wp-content/uploads/2020/06/homepage-video-header-2-1.mp4" type="video/mp4"/>
+</video>
+</div><h1 class="ls-l" style="top:283px;left:50%;background-size:inherit;background-position:inherit;font-size:36px;color:#ffffff;">Instant Access to End of the Age+</h1><p class="ls-l" style="top:339px;left:50%;font-weight:100;background-size:inherit;background-position:inherit;font-size:18px;color:#ffffff;">You can now stream exclusive Endtime content and experience it anywhere, anytime on your favorite device!</p><a class="ls-l" href="https://watch.endtime.com/" style="" target="_blank"><span class="" style="top:392px;left:50%;font-weight:600;background-size:inherit;background-position:inherit;padding-top:15px;padding-right:60px;padding-bottom:15px;padding-left:60px;font-family:Arial, sans-serif;font-size:16px;color:#fff;border-radius:0px;background-color:#86a3c1;">Start Your Free Trial</span></a></div></div></div>
+<div class="avia-layerslider main_color avia-shadow avia-builder-el-1 el_after_av_layerslider el_before_av_section slider-not-first container_wrap fullsize" id="layer_slider_2" style="  height: 981px; max-width: 1280px; margin: 0 auto;"><div class="ls-wp-container fitvidsignore" id="layerslider_1_1ngdd90bsnygk" style="width:1280px;height:980px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="kenburnsscale:1.2;"><img alt="Endtime Ministries End of the Age +" class="ls-l" height="2250" sizes="(max-width: 4000px) 100vw, 4000px" src="https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile.jpg" srcset="https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile.jpg 4000w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile-300x169.jpg 300w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile-768x432.jpg 768w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile-1030x579.jpg 1030w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile-1500x844.jpg 1500w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile-705x397.jpg 705w" style="top:0px;left:-126px;background-size:inherit;background-position:inherit;width:1789px;height:980px;font-size:13px;line-height:14px;" width="4000"/><img alt="Endtime Ministries End of the Age +" class="ls-l" height="2250" sizes="(max-width: 4000px) 100vw, 4000px" src="https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile_dark.png" srcset="https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile_dark.png 4000w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile_dark-300x169.png 300w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile_dark-768x432.png 768w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile_dark-1030x579.png 1030w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile_dark-1500x844.png 1500w, https://endtime.com/wp-content/uploads/2020/08/EA-Web-Banner_Mobile_dark-705x397.png 705w" style="top:-1343px;left:-251px;background-size:inherit;background-position:inherit;width:4000px;height:2386px;" width="4000"/><a class="ls-l" href="https://watch.endtime.com/" style="" target="_blank"><span class="" style="top:530px;left:370px;font-weight:600;background-size:auto;background-position:inherit;padding-top:25px;padding-right:60px;padding-bottom:25px;padding-left:60px;font-family:Arial, sans-serif;font-size:40px;color:#fff;border-radius:0px;line-height:52px;background-color:#86a3c1;">Start Your Free Trial</span></a><p class="ls-l" style="top:368px;left:123px;text-align:center;background-size:inherit;background-position:inherit;font-size:44px;color:#ffffff;line-height:47px;">Stream exclusive Endtime content and experience it</p><p class="ls-l" style="top:435px;left:203px;background-size:inherit;background-position:inherit;color:#ffffff;line-height:47px;font-size:44px;">anywhere, anytime on your favorite device!</p></div></div></div>
+<div class="avia-section main_color avia-section-default avia-no-border-styling avia-bg-style-scroll avia-builder-el-2 el_after_av_layerslider el_before_av_section container_wrap fullsize" id="av_section_1" style="background-color: #3d3d3d;  "><div class="container"><div class="template-page content av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-4"><div class="entry-content-wrapper clearfix">
+<div class="flex_column av_one_half flex_column_div av-zero-column-padding first avia-builder-el-3 el_before_av_one_half avia-builder-el-first" style="border-radius:0px; "><div class="avia-button-wrap avia-button-center avia-builder-el-4 avia-builder-el-no-sibling"><a class="avia-button avia-button-fullwidth avia-icon_select-no avia-color-grey" href="https://endtime.com/end-of-the-age/archives/" style="color:#ffffff; " target="_blank"><span class="avia_iconbox_title">Latest Shows</span><span class="avia_button_background avia-button avia-button-fullwidth avia-color-theme-color-highlight"></span></a></div></div><div class="flex_column av_one_half flex_column_div av-zero-column-padding avia-builder-el-5 el_after_av_one_half avia-builder-el-last" style="background: #0a0a0a; background-color:#0a0a0a; border-radius:0px; "><div class="avia-button-wrap avia-button-center avia-builder-el-6 avia-builder-el-no-sibling"><a class="avia-button avia-button-fullwidth avia-icon_select-no avia-color-black" href="https://endtime.com/end-of-the-age/tv/" style="color:#ffffff; " target="_blank"><span class="avia_iconbox_title">Watch Live</span><span class="avia_button_background avia-button avia-button-fullwidth avia-color-theme-color-highlight"></span></a></div></div>
+</div></div></div><!-- close content main div --></div></div><div class="avia-section main_color avia-section-default avia-shadow avia-bg-style-scroll avia-builder-el-7 el_after_av_section el_before_av_section container_wrap fullsize" id="av_section_2" style=" "><div class="container"><div class="template-page content av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-4"><div class="entry-content-wrapper clearfix">
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h1 style="text-align: center;">Endtime Ministries</h1>
+</div></section>
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h2 style="text-align: center;">Prophecy News</h2>
+</div></section>
+<div class="av-magazine avia-builder-el-10 el_after_av_textblock el_before_av_button av-magazine-hero-left av-magazine-top-bar-active av-magazine-tabs-active" id="1"><div class="av-magazine-top-bar"></div><div class="av-magazine-group sort_all"><div class="av-magazine-hero first flex_column av_one_half"><article class="av-magazine-entry av-magazine-entry-id-158383 av-magazine-format-standard av-magazine-type-post av-magazine-entry-1 av-magazine-entry-big" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/prophecy-news/father-jailed-for-calling-biological-daughter-she/" title="Link to: Father Jailed for Calling Biological Daughter “She”"><img alt="lgbtq COMMERCIAL" class="attachment-magazine size-magazine wp-post-image" height="375" sizes="(max-width: 710px) 100vw, 710px" src="https://endtime.com/wp-content/uploads/2020/09/lgbtq-COMMERCIAL-710x375.jpg" srcset="https://endtime.com/wp-content/uploads/2020/09/lgbtq-COMMERCIAL-710x375.jpg 710w, https://endtime.com/wp-content/uploads/2020/09/lgbtq-COMMERCIAL-300x158.jpg 300w" width="710"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-25T16:08:50-05:00" itemprop="datePublished">March 25, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/prophecy-news/father-jailed-for-calling-biological-daughter-she/" title="Link to: Father Jailed for Calling Biological Daughter “She”">Father Jailed for Calling Biological Daughter “She”</a></h3></header><div class="av-magazine-content entry-content" itemprop="text">
+
+A Canadian father was sent to jail after calling his child,…</div></div><footer class="entry-footer"></footer></article></div><div class="av-magazine-sideshow flex_column av_one_half"><article class="av-magazine-entry av-magazine-entry-id-158370 av-magazine-format-standard av-magazine-type-post av-magazine-entry-2 av-magazine-entry-small" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/prophecy-news/pro-lifers-hold-day-of-tears-for-roe-v-wade/" title="Link to: Pro-lifers Hold ‘Day of Tears’ for Roe v. Wade"><img alt="" class="attachment-thumbnail size-thumbnail wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://endtime.com/wp-content/uploads/2021/02/Baby-COMMERCIAL-80x80.jpg" srcset="https://endtime.com/wp-content/uploads/2021/02/Baby-COMMERCIAL-80x80.jpg 80w, https://endtime.com/wp-content/uploads/2021/02/Baby-COMMERCIAL-36x36.jpg 36w, https://endtime.com/wp-content/uploads/2021/02/Baby-COMMERCIAL-180x180.jpg 180w" width="80"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-25T15:29:16-05:00" itemprop="datePublished">March 25, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/prophecy-news/pro-lifers-hold-day-of-tears-for-roe-v-wade/" title="Link to: Pro-lifers Hold ‘Day of Tears’ for Roe v. Wade">Pro-lifers Hold ‘Day of Tears’ for Roe v. Wade</a></h3></header></div><footer class="entry-footer"></footer></article><article class="av-magazine-entry av-magazine-entry-id-158361 av-magazine-format-standard av-magazine-type-post av-magazine-entry-3 av-magazine-entry-small" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/prophecy-news/gop-pushes-back-on-gun-control/" title="Link to: GOP Pushes Back on Gun Control"><img alt="" class="attachment-thumbnail size-thumbnail wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://endtime.com/wp-content/uploads/2021/03/gun-control_COMMERCIAL-80x80.jpg" srcset="https://endtime.com/wp-content/uploads/2021/03/gun-control_COMMERCIAL-80x80.jpg 80w, https://endtime.com/wp-content/uploads/2021/03/gun-control_COMMERCIAL-36x36.jpg 36w, https://endtime.com/wp-content/uploads/2021/03/gun-control_COMMERCIAL-180x180.jpg 180w" width="80"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-25T13:55:29-05:00" itemprop="datePublished">March 25, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/prophecy-news/gop-pushes-back-on-gun-control/" title="Link to: GOP Pushes Back on Gun Control">GOP Pushes Back on Gun Control</a></h3></header></div><footer class="entry-footer"></footer></article><article class="av-magazine-entry av-magazine-entry-id-158358 av-magazine-format-standard av-magazine-type-post av-magazine-entry-4 av-magazine-entry-small" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/prophecy-news/boris-johnson-to-mandate-vaccine-passports/" title="Link to: Boris Johnson to Mandate Vaccine Passports"><img alt="vaccine COMMERCIAL" class="attachment-thumbnail size-thumbnail wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://endtime.com/wp-content/uploads/2020/08/vaccine-COMMERCIAL-80x80.jpg" srcset="https://endtime.com/wp-content/uploads/2020/08/vaccine-COMMERCIAL-80x80.jpg 80w, https://endtime.com/wp-content/uploads/2020/08/vaccine-COMMERCIAL-36x36.jpg 36w, https://endtime.com/wp-content/uploads/2020/08/vaccine-COMMERCIAL-180x180.jpg 180w" width="80"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-25T12:45:07-05:00" itemprop="datePublished">March 25, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/prophecy-news/boris-johnson-to-mandate-vaccine-passports/" title="Link to: Boris Johnson to Mandate Vaccine Passports">Boris Johnson to Mandate Vaccine Passports</a></h3></header></div><footer class="entry-footer"></footer></article><article class="av-magazine-entry av-magazine-entry-id-158355 av-magazine-format-standard av-magazine-type-post av-magazine-entry-5 av-magazine-entry-small" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/prophecy-news/north-korea-launches-ballistic-missiles/" title="Link to: North Korea Launches Ballistic Missiles"><img alt="missile COMMERCIAL" class="attachment-thumbnail size-thumbnail wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://endtime.com/wp-content/uploads/2020/08/missile-COMMERCIAL-80x80.jpg" srcset="https://endtime.com/wp-content/uploads/2020/08/missile-COMMERCIAL-80x80.jpg 80w, https://endtime.com/wp-content/uploads/2020/08/missile-COMMERCIAL-36x36.jpg 36w, https://endtime.com/wp-content/uploads/2020/08/missile-COMMERCIAL-180x180.jpg 180w" width="80"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-25T11:29:17-05:00" itemprop="datePublished">March 25, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/prophecy-news/north-korea-launches-ballistic-missiles/" title="Link to: North Korea Launches Ballistic Missiles">North Korea Launches Ballistic Missiles</a></h3></header></div><footer class="entry-footer"></footer></article></div></div></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-11 el_after_av_magazine avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-theme-color avia-size-x-large avia-position-center" href="/prophecy-news"><span class="avia_iconbox_title">See More Prophecy News</span></a></div>
+</div></div></div><!-- close content main div --></div></div><div class="avia-section main_color avia-section-default avia-no-border-styling avia-bg-style-parallax avia-builder-el-12 el_after_av_section el_before_av_section av-minimum-height av-minimum-height-25 container_wrap fullsize" data-av_minimum_height_pc="25" id="av_section_3" style="background-color: rgba(124,16,0,0.84);  "><div class="container"><div class="template-page content av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-4"><div class="entry-content-wrapper clearfix">
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h2 style="text-align: center;"><span style="color: #ffffff;">Want to Know the Latest in Prophecy News?</span></h2>
+<h5 style="text-align: center;"><span style="color: #ffffff;">Get a 12-month subscription (6 issues) to<em> Endtime</em> magazine!</span></h5>
+</div></section>
+<div class="hr hr-invisible avia-builder-el-14 el_after_av_textblock el_before_av_button" style="height:50px"><span class="hr-inner"><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-15 el_after_av_hr avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-theme-color-subtle avia-size-x-large avia-position-center" href="https://endtime.com/magazine/" target="_blank"><span class="avia_iconbox_title">Get Your First 6-Issues</span></a></div>
+</div></div></div><!-- close content main div --></div></div><div class="avia-section main_color avia-section-default avia-shadow avia-bg-style-scroll avia-builder-el-16 el_after_av_section el_before_av_section container_wrap fullsize" id="av_section_4" style=" "><div class="container"><div class="template-page content av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-4"><div class="entry-content-wrapper clearfix">
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h2 style="text-align: center;">Featured Shows</h2>
+</div></section>
+<div class="av-magazine avia-builder-el-18 el_after_av_textblock el_before_av_button av-magazine-hero-left av-magazine-top-bar-active av-magazine-tabs-active" id="2"><div class="av-magazine-top-bar"></div><div class="av-magazine-group sort_all"><div class="av-magazine-hero first flex_column av_one_half"><article class="av-magazine-entry av-magazine-entry-id-158389 av-magazine-format-standard av-magazine-type-post av-magazine-entry-1 av-magazine-entry-big" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/end-of-the-age/what-the-equality-act-means-to-god/" title="Link to: What the Equality Act means to God"><img alt="" class="attachment-magazine size-magazine wp-post-image" height="375" src="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_VD_032521-710x375.jpg" width="710"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-25T16:05:14-05:00" itemprop="datePublished">March 25, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/end-of-the-age/what-the-equality-act-means-to-god/" title="Link to: What the Equality Act means to God">What the Equality Act means to God</a></h3></header><div class="av-magazine-content entry-content" itemprop="text">
+
+
+
+The U.S. House passed the Equality Act in February. President…</div></div><footer class="entry-footer"></footer></article></div><div class="av-magazine-sideshow flex_column av_one_half"><article class="av-magazine-entry av-magazine-entry-id-158348 av-magazine-format-standard av-magazine-type-post av-magazine-entry-2 av-magazine-entry-small" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/end-of-the-age/controlling-the-world-through-gun-control/" title="Link to: Controlling the World Through Gun Control"><img alt="" class="attachment-thumbnail size-thumbnail wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_032421-80x80.jpg" srcset="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_032421-80x80.jpg 80w, https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_032421-36x36.jpg 36w, https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_032421-180x180.jpg 180w" width="80"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-24T16:13:53-05:00" itemprop="datePublished">March 24, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/end-of-the-age/controlling-the-world-through-gun-control/" title="Link to: Controlling the World Through Gun Control">Controlling the World Through Gun Control</a></h3></header></div><footer class="entry-footer"></footer></article><article class="av-magazine-entry av-magazine-entry-id-158321 av-magazine-format-standard av-magazine-type-post av-magazine-entry-3 av-magazine-entry-small" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/end-of-the-age/bidens-border-crisis/" title="Link to: Biden’s Border Crisis"><img alt="" class="attachment-thumbnail size-thumbnail wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_VD_032121-80x80.jpg" srcset="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_VD_032121-80x80.jpg 80w, https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_VD_032121-36x36.jpg 36w, https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_VD_032121-180x180.jpg 180w" width="80"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-23T16:32:34-05:00" itemprop="datePublished">March 23, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/end-of-the-age/bidens-border-crisis/" title="Link to: Biden’s Border Crisis">Biden’s Border Crisis</a></h3></header></div><footer class="entry-footer"></footer></article><article class="av-magazine-entry av-magazine-entry-id-158315 av-magazine-format-standard av-magazine-type-post av-magazine-entry-4 av-magazine-entry-small" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/end-of-the-age/when-will-the-rapture-happen-2/" title="Link to: When Will the Rapture Happen?"><img alt="" class="attachment-thumbnail size-thumbnail wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_032221-80x80.jpg" srcset="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_032221-80x80.jpg 80w, https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_032221-36x36.jpg 36w, https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_032221-180x180.jpg 180w" width="80"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-22T16:58:23-05:00" itemprop="datePublished">March 22, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/end-of-the-age/when-will-the-rapture-happen-2/" title="Link to: When Will the Rapture Happen?">When Will the Rapture Happen?</a></h3></header></div><footer class="entry-footer"></footer></article><article class="av-magazine-entry av-magazine-entry-id-158310 av-magazine-format-standard av-magazine-type-post av-magazine-entry-5 av-magazine-entry-small" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="av-magazine-thumbnail"><a class="av-magazine-thumbnail-link" href="https://endtime.com/end-of-the-age/open-line-417/" title="Link to: Open Line 417"><img alt="" class="attachment-thumbnail size-thumbnail wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_031921-80x80.jpg" srcset="https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_031921-80x80.jpg 80w, https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_031921-36x36.jpg 36w, https://endtime.com/wp-content/uploads/2021/03/ETA_Thumbnail_DAVE_031921-180x180.jpg 180w" width="80"/></a></div><div class="av-magazine-content-wrap"><header class="entry-content-header"><time class="av-magazine-time updated" datetime="2021-03-19T11:54:58-05:00" itemprop="datePublished">March 19, 2021</time><h3 class="av-magazine-title entry-title" itemprop="headline"><a href="https://endtime.com/end-of-the-age/open-line-417/" title="Link to: Open Line 417">Open Line 417</a></h3></header></div><footer class="entry-footer"></footer></article></div></div></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-19 el_after_av_magazine avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-theme-color avia-size-x-large avia-position-center" href="/end-of-the-age/archives"><span class="avia_iconbox_title">See More Shows</span></a></div>
+</div></div></div><!-- close content main div --></div></div><div class="avia-section main_color avia-section-default avia-no-border-styling avia-bg-style-parallax avia-builder-el-20 el_after_av_section el_before_av_section av-minimum-height av-minimum-height-25 container_wrap fullsize" data-av_minimum_height_pc="25" id="av_section_5" style="background-color: #3377bf;  "><div class="container"><div class="template-page content av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-4"><div class="entry-content-wrapper clearfix">
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h2 style="text-align: center;"><span style="color: #ffffff;">Are You Sure You’re Ready for the End Time?</span></h2>
+<h5 style="text-align: center;"><span style="color: #ffffff;">Discover the links between current events and Bible prophecies that are yet to be fulfilled by joining Jerusalem Prophecy College.</span></h5>
+</div></section>
+<div class="hr hr-invisible avia-builder-el-22 el_after_av_textblock el_before_av_button" style="height:50px"><span class="hr-inner"><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-23 el_after_av_hr avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-theme-color-subtle avia-size-x-large avia-position-center" href="https://jerusalemprophecycollege.com/" rel="noopener noreferrer" target="_blank"><span class="avia_iconbox_title">Start Your First Course</span></a></div>
+</div></div></div><!-- close content main div --></div></div><div class="avia-section main_color avia-section-default avia-no-border-styling avia-bg-style-parallax avia-builder-el-24 el_after_av_section el_before_av_section av-minimum-height av-minimum-height-25 container_wrap fullsize" data-av_minimum_height_pc="25" id="av_section_6" style=" "><div class="container"><div class="template-page content av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-4"><div class="entry-content-wrapper clearfix">
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h2 style="text-align: center;">Featured Products</h2>
+</div></section>
+<div class="flex_column av_one_fourth flex_column_div first avia-builder-el-26 el_after_av_textblock el_before_av_one_fourth column-top-margin" style="box-shadow: 0 0 10px 0 #b2b2b2; padding:10px; border-radius:0px; "><div class="avia-image-container av-styling- avia-builder-el-27 el_before_av_textblock avia-builder-el-first avia-align-center" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img alt="Revelation: The Unveiling of Jesus Christ series by Irvin Baxter" class="avia_image" height="530" itemprop="thumbnailUrl" src="https://endtime.com/wp-content/uploads/2020/07/PROD_REV-1-min.jpg" title="Revelation: The Unveiling of Jesus Christ series by Irvin Baxter" width="600"/></div></div></div>
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h5 style="text-align: center;">Revelation: the Unveiling of Jesus Christ</h5>
+</div></section>
+<div class="hr hr-invisible avia-builder-el-29 el_after_av_textblock el_before_av_button" style="height:50px"><span class="hr-inner"><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-30 el_after_av_hr avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-black avia-size-large avia-position-center" href="https://store.endtime.com/p-907-revelation-the-unveiling-of-jesus-christ-volume-1-package.aspx?categoryid=50" target="_blank"><span class="avia_iconbox_title">Buy Now</span></a></div></div><div class="flex_column av_one_fourth flex_column_div avia-builder-el-31 el_after_av_one_fourth el_before_av_one_fourth column-top-margin" style="box-shadow: 0 0 10px 0 #b2b2b2; padding:10px; border-radius:0px; "><div class="avia-image-container av-styling- avia-builder-el-32 el_before_av_textblock avia-builder-el-first avia-align-center" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img alt="Satan’s End Time Plan Revealed video" class="avia_image" height="530" itemprop="thumbnailUrl" src="https://endtime.com/wp-content/uploads/2020/07/PROD_MVSATANEND-1-min.jpg" title="Satan’s End Time Plan Revealed video dvd" width="600"/></div></div></div>
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h5 style="text-align: center;">Satan’s End Time Plan Revealed</h5>
+</div></section>
+<div class="hr hr-invisible avia-builder-el-34 el_after_av_textblock el_before_av_button" style="height:50px"><span class="hr-inner"><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-35 el_after_av_hr avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-black avia-size-large avia-position-center" href="https://store.endtime.com/p-934-satans-end-time-plan-revealed-dvd.aspx" target="_blank"><span class="avia_iconbox_title">Buy Now</span></a></div></div><div class="flex_column av_one_fourth flex_column_div avia-builder-el-36 el_after_av_one_fourth el_before_av_one_fourth column-top-margin" style="box-shadow: 0 0 10px 0 #b2b2b2; padding:10px; border-radius:0px; "><div class="avia-image-container av-styling- avia-builder-el-37 el_before_av_textblock avia-builder-el-first avia-align-center" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img alt="Trump’s Peace Plan Video" class="avia_image" height="530" itemprop="thumbnailUrl" src="https://endtime.com/wp-content/uploads/2020/07/PROD_MVPEACEEND-1-min.jpg" title="Trump’s Peace Plan Video" width="600"/></div></div></div>
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h5 style="text-align: center;">Trump’s Peace Plan</h5>
+</div></section>
+<div class="hr hr-invisible avia-builder-el-39 el_after_av_textblock el_before_av_button" style="height:50px"><span class="hr-inner"><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-40 el_after_av_hr avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-black avia-size-large avia-position-center" href="https://store.endtime.com/p-933-trumps-peace-plan-dvd.aspx" target="_blank"><span class="avia_iconbox_title">Buy Now</span></a></div></div><div class="flex_column av_one_fourth flex_column_div avia-builder-el-41 el_after_av_one_fourth el_before_av_hr column-top-margin" style="box-shadow: 0 0 10px 0 #b2b2b2; padding:10px; border-radius:0px; "><div class="avia-image-container av-styling- avia-builder-el-42 el_before_av_textblock avia-builder-el-first avia-align-center" itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><div class="avia-image-container-inner"><div class="avia-image-overlay-wrap"><img alt="Understanding the End Time series videos" class="avia_image" height="530" itemprop="thumbnailUrl" src="https://endtime.com/wp-content/uploads/2020/07/PROD_UTE-min.jpg" title="Understanding the End Time series videos" width="600"/></div></div></div>
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h5 style="text-align: center;">Understanding the Endtime</h5>
+</div></section>
+<div class="hr hr-invisible avia-builder-el-44 el_after_av_textblock el_before_av_button" style="height:50px"><span class="hr-inner"><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-45 el_after_av_hr avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-black avia-size-large avia-position-center" href="https://store.endtime.com/p-133-understanding-the-endtime-14-dvds.aspx" target="_blank"><span class="avia_iconbox_title">Buy Now</span></a></div></div><div class="hr hr-invisible avia-builder-el-46 el_after_av_one_fourth el_before_av_button" style="height:50px"><span class="hr-inner"><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-47 el_after_av_hr avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-theme-color avia-size-x-large avia-position-center" href="https://store.endtime.com/" target="_blank"><span class="avia_iconbox_title">Shop Now</span></a></div>
+</div></div></div><!-- close content main div --></div></div><div class="avia-section header_color avia-section-default avia-no-border-styling avia-bg-style-parallax avia-builder-el-48 el_after_av_section avia-builder-el-last av-minimum-height av-minimum-height-25 container_wrap fullsize" data-av_minimum_height_pc="25" id="av_section_7" style="background-color: #7bb0e7;  "><div class="container"><div class="template-page content av-content-full alpha units"><div class="post-entry post-entry-type-page post-entry-4"><div class="entry-content-wrapper clearfix">
+<section class="av_textblock_section" itemscope="itemscope" itemtype="https://schema.org/CreativeWork"><div class="avia_textblock" itemprop="text"><h2 style="text-align: center;"><span style="color: #ffffff;">Israel Tour Fall 2020</span></h2>
+<h5 style="text-align: center;"><span style="color: #ffffff;">Join Irvin and Judy Baxter for a Trip of a Lifetime!</span></h5>
+</div></section>
+<div class="hr hr-invisible avia-builder-el-50 el_after_av_textblock el_before_av_button" style="height:50px"><span class="hr-inner"><span class="hr-inner-style"></span></span></div>
+<div class="avia-button-wrap avia-button-center avia-builder-el-51 el_after_av_hr avia-builder-el-last"><a class="avia-button avia-icon_select-no avia-color-theme-color-subtle avia-size-x-large avia-position-center" href="https://endtime.com/israel-tour/" target="_blank"><span class="avia_iconbox_title">Request More Tour Information</span></a></div>
+</div></div></div><!-- close content main div --> <!-- section close by builder template --> </div><!--end builder template--></div><!-- close default .container_wrap element --> <div class="container_wrap footer_color" id="footer">
+<div class="container">
+<div class="flex_column av_one_fourth first el_before_av_one_fourth"><section class="widget clearfix widget_nav_menu" id="nav_menu-9"><h3 class="widgettitle">End of the Age</h3><div class="menu-footer-1-container"><ul class="menu" id="menu-footer-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148702" id="menu-item-148702"><a href="https://endtime.com/end-of-the-age/tv/">Watch Live</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148703" id="menu-item-148703"><a href="https://endtime.com/end-of-the-age/archives/">Archives / On-Demand</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148704" id="menu-item-148704"><a href="https://watch.endtime.com">End of the Age+</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148705" id="menu-item-148705"><a href="https://endtime.com/end-of-the-age/schedule/">Schedule</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148719" id="menu-item-148719"><a href="https://endtime.com/understanding-the-endtime/">Understanding the Endtime</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148718" id="menu-item-148718"><a href="https://endtime.com/revelation-the-unveiling-of-jesus-christ/">Revelation</a></li>
+</ul></div><span class="seperator extralight-border"></span></section></div><div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth"><section class="widget clearfix widget_nav_menu" id="nav_menu-3"><h3 class="widgettitle">Prophecy in the News</h3><div class="menu-footer-2-container"><ul class="menu" id="menu-footer-2"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148707" id="menu-item-148707"><a href="https://endtime.com/prophecy-news/">Prophecy in the News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148706" id="menu-item-148706"><a href="https://endtime.com/ask-irvin/">Ask Us Anything</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148723" id="menu-item-148723"><a href="https://endtime.com/united-states-discovered-in-the-bible/">U.S. Discovered in the Bible</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148710" id="menu-item-148710"><a href="https://endtime.com/world-war-three/">World War 3</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148722" id="menu-item-148722"><a href="https://endtime.com/islam/">Islam Discovered in The Bible</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148721" id="menu-item-148721"><a href="https://endtime.com/another-jewish-holocaust-ahead/">Another Jewish Holocaust Ahead</a></li>
+</ul></div><span class="seperator extralight-border"></span></section></div><div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth"><section class="widget clearfix widget_nav_menu" id="nav_menu-4"><h3 class="widgettitle">Learn More</h3><div class="menu-footer-3-container"><ul class="menu" id="menu-footer-3"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148714" id="menu-item-148714"><a href="https://endtime.com/irvin-baxter/">Irvin Baxter</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148715" id="menu-item-148715"><a href="https://endtime.com/dave-robbins/">Dave Robbins</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148712" id="menu-item-148712"><a href="/events">Conferences</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148711" id="menu-item-148711"><a href="https://endtime.com/israel-tour/">Israel Tour</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148725" id="menu-item-148725"><a href="https://jerusalemprophecycollege.com/">Jerusalem Prophecy College</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148717" id="menu-item-148717"><a href="https://endtime.com/what-do-you-mean-born-again/">What Do You Mean, Born Again?</a></li>
+</ul></div><span class="seperator extralight-border"></span></section></div><div class="flex_column av_one_fourth el_after_av_one_fourth el_before_av_one_fourth"><section class="widget clearfix avia_fb_likebox" id="avia_fb_likebox-2"><h3 class="widgettitle">Follow us on Facebook</h3><div class="av_facebook_widget_wrap"><div class="fb-page" data-adapt-container-width="true" data-hide-cover="false" data-href="https://www.facebook.com/endtimeinc" data-show-facepile="true" data-show-posts="false" data-small-header="false" data-width="500"><div class="fb-xfbml-parse-ignore"></div></div></div><span class="seperator extralight-border"></span></section></div>
+</div>
+<!-- ####### END FOOTER CONTAINER ####### -->
+</div>
+<footer class="container_wrap socket_color" id="socket" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+<div class="container">
+<span class="copyright">© Copyright - Endtime Ministries | End of the Age | Irvin Baxter and Dave Robbins </span>
+<nav class="sub_menu_socket" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation"><div class="avia3-menu"><ul class="menu" id="avia3-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-top-level menu-item-top-level-1" id="menu-item-148690"><a href="https://endtime.com/privacy/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Privacy</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2" id="menu-item-148691"><a href="https://endtime.com/shipping/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Shipping</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3" id="menu-item-148692"><a href="https://endtime.com/browser-support/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Browser Support</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+</ul></div></nav>
+</div>
+<!-- ####### END SOCKET CONTAINER ####### -->
+</footer>
+<!-- end main -->
+</div>
+<!-- end wrap_all --></div>
+<a aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello" href="#top" id="scroll-top-link" title="Scroll to top"><span class="avia_hidden_link_text">Scroll to top</span></a>
+<div id="fb-root"></div>
+<script>(function(){var s = document.createElement('script'),e = ! document.body ? document.querySelector('head') : document.body;s.src = 'https://acsbapp.com/apps/app/assets/js/acsb.js';s.async = s.defer = true;s.onload = function(){acsbJS.init({statementLink : 'https://endtime.com/accessibility-statement/',feedbackLink : '',footerHtml : 'Powered by Highforge',hideMobile : false,hideTrigger : false,language : 'en',position : 'right',leadColor : '#9cc3df',triggerColor : '#6baee1',triggerRadius : '50%',triggerPositionX : 'right',triggerPositionY : 'bottom',triggerIcon : 'default',triggerSize : 'medium',triggerOffsetX : 20,triggerOffsetY : 20,mobile : {triggerSize : 'small',triggerPositionX : 'right',triggerPositionY : 'bottom',triggerOffsetX : 0,triggerOffsetY : 0,triggerRadius : '0'}});};e.appendChild(s);}());</script> <script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+<script type="text/javascript">
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://endtime.com/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://endtime.com/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://endtime.com/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"d6b586b48b","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, "script", "facebook-jssdk"));</script><script src="https://endtime.com/wp-content/themes/enfold/js/avia.js?ver=4.7.5" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/js/shortcodes.js?ver=4.7.5" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/magazine/magazine.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow-video.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/tabs/tabs.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/testimonials/testimonials.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/timeline/timeline.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/toggles/toggles.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.js?ver=5.2.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=4.7.5" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/js/avia-snippet-lightbox.js?ver=4.7.5" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/js/avia-snippet-megamenu.js?ver=4.7.5" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/js/avia-snippet-sticky-header.js?ver=4.7.5" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/js/avia-snippet-widget.js?ver=4.7.5" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/themes/enfold/config-gutenberg/js/avia_blocks_front.js?ver=4.7.5" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/plugins/layered-popups/js/script.min.js?ver=6.62" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.4.1.1" type="text/javascript"></script>
+<script src="https://endtime.com/wp-includes/js/wp-embed.min.js?ver=5.2.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.11.2","fixGSAP":"1"};
+/* ]]> */
+</script>
+<script src="https://endtime.com/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.utils.js?ver=6.11.2" type="text/javascript"></script>
+<script src="https://endtime.com/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.11.2" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(function() { _initLayerSlider( '#layerslider_2_1i6lv8i9mmw2k', {createdWith: '6.11.1', sliderVersion: '6.11.1', hideOnMobile: true, hideUnder: 990, skin: 'fullwidth', navPrevNext: false, hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, autoPauseSlideshow: 'disabled', rememberUnmuteState: false, skinsPath: 'https://endtime.com/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/'}); });jQuery(function() { _initLayerSlider( '#layerslider_1_1ngdd90bsnygk', {createdWith: '6.11.1', sliderVersion: '6.11.1', hideOver: 990, skin: 'fullwidth', globalBGSize: 'cover', hoverPrevNext: false, navStartStop: false, navButtons: false, showCircleTimer: false, skinsPath: 'https://endtime.com/wp-content/plugins/LayerSlider/assets/static/layerslider/skins/'}); });
+</script>
+<script src="https://endtime.com/wp-content/plugins/LayerSlider/assets/static/layerslider/js/layerslider.transitions.js?ver=6.11.2" type="text/javascript"></script>
+<script>
+			var ulp_ajax_url = "https://endtime.com/wp-admin/admin-ajax.php";
+			var ulp_count_impressions = "on";
+			var ulp_async_init = "on";
+			var ulp_css3_enable = "on";
+			var ulp_ga_tracking = "off";
+			var ulp_km_tracking = "off";
+			var ulp_onexit_limits = "off";
+			var ulp_no_preload = "on";
+			var ulp_campaigns = {"ab-4pimvNSHEpRaJEcW":["aIJiyMiGUZXMTZmf"],"none":[""]};
+			var ulp_overlays = {"CK9hSQgfrpgG8Nro":["#9e9e9e", "0.7", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"qYWe3g2aYvZTuUwK":["#707070", "0.8", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"CY98OA6QQBPKg6rd":["#000000", "0.9", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"aIJiyMiGUZXMTZmf":["#b7b7b7", "0.8", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"cQYugbf5ADOxLCqF":["#ffffff", "0.8", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"xPh1d6SyTnrfqnVR":["#000000", "0.9", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"gzZLVssmrayRatAK":["#ffffff", "0.8", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"W19kMJGbJhod8orD":["#ffffff", "0.8", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"HJeQhzTFgS5RING5":["#ffffff", "0.8", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"Drj512VmrGkPtQrc":["#9e9e9e", "0.7", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"RxsRgMchcvk34J2w":["#333333", "0.8", "on", "middle-center", "fadeIn", "classic", "#ffffff"],"none":["", "", "", "", ""]};
+			if (typeof ulp_init == "function") { 
+				ulp_init(); jQuery(document).ready(function() {ulp_ready();});
+			} else {
+				jQuery(document).ready(function(){ulp_init(); ulp_ready();});
+			}
+		</script><script src="https://endtime.com/wp-content/plugins/layered-popups/js/ads.js?ver=6.62"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"9459c680af","applicationID":"218706231","transactionName":"Y11VZEpWCBACARZZDloXdlNMXgkNTBYHXRFYWUNVFVUTCg8GB0I=","queueTime":0,"applicationTime":1421,"atts":"TxpWEgJMGx4=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script></body>
+</html>

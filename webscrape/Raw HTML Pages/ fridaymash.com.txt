@@ -6,7 +6,7 @@
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <link href="http://gmpg.org/xfn/11" rel="profile"/>
 <title>FRIDAY MASH CAR ACCIDENT LAWYERS</title>
-<!-- All in One SEO 4.0.16 -->
+<!-- All in One SEO 4.0.17 -->
 <link href="https://fridaymash.com/" rel="canonical">
 <meta content="FRIDAY MASH CAR ACCIDENT LAWYERS | NOT IF, BUT HOW" property="og:site_name">
 <meta content="article" property="og:type">
@@ -355,7 +355,7 @@ window.lodash = _.noConflict();
 <script id="wp-api-fetch-js" src="https://fridaymash.com/wp-includes/js/dist/api-fetch.min.js" type="text/javascript"></script>
 <script id="wp-api-fetch-js-after" type="text/javascript">
 wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://fridaymash.com/wp-json/" ) );
-wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "5b7cf3db11" );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "8ae9c416af" );
 wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
 wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
 wp.apiFetch.nonceEndpoint = "https://fridaymash.com/wp-admin/admin-ajax.php?action=rest-nonce";

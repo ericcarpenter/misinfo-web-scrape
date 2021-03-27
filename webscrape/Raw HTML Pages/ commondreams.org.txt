@@ -212,7 +212,7 @@ jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","image_caption":{
 <label class="element-invisible" for="edit-search-block-form--2">Search </label>
 <input class="form-text" id="edit-search-block-form--2" maxlength="128" name="search_block_form" size="15" title="Enter the terms you wish to search for." type="text" value=""/>
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><button aria-label="Search" class="form-button" id="edit-submit" name="op" type="submit" value='&lt;i class="fa fa-search" aria-label="Search"&gt;&lt;/i&gt;'><i aria-label="Search" class="fa fa-search"></i></button></div><input name="form_build_id" type="hidden" value="form--xxwFxYufYkvbl7Idq9D9_9UIkEUCjpFk9R07490L6Y"/>
+<div class="form-actions form-wrapper" id="edit-actions"><button aria-label="Search" class="form-button" id="edit-submit" name="op" type="submit" value='&lt;i class="fa fa-search" aria-label="Search"&gt;&lt;/i&gt;'><i aria-label="Search" class="fa fa-search"></i></button></div><input name="form_build_id" type="hidden" value="form-49iPLmUqDIng1Mg-25nViYaeZlf5mHpCRzVB0uDvSbc"/>
 <input name="form_id" type="hidden" value="search_block_form"/>
 </div>
 </div></form> </div>
@@ -230,80 +230,80 @@ jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","image_caption":{
 <div class="mondrian panel-display panel-display--mondrian">
 <div class="mondrian-region mondrian-region--main">
 <div class="panel-pane pane-views pane-news">
-<div class="view view-news view-id-news view-display-id-news_block_primary primary-news-article view-dom-id-f29fa4bdb9a65c8e5a34c19a524e6c30">
+<div class="view view-news view-id-news view-display-id-news_block_primary primary-news-article view-dom-id-0e9a343b2bd7605996fc4259f6066043">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/warning-bidens-syria-strikes-set-dangerous-precedent-groups-push-congress-respond">Warning Biden's Syria Strikes Set 'Dangerous' Precedent, Groups Push Congress to Respond</a></div> </div>
-<div class="views-field views-field-field-article-img"> <div class="field-content"><a href="/news/2021/03/16/warning-bidens-syria-strikes-set-dangerous-precedent-groups-push-congress-respond"><img alt="U.S. President Joe Biden speaks as Vice President Kamala Harris, Senate Majority Leader Chuck Schumer (D-N.Y.), and Speaker of the House Nancy Pelosi (D-Calif.) listen in the Rose Garden of the White House on March 12, 2021. (Photo: Alex Wong/Getty Images)" class="" height="500" src="https://www.commondreams.org/sites/default/files/styles/cd_large/public/headlines/gettyimages-13067293311.jpg?itok=svE0m5Ns" width="955"/></a></div> </div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/big-oils-embrace-carbon-pricing-called-pr-ploy-avoid-real-effective-climate-action">Big Oil's Embrace of Carbon Pricing Called PR Ploy to 'Avoid Real, Effective Climate Action'</a></div> </div>
+<div class="views-field views-field-field-article-img"> <div class="field-content"><a href="/news/2021/03/26/big-oils-embrace-carbon-pricing-called-pr-ploy-avoid-real-effective-climate-action"><img alt="There are over 1,100 oil-producing wells in the McKittrick oil field, just north of the town of McKittrick, CA. (Photo: Carolyn Cole/Los Angeles Times via Getty Images)" class="" height="500" src="https://www.commondreams.org/sites/default/files/styles/cd_large/public/headlines/oil_field.jpg?itok=4HxHeDsf" width="955"/></a></div> </div> </div>
 </div>
 </div> </div>
 <div class="panel-pane pane-views pane-news">
-<div class="view view-news view-id-news view-display-id-news_block_secondary secondary-news-article view-dom-id-29b9d1d4d5a01bd4004de61f7da4afe7">
+<div class="view view-news view-id-news view-display-id-news_block_secondary secondary-news-article view-dom-id-c038d3e86c0576c8c76fc5fa29ef50b1">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/life-and-death-crisis-utilities-cut-power-over-765000-across-10-states-during"> 'Life and Death' Crisis as Utilities Cut Power to Over 765,000 Across 10 States During Pandemic</a></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Brett Wilkins, staff writer</div> </div>
-<div class="views-field views-field-field-article-img"> <div class="field-content"><a href="/news/2021/03/16/life-and-death-crisis-utilities-cut-power-over-765000-across-10-states-during"><img alt="Powerlines extend toward the horizon as the sun sets in the west. (Photo Matt Wiebe/Flickr/cc)" class="" height="401" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/powerlines.jpg?itok=98iqXezr" width="768"/></a></div> </div>
-<div class="views-field views-field-field-subtitle"> <div class="field-content">"The Biden administration needs to impose a nationwide shutoffs moratorium immediately," said report author Greer Ryan.</div> </div>
-<div class="views-field views-field-view-node"> <span class="field-content"><a href="/news/2021/03/16/life-and-death-crisis-utilities-cut-power-over-765000-across-10-states-during">Read More</a></span> </div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/coalition-calls-biden-use-us-owned-patent-share-covid-vaccine-world">Coalition Urges Biden to Use US-Owned Patent to Share Covid Vaccine With World</a></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Jake Johnson, staff writer</div> </div>
+<div class="views-field views-field-field-article-img"> <div class="field-content"><a href="/news/2021/03/26/coalition-calls-biden-use-us-owned-patent-share-covid-vaccine-world"><img alt="A coalition of healthcare advocacy community organizations gathered outside Pfizer Worldwide Headquarters in Manhattan on March 11, 2021." class="" height="401" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/gettyimages-12316538311.jpg?itok=fA5oHhzU" width="768"/></a></div> </div>
+<div class="views-field views-field-field-subtitle"> <div class="field-content">"The U.S. government can help end the pandemic if it uses its legal leverage with Moderna to jumpstart an ambitious vaccine manufacturing program to benefit the world."</div> </div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/news/2021/03/26/coalition-calls-biden-use-us-owned-patent-share-covid-vaccine-world">Read More</a></span> </div> </div>
 </div>
 </div> </div>
 <div class="panel-pane pane-views pane-news">
-<div class="view view-news view-id-news view-display-id-news_block_tertiary tertiary-news-article view-dom-id-614500b01f02756e685ad44f08b8fce8">
+<div class="view view-news view-id-news view-display-id-news_block_tertiary tertiary-news-article view-dom-id-1e55158497b1fbe7465a32972d216699">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/50-house-democrats-demand-biden-slash-pentagon-budget-invest-public-health-common">50 House Democrats Demand Biden Slash Pentagon Budget to Invest in Public Health, Common Good</a></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Brett Wilkins, staff writer</div> </div>
-<div class="views-field views-field-field-article-img"> <div class="field-content"><a href="/news/2021/03/16/50-house-democrats-demand-biden-slash-pentagon-budget-invest-public-health-common"><img alt="Numerous progressive groups expressed support for a March 16, 2021 letter from 50 House Democrats calling on President Joe Biden to seek a reduction of the $740 billion Pentagon budget. (Image: Win Without War)" class="" height="401" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/www_0.jpg?itok=PMpOL9mT" width="768"/></a></div> </div>
-<div class="views-field views-field-field-subtitle"> <div class="field-content">"The U.S.' budget priorities are dangerously out of whack," said Win Without...</div> </div>
-<div class="views-field views-field-view-node"> <span class="field-content"><a href="/news/2021/03/16/50-house-democrats-demand-biden-slash-pentagon-budget-invest-public-health-common">Read More</a></span> </div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/nearly-3-4-new-yorkers-favor-taxing-rich-austerity-poll">Nearly 3 in 4 New Yorkers Favor Taxing the Rich to Austerity: Poll</a></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Jon Queally, staff writer</div> </div>
+<div class="views-field views-field-field-article-img"> <div class="field-content"><a href="/news/2021/03/26/nearly-3-4-new-yorkers-favor-taxing-rich-austerity-poll"><img alt='Protestors march across the Brooklyn Bridge holding a sign to "tax the rich" to demand funding for excluded workers in the New York State budget on March 5, 2021 in New York City. The march led by undocumented workers and those recently released from incarceration. Many of these excluded workers have been unable to access unemployment benefits, stimulus checks, and other economic assistance programs intended to help working families affected by the COVID-19 pandemic and the ensuing economic crisis. (Photo: ' class="" height="401" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/tax_the_rich_new_york.jpg?itok=yg9Wid80" width="768"/></a></div> </div>
+<div class="views-field views-field-field-subtitle"> <div class="field-content">Survey shows that voters across political spectrum prefer raising taxes on...</div> </div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/news/2021/03/26/nearly-3-4-new-yorkers-favor-taxing-rich-austerity-poll">Read More</a></span> </div> </div>
 <div class="views-row views-row-2 views-row-even views-row-last">
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/analysis-details-how-bill-congress-could-stop-gop-voter-suppression-nationwide">Analysis Details How Bill in Congress Could Stop GOP Voter Suppression Nationwide</a></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Kenny Stancil, staff writer</div> </div>
-<div class="views-field views-field-field-article-img"> <div class="field-content"><a href="/news/2021/03/16/analysis-details-how-bill-congress-could-stop-gop-voter-suppression-nationwide"><img alt="Demonstrators stand outside of the Georgia Capitol building to oppose HB 531, a recently passed bill that seeks to add voting restrictions to the state's upcoming elections including restricting ballot drop boxes, requiring an ID requirement for absentee voting, and limiting weekend early voting days, on March 3, 2021 in Atlanta. (Photo: Megan Varner/Getty Images)" class="" height="401" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/voting_rights_2_0.jpg?itok=YP8Hbbzu" width="768"/></a></div> </div>
-<div class="views-field views-field-field-subtitle"> <div class="field-content">By passing the For the People Act, as the House recently did, the Senate can "n...</div> </div>
-<div class="views-field views-field-view-node"> <span class="field-content"><a href="/news/2021/03/16/analysis-details-how-bill-congress-could-stop-gop-voter-suppression-nationwide">Read More</a></span> </div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/georgia-rep-charged-felonies-knocking-kemps-door-he-signed-voter-suppression-bill">Georgia Rep. Charged With Felonies for Knocking on Kemp's Door as He Signed Voter Suppression Bill</a></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Jake Johnson, staff writer</div> </div>
+<div class="views-field views-field-field-article-img"> <div class="field-content"><a href="/news/2021/03/26/georgia-rep-charged-felonies-knocking-kemps-door-he-signed-voter-suppression-bill"><img alt="Georgia State Rep. Park Cannon was arrested for knocking on Gov. Brian Kemp's office door on Thursday, March 25, 2021." class="" height="401" src="https://www.commondreams.org/sites/default/files/styles/768x401/public/headlines/screenshot_42.png?itok=MUJ60JF1" width="768"/></a></div> </div>
+<div class="views-field views-field-field-subtitle"> <div class="field-content">"This is straight out of Jim Crow."</div> </div>
+<div class="views-field views-field-view-node"> <span class="field-content"><a href="/news/2021/03/26/georgia-rep-charged-felonies-knocking-kemps-door-he-signed-voter-suppression-bill">Read More</a></span> </div> </div>
 </div>
 </div> </div>
 <div class="panel-pane pane-views pane-news">
-<div class="view view-news view-id-news view-display-id-news_block_therest remaining-news-article grid-layout view-dom-id-17c1faa4c572ae39c5cd4695b530ce01">
+<div class="view view-news view-id-news view-display-id-news_block_therest remaining-news-article grid-layout view-dom-id-466ac980ff23498bbd25423b2c5ad433">
 <div class="view-content">
 <div class="views-row views-row-1 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/medicare-all-would-have-prevented-hundreds-thousands-covid-deaths-new-report"><img alt="Registered Nurses conduct a demonstration in Lafayette Park to read aloud names of health care providers who have contracted COVID-19 and died as a result of treating infected patients on Tuesday, April 21, 2020." class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-12105792751.jpg?itok=wNZ1YWdW" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/medicare-all-would-have-prevented-hundreds-thousands-covid-deaths-new-report">Medicare for All Would Have Prevented Hundreds of Thousands of Covid Deaths: New Report</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/26/senator-demands-postal-board-fire-dejoy-over-pathetic-10-year-plan-weaken-usps"><img alt="Sen. Tammy Duckworth (D-Ill.) talks to reporters during a news conference at the U.S. Capitol on November 17, 2020 in Washington, D.C." class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-12862198481.jpg?itok=ZpL4qqRR" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/senator-demands-postal-board-fire-dejoy-over-pathetic-10-year-plan-weaken-usps">Senator Demands Postal Board Fire DeJoy Over 'Pathetic 10-Year Plan to Weaken USPS'</a></div> </div> </div>
 <div class="views-row views-row-2 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/critics-say-scorched-earth-threat-over-filibuster-shows-mcconnell-getting-scared"><img alt="Senate Minority Leader Mitch McConnell (R-Ky.) speaks during a news conference in the U.S. Capitol after the Senate Republican Policy luncheon in Washington on Tuesday, February 23, 2021." class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-12313450101.jpg?itok=vP83peVH" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/critics-say-scorched-earth-threat-over-filibuster-shows-mcconnell-getting-scared">Critics Say 'Scorched Earth' Threat Over Filibuster Shows McConnell 'Getting Scared' </a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/26/good-step-nyc-council-approves-measure-curb-qualified-immunity"><img alt="" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/nyc-qualified-immunity_0.png?itok=XXjW-ETP" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/good-step-nyc-council-approves-measure-curb-qualified-immunity"> 'A Good Step': NYC Council Approves Measure to Curb Qualified Immunity</a></div> </div> </div>
 <div class="views-row views-row-3 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/total-scandal-memos-expose-failure-obama-era-ftc-stop-googles-monopoly-power"><img alt="A new Politico investigation sheds light on the Federal Trade Commission's probe of Google under former President Barack Obama. (Photo: Nicolas Economou/NurPhoto via Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-12292210481_0.jpg?itok=nKWHNXzw" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/total-scandal-memos-expose-failure-obama-era-ftc-stop-googles-monopoly-power">'Total Scandal': Memos Expose Failure of Obama-Era FTC to Stop Google's Monopoly Power</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/26/sanders-pushing-expand-medicare-lowering-eligibility-age-next-relief-package"><img alt="" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/bernie_sanders_71.jpg?itok=xOIjetge" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/sanders-pushing-expand-medicare-lowering-eligibility-age-next-relief-package">Sanders Pushing to Expand Medicare by Lowering Eligibility Age in Next Relief Package</a></div> </div> </div>
 <div class="views-row views-row-4 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/uk-nuclear-arsenal-plan-slammed-irresponsible-dangerous-violation-international-law"><img alt="An unarmed Trident II missile is fired during an exercise off the California coast. (Photo: Ronald Gutridge/U.S. Navy/Flickr/cc)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/trident_1.jpg?itok=JWFA02Wm" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/uk-nuclear-arsenal-plan-slammed-irresponsible-dangerous-violation-international-law">UK Nuclear Arsenal Plan Slammed as 'Irresponsible, Dangerous' Violation of International Law</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/26/us-water-shutoff-moratorium-may-have-prevented-nearly-500000-covid-19-cases-study"><img alt="New research is boosting pressure on President Joe Biden to support a national moratorium on water shutoffs during the coronavirus pandemic. (Photo: Teresa Short/Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-4906834391.jpg?itok=ACLllkFw" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/us-water-shutoff-moratorium-may-have-prevented-nearly-500000-covid-19-cases-study">US Water Shutoff Moratorium May Have Prevented Nearly 500,000 Covid-19 Cases: Study</a></div> </div> </div>
 <div class="views-row views-row-5 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/hundreds-local-officials-demand-transformative-infrastructure-plan-us"><img alt="Amtrak Pacific Surfliner train passing the Railroad Junctions of Los Angeles Union Station. All the public transportations include the Amtrak train have a tough time during COVID-19 pandemic. (Photo: iStock/Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/infrastructure.png?itok=WaTad7yE" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/hundreds-local-officials-demand-transformative-infrastructure-plan-us">Hundreds of Local Officials Demand 'Transformative' Infrastructure Plan for US</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/26/faith-groups-part-human-rights-coalition-urging-biden-ease-sanctions-amid-pandemic"><img alt="General view of a hospital where health officers, wearing masks and special protective suits, take care of a patient infected by the coronavirus (COVID-19) at a hospital in Tehran, Iran on March 02, 2020. (Photo: Fatemeh Bahrami/Anadolu Agency via Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-1204807196_1_0.jpg?itok=uiqqBern" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/26/faith-groups-part-human-rights-coalition-urging-biden-ease-sanctions-amid-pandemic">Faith Groups Part of Human Rights Coalition Urging Biden to Ease Sanctions Amid Pandemic</a></div> </div> </div>
 <div class="views-row views-row-6 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/unfortunate-if-not-unexpected-biden-criticized-resuming-public-land-drilling-permits"><img alt="A gas drilling rig sits in an area of southeastern Utah managed by the Bureau of Land Management. (Photo: Richer Images/Construction Photography/Avalon/Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/drilling_public_land2.jpg?itok=Vnr8VWsv" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/unfortunate-if-not-unexpected-biden-criticized-resuming-public-land-drilling-permits">'Unfortunate, If Not Unexpected': Biden Criticized for Resuming Public Land Drilling Permits</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/25/vicious-attack-voting-rights-georgia-governor-signs-gop-suppression-bill"><img alt="Georgia Gov. Brian Kemp, a Republican, speaks during a runoff election night party at Grand Hyatt Hotel in Buckhead on January 5, 2021. (Photo: Brandon Bell/Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-12304421391.jpg?itok=VMpSu9-z" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/25/vicious-attack-voting-rights-georgia-governor-signs-gop-suppression-bill">'Vicious Attack on Voting Rights': Georgia Governor Signs GOP Suppression Bill</a></div> </div> </div>
 <div class="views-row views-row-7 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/green-groups-file-first-its-kind-ftc-complaint-against-chevron-climate-lies"><img alt="A large power line lies across a Chevron gas station following the passage of Hurricane Laura through Lake Charles, Louisiana on August 27, 2020. (Photo: Andrew Caballero-Reynolds/AFP via Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/chevron_2_0.jpg?itok=RYxnNQNe" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/green-groups-file-first-its-kind-ftc-complaint-against-chevron-climate-lies">'First-of-Its-Kind' FTC Complaint Filed Against Chevron for Climate Lies</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/25/progressives-applaud-bidens-strongest-comments-yet-reforming-filibuster"><img alt="U.S. President Joe Biden talks to reporters during the first news conference of his presidency in the East Room of the White House on March 25, 2021 in Washington, D.C. (Photo: Chip Somodevilla/Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/biden_press.jpg?itok=EgvG7aAc" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/25/progressives-applaud-bidens-strongest-comments-yet-reforming-filibuster">Progressives Applaud Biden's Strongest Comments Yet on Reforming Filibuster</a></div> </div> </div>
 <div class="views-row views-row-8 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/weapon-mass-obstruction-durbin-blasts-filibuster-senate-floor"><img alt="Sen. Dick Durbin (D-Ill.) speaks during a Senate Judiciary Committee hearing on November 10, 2020 on Capitol Hill in Washington, D.C." class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-12295659831.jpg?itok=c8d5wj1U" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/weapon-mass-obstruction-durbin-blasts-filibuster-senate-floor">'Weapon of Mass Obstruction': Durbin Blasts Filibuster on Senate Floor</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/25/all-each-act-rights-advocates-applaud-bill-end-hyde-amendment"><img alt='Melissa Simpson holds up her arm with "My Body My Choice" written on it during a protest against recently passed abortion ban bills at the Georgia State Capitol building, on May 21, 2019 in Atlanta. (Photo: Elijah Nouvelage/Getty Images)' class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/ceos-dont-ban-equality_0_0_0.jpg?itok=7wIFoUU8" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/25/all-each-act-rights-advocates-applaud-bill-end-hyde-amendment">'All In for the EACH Act': Rights Advocates Applaud Bill to End Hyde Amendment</a></div> </div> </div>
 <div class="views-row views-row-9 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/progressives-biden-no-ambassadorship-ladder-climbing-hack-rahm-emanuel"><img alt="Former Chicago Mayor Rahm Emanuel visits WSJ at Large with Gerry Baker at Fox Business Network studios on August 01, 2019 in New York City." class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/rahm_emanuel.png?itok=lWGtmUnS" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/progressives-biden-no-ambassadorship-ladder-climbing-hack-rahm-emanuel">Progressives to Biden: No Ambassadorship for 'Ladder-Climbing Hack' Rahm Emanuel</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/25/rights-coalition-applauds-bidens-executive-action-promoting-voting-access-all"><img alt="Civil rights activists protest a Georgia bill that would erect barriers to voting on March 3, 2021 at the state Capitol in Atlanta. (Photo: Megan Varner/Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/voting_rights_2_0_0.jpg?itok=CVK0lny0" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/25/rights-coalition-applauds-bidens-executive-action-promoting-voting-access-all">Rights Coalition Applauds Biden's  Executive Action Promoting Voting Access for All Americans</a></div> </div> </div>
 <div class="views-row views-row-10 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/climate-change-here-europes-recent-droughts-unprecedented-millennia-study-finds"><img alt=" This photo from September 1, 2017, shows Spain on its way to its worst drought in 20 years. " class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/worst-drought-2100-years.jpg?itok=JZDWQP50" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/climate-change-here-europes-recent-droughts-unprecedented-millennia-study-finds">'Climate Change Is Here': Europe's Recent Droughts 'Unprecedented' in Millennia, Study Finds</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/25/us-military-ordered-clandestine-burning-toxic-chemicals-poor-neighborhoods-study"><img alt="Residents of Saratoga Sites Public Housing in Cohoes, New York protest dangerous emissions from Norlite on March 19, 2021. (Photo: David Bond via Bennington College)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/norlite.jpg?itok=Ip7WnOum" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/25/us-military-ordered-clandestine-burning-toxic-chemicals-poor-neighborhoods-study">US Military Ordered 'Clandestine Burning' of Toxic Chemicals in Poor Neighborhoods: Study</a></div> </div> </div>
 <div class="views-row views-row-11 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/16/review-trump-era-cdc-guidance-confirms-political-manipulation-agencys-covid-response"><img alt="Centers for Disease Control and Prevention director Rochelle Walensky speaks during a news conference at the Queen Theater in Wilmington, Delaware on December 8, 2020." class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-12901469971.jpg?itok=pbgQ0VDb" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/16/review-trump-era-cdc-guidance-confirms-political-manipulation-agencys-covid-response">Review of Trump Era CDC Guidance Confirms Political Manipulation of Agency's Covid Response</a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/25/progressives-congress-commit-sunrise-movements-10-trillion-good-jobs-all-pledge"><img alt="U.S. lawmakers are signing on to a new pledge that promotes investing $10 trillion over the next 10 years in creating millions of union jobs that address climate change, economic inequality, and systemic racism. (Image: Sunrise Movement) " class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/3hkv1ihd.jpg?itok=93rQfQGl" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/25/progressives-congress-commit-sunrise-movements-10-trillion-good-jobs-all-pledge">Progressives in Congress Commit to Sunrise Movement's $10 Trillion 'Good Jobs for All' Pledge</a></div> </div> </div>
 <div class="views-row views-row-12 grid-tile">
-<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/15/spain-experiment-4-day-workweek-idea-whose-time-has-come"><img alt="Spanish commuters prepare to board a metro train in Madrid on May 4, 2020. (Photo: Eduardo Parra/Europa Press via Getty Images)" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/madrid_0.jpg?itok=dLZ94e1r" width="420"/></a></div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/15/spain-experiment-4-day-workweek-idea-whose-time-has-come">Spain to Experiment With 4-Day Workweek, 'an Idea Whose Time Has Come' </a></div> </div> </div>
+<div class="views-field views-field-field-image"> <div class="field-content"><a href="/news/2021/03/25/extraordinarily-dangerous-georgia-house-passes-bill-give-gop-lawmakers-control"><img alt="Demonstrators hold a sit-in inside of the Georgia state Capitol building in opposition to a voters suppression bill on March 8, 2021 in Atlanta." class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/headline/thumbs/gettyimages-12316010782.jpg?itok=e1KzddXA" width="420"/></a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/news/2021/03/25/extraordinarily-dangerous-georgia-house-passes-bill-give-gop-lawmakers-control">'Extraordinarily Dangerous': Georgia House Passes Bill to Give GOP Lawmakers Control of Election Board</a></div> </div> </div>
 </div>
 <div class="view-footer">
 <p><a class="chevron" href="/news">More News</a></p>
@@ -311,88 +311,88 @@ jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","image_caption":{
 </div> </div>
 <div class="panel-pane pane-views pane-views-articles hide-for-desktop">
 <h2 class="pane-title"><span>Views</span></h2>
-<div class="view view-views-articles view-id-views_articles view-display-id-block view-dom-id-91705c4b046d89f12736f4d6025b9f3c">
+<div class="view view-views-articles view-id-views_articles view-display-id-block view-dom-id-e968d6ceba716e909f8d81da7415b563">
 <div class="view-content">
 <div class="views-row views-row-1">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Derrick Z. Jackson" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jackson.jpg?itok=zcf1gz-b" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Derrick Z. Jackson</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/texas-mississippi-states-dismantle-covid-19-safety-protocols-our-peril">From Texas to Mississippi, States Dismantle Covid-19 Safety Protocols at Our Peril</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Julie Hollar" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/julie-hollar-350px.jpg?itok=01TP4DO0" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Julie Hollar</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/right-and-corporate-media-border-political-crisis-not-humanitarian-emergency">For the Right and Corporate Media, Border Is 'Political Crisis,' Not Humanitarian Emergency</a></div> </div> </div>
 <div class="views-row views-row-2">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Jesse Jackson" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jesse_jackson.jpg?itok=Ua21hzBw" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Jesse Jackson</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/right-vote-essential-functioning-democracy">The Right to Vote Is Essential to a Functioning Democracy</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Laura Flanders" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/lauraflanders.jpg?itok=6Jg344S1" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Laura Flanders</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/does-us-have-culture-violence-not-united-states-women">Does the US Have a Culture of Violence? Not the United States of Women</a></div> </div> </div>
 <div class="views-row views-row-3">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Diane Ravitch" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/diane_ravitch.jpg?itok=vtiJN4Sh" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Diane Ravitch</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/whats-your-zip-code-why-poverty-matters-public-education">What's Your Zip Code? Why Poverty Matters in Public Education</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/diana_0.jpg?itok=fjGnOFZE" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Diana Buttu</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/not-providing-covid-19-vaccinations-palestinians-proof-israels-medical-apartheid">Not Providing Covid-19 Vaccinations to Palestinians Is Proof of Israel's Medical Apartheid</a></div> </div> </div>
 <div class="views-row views-row-4">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Will Bunch" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2017-04-24_at_10.40.23_am.png?itok=7NdHL6rt" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Will Bunch</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/republicans-want-criminalize-protest">New GOP War on Democracy Targets Protest Rights </a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Mark Engler" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/markengler_140x140.jpg?itok=yNGithUS" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Mark Engler, Paul Engler</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/can-social-movements-realign-americas-political-parties-implement-big-change">Can Social Movements Realign America's Political Parties to Implement Big Change?</a></div> </div> </div>
 <div class="views-row views-row-5">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Michael Winship" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/michael-winship-150x150.jpg?itok=uvtLq9Vr" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Michael Winship</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/forget-about-naysayers-dont-throw-away-your-shot">Forget about the Naysayers: Don’t Throw Away Your Shot </a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Ruth Conniff" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/5536675bab037.image_.jpg?itok=B09_Mq8C" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Ruth Conniff</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/border-not-crisis-people-are-suffering">The Border Is Not a 'Crisis' But People Are Suffering</a></div> </div> </div>
 <div class="views-row views-row-6">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Ramzy Baroud" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/ramzy.jpg?itok=rNWDqxD0" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Ramzy Baroud</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/ongoing-calamity-us-collective-punishment-venezuelan-people-must-end">The Ongoing Calamity: US Collective Punishment of the Venezuelan People Must End</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Angela Bradbery is the Frank Karel Endowed Chair in Public Interest Communications at the , University of Florida's College of Journalism and Communications." class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2021-03-26_at_7.03.52_am.png?itok=MO_xdSs2" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Angela Bradbery</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/want-rich-pay-their-fair-share-dont-call-it-tax">Want the Rich to Pay Their Fair Share? Don't Call It a Tax</a></div> </div> </div>
 <div class="views-row views-row-7">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/kevintillman.jpg?itok=q5CUTO4H" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Kevin Tillman</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/how-endless-wars-abroad-helped-spark-january-6-attack-home">How Endless Wars Abroad Helped Spark the January 6 Attack at Home</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Chuck Collins" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/chuck_collins.jpg?itok=esqe97Q1" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Chuck Collins</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/sanders-estate-tax-bill-shuts-down-wealth-hiding-loopholes">Sanders Estate Tax Bill Shuts Down Wealth Hiding Loopholes</a></div> </div> </div>
 <div class="views-row views-row-8">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/robert_0.jpg?itok=IPpyqlzT" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Robert Radin</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/why-united-states-calls-some-refugees-asylees">Why the United States Calls Some Refugees 'Asylees'</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Medea Benjamin" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/medea_benjamin_0.jpg?itok=st372K9g" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Medea Benjamin, Nicolas J.S. Davies</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/us-joins-rules-based-world-afghanistan"> U.S. Joins "Rules-Based World" on Afghanistan</a></div> </div> </div>
 <div class="views-row views-row-9">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Nomi Prins" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/nomi-prins.jpg?itok=qVoJio48" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Nomi Prins</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/bold-us-infrastructure-plan-should-be-great-economic-equalizer">A Bold US Infrastructure Plan Should Be the Great Economic Equalizer</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Peter Certo" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/peter_certo.png?itok=8uN0neuH" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Peter Certo</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/personal-recollection-day-launched-iraq-war-and-its-lessons-us-18-years-later">A Personal Recollection on the Day That Launched the Iraq War—and Its Lessons for Us 18 Years Later</a></div> </div> </div>
 <div class="views-row views-row-10">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Robert Reich" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/portrait.jpg?itok=8rlb2gua" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Robert Reich</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/278-gop-lawmakers-voted-trump-tax-scam-0-voted-covid-relief">278 GOP Lawmakers Voted for Trump Tax Scam, But 0 Voted for Covid Relief</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Maya Evans" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/mayaevans.jpg?itok=8DzVo-aO" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Maya Evans</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/will-drones-really-protect-us">Will Drones Really Protect Us?</a></div> </div> </div>
 <div class="views-row views-row-11">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/mark_3.jpg?itok=O-DAq6mU" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Mark Udall, Bob Goodlatte</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/secrecy-and-unaccountability-surveillance-state-delegitimizes-government-and">The Secrecy and Unaccountability of the Surveillance State Delegitimizes the Government and Undermines Trust</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Robert C. Koehler" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/bob_koehler.jpg?itok=3iwG0EZm" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Robert C. Koehler</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/waging-war-supermarket-and-abroad">Waging War at the Supermarket and Abroad</a></div> </div> </div>
 <div class="views-row views-row-12">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Conn Hallinan" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/connhallinan.jpg?itok=8eiKXrnp" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Conn Hallinan</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/bloody-truth-about-drones-we-need-international-convention-drones">The Bloody Truth About Drones: We Need an International Convention on Drones</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Karen Greenberg" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/karengreenberg_140x140.jpg?itok=9T8eUOaI" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Karen Greenberg</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/holding-our-breaths-aumfs-drones-and-guantanamo">Holding Our Breaths on AUMFs, Drones, and Guantánamo</a></div> </div> </div>
 <div class="views-row views-row-13">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/unnamed_0.png?itok=CCaKkI95" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Woody Hastings</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/tale-two-cities-one-planning-2050s-other-1950s">A Tale of Two Cities: One Planning for the 2050s, the Other for the 1950s</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Nick Dearden" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/nick_1.jpg?itok=HQheimhw" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Nick Dearden</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/greed-drove-big-pharma-companies-privatize-vaccines-developed-public-resources">Greed Drove Big Pharma Companies to Privatize Vaccines Developed With Public Resources</a></div> </div> </div>
 <div class="views-row views-row-14">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="James Zogby" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jim_zogby-sm.jpg?itok=Innp10_b" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">James Zogby</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/us-policy-ignores-palestinian-human-rights">US Policy Ignores Palestinian Human Rights</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Jim Hightower" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jim-hightower.jpg?itok=YMeT_FqS" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Jim Hightower</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/republican-officials-no-longer-support-democracy">Republican Officials No Longer Support Democracy</a></div> </div> </div>
 <div class="views-row views-row-15">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Lawrence Wittner" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/wittner2.jpg?itok=OLG16B2N" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Lawrence Wittner</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/us-government-should-promote-general-welfare">The U.S. Government Should Promote the General Welfare</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/phyllis-richardson-e1616604129710-105x140.jpg?itok=F4dGSXfF" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Phyllis Richardson</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/most-sustained-effort-silence-voters-jim-crow">The Most Sustained Effort to Silence Voters Since Jim Crow</a></div> </div> </div>
 <div class="views-row views-row-16">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/ada-rajkovic.jpeg?itok=Hq7dyRcL" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Ada Rajkovic</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/coverage-texas-declaration-covid-victory-left-out-rapidly-rising-toll">Coverage of Texas' Declaration of Covid Victory Left Out Rapidly Rising Toll</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2020-03-01_at_3.56.46_pm.png?itok=3MzQ7IJ9" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Phil Ateto</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/how-many-more-people-have-die-we-pass-medicare-all">How Many More People Have to Die Before We Pass Medicare for All?</a></div> </div> </div>
 <div class="views-row views-row-17">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/sadat-hi-def-picture-preferred-headshot.jpg?itok=Y295JcOZ" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Leila N. Sadat</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/unless-biden-acts-trumps-assault-human-rights-will-continue">Unless Biden Acts, Trump's Assault on Human Rights Will Continue</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/sabrina_1.jpg?itok=OsWMMJAt" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Sabrina Ahmed</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/plant-based-diets-can-help-save-planet">Plant-Based Diets Can Help Save the Planet</a></div> </div> </div>
 <div class="views-row views-row-18">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/zacharyroth3.jpeg?itok=s2lDY6_V" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Zachary Roth</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/rise-legislative-anti-democracy">The Rise of Legislative Anti-Democracy </a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Basav Sen" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/basav-sen.jpeg?itok=2w1XghGg" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Basav Sen</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/fossil-fuel-industry-turning-far-right-authoritarians">The Fossil Fuel Industry Is Turning to Far-Right Authoritarians</a></div> </div> </div>
 <div class="views-row views-row-19">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Neve Gordon" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/neve_gordon.jpg?itok=IlJUGACY" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Neve Gordon</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/icc-and-israels-charge-anti-semitism">The ICC and Israel's Charge of Anti-Semitism</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Chuck Collins" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/chuck_collins.jpg?itok=esqe97Q1" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Chuck Collins</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/10-biggest-pandemic-profiteers">10 Biggest Pandemic Profiteers</a></div> </div> </div>
 <div class="views-row views-row-20">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/nolan_0.jpg?itok=bteCLYxC" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Hamilton Nolan</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/filibuster-labor-issue">The Filibuster Is a Labor Issue</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Jonathan Cook" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jonathan_cook.jpg?itok=m5oEhqY-" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Jonathan Cook</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/we-are-living-through-time-fear-not-just-virus-each-other">We Are Living Through a Time of Fear–Not Just of the Virus, but of Each Other</a></div> </div> </div>
 </div>
 <div class="more-link">
 <a href="/views">
@@ -401,15 +401,15 @@ jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","image_caption":{
 </div> </div>
 <div class="panel-pane pane-views pane-further">
 <h2 class="pane-title"><span>Further...</span></h2>
-<div class="view view-further view-id-further view-display-id-block view-dom-id-968ca19a3c8fab7f492fc2a3ed457bcd">
+<div class="view view-further view-id-further view-display-id-block view-dom-id-1be3f2e9a7f2b060cba82ca2a9356050">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/further/2021/03/16/dear-racist-america-derek-chauvin-trial-not-george-floyd">Dear Racist America, Derek Chauvin Is On Trial. Not George Floyd.</a></div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/further/2021/03/25/bigger-her">Bigger Than Her </a></div> </div>
 <div class="views-field views-field-field-image"> <div class="field-content"><p class="print-no">
-<a href="/further/2021/03/16/dear-racist-america-derek-chauvin-trial-not-george-floyd"><img alt="" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/further/george_tease_snow_star_tribune_merlin_61848303.jpg?itok=1Gs9we74" width="420"/></a></p>
+<a href="/further/2021/03/25/bigger-her"><img alt="" class="" height="220" src="https://www.commondreams.org/sites/default/files/styles/cd_special_coverage/public/further/asian_tease_61xgqowxryo61_0.jpg?itok=IkSu7f5L" width="420"/></a></p>
 </div> </div>
-<div class="views-field views-field-body"> <div class="field-content">In a trial you'd think would be superfluous after the whole world saw him kneel on George Floyd's neck for almost nine minutes, the judge in Derek Chauvin's case is weighing delaying or moving the trial after the defense argued news of the city's huge setttlement with Floyd's family was "very suspicious." The judge will also consider a defense motion to allow evidence of Floyd's prior arrest, because smears work well when you're scrambling to prove it isn't a crime to kill a black man on film.</div> </div>
-<div class="views-field views-field-field-more-text"> <div class="field-content"><a href="/further/2021/03/16/dear-racist-america-derek-chauvin-trial-not-george-floyd">Read More...</a></div> </div> </div>
+<div class="views-field views-field-body"> <div class="field-content">As six people were massacred in Atlanta and 10 in Boulder and the US plunged 11 points to a new low in global ranking of civil liberties, is it good or bad news a 75-year-old Chinese woman in San Francisco was punched in the face by a white thug amidst widespread anti-Asian hate, fought back with a stick, received almost $1 million for medical help in a GoFundMe set up by her grandson, and insists on giving it all back to her community to combat racism? In awful times, a ragged silver lining.</div> </div>
+<div class="views-field views-field-field-more-text"> <div class="field-content"><a href="/further/2021/03/25/bigger-her">Read More...</a></div> </div> </div>
 </div>
 <div class="more-link">
 <a href="https://www.commondreams.org/further">
@@ -418,26 +418,26 @@ jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","image_caption":{
 </div> </div>
 <div class="panel-pane pane-views pane-newswire">
 <h2 class="pane-title"><span>Progressive Newswire</span></h2>
-<div class="view view-newswire view-id-newswire view-display-id-block view-dom-id-8714e71add997965fee2c921b3973960">
+<div class="view view-newswire view-id-newswire view-display-id-block view-dom-id-624ec5b96c1c6b47e7965b494ebfc501">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first">
-<div class="views-field views-field-name"> <span class="field-content">Demand Progress</span> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/16/dozens-groups-urge-congress-pass-war-powers-resolution-response-biden-admins">Dozens of Groups Urge Congress to Pass a War Powers Resolution in Response to Biden Admin’s Unauthorized Strike in Syria</a></div> </div> </div>
+<div class="views-field views-field-name"> <span class="field-content">Repair Our Democracy</span> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/26/new-racist-voter-suppression-law-georgia-increases-urgency-congress-pass-people">New Racist Voter Suppression Law In Georgia Increases Urgency for Congress to Pass For the People Act</a></div> </div> </div>
 <div class="views-row views-row-2 views-row-even">
-<div class="views-field views-field-name"> <span class="field-content">Congresswoman Barbara Lee</span> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/16/lee-pocan-auchincloss-lead-50-members-urging-biden-cut-defense-budget">Lee, Pocan &amp; Auchincloss Lead 50 Members Urging Biden to Cut Defense Budget</a></div> </div> </div>
+<div class="views-field views-field-name"> <span class="field-content">Union of Concerned Scientists (UCS)</span> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/26/science-group-says-bill-will-help-keep-workers-safe-climate-change-makes-hot-day">Science Group Says Bill Will Help Keep Workers Safe as Climate Change Makes Hot Day More Frequent, Intense</a></div> </div> </div>
 <div class="views-row views-row-3 views-row-odd">
-<div class="views-field views-field-name"> <span class="field-content">Win Without War</span> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/16/50-house-lawmakers-are-right-excessive-pentagon-spending-wont-make-us-safer">50 House Lawmakers Are Right: Excessive Pentagon Spending Won’t Make Us Safer</a></div> </div> </div>
+<div class="views-field views-field-name"> <span class="field-content">Western Watersheds Project</span> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/26/wolf-killing-rancher-loses-bid-keep-his-public-land-grazing-permit">Wolf-Killing Rancher Loses Bid to Keep His Public Land Grazing Permit</a></div> </div> </div>
 <div class="views-row views-row-4 views-row-even">
-<div class="views-field views-field-name"> <span class="field-content">The Main Street Alliance</span> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/16/small-businesses-applaud-guzman-head-sba-want-agency-address-inequities-across">Small Businesses Applaud Guzman as Head of SBA—Want Agency to Address Inequities Across Small Business Support</a></div> </div> </div>
+<div class="views-field views-field-name"> <span class="field-content">UltraViolet</span> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/26/womens-group-coca-cola-and-att-are-complicit-georgias-new-voter-suppression-law">Women’s Group: Coca-Cola and AT&amp;T Are Complicit in Georgia’s New Voter Suppression Law</a></div> </div> </div>
 <div class="views-row views-row-5 views-row-odd">
-<div class="views-field views-field-name"> <span class="field-content">Stand Up America</span> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/16/stand-america-launches-campaign-pressure-senate-pass-s-1-eliminating-filibuster">Stand Up America Launches Campaign to Pressure Senate to Pass S. 1 By Eliminating the Filibuster</a></div> </div> </div>
+<div class="views-field views-field-name"> <span class="field-content">Justice Democrats</span> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/26/progressives-call-greater-climate-investment-bidens-infrastructure-package">Progressives Call For Greater Climate Investment in Biden’s Infrastructure Package</a></div> </div> </div>
 <div class="views-row views-row-6 views-row-even views-row-last">
-<div class="views-field views-field-name"> <span class="field-content">Center for Biological Diversity</span> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/16/legal-petition-asks-biden-administration-extend-offshore-oil-leasing-halt">Legal Petition Asks Biden Administration to Extend Offshore Oil Leasing Halt</a></div> </div> </div>
+<div class="views-field views-field-name"> <span class="field-content">Campaign Legal Center</span> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/newswire/2021/03/26/georgia-voter-suppression-law-will-move-us-backwards">Georgia Voter Suppression Law Will Move Us Backwards</a></div> </div> </div>
 </div>
 <div class="more-link">
 <a href="/newswire">
@@ -473,88 +473,88 @@ document.write( '<script type="text/javascript" src="'+aoCAP.protocol+'//'+aoCAP
 </div>
 <div class="panel-pane pane-views pane-views-articles hide-for-tablet">
 <h2 class="pane-title"><span>Views</span></h2>
-<div class="view view-views-articles view-id-views_articles view-display-id-block view-dom-id-b67d74e164bbc5956a556fc0b7c7a9e1">
+<div class="view view-views-articles view-id-views_articles view-display-id-block view-dom-id-aa916d0d6ddcd95e3a65e311539be408">
 <div class="view-content">
 <div class="views-row views-row-1">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Derrick Z. Jackson" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jackson.jpg?itok=zcf1gz-b" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Derrick Z. Jackson</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/texas-mississippi-states-dismantle-covid-19-safety-protocols-our-peril">From Texas to Mississippi, States Dismantle Covid-19 Safety Protocols at Our Peril</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Julie Hollar" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/julie-hollar-350px.jpg?itok=01TP4DO0" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Julie Hollar</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/right-and-corporate-media-border-political-crisis-not-humanitarian-emergency">For the Right and Corporate Media, Border Is 'Political Crisis,' Not Humanitarian Emergency</a></div> </div> </div>
 <div class="views-row views-row-2">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Jesse Jackson" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jesse_jackson.jpg?itok=Ua21hzBw" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Jesse Jackson</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/right-vote-essential-functioning-democracy">The Right to Vote Is Essential to a Functioning Democracy</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Laura Flanders" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/lauraflanders.jpg?itok=6Jg344S1" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Laura Flanders</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/does-us-have-culture-violence-not-united-states-women">Does the US Have a Culture of Violence? Not the United States of Women</a></div> </div> </div>
 <div class="views-row views-row-3">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Diane Ravitch" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/diane_ravitch.jpg?itok=vtiJN4Sh" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Diane Ravitch</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/whats-your-zip-code-why-poverty-matters-public-education">What's Your Zip Code? Why Poverty Matters in Public Education</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/diana_0.jpg?itok=fjGnOFZE" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Diana Buttu</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/not-providing-covid-19-vaccinations-palestinians-proof-israels-medical-apartheid">Not Providing Covid-19 Vaccinations to Palestinians Is Proof of Israel's Medical Apartheid</a></div> </div> </div>
 <div class="views-row views-row-4">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Will Bunch" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2017-04-24_at_10.40.23_am.png?itok=7NdHL6rt" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Will Bunch</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/republicans-want-criminalize-protest">New GOP War on Democracy Targets Protest Rights </a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Mark Engler" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/markengler_140x140.jpg?itok=yNGithUS" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Mark Engler, Paul Engler</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/can-social-movements-realign-americas-political-parties-implement-big-change">Can Social Movements Realign America's Political Parties to Implement Big Change?</a></div> </div> </div>
 <div class="views-row views-row-5">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Michael Winship" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/michael-winship-150x150.jpg?itok=uvtLq9Vr" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Michael Winship</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/forget-about-naysayers-dont-throw-away-your-shot">Forget about the Naysayers: Don’t Throw Away Your Shot </a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Ruth Conniff" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/5536675bab037.image_.jpg?itok=B09_Mq8C" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Ruth Conniff</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/border-not-crisis-people-are-suffering">The Border Is Not a 'Crisis' But People Are Suffering</a></div> </div> </div>
 <div class="views-row views-row-6">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Ramzy Baroud" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/ramzy.jpg?itok=rNWDqxD0" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Ramzy Baroud</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/ongoing-calamity-us-collective-punishment-venezuelan-people-must-end">The Ongoing Calamity: US Collective Punishment of the Venezuelan People Must End</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Angela Bradbery is the Frank Karel Endowed Chair in Public Interest Communications at the , University of Florida's College of Journalism and Communications." class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2021-03-26_at_7.03.52_am.png?itok=MO_xdSs2" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Angela Bradbery</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/26/want-rich-pay-their-fair-share-dont-call-it-tax">Want the Rich to Pay Their Fair Share? Don't Call It a Tax</a></div> </div> </div>
 <div class="views-row views-row-7">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/kevintillman.jpg?itok=q5CUTO4H" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Kevin Tillman</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/how-endless-wars-abroad-helped-spark-january-6-attack-home">How Endless Wars Abroad Helped Spark the January 6 Attack at Home</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Chuck Collins" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/chuck_collins.jpg?itok=esqe97Q1" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Chuck Collins</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/sanders-estate-tax-bill-shuts-down-wealth-hiding-loopholes">Sanders Estate Tax Bill Shuts Down Wealth Hiding Loopholes</a></div> </div> </div>
 <div class="views-row views-row-8">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/robert_0.jpg?itok=IPpyqlzT" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Robert Radin</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/16/why-united-states-calls-some-refugees-asylees">Why the United States Calls Some Refugees 'Asylees'</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Medea Benjamin" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/medea_benjamin_0.jpg?itok=st372K9g" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Medea Benjamin, Nicolas J.S. Davies</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/us-joins-rules-based-world-afghanistan"> U.S. Joins "Rules-Based World" on Afghanistan</a></div> </div> </div>
 <div class="views-row views-row-9">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Nomi Prins" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/nomi-prins.jpg?itok=qVoJio48" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Nomi Prins</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/bold-us-infrastructure-plan-should-be-great-economic-equalizer">A Bold US Infrastructure Plan Should Be the Great Economic Equalizer</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Peter Certo" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/peter_certo.png?itok=8uN0neuH" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Peter Certo</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/personal-recollection-day-launched-iraq-war-and-its-lessons-us-18-years-later">A Personal Recollection on the Day That Launched the Iraq War—and Its Lessons for Us 18 Years Later</a></div> </div> </div>
 <div class="views-row views-row-10">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Robert Reich" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/portrait.jpg?itok=8rlb2gua" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Robert Reich</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/278-gop-lawmakers-voted-trump-tax-scam-0-voted-covid-relief">278 GOP Lawmakers Voted for Trump Tax Scam, But 0 Voted for Covid Relief</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Maya Evans" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/mayaevans.jpg?itok=8DzVo-aO" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Maya Evans</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/will-drones-really-protect-us">Will Drones Really Protect Us?</a></div> </div> </div>
 <div class="views-row views-row-11">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/mark_3.jpg?itok=O-DAq6mU" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Mark Udall, Bob Goodlatte</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/secrecy-and-unaccountability-surveillance-state-delegitimizes-government-and">The Secrecy and Unaccountability of the Surveillance State Delegitimizes the Government and Undermines Trust</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Robert C. Koehler" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/bob_koehler.jpg?itok=3iwG0EZm" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Robert C. Koehler</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/waging-war-supermarket-and-abroad">Waging War at the Supermarket and Abroad</a></div> </div> </div>
 <div class="views-row views-row-12">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Conn Hallinan" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/connhallinan.jpg?itok=8eiKXrnp" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Conn Hallinan</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/bloody-truth-about-drones-we-need-international-convention-drones">The Bloody Truth About Drones: We Need an International Convention on Drones</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Karen Greenberg" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/karengreenberg_140x140.jpg?itok=9T8eUOaI" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Karen Greenberg</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/holding-our-breaths-aumfs-drones-and-guantanamo">Holding Our Breaths on AUMFs, Drones, and Guantánamo</a></div> </div> </div>
 <div class="views-row views-row-13">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/unnamed_0.png?itok=CCaKkI95" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Woody Hastings</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/tale-two-cities-one-planning-2050s-other-1950s">A Tale of Two Cities: One Planning for the 2050s, the Other for the 1950s</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Nick Dearden" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/nick_1.jpg?itok=HQheimhw" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Nick Dearden</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/25/greed-drove-big-pharma-companies-privatize-vaccines-developed-public-resources">Greed Drove Big Pharma Companies to Privatize Vaccines Developed With Public Resources</a></div> </div> </div>
 <div class="views-row views-row-14">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="James Zogby" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jim_zogby-sm.jpg?itok=Innp10_b" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">James Zogby</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/us-policy-ignores-palestinian-human-rights">US Policy Ignores Palestinian Human Rights</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Jim Hightower" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jim-hightower.jpg?itok=YMeT_FqS" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Jim Hightower</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/republican-officials-no-longer-support-democracy">Republican Officials No Longer Support Democracy</a></div> </div> </div>
 <div class="views-row views-row-15">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Lawrence Wittner" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/wittner2.jpg?itok=OLG16B2N" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Lawrence Wittner</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/15/us-government-should-promote-general-welfare">The U.S. Government Should Promote the General Welfare</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/phyllis-richardson-e1616604129710-105x140.jpg?itok=F4dGSXfF" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Phyllis Richardson</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/most-sustained-effort-silence-voters-jim-crow">The Most Sustained Effort to Silence Voters Since Jim Crow</a></div> </div> </div>
 <div class="views-row views-row-16">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/ada-rajkovic.jpeg?itok=Hq7dyRcL" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Ada Rajkovic</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/coverage-texas-declaration-covid-victory-left-out-rapidly-rising-toll">Coverage of Texas' Declaration of Covid Victory Left Out Rapidly Rising Toll</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/screen_shot_2020-03-01_at_3.56.46_pm.png?itok=3MzQ7IJ9" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Phil Ateto</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/how-many-more-people-have-die-we-pass-medicare-all">How Many More People Have to Die Before We Pass Medicare for All?</a></div> </div> </div>
 <div class="views-row views-row-17">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/sadat-hi-def-picture-preferred-headshot.jpg?itok=Y295JcOZ" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Leila N. Sadat</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/unless-biden-acts-trumps-assault-human-rights-will-continue">Unless Biden Acts, Trump's Assault on Human Rights Will Continue</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/sabrina_1.jpg?itok=OsWMMJAt" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Sabrina Ahmed</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/plant-based-diets-can-help-save-planet">Plant-Based Diets Can Help Save the Planet</a></div> </div> </div>
 <div class="views-row views-row-18">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/zacharyroth3.jpeg?itok=s2lDY6_V" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Zachary Roth</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/rise-legislative-anti-democracy">The Rise of Legislative Anti-Democracy </a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Basav Sen" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/basav-sen.jpeg?itok=2w1XghGg" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Basav Sen</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/fossil-fuel-industry-turning-far-right-authoritarians">The Fossil Fuel Industry Is Turning to Far-Right Authoritarians</a></div> </div> </div>
 <div class="views-row views-row-19">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Neve Gordon" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/neve_gordon.jpg?itok=IlJUGACY" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Neve Gordon</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/icc-and-israels-charge-anti-semitism">The ICC and Israel's Charge of Anti-Semitism</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Chuck Collins" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/chuck_collins.jpg?itok=esqe97Q1" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Chuck Collins</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/10-biggest-pandemic-profiteers">10 Biggest Pandemic Profiteers</a></div> </div> </div>
 <div class="views-row views-row-20">
-<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/authors/nolan_0.jpg?itok=bteCLYxC" width="65"/></div> </div>
-<div class="views-field views-field-field-hp-author"> <div class="field-content">Hamilton Nolan</div> </div>
-<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/14/filibuster-labor-issue">The Filibuster Is a Labor Issue</a></div> </div> </div>
+<div class="views-field views-field-field-profile-img"> <div class="field-content"><img alt="Jonathan Cook" class="" height="65" src="https://www.commondreams.org/sites/default/files/styles/cd_bio_small/public/jonathan_cook.jpg?itok=m5oEhqY-" width="65"/></div> </div>
+<div class="views-field views-field-field-hp-author"> <div class="field-content">Jonathan Cook</div> </div>
+<div class="views-field views-field-field-hp-title"> <div class="field-content"><a href="/views/2021/03/24/we-are-living-through-time-fear-not-just-virus-each-other">We Are Living Through a Time of Fear–Not Just of the Virus, but of Each Other</a></div> </div> </div>
 </div>
 <div class="more-link">
 <a href="/views">

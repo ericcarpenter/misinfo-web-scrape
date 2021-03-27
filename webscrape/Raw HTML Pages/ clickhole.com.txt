@@ -2,6 +2,7 @@
 
 <html lang="en-US">
 <head>
+<!--/ Open Graphite Start for Post ID: 105851 /-->
 <meta content="en_US" property="og:locale"/>
 <meta content="article" property="og:type"/>
 <meta content="https://clickhole.com" property="og:url"/>
@@ -21,9 +22,11 @@
 <meta content="https://clickhole.com/wp-content/uploads/2020/05/ch-card.jpg" name="twitter:image"/>
 <meta content="ClickHole" name="twitter:creator"/>
 <meta content="ClickHole" name="twitter:site"/>
+<!--/ Open Graphite End /-->
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta content="Mission News 1.38" name="template"/>
+<!-- This site is optimized with the Yoast SEO plugin v15.9 - https://yoast.com/wordpress/plugins/seo/ -->
 <title>ClickHole - Because All Content Deserves To Go Viral.</title>
 <meta content="Because All Content Deserves To Go Viral." name="description"/>
 <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
@@ -41,6 +44,7 @@
 <meta content="summary_large_image" name="twitter:card"/>
 <meta content="@clickhole" name="twitter:site"/>
 <script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://clickhole.com/#website","url":"https://clickhole.com/","name":"ClickHole","description":"Because All Content Deserves To Go Viral.","potentialAction":[{"@type":"SearchAction","target":"https://clickhole.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://clickhole.com/#webpage","url":"https://clickhole.com/","name":"ClickHole - Because All Content Deserves To Go Viral.","isPartOf":{"@id":"https://clickhole.com/#website"},"description":"Because All Content Deserves To Go Viral.","breadcrumb":{"@id":"https://clickhole.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://clickhole.com/"]}]},{"@type":"BreadcrumbList","@id":"https://clickhole.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://clickhole.com/","url":"https://clickhole.com/","name":"ClickHole - Because All Content Deserves To Go Viral."}}]}]}</script>
+<!-- / Yoast SEO plugin. -->
 <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
 <link href="//s.w.org" rel="dns-prefetch"/>
 <link href="https://clickhole.com/feed/" rel="alternate" title="ClickHole » Feed" type="application/rss+xml"/>
@@ -97,22 +101,289 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
             }
 </style>
 <link href="https://clickhole.com/wp-content/themes/clickhole/style.css?ver=5.6" id="ct-mission-news-child-style-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="//fonts.googleapis.com/css?family=Abril+Fatface%7CPT+Sans%3A400%2C700%7CPT+Serif%3A400%2C400i%2C700%2C700i&amp;subset=latin%2Clatin-ext&amp;display=swap&amp;ver=5.6" id="ct-mission-news-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="ct-mission-news-google-fonts-css" media="all">@font-face {
+  font-family: 'Abril Fatface';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/abrilfatface/v12/zOL64pLDlL1D99S8g8PtiKchq-lmiA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/ptsans/v12/jizaRExUiTo99u79D0yEwA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/ptsans/v12/jizfRExUiTo99u79B_mh0OCtKA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/ptserif/v12/EJRTQgYoZZY2vCFuvAFT_rO1dw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/ptserif/v12/EJRQQgYoZZY2vCFuvAFT9gaQZyffpQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/ptserif/v12/EJRVQgYoZZY2vCFuvAFYzro.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts.gstatic.com/s/ptserif/v12/EJRSQgYoZZY2vCFuvAnt66qcVy4.ttf) format('truetype');
+}
+</style>
 <link href="https://clickhole.com/wp-content/themes/mission-news/assets/font-awesome/css/all.min.css?ver=5.6" id="ct-mission-news-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://clickhole.com/wp-content/plugins/mission-news-pro/styles/style.min.css?ver=5.6" id="ct-mission-news-pro-style-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2C400%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic&amp;subset=latin%2Clatin-ext&amp;ver=5.6" id="ct-mission-news-pro-primary-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2C400%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic&amp;subset=latin%2Clatin-ext&amp;ver=5.6" id="ct-mission-news-pro-secondary-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2C400%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic&amp;subset=latin%2Clatin-ext&amp;ver=5.6" id="ct-mission-news-pro-site-title-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="ct-mission-news-pro-primary-google-fonts-css" media="all">@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 200;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 600;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 900;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 200;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdr.ttf) format('truetype');
+}
+</style>
+<style id="ct-mission-news-pro-secondary-google-fonts-css" media="all">@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 200;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 600;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 900;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 200;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdr.ttf) format('truetype');
+}
+</style>
+<style id="ct-mission-news-pro-site-title-google-fonts-css" media="all">@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 200;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 300;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 600;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 700;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 900;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18E.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 200;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 300;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url(/fonts.gstatic.com/s/sourcesanspro/v14/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRdr.ttf) format('truetype');
+}
+</style>
 <link href="https://clickhole.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieconsent.min.css?ver=4.8.2" id="cmplz-cookie-css" media="all" rel="stylesheet" type="text/css"/>
 <script id="jquery-core-js" src="https://clickhole.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
 <script id="jquery-migrate-js" src="https://clickhole.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
 <link href="https://clickhole.com/wp-json/" rel="https://api.w.org/"/><link href="https://clickhole.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
 <link href="https://clickhole.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
 <meta content="WordPress 5.6" name="generator"/>
+<!-- Onionbuzz Custom CSS -->
 <style type="text/css">
 .animated.flipOutX, .animated.flipOutY, .animated.bounceIn, .animated.bounceOut { animation-duration: 0s; } .shortcode-quiz h1 { display: none; } .la-quiz-answers-list .la-quiz-question-answer-item { border-width: 1px; } .la-quiz-question-answer-item:hover { background: #fff5eea6; border: 1px solid #ff670191; box-shadow: 3px 3px 0px #F9F7F7; } .la-quiz-question-answer-item.active { background: #fff9f5; border: 1px solid #ff6701; box-shadow: 3px 3px 0px #F9F7F7; } .la-quiz-result-block { border-width: 1px; } .la-quiz-result-image { float: left; width: 50%; margin-right: 36px; } .la-shortcode-container.shortcode-quiz hr { display: block; clear: left; } .la-quiz-result-block.repl { border: 3px solid #0f0c0c; background: #241f1f; color: #fff; } .la-play-again.withtext, .la-front-button, .la-quiz-result-block, .la-quiz-answers-list .la-quiz-question-answer-item, .la-quiz-question-explanation, .la-quiz-question-answer-item.active.correct, .la-quiz-question-answer-item.active.incorrect, .la-quiz-answers-grid .la-quiz-question-answer-item { -moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0; border-width: 1px; }
 </style>
-<script type="text/javascript">window.onionbuzz_params = {"ajax_url":"https:\/\/clickhole.com\/wp-admin\/admin-ajax.php","is_mobile":false};</script><link href="https://clickhole.com/wp-content/uploads/2020/05/cropped-clickhole-icon-32x32.png" rel="icon" sizes="32x32"/>
+<!-- Onionbuzz Custom CSS END -->
+<script type="text/javascript">window.onionbuzz_params = {"ajax_url":"https:\/\/clickhole.com\/wp-admin\/admin-ajax.php","is_mobile":true};</script><link href="https://clickhole.com/wp-content/uploads/2020/05/cropped-clickhole-icon-32x32.png" rel="icon" sizes="32x32"/>
 <link href="https://clickhole.com/wp-content/uploads/2020/05/cropped-clickhole-icon-192x192.png" rel="icon" sizes="192x192"/>
 <link href="https://clickhole.com/wp-content/uploads/2020/05/cropped-clickhole-icon-180x180.png" rel="apple-touch-icon"/>
 <meta content="https://clickhole.com/wp-content/uploads/2020/05/cropped-clickhole-icon-270x270.png" name="msapplication-TileImage"/>
@@ -131,12 +402,16 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
 .ai-viewport-3                { display: inherit !important;}
 }
 </style>
+<!-- GeoEdge code -->
 <script>
 		window.grumi = {       
 			key: 'fcee3c44-038a-49e5-b538-09632f67da09'
 		};
   </script>
 <script asyn="" src="//rumcdn.geoedge.be/fcee3c44-038a-49e5-b538-09632f67da09/grumi-ip.js"></script>
+<!-- Ad Inserter Code 
+<script data-ad-client="ca-pub-5883386043577274" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-167984105-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -145,6 +420,7 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
 
   gtag('config', 'UA-167984105-1');
 </script>
+<!-- Begin comScore Tag -->
 <script>
   var _comscore = _comscore || [];
   _comscore.push({ c1: "2", c2: "34695557" });
@@ -157,7 +433,10 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
 <noscript>
 <img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=34695557&amp;cv=3.6.0&amp;cj=1"/>
 </noscript>
+<!-- End comScore Tag -->
+<!-- Venatus Ad Manager - Install in <HEAD> of page -->
 <script async="" data-mode="scan" data-site-id="5f6c7efe6c15bf5628836941" src="https://hb.vntsm.com/v3/live/ad-manager.min.js" type="text/javascript"></script>
+<!-- / Venatus Ad Manager -->
 </head>
 <body class="home blog wp-custom-logo sticky-header sticky-header-shrink sticky-header-mobile layout-double layout-right-sidebar-wide" data-cmplz="1" id="clickhole">
 <a class="skip-content" href="#main">Press "Enter" to skip to content</a>
@@ -217,11 +496,13 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
 </header>
 <aside class="widget-area widget-area-below-header active-1" id="below-header" role="complementary">
 <section class="extendedwopts-hide extendedwopts-mobile widget ai_widget ai-viewport-1 ai-viewport-2" id="ai_widget-2"><div class="code-block code-block-1" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<!-- Clickhole - 728x90 Dynamic (5f71b0b16c15bf5628836a79) - 728x90, 970x250, 970x90 - Place in <BODY> of page where ad should appear -->
 <div class="vm-placement" data-id="5f71b0b16c15bf5628836a79"></div>
-</div>
+<!-- / Clickhole - 728x90 Dynamic (5f71b0b16c15bf5628836a79) --></div>
 </section><section class="extendedwopts-hide extendedwopts-desktop extendedwopts-tablet widget ai_widget ai-viewport-3" id="ai_widget-4"><div class="code-block code-block-2" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<!-- Clickhole - 300x50 Dynamic Mobile (5f71b0ce1845b04a29e9acfb) - 300x50, 320x50 - Place in <BODY> of page where ad should appear -->
 <div class="vm-placement" data-id="5f71b0ce1845b04a29e9acfb"></div>
-</div>
+<!-- / Clickhole - 300x50 Dynamic Mobile (5f71b0ce1845b04a29e9acfb) --></div>
 </section> </aside>
 <div class="content-container">
 <div class="layout-container">
@@ -233,7 +514,9 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
 <p class="post-byline-categories"><a href="https://clickhole.com/category/news/" title="View all posts in News">News</a></p> <h2 class="post-title">
 <a href="https://clickhole.com/self-care-ftw-this-company-just-gave-its-staff-a-full-week-off-to-catch-up-on-work-stuff/">Self-Care FTW: This Company Just Gave Its Staff A Full Week Off To Catch Up On Work Stuff</a>
 </h2>
-<div class="post-byline">March 11, 2021</div>
+<div class="post-byline">March 11, 2021</div> <!-- <div class="post-content">
+				<p>Now more than ever, employers are becoming more sensitive to their workers’ well-being, and this story is a prime example of how companies can look&#8230;</p>
+			</div> -->
 </div>
 </article>
 </div><div class="post-105771 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-celebrities tag-celebs tag-death tag-hollywood tag-oprah tag-tom-hanks tag-wow entry double">
@@ -312,7 +595,7 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
 <span class="page-numbers dots">…</span>
 <a class="page-numbers" href="https://clickhole.com/page/1172/">1,172</a>
 <a class="next page-numbers" href="https://clickhole.com/page/2/">Next</a></div>
-</nav></section>
+</nav></section> <!-- .main -->
 <aside class="sidebar sidebar-right" id="sidebar-right" role="complementary">
 <div class="inner">
 <section class="widget widget_ct_mission_news_post_list" id="ct_mission_news_post_list-2"><div class="style-2"><h2 class="widget-title"><span>Latest News</span></h2><ul><li class="post-item"><div class="top"><div class="top-inner"><a class="title" href="https://clickhole.com/what-the-fuck-those-arent-for-you-mom-just-got-a-fenty-bra/">What The Fuck, Those Aren’t For You: Mom Just Got A Fenty Bra</a><div class="post-byline">March 8, 2021</div></div></div></li><li class="post-item"><div class="top"><div class="top-inner"><a class="title" href="https://clickhole.com/justice-at-last-this-man-was-just-released-from-prison-after-serving-25-years-for-a-crime-he-didnt-even-feel-like-committing-that-much/">Justice At Last: This Man Was Just Released From Prison After Serving 25 Years For A Crime He Didn’t Even Feel Like Committing That Much</a><div class="post-byline">March 4, 2021</div></div></div></li><li class="post-item"><div class="top"><div class="top-inner"><a class="title" href="https://clickhole.com/feminist-win-this-woman-is-wearing-a-ton-of-makeup-which-for-her-is-way-braver-than-going-no-makeup-because-she-is-fucking-terrible-at-putting-on-makeup/">Feminist Win! This Woman Is Wearing A Ton Of Makeup, Which For Her Is Way Braver Than Going No-Makeup Because She Is Fucking Terrible At Putting On Makeup</a><div class="post-byline">March 4, 2021</div></div></div></li><li class="post-item"><div class="top"><div class="top-inner"><a class="title" href="https://clickhole.com/goddammit-hes-literally-the-last-person-who-deserves-this-a-caravan-of-royal-courtiers-from-faraway-just-arrived-in-dc-to-inform-mitch-mcconnell-that-hes-been-a-prince-all-along/">Goddammit, He’s Literally The Last Person Who Deserves This: A Caravan Of Royal Courtiers From Faraway Just Arrived In DC To Inform Mitch McConnell That He’s Been A Prince All Along</a><div class="post-byline">March 2, 2021</div></div></div></li></ul></div></section><section class="widget widget_search" id="search-2"><div class="search-form-container">
@@ -321,19 +604,22 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
 <input class="search-submit" type="submit" value="Search"/>
 </form>
 </div></section><section class="extendedwopts-hide extendedwopts-tablet extendedwopts-mobile widget ai_widget" id="ai_widget-3"><div class="code-block code-block-3" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<!-- Clickhole - 300x250 Dynamic (5f71b0a56c15bf5628836a77) - 300x250, 300x600, 160x600 - Place in <BODY> of page where ad should appear -->
 <div class="vm-placement" data-id="5f71b0a56c15bf5628836a77"></div>
-</div>
+<!-- / Clickhole - 300x250 Dynamic (5f71b0a56c15bf5628836a77) --></div>
 </section><section class="widget widget_ct_mission_news_post_list" id="ct_mission_news_post_list-3"><div class="style-2"><h2 class="widget-title"><span>Lifestyle</span></h2><ul><li class="post-item has-image"><div class="top"><div class="featured-image"><a href="https://clickhole.com/justice-at-last-this-man-was-just-released-from-prison-after-serving-25-years-for-a-crime-he-didnt-even-feel-like-committing-that-much/">Justice At Last: This Man Was Just Released From Prison After Serving 25 Years For A Crime He Didn’t Even Feel Like Committing That Much<img alt="" class="attachment-medium size-medium wp-post-image" height="158" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://clickhole.com/wp-content/uploads/2021/03/iStock-951888002-e1614879228454-300x158.jpg" srcset="https://clickhole.com/wp-content/uploads/2021/03/iStock-951888002-e1614879228454-300x158.jpg 300w, https://clickhole.com/wp-content/uploads/2021/03/iStock-951888002-e1614879228454-1024x539.jpg 1024w, https://clickhole.com/wp-content/uploads/2021/03/iStock-951888002-e1614879228454-768x404.jpg 768w, https://clickhole.com/wp-content/uploads/2021/03/iStock-951888002-e1614879228454-1536x808.jpg 1536w, https://clickhole.com/wp-content/uploads/2021/03/iStock-951888002-e1614879228454-2048x1077.jpg 2048w" width="300"/></a></div><div class="top-inner"><a class="title" href="https://clickhole.com/justice-at-last-this-man-was-just-released-from-prison-after-serving-25-years-for-a-crime-he-didnt-even-feel-like-committing-that-much/">Justice At Last: This Man Was Just Released From Prison After Serving 25 Years For A Crime He Didn’t Even Feel Like Committing That Much</a><div class="post-byline">March 4, 2021</div></div></div></li><li class="post-item has-image"><div class="top"><div class="featured-image"><a href="https://clickhole.com/go-on-lick-the-steering-wheel/">Go On, Lick The Steering Wheel<img alt="" class="attachment-medium size-medium wp-post-image" height="199" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://clickhole.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-03-at-2.00.34-PM-300x199.png" srcset="https://clickhole.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-03-at-2.00.34-PM-300x199.png 300w, https://clickhole.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-03-at-2.00.34-PM-1024x680.png 1024w, https://clickhole.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-03-at-2.00.34-PM-768x510.png 768w, https://clickhole.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-03-at-2.00.34-PM.png 1068w" width="300"/></a></div><div class="top-inner"><a class="title" href="https://clickhole.com/go-on-lick-the-steering-wheel/">Go On, Lick The Steering Wheel</a><div class="post-byline">March 3, 2021</div></div></div></li><li class="post-item has-image"><div class="top"><div class="featured-image"><a href="https://clickhole.com/whatever-just-let-the-fuckers-do-what-they-want-this-middle-schooler-just-chose-questlove-as-her-french-class-name-and-the-teacher-just-nodded-and-said-sure/">Whatever, Just Let The Fuckers Do What They Want: This Middle Schooler Just Chose ‘Questlove’ As Her French Class Name And The Teacher Just Nodded And Said Sure<img alt="" class="attachment-medium size-medium wp-post-image" height="157" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://clickhole.com/wp-content/uploads/2021/02/iStock-1301251989-e1614788141350-300x157.jpg" srcset="https://clickhole.com/wp-content/uploads/2021/02/iStock-1301251989-e1614788141350-300x157.jpg 300w, https://clickhole.com/wp-content/uploads/2021/02/iStock-1301251989-e1614788141350-1024x538.jpg 1024w, https://clickhole.com/wp-content/uploads/2021/02/iStock-1301251989-e1614788141350-768x403.jpg 768w, https://clickhole.com/wp-content/uploads/2021/02/iStock-1301251989-e1614788141350-1536x806.jpg 1536w, https://clickhole.com/wp-content/uploads/2021/02/iStock-1301251989-e1614788141350-2048x1075.jpg 2048w" width="300"/></a></div><div class="top-inner"><a class="title" href="https://clickhole.com/whatever-just-let-the-fuckers-do-what-they-want-this-middle-schooler-just-chose-questlove-as-her-french-class-name-and-the-teacher-just-nodded-and-said-sure/">Whatever, Just Let The Fuckers Do What They Want: This Middle Schooler Just Chose ‘Questlove’ As Her French Class Name And The Teacher Just Nodded And Said Sure</a><div class="post-byline">March 3, 2021</div></div></div></li><li class="post-item has-image"><div class="top"><div class="featured-image"><a href="https://clickhole.com/sort-of-a-wash-for-science-perseverance-found-a-turtle-on-mars-but-accidentally-ran-it-over/">Sort Of A Wash For Science: Perseverance Found A Turtle On Mars But Accidentally Ran It Over<img alt="" class="attachment-medium size-medium wp-post-image" height="158" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://clickhole.com/wp-content/uploads/2021/02/Copy-of-Make-A-Wish-Mrs-Incredible-Max-Quality-300x158.jpg" srcset="https://clickhole.com/wp-content/uploads/2021/02/Copy-of-Make-A-Wish-Mrs-Incredible-Max-Quality-300x158.jpg 300w, https://clickhole.com/wp-content/uploads/2021/02/Copy-of-Make-A-Wish-Mrs-Incredible-Max-Quality-1024x538.jpg 1024w, https://clickhole.com/wp-content/uploads/2021/02/Copy-of-Make-A-Wish-Mrs-Incredible-Max-Quality-768x403.jpg 768w, https://clickhole.com/wp-content/uploads/2021/02/Copy-of-Make-A-Wish-Mrs-Incredible-Max-Quality.jpg 1200w" width="300"/></a></div><div class="top-inner"><a class="title" href="https://clickhole.com/sort-of-a-wash-for-science-perseverance-found-a-turtle-on-mars-but-accidentally-ran-it-over/">Sort Of A Wash For Science: Perseverance Found A Turtle On Mars But Accidentally Ran It Over</a><div class="post-byline">February 22, 2021</div></div></div></li></ul></div></section> </div>
 </aside>
-</div>
-</div>
+</div><!-- layout-container -->
+</div><!-- content-container -->
 <footer class="site-footer" id="site-footer" role="contentinfo">
 <div class="ai-viewport-3"><div class="code-block code-block-2" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<!-- Clickhole - 300x50 Dynamic Mobile (5f71b0ce1845b04a29e9acfb) - 300x50, 320x50 - Place in <BODY> of page where ad should appear -->
 <div class="vm-placement" data-id="5f71b0ce1845b04a29e9acfb"></div>
-</div>
+<!-- / Clickhole - 300x50 Dynamic Mobile (5f71b0ce1845b04a29e9acfb) --></div>
 </div><div class="ai-viewport-1 ai-viewport-2"><div class="code-block code-block-1" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<!-- Clickhole - 728x90 Dynamic (5f71b0b16c15bf5628836a79) - 728x90, 970x250, 970x90 - Place in <BODY> of page where ad should appear -->
 <div class="vm-placement" data-id="5f71b0b16c15bf5628836a79"></div>
-</div>
+<!-- / Clickhole - 728x90 Dynamic (5f71b0b16c15bf5628836a79) --></div>
 </div> <div class="footer-title-container">
 <div class="site-title"><a aria-current="page" class="custom-logo-link" href="https://clickhole.com/" rel="home"><img alt="ClickHole" class="custom-logo" height="100" sizes="(max-width: 568px) 100vw, 568px" src="https://clickhole.com/wp-content/uploads/2020/05/logo.png" srcset="https://clickhole.com/wp-content/uploads/2020/05/logo.png 568w, https://clickhole.com/wp-content/uploads/2020/05/logo-300x53.png 300w" width="568"/></a></div> <ul class="social-media-icons"><li> <a class="twitter" href="https://twitter.com/clickhole" target="_blank">
 <i class="fab fa-twitter" title="twitter"></i>
@@ -368,11 +654,11 @@ body, h1, h2, h3, h4, h5, h6, .widget_ct_mission_news_post_list .title  {
 </div>
 <div class="design-credit">
 <span>
-ClickHole uses invented names in all of its stories, except in cases where public figures are being satirized. Any other use of real names is accidental and coincidental. ClickHole is not intended for readers under 18 years of age. © 2020 Clickhole </span>
+            ClickHole uses invented names in all of its stories, except in cases where public figures are being satirized. Any other use of real names is accidental and coincidental. ClickHole is not intended for readers under 18 years of age. © 2020 Clickhole        </span>
 </div>
 </footer>
-</div>
-</div>
+</div><!-- .max-width -->
+</div><!-- .overflow-container -->
 <button class="scroll-to-top" id="scroll-to-top"><span class="screen-reader-text">Scroll to the top</span><i class="fas fa-arrow-up"></i></button>
 <style>
 		.cmplz-placeholder-element > blockquote.fb-xfbml-parse-ignore {
@@ -414,7 +700,7 @@ var objectL10n = {"autoRotateSlider":"","sliderTime":""};
 <script id="cmplz-postscribe-js" src="https://clickhole.com/wp-content/plugins/complianz-gdpr-premium/assets/js/postscribe.min.js?ver=4.8.2" type="text/javascript"></script>
 <script id="cmplz-cookie-config-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var complianz = {"static":"","set_cookies":[],"block_ajax_content":"0","set_cookies_on_root":"","cookie_domain":"","banner_version":"14","version":"4.8.2","a_b_testing":"0","do_not_track":"","consenttype":"optout","region":"us","geoip":"1","categories":"","position":"bottom","title":"Clickhole","theme":"edgeless","checkbox_style":"square","use_categories":"no","use_categories_optinstats":"no","accept":"All cookies","revoke":"Settings","dismiss":"Functional only","dismiss_timeout":"10","popup_background_color":"#29b6f6","popup_text_color":"#fff","button_background_color":"#fff","button_text_color":"#29b6f6","accept_all_background_color":"#0085ba","accept_all_text_color":"#fff","accept_all_border_color":"#0073aa","functional_background_color":"#29b6f6","functional_text_color":"#fff","functional_border_color":"#29b6f6","border_color":"","use_custom_cookie_css":"","custom_css":".cc-window","custom_css_amp":"#cmplz-consent-ui, #cmplz-post-consent-ui {} \n#cmplz-consent-ui .cmplz-consent-message {} \n#cmplz-consent-ui button, #cmplz-post-consent-ui button {}","readmore_optin":"Read more","readmore_impressum":"Impressum","accept_informational":"Accept","message_optout":"We use cookies to optimize our website and our service.","message_optin":"We use cookies to optimize our website and our service.","readmore_optout":"Do Not Sell My Personal Information","readmore_optout_dnsmpi":"Do Not Sell My Personal Information","hide_revoke":"","banner_width":"","soft_cookiewall":"","type":"opt-in","layout":"basic","dismiss_on_scroll":"400","dismiss_on_timeout":"10000","cookie_expiry":"365","nonce":"beee270e3a","url":"https:\/\/clickhole.com\/wp-admin\/admin-ajax.php?lang=en_US","current_policy_id":"15","tcf_active":"","readmore_url":{"eu":"https:\/\/clickhole.com\/cookie-policy-eu\/","uk":"https:\/\/clickhole.com\/cookie-policy-uk\/","us":"https:\/\/clickhole.com\/do-not-sell-my-personal-information\/","ca":"https:\/\/clickhole.com\/cookie-policy-ca\/"},"privacy_link":{"eu":"<span class=\"cc-divider\">&nbsp;-&nbsp;<\/span><a aria-label=\"learn more about privacy in our impressum\" class=\"cc-link impressum\" href=\"https:\/\/clickhole.com\/impressum\/\">Impressum<\/a>","uk":"","us":"<span class=\"cc-divider\">&nbsp;-&nbsp;<\/span><a aria-label=\"learn more about privacy in our privacy-statement\" class=\"cc-link privacy-statement\" href=\"https:\/\/clickhole.com\/privacy-policy\/\">Privacy statement<\/a>","ca":"<span class=\"cc-divider\">&nbsp;-&nbsp;<\/span><a aria-label=\"learn more about privacy in our privacy-statement\" class=\"cc-link privacy-statement\" href=\"https:\/\/clickhole.com\/privacy-policy\/\">Privacy statement<\/a>"},"placeholdertext":"Click to accept marketing cookies and enable this content"};
+var complianz = {"static":"","set_cookies":[],"block_ajax_content":"0","set_cookies_on_root":"","cookie_domain":"","banner_version":"14","version":"4.8.2","a_b_testing":"0","do_not_track":"","consenttype":"optout","region":"us","geoip":"1","categories":"","position":"bottom","title":"Clickhole","theme":"edgeless","checkbox_style":"square","use_categories":"no","use_categories_optinstats":"no","accept":"All cookies","revoke":"Settings","dismiss":"Functional only","dismiss_timeout":"10","popup_background_color":"#29b6f6","popup_text_color":"#fff","button_background_color":"#fff","button_text_color":"#29b6f6","accept_all_background_color":"#0085ba","accept_all_text_color":"#fff","accept_all_border_color":"#0073aa","functional_background_color":"#29b6f6","functional_text_color":"#fff","functional_border_color":"#29b6f6","border_color":"","use_custom_cookie_css":"","custom_css":".cc-window","custom_css_amp":"#cmplz-consent-ui, #cmplz-post-consent-ui {} \n#cmplz-consent-ui .cmplz-consent-message {} \n#cmplz-consent-ui button, #cmplz-post-consent-ui button {}","readmore_optin":"Read more","readmore_impressum":"Impressum","accept_informational":"Accept","message_optout":"We use cookies to optimize our website and our service.","message_optin":"We use cookies to optimize our website and our service.","readmore_optout":"Do Not Sell My Personal Information","readmore_optout_dnsmpi":"Do Not Sell My Personal Information","hide_revoke":"","banner_width":"","soft_cookiewall":"","type":"opt-in","layout":"basic","dismiss_on_scroll":"400","dismiss_on_timeout":"10000","cookie_expiry":"365","nonce":"f5766cc8ab","url":"https:\/\/clickhole.com\/wp-admin\/admin-ajax.php?lang=en_US","current_policy_id":"15","tcf_active":"","readmore_url":{"eu":"https:\/\/clickhole.com\/cookie-policy-eu\/","uk":"https:\/\/clickhole.com\/cookie-policy-uk\/","us":"https:\/\/clickhole.com\/do-not-sell-my-personal-information\/","ca":"https:\/\/clickhole.com\/cookie-policy-ca\/"},"privacy_link":{"eu":"<span class=\"cc-divider\">&nbsp;-&nbsp;<\/span><a aria-label=\"learn more about privacy in our impressum\" class=\"cc-link impressum\" href=\"https:\/\/clickhole.com\/impressum\/\">Impressum<\/a>","uk":"","us":"<span class=\"cc-divider\">&nbsp;-&nbsp;<\/span><a aria-label=\"learn more about privacy in our privacy-statement\" class=\"cc-link privacy-statement\" href=\"https:\/\/clickhole.com\/privacy-policy\/\">Privacy statement<\/a>","ca":"<span class=\"cc-divider\">&nbsp;-&nbsp;<\/span><a aria-label=\"learn more about privacy in our privacy-statement\" class=\"cc-link privacy-statement\" href=\"https:\/\/clickhole.com\/privacy-policy\/\">Privacy statement<\/a>"},"placeholdertext":"Click to accept marketing cookies and enable this content"};
 /* ]]> */
 </script>
 <script id="cmplz-cookie-config-js" src="https://clickhole.com/wp-content/plugins/complianz-gdpr-premium/assets/js/complianz.min.js?ver=4.8.2" type="text/javascript"></script>

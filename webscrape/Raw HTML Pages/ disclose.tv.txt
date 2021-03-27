@@ -5,7 +5,7 @@
 <meta charset="utf-8"/>
 <title>Disclose.tv - Observe together how world events unfold.</title>
 <meta content="Disclose.tv is a non-partisan online community of like-minded users who observe together how world events unfold in the great theater of our time." name="description"/>
-<meta content="Discourse 2.7.0.beta5 - https://github.com/discourse/discourse version e10a74694a2ed445d57e1740ba349e72dcc4842d" name="generator"/>
+<meta content="Discourse 2.7.0.beta5 - https://github.com/discourse/discourse version d7bd62d9cf8810e6bd01d79e29a4d0a7847db294" name="generator"/>
 <link href="https://cdn-uploads.disclose.tv/optimized/1X/9b316e2dbe30c7d92e69e95488433ed78c889983_2_32x32.png" rel="icon" type="image/png"/>
 <link href="https://cdn-uploads.disclose.tv/optimized/2X/2/20ba787fbb99b00dc722663afbc3060b3ae3e386_2_180x180.png" rel="apple-touch-icon" type="image/png"/>
 <meta content="#000000" name="theme-color"/>
@@ -13,14 +13,14 @@
 <link href="https://www.disclose.tv/" rel="canonical">
 <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.disclose.tv","potentialAction":{"@type":"SearchAction","target":"https://www.disclose.tv/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <link href="https://www.disclose.tv/opensearch.xml" rel="search" title="Disclose.tv Search" type="application/opensearchdescription+xml"/>
-<link data-target="desktop" data-theme-id="2" href="https://cdn-origin.disclose.tv/stylesheets/desktop_2_3279a7c9852bde6ba7bf6523fb171825e4323a83.css?__ws=www.disclose.tv" media="all" rel="stylesheet">
-<link data-target="desktop_theme" data-theme-id="2" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_2_821fbe9c031bff1908718efeff5f7da4b3cc89a6.css?__ws=www.disclose.tv" media="all" rel="stylesheet">
-<link data-target="desktop_theme" data-theme-id="14" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_14_24092a9886864e6549d10ff30ebf2d6bef701d52.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
-<link data-target="desktop_theme" data-theme-id="15" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_15_7109ec48fb30ae13bfef8b77ed167d6c0e5b6f7c.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
-<link data-target="desktop_theme" data-theme-id="16" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_16_1a8e551dc5a520a8581702df31d6d630693688ac.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
-<link data-target="desktop_theme" data-theme-id="18" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_18_0b2830f84a1ed39127d56d97998a0d66bc1f7591.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
-<link data-target="desktop_theme" data-theme-id="29" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_29_51bf116adf30c851cc38b6929fcf11caf53000a4.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
-<script src="https://cdn-origin.disclose.tv/theme-javascripts/9f4c88fa3f40364d38ea37eb3157981717fa9297.js?__ws=www.disclose.tv"></script>
+<link data-target="desktop" data-theme-id="2" href="https://cdn-origin.disclose.tv/stylesheets/desktop_2_22d5749875460d8ea47c446ff77d6861951c1a85.css?__ws=www.disclose.tv" media="all" rel="stylesheet">
+<link data-target="desktop_theme" data-theme-id="2" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_2_5da8d98a02352c9fd6c8c3ddea0a2182f0f497f0.css?__ws=www.disclose.tv" media="all" rel="stylesheet">
+<link data-target="desktop_theme" data-theme-id="14" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_14_4e0d834897f367299854163a2f126f62b0955d40.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="15" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_15_dba48fedca2da8b2cd2eb9725f3c2bfe3b5c1901.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="16" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_16_8a2fc4ced86843bacbf57bb10b5a0d251ef6b056.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="18" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_18_b65b01bb595d7b8b37197955ab6933895ca45ab1.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
+<link data-target="desktop_theme" data-theme-id="29" href="https://cdn-origin.disclose.tv/stylesheets/desktop_theme_29_041727f7d061f14d85d5e08c680abe524081129d.css?__ws=www.disclose.tv" media="all" rel="stylesheet"/>
+<script src="https://cdn-origin.disclose.tv/theme-javascripts/0981af79716026e1b6ca56ce598d0f74bea9d520.js?__ws=www.disclose.tv"></script>
 <script src="https://cdn-origin.disclose.tv/theme-javascripts/8ac8674844d9cd97ea0b11ccb8f3daceba388094.js?__ws=www.disclose.tv"></script>
 <script src="https://cdn-origin.disclose.tv/theme-javascripts/f86b7410d2d0402351f7dc11e1b5c34672378186.js?__ws=www.disclose.tv"></script>
 <link href="/latest?no_definitions=true&amp;page=1" rel="next"/>
@@ -63,117 +63,12 @@
 <tbody>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Experimentation on children has begun" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/experimentation-on-children-has-begun/26352" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/c/e/ceada3a28f73630ddf48483738a8539702b9261b.jpeg" itemprop="image"/>
+<meta content="If GOD is real then how did he find the time to create this little lot?" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/if-god-is-real-then-how-did-he-find-the-time-to-create-this-little-lot/27250" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/0/b/0ba474d786cf5d30830f48dd0add72dbb3ec0536.jpeg" itemprop="image"/>
 <meta content="1" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/experimentation-on-children-has-begun/26352">Experimentation on children has begun</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/health/68">
-<span class="badge-category-bg" style="background-color: #0E76BD"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Health</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_drug">tox_drug</a>
-</div>
-</div>
-<p class="excerpt">
-                :red_circle: LAST - Moderna has begun phase 2/3 testing of its Covid-19 vaccine in the first 6,750 children ages six months to 11 in the United States and Canada. It is the latest effort to expand the mass vaccination ca…
-              </p>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/Severian">
-<img aria-label="Severian - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/severian/25/25772_2.png" title="Severian - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/mark24823687">
-<img aria-label="mark24823687 - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/9fc348/25.png" title="mark24823687 - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Tuor10">
-<img aria-label="Tuor10 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/tuor10/25/21961_2.png" title="Tuor10 - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/greenbeans">
-<img aria-label="greenbeans - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/g/5f9b8f/25.png" title="greenbeans - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/RatRodRob">
-<img aria-label="RatRodRob - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/ratrodrob/25/341_2.png" title="RatRodRob - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">17</span>
-</td>
-<td class="views">
-<span class="views" title="views">809</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Kim Jong-Un's sister warns Biden to avoid 'causing a stink' if he wants peace" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/kim-jong-uns-sister-warns-biden-to-avoid-causing-a-stink-if-he-wants-peace/26338" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/0/1/019aec9ced4db52ea0c6e4359abc8f247f93c624.jpeg" itemprop="image"/>
-<meta content="2" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/kim-jong-uns-sister-warns-biden-to-avoid-causing-a-stink-if-he-wants-peace/26338">Kim Jong-Un's sister warns Biden to avoid 'causing a stink' if he wants peace</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/shtf/69">
-<span class="badge-category-bg" style="background-color: #D50032"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">SHTF</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
-</div>
-</div>
-<p class="excerpt">
-                “Causing a Stink”!? Sister of North Korean leader warns Biden. 
-Kim Yo-jong has given the White House a warning: 
-
-'We take this opportunity to warn the new US admin trying hard to give off powder smell in our land. I…
-              </p>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/nwomaster">
-<img aria-label="nwomaster - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/nwomaster/25/494_2.png" title="nwomaster - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/RatRodRob">
-<img aria-label="RatRodRob - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/ratrodrob/25/341_2.png" title="RatRodRob - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/MrNice">
-<img aria-label="MrNice - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/BOOMFARP">
-<img aria-label="BOOMFARP - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/boomfarp/25/30019_2.png" title="BOOMFARP - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/system">
-<img aria-label="system - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/system/25/1_2.png" title="system - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">27</span>
-</td>
-<td class="views">
-<span class="views" title="views">7375</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="The tall whites James Halls encounters" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/the-tall-whites-james-halls-encounters/26308" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/5/e/5e941070757c43e99673f63bd4340e0068cc01aa_2_1024x576.jpeg" itemprop="image"/>
-<meta content="3" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/the-tall-whites-james-halls-encounters/26308">The tall whites James Halls encounters</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/if-god-is-real-then-how-did-he-find-the-time-to-create-this-little-lot/27250">If GOD is real then how did he find the time to create this little lot?</a>
 </span>
 <div class="link-bottom-line">
 <a class="badge-wrapper bullet" href="/c/unexplained/14">
@@ -183,99 +78,44 @@ Kim Yo-jong has given the White House a warning:
 </span>
 </a>
 <div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
-                    , 
-                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_racism">tox_racism</a>
-                    , 
-                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_vulgar">tox_vulgar</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="" href="https://www.disclose.tv/u/Thecitizen">
-<img aria-label="Thecitizen - Original Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Original Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Chris_Grennell">
+<img aria-label="Chris_Grennell - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/chris_grennell/25/17535_2.png" title="Chris_Grennell - Original Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/MrNice">
-<img aria-label="MrNice - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Omfgimonfire">
+<img aria-label="Omfgimonfire - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/omfgimonfire/25/8916_2.png" title="Omfgimonfire - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Stillahuman">
-<img aria-label="Stillahuman - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/stillahuman/25/23265_2.png" title="Stillahuman - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/system">
+<img aria-label="system - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/system/25/1_2.png" title="system - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Tuor10">
-<img aria-label="Tuor10 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/tuor10/25/21961_2.png" title="Tuor10 - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/moocowman">
+<img aria-label="moocowman - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/919ad9/25.png" title="moocowman - Frequent Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/Rory_Payton">
-<img aria-label="Rory_Payton - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rory_payton/25/2350_2.png" title="Rory_Payton - Most Recent Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/ElDiablo">
+<img aria-label="ElDiablo - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/eldiablo/25/29813_2.png" title="ElDiablo - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">9</span>
+<span class="posts" title="posts">62</span>
 </td>
 <td class="views">
-<span class="views" title="views">640</span>
+<span class="views" title="views">1618</span>
 </td>
 <td>
-            March 17, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="They're Aborting The Planet And To Your Face They Mock You Calling It 'Entertainment'" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/theyre-aborting-the-planet-and-to-your-face-they-mock-you-calling-it-entertainment/25431" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/1/4/1406ef2a9bc20757fcc4af1e75b64628bea6e801.jpeg" itemprop="image"/>
-<meta content="4" itemprop="position"/>
+<meta content="Pre-Flood Ruins Found In Japan?" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/pre-flood-ruins-found-in-japan/27188" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/8/8/88a43bb807a62186411c60d49802f87526b69d42.jpeg" itemprop="image"/>
+<meta content="2" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/theyre-aborting-the-planet-and-to-your-face-they-mock-you-calling-it-entertainment/25431">They're Aborting The Planet And To Your Face They Mock You Calling It 'Entertainment'</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/conspiracy/22">
-<span class="badge-category-bg" style="background-color: #9053c7"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Conspiracy</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
-                    , 
-                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_drug">tox_drug</a>
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/MrNice">
-<img aria-label="MrNice - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Othelzer">
-<img aria-label="Othelzer - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/othelzer/25/26753_2.png" title="Othelzer - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/kcufo1969">
-<img aria-label="kcufo1969 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kcufo1969/25/1597_2.png" title="kcufo1969 - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/Omfgimonfire">
-<img aria-label="Omfgimonfire - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/omfgimonfire/25/8916_2.png" title="Omfgimonfire - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">55</span>
-</td>
-<td class="views">
-<span class="views" title="views">2997</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Researchers solve more of the mystery of Laos megalithic jars" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/researchers-solve-more-of-the-mystery-of-laos-megalithic-jars/26385" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/2/f/2fadb49ed14eedc961770260019e13377b92b0e8.jpeg" itemprop="image"/>
-<meta content="5" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/researchers-solve-more-of-the-mystery-of-laos-megalithic-jars/26385">Researchers solve more of the mystery of Laos megalithic jars</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/pre-flood-ruins-found-in-japan/27188">Pre-Flood Ruins Found In Japan?</a>
 </span>
 <div class="link-bottom-line">
 <a class="badge-wrapper bullet" href="/c/mystery/71">
@@ -293,790 +133,139 @@ Kim Yo-jong has given the White House a warning:
 <a class="" href="https://www.disclose.tv/u/Skippychippy">
 <img aria-label="Skippychippy - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/skippychippy/25/374_2.png" title="Skippychippy - Original Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/Omfgimonfire">
-<img aria-label="Omfgimonfire - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/omfgimonfire/25/8916_2.png" title="Omfgimonfire - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">1</span>
-</td>
-<td class="views">
-<span class="views" title="views">83</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Explanation of what's in the MRNA Jab" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/explanation-of-whats-in-the-mrna-jab/25844" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/b/d/bd2d2e0aee9d9abf281aa3fbc7b609918d4a1985.jpeg" itemprop="image"/>
-<meta content="6" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/explanation-of-whats-in-the-mrna-jab/25844">Explanation of what's in the MRNA Jab</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/politics/67">
-<span class="badge-category-bg" style="background-color: #F7941D"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Politics</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
-                    , 
-                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_drug">tox_drug</a>
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/BarroqCran">
-<img aria-label="BarroqCran - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/barroqcran/25/27439_2.png" title="BarroqCran - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/punx1965">
-<img aria-label="punx1965 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/punx1965/25/383_2.png" title="punx1965 - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/mark24823687">
-<img aria-label="mark24823687 - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/9fc348/25.png" title="mark24823687 - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Thecitizen">
-<img aria-label="Thecitizen - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/Omfgimonfire">
-<img aria-label="Omfgimonfire - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/omfgimonfire/25/8916_2.png" title="Omfgimonfire - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">24</span>
-</td>
-<td class="views">
-<span class="views" title="views">1810</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Decipher this" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/decipher-this/26384" itemprop="url"/>
-<meta content="7" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/decipher-this/26384">Decipher this</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/mystery/71">
-<span class="badge-category-bg" style="background-color: #92278F"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Mystery</span>
-</span>
-</a>
-<div class="discourse-tags">
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="latest single" href="https://www.disclose.tv/u/clawspiracy">
-<img aria-label="clawspiracy - Original Poster, Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/clawspiracy/25/30216_2.png" title="clawspiracy - Original Poster, Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">0</span>
-</td>
-<td class="views">
-<span class="views" title="views">86</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Nature in photographs, enjoy 🙂" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/nature-in-photographs-enjoy/26354" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/b/2/b256bc063b4bca5273645031e8d237b720329142.jpeg" itemprop="image"/>
-<meta content="8" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/nature-in-photographs-enjoy/26354">Nature in photographs, enjoy 🙂</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/nature/48">
-<span class="badge-category-bg" style="background-color: #3AB54A"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Nature</span>
-</span>
-</a>
-<div class="discourse-tags">
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/Chris_Grennell">
-<img aria-label="Chris_Grennell - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/chris_grennell/25/17535_2.png" title="Chris_Grennell - Original Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/nancy.veronica">
-<img aria-label="nancy.veronica - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/nancy.veronica/25/12673_2.png" title="nancy.veronica - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">2</span>
-</td>
-<td class="views">
-<span class="views" title="views">157</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Trees in nature there’s a special one in there one of those moments where everything is just perfect 👌" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/trees-in-nature-there-s-a-special-one-in-there-one-of-those-moments-where-everything-is-just-perfect/26355" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/a/6/a615b88e9b258bad1eb85a8901e2ba5563e92186.jpeg" itemprop="image"/>
-<meta content="9" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/trees-in-nature-there-s-a-special-one-in-there-one-of-those-moments-where-everything-is-just-perfect/26355">Trees in nature there’s a special one in there one of those moments where everything is just perfect 👌</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/nature/48">
-<span class="badge-category-bg" style="background-color: #3AB54A"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Nature</span>
-</span>
-</a>
-<div class="discourse-tags">
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/Chris_Grennell">
-<img aria-label="Chris_Grennell - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/chris_grennell/25/17535_2.png" title="Chris_Grennell - Original Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/BarroqCran">
-<img aria-label="BarroqCran - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/barroqcran/25/27439_2.png" title="BarroqCran - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">1</span>
-</td>
-<td class="views">
-<span class="views" title="views">187</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Supporting Political Violence: By Race and Party Affiliation" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/supporting-political-violence-by-race-and-party-affiliation/26379" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/0/a/0a87e99a6035c11b05763f9902d728087aad7481_2_1024x409.jpeg" itemprop="image"/>
-<meta content="10" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/supporting-political-violence-by-race-and-party-affiliation/26379">Supporting Political Violence: By Race and Party Affiliation</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/politics/67">
-<span class="badge-category-bg" style="background-color: #F7941D"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Politics</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_sex">tox_sex</a>
-                    , 
-                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_vulgar">tox_vulgar</a>
-                    , 
-                    <a class="discourse-tag" href="https://www.disclose.tv/tag/toxic_60">toxic_60</a>
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/ReturnofTruthdefendR">
-<img aria-label="ReturnofTruthdefendR - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/returnoftruthdefendr/25/32788_2.png" title="ReturnofTruthdefendR - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Onslaught9966">
-<img aria-label="Onslaught9966 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/onslaught9966/25/4554_2.png" title="Onslaught9966 - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/SittingBull">
-<img aria-label="SittingBull - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/s/a4c791/25.png" title="SittingBull - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/Sarge">
-<img aria-label="Sarge - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/sarge/25/4231_2.png" title="Sarge - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">12</span>
-</td>
-<td class="views">
-<span class="views" title="views">233</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="State Dept. investigator - covid escaped from Wuhan lab" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/state-dept-investigator-covid-escaped-from-wuhan-lab/26382" itemprop="url"/>
-<meta content="11" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/state-dept-investigator-covid-escaped-from-wuhan-lab/26382">State Dept. investigator - covid escaped from Wuhan lab</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/society/64">
-<span class="badge-category-bg" style="background-color: #ED207B"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Society</span>
-</span>
-</a>
-<div class="discourse-tags">
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="latest single" href="https://www.disclose.tv/u/SittingBull">
-<img aria-label="SittingBull - Original Poster, Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/s/a4c791/25.png" title="SittingBull - Original Poster, Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">0</span>
-</td>
-<td class="views">
-<span class="views" title="views">81</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Sex Outside Marriage it's effects and Soul Ties Explained" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/sex-outside-marriage-its-effects-and-soul-ties-explained/26297" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/d/7/d77704b8e6090fc78f020d79ddfcb77905db0b6a.jpeg" itemprop="image"/>
-<meta content="12" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/sex-outside-marriage-its-effects-and-soul-ties-explained/26297">Sex Outside Marriage it's effects and Soul Ties Explained</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/spiritual/23">
-<span class="badge-category-bg" style="background-color: #F6BE00"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Spiritual</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_sex">tox_sex</a>
-                    , 
-                    <a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/Enik">
-<img aria-label="Enik - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/enik/25/404_2.png" title="Enik - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Wonkeylama">
-<img aria-label="Wonkeylama - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/w/e36b37/25.png" title="Wonkeylama - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/moocowman">
-<img aria-label="moocowman - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/919ad9/25.png" title="moocowman - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/ElDiablo">
-<img aria-label="ElDiablo - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/eldiablo/25/29813_2.png" title="ElDiablo - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">35</span>
-</td>
-<td class="views">
-<span class="views" title="views">1126</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Top-secret Cold War military project found perfectly preserved fossil plants" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/top-secret-cold-war-military-project-found-perfectly-preserved-fossil-plants/26378" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/4/0/401769415476fceb04e9270a72df47d5a5ee0c18_2_1024x576.jpeg" itemprop="image"/>
-<meta content="13" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/top-secret-cold-war-military-project-found-perfectly-preserved-fossil-plants/26378">Top-secret Cold War military project found perfectly preserved fossil plants</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/nature/48">
-<span class="badge-category-bg" style="background-color: #3AB54A"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Nature</span>
-</span>
-</a>
-<div class="discourse-tags">
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/texasjaded1">
-<img aria-label="texasjaded1 - Original Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/dbc845/25.png" title="texasjaded1 - Original Poster" width="25"/>
-</a>
 <a class="" href="https://www.disclose.tv/u/MrNice">
 <img aria-label="MrNice - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Frequent Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/SittingBull">
-<img aria-label="SittingBull - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/s/a4c791/25.png" title="SittingBull - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">2</span>
-</td>
-<td class="views">
-<span class="views" title="views">341</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content='Election "Irregularities" Beginning to Add Up to Necessary Fraud Numbers' itemprop="name"/>
-<meta content="https://www.disclose.tv/t/election-irregularities-beginning-to-add-up-to-necessary-fraud-numbers/26375" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/5/e/5e8a3e42488f417cb15090407a16939e216b84d8_2_1024x682.jpeg" itemprop="image"/>
-<meta content="14" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/election-irregularities-beginning-to-add-up-to-necessary-fraud-numbers/26375">Election "Irregularities" Beginning to Add Up to Necessary Fraud Numbers</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/science/39">
-<span class="badge-category-bg" style="background-color: #0097A9"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Science</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_threat">tox_threat</a>
-</div>
-</div>
-</td>
-<td class="posters">
 <a class="" href="https://www.disclose.tv/u/ReturnofTruthdefendR">
-<img aria-label="ReturnofTruthdefendR - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/returnoftruthdefendr/25/32788_2.png" title="ReturnofTruthdefendR - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Smigg">
-<img aria-label="Smigg - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/smigg/25/3374_2.png" title="Smigg - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Moloch666">
-<img aria-label="Moloch666 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/moloch666/25/9227_2.png" title="Moloch666 - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/greenbeans">
-<img aria-label="greenbeans - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/g/5f9b8f/25.png" title="greenbeans - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/Bobby">
-<img aria-label="Bobby - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/b/df788c/25.png" title="Bobby - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">10</span>
-</td>
-<td class="views">
-<span class="views" title="views">477</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Is Marvin Hagler the most recent vaccine death?" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/is-marvin-hagler-the-most-recent-vaccine-death/26198" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/f/d/fdc39a6eb46f3433ba2423923d9036c56c1c32f9.jpeg" itemprop="image"/>
-<meta content="15" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/is-marvin-hagler-the-most-recent-vaccine-death/26198">Is Marvin Hagler the most recent vaccine death?</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/health/68">
-<span class="badge-category-bg" style="background-color: #0E76BD"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Health</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_drug">tox_drug</a>
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="latest" href="https://www.disclose.tv/u/SittingBull">
-<img aria-label="SittingBull - Original Poster, Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/s/a4c791/25.png" title="SittingBull - Original Poster, Most Recent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/mark24823687">
-<img aria-label="mark24823687 - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/9fc348/25.png" title="mark24823687 - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/rkobilan">
-<img aria-label="rkobilan - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rkobilan/25/1315_2.png" title="rkobilan - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Skippychippy">
-<img aria-label="Skippychippy - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/skippychippy/25/374_2.png" title="Skippychippy - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Derring_Do">
-<img aria-label="Derring_Do - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/derring_do/25/3121_2.png" title="Derring_Do - Frequent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">30</span>
-</td>
-<td class="views">
-<span class="views" title="views">1366</span>
-</td>
-<td>
-            March 17, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Aviation – FlatEarth.ws" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/aviation-flatearth-ws/26287" itemprop="url"/>
-<meta content="16" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/aviation-flatearth-ws/26287">Aviation – FlatEarth.ws</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/science/39">
-<span class="badge-category-bg" style="background-color: #0097A9"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Science</span>
-</span>
-</a>
-<div class="discourse-tags">
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/Lychian">
-<img aria-label="Lychian - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/lychian/25/14821_2.png" title="Lychian - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Sarge">
-<img aria-label="Sarge - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/sarge/25/4231_2.png" title="Sarge - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Loudon">
-<img aria-label="Loudon - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/loudon/25/30161_2.png" title="Loudon - Frequent Poster" width="25"/>
+<img aria-label="ReturnofTruthdefendR - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/returnoftruthdefendr/25/32788_2.png" title="ReturnofTruthdefendR - Frequent Poster" width="25"/>
 </a>
 <a class="" href="https://www.disclose.tv/u/system">
 <img aria-label="system - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/system/25/1_2.png" title="system - Frequent Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Most Recent Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/desertdan7568">
+<img aria-label="desertdan7568 - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/d/ec9cab/25.png" title="desertdan7568 - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">16</span>
+<span class="posts" title="posts">22</span>
 </td>
 <td class="views">
-<span class="views" title="views">676</span>
+<span class="views" title="views">1426</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="U.S. Air Force Squadron in South Korea replaces pit bull morale patch as it is considered racist" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/u-s-air-force-squadron-in-south-korea-replaces-pit-bull-morale-patch-as-it-is-considered-racist/26353" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/a/f/af7f90bb59b2c1002dfb82f036effbf86c301a82_2_1024x682.jpeg" itemprop="image"/>
-<meta content="17" itemprop="position"/>
+<meta content="Where is all the Trump haters against Bidens rotten policies?!" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/where-is-all-the-trump-haters-against-bidens-rotten-policies/27328" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/2/e/2ebcc6f425be3aeb184f5908214d3482c374352a.jpeg" itemprop="image"/>
+<meta content="3" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/u-s-air-force-squadron-in-south-korea-replaces-pit-bull-morale-patch-as-it-is-considered-racist/26353">U.S. Air Force Squadron in South Korea replaces pit bull morale patch as it is considered racist</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/where-is-all-the-trump-haters-against-bidens-rotten-policies/27328">Where is all the Trump haters against Bidens rotten policies?!</a>
 </span>
 <div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/society/64">
-<span class="badge-category-bg" style="background-color: #ED207B"></span>
+<a class="badge-wrapper bullet" href="/c/politics/67">
+<span class="badge-category-bg" style="background-color: #F7941D"></span>
 <span class="badge-category clear-badge">
-<span class="category-name">Society</span>
+<span class="category-name">Politics</span>
 </span>
 </a>
 <div class="discourse-tags">
 <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_racism">tox_racism</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/toxic_75">toxic_75</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="" href="https://www.disclose.tv/u/Disclose.tv">
-<img aria-label="Disclose.tv - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/disclose.tv/25/6_2.png" title="Disclose.tv - Original Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/sia">
+<img aria-label="sia - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/sia/25/30518_2.png" title="sia - Original Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Cipollino_3.0">
-<img aria-label="Cipollino_3.0 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/cipollino_3.0/25/1860_2.png" title="Cipollino_3.0 - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/gen81465">
+<img aria-label="gen81465 - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/g/9e8a1a/25.png" title="gen81465 - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Smigg">
+<img aria-label="Smigg - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/smigg/25/33497_2.png" title="Smigg - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Fourth_D">
-<img aria-label="Fourth_D - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/fourth_d/25/30650_2.png" title="Fourth_D - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Tuor10">
+<img aria-label="Tuor10 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/tuor10/25/21961_2.png" title="Tuor10 - Frequent Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/LetsgetHigh">
-<img aria-label="LetsgetHigh - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/letsgethigh/25/24094_2.png" title="LetsgetHigh - Most Recent Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/chronicnerd">
+<img aria-label="chronicnerd - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/c/c89c15/25.png" title="chronicnerd - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">7</span>
+<span class="posts" title="posts">11</span>
 </td>
 <td class="views">
-<span class="views" title="views">319</span>
+<span class="views" title="views">240</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Photographs around The Lake District, Cumbria,England, UK" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/photographs-around-the-lake-district-cumbria-england-uk/26356" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/0/6/062c087b5f608309fc587fbea3ddf3eb62a74143_2_1024x768.jpeg" itemprop="image"/>
-<meta content="18" itemprop="position"/>
+<meta content="Ladies and gentlemen, here is the President of the United States of America 🤣" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/ladies-and-gentlemen-here-is-the-president-of-the-united-states-of-america/27275" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/1/5/15ca5d41d13e80621c16e1c93622c734927a17b5_2_1024x576.jpeg" itemprop="image"/>
+<meta content="4" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/photographs-around-the-lake-district-cumbria-england-uk/26356">Photographs around The Lake District, Cumbria,England, UK</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/ladies-and-gentlemen-here-is-the-president-of-the-united-states-of-america/27275">Ladies and gentlemen, here is the President of the United States of America 🤣</a>
 </span>
 <div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/nature/48">
-<span class="badge-category-bg" style="background-color: #3AB54A"></span>
+<a class="badge-wrapper bullet" href="/c/politics/67">
+<span class="badge-category-bg" style="background-color: #F7941D"></span>
 <span class="badge-category clear-badge">
-<span class="category-name">Nature</span>
+<span class="category-name">Politics</span>
 </span>
 </a>
 <div class="discourse-tags">
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/Chris_Grennell">
-<img aria-label="Chris_Grennell - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/chris_grennell/25/17535_2.png" title="Chris_Grennell - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Lychian">
-<img aria-label="Lychian - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/lychian/25/14821_2.png" title="Lychian - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Derring_Do">
-<img aria-label="Derring_Do - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/derring_do/25/3121_2.png" title="Derring_Do - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/BarroqCran">
-<img aria-label="BarroqCran - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/barroqcran/25/27439_2.png" title="BarroqCran - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">4</span>
-</td>
-<td class="views">
-<span class="views" title="views">302</span>
-</td>
-<td>
-            March 16, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="I wannaa tick off some flat earthers" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/i-wannaa-tick-off-some-flat-earthers/26131" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/9/c/9cb81c041d864093d138a0c3fb22c01224b90136_2_1024x576.jpeg" itemprop="image"/>
-<meta content="19" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/i-wannaa-tick-off-some-flat-earthers/26131">I wannaa tick off some flat earthers</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/conspiracy/22">
-<span class="badge-category-bg" style="background-color: #9053c7"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Conspiracy</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_vulgar">tox_vulgar</a>
+<a class="discourse-tag" href="https://www.disclose.tv/tag/toxic_80">toxic_80</a>
                     , 
                     <a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_vulgar">tox_vulgar</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="" href="https://www.disclose.tv/u/kralgreg1973">
-<img aria-label="kralgreg1973 - Original Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/k/c6cbf5/25.png" title="kralgreg1973 - Original Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Moloch666">
+<img aria-label="Moloch666 - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/moloch666/25/9227_2.png" title="Moloch666 - Original Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Il_Comandante">
-<img aria-label="Il_Comandante - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/il_comandante/25/12755_2.png" title="Il_Comandante - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/ReturnofTruthdefendR">
+<img aria-label="ReturnofTruthdefendR - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/returnoftruthdefendr/25/32788_2.png" title="ReturnofTruthdefendR - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Thecitizen">
-<img aria-label="Thecitizen - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/vortexas8">
+<img aria-label="vortexas8 - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/v/9de053/25.png" title="vortexas8 - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/rkobilan">
-<img aria-label="rkobilan - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rkobilan/25/1315_2.png" title="rkobilan - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Tuor10">
+<img aria-label="Tuor10 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/tuor10/25/21961_2.png" title="Tuor10 - Frequent Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Most Recent Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/Myth">
+<img aria-label="Myth - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/e480ec/25.png" title="Myth - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">155</span>
+<span class="posts" title="posts">31</span>
 </td>
 <td class="views">
-<span class="views" title="views">2268</span>
+<span class="views" title="views">1118</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="HUGE FLOAT OF UFOs CAUGHT IN THE SKIES OF ISRAEL!" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/huge-float-of-ufos-caught-in-the-skies-of-israel/26269" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/3/7/372ff606f937e3f5074e168ac31b1e0fbae2d358.jpeg" itemprop="image"/>
-<meta content="20" itemprop="position"/>
+<meta content="The bible tells everyone that aliens created man" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/the-bible-tells-everyone-that-aliens-created-man/27139" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/6/b/6b09a20c2f9b24df469902212deffa13a82bc231_2_682x1024.jpeg" itemprop="image"/>
+<meta content="5" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/huge-float-of-ufos-caught-in-the-skies-of-israel/26269">HUGE FLOAT OF UFOs CAUGHT IN THE SKIES OF ISRAEL!</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/unexplained/14">
-<span class="badge-category-bg" style="background-color: #7337aa"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Unexplained</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/DOCUMISTERIO">
-<img aria-label="DOCUMISTERIO - Original Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/d/bc8723/25.png" title="DOCUMISTERIO - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Bobby">
-<img aria-label="Bobby - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/b/df788c/25.png" title="Bobby - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Flyboy8">
-<img aria-label="Flyboy8 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/flyboy8/25/19070_2.png" title="Flyboy8 - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/Xico">
-<img aria-label="Xico - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/xico/25/256_2.png" title="Xico - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">3</span>
-</td>
-<td class="views">
-<span class="views" title="views">681</span>
-</td>
-<td>
-            March 16, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Who really wrote the 4 gospels of the New Testament?" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/who-really-wrote-the-4-gospels-of-the-new-testament/26039" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/b/1/b19728cb75d2b264d1031f9de6b4bbc7d261b790_2_1024x576.jpeg" itemprop="image"/>
-<meta content="21" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/who-really-wrote-the-4-gospels-of-the-new-testament/26039">Who really wrote the 4 gospels of the New Testament?</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/spiritual/23">
-<span class="badge-category-bg" style="background-color: #F6BE00"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Spiritual</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/isowaves">
-<img aria-label="isowaves - Original Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/i/f475e1/25.png" title="isowaves - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Thecitizen">
-<img aria-label="Thecitizen - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Othelzer">
-<img aria-label="Othelzer - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/othelzer/25/26753_2.png" title="Othelzer - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/MrNice">
-<img aria-label="MrNice - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">40</span>
-</td>
-<td class="views">
-<span class="views" title="views">999</span>
-</td>
-<td>
-            March 16, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Vaccine Hell: Holocaust via syringe. All the data... that we know about" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/vaccine-hell-holocaust-via-syringe-all-the-data-that-we-know-about/26315" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/4/c/4cd20f45485e16e2c5183ac159329970d983c5ca_2_1024x576.jpeg" itemprop="image"/>
-<meta content="22" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/vaccine-hell-holocaust-via-syringe-all-the-data-that-we-know-about/26315">Vaccine Hell: Holocaust via syringe. All the data... that we know about</a>
-</span>
-<div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/health/68">
-<span class="badge-category-bg" style="background-color: #0E76BD"></span>
-<span class="badge-category clear-badge">
-<span class="category-name">Health</span>
-</span>
-</a>
-<div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_drug">tox_drug</a>
-</div>
-</div>
-</td>
-<td class="posters">
-<a class="" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Original Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Assy_McNasty">
-<img aria-label="Assy_McNasty - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/assy_mcnasty/25/27430_2.png" title="Assy_McNasty - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/M.Scott">
-<img aria-label="M.Scott - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/4491bb/25.png" title="M.Scott - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/Bobby">
-<img aria-label="Bobby - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/b/df788c/25.png" title="Bobby - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/mark24823687">
-<img aria-label="mark24823687 - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/9fc348/25.png" title="mark24823687 - Most Recent Poster" width="25"/>
-</a>
-</td>
-<td class="replies">
-<span class="posts" title="posts">10</span>
-</td>
-<td class="views">
-<span class="views" title="views">839</span>
-</td>
-<td>
-            March 16, 2021
-          </td>
-</tr>
-<tr class="topic-list-item">
-<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Devil's Punch Bowl - US Concentration Camp Where Thousands Died Has Been Erased from History" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/devils-punch-bowl-us-concentration-camp-where-thousands-died-has-been-erased-from-history/282" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/1X/c196ab910737d56f741d524ba41e08ae20261514.jpeg" itemprop="image"/>
-<meta content="23" itemprop="position"/>
-<span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/devils-punch-bowl-us-concentration-camp-where-thousands-died-has-been-erased-from-history/282">Devil's Punch Bowl - US Concentration Camp Where Thousands Died Has Been Erased from History</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/the-bible-tells-everyone-that-aliens-created-man/27139">The bible tells everyone that aliens created man</a>
 </span>
 <div class="link-bottom-line">
 <a class="badge-wrapper bullet" href="/c/history/60">
@@ -1086,95 +275,83 @@ Kim Yo-jong has given the White House a warning:
 </span>
 </a>
 <div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
-                    , 
-                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_racism">tox_racism</a>
+<a class="discourse-tag" href="https://www.disclose.tv/tag/toxic">toxic</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="" href="https://www.disclose.tv/u/Seed">
-<img aria-label="Seed - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/seed/25/142_2.png" title="Seed - Original Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Chris_Grennell">
+<img aria-label="Chris_Grennell - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/chris_grennell/25/17535_2.png" title="Chris_Grennell - Original Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/MartyMcfly">
-<img aria-label="MartyMcfly - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/martymcfly/25/7503_2.png" title="MartyMcfly - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/mrwislr">
+<img aria-label="mrwislr - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Neromaniac">
-<img aria-label="Neromaniac - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/n/bc8723/25.png" title="Neromaniac - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/kcufo1969">
+<img aria-label="kcufo1969 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kcufo1969/25/1597_2.png" title="kcufo1969 - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Kathy_Borthwick">
-<img aria-label="Kathy_Borthwick - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kathy_borthwick/25/20150_2.png" title="Kathy_Borthwick - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Grishnakh">
+<img aria-label="Grishnakh - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/grishnakh/25/6917_2.png" title="Grishnakh - Frequent Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/Olde_Edo">
-<img aria-label="Olde_Edo - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/olde_edo/25/991_2.png" title="Olde_Edo - Most Recent Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/ElDiablo">
+<img aria-label="ElDiablo - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/eldiablo/25/29813_2.png" title="ElDiablo - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">8</span>
+<span class="posts" title="posts">47</span>
 </td>
 <td class="views">
-<span class="views" title="views">3094</span>
+<span class="views" title="views">2384</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Fauci Accepted the WRONG Interview Forced to answer real questions. Get's destroyed" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/fauci-accepted-the-wrong-interview-forced-to-answer-real-questions-gets-destroyed/26318" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/7/c/7c688fdcdfff125dfb9531a155b3d2063442a0f8_2_1024x576.jpeg" itemprop="image"/>
-<meta content="24" itemprop="position"/>
+<meta content="Church that banned RNA Covid jabs warns parishioners to stay away from 'vaccinated' people" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/church-that-banned-rna-covid-jabs-warns-parishioners-to-stay-away-from-vaccinated-people/27330" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/6/6/667f20b5853e90b51da85e2bfa2b9011818ca2a1_2_1024x576.jpeg" itemprop="image"/>
+<meta content="6" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/fauci-accepted-the-wrong-interview-forced-to-answer-real-questions-gets-destroyed/26318">Fauci Accepted the WRONG Interview Forced to answer real questions. Get's destroyed</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/church-that-banned-rna-covid-jabs-warns-parishioners-to-stay-away-from-vaccinated-people/27330">Church that banned RNA Covid jabs warns parishioners to stay away from 'vaccinated' people</a>
 </span>
 <div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/health/68">
-<span class="badge-category-bg" style="background-color: #0E76BD"></span>
+<a class="badge-wrapper bullet" href="/c/spiritual/23">
+<span class="badge-category-bg" style="background-color: #F6BE00"></span>
 <span class="badge-category clear-badge">
-<span class="category-name">Health</span>
+<span class="category-name">Spiritual</span>
 </span>
 </a>
 <div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="" href="https://www.disclose.tv/u/mrwislr">
-<img aria-label="mrwislr - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Original Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/D.Kelama">
+<img aria-label="D.Kelama - Original Poster, Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/d.kelama/25/32906_2.png" title="D.Kelama - Original Poster, Most Recent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/mark24823687">
-<img aria-label="mark24823687 - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/9fc348/25.png" title="mark24823687 - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/G_O_Y_I_M">
-<img aria-label="G_O_Y_I_M - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/g_o_y_i_m/25/31963_2.png" title="G_O_Y_I_M - Frequent Poster" width="25"/>
-</a>
-<a class="" href="https://www.disclose.tv/u/regen">
-<img aria-label="regen - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/regen/25/1023_2.png" title="regen - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/Peter_Fitzpatrick">
-<img aria-label="Peter_Fitzpatrick - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/peter_fitzpatrick/25/17651_2.png" title="Peter_Fitzpatrick - Most Recent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Smigg">
+<img aria-label="Smigg - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/smigg/25/33497_2.png" title="Smigg - Frequent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">5</span>
+<span class="posts" title="posts">2</span>
 </td>
 <td class="views">
-<span class="views" title="views">1160</span>
+<span class="views" title="views">137</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Study: 42,000 years ago a magnetic pole reversal led to an environmental crisis" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/study-42-000-years-ago-a-magnetic-pole-reversal-led-to-an-environmental-crisis/26373" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/9/5/95b2035a49404130728d6dd3b36b11c6446ee134_2_1024x615.jpeg" itemprop="image"/>
-<meta content="25" itemprop="position"/>
+<meta content="Shocking Doomsday Maps Of The World And The Billionaire Escape Plans" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/shocking-doomsday-maps-of-the-world-and-the-billionaire-escape-plans/321" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/1X/488c2a962139a5228750254034f03b8fdcfc10f9.jpeg" itemprop="image"/>
+<meta content="7" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/study-42-000-years-ago-a-magnetic-pole-reversal-led-to-an-environmental-crisis/26373">Study: 42,000 years ago a magnetic pole reversal led to an environmental crisis</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/shocking-doomsday-maps-of-the-world-and-the-billionaire-escape-plans/321">Shocking Doomsday Maps Of The World And The Billionaire Escape Plans</a>
 </span>
 <div class="link-bottom-line">
 <a class="badge-wrapper bullet" href="/c/shtf/69">
@@ -1184,39 +361,644 @@ Kim Yo-jong has given the White House a warning:
 </span>
 </a>
 <div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_abuse">tox_abuse</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="latest single" href="https://www.disclose.tv/u/nwomaster">
-<img aria-label="nwomaster - Original Poster, Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/nwomaster/25/494_2.png" title="nwomaster - Original Poster, Most Recent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Seed">
+<img aria-label="Seed - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/seed/25/142_2.png" title="Seed - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Star_Scrier">
+<img aria-label="Star_Scrier - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/star_scrier/25/21020_2.png" title="Star_Scrier - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/doe753">
+<img aria-label="doe753 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/doe753/25/22939_2.png" title="doe753 - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/kcufo1969">
+<img aria-label="kcufo1969 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kcufo1969/25/1597_2.png" title="kcufo1969 - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/JustSoManySheep">
+<img aria-label="JustSoManySheep - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/justsomanysheep/25/25695_2.png" title="JustSoManySheep - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">0</span>
+<span class="posts" title="posts">40</span>
 </td>
 <td class="views">
-<span class="views" title="views">189</span>
+<span class="views" title="views">16950</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Complaint Alleges: US Nonprofit With Ties to Wuhan Lab Violated Federal Law by Failing to Disclose Taxpayer Funding" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/complaint-alleges-us-nonprofit-with-ties-to-wuhan-lab-violated-federal-law-by-failing-to-disclose-taxpayer-funding/26363" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/optimized/3X/1/7/170ec1210dc522bd11194dbe7389bd07d1dbafff_2_1024x680.jpeg" itemprop="image"/>
-<meta content="26" itemprop="position"/>
+<meta content="Fallen Angels And The Six Digits Phenomenon" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/fallen-angels-and-the-six-digits-phenomenon/291" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/1X/fffc07ae9e399f34f4c3f1a55f9b3ff62ff944f9.jpeg" itemprop="image"/>
+<meta content="8" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/complaint-alleges-us-nonprofit-with-ties-to-wuhan-lab-violated-federal-law-by-failing-to-disclose-taxpayer-funding/26363">Complaint Alleges: US Nonprofit With Ties to Wuhan Lab Violated Federal Law by Failing to Disclose Taxpayer Funding</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/fallen-angels-and-the-six-digits-phenomenon/291">Fallen Angels And The Six Digits Phenomenon</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/mystery/71">
+<span class="badge-category-bg" style="background-color: #92278F"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Mystery</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_sex">tox_sex</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_threat">tox_threat</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/Seed">
+<img aria-label="Seed - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/seed/25/142_2.png" title="Seed - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/brendace">
+<img aria-label="brendace - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/brendace/25/29105_2.png" title="brendace - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Thecitizen">
+<img aria-label="Thecitizen - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/kcufo1969">
+<img aria-label="kcufo1969 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kcufo1969/25/1597_2.png" title="kcufo1969 - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Wendell">
+<img aria-label="Wendell - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/w/e9bcb4/25.png" title="Wendell - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">40</span>
+</td>
+<td class="views">
+<span class="views" title="views">6663</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="Water Out Of Thin Air!" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/water-out-of-thin-air/27161" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/5/b/5b71acca9e851be744680692eb527065c9946c93_2_1024x576.jpeg" itemprop="image"/>
+<meta content="9" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/water-out-of-thin-air/27161">Water Out Of Thin Air!</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/science/39">
+<span class="badge-category-bg" style="background-color: #0097A9"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Science</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/toxic">toxic</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/catman">
+<img aria-label="catman - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/catman/25/282_2.png" title="catman - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Rob_Jeremy">
+<img aria-label="Rob_Jeremy - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rob_jeremy/25/2980_2.png" title="Rob_Jeremy - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Omfgimonfire">
+<img aria-label="Omfgimonfire - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/omfgimonfire/25/8916_2.png" title="Omfgimonfire - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/LaughingPrince">
+<img aria-label="LaughingPrince - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/laughingprince/25/32079_2.png" title="LaughingPrince - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/catale">
+<img aria-label="catale - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/c/fbc32d/25.png" title="catale - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">6</span>
+</td>
+<td class="views">
+<span class="views" title="views">694</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="California implements universal basic income for nonwhites only" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/california-implements-universal-basic-income-for-nonwhites-only/27297" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/4/e/4e3eacc0f9148755b89437aa0ada53da4b86091a.jpeg" itemprop="image"/>
+<meta content="10" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/california-implements-universal-basic-income-for-nonwhites-only/27297">California implements universal basic income for nonwhites only</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/society/64">
+<span class="badge-category-bg" style="background-color: #ED207B"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Society</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/toxic_80">toxic_80</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_abuse">tox_abuse</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/mrwislr">
+<img aria-label="mrwislr - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Bobby">
+<img aria-label="Bobby - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/b/df788c/25.png" title="Bobby - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/AStaphInfection">
+<img aria-label="AStaphInfection - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/astaphinfection/25/34071_2.png" title="AStaphInfection - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/catman">
+<img aria-label="catman - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/catman/25/282_2.png" title="catman - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/BMazed">
+<img aria-label="BMazed - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/bmazed/25/5188_2.png" title="BMazed - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">8</span>
+</td>
+<td class="views">
+<span class="views" title="views">605</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="Community Music Thread" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/community-music-thread/23170" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/b/1/b1f929daf27ad3995325b9cdca0088ffed8a1d2d.jpeg" itemprop="image"/>
+<meta content="11" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/community-music-thread/23170">Community Music Thread</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/offtopic/35">
+<span class="badge-category-bg" style="background-color: #dddddd"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Offtopic</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/Enik">
+<img aria-label="Enik - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/enik/25/404_2.png" title="Enik - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Smigg">
+<img aria-label="Smigg - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/smigg/25/33497_2.png" title="Smigg - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/MrNice">
+<img aria-label="MrNice - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/brendace">
+<img aria-label="brendace - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/brendace/25/29105_2.png" title="brendace - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Xico">
+<img aria-label="Xico - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/xico/25/256_2.png" title="Xico - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">99</span>
+</td>
+<td class="views">
+<span class="views" title="views">2277</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="It Is Meme War!" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/it-is-meme-war/22178" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/a/a/aa1da810695443f7bd4afc564d317de115e90f34.jpeg" itemprop="image"/>
+<meta content="12" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/it-is-meme-war/22178">It Is Meme War!</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/offtopic/35">
+<span class="badge-category-bg" style="background-color: #dddddd"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Offtopic</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/toxic">toxic</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/sia">
+<img aria-label="sia - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/sia/25/30518_2.png" title="sia - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Thecitizen">
+<img aria-label="Thecitizen - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Severian">
+<img aria-label="Severian - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/severian/25/25772_2.png" title="Severian - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Grishnakh">
+<img aria-label="Grishnakh - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/grishnakh/25/6917_2.png" title="Grishnakh - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/johnnieja23">
+<img aria-label="johnnieja23 - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/johnnieja23/25/11587_2.png" title="johnnieja23 - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">175</span>
+</td>
+<td class="views">
+<span class="views" title="views">10102</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="The Netherlands is A Corporation for profit. This entity is the World's biggest childporn database" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/the-netherlands-is-a-corporation-for-profit-this-entity-is-the-worlds-biggest-childporn-database/27241" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/b/c/bcfa518fa13829708a0594c54382ee76c5fc6b5f.jpeg" itemprop="image"/>
+<meta content="13" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/the-netherlands-is-a-corporation-for-profit-this-entity-is-the-worlds-biggest-childporn-database/27241">The Netherlands is A Corporation for profit. This entity is the World's biggest childporn database</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/society/64">
+<span class="badge-category-bg" style="background-color: #ED207B"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Society</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_drug">tox_drug</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_sex">tox_sex</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/rkobilan">
+<img aria-label="rkobilan - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rkobilan/25/1315_2.png" title="rkobilan - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/catman">
+<img aria-label="catman - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/catman/25/282_2.png" title="catman - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Jan_Jansen">
+<img aria-label="Jan_Jansen - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/jan_jansen/25/9908_2.png" title="Jan_Jansen - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/sedna">
+<img aria-label="sedna - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/s/9e8a1a/25.png" title="sedna - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/johnnieja23">
+<img aria-label="johnnieja23 - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/johnnieja23/25/11587_2.png" title="johnnieja23 - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">9</span>
+</td>
+<td class="views">
+<span class="views" title="views">682</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="Dr. Yeadon said “I’m well aware of the global crimes against humanity being perpetrated against a large proportion of the worlds population" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/dr-yeadon-said-i-m-well-aware-of-the-global-crimes-against-humanity-being-perpetrated-against-a-large-proportion-of-the-worlds-population/27319" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/c/7/c7b5409ccd3f2630d3da8229faab840d6d6ef289.jpeg" itemprop="image"/>
+<meta content="14" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/dr-yeadon-said-i-m-well-aware-of-the-global-crimes-against-humanity-being-perpetrated-against-a-large-proportion-of-the-worlds-population/27319">Dr. Yeadon said “I’m well aware of the global crimes against humanity being perpetrated against a large proportion of the worlds population</a>
 </span>
 <div class="link-bottom-line">
 <a class="badge-wrapper bullet" href="/c/health/68">
 <span class="badge-category-bg" style="background-color: #0E76BD"></span>
 <span class="badge-category clear-badge">
 <span class="category-name">Health</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_drug">tox_drug</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/punx1965">
+<img aria-label="punx1965 - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/punx1965/25/383_2.png" title="punx1965 - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Flynndawg">
+<img aria-label="Flynndawg - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/f/b5ac83/25.png" title="Flynndawg - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Tuor10">
+<img aria-label="Tuor10 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/tuor10/25/21961_2.png" title="Tuor10 - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/catman">
+<img aria-label="catman - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/catman/25/282_2.png" title="catman - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Othelzer">
+<img aria-label="Othelzer - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/othelzer/25/26753_2.png" title="Othelzer - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">8</span>
+</td>
+<td class="views">
+<span class="views" title="views">484</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content='Watch "CERN Human Sacrifice Documentary"' itemprop="name"/>
+<meta content="https://www.disclose.tv/t/watch-cern-human-sacrifice-documentary/26832" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/8/b/8b8520d4fa40714e9cbd7682a71ce86f9588fc04_2_1024x576.jpeg" itemprop="image"/>
+<meta content="15" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/watch-cern-human-sacrifice-documentary/26832">Watch "CERN Human Sacrifice Documentary"</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/science/39">
+<span class="badge-category-bg" style="background-color: #0097A9"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Science</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_threat">tox_threat</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/TheLastSitcom">
+<img aria-label="TheLastSitcom - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/thelastsitcom/25/19158_2.png" title="TheLastSitcom - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Othelzer">
+<img aria-label="Othelzer - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/othelzer/25/26753_2.png" title="Othelzer - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Thecitizen">
+<img aria-label="Thecitizen - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/rkobilan">
+<img aria-label="rkobilan - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rkobilan/25/1315_2.png" title="rkobilan - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/kcufo1969">
+<img aria-label="kcufo1969 - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kcufo1969/25/1597_2.png" title="kcufo1969 - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">83</span>
+</td>
+<td class="views">
+<span class="views" title="views">2698</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="Cargo ship drew giant penis in Red Sea before wedging itself in Suez Canal" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/cargo-ship-drew-giant-penis-in-red-sea-before-wedging-itself-in-suez-canal/27201" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/7/7/7798d2e3f324396bb28974e1beb97ac6b08607b2.jpeg" itemprop="image"/>
+<meta content="16" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/cargo-ship-drew-giant-penis-in-red-sea-before-wedging-itself-in-suez-canal/27201">Cargo ship drew giant penis in Red Sea before wedging itself in Suez Canal</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/shtf/69">
+<span class="badge-category-bg" style="background-color: #D50032"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">SHTF</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_sex">tox_sex</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/toxic_75">toxic_75</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/nwomaster">
+<img aria-label="nwomaster - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/nwomaster/25/494_2.png" title="nwomaster - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Anduril_FlameOftheWe">
+<img aria-label="Anduril_FlameOftheWe - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/anduril_flameofthewe/25/26345_2.png" title="Anduril_FlameOftheWe - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/dword20">
+<img aria-label="dword20 - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/d/df705f/25.png" title="dword20 - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Rob_Jeremy">
+<img aria-label="Rob_Jeremy - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rob_jeremy/25/2980_2.png" title="Rob_Jeremy - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Tuor10">
+<img aria-label="Tuor10 - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/tuor10/25/21961_2.png" title="Tuor10 - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">20</span>
+</td>
+<td class="views">
+<span class="views" title="views">23560</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="Today in unmarked cars, the terrorist military shot unprovoked at 3 riding one bike, 2 have escaped for now" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/today-in-unmarked-cars-the-terrorist-military-shot-unprovoked-at-3-riding-one-bike-2-have-escaped-for-now/27327" itemprop="url"/>
+<meta content="17" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/today-in-unmarked-cars-the-terrorist-military-shot-unprovoked-at-3-riding-one-bike-2-have-escaped-for-now/27327">Today in unmarked cars, the terrorist military shot unprovoked at 3 riding one bike, 2 have escaped for now</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/unexplained/14">
+<span class="badge-category-bg" style="background-color: #7337aa"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Unexplained</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_threat">tox_threat</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_drug">tox_drug</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="latest single" href="https://www.disclose.tv/u/mixms">
+<img aria-label="mixms - Original Poster, Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mixms/25/34179_2.png" title="mixms - Original Poster, Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">0</span>
+</td>
+<td class="views">
+<span class="views" title="views">174</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="#ElectionReform: Trump, Biden Issues Statements on the Georgia Election Reform Law; #2A Updates" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/electionreform-trump-biden-issues-statements-on-the-georgia-election-reform-law-2a-updates/27326" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/5/9/595760c74a889169cf8458b64721655275ac9f66_2_1024x576.jpeg" itemprop="image"/>
+<meta content="18" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/electionreform-trump-biden-issues-statements-on-the-georgia-election-reform-law-2a-updates/27326">#ElectionReform: Trump, Biden Issues Statements on the Georgia Election Reform Law; #2A Updates</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/politics/67">
+<span class="badge-category-bg" style="background-color: #F7941D"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Politics</span>
+</span>
+</a>
+<div class="discourse-tags">
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="latest single" href="https://www.disclose.tv/u/Hermes">
+<img aria-label="Hermes - Original Poster, Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/h/f07891/25.png" title="Hermes - Original Poster, Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">0</span>
+</td>
+<td class="views">
+<span class="views" title="views">92</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="A theory on why Brian Kemp is suddenly for election reforms" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/a-theory-on-why-brian-kemp-is-suddenly-for-election-reforms/27305" itemprop="url"/>
+<meta content="19" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/a-theory-on-why-brian-kemp-is-suddenly-for-election-reforms/27305">A theory on why Brian Kemp is suddenly for election reforms</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/politics/67">
+<span class="badge-category-bg" style="background-color: #F7941D"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Politics</span>
+</span>
+</a>
+<div class="discourse-tags">
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="latest single" href="https://www.disclose.tv/u/Hermes">
+<img aria-label="Hermes - Original Poster, Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/h/f07891/25.png" title="Hermes - Original Poster, Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">0</span>
+</td>
+<td class="views">
+<span class="views" title="views">191</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="Puppy being molested by a.... Butterfly" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/puppy-being-molested-by-a-butterfly/27325" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/8/2/8252174ddbd8addb50410cbda90632731a385263_2_1024x576.jpeg" itemprop="image"/>
+<meta content="20" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/puppy-being-molested-by-a-butterfly/27325">Puppy being molested by a.... Butterfly</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/society/64">
+<span class="badge-category-bg" style="background-color: #ED207B"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Society</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="latest single" href="https://www.disclose.tv/u/catman">
+<img aria-label="catman - Original Poster, Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/catman/25/282_2.png" title="catman - Original Poster, Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">0</span>
+</td>
+<td class="views">
+<span class="views" title="views">192</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="A Source Reported on the Assignment of a Russian Submarine Missing from NATO Radars" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/a-source-reported-on-the-assignment-of-a-russian-submarine-missing-from-nato-radars/27251" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/1/4/144f2f096e0a76fd6f71c295acc7bd629c111df7_2_762x1023.jpeg" itemprop="image"/>
+<meta content="21" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/a-source-reported-on-the-assignment-of-a-russian-submarine-missing-from-nato-radars/27251">A Source Reported on the Assignment of a Russian Submarine Missing from NATO Radars</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/conspiracy/22">
+<span class="badge-category-bg" style="background-color: #9053c7"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Conspiracy</span>
 </span>
 </a>
 <div class="discourse-tags">
@@ -1227,178 +1009,422 @@ Kim Yo-jong has given the White House a warning:
 <a class="" href="https://www.disclose.tv/u/rkobilan">
 <img aria-label="rkobilan - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rkobilan/25/1315_2.png" title="rkobilan - Original Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/Derring_Do">
-<img aria-label="Derring_Do - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/derring_do/25/3121_2.png" title="Derring_Do - Most Recent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/paddy.be.good">
+<img aria-label="paddy.be.good - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/p/7c8e57/25.png" title="paddy.be.good - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/the_millz">
+<img aria-label="the_millz - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/the_millz/25/28378_2.png" title="the_millz - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Cipollino_3.0">
+<img aria-label="Cipollino_3.0 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/cipollino_3.0/25/1860_2.png" title="Cipollino_3.0 - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Rob_Jeremy">
+<img aria-label="Rob_Jeremy - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rob_jeremy/25/2980_2.png" title="Rob_Jeremy - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">1</span>
+<span class="posts" title="posts">4</span>
 </td>
 <td class="views">
-<span class="views" title="views">143</span>
+<span class="views" title="views">545</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="The Establishment Has Already Acknowledged A Lost Race of Giants - Part 1" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/the-establishment-has-already-acknowledged-a-lost-race-of-giants-part-1/26128" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/9/6/967fa4892fddb50abce39776c4d5094219e2a133.jpeg" itemprop="image"/>
-<meta content="27" itemprop="position"/>
+<meta content="Education ....Its InDoctrination and PerVersion" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/education-its-indoctrination-and-perversion/27212" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/b/9/b941fcfad7b4282853fb0dc04a5c728c6f52257d.jpeg" itemprop="image"/>
+<meta content="22" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/the-establishment-has-already-acknowledged-a-lost-race-of-giants-part-1/26128">The Establishment Has Already Acknowledged A Lost Race of Giants - Part 1</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/education-its-indoctrination-and-perversion/27212">Education ....Its InDoctrination and PerVersion</a>
 </span>
 <div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/history/60">
-<span class="badge-category-bg" style="background-color: #8C6238"></span>
+<a class="badge-wrapper bullet" href="/c/society/64">
+<span class="badge-category-bg" style="background-color: #ED207B"></span>
 <span class="badge-category clear-badge">
-<span class="category-name">History</span>
+<span class="category-name">Society</span>
 </span>
 </a>
 <div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_vulgar">tox_vulgar</a>
+<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_sex">tox_sex</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="" href="https://www.disclose.tv/u/Skippychippy">
-<img aria-label="Skippychippy - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/skippychippy/25/374_2.png" title="Skippychippy - Original Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/brendace">
+<img aria-label="brendace - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/brendace/25/29105_2.png" title="brendace - Original Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Thecitizen">
-<img aria-label="Thecitizen - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Woodchopper">
+<img aria-label="Woodchopper - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/woodchopper/25/503_2.png" title="Woodchopper - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/catman">
+<img aria-label="catman - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/catman/25/282_2.png" title="catman - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/moocowman">
+<img aria-label="moocowman - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/919ad9/25.png" title="moocowman - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">6</span>
+</td>
+<td class="views">
+<span class="views" title="views">279</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="OUTCRY TO THE WORLD, FROM ISRAEL! (NL+ENG subtitles)" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/outcry-to-the-world-from-israel-nl-eng-subtitles/26995" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/1/7/17be274824cabdf4aef978b3914dfb9a303050c6.jpeg" itemprop="image"/>
+<meta content="23" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/outcry-to-the-world-from-israel-nl-eng-subtitles/26995">OUTCRY TO THE WORLD, FROM ISRAEL! (NL+ENG subtitles)</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/society/64">
+<span class="badge-category-bg" style="background-color: #ED207B"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Society</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/toxic">toxic</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/shileen.fairley2">
+<img aria-label="shileen.fairley2 - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/shileen.fairley2/25/17767_2.png" title="shileen.fairley2 - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/ReturnofTruthdefendR">
+<img aria-label="ReturnofTruthdefendR - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/returnoftruthdefendr/25/32788_2.png" title="ReturnofTruthdefendR - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Omegas_Insanity">
+<img aria-label="Omegas_Insanity - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/omegas_insanity/25/13798_2.png" title="Omegas_Insanity - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Rob_Jeremy">
+<img aria-label="Rob_Jeremy - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rob_jeremy/25/2980_2.png" title="Rob_Jeremy - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Sundew">
+<img aria-label="Sundew - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/sundew/25/3500_2.png" title="Sundew - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">14</span>
+</td>
+<td class="views">
+<span class="views" title="views">1692</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="Is Jesus God" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/is-jesus-god/27159" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/a/b/ab74b64b867fca23eae9952074e74129e61ee118.jpeg" itemprop="image"/>
+<meta content="24" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/is-jesus-god/27159">Is Jesus God</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/spiritual/23">
+<span class="badge-category-bg" style="background-color: #F6BE00"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Spiritual</span>
+</span>
+</a>
+<div class="discourse-tags">
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/Smigg">
+<img aria-label="Smigg - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/smigg/25/33497_2.png" title="Smigg - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/bSIRIUS">
+<img aria-label="bSIRIUS - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/bsirius/25/33506_2.png" title="bSIRIUS - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Othelzer">
+<img aria-label="Othelzer - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/othelzer/25/26753_2.png" title="Othelzer - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Omegas-Insanity">
+<img aria-label="Omegas-Insanity - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/o/6bbea6/25.png" title="Omegas-Insanity - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Sundew">
+<img aria-label="Sundew - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/sundew/25/3500_2.png" title="Sundew - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">53</span>
+</td>
+<td class="views">
+<span class="views" title="views">1095</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="Patent: Gravitational wave wormhole generator to teleport humans" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/patent-gravitational-wave-wormhole-generator-to-teleport-humans/27120" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/3/e/3e304a43e981e3b0850a9c9379a2e970ae6e0524.jpeg" itemprop="image"/>
+<meta content="25" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/patent-gravitational-wave-wormhole-generator-to-teleport-humans/27120">Patent: Gravitational wave wormhole generator to teleport humans</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/technology/66">
+<span class="badge-category-bg" style="background-color: #A4DBE8"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Technology</span>
+</span>
+</a>
+<div class="discourse-tags">
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/nwomaster">
+<img aria-label="nwomaster - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/nwomaster/25/494_2.png" title="nwomaster - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/burto2">
+<img aria-label="burto2 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/burto2/25/262_2.png" title="burto2 - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/MrNice">
+<img aria-label="MrNice - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Frequent Poster" width="25"/>
 </a>
 <a class="" href="https://www.disclose.tv/u/moocowman">
 <img aria-label="moocowman - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/919ad9/25.png" title="moocowman - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/kcufo1969">
-<img aria-label="kcufo1969 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kcufo1969/25/1597_2.png" title="kcufo1969 - Frequent Poster" width="25"/>
-</a>
-<a class="latest" href="https://www.disclose.tv/u/MrNice">
-<img aria-label="MrNice - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Most Recent Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/spaceflight81">
+<img aria-label="spaceflight81 - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/s/e79b87/25.png" title="spaceflight81 - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">42</span>
+<span class="posts" title="posts">62</span>
 </td>
 <td class="views">
-<span class="views" title="views">1823</span>
+<span class="views" title="views">2132</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Ancient Stone Boring High-Technology" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/ancient-stone-boring-high-technology/26061" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/e/4/e414a058de35e2ad709f3fc8b727ef3b539695ff.jpeg" itemprop="image"/>
+<meta content="STUDY: Chemical That Causes Penises To Shrink Found In Face Masks" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/study-chemical-that-causes-penises-to-shrink-found-in-face-masks/27165" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/c/6/c62d26ef35607804c70d4ecada889cb19152a6f7_2_1024x537.jpeg" itemprop="image"/>
+<meta content="26" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/study-chemical-that-causes-penises-to-shrink-found-in-face-masks/27165">STUDY: Chemical That Causes Penises To Shrink Found In Face Masks</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/health/68">
+<span class="badge-category-bg" style="background-color: #0E76BD"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Health</span>
+</span>
+</a>
+<div class="discourse-tags">
+<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_sex">tox_sex</a>
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/sia">
+<img aria-label="sia - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/sia/25/30518_2.png" title="sia - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Cipollino_3.0">
+<img aria-label="Cipollino_3.0 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/cipollino_3.0/25/1860_2.png" title="Cipollino_3.0 - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/Airborne">
+<img aria-label="Airborne - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/airborne/25/336_2.png" title="Airborne - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/DarkShroom">
+<img aria-label="DarkShroom - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/darkshroom/25/14462_2.png" title="DarkShroom - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Monkey">
+<img aria-label="Monkey - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/monkey/25/760_2.png" title="Monkey - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">17</span>
+</td>
+<td class="views">
+<span class="views" title="views">1570</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="The template source code 4. activate your true body matrix. geometry, sonic codes is how you reprogram the pre predictive algorithms" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/the-template-source-code-4-activate-your-true-body-matrix-geometry-sonic-codes-is-how-you-reprogram-the-pre-predictive-algorithms/27216" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/f/9/f98d5327997ff221ced6656e2f1013a57c8c33f9.jpeg" itemprop="image"/>
+<meta content="27" itemprop="position"/>
+<span class="link-top-line">
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/the-template-source-code-4-activate-your-true-body-matrix-geometry-sonic-codes-is-how-you-reprogram-the-pre-predictive-algorithms/27216">The template source code 4. activate your true body matrix. geometry, sonic codes is how you reprogram the pre predictive algorithms</a>
+</span>
+<div class="link-bottom-line">
+<a class="badge-wrapper bullet" href="/c/spiritual/23">
+<span class="badge-category-bg" style="background-color: #F6BE00"></span>
+<span class="badge-category clear-badge">
+<span class="category-name">Spiritual</span>
+</span>
+</a>
+<div class="discourse-tags">
+</div>
+</div>
+</td>
+<td class="posters">
+<a class="" href="https://www.disclose.tv/u/Sundew">
+<img aria-label="Sundew - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/sundew/25/3500_2.png" title="Sundew - Original Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/paddy.be.good">
+<img aria-label="paddy.be.good - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/p/7c8e57/25.png" title="paddy.be.good - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/Monkey">
+<img aria-label="Monkey - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/monkey/25/760_2.png" title="Monkey - Most Recent Poster" width="25"/>
+</a>
+</td>
+<td class="replies">
+<span class="posts" title="posts">2</span>
+</td>
+<td class="views">
+<span class="views" title="views">476</span>
+</td>
+<td>
+            March 27, 2021
+          </td>
+</tr>
+<tr class="topic-list-item">
+<td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<meta content="The Russia we lost - A masterclass in the trappings of human nature" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/the-russia-we-lost-a-masterclass-in-the-trappings-of-human-nature/26908" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/optimized/3X/e/e/ee4be15e27a2edacd2567cc4583ae6e6680fe6ec_2_1024x576.jpeg" itemprop="image"/>
 <meta content="28" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/ancient-stone-boring-high-technology/26061">Ancient Stone Boring High-Technology</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/the-russia-we-lost-a-masterclass-in-the-trappings-of-human-nature/26908">The Russia we lost - A masterclass in the trappings of human nature</a>
 </span>
 <div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/mystery/71">
-<span class="badge-category-bg" style="background-color: #92278F"></span>
+<a class="badge-wrapper bullet" href="/c/society/64">
+<span class="badge-category-bg" style="background-color: #ED207B"></span>
 <span class="badge-category clear-badge">
-<span class="category-name">Mystery</span>
+<span class="category-name">Society</span>
 </span>
 </a>
 <div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
+<a class="discourse-tag" href="https://www.disclose.tv/tag/tox_bully">tox_bully</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_racism">tox_racism</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/tox_vulgar">tox_vulgar</a>
+                    , 
+                    <a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="" href="https://www.disclose.tv/u/Skippychippy">
-<img aria-label="Skippychippy - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/skippychippy/25/374_2.png" title="Skippychippy - Original Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Cipollino_3.0">
+<img aria-label="Cipollino_3.0 - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/cipollino_3.0/25/1860_2.png" title="Cipollino_3.0 - Original Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Xico">
-<img aria-label="Xico - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/xico/25/256_2.png" title="Xico - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Rob_Jeremy">
+<img aria-label="Rob_Jeremy - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rob_jeremy/25/2980_2.png" title="Rob_Jeremy - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/kcufo1969">
-<img aria-label="kcufo1969 - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kcufo1969/25/1597_2.png" title="kcufo1969 - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Paul_C">
+<img aria-label="Paul_C - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/paul_c/25/20253_2.png" title="Paul_C - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Thecitizen">
-<img aria-label="Thecitizen - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/t/e495f1/25.png" title="Thecitizen - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Mr_Fibuli">
+<img aria-label="Mr_Fibuli - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/m/b782af/25.png" title="Mr_Fibuli - Frequent Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/rkobilan">
-<img aria-label="rkobilan - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rkobilan/25/1315_2.png" title="rkobilan - Most Recent Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/kcufo1969">
+<img aria-label="kcufo1969 - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/kcufo1969/25/1597_2.png" title="kcufo1969 - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">26</span>
+<span class="posts" title="posts">10</span>
 </td>
 <td class="views">
-<span class="views" title="views">1411</span>
+<span class="views" title="views">607</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="Ancient History News ~ Alaska Sites 30,000 Y.O., Underground City, FL.Mounds, Vermont YD Mammoth" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/ancient-history-news-alaska-sites-30-000-y-o-underground-city-fl-mounds-vermont-yd-mammoth/25572" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/b/a/baef39a97a32dcf7611807542fd602c74fbaf46c.jpeg" itemprop="image"/>
+<meta content="Egyptian female sea captain negates commanding stranded cargo ship in Suez Canal" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/egyptian-female-sea-captain-negates-commanding-stranded-cargo-ship-in-suez-canal/27079" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/d/5/d5723e57fbd05c345100519c23d3911c30c28481.jpeg" itemprop="image"/>
 <meta content="29" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/ancient-history-news-alaska-sites-30-000-y-o-underground-city-fl-mounds-vermont-yd-mammoth/25572">Ancient History News ~ Alaska Sites 30,000 Y.O., Underground City, FL.Mounds, Vermont YD Mammoth</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/egyptian-female-sea-captain-negates-commanding-stranded-cargo-ship-in-suez-canal/27079">Egyptian female sea captain negates commanding stranded cargo ship in Suez Canal</a>
 </span>
 <div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/history/60">
-<span class="badge-category-bg" style="background-color: #8C6238"></span>
+<a class="badge-wrapper bullet" href="/c/conspiracy/22">
+<span class="badge-category-bg" style="background-color: #9053c7"></span>
 <span class="badge-category clear-badge">
-<span class="category-name">History</span>
+<span class="category-name">Conspiracy</span>
 </span>
 </a>
 <div class="discourse-tags">
-<a class="discourse-tag" href="https://www.disclose.tv/tag/video">video</a>
 </div>
 </div>
 </td>
 <td class="posters">
-<a class="latest" href="https://www.disclose.tv/u/Skippychippy">
-<img aria-label="Skippychippy - Original Poster, Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/skippychippy/25/374_2.png" title="Skippychippy - Original Poster, Most Recent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/rkobilan">
+<img aria-label="rkobilan - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rkobilan/25/1315_2.png" title="rkobilan - Original Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/Canoecamper">
-<img aria-label="Canoecamper - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/c/f04885/25.png" title="Canoecamper - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/MrNice">
+<img aria-label="MrNice - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrnice/25/21104_2.png" title="MrNice - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/system">
-<img aria-label="system - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/system/25/1_2.png" title="system - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/Breeze_Leon">
+<img aria-label="Breeze_Leon - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/breeze_leon/25/1304_2.png" title="Breeze_Leon - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/stevegaylord">
-<img aria-label="stevegaylord - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/stevegaylord/25/29103_2.png" title="stevegaylord - Frequent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/mrwislr">
+<img aria-label="mrwislr - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/mrwislr/25/8966_2.png" title="mrwislr - Frequent Poster" width="25"/>
 </a>
-<a class="" href="https://www.disclose.tv/u/SittingBull">
-<img aria-label="SittingBull - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/s/a4c791/25.png" title="SittingBull - Frequent Poster" width="25"/>
+<a class="latest" href="https://www.disclose.tv/u/regen">
+<img aria-label="regen - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/regen/25/1023_2.png" title="regen - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">16</span>
+<span class="posts" title="posts">24</span>
 </td>
 <td class="views">
-<span class="views" title="views">1556</span>
+<span class="views" title="views">2413</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 <tr class="topic-list-item">
 <td class="main-link" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-<meta content="China did not, Russia/Iran did try to influence the 2020 US election, claims declassified US intel report" itemprop="name"/>
-<meta content="https://www.disclose.tv/t/china-did-not-russia-iran-did-try-to-influence-the-2020-us-election-claims-declassified-us-intel-report/26360" itemprop="url"/>
-<meta content="https://cdn-uploads.disclose.tv/original/3X/7/7/7718195db2695f5be8febd19936dcd40f84b3019.png" itemprop="image"/>
+<meta content="Suez Canal, one of the largest shipping lanes on the planet, blocked by container ship" itemprop="name"/>
+<meta content="https://www.disclose.tv/t/suez-canal-one-of-the-largest-shipping-lanes-on-the-planet-blocked-by-container-ship/26931" itemprop="url"/>
+<meta content="https://cdn-uploads.disclose.tv/original/3X/c/a/ca36be4f3fc8bed5ac846e8931f3b35f8f6647ab.png" itemprop="image"/>
 <meta content="30" itemprop="position"/>
 <span class="link-top-line">
-<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/china-did-not-russia-iran-did-try-to-influence-the-2020-us-election-claims-declassified-us-intel-report/26360">China did not, Russia/Iran did try to influence the 2020 US election, claims declassified US intel report</a>
+<a class="title raw-link raw-topic-link" href="https://www.disclose.tv/t/suez-canal-one-of-the-largest-shipping-lanes-on-the-planet-blocked-by-container-ship/26931">Suez Canal, one of the largest shipping lanes on the planet, blocked by container ship</a>
 </span>
 <div class="link-bottom-line">
-<a class="badge-wrapper bullet" href="/c/politics/67">
-<span class="badge-category-bg" style="background-color: #F7941D"></span>
+<a class="badge-wrapper bullet" href="/c/shtf/69">
+<span class="badge-category-bg" style="background-color: #D50032"></span>
 <span class="badge-category clear-badge">
-<span class="category-name">Politics</span>
+<span class="category-name">SHTF</span>
 </span>
 </a>
 <div class="discourse-tags">
@@ -1409,18 +1435,27 @@ Kim Yo-jong has given the White House a warning:
 <a class="" href="https://www.disclose.tv/u/Disclose.tv">
 <img aria-label="Disclose.tv - Original Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/disclose.tv/25/6_2.png" title="Disclose.tv - Original Poster" width="25"/>
 </a>
-<a class="latest" href="https://www.disclose.tv/u/4to20">
-<img aria-label="4to20 - Most Recent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/4/aca169/25.png" title="4to20 - Most Recent Poster" width="25"/>
+<a class="" href="https://www.disclose.tv/u/donnypietramali">
+<img aria-label="donnypietramali - Frequent Poster" class="avatar" height="25" src="/letter_avatar_proxy/v4/letter/d/7cd45c/25.png" title="donnypietramali - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/system">
+<img aria-label="system - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/system/25/1_2.png" title="system - Frequent Poster" width="25"/>
+</a>
+<a class="" href="https://www.disclose.tv/u/rkobilan">
+<img aria-label="rkobilan - Frequent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/rkobilan/25/1315_2.png" title="rkobilan - Frequent Poster" width="25"/>
+</a>
+<a class="latest" href="https://www.disclose.tv/u/MartyMcfly">
+<img aria-label="MartyMcfly - Most Recent Poster" class="avatar" height="25" src="/user_avatar/www.disclose.tv/martymcfly/25/7503_2.png" title="MartyMcfly - Most Recent Poster" width="25"/>
 </a>
 </td>
 <td class="replies">
-<span class="posts" title="posts">1</span>
+<span class="posts" title="posts">34</span>
 </td>
 <td class="views">
-<span class="views" title="views">138</span>
+<span class="views" title="views">24993</span>
 </td>
 <td>
-            March 16, 2021
+            March 27, 2021
           </td>
 </tr>
 </tbody>

@@ -1,0 +1,1804 @@
+<!DOCTYPE html>
+
+<html class="no-js" itemscope="" itemtype="https://schema.org/WebPage" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<link href="https://freedomoutpost.com/xmlrpc.php" rel="pingback"/>
+<meta content="width=device-width,initial-scale=1.0,user-scalable=yes" name="viewport"/>
+<title>Freedom Outpost - Don't Tread on Us</title>
+<meta content="Don't Tread on Us" name="description">
+<meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots">
+<link href="https://freedomoutpost.com/" rel="canonical">
+<link href="https://freedomoutpost.com/page/2/" rel="next"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="website" property="og:type"/>
+<meta content="Freedom Outpost" property="og:title"/>
+<meta content="Don't Tread On Us" property="og:description"/>
+<meta content="https://freedomoutpost.com/" property="og:url"/>
+<meta content="Freedom Outpost" property="og:site_name"/>
+<meta content="https://freedomoutpost.com/wp-content/uploads/2017/03/freedomoutpost-logo2.png" property="og:image"/>
+<meta content="1200" property="og:image:width"/>
+<meta content="275" property="og:image:height"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@FreedomOutpost" name="twitter:site"/>
+<script class="yoast-schema-graph" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://freedomoutpost.com/#website","url":"https://freedomoutpost.com/","name":"Freedom Outpost","description":"Don&#039;t Tread on Us","potentialAction":[{"@type":"SearchAction","target":"https://freedomoutpost.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://freedomoutpost.com/#webpage","url":"https://freedomoutpost.com/","name":"Freedom Outpost - Don&#039;t Tread on Us","isPartOf":{"@id":"https://freedomoutpost.com/#website"},"description":"Don&#039;t Tread on Us","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://freedomoutpost.com/"]}]}]}</script>
+<link href="//www.google.com" rel="dns-prefetch"/>
+<link href="//fonts.googleapis.com" rel="dns-prefetch"/>
+<link href="//s.w.org" rel="dns-prefetch"/>
+<link href="https://freedomoutpost.com/feed/" rel="alternate" title="Freedom Outpost » Feed" type="application/rss+xml"/>
+<link href="https://freedomoutpost.com/comments/feed/" rel="alternate" title="Freedom Outpost » Comments Feed" type="application/rss+xml"/>
+<link href="https://freedomoutpost.com/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/contact-form-7/includes/css/styles.css" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/klicked-polls-master/assets/klicked-polls.css" id="klicked-polls-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/css/mediaBoxes.css" id="media_boxes-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Font%20Awesome/css/font-awesome.min.css" id="media_boxes-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Fancybox/jquery.fancybox.min.css" id="media_boxes-fancybox-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Magnific%20Popup/magnific-popup.css" id="media_boxes-magnific-popup-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin_extra/extra_style.css" id="media_boxes-extra-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css" id="wordpress-popular-posts-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/themes/presso/font-icons/social-icons/css/zocial.css" id="social-icon-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/themes/presso/font-icons/entypo/css/entypo.css" id="entypo-icon-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/themes/presso/js/slick/slick.css" id="slick-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/themes/presso/js/slick/slick-theme.css" id="slick-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/themes/presso/style.css" id="presso-css-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<style id="presso-css-theme-inline-css" type="text/css">
+
+		/* Color */
+		.vw-hamburger-icon, .vw-hamburger-icon::before, .vw-hamburger-icon::after {
+			background-color: #191919;
+		}
+
+		.vw-menu-main .main-menu-link span:before {
+			background-color: #ffffff;
+		}
+
+
+
+		/* Header Font Family */
+
+		.vw-title-area__post-meta,
+		.vw-header-font-family,
+		.vw-about-author__tagline,
+		#wp-calendar thead,
+		#wp-calendar tfoot,
+		.vw-menu-main .sub-menu-link > span,
+		.vw-menu-top,
+		.vw-post-box__meta,
+		.vw-pagination,
+		.vw-page-links,
+		.vw-categories,
+		.vw-post-meta,
+		.vw-category-list__count,
+		nav.woocommerce-pagination {
+			font-family: Merriweather;
+		}
+
+		
+		.button, input[type="button"], input[type="reset"], input[type="submit"], .vw-button,
+		.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit,
+		.woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit,
+		.widget_tag_cloud a,
+		.vw-tagline,
+		.vw-review__item-title,
+		.vw-review__total,
+		.vw-super-title,
+		.vw-social-counter__count,
+		.vw-tab-title,
+		.wc-tabs {
+			font-family: Merriweather;
+			font-weight: 700;
+						font-style: ;
+						letter-spacing: 0px;
+			text-transform: none;
+		}
+
+
+		/* Font size */
+		@media (min-width: 992px) {
+			.vw-about-author__name,
+			.vw-related-posts__title,
+			.vw-our-picks-posts__title,
+			.vw-post-comments-title,
+			.vw-comments-title {
+		        font-size: 30px;
+		    }
+		}
+
+
+
+		/* Border */
+		body hr,
+		body .widget + .widget,
+		body .vw-main-post:not(:last-child), body .vw-about-author:not(:last-child), body .vw-related-posts:not(:last-child), body .vw-our-picks-posts:not(:last-child), body .vw-post-navigation:not(:last-child), body .vw-comments-area:not(:last-child), body .vw-post-footer-section-custom:not(:last-child) {
+			border-color: #333;
+			border-width: 6px;
+
+					}
+
+		body .vw-pagination,
+		body .vwspc-section-post-box:not(:first-child) .vwspc-section-content > :first-child, body .vwspc-section-post-box-sidebar:not(:first-child) .vwspc-section-content > :first-child, body .vwspc-section-2-sidebars-section .widget:first-child, body .vwspc-section-3-sidebars-section .widget:first-child, body .vwspc-section-custom-section:not(:first-child) .vwspc-section-content > :first-child, body .vwspc-section:not(:first-child) body .vwspc-section-sidebar .widget:first-child {
+			border-color: #333;
+			border-width: 6px;
+
+					}
+
+		/* Mobile Logo */
+		@media (max-width: 767px) {
+			div.vw-header__logo {
+				padding-top: 10px;
+				padding-bottom: 10px;
+				padding-left: 0;
+				padding-right: 0;
+			}
+		}
+
+		/* Accent */
+
+		.vw-post-content a {
+		  color: #907f00;
+		}
+
+		/* Accent - Auto generated */
+		.vw-footer-sidebar .widget-title, .vw-menu-mobile .menu-link:hover, .vw-404-box__hero-title, .vw-accordion .ui-state-hover span, .vw-404-text {
+  color: #907f00; }
+
+.vw-post-content th, .vw-comment__content th, .no-touch button:hover, .no-touch input[type="button"]:hover, .no-touch input[type="reset"]:hover, .no-touch input[type="submit"]:hover, .no-touch .woocommerce a.button:hover, .no-touch .woocommerce button.button:hover, .no-touch .woocommerce input.button:hover, .no-touch .woocommerce #respond input#submit:hover, .no-touch .woocommerce-page a.button:hover, .no-touch .woocommerce-page button.button:hover, .no-touch .woocommerce-page input.button:hover, .no-touch .woocommerce-page #respond input#submit:hover, .no-touch .vw-button:hover, .vw-button--accent, .no-touch .vw-button--outline.vw-button:hover, .vw-top-bar .vw-social-icon:hover, .vw-title-area__nav-button:hover, .vw-menu-top .menu-item:hover, .vw-menu-main .menu-item:hover, .vw-menu-top .main-menu-link:hover, .vw-menu-main .main-menu-link:hover, .vw-pagination__links .page-numbers.current, .vw-post-box--block-d .vw-post-views, .vw-post-box--slide-1:hover .vw-post-box__read-more, .vw-categories a, .vw-page-links > span:not(:first-child), .vw-scroll-to-top, .vw-content-slider .slick-prev, .vw-content-slider .slick-next, .vw-dropcap-circle, .vw-dropcap-box, .vw-review--points .vw-review__item-score-bar, .vw-review--percentage .vw-review__item-score-bar, .vw-review-summary, .sk-folding-cube .sk-cube:before, #wp-calendar tbody td:hover, .widget_product_tag_cloud .tagcloud a:hover, .widget_tag_cloud .tagcloud a:hover, .vw-category-list__count, .widget #sb_instagram .sbi_follow_btn a {
+  background-color: #907f00; }
+.vw-footer-sidebar .widget-title, .vw-menu-mobile .menu-link:hover, .vw-404-box__hero-title, .vw-accordion .ui-state-hover span, .vw-404-text {
+		color: #907f00; }
+
+		.vw-post-content th, .vw-comment__content th, .no-touch button:hover, .no-touch input[type="button"]:hover, .no-touch input[type="reset"]:hover, .no-touch input[type="submit"]:hover, .no-touch .woocommerce a.button:hover, .no-touch .woocommerce button.button:hover, .no-touch .woocommerce input.button:hover, .no-touch .woocommerce #respond input#submit:hover, .no-touch .woocommerce-page a.button:hover, .no-touch .woocommerce-page button.button:hover, .no-touch .woocommerce-page input.button:hover, .no-touch .woocommerce-page #respond input#submit:hover, .no-touch .vw-button:hover, .vw-button--accent, .no-touch .vw-button--outline.vw-button:hover, .vw-top-bar .vw-social-icon:hover, .vw-title-area__nav-button:hover, .vw-menu-top .menu-item:hover, .vw-menu-main .menu-item:hover, .vw-menu-top .main-menu-link:hover, .vw-menu-main .main-menu-link:hover, .vw-pagination__links .page-numbers.current, .vw-post-box--block-d .vw-post-views, .vw-post-box--slide-1:hover .vw-post-box__read-more, .vw-categories a, .vw-page-links > span:not(:first-child), .vw-scroll-to-top, .vw-content-slider .slick-prev, .vw-content-slider .slick-next, .vw-dropcap-circle, .vw-dropcap-box, .vw-review--points .vw-review__item-score-bar, .vw-review--percentage .vw-review__item-score-bar, .vw-review-summary, .sk-folding-cube .sk-cube:before, #wp-calendar tbody td:hover, .widget_product_tag_cloud .tagcloud a:hover, .widget_tag_cloud .tagcloud a:hover, .vw-category-list__count, .widget #sb_instagram .sbi_follow_btn a {
+		background-color: #907f00; }
+
+		
+		
+</style>
+<link href="https://freedomoutpost.com/wp-content/themes/presso-child-old/style.css" id="presso-child-theme-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/plugins/easy-social-share-buttons-3.4.1/assets/css/easy-social-share-buttons.min.css" id="easy-social-share-buttons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Merriweather%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic%2C900italic" id="redux-google-fonts-presso_options-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/themes/presso/style.css" id="parent-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/themes/presso-child-old/z-custom.css" id="pan-custom-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://freedomoutpost.com/wp-content/themes/presso-child-old/z-custom-media-queries.css" id="pan-custom-media-queries-css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://freedomoutpost.com/wp-includes/js/jquery/jquery.js" type="text/javascript"></script>
+<script id="media_boxes-isotope-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Isotope/jquery.isotope.min.js" type="text/javascript"></script>
+<script id="media_boxes-images-loaded-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/imagesLoaded/jquery.imagesLoaded.min.js" type="text/javascript"></script>
+<script id="media_boxes-transit-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Transit/jquery.transit.min.js" type="text/javascript"></script>
+<script id="media_boxes-easing-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/jQuery%20Easing/jquery.easing.js" type="text/javascript"></script>
+<script id="media_boxes-waypoints-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Waypoints/waypoints.min.js" type="text/javascript"></script>
+<script id="media_boxes-visible-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/jQuery%20Visible/jquery.visible.min.js" type="text/javascript"></script>
+<script id="media_boxes-fancybox-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Fancybox/jquery.fancybox.min.js" type="text/javascript"></script>
+<script id="media_boxes-modernizr-custom-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Modernizr/modernizr.custom.min.js" type="text/javascript"></script>
+<script id="media_boxes-magnific-popup-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/components/Magnific%20Popup/jquery.magnific-popup.min.js" type="text/javascript"></script>
+<script id="media_boxes-media-boxes-dropdown-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/js/jquery.mediaBoxes.dropdown.js" type="text/javascript"></script>
+<script id="media_boxes-media-boxes-js-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin/js/jquery.mediaBoxes.js" type="text/javascript"></script>
+<script id="media_boxes-media-boxes-js-init-js" src="https://freedomoutpost.com/wp-content/plugins/wp_media_boxes/plugin_extra/init.js" type="text/javascript"></script>
+<script id="wpp-json" type="application/json">
+{"sampling_active":1,"sampling_rate":60,"ajax_url":"https:\/\/freedomoutpost.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":0,"token":"2c55261903","lang":0,"debug":0}
+</script>
+<script id="wpp-js-js" src="https://freedomoutpost.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js" type="text/javascript"></script>
+<link href="https://freedomoutpost.com/wp-json/" rel="https://api.w.org/"/><link href="https://freedomoutpost.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="https://freedomoutpost.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 5.5.3" name="generator"/>
+<script type="text/javascript">
+    // Create Random Numbers for DIV
+	window.c4vl39 = { headad: '' + Math.random().toString(36), headshade: '' + Math.random().toString(36), mess: '' + Math.random().toString(36), butt: '' + Math.random().toString(36) }
+    
+    // Write Fake Ad DIV
+	document.write('<div style="width: 0px; height: 0px; overflow: hidden;"><div id="' + c4vl39.headad + '" class="BannerAd AdArea AdContainer AdDiv AdDiv AdPanel AdServer AdsDiv AdsFrame ad-banner" style="height: 1px; width: 1px;"></div></div>\n');
+    
+    // Write Top Bar Container DIV
+	document.write('<div id="' + c4vl39.headshade + '" style="display: none;background-color: #ff7600;padding: 5px 0px 0px;text-align: center;position: fixed;top: 0px;width: 100%;z-index: 99999999;box-shadow: rgb(255, 255, 255) 0px 0px 1px 0px, rgb(101, 0, 0) 0px 0px 0px 1px, rgba(0, 0, 0, 0.6) 0px 0px 15px 0px, rgba(255, 0, 0, 0.2) 0px -8px 20px 0px inset, rgba(0, 0, 0, 0.2) 0px -15px 40px 0px inset;line-height: 1;">\n');
+</script>
+<p style="display: inline-block;margin: 0;font-size: 18px;color: #ffffff;line-height: 1;font-family: Open Sans, Arial, sans-serif;font-weight: 100;letter-spacing: 0.3px;">
+Please disable your <strong style="color: #fff;font-weight: 600;">Ad Blocker</strong> to better interact with this website.
+</p>
+<script type="text/javascript">
+    // Write Top Bar Button
+    document.write('<button id="' + c4vl39.butt + '" style="display: none;background: rgba(0, 0, 0, 0.3);border: none;padding: 5px 24px;margin: 0px 0px 5px 10px;color: rgb(255, 255, 255);border-radius: 2px;cursor: pointer;font-size: 11px;font-family: Open Sans, Arial, sans-serif;font-weight: 600;letter-spacing: 0.8px;display: inline-block;line-height: inherit;box-shadow: none;">WHY?</button>\n');
+    
+    // Write Top Bar Message
+    document.write('<div id="' + c4vl39.mess + '" style="display: none;background-color: rgba(0, 0, 0, 0.2);color: rgb(255, 255, 255);padding: 10px 20px;text-align: left;line-height: 1.4;font-size: 16px;font-weight: 100;font-family: Open Sans, Arial, sans-serif;letter-spacing: 0.3px;">\nMany Ad Blockers break the way this site works, causing images to be hidden, videos not to play, content to flow in unexpected ways, and so on. Beyond that, our website relies on internet advertisements to pay the bills, so that you can read it for <strong style="color: #fff;font-weight: 600;">free</strong>. Server costs, site development and maintenance, research, and creating content all cost a lot of money, and without advertising revenue, our site may fade from existence. We are real people with jobs and families. If you enjoy the content on this website, which is supported by advertisements, please disable your Ad Blocker. Thanks!</div><link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">');
+    
+    // Write Top Bar Container DIV Close
+    document.write('</div>\n');
+    
+    // Set Interval to Check if Fake Ad DIV Exists
+    setInterval(function() { try { if (document.getElementById(c4vl39.headad).offsetHeight === 0) {             document.getElementById(c4vl39.headshade).style.display = 'block'; document.getElementById(c4vl39.butt).style.display = 'inline-block'; var winheight = document.getElementById(c4vl39.headshade).offsetHeight; document.body.style.paddingTop = winheight + "px";
+    } } catch(e) {} }, 1000);
+    
+    // Set Display Property of Extended Message on Button Click
+    document.getElementById(c4vl39.butt).onclick = function() {
+         if(document.getElementById(c4vl39.mess).style.display == 'none') {
+             document.getElementById(c4vl39.mess).style.display = 'block';
+         } else {
+             document.getElementById(c4vl39.mess).style.display = 'none';
+         }
+    };
+
+</script><meta content="1104585352887871" property="fb:app_id"/>
+<div id="fb-root"></div>
+<script async="" crossorigin="anonymous" defer="" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v3.2&amp;appId=1104585352887871&amp;autoLogAppEvents=1"></script>
+<meta content="Freedom Outpost" property="og:site_name"/>
+<meta content="Freedom Outpost" property="og:title"/>
+<meta content="Don't Tread on Us" property="og:description"/>
+<meta content="https://freedomoutpost.com/" property="og:url">
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/freedomoutpost.com\/wp-admin\/admin-ajax.php","essb3_nonce":"0706660a7b","essb3_plugin_url":"https:\/\/freedomoutpost.com\/wp-content\/plugins\/easy-social-share-buttons-3.4.1","essb3_stats":false,"essb3_ga":false,"essb3_ga_mode":"simple","blog_url":"https:\/\/freedomoutpost.com\/","essb3_postfloat_stay":false,"post_id":106708,"stop_postcount":true,"facebook_client":true,"facebook_post_url":"https:\/\/freedomoutpost.com\/joe-biden-speaks-early-to-set-stage-for-democrat-lawyers-to-mount-lawsuits-to-steal-election\/"};</script> <meta content="wordpress-plugin" name="onesignal">
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://freedomoutpost.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '330ae202-102c-4904-937f-079423d1f8fa';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://freedomoutpost.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.0c986762-0fae-40b1-a5f6-ee95f7275a97";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['notifyButton'] = { };
+oneSignal_options['notifyButton']['enable'] = true;
+oneSignal_options['notifyButton']['position'] = 'bottom-right';
+oneSignal_options['notifyButton']['theme'] = 'default';
+oneSignal_options['notifyButton']['size'] = 'medium';
+oneSignal_options['notifyButton']['displayPredicate'] = function() {
+              return OneSignal.isPushNotificationsEnabled()
+                      .then(function(isPushEnabled) {
+                          return !isPushEnabled;
+                      });
+            };
+oneSignal_options['notifyButton']['showCredit'] = false;
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link href="https://freedomoutpost.com/joe-biden-speaks-early-to-set-stage-for-democrat-lawyers-to-mount-lawsuits-to-steal-election/" rel="prerender"/><link href="https://freedomoutpost.com/hilarious-donald-trump-rally-goers-chant-lebron-sucks-in-pennsylvania/" rel="prerender"/><link href="https://freedomoutpost.com/joe-biden-speaks-early-to-set-stage-for-democrat-lawyers-to-mount-lawsuits-to-steal-election/" rel="prerender"/><link href="https://freedomoutpost.com/hilarious-donald-trump-rally-goers-chant-lebron-sucks-in-pennsylvania/" rel="prerender"/><meta content="241732562599215" property="fb:pages"> <style id="vw-custom-font" type="text/css">
+</style>
+<style class="options-output" title="dynamic-css" type="text/css">body{background-color:#ffffff;}.vw-content-area{background-color:#ffffff;}h1, h2, h3, h4, h5, h6, .vw-header-font,#wp-calendar caption,.vw-accordion-header-text,.vw-review-item-title,.vw-previous-link-page, .vw-next-link-page,.vw-quote,blockquote,.vw-comment__author,.widget_shopping_cart_content .mini_cart_item a:nth-child(2),.vw-post-content .vw-post-box__link{font-family:Merriweather;text-transform:none;letter-spacing:0px;font-weight:700;font-style:normal;color:#333;}h1{font-size:36px;}h2{font-size:30px;}h3{font-size:24px;}h4{font-size:18px;}h5{font-size:16px;}h6{font-size:16px;}body,cite,.vw-quote-cite{font-family:Merriweather;font-weight:400;font-style:normal;color:#666;font-size:16px;}.vw-top-bar{font-family:Merriweather;letter-spacing:0px;font-weight:400;font-style:normal;font-size:12px;}.widget-title{font-family:Merriweather;letter-spacing:0px;font-weight:700;font-style:normal;color:#333;font-size:24px;}body .vwspc-section-title{font-family:Merriweather;letter-spacing:1px;font-weight:700;font-style:normal;color:#333;font-size:30px;}.vw-super-title{font-size:13px;}.vw-post-box .vw-post-box__meta{font-size:11px;}.vw-categories{font-size:11px;}.vw-header__logo{padding-top:10px;padding-right:0;padding-bottom:10px;padding-left:0;}.vw-site-header__floating{padding-top:11px;padding-bottom:11px;}.vw-header{background:#ffffff;}.vw-header,.vw-header .vw-instant-search i{color:#191919;}.vw-top-bar{background:#333333;}.vw-top-bar{color:#eeeeee;}.vw-menu-main .main-menu-link{font-family:Merriweather;text-transform:uppercase;letter-spacing:0px;font-weight:400;font-style:normal;font-size:16px;}.vw-menu-main{background:#333333;}.vw-menu-main .main-menu-link{color:#ffffff;}.vw-menu-main .sub-menu-link{color:#2d2d2d;}.vw-menu-main .sub-menu-wrapper{background:#f7f7f7;}.vw-footer{background-color:#191919;}.vw-footer h1,.vw-footer h2,.vw-footer h3,.vw-footer h4,.vw-footer h5,.vw-footer h6{color:#ffffff;}.vw-footer .widget-title{color:#907f00;}.vw-footer{color:#9a9a9a;}.vw-bottom-bar{background:#111111;}.vw-bottom-bar{color:#f7f7f7;}</style> <meta content="initial-scale=1,maximum-scale=1,user-scalable=no" name="viewport"/>
+<meta content="noimageindex" name="robots"/>
+<meta content="noimageindex" name="googlebot"/>
+<meta content="241732562599215" property="fb:pages">
+<meta content="09E8FD785BBBE9C279F382C946443541" name="msvalidate.01">
+<link href="https://freedomoutpost.com/favicon.ico" rel="shortcut icon"/>
+<link href="/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/site.webmanifest" rel="manifest"/>
+<link color="#5bbad5" href="/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#ffc40d" name="msapplication-TileColor"/>
+<meta content="#ffffff" name="theme-color"/>
+<link href="https://freedomoutpost.com" rel="prefetch prerender">
+<script type="text/javascript">
+jQuery(document).ready(function(){1==history.length&&function(t,e){history.replaceState(null,document.title,e.pathname+"#!/back"),history.pushState(null,document.title,e.pathname),t.addEventListener("popstate",function(){"#!/back"===e.hash&&(history.replaceState(null,document.title,e.pathname),setTimeout(function(){e.replace("https://freedomoutpost.com")},0))},!1)}(window,location)});
+</script>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-1313049165470954",
+          enable_page_level_ads: false
+     });
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var owa_baseUrl = 'http://stats.yippy.com/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setDebug', true]);
+owa_cmds.push(['setSiteId', '4d703f15a1f24107d01985bdf35f7a68']);
+owa_cmds.push(['trackPageView']);
+owa_cmds.push(['trackClicks']);
+(function() {
+var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
+//owa_baseUrl = ('https:' == document.location.protocol ? window.owa_baseSecUrl || owa_baseUrl.replace(/http:/, 'https:') : owa_baseUrl );
+_owa.src = owa_baseUrl + 'modules/base/js/owa.tracker-combined-min.js';
+var _owa_s = document.getElementsByTagName('script')[0]; _owa_s.parentNode.insertBefore(_owa, _owa_s);
+}());
+//]]>
+</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-27783617-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-27783617-3');
+</script>
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "32559529" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+<img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=32559529&amp;cv=2.0&amp;cj=1"/>
+</noscript>
+</link></meta></meta></meta></meta></meta></link></meta></meta></head>
+<body class="home blog vw-site--full-width vw-enable-sticky-sidebar vw-disable-inview" id="site-top">
+<div class="vw-site">
+<div class="vw-header-area">
+<div class="vw-top-bar vw-top-bar--default">
+<div class="container">
+<div class="vw-bar">
+<div class="vw-bar__placeholder vw-bar__placeholder--left">
+<nav class="vw-menu-top">
+<ul class="vw-menu vw-menu-type-text clearfix" id="menu-top-navigation"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86375 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-86375"><a class="menu-link main-menu-link" href="https://freedomoutpost.com/writers-wanted/"><span>Writers Wanted</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87144 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-87144"><a class="menu-link main-menu-link" href="https://freedomoutpost.com/about-us/"><span>About Us</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86376 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-86376"><a class="menu-link main-menu-link" href="https://freedomoutpost.com/contact/"><span>Contact Us</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-102126 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-102126"><a class="menu-link main-menu-link" href="https://freedomoutpost.com/privacy/"><span>Privacy Policy</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89602 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-89602"><a class="menu-link main-menu-link" href="https://republicanlegion.com/?utm_source=FreedomOutpost&amp;utm_medium=Website" rel="noopener noreferrer" target="_blank"><span>Store</span></a></li>
+</ul></nav>
+</div>
+<div class="vw-bar__placeholder vw-bar__placeholder--right">
+<span class="vw-site-social-links vw-social-icons"> <a class="vw-social-icon vw-icon-social-facebook vw-social-icon--medium" href="https://www.facebook.com/freedomoutpost/" rel="author" target="_blank" title="Facebook">
+<i class="vw-icon icon-social-facebook"></i>
+<span class="vw-social-icon__label">Facebook</span>
+</a>
+<a class="vw-social-icon vw-icon-social-twitter vw-social-icon--medium" href="https://twitter.com/freedomoutpost" rel="author" target="_blank" title="Twitter">
+<i class="vw-icon icon-social-twitter"></i>
+<span class="vw-social-icon__label">Twitter</span>
+</a>
+</span>
+<div class="vw-instant-search">
+<a class="vw-instant-search__button" href="https://freedomoutpost.com/search/"><i class="vw-icon icon-entypo-search"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<header class="vw-header vw-header--left" itemscope="" itemtype="https://schema.org/WPHeader">
+<div class="vw-header__inner">
+<div class="vw-header__main-container vw-bar container">
+<div class="vw-header__logo vw-bar__placeholder vw-bar__placeholder--left">
+<div class="vw-logo" itemscope="" itemtype="https://schema.org/Organization">
+<a class="vw-logo__link" href="https://freedomoutpost.com/" itemprop="url">
+<img alt="Freedom Outpost" class="vw-logo__mobile_image" height="275" itemprop="mobile_logo" src="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" srcset="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png 2x" width="1200"/>
+<img alt="Freedom Outpost" class="vw-logo__image" height="275" itemprop="logo" src="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" srcset="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png 2x" width="1200"/>
+</a>
+</div>
+<div class="vw-mobile-nav-button">
+<button class="hamburger hamburger--spin" type="button">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button>
+</div>
+<div id="viv-search">
+<form action="https://yippy.com/search" class="search" id="search" name="search" onsubmit="try{return velocityFormSubmit(this, event);}catch(e){}">
+<input class="query" id="input-query" name="query" placeholder="Try a Yippy search" size="50" title="Search" value=""/>
+<input alt="Search" class="submit" title="Search" type="submit" value="Search"/>
+</form>
+</div>
+<style>.vw-header__logo{width:100%}.vw-logo{float:left}#viv-search{float:right;max-width:100%;width:500px;margin:22px auto 20px auto}#viv-search form.search input.query{padding:6px 10px;border-radius:5px 0 0 5px;border:solid 1px #ccc;float:left;width:425px;font-size:14px}#viv-search form.search input.query::placeholder{color:#777}#viv-search form.search input.submit{padding:6px 0;border-radius:0 5px 5px 0;border:solid 1px #ccc;background:#b0d236;cursor:pointer;color:#fff;-webkit-appearance:none;float:left;width:75px}@media screen and (max-width:1199px){#viv-search{width:400px}#viv-search form.search input.query{width:325px}}@media screen and (max-width:991px){.vw-logo{float:none}#viv-search{float:none;width:100%}#viv-search form.search input.query{width:80%}#viv-search form.search input.submit{width:20%}.vw-header-area{border:none}}</style>
+</div>
+</div>
+<div class="vw-header__main-menu vw-sticky-menu">
+<nav class="vw-menu-main" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<ul class="vw-menu vw-menu-type-mega" id="menu-main-navigation"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87265 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-87265"><a class="menu-link main-menu-link" href="/us-news/"><span>US News</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87266 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-87266"><a class="menu-link main-menu-link" href="/world-news/"><span>World News</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87267 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-87267"><a class="menu-link main-menu-link" href="/politics/"><span>Politics</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87268 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-87268"><a class="menu-link main-menu-link" href="/commentary/"><span>Commentary</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87269 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-87269"><a class="menu-link main-menu-link" href="/videos/"><span>Videos</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89601 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default" id="menu-item-89601"><a class="menu-link main-menu-link" href="https://republicanlegion.com/?utm_source=FreedomOutpost&amp;utm_medium=Website" rel="noopener noreferrer" target="_blank"><span>Store</span></a></li>
+</ul>
+</nav>
+</div>
+</div>
+</header>
+</div>
+<div class="tpd-banner-ad-b z-ad-powerinbox-banner">
+<div class="pi_117411 powerinbox">
+<style type="text/css">
+  .pi_117411 div, .pi_117411 a, .pi_117411 img, .pi_117411 ul, .pi_117411 li { margin: 0; padding: 0; line-height: 0; list-style: none; border: 0; vertical-align: baseline; } .pi_117411 { position: relative; max-width: 970px; margin: 0 auto; overflow: hidden; } .pi_117411 a { display: block; border: 0; border-style: none; outline: none; text-decoration: none; } .pi_117411 img { display: block; max-width: 100%; border: 0; outline: none; text-decoration: none; } .pi_117411 .pi_brand img { max-width: 84px; } .pi_117411 .pi_brand { position: absolute; display: block; width: 15px; height: 15px; overflow: hidden; right: 0; top: 0; cursor: pointer; z-index: 1000; transition: width .3s; line-height: 0; } .pi_117411 .pi_brand:hover { width: 84px; } .pi_117411 .pi_au img { height: auto; width: 100%; max-width: 970px; }
+  </style>
+<div class="pi_brand">
+<a href="https://stripe.rs-stripe.com/branding/?utm_source=contentstripe&amp;utm_medium=web&amp;utm_campaign=rs_117411&amp;utm_content=logo&amp;rs_type=web" rel="nofollow noopener" target="_blank">
+<img alt="Learn more about RevenueStripe..." height="15" src="https://stripe.rs-stripe.com/branding/recommend/web.png"/>
+</a>
+</div>
+<div class="pi_au">
+<a href="https://stripe.rs-stripe.com/stripe/redirect?cs_email={{GUID}}&amp;cs_stripeid=117411&amp;cs_offset=0&amp;cs_containertype=web&amp;cs_esp=powerinbox_web" rel="nofollow noopener" target="_blank"><img alt="" src="https://stripe.rs-stripe.com/stripe/image?cs_email={{GUID}}&amp;cs_stripeid=117411&amp;cs_offset=0&amp;cs_containertype=web&amp;cs_esp=powerinbox_web"/></a>
+</div>
+</div>
+</div>
+<section class="vw-content-area vw-content-area--right-sidebar">
+<div class="container">
+<div class="row">
+<main class="vw-content-main" itemprop="mainContentOfPage" role="main">
+<div class="vw-loop vw-loop--block-e vw-loop--block-e-2">
+<div class="vw-flex-grid vw-flex-grid--sm-2 vw-flex-grid--small-gap">
+<div class="vw-flex-grid__item" data-slugs="2020-election">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106708 post type-post status-publish format-standard has-post-thumbnail hentry category-2020-election tag-51316 tag-donald-trump tag-joe-biden" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51317" href="https://freedomoutpost.com/2020-election/" rel="category" title="View all posts in 2020 Election">2020 Election</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Joe Biden Speaks Early to Set Stage for Democrat Lawyers to Mount Lawsuits to Steal Election </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-04T09:10:27-05:00" itemprop="datePublished">November 4, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/joe-biden-speaks-early-to-set-stage-for-democrat-lawyers-to-mount-lawsuits-to-steal-election/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/joe-biden-speaks-early-to-set-stage-for-democrat-lawyers-to-mount-lawsuits-to-steal-election/" itemprop="url"></a>
+<meta content="2020-11-04T09:10:27-05:00" itemprop="datePublished"><meta content="2020-11-04T09:10:27-05:00" itemprop="dateModified"><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="680" itemprop="height">
+</meta></meta></meta></div>
+</meta></meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="2020-election">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106703 post type-post status-publish format-standard has-post-thumbnail hentry category-2020-election tag-51316 tag-donald-trump tag-lebron-james tag-nba tag-pennsylvania" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51317" href="https://freedomoutpost.com/2020-election/" rel="category" title="View all posts in 2020 Election">2020 Election</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+HILARIOUS: Donald Trump Rally Goers Chant ‘LeBron James Sucks’ in Pennsylvania </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-03T08:15:30-05:00" itemprop="datePublished">November 3, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/hilarious-donald-trump-rally-goers-chant-lebron-sucks-in-pennsylvania/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/hilarious-donald-trump-rally-goers-chant-lebron-sucks-in-pennsylvania/" itemprop="url"></a>
+<meta content="2020-11-03T08:15:30-05:00" itemprop="datePublished"><meta content="2020-11-03T08:50:54-05:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348.jpg" itemprop="url">
+<meta content="1620" itemprop="width">
+<meta content="1080" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="coronavirus">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106699 post type-post status-publish format-standard has-post-thumbnail hentry category-coronavirus tag-anthony-fauci tag-coronavirus" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51370" href="https://freedomoutpost.com/coronavirus/" rel="category" title="View all posts in Coronavirus">Coronavirus</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Anthony Fauci’s Own Family Close to Disowning Him Over Coronavirus Fails </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-03T08:00:13-05:00" itemprop="datePublished">November 3, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/anthony-faucis-own-family-close-to-disowning-him-over-coronavirus-fails/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/anthony-faucis-own-family-close-to-disowning-him-over-coronavirus-fails/" itemprop="url"></a>
+<meta content="2020-11-03T08:00:13-05:00" itemprop="datePublished"><meta content="2020-11-02T19:24:18-05:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="672" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106694 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-texas tag-trump-supporters tag-whoopi-goldberg" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Whoopi Compares Texas Trump Supporters To The KKK </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-02T17:39:04-05:00" itemprop="datePublished">November 2, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/whoopi-compares-texas-trump-supporters-to-the-kkk/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/whoopi-compares-texas-trump-supporters-to-the-kkk/" itemprop="url"></a>
+<meta content="2020-11-02T17:39:04-05:00" itemprop="datePublished"><meta content="2020-11-02T17:43:15-05:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1.jpg" itemprop="url">
+<meta content="1651" itemprop="width">
+<meta content="906" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106692 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-kamala-harris" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Kamala Harris Posts Bizarre Video Endorsing Communism </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-02T14:36:55-05:00" itemprop="datePublished">November 2, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/kamala-harris-posts-bizarre-video-endorsing-communism/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/kamala-harris-posts-bizarre-video-endorsing-communism/" itemprop="url"></a>
+<meta content="2020-11-02T14:36:55-05:00" itemprop="datePublished"><meta content="2020-11-02T14:36:55-05:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="871" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106685 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-joe-biden" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-e1604345059902-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Biden: ‘Barack And I Think It’s a Right For People To Have Badakathcare’ </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-02T14:24:40-05:00" itemprop="datePublished">November 2, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/106685-2/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/106685-2/" itemprop="url"></a>
+<meta content="2020-11-02T14:24:40-05:00" itemprop="datePublished"><meta content="2020-11-02T14:25:24-05:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-e1604345059902.jpg" itemprop="url">
+<meta content="1316" itemprop="width">
+<meta content="822" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="immigration">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106683 post type-post status-publish format-standard has-post-thumbnail hentry category-immigration tag-donald-trump tag-immigration-2 tag-obama tag-refugees" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2017/12/immigration-myths-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-52" href="https://freedomoutpost.com/immigration/" rel="category" title="View all posts in Immigration">Immigration</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Trump is Cutting Obama’s Refugee Resettlement Program to the Bare Bones </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-02T08:15:29-05:00" itemprop="datePublished">November 2, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/trump-is-cutting-obamas-refugee-resettlement-program-to-the-bare-bones/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/trump-is-cutting-obamas-refugee-resettlement-program-to-the-bare-bones/" itemprop="url"></a>
+<meta content="2020-11-02T08:15:29-05:00" itemprop="datePublished"><meta content="2020-11-01T20:43:02-05:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2017/12/immigration-myths.jpg" itemprop="url">
+<meta content="1400" itemprop="width">
+<meta content="656" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="coronavirus">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106680 post type-post status-publish format-standard has-post-thumbnail hentry category-coronavirus tag-coronavirus tag-gretchen-whitmer tag-michigan" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/11/gretchen_whitmer-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51370" href="https://freedomoutpost.com/coronavirus/" rel="category" title="View all posts in Coronavirus">Coronavirus</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Mich. Gov. Whitmer Demanding Bars and Restaurants Collect Names and Phone Numbers of Customers </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-02T08:00:11-05:00" itemprop="datePublished">November 2, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/mich-gov-whitmer-demanding-bars-and-restaurants-collect-names-and-phone-numbers-of-customers/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/mich-gov-whitmer-demanding-bars-and-restaurants-collect-names-and-phone-numbers-of-customers/" itemprop="url"></a>
+<meta content="2020-11-02T08:00:11-05:00" itemprop="datePublished"><meta content="2020-11-01T20:39:38-05:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/gretchen_whitmer.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="659" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="videos">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106674 post type-post status-publish format-standard has-post-thumbnail hentry category-videos" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/11/Capture4-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-26" href="https://freedomoutpost.com/videos/" rel="category" title="View all posts in Videos">Videos</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Here’s The Video You Must Watch </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-01T14:58:45-05:00" itemprop="datePublished">November 1, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/heres-the-video-you-must-watch/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/heres-the-video-you-must-watch/" itemprop="url"></a>
+<meta content="2020-11-01T14:58:45-05:00" itemprop="datePublished"><meta content="2020-11-01T15:01:47-05:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/Capture4-scaled-e1604260408163.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="648" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="politics">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106666 post type-post status-publish format-standard has-post-thumbnail hentry category-politics tag-joe-biden tag-texas tag-trump-supporters" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/11/welcome-to-texas-trump-train-sur-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-14" href="https://freedomoutpost.com/politics/" rel="category" title="View all posts in Politics">Politics</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Welcome To Texas: ‘Trump Train’ Surrounds Biden-Harris Campaign Bus (Video) </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-11-01T14:09:23-05:00" itemprop="datePublished">November 1, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/welcome-to-texas-trump-train-surrounds-biden-harris-campaign-bus-video/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/welcome-to-texas-trump-train-surrounds-biden-harris-campaign-bus-video/" itemprop="url"></a>
+<meta content="2020-11-01T14:09:23-05:00" itemprop="datePublished"><meta content="2020-11-01T14:13:38-05:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/welcome-to-texas-trump-train-sur.jpg" itemprop="url">
+<meta content="1280" itemprop="width">
+<meta content="720" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="coronavirus">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106664 post type-post status-publish format-standard has-post-thumbnail hentry category-coronavirus tag-coronavirus" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/03/shutterstock_1667201575-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51370" href="https://freedomoutpost.com/coronavirus/" rel="category" title="View all posts in Coronavirus">Coronavirus</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Despite the Lies, Midwestern Hospitals are NOT Overwhelmed with Second COVID Wave </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-31T08:15:23-04:00" itemprop="datePublished">October 31, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/despite-the-lies-midwestern-hospitals-are-not-overwhelmed-with-second-covid-wave/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/despite-the-lies-midwestern-hospitals-are-not-overwhelmed-with-second-covid-wave/" itemprop="url"></a>
+<meta content="2020-10-31T08:15:23-04:00" itemprop="datePublished"><meta content="2020-10-30T21:25:20-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/03/shutterstock_1667201575.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="627" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="vote-fraud">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106662 post type-post status-publish format-standard has-post-thumbnail hentry category-vote-fraud tag-51316 tag-broward tag-crime tag-florida tag-vote-fraud" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2019/08/Untitled-design-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51352" href="https://freedomoutpost.com/vote-fraud/" rel="category" title="View all posts in Vote Fraud">Vote Fraud</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Florida Democrat Caught Trying to Register Dozens of Dead People to Vote </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-31T08:00:29-04:00" itemprop="datePublished">October 31, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/florida-democrat-caught-trying-to-register-dozens-of-dead-people-to-vote/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/florida-democrat-caught-trying-to-register-dozens-of-dead-people-to-vote/" itemprop="url"></a>
+<meta content="2020-10-31T08:00:29-04:00" itemprop="datePublished"><meta content="2020-10-30T21:23:15-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2019/08/Untitled-design.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="630" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106659 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-joe-biden tag-obamacare" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/biden-responds-to-hunter-story-l-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Joe Biden On His New Obamacare: You ‘Can Keep Your Private Insurance If You Like It’ </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-30T18:37:54-04:00" itemprop="datePublished">October 30, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/joe-biden-on-his-new-obamacare-you-can-keep-your-private-insurance-if-you-like-it/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/joe-biden-on-his-new-obamacare-you-can-keep-your-private-insurance-if-you-like-it/" itemprop="url"></a>
+<meta content="2020-10-30T18:37:54-04:00" itemprop="datePublished"><meta content="2020-10-30T18:37:54-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/biden-responds-to-hunter-story-l.jpg" itemprop="url">
+<meta content="1280" itemprop="width">
+<meta content="720" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106654 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-auto-workers tag-donald-trump tag-joe-biden" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/shutterstock_63679729-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Dem Rep. Concedes Michigan Auto Workers ‘Were Very Clear with Me… They Were Voting for Trump’ </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-30T09:26:14-04:00" itemprop="datePublished">October 30, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/dem-rep-concedes-michigan-auto-workers-were-very-clear-with-me-they-were-voting-for-trump/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/dem-rep-concedes-michigan-auto-workers-were-very-clear-with-me-they-were-voting-for-trump/" itemprop="url"></a>
+<meta content="2020-10-30T09:26:14-04:00" itemprop="datePublished"><meta content="2020-10-30T09:26:14-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/shutterstock_63679729.jpg" itemprop="url">
+<meta content="1000" itemprop="width">
+<meta content="669" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="politics">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106649 post type-post status-publish format-standard has-post-thumbnail hentry category-politics tag-mail-in-ballots tag-pennsylvania" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/shutterstock_1785284471-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-14" href="https://freedomoutpost.com/politics/" rel="category" title="View all posts in Politics">Politics</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Pennsylvania: Thousands Of Voters In One County Claim To Not Have Received Their Ballots </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-30T09:02:08-04:00" itemprop="datePublished">October 30, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/pennsylvania-thousands-of-voters-in-one-county-claim-to-not-have-received-their-ballots/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/pennsylvania-thousands-of-voters-in-one-county-claim-to-not-have-received-their-ballots/" itemprop="url"></a>
+<meta content="2020-10-30T09:02:08-04:00" itemprop="datePublished"><meta content="2020-10-30T09:04:15-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/shutterstock_1785284471.jpg" itemprop="url">
+<meta content="1000" itemprop="width">
+<meta content="667" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="coronavirus">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106645 post type-post status-publish format-standard has-post-thumbnail hentry category-coronavirus tag-coronavirus tag-media-bias" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/04/shutterstock_1675288459-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51370" href="https://freedomoutpost.com/coronavirus/" rel="category" title="View all posts in Coronavirus">Coronavirus</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Here Are 5 COVID-19 Charts Social Media and the Democrats Want Banned </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-30T08:15:08-04:00" itemprop="datePublished">October 30, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/here-are-5-covid-19-charts-social-media-and-the-democrats-want-banned/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/here-are-5-covid-19-charts-social-media-and-the-democrats-want-banned/" itemprop="url"></a>
+<meta content="2020-10-30T08:15:08-04:00" itemprop="datePublished"><meta content="2020-10-29T21:23:01-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/04/shutterstock_1675288459.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="627" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="liberalism">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106641 post type-post status-publish format-standard has-post-thumbnail hentry category-liberalism tag-girl-scouts tag-liberalism" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/girl_scouts-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-53" href="https://freedomoutpost.com/liberalism/" rel="category" title="View all posts in Liberalism">Liberalism</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Hateful Leftists Force Girl Scouts to Delete Tweet Congratulating Amy Coney Barrett for Joining the Supreme Court </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-30T08:00:04-04:00" itemprop="datePublished">October 30, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/hateful-leftists-force-girl-scouts-to-delete-tweet-congratulating-amy-coney-barrett-for-joining-the-supreme-court/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/hateful-leftists-force-girl-scouts-to-delete-tweet-congratulating-amy-coney-barrett-for-joining-the-supreme-court/" itemprop="url"></a>
+<meta content="2020-10-30T08:00:04-04:00" itemprop="datePublished"><meta content="2020-10-29T21:20:00-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/girl_scouts.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="692" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="politics">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106638 post type-post status-publish format-standard has-post-thumbnail hentry category-politics tag-chelsea-handler tag-conservatives tag-fox-news" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/shutterstock_739628284-1-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-14" href="https://freedomoutpost.com/politics/" rel="category" title="View all posts in Politics">Politics</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Moonbat Comedian Brags About ‘Assaulting’ Conservatives in Airports, Calling Them Racists </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-29T08:54:26-04:00" itemprop="datePublished">October 29, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/moonbat-comedian-brags-about-assaulting-conservatives-in-airports-calling-them-racists/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/moonbat-comedian-brags-about-assaulting-conservatives-in-airports-calling-them-racists/" itemprop="url"></a>
+<meta content="2020-10-29T08:54:26-04:00" itemprop="datePublished"><meta content="2020-10-29T08:54:26-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/shutterstock_739628284-1.jpg" itemprop="url">
+<meta content="1000" itemprop="width">
+<meta content="666" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="media">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106636 post type-post status-publish format-standard has-post-thumbnail hentry category-media tag-donald-trump" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/03/shutterstock_512913943-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-54" href="https://freedomoutpost.com/media/" rel="category" title="View all posts in Media">Media</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Trump: ‘We Don’t Have Freedom of The Press, We Have Suppression of The Press’ </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-29T08:33:43-04:00" itemprop="datePublished">October 29, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/trump-we-dont-have-freedom-of-the-press-we-have-suppression-of-the-press/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/trump-we-dont-have-freedom-of-the-press-we-have-suppression-of-the-press/" itemprop="url"></a>
+<meta content="2020-10-29T08:33:43-04:00" itemprop="datePublished"><meta content="2020-10-29T08:33:43-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/03/shutterstock_512913943.jpg" itemprop="url">
+<meta content="3708" itemprop="width">
+<meta content="2472" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="2020-election">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106626 post type-post status-publish format-standard has-post-thumbnail hentry category-2020-election tag-51316 tag-dodgers tag-donald-trump tag-frank-luntz" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2019/12/shutterstock_537133411-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51317" href="https://freedomoutpost.com/2020-election/" rel="category" title="View all posts in 2020 Election">2020 Election</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Pollster Notes Every Time Dodgers Win the World Series, Republicans Win the White House </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-29T08:00:59-04:00" itemprop="datePublished">October 29, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/pollster-notes-every-time-dodgers-win-the-world-series-republicans-win-the-white-house/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/pollster-notes-every-time-dodgers-win-the-world-series-republicans-win-the-white-house/" itemprop="url"></a>
+<meta content="2020-10-29T08:00:59-04:00" itemprop="datePublished"><meta content="2020-10-28T20:52:07-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2019/12/shutterstock_537133411.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="770" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="facebook">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106623 post type-post status-publish format-standard has-post-thumbnail hentry category-facebook tag-facebook tag-marq-andrew-speck tag-qanon tag-sweet-crystal" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/marq_andrew_speck-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51328" href="https://freedomoutpost.com/facebook/" rel="category" title="View all posts in Facebook">Facebook</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Facebook Bans Christian Rock Band’s Accounts Because Singer’s Name is Spelled ‘Q AN’ </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-29T08:00:48-04:00" itemprop="datePublished">October 29, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/facebook-bans-christian-rock-bands-accounts-because-singers-name-is-spelled-q-an/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/facebook-bans-christian-rock-bands-accounts-because-singers-name-is-spelled-q-an/" itemprop="url"></a>
+<meta content="2020-10-29T08:00:48-04:00" itemprop="datePublished"><meta content="2020-10-28T20:49:45-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/marq_andrew_speck.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="643" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="news">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106628 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-black-lives-matter tag-jews tag-philadelphia" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/Capture-10-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-59" href="https://freedomoutpost.com/news/" rel="category" title="View all posts in News">News</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+BLM Rioters Threaten Jews “You Don’t Belong Here” (Video) </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-29T07:36:23-04:00" itemprop="datePublished">October 29, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/blm-rioters-threaten-jews-you-dont-belong-here-video/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/blm-rioters-threaten-jews-you-dont-belong-here-video/" itemprop="url"></a>
+<meta content="2020-10-29T07:36:23-04:00" itemprop="datePublished"><meta content="2020-10-29T07:36:23-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/Capture-10.jpg" itemprop="url">
+<meta content="753" itemprop="width">
+<meta content="515" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="2nd-amendment">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106617 post type-post status-publish format-standard has-post-thumbnail hentry category-2nd-amendment tag-alabama tag-constitution-2 tag-guns tag-kimber-arms tag-new-york" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2019/01/sheriffs-gun-696x366-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-21" href="https://freedomoutpost.com/2nd-amendment/" rel="category" title="View all posts in 2nd Amendment">2nd Amendment</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Gun-Maker Flees New York Over Anti-Gun Laws and Taxes, Moves to Alabama </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-28T08:15:12-04:00" itemprop="datePublished">October 28, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/gun-maker-flees-new-york-over-anti-gun-laws-and-taxes-moves-to-alabama/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/gun-maker-flees-new-york-over-anti-gun-laws-and-taxes-moves-to-alabama/" itemprop="url"></a>
+<meta content="2020-10-28T08:15:12-04:00" itemprop="datePublished"><meta content="2020-10-27T20:23:17-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2019/01/sheriffs-gun-696x366.jpg" itemprop="url">
+<meta content="696" itemprop="width">
+<meta content="366" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="child-abuse">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106614 post type-post status-publish format-standard has-post-thumbnail hentry category-child-abuse tag-child-abuse tag-children tag-emily-ratajkowski" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/Emily_Ratajkowski-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51386" href="https://freedomoutpost.com/child-abuse/" rel="category" title="View all posts in Child Abuse">Child Abuse</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Nutty Woke Pregnant Supermodel Emily Ratajkowski Claims Child Will ‘Pick Own Gender at 18-Years-Old’ </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-28T08:00:47-04:00" itemprop="datePublished">October 28, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/nutty-woke-pregnant-supermodel-emily-ratajkowski-claims-child-will-pick-own-gender-at-18-years-old/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/nutty-woke-pregnant-supermodel-emily-ratajkowski-claims-child-will-pick-own-gender-at-18-years-old/" itemprop="url"></a>
+<meta content="2020-10-28T08:00:47-04:00" itemprop="datePublished"><meta content="2020-10-27T20:20:51-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/Emily_Ratajkowski.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="643" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="news">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106619 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-joe-biden tag-tony-bobulinski" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/tony-bobulinski-joe-biden-denial-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-59" href="https://freedomoutpost.com/news/" rel="category" title="View all posts in News">News</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Tony Bobulinski: Joe Biden Denials Of Involvement In Son’s Business “A Blatant Lie” </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-28T06:36:37-04:00" itemprop="datePublished">October 28, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/tony-bobulinski-joe-biden-denials-of-involvement-in-sons-business-a-blatant-lie/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/tony-bobulinski-joe-biden-denials-of-involvement-in-sons-business-a-blatant-lie/" itemprop="url"></a>
+<meta content="2020-10-28T06:36:37-04:00" itemprop="datePublished"><meta content="2020-10-28T06:37:07-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/tony-bobulinski-joe-biden-denial.jpg" itemprop="url">
+<meta content="1280" itemprop="width">
+<meta content="720" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="politics">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106594 post type-post status-publish format-standard has-post-thumbnail hentry category-politics" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/new-york-radical-leftists-attack-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-14" href="https://freedomoutpost.com/politics/" rel="category" title="View all posts in Politics">Politics</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+New York: Radical Leftists Attack Trump Supporters </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-27T11:30:23-04:00" itemprop="datePublished">October 27, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/new-york-radical-leftists-attack-trump-supporters/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/new-york-radical-leftists-attack-trump-supporters/" itemprop="url"></a>
+<meta content="2020-10-27T11:30:23-04:00" itemprop="datePublished"><meta content="2020-10-27T11:31:01-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/new-york-radical-leftists-attack.jpg" itemprop="url">
+<meta content="1280" itemprop="width">
+<meta content="720" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="science">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106607 post type-post status-publish format-standard has-post-thumbnail hentry category-science tag-moon tag-science tag-space" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/NSA_Space_Moon-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-1330" href="https://freedomoutpost.com/science/" rel="category" title="View all posts in Science">Science</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+NASA Makes Surprise Announcement of Much More Water On Moon </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-27T08:30:40-04:00" itemprop="datePublished">October 27, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/nasa-makes-surprise-announcement-of-much-more-water-on-moon/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/nasa-makes-surprise-announcement-of-much-more-water-on-moon/" itemprop="url"></a>
+<meta content="2020-10-27T08:30:40-04:00" itemprop="datePublished"><meta content="2020-10-26T20:52:13-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/NSA_Space_Moon.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="648" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="hollywood">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106603 post type-post status-publish format-standard has-post-thumbnail hentry category-hollywood tag-hollywood tag-matthew-mcconaughey" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/Matthew_McConaughey--700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51382" href="https://freedomoutpost.com/hollywood/" rel="category" title="View all posts in Hollywood">Hollywood</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Matthew McConaughey Bashes Leftist Cancel Culture, Slams Anti-Christian Hollywood </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-27T08:00:12-04:00" itemprop="datePublished">October 27, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/matthew-mcconaughey-bashes-leftist-cancel-culture-slams-anti-christian-hollywood/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/matthew-mcconaughey-bashes-leftist-cancel-culture-slams-anti-christian-hollywood/" itemprop="url"></a>
+<meta content="2020-10-27T08:00:12-04:00" itemprop="datePublished"><meta content="2020-10-26T20:48:27-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/Matthew_McConaughey-.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="659" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106597 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-kamala-harris tag-ohio" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/Capturekh-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Kamala Harris BUSTED At Polling Location Trying To Campaign </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-26T16:08:37-04:00" itemprop="datePublished">October 26, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/kamala-harris-busted-at-polling-location-trying-to-campaign/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/kamala-harris-busted-at-polling-location-trying-to-campaign/" itemprop="url"></a>
+<meta content="2020-10-26T16:08:37-04:00" itemprop="datePublished"><meta content="2020-10-26T16:08:37-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/Capturekh.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="725" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="coronavirus">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106591 post type-post status-publish format-standard has-post-thumbnail hentry category-coronavirus tag-coronavirus tag-mask tag-science" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/05/shutterstock_1633291828-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51370" href="https://freedomoutpost.com/coronavirus/" rel="category" title="View all posts in Coronavirus">Coronavirus</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+‘Science’ Blocking Large Study from Denmark Showing Masks are Ineffective </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-26T08:45:47-04:00" itemprop="datePublished">October 26, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/science-blocking-large-study-from-denmark-showing-masks-are-ineffective/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/science-blocking-large-study-from-denmark-showing-masks-are-ineffective/" itemprop="url"></a>
+<meta content="2020-10-26T08:45:47-04:00" itemprop="datePublished"><meta content="2020-10-25T21:45:54-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/05/shutterstock_1633291828.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="627" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="crime">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106588 post type-post status-publish format-standard has-post-thumbnail hentry category-crime tag-crime tag-liberals" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/crime_scene_tape-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51087" href="https://freedomoutpost.com/crime/" rel="category" title="View all posts in Crime">Crime</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Three Liberals Marching for ‘Voter Turnout’ Beat Up and Rob a Heckler </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-26T08:30:50-04:00" itemprop="datePublished">October 26, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/three-liberals-marching-for-voter-turnout-beat-up-and-rob-a-heckler/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/three-liberals-marching-for-voter-turnout-beat-up-and-rob-a-heckler/" itemprop="url"></a>
+<meta content="2020-10-26T08:30:50-04:00" itemprop="datePublished"><meta content="2020-10-25T21:42:24-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/crime_scene_tape.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="682" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="coronavirus">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106586 post type-post status-publish format-standard has-post-thumbnail hentry category-coronavirus tag-coronavirus tag-media-bias" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2018/02/media-weapons-of-mass-deception-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-51370" href="https://freedomoutpost.com/coronavirus/" rel="category" title="View all posts in Coronavirus">Coronavirus</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Media Accused L.A. Church of Being COVID Superspreader… Then Only 3 Cases Turned Up </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-26T08:15:45-04:00" itemprop="datePublished">October 26, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/media-accused-l-a-church-of-being-covid-superspreader-then-only-3-cases-turned-up/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/media-accused-l-a-church-of-being-covid-superspreader-then-only-3-cases-turned-up/" itemprop="url"></a>
+<meta content="2020-10-26T08:15:45-04:00" itemprop="datePublished"><meta content="2020-10-25T21:36:38-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/02/media-weapons-of-mass-deception.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="630" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="racism">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106580 post type-post status-publish format-standard has-post-thumbnail hentry category-racism tag-immigration-2 tag-mark-ruffalo tag-racism" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/mark_ruffalo-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-64" href="https://freedomoutpost.com/racism/" rel="category" title="View all posts in Racism">Racism</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Leftist Loon Actor Mark Ruffalo Creamed by Blacks for Saying Everyone But Indians are ‘Immigrants’ </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-26T08:00:45-04:00" itemprop="datePublished">October 26, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/leftist-loon-actor-mark-ruffalo-creamed-by-blacks-for-saying-everyone-but-indians-are-immigrants/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/leftist-loon-actor-mark-ruffalo-creamed-by-blacks-for-saying-everyone-but-indians-are-immigrants/" itemprop="url"></a>
+<meta content="2020-10-26T08:00:45-04:00" itemprop="datePublished"><meta content="2020-10-25T21:32:29-04:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/mark_ruffalo.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="654" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106575 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-joe-biden tag-voter-fraud" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/Capture-9-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Biden Brags We Have “The Most Extensive And Inclusive Voter Fraud Organization In The History Of American Politics” </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-25T09:39:59-04:00" itemprop="datePublished">October 25, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/biden-brags-we-have-the-most-extensive-and-inclusive-voter-fraud-organization-in-the-history-of-american-politics/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/biden-brags-we-have-the-most-extensive-and-inclusive-voter-fraud-organization-in-the-history-of-american-politics/" itemprop="url"></a>
+<meta content="2020-10-25T09:39:59-04:00" itemprop="datePublished"><meta content="2020-10-25T09:39:59-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/Capture-9.jpg" itemprop="url">
+<meta content="1539" itemprop="width">
+<meta content="850" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106570 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-joe-biden tag-masks" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/Capture-8-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Biden Says He’d Mandate Masks On Interstate Highways </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-25T09:29:45-04:00" itemprop="datePublished">October 25, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/biden-says-hed-mandate-masks-on-interstate-highways/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/biden-says-hed-mandate-masks-on-interstate-highways/" itemprop="url"></a>
+<meta content="2020-10-25T09:29:45-04:00" itemprop="datePublished"><meta content="2020-10-25T09:30:07-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/Capture-8.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="765" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--full vw-post-box--full-2 post-106564 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-joe-biden tag-trump-supporters" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__background" style="background-image: url( https://freedomoutpost.com/wp-content/uploads/2020/10/Capture-sg-700x394.jpg );"></div>
+<div class="vw-post-box__inner">
+<div class="vw-post-box__content">
+<div class="vw-categories"><a class="vw-cat-id-50399" href="https://freedomoutpost.com/democrats/" rel="category" title="View all posts in Democrats">Democrats</a></div>
+<h3 class="vw-post-box__title" itemprop="headline">
+Trump Supporters Crash Biden Rally, He Gets Angry And Calls Them Chumps </h3>
+<div class="vw-post-box__meta">
+<span class="vw-post-date updated"><time datetime="2020-10-25T08:49:40-04:00" itemprop="datePublished">October 25, 2020</time></span> </div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/trump-supporters-crash-biden-rally-he-gets-angry-and-calls-them-chumps/"></a>
+</div>
+</div>
+<a class="vw-post-box__link" href="https://freedomoutpost.com/trump-supporters-crash-biden-rally-he-gets-angry-and-calls-them-chumps/" itemprop="url"></a>
+<meta content="2020-10-25T08:49:40-04:00" itemprop="datePublished"><meta content="2020-10-25T08:49:40-04:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/10/Capture-sg-e1603630043385.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="666" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+</div>
+</div>
+<nav class="vw-pagination clearfix vw-pagination--numeric">
+<div class="vw-pagination__links">
+<span aria-current="page" class="page-numbers current"><span>1</span></span>
+<a class="page-numbers" href="https://freedomoutpost.com/page/2/"><span>2</span></a>
+<a class="page-numbers" href="https://freedomoutpost.com/page/3/"><span>3</span></a>
+<a class="page-numbers" href="https://freedomoutpost.com/page/4/"><span>4</span></a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="https://freedomoutpost.com/page/864/"><span>864</span></a>
+<a class="next page-numbers" href="https://freedomoutpost.com/page/2/"><span><i class="vw-icon icon-entypo-right-open"></i></span></a> </div>
+</nav>
+</main>
+<aside class="vw-content-sidebar" itemscope="" itemtype="https://schema.org/WPSideBar">
+<meta content="Sidebar" itemprop="name">
+<div class="vw-sticky-sidebar theiaStickySidebar"><div class="widget widget_vw_widget_posts" id="vw_widget_posts-2"><span class="vw-super-title">DON'T MISS</span><h3 class="widget-title"><span>Latest Articles</span></h3>
+<div class="vw-loop vw-loop--block-h vw-loop--block-h-1 vw-loop--border-bottom">
+<div class="vw-flex-grid vw-flex-grid--sm-1 vw-flex-grid--large-gap">
+<div class="vw-flex-grid__item" data-slugs="2020-election">
+<div class="vw-post-box vw-post-box--block-h vw-inview post-106708 post type-post status-publish format-standard has-post-thumbnail hentry category-2020-election tag-51316 tag-donald-trump tag-joe-biden" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__inner">
+<div class="vw-post-box__thumbnail-wrapper">
+<div class="vw-post-box__thumbnail">
+<img alt="" class="attachment-presso_thumbnail_medium size-presso_thumbnail_medium wp-post-image" height="186" itemprop="image" loading="lazy" sizes="(max-width: 335px) 100vw, 335px" src="https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith-335x186.jpg" srcset="https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith-335x186.jpg 335w, https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith-360x200.jpg 360w, https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith-160x90.jpg 160w, https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith-150x83.jpg 150w, https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith-225x125.jpg 225w" width="335"> </img></div>
+<a class="vw-post-box__overlay vw-post-box__overlay--link" href="https://freedomoutpost.com/joe-biden-speaks-early-to-set-stage-for-democrat-lawyers-to-mount-lawsuits-to-steal-election/">
+</a>
+</div>
+<div class="vw-post-box__content">
+<h5 class="vw-post-box__title" itemprop="headline">
+<a class="vw-post-box__link" href="https://freedomoutpost.com/joe-biden-speaks-early-to-set-stage-for-democrat-lawyers-to-mount-lawsuits-to-steal-election/" itemprop="url" rel="bookmark">
+Joe Biden Speaks Early to Set Stage for Democrat Lawyers to Mount Lawsuits to Steal Election </a>
+</h5>
+<div class="vw-post-box__meta">
+<span class="vw-post-author" itemprop="author">
+<a class="vw-avatar" href="https://freedomoutpost.com/author/warner/" title="Posts by Warner Todd Huston"><img alt="Warner Todd Huston" class="avatar avatar-16 photo" height="16" loading="lazy" src="https://secure.gravatar.com/avatar/b2872e372fe2600905d30cef45a01d9b?s=16&amp;d=mm&amp;r=g" width="16"/></a>
+<a class="vw-post-author__name" href="https://freedomoutpost.com/author/warner/" itemprop="name" rel="author" title="Posts by Warner Todd Huston">Warner Todd Huston</a>
+</span>
+<a class="vw-post-date updated" href="https://freedomoutpost.com/joe-biden-speaks-early-to-set-stage-for-democrat-lawyers-to-mount-lawsuits-to-steal-election/" rel="bookmark" title="Permalink to Joe Biden Speaks Early to Set Stage for Democrat Lawyers to Mount Lawsuits to Steal Election"><time datetime="2020-11-04T09:10:27-05:00" itemprop="datePublished">November 4, 2020</time></a> </div>
+</div>
+</div>
+<meta content="2020-11-04T09:10:27-05:00" itemprop="datePublished"/><meta content="2020-11-04T09:10:27-05:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/biden_keep_the_faith.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="680" itemprop="height">
+</meta></meta></meta></div>
+</div> </div>
+<div class="vw-flex-grid__item" data-slugs="2020-election">
+<div class="vw-post-box vw-post-box--block-h vw-inview post-106703 post type-post status-publish format-standard has-post-thumbnail hentry category-2020-election tag-51316 tag-donald-trump tag-lebron-james tag-nba tag-pennsylvania" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__inner">
+<div class="vw-post-box__thumbnail-wrapper">
+<div class="vw-post-box__thumbnail">
+<img alt="Evan El-Amin / Shutterstock.com" class="attachment-presso_thumbnail_medium size-presso_thumbnail_medium wp-post-image" height="186" itemprop="image" loading="lazy" sizes="(max-width: 335px) 100vw, 335px" src="https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348-335x186.jpg" srcset="https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348-335x186.jpg 335w, https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348-360x200.jpg 360w, https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348-160x90.jpg 160w, https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348-150x83.jpg 150w, https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348-225x125.jpg 225w" width="335"> </img></div>
+<a class="vw-post-box__overlay vw-post-box__overlay--link" href="https://freedomoutpost.com/hilarious-donald-trump-rally-goers-chant-lebron-sucks-in-pennsylvania/">
+</a>
+</div>
+<div class="vw-post-box__content">
+<h5 class="vw-post-box__title" itemprop="headline">
+<a class="vw-post-box__link" href="https://freedomoutpost.com/hilarious-donald-trump-rally-goers-chant-lebron-sucks-in-pennsylvania/" itemprop="url" rel="bookmark">
+HILARIOUS: Donald Trump Rally Goers Chant ‘LeBron James Sucks’ in Pennsylvania </a>
+</h5>
+<div class="vw-post-box__meta">
+<span class="vw-post-author" itemprop="author">
+<a class="vw-avatar" href="https://freedomoutpost.com/author/warner/" title="Posts by Warner Todd Huston"><img alt="Warner Todd Huston" class="avatar avatar-16 photo" height="16" loading="lazy" src="https://secure.gravatar.com/avatar/b2872e372fe2600905d30cef45a01d9b?s=16&amp;d=mm&amp;r=g" width="16"/></a>
+<a class="vw-post-author__name" href="https://freedomoutpost.com/author/warner/" itemprop="name" rel="author" title="Posts by Warner Todd Huston">Warner Todd Huston</a>
+</span>
+<a class="vw-post-date updated" href="https://freedomoutpost.com/hilarious-donald-trump-rally-goers-chant-lebron-sucks-in-pennsylvania/" rel="bookmark" title="Permalink to HILARIOUS: Donald Trump Rally Goers Chant ‘LeBron James Sucks’ in Pennsylvania"><time datetime="2020-11-03T08:15:30-05:00" itemprop="datePublished">November 3, 2020</time></a> </div>
+</div>
+</div>
+<meta content="2020-11-03T08:15:30-05:00" itemprop="datePublished"><meta content="2020-11-03T08:50:54-05:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2019/11/shutterstock_546595348.jpg" itemprop="url">
+<meta content="1620" itemprop="width">
+<meta content="1080" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="coronavirus">
+<div class="vw-post-box vw-post-box--block-h vw-inview post-106699 post type-post status-publish format-standard has-post-thumbnail hentry category-coronavirus tag-anthony-fauci tag-coronavirus" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__inner">
+<div class="vw-post-box__thumbnail-wrapper">
+<div class="vw-post-box__thumbnail">
+<img alt="" class="attachment-presso_thumbnail_medium size-presso_thumbnail_medium wp-post-image" height="186" itemprop="image" loading="lazy" sizes="(max-width: 335px) 100vw, 335px" src="https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign-335x186.jpg" srcset="https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign-335x186.jpg 335w, https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign-360x200.jpg 360w, https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign-160x90.jpg 160w, https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign-150x83.jpg 150w, https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign-225x125.jpg 225w" width="335"/> </div>
+<a class="vw-post-box__overlay vw-post-box__overlay--link" href="https://freedomoutpost.com/anthony-faucis-own-family-close-to-disowning-him-over-coronavirus-fails/">
+</a>
+</div>
+<div class="vw-post-box__content">
+<h5 class="vw-post-box__title" itemprop="headline">
+<a class="vw-post-box__link" href="https://freedomoutpost.com/anthony-faucis-own-family-close-to-disowning-him-over-coronavirus-fails/" itemprop="url" rel="bookmark">
+Anthony Fauci’s Own Family Close to Disowning Him Over Coronavirus Fails </a>
+</h5>
+<div class="vw-post-box__meta">
+<span class="vw-post-author" itemprop="author">
+<a class="vw-avatar" href="https://freedomoutpost.com/author/warner/" title="Posts by Warner Todd Huston"><img alt="Warner Todd Huston" class="avatar avatar-16 photo" height="16" loading="lazy" src="https://secure.gravatar.com/avatar/b2872e372fe2600905d30cef45a01d9b?s=16&amp;d=mm&amp;r=g" width="16"/></a>
+<a class="vw-post-author__name" href="https://freedomoutpost.com/author/warner/" itemprop="name" rel="author" title="Posts by Warner Todd Huston">Warner Todd Huston</a>
+</span>
+<a class="vw-post-date updated" href="https://freedomoutpost.com/anthony-faucis-own-family-close-to-disowning-him-over-coronavirus-fails/" rel="bookmark" title="Permalink to Anthony Fauci’s Own Family Close to Disowning Him Over Coronavirus Fails"><time datetime="2020-11-03T08:00:13-05:00" itemprop="datePublished">November 3, 2020</time></a> </div>
+</div>
+</div>
+<meta content="2020-11-03T08:00:13-05:00" itemprop="datePublished"><meta content="2020-11-02T19:24:18-05:00" itemprop="dateModified"/><meta content="Warner Todd Huston" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/anthony_fauci_sign.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="672" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--block-h vw-inview post-106694 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-texas tag-trump-supporters tag-whoopi-goldberg" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__inner">
+<div class="vw-post-box__thumbnail-wrapper">
+<div class="vw-post-box__thumbnail">
+<img alt="Whoopi Compares Texas Trump Supporters To The KKK" class="attachment-presso_thumbnail_medium size-presso_thumbnail_medium wp-post-image" height="186" itemprop="image" loading="lazy" sizes="(max-width: 335px) 100vw, 335px" src="https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1-335x186.jpg" srcset="https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1-335x186.jpg 335w, https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1-360x200.jpg 360w, https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1-160x90.jpg 160w, https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1-150x83.jpg 150w, https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1-225x125.jpg 225w" width="335"/> </div>
+<a class="vw-post-box__overlay vw-post-box__overlay--link" href="https://freedomoutpost.com/whoopi-compares-texas-trump-supporters-to-the-kkk/">
+</a>
+</div>
+<div class="vw-post-box__content">
+<h5 class="vw-post-box__title" itemprop="headline">
+<a class="vw-post-box__link" href="https://freedomoutpost.com/whoopi-compares-texas-trump-supporters-to-the-kkk/" itemprop="url" rel="bookmark">
+Whoopi Compares Texas Trump Supporters To The KKK </a>
+</h5>
+<div class="vw-post-box__meta">
+<span class="vw-post-author" itemprop="author">
+<a class="vw-avatar" href="https://freedomoutpost.com/author/alicia/" title="Posts by Alicia Luke"><img alt="Alicia Luke" class="avatar avatar-16 photo" height="16" loading="lazy" src="https://secure.gravatar.com/avatar/cacd07438980c4b501cb435e1c427081?s=16&amp;d=mm&amp;r=g" width="16"/></a>
+<a class="vw-post-author__name" href="https://freedomoutpost.com/author/alicia/" itemprop="name" rel="author" title="Posts by Alicia Luke">Alicia Luke</a>
+</span>
+<a class="vw-post-date updated" href="https://freedomoutpost.com/whoopi-compares-texas-trump-supporters-to-the-kkk/" rel="bookmark" title="Permalink to Whoopi Compares Texas Trump Supporters To The KKK"><time datetime="2020-11-02T17:39:04-05:00" itemprop="datePublished">November 2, 2020</time></a> </div>
+</div>
+</div>
+<meta content="2020-11-02T17:39:04-05:00" itemprop="datePublished"><meta content="2020-11-02T17:43:15-05:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/11/Capture-1.jpg" itemprop="url">
+<meta content="1651" itemprop="width">
+<meta content="906" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+<div class="vw-flex-grid__item" data-slugs="democrats">
+<div class="vw-post-box vw-post-box--block-h vw-inview post-106692 post type-post status-publish format-standard has-post-thumbnail hentry category-democrats tag-kamala-harris" itemscope="" itemtype="https://schema.org/Article">
+<div class="vw-post-box__inner">
+<div class="vw-post-box__thumbnail-wrapper">
+<div class="vw-post-box__thumbnail">
+<img alt="Wikileaks Releases Treasure Trove Of Documents On Kamala Harris" class="attachment-presso_thumbnail_medium size-presso_thumbnail_medium wp-post-image" height="186" itemprop="image" loading="lazy" sizes="(max-width: 335px) 100vw, 335px" src="https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987-335x186.jpg" srcset="https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987-335x186.jpg 335w, https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987-360x200.jpg 360w, https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987-160x90.jpg 160w, https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987-150x83.jpg 150w, https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987-225x125.jpg 225w" width="335"/> </div>
+<a class="vw-post-box__overlay vw-post-box__overlay--link" href="https://freedomoutpost.com/kamala-harris-posts-bizarre-video-endorsing-communism/">
+</a>
+</div>
+<div class="vw-post-box__content">
+<h5 class="vw-post-box__title" itemprop="headline">
+<a class="vw-post-box__link" href="https://freedomoutpost.com/kamala-harris-posts-bizarre-video-endorsing-communism/" itemprop="url" rel="bookmark">
+Kamala Harris Posts Bizarre Video Endorsing Communism </a>
+</h5>
+<div class="vw-post-box__meta">
+<span class="vw-post-author" itemprop="author">
+<a class="vw-avatar" href="https://freedomoutpost.com/author/alicia/" title="Posts by Alicia Luke"><img alt="Alicia Luke" class="avatar avatar-16 photo" height="16" loading="lazy" src="https://secure.gravatar.com/avatar/cacd07438980c4b501cb435e1c427081?s=16&amp;d=mm&amp;r=g" width="16"/></a>
+<a class="vw-post-author__name" href="https://freedomoutpost.com/author/alicia/" itemprop="name" rel="author" title="Posts by Alicia Luke">Alicia Luke</a>
+</span>
+<a class="vw-post-date updated" href="https://freedomoutpost.com/kamala-harris-posts-bizarre-video-endorsing-communism/" rel="bookmark" title="Permalink to Kamala Harris Posts Bizarre Video Endorsing Communism"><time datetime="2020-11-02T14:36:55-05:00" itemprop="datePublished">November 2, 2020</time></a> </div>
+</div>
+</div>
+<meta content="2020-11-02T14:36:55-05:00" itemprop="datePublished"><meta content="2020-11-02T14:36:55-05:00" itemprop="dateModified"/><meta content="Alicia Luke" itemprop="author"/><meta content="UserComments:0" itemprop="interactionCount"/> <div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2018/03/freedomoutpost-logo2.png" itemprop="url"/>
+<meta content="1200" itemprop="width"/>
+<meta content="275" itemprop="height"/>
+</div>
+<meta content="Freedom Outpost" itemprop="name"/>
+</div>
+<div itemprop="image" itemscope="itemscope" itemtype="https://schema.org/ImageObject">
+<meta content="https://freedomoutpost.com/wp-content/uploads/2020/08/shutterstock_1487795987.jpg" itemprop="url">
+<meta content="1200" itemprop="width">
+<meta content="871" itemprop="height">
+</meta></meta></meta></div>
+</meta></div> </div>
+</div>
+</div></div></div>
+</meta></aside>
+</div>
+</div>
+</section>
+<footer class="vw-footer" itemscope="" itemtype="https://schema.org/WPFooter">
+<div class="vw-bottom-bar vw-bottom-bar--default vw-bar">
+<div class="container">
+<div class="vw-bar">
+<div class="vw-bar__placeholder vw-bar__placeholder--left">
+<div class="vw-copyright">Copyright © Freedom Outpost. All Rights Reserved.</div> </div>
+<div class="vw-bar__placeholder vw-bar__placeholder--right">
+<nav class="vw-menu-bottom">
+<ul class="vw-menu vw-menu-type-text clearfix" id="menu-top-navigation-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86375 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="https://freedomoutpost.com/writers-wanted/"><span>Writers Wanted</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87144 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="https://freedomoutpost.com/about-us/"><span>About Us</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86376 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="https://freedomoutpost.com/contact/"><span>Contact Us</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-102126 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="https://freedomoutpost.com/privacy/"><span>Privacy Policy</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89602 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="https://republicanlegion.com/?utm_source=FreedomOutpost&amp;utm_medium=Website" rel="noopener noreferrer" target="_blank"><span>Store</span></a></li>
+</ul></nav>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="vw-side-panel__backdrop">
+<div class="vw-side-panel_close"><i class="vw-icon icon-entypo-cancel"></i></div>
+</div>
+<div class="vw-side-panel vw-disable-inview">
+<div class="vw-side-panel__socials vw-icon-solid">
+<span class="vw-site-social-links vw-social-icons"> <a class="vw-social-icon vw-icon-social-facebook vw-social-icon--medium" href="https://www.facebook.com/freedomoutpost/" rel="author" target="_blank" title="Facebook">
+<i class="vw-icon icon-social-facebook"></i>
+<span class="vw-social-icon__label">Facebook</span>
+</a>
+<a class="vw-social-icon vw-icon-social-twitter vw-social-icon--medium" href="https://twitter.com/freedomoutpost" rel="author" target="_blank" title="Twitter">
+<i class="vw-icon icon-social-twitter"></i>
+<span class="vw-social-icon__label">Twitter</span>
+</a>
+</span> </div>
+<div class="vw-side-panel__menu">
+<h3 class="vw-side-panel__menu-title">MENU</h3>
+<div class="vw-side-panel__main-menu">
+<nav class="vw-menu-mobile">
+<ul class="vw-menu vw-menu-type-text clearfix" id="menu-main-navigation-1"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87265 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="/us-news/"><span>US News</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87266 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="/world-news/"><span>World News</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87267 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="/politics/"><span>Politics</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87268 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="/commentary/"><span>Commentary</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87269 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="/videos/"><span>Videos</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89601 menu-item-depth-0 main-menu-item vw-mega-item vw-mega-item--default"><a class="menu-link main-menu-link" href="https://republicanlegion.com/?utm_source=FreedomOutpost&amp;utm_medium=Website" rel="noopener noreferrer" target="_blank"><span>Store</span></a></li>
+</ul>
+</nav>
+</div>
+<div class="vw-side-panel__sub-menu">
+<div class="vw-side-panel__close-sub-menu"><span><i class="vw-icon icon-entypo-left-open"></i> Back</span></div>
+<div class="vw-menu-mobile"></div>
+</div>
+</div>
+</div>
+<a href="https://freedomoutpost.com/?blackhole=257ae1dd91" rel="nofollow" style="display:none;" title="Blackhole for Bad Bots">Do NOT follow this link or you will be banned from the site!</a>
+<span class="vw-scroll-to-top"><i class="vw-icon icon-entypo-up-open-big"></i></span>
+<script id="contact-form-7-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/freedomoutpost.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script id="contact-form-7-js" src="https://freedomoutpost.com/wp-content/plugins/contact-form-7/includes/js/scripts.js" type="text/javascript"></script>
+<script id="klicked-polls-js-js" src="https://freedomoutpost.com/wp-content/plugins/klicked-polls-master/assets/klicked-polls.js" type="text/javascript"></script>
+<script id="google-recaptcha-js" src="https://www.google.com/recaptcha/api.js?render=6LesI1wUAAAAADDio4UtXihkF25QvpIXujEVOMF2" type="text/javascript"></script>
+<script id="wpcf7-recaptcha-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LesI1wUAAAAADDio4UtXihkF25QvpIXujEVOMF2","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script id="wpcf7-recaptcha-js" src="https://freedomoutpost.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js" type="text/javascript"></script>
+<script id="instant-search-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var instant_search = {"blog_url":"https:\/\/freedomoutpost.com\/","ajax_url":"https:\/\/freedomoutpost.com\/wp-admin\/admin-ajax.php","placeholder":"Search"};
+/* ]]> */
+</script>
+<script id="instant-search-js" src="https://freedomoutpost.com/wp-content/themes/presso/inc/instant-search/instant-search.js" type="text/javascript"></script>
+<script id="smoothscroll-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/SmoothScroll.js" type="text/javascript"></script>
+<script id="hoverintent-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/jquery.hoverIntent.js" type="text/javascript"></script>
+<script id="fitvids-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/jquery.fitvids.js" type="text/javascript"></script>
+<script id="perfect-scrollbar-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/perfect-scrollbar.js" type="text/javascript"></script>
+<script id="imagesloaded-js" src="https://freedomoutpost.com/wp-includes/js/imagesloaded.min.js" type="text/javascript"></script>
+<script id="isotope-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/isotope.pkgd.min.js" type="text/javascript"></script>
+<script id="packery-mode-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/packery-mode.pkgd.min.js" type="text/javascript"></script>
+<script id="jquery-easing-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/jquery.easing.compatibility.js" type="text/javascript"></script>
+<script id="magnific-popup-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/jquery.magnific-popup.js" type="text/javascript"></script>
+<script id="superfish-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/jquery-superfish/superfish.js" type="text/javascript"></script>
+<script id="theia-sticky-sidebar-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/theia-sticky-sidebar.js" type="text/javascript"></script>
+<script id="waypoint-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/waypoint/jquery.waypoints.js" type="text/javascript"></script>
+<script id="waypoint-inview-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/waypoint/shortcuts/inview.js" type="text/javascript"></script>
+<script id="waypoint-sticky-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/waypoint/shortcuts/sticky.js" type="text/javascript"></script>
+<script id="slick-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/slick/slick.js" type="text/javascript"></script>
+<script id="jquery-effects-core-js" src="https://freedomoutpost.com/wp-includes/js/jquery/ui/effect.min.js" type="text/javascript"></script>
+<script id="presso-js-main-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var vw_main_js = {"is_rtl":"","translation_next":"Next","translation_previous":"Previous","theme_path":"https:\/\/freedomoutpost.com\/wp-content\/themes\/presso","ajaxurl":"https:\/\/freedomoutpost.com\/wp-admin\/admin-ajax.php","slider_slide_duration":"4000","slider_transition_speed":"300","accent_color":"#907f00"};
+/* ]]> */
+</script>
+<script id="presso-js-main-js" src="https://freedomoutpost.com/wp-content/themes/presso/js/main.js" type="text/javascript"></script>
+<script id="if-subscribe-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var ifsub = {"ajax_url":"https:\/\/freedomoutpost.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script id="if-subscribe-js" src="https://freedomoutpost.com/wp-content/plugins/inboxfirst-by-klicked-master/assets/subscribe.js" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://freedomoutpost.com/wp-includes/js/wp-embed.min.js" type="text/javascript"></script>
+<script async="async" id="remote_sdk-js" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js?" type="text/javascript"></script>
+<div class="essbasc-popup essbasc-popup-html" data-popup-width="400"><a class="essbasc-popup-close" href="#" onclick="essbasc_popup_close(); return false;"></a><div class="essbasc-popup-content"><div class="popup-title">Thanks for sharing!</div>
+<div class="popup-text">We invite you to become an insider. Sign up for our free email newsletter, and we'll make sure to keep you in the loop.</div>
+<div class="ifklicked-subscribe"><input class="ifklicked-subscribe-email" data-id="4427" id="form-54" placeholder="Email Address" type="text"><button class="ifklicked-subscribe-btn" data-input="form-54">Subscribe</button></input></div><span class="ifklicked-loading-form-54" style="display: none"><svg class="lds-dual-ring" height="28px" preserveaspectratio="xMidYMid" style="animation-play-state: running; animation-delay: 0s; background: none;" viewbox="0 0 100 100" width="28px" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" fill="none" ng-attr-r="{{config.radius}}" ng-attr-stroke="{{config.stroke}}" ng-attr-stroke-dasharray="{{config.dasharray}}" ng-attr-stroke-width="{{config.width}}" r="40" stroke="#bebebe" stroke-dasharray="62.83185307179586 62.83185307179586" stroke-linecap="round" stroke-width="15" style="animation-play-state: running; animation-delay: 0s;" transform="rotate(189.733 50 50)"><animatetransform attributename="transform" begin="0s" calcmode="linear" dur="1.2s" keytimes="0;1" repeatcount="indefinite" style="animation-play-state: running; animation-delay: 0s;" type="rotate" values="0 50 50;360 50 50"></animatetransform></circle></svg></span><p class="ifklicked-message-form-54" style="display: none"></p>
+<style>.essbasc-popup{-webkit-box-shadow:0 0 1px rgba(255,255,255,1),0 0 20px rgba(0,0,0,.7),0 0 90px rgba(0,0,0,.5)!important;-moz-box-shadow:0 0 1px rgba(255,255,255,1),0 0 20px rgba(0,0,0,.7),0 0 90px rgba(0,0,0,.5)!important;-ms-box-shadow:0 0 1px rgba(255,255,255,1),0 0 20px rgba(0,0,0,.7),0 0 90px rgba(0,0,0,.5)!important;-o-box-shadow:0 0 1px rgba(255,255,255,1),0 0 20px rgba(0,0,0,.7),0 0 90px rgba(0,0,0,.5)!important;box-shadow:0 0 1px rgba(255,255,255,1),0 0 20px rgba(0,0,0,.7),0 0 90px rgba(0,0,0,.5)!important}.essbasc-popup .essbasc-popup-content{background-color:#c10000;width:400px;max-width:100%;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;color:#fff;font-weight:600;font-size:20px;text-shadow:1px 1px 1px rgba(0,0,0,.5),0 0 4px rgba(0,0,0,.3);box-shadow:inset 0 0 120px 0 #ad0001}.essbasc-popup .popup-title{font-size:24px;font-weight:800;margin:10px 0}.essbasc-popup .popup-text{line-height:1.3;margin:0 5px 16px}.essbasc-popup button.ifklicked-subscribe-btn{background:#8a0000;width:33%;font-weight:900;height:31px;font-size:16px;color:#fff;padding:0;border:1px solid rgba(255,255,255,.4)}.essbasc-popup button.ifklicked-subscribe-btn:hover{background:#ea0000}.essbasc-popup .ifklicked-subscribe input.ifklicked-subscribe-email{background:#fff;width:63%;float:left;height:31px;margin:0 5px 0 0;padding:0 0 0 10px;font-size:14px;border:none}</style></div></div><div class="essbasc-popup-shadow" onclick="essbasc_popup_close();"></div><script type="text/javascript">var essbasc_cookie_live = 7;</script><link href="https://freedomoutpost.com/wp-content/plugins/easy-social-share-buttons-3.4.1/assets/css/essb-after-share-close.min.css" id="easy-social-share-buttons-popupasc" media="all" rel="stylesheet" type="text/css"><link href="https://freedomoutpost.com/wp-content/plugins/easy-social-share-buttons-3.4.1/lib/modules/click-to-tweet/assets/css/styles.min.css" id="essb-cct-style" media="all" rel="stylesheet" type="text/css"><script type="text/javascript">
+				(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;;
+				po.src = 'https://freedomoutpost.com/wp-content/plugins/easy-social-share-buttons-3.4.1/assets/js/essb-core.min.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();</script><script type="text/javascript">
+				(function() {
+				var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;;
+				po.src = 'https://freedomoutpost.com/wp-content/plugins/easy-social-share-buttons-3.4.1/assets/js/essb-after-share-close.min.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();</script><script type="text/javascript"></script>
+<script async="" src="//static.klaviyo.com/onsite/js/klaviyo.js?company_id=Pad2p8" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var owa_baseUrl = 'https://sentinelpublishers.com/stats/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', '4d703f15a1f24107d01985bdf35f7a68']);
+owa_cmds.push(['trackPageView']);
+owa_cmds.push(['trackClicks']);
+
+(function() {
+	var _owa = document.createElement('script'); _owa.type = 'text/javascript'; _owa.async = true;
+	owa_baseUrl = ('https:' == document.location.protocol ? window.owa_baseSecUrl || owa_baseUrl.replace(/http:/, 'https:') : owa_baseUrl );
+	_owa.src = owa_baseUrl + 'modules/base/js/owa.tracker-combined-min.js';
+	var _owa_s = document.getElementsByTagName('script')[0]; _owa_s.parentNode.insertBefore(_owa, _owa_s);
+}());
+//]]>
+</script>
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-XAqYcdF_ARxwr"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-XAqYcdF_ARxwr.gif" width="1"/>
+</div>
+</noscript>
+</link></link></body>
+</html>

@@ -388,7 +388,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-M4BJXQF');</script>
 <style id="et-bloom-custom-css" type="text/css">
-					.et_bloom .et_bloom_optin_23 .et_bloom_form_container h2, .et_bloom .et_bloom_optin_23 .et_bloom_form_container h2 span, .et_bloom .et_bloom_optin_23 .et_bloom_form_container h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_23 .et_bloom_form_container p, .et_bloom .et_bloom_optin_23 .et_bloom_form_container p span, .et_bloom .et_bloom_optin_23 .et_bloom_form_container p strong, .et_bloom .et_bloom_optin_23 .et_bloom_form_container form input, .et_bloom .et_bloom_optin_23 .et_bloom_form_container form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } 
+					.et_bloom .et_bloom_optin_19 .et_bloom_form_container .et_bloom_form_header { background-color: #000000 !important; } .et_bloom .et_bloom_optin_19 .et_bloom_form_container h2, .et_bloom .et_bloom_optin_19 .et_bloom_form_container h2 span, .et_bloom .et_bloom_optin_19 .et_bloom_form_container h2 strong { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; }.et_bloom .et_bloom_optin_19 .et_bloom_form_container p, .et_bloom .et_bloom_optin_19 .et_bloom_form_container p span, .et_bloom .et_bloom_optin_19 .et_bloom_form_container p strong, .et_bloom .et_bloom_optin_19 .et_bloom_form_container form input, .et_bloom .et_bloom_optin_19 .et_bloom_form_container form button span { font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif; } .et_bloom_form_content.et_bloom_1_field.et_bloom_custom_html_form { float: right; width: 50% !important; background: none !important; } .et_bloom_form_container { background: url(https://cdn3.collective-evolution.com/assets/uploads/2020/02/Joe-ce-insight.jpg) !important; background-repeat: no-repeat !important; background-color: #000 !important; background-size: cover !important; } .et_bloom_form_header.et_bloom_header_text_light { display: none; } .et_bloom_form_container { max-width: 850px !important; } #_form_13_ img { width: 200px; margin-bottom: 20px; } #_form_13_ h1 { font-size: 22px; line-height: 22px; margin-bottom: 10px; color: #fff; } #_form_13_ h2 { color: #fff; font-size: 18px; font-style: italic; font-weight: 600; margin-bottom: 10px; } #_form_13_ h3 { color: #c0c0c0; margin-bottom: 20px; } .column { float: left; width: 50%; padding: 0px; } .row:after { content: ""; display: table; clear: both; } #_form_13_ .container { display: block !important; position: relative; padding-left: 33px; margin-bottom: 12px !important; cursor: pointer; font-size: 17px !important; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; line-height: 25px; } .container input { position: absolute; opacity: 0; cursor: pointer; height: 0; width: 0; } .checker { position: absolute !important; top: 0; left: 0; height: 25px !important; width: 25px !important; background-color: #ffffff !important; border-radius: 20px; } .container:hover input ~ .checker { background-color: #ccc; } .container input:checked ~ .checker { background-color: #27aae1 !important; } .checker:after { content: ""; position: absolute; display: none; } .container input:checked ~ .checker:after { display: block; } .container .checker:after { left: 9px; top: 5px; width: 7px; height: 13px; border: solid white; border-width: 0 3px 3px 0; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); } #_form_13_ { font-size:14px; line-height:1.6; font-family:arial, helvetica, sans-serif; margin:0;} #_form_13_ * { outline:0; } ._form_hide { display:none; visibility:hidden; } ._form_show { display:block; visibility:visible; } #_form_13_._form-top { top:0; } #_form_13_._form-bottom { bottom:0; } #_form_13_._form-left { left:0; } #_form_13_._form-right { right:0; } #_form_13_ input[type="text"], #_form_13_ input[type="date"], #_form_13_ textarea { padding: 10px !important; height: auto; border: none; border-radius: 4px !important; color: #1e3650 !important; font-weight: 500; font-size: 16px; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; } #_form_13_ textarea { resize:none; } #_form_13_ ._submit { -webkit-appearance: none; cursor: pointer; font-size: 20px; font-weight: bold; text-align: center; background: #27aae1 !important; border: 0 !important; -moz-border-radius: 4px !important; -webkit-border-radius: 4px !important; border-radius: 4px !important; color: #fff !important; padding: 15px !important; width: 100%; } #_form_13_ ._error-inner._no_arrow { width: 170px; margin-top: -40px; } #_form_13_ ._close-icon { cursor:pointer; background-image:url('https://d226aj4ao1t61q.cloudfront.net/esfkyjh1u_forms-close-dark.png'); background-repeat:no-repeat; background-size:14.2px 14.2px; position:absolute; display:block; top:11px; right:9px; overflow:hidden; width:16.2px; height:16.2px; } #_form_13_ ._close-icon:before { position:relative; } #_form_13_ ._form-body { margin-bottom:30px; } #_form_13_ ._form-image-left { width:150px; float:left; } #_form_13_ ._form-content-right { margin-left:164px; } #_form_13_ ._form-branding { color:#fff; font-size:10px; clear:both; text-align:left; margin-top:30px; font-weight:100; } #_form_13_ ._form-branding ._logo { display:block; width:130px; height:14px; margin-top:6px; background-image:url('https://d226aj4ao1t61q.cloudfront.net/hh9ujqgv5_aclogo_li.png'); background-size:130px auto; background-repeat:no-repeat; } #_form_13_ ._form-label,#_form_13_ ._form_element ._form-label { font-weight:bold; margin-bottom:5px; display:block; } #_form_13_._dark ._form-branding { color:#333; } #_form_13_._dark ._form-branding ._logo { background-image:url('https://d226aj4ao1t61q.cloudfront.net/jftq2c8s_aclogo_dk.png'); } #_form_13_ ._form_element { position:relative; margin-bottom:10px; font-size:0; max-width:100%; } #_form_13_ ._form_element * { font-size:16px; color: #5bdbdd; } #_form_13_ ._form_element._clear { clear:both; width:100%; float:none; } #_form_13_ ._form_element._clear:after { clear:left; } #_form_13_ ._form_element input[type="text"],#_form_13_ ._form_element input[type="date"],#_form_13_ ._form_element select,#_form_13_ ._form_element textarea:not(.g-recaptcha-response) { display:block; width:100%; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; } #_form_13_ ._field-wrapper { position:relative; } #_form_13_ ._inline-style { float:left; } #_form_13_ ._inline-style input[type="text"] { width:150px; } #_form_13_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:20px; } #_form_13_ ._form_element img._form-image { max-width:100%; } #_form_13_ ._clear-element { clear:left; } #_form_13_ ._full_width { width:100%; } #_form_13_ ._form_full_field { display:block; width:100%; margin-bottom:10px; } #_form_13_ input[type="text"]._has_error,#_form_13_ textarea._has_error { border:#f37c7b 1px solid; } #_form_13_ input[type="checkbox"]._has_error { outline:#f37c7b 1px solid; } #_form_13_ ._error { display:block; position:absolute; font-size:13px; z-index:10000001; } #_form_13_ ._error._above { padding-bottom:4px; bottom:39px; right:0; } #_form_13_ ._error._below { padding-top:4px; top:100%; right:0; } #_form_13_ ._error._above ._error-arrow { bottom:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-top:5px solid #f37c7b; } #_form_13_ ._error._below ._error-arrow { top:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-bottom:5px solid #f37c7b; } #_form_13_ ._error-inner { padding:8px 12px; background-color:#f37c7b; font-size:13px; font-family:arial, sans-serif; color:#fff; text-align:center; text-decoration:none; -webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px; } #_form_13_ ._error-inner._form_error { margin-bottom:5px; text-align:left; } #_form_13_ ._button-wrapper ._error-inner._form_error { position:static; } #_form_13_ ._error-inner._no_arrow { margin-bottom:10px; } #_form_13_ ._error-arrow { position:absolute; width:0; height:0; } #_form_13_ ._error-html { margin-bottom:10px; } .pika-single { z-index:10000001 !important; } @media all and (min-width:320px) and (max-width:667px) { ::-webkit-scrollbar { display:none; } #_form_13_ { margin:0; width:100%; min-width:100%; max-width:100%; box-sizing:border-box; } #_form_13_ * { -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; font-size:1em; } #_form_13_ ._form-content { margin:0; width:100%; } #_form_13_ ._form-inner { display:block; min-width:100%; } #_form_13_ ._form-title,#_form_13_ ._inline-style { margin-top:0; margin-right:0; margin-left:0; } #_form_13_ ._form-title { font-size:1.2em; } #_form_13_ ._form_element { margin:0 0 20px; padding:0; width:100%; } #_form_13_ ._form-element,#_form_13_ ._inline-style,#_form_13_ input[type="text"],#_form_13_ label,#_form_13_ p,#_form_13_ textarea:not(.g-recaptcha-response) { float:none; display:block; width:100%; } #_form_13_ ._row._checkbox-radio label { display:inline; } #_form_13_ ._row,#_form_13_ p,#_form_13_ label { margin-bottom:0.7em; width:100%; } #_form_13_ ._row input[type="checkbox"],#_form_13_ ._row input[type="radio"] { margin:0 !important; vertical-align:middle !important; } #_form_13_ ._row input[type="checkbox"] + span label { display:inline; } #_form_13_ ._row span label { margin:0 !important; width:initial !important; vertical-align:middle !important; } #_form_13_ ._form-image { max-width:100%; height:auto !important; } #_form_13_ input[type="text"] { padding-left:10px; padding-right:10px; font-size:16px; line-height:1.3em; -webkit-appearance:none; } #_form_13_ input[type="radio"],#_form_13_ input[type="checkbox"] { display:inline-block; width:1.3em; height:1.3em; font-size:1em; margin:0 0.3em 0 0; vertical-align:baseline; } #_form_13_ button[type="submit"] { padding:20px; font-size:1.5em; } #_form_13_ ._inline-style { margin:20px 0 0 !important; } } #_form_13_ { position:relative; text-align:left; margin:15px auto 0; padding:0px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1;width:100%; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#000 !important; } #_form_13_ ._form-title { font-size:22px; line-height:22px; font-weight:600; margin-bottom:0; } #_form_13_:before,#_form_13_:after { content:" "; display:table; } #_form_13_:after { clear:both; } #_form_13_._inline-style { width:auto; display:inline-block; } #_form_13_._inline-style input[type="text"],#_form_13_._inline-style input[type="date"] { padding:10px 12px; } #_form_13_._inline-style button._inline-style { position:relative; top:27px; } #_form_13_._inline-style p { margin:0; } #_form_13_._inline-style ._button-wrapper { position:relative; margin:27px 12.5px 0 20px; } #_form_13_ ._form-thank-you { position:relative; left:0; right:0; text-align:center; font-size:18px; } @media all and (min-width:320px) and (max-width:667px) { #_form_13_._inline-form._inline-style ._inline-style._button-wrapper { margin-top:20px !important; margin-left:0 !important; } } @media only screen and (max-width: 767px) { .et_bloom_form_content.et_bloom_1_field.et_bloom_custom_html_form { float: none; width: 100% !important; background: #000 !important; } }
 				</style><style type="text/css">img#wpstats{display:none}</style><script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
   window.googletag = window.googletag || {cmd: []};
@@ -536,42 +536,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="mvp-widget-feat2-in">
 <div class="mvp-widget-feat2-main left relative">
 <div class="mvp-widget-feat2-left left relative">
-<a href="https://www.collective-evolution.com/2021/03/16/paradigm-shifting-ufo-tech-that-alters-space-time-is-operable-u-s-navy-chief-tech-officer/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/26/scientists-propose-that-we-can-travel-faster-than-the-speed-of-light/" rel="bookmark">
 <div class="mvp-widget-feat2-left-cont left relative">
 <div class="mvp-feat1-feat-img left relative">
-<img alt="" class="attachment-mvp-port-thumb size-mvp-port-thumb wp-post-image" height="600" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/UFO-patent-560x600.jpg" width="560"/> </div>
+<img alt="" class="attachment-mvp-port-thumb size-mvp-port-thumb wp-post-image" height="600" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/space-ship-560x600.jpg" width="560"/> </div>
 <div class="mvp-feat1-feat-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">15 hours ago</span>
+<span class="mvp-cd-cat left relative">Discover</span><span class="mvp-cd-date left relative">5 hours ago</span>
 </div>
-<h2 class="mvp-stand-title">Paradigm-Shifting ‘UFO’ Tech That Alters Space-Time Is “Operable” – U.S. Navy Chief Tech Officer</h2>
-<p>(Follow me on Instagram here) I was recently scrolling through the twitter feed of Christopher Mellon, the former Deputy Assistant...</p>
+<h2 class="mvp-stand-title">Scientists Propose That We Can Travel Faster Than The Speed of Light</h2>
+<p>In Star Trek Gene Roddenberry imagined it possible to set a ship into ‘warp drive’ and travel at speeds 6000+...</p>
 </div>
 </div>
 </a>
 </div>
 <div class="mvp-widget-feat2-right left relative">
-<a href="https://www.collective-evolution.com/2021/03/15/the-deeper-questions-behind-the-lab-origins-debate/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/26/covid-cases-spiking-in-13-us-states-most-have-high-vaccination-rates/" rel="bookmark">
 <div class="mvp-widget-feat2-right-cont left relative">
 <div class="mvp-widget-feat2-right-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/corona-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/corona-400x240.jpg 400w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/corona-1000x600.jpg 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/corona-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/corona-80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/corona-80x80.jpg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/corona-150x150.jpg 150w" width="80"/> </div>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/doctor-vial-400x240.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/doctor-vial-400x240.jpg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/doctor-vial-1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/doctor-vial-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/doctor-vial-80x80.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/doctor-vial-80x80.jpg 80w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/doctor-vial-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-widget-feat2-right-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">2 days ago</span>
+<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">5 hours ago</span>
 </div>
-<h2>The Deeper Questions Behind The “Lab Origins” Debate</h2>
+<h2>COVID Cases Spiking In 13 US States – Most Have High Vaccination Rates</h2>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/14/how-to-master-your-critical-thinking-skills/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/25/pentagon-to-release-ufo-evidence-there-are-a-lot-more-sightings-than-have-been-made-public/" rel="bookmark">
 <div class="mvp-widget-feat2-right-cont left relative">
 <div class="mvp-widget-feat2-right-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/thinking-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/thinking-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/thinking-1000x600.jpg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/thinking-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/thinking-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/thinking-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/thinking-150x150.jpg 150w" width="80"/> </div>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/shutterstock_1722374194-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/shutterstock_1722374194-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/shutterstock_1722374194-1000x600.jpg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/shutterstock_1722374194-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/shutterstock_1722374194-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/shutterstock_1722374194-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/shutterstock_1722374194-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-widget-feat2-right-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Consciousness</span><span class="mvp-cd-date left relative">2 days ago</span>
+<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">1 day ago</span>
 </div>
-<h2>How To Master Your Critical Thinking Skills</h2>
+<h2>Pentagon To Release UFO Evidence: “There Are a Lot More Sightings Than Have Been Made Public”</h2>
 </div>
 </div>
 </a>
@@ -581,97 +581,97 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="mvp-widget-feat2-side left relative">
 <div class="mvp-widget-feat2-side-list left relative">
 <div class="mvp-feat1-list left relative">
-<a href="https://www.collective-evolution.com/2021/03/14/scientists-have-successfully-communicated-with-lucid-dreamers-while-they-are-dreaming/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/25/what-causes-deja-vu-the-neuroscience-behind-the-memory-illusion/" rel="bookmark">
 <div class="mvp-feat1-list-cont left relative">
 <div class="mvp-feat1-list-out relative">
 <div class="mvp-feat1-list-img left relative">
-<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/dream-80x80.png" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/dream-80x80.png 80w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/dream-150x150.png 150w" width="80"/> </div>
+<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/Matrix-Black-Cat-Neo-80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/Matrix-Black-Cat-Neo-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/Matrix-Black-Cat-Neo-150x150.jpg 150w" width="80"/> </div>
+<div class="mvp-feat1-list-in">
+<div class="mvp-feat1-list-text">
+<div class="mvp-cat-date-wrap left relative">
+<span class="mvp-cd-cat left relative">Discover</span><span class="mvp-cd-date left relative">1 day ago</span>
+</div>
+<h2>What Causes Déjà Vu? The Neuroscience Behind The Memory Illusion</h2>
+</div>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.collective-evolution.com/2021/03/24/3-million-masks-a-minute-the-next-plastic-problem/" rel="bookmark">
+<div class="mvp-feat1-list-cont left relative">
+<div class="mvp-feat1-list-out relative">
+<div class="mvp-feat1-list-img left relative">
+<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/MASK-80x80.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/MASK-80x80.jpg 80w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/MASK-150x150.jpg 150w" width="80"/> </div>
+<div class="mvp-feat1-list-in">
+<div class="mvp-feat1-list-text">
+<div class="mvp-cat-date-wrap left relative">
+<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">2 days ago</span>
+</div>
+<h2>3 Million Masks a Minute: The Next Plastic Problem?</h2>
+</div>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.collective-evolution.com/2021/03/23/study-covid-vaccines-may-sensitize-vaccine-recipients-to-more-severe-disease/" rel="bookmark">
+<div class="mvp-feat1-list-cont left relative">
+<div class="mvp-feat1-list-out relative">
+<div class="mvp-feat1-list-img left relative">
+<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/vax-80x80.jpeg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/vax-80x80.jpeg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/vax-150x150.jpeg 150w" width="80"/> </div>
 <div class="mvp-feat1-list-in">
 <div class="mvp-feat1-list-text">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">3 days ago</span>
 </div>
-<h2>Scientists Successfully Communicate With Lucid Dreamers While They Are Dreaming</h2>
+<h2>Study: Covid Vaccines May “Sensitize Vaccine Recipients To More Severe Disease”</h2>
 </div>
 </div>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/13/millions-are-talking-about-harry-meghan-when-we-should-be-talking-about-royal-family-pedophilia/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/22/the-astonishing-evidence-that-made-carl-sagan-believe-reincarnation-deserves-serious-study/" rel="bookmark">
 <div class="mvp-feat1-list-cont left relative">
 <div class="mvp-feat1-list-out relative">
 <div class="mvp-feat1-list-img left relative">
-<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/royal-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/royal-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/royal-150x150.jpg 150w" width="80"/> </div>
-<div class="mvp-feat1-list-in">
-<div class="mvp-feat1-list-text">
-<div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">4 days ago</span>
-</div>
-<h2>Millions Are Talking About Harry &amp; Meghan When We Should Be Talking About Royal Family Pedophilia</h2>
-</div>
-</div>
-</div>
-</div>
-</a>
-<a href="https://www.collective-evolution.com/2021/03/12/new-moon-in-pisces-heightened-sensitivity/" rel="bookmark">
-<div class="mvp-feat1-list-cont left relative">
-<div class="mvp-feat1-list-out relative">
-<div class="mvp-feat1-list-img left relative">
-<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-150x150.jpg 150w" width="80"/> </div>
+<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/sagan-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/sagan-80x80.jpg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/sagan-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-feat1-list-in">
 <div class="mvp-feat1-list-text">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Consciousness</span><span class="mvp-cd-date left relative">4 days ago</span>
 </div>
-<h2>New Moon In Pisces: Heightened Sensitivity</h2>
+<h2>The Astonishing Evidence That Made Carl Sagan Believe “Reincarnation Deserves Serious Study”</h2>
 </div>
 </div>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/12/another-epidemiologist-calls-out-facebook-fact-checkers-calls-it-a-scam/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/21/worlds-pre-eminent-infectious-disease-epidemiologist-explains-how-lockdowns-dont-protect-anyone/" rel="bookmark">
 <div class="mvp-feat1-list-cont left relative">
 <div class="mvp-feat1-list-out relative">
 <div class="mvp-feat1-list-img left relative">
-<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/pra-80x80.jpeg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/pra-80x80.jpeg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/pra-150x150.jpeg 150w" width="80"/> </div>
+<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/llock-80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/llock-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/llock-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-feat1-list-in">
 <div class="mvp-feat1-list-text">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">5 days ago</span>
 </div>
-<h2>Another Epidemiologist Calls Out Facebook “Fact-Checkers” &amp; Calls It A “Scam”</h2>
+<h2>World’s Pre-Eminent Infectious Disease Epidemiologist Explains How Lockdowns Don’t Protect Anyone</h2>
 </div>
 </div>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/11/biden-searches-for-monsters-abroad-continues-trump-policies-in-syria/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/20/is-real-world-activism-part-of-our-spiritual-journey/" rel="bookmark">
 <div class="mvp-feat1-list-cont left relative">
 <div class="mvp-feat1-list-out relative">
 <div class="mvp-feat1-list-img left relative">
-<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/biden-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/biden-80x80.jpg 80w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/biden-150x150.jpg 150w" width="80"/> </div>
-<div class="mvp-feat1-list-in">
-<div class="mvp-feat1-list-text">
-<div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">6 days ago</span>
-</div>
-<h2>Biden Searches for Monsters Abroad; Continues Trump Policies In Syria</h2>
-</div>
-</div>
-</div>
-</div>
-</a>
-<a href="https://www.collective-evolution.com/2021/03/10/the-power-of-the-quartz-crystal-from-an-indigenous-point-of-view/" rel="bookmark">
-<div class="mvp-feat1-list-cont left relative">
-<div class="mvp-feat1-list-out relative">
-<div class="mvp-feat1-list-img left relative">
-<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/quartz-80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/quartz-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/quartz-150x150.jpg 150w" width="80"/> </div>
+<img alt="" class="attachment-mvp-small-thumb size-mvp-small-thumb wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/cow-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/cow-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/cow-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-feat1-list-in">
 <div class="mvp-feat1-list-text">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Consciousness</span><span class="mvp-cd-date left relative">6 days ago</span>
 </div>
-<h2>The ‘Power’ Of The Quartz Crystal From An Indigenous Point of View</h2>
+<h2>Is Real-World Activism Part of our Spiritual Journey?</h2>
 </div>
 </div>
 </div>
@@ -690,51 +690,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div></section><section class="mvp-widget-home left relative mvp_home_feat1_widget" id="mvp_home_feat1_widget-2"><div class="mvp-main-box"><div class="mvp-widget-home-head"><h4 class="mvp-widget-home-title"><span class="mvp-widget-home-title">Consciousness</span></h4></div>
 <div class="mvp-widget-feat1-wrap left relative">
 <div class="mvp-widget-feat1-cont left relative">
-<a href="https://www.collective-evolution.com/2021/03/14/scientists-have-successfully-communicated-with-lucid-dreamers-while-they-are-dreaming/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/22/the-astonishing-evidence-that-made-carl-sagan-believe-reincarnation-deserves-serious-study/" rel="bookmark">
 <div class="mvp-widget-feat1-bot-story left relative">
 <div class="mvp-widget-feat1-bot-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/dream-400x240.png" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/dream-400x240.png 400w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/dream-1000x600.png 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/dream-590x354.png 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/dream-80x80.png" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/dream-80x80.png 80w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/dream-150x150.png 150w" width="80"/> </div>
-<div class="mvp-widget-feat1-bot-text left relative">
-<div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">3 days ago</span>
-</div>
-<h2>Scientists Successfully Communicate With Lucid Dreamers While They Are Dreaming</h2>
-</div>
-</div>
-</a>
-<a href="https://www.collective-evolution.com/2021/03/12/new-moon-in-pisces-heightened-sensitivity/" rel="bookmark">
-<div class="mvp-widget-feat1-bot-story left relative">
-<div class="mvp-widget-feat1-bot-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-400x240.jpg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/nm-pis-cover-2020-2-150x150.jpg 150w" width="80"/> </div>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/sagan-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/sagan-400x240.jpg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/sagan-1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/sagan-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/sagan-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/sagan-80x80.jpg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/sagan-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Consciousness</span><span class="mvp-cd-date left relative">4 days ago</span>
 </div>
-<h2>New Moon In Pisces: Heightened Sensitivity</h2>
+<h2>The Astonishing Evidence That Made Carl Sagan Believe “Reincarnation Deserves Serious Study”</h2>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/10/the-power-of-the-quartz-crystal-from-an-indigenous-point-of-view/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/20/is-real-world-activism-part-of-our-spiritual-journey/" rel="bookmark">
 <div class="mvp-widget-feat1-bot-story left relative">
 <div class="mvp-widget-feat1-bot-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/quartz-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/quartz-400x240.jpg 400w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/quartz-1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/quartz-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/quartz-80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/quartz-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/quartz-150x150.jpg 150w" width="80"/> </div>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/cow-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/cow-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/cow-1000x600.jpg 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/cow-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/cow-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/cow-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/cow-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Consciousness</span><span class="mvp-cd-date left relative">6 days ago</span>
 </div>
-<h2>The ‘Power’ Of The Quartz Crystal From An Indigenous Point of View</h2>
+<h2>Is Real-World Activism Part of our Spiritual Journey?</h2>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/01/how-does-anesthesia-work-we-still-dont-know-what-happens-when-someone-goes-under/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/19/study-suggests-risk-of-death-from-loneliness-may-be-greater-than-obesity/" rel="bookmark">
 <div class="mvp-widget-feat1-bot-story left relative">
 <div class="mvp-widget-feat1-bot-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/anes-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/anes-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/anes-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/anes-80x80.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/anes-80x80.jpg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/anes-150x150.jpg 150w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/anes-560x562.jpg 560w" width="80"/> </div>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/lon-400x240.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/lon-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/lon-1000x600.jpg 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/lon-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/lon-80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/lon-80x80.jpg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/lon-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Awareness</span><span class="mvp-cd-date left relative">2 weeks ago</span>
+<span class="mvp-cd-cat left relative">Consciousness</span><span class="mvp-cd-date left relative">1 week ago</span>
 </div>
-<h2>How Does Anesthesia Work? We Still Don’t Know: What Happens When Someone Goes “Under”?</h2>
+<h2>Study Suggests Risk of Death From Loneliness May Be Greater Than Obesity</h2>
+</div>
+</div>
+</a>
+<a href="https://www.collective-evolution.com/2021/03/19/hypnotherapy-and-hypnosis-is-this-healing-modality-being-overlooked/" rel="bookmark">
+<div class="mvp-widget-feat1-bot-story left relative">
+<div class="mvp-widget-feat1-bot-img left relative">
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/image-1-400x240.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/image-1-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/image-1-1000x600.jpg 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/image-1-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/image-1-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/image-1-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/image-1-150x150.jpg 150w" width="80"/> </div>
+<div class="mvp-widget-feat1-bot-text left relative">
+<div class="mvp-cat-date-wrap left relative">
+<span class="mvp-cd-cat left relative">Consciousness</span><span class="mvp-cd-date left relative">1 week ago</span>
+</div>
+<h2>Hypnotherapy: Is This Healing Modality Being Overlooked?</h2>
 </div>
 </div>
 </a>
@@ -760,7 +760,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="mvp-widget-dark-feat-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-date no-pseudo left relative">3 days ago</span>
+<span class="mvp-cd-date no-pseudo left relative">2 weeks ago</span>
 </div>
 <h2>Improving Your Critical Thinking - Masterclass Preview</h2>
 </div>
@@ -781,7 +781,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="mvp-widget-dark-sub-in">
 <div class="mvp-widget-dark-sub-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-date no-pseudo left relative">2 months ago</span>
+<span class="mvp-cd-date no-pseudo left relative">3 months ago</span>
 </div>
 <h2>The CIA Hires Remote Viewers To Get Info On Extraterrestrial Bases</h2>
 </div>
@@ -802,7 +802,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="mvp-widget-dark-sub-in">
 <div class="mvp-widget-dark-sub-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-date no-pseudo left relative">2 months ago</span>
+<span class="mvp-cd-date no-pseudo left relative">3 months ago</span>
 </div>
 <h2>What Really Happened On Capitol Hill Yesterday? | Initial Observations</h2>
 </div>
@@ -823,7 +823,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="mvp-widget-dark-sub-in">
 <div class="mvp-widget-dark-sub-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-date no-pseudo left relative">2 months ago</span>
+<span class="mvp-cd-date no-pseudo left relative">3 months ago</span>
 </div>
 <h2>What Type Of World Do You Want To Live In? | Charles Eisenstein</h2>
 </div>
@@ -844,7 +844,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="mvp-widget-dark-sub-in">
 <div class="mvp-widget-dark-sub-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-date no-pseudo left relative">2 months ago</span>
+<span class="mvp-cd-date no-pseudo left relative">3 months ago</span>
 </div>
 <h2>Conspireality: Making Sense Of Conspiracy In Our World | Charles Eisenstein</h2>
 </div>
@@ -860,103 +860,103 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <section class="mvp-widget-home left relative mvp_flex_widget" id="mvp_flex_widget-2"><div class="mvp-main-box"><div class="mvp-widget-home-head"><h4 class="mvp-widget-home-title"><span class="mvp-widget-home-title">News</span></h4></div>
 <div class="mvp-widget-flex-wrap left relative">
 <div class="mvp-flex-story-wrap left relative">
-<a href="https://www.collective-evolution.com/2021/03/13/millions-are-talking-about-harry-meghan-when-we-should-be-talking-about-royal-family-pedophilia/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/24/3-million-masks-a-minute-the-next-plastic-problem/" rel="bookmark">
 <div class="mvp-flex-story left relative mvp-flex-col mvp-flex-col-noad">
 <div class="mvp-flex-story-out right relative">
 <div class="mvp-flex-story-img left relative">
-<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/royal-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/royal-400x240.jpg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/royal-590x354.jpg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/royal-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/royal-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/royal-150x150.jpg 150w" width="80"> </img></img></div>
+<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/MASK-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/MASK-400x240.jpg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/MASK-1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/MASK-590x354.jpg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/MASK-80x80.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/MASK-80x80.jpg 80w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/MASK-150x150.jpg 150w" width="80"> </img></img></div>
 <div class="mvp-flex-story-in">
 <div class="mvp-flex-story-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">4 days ago</span>
+<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">2 days ago</span>
 </div>
-<h2 class="mvp-stand-title">Millions Are Talking About Harry &amp; Meghan When We Should Be Talking About Royal Family Pedophilia</h2>
-<p>A few years ago I wrote an article about how millions of people tuned into the wedding of Prince Harry...</p>
+<h2 class="mvp-stand-title">3 Million Masks a Minute: The Next Plastic Problem?</h2>
+<p>The high demand for face masks since the coronavirus pandemic began has resulted in the production of billions of disposable masks —...</p>
 </div>
 </div>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/12/another-epidemiologist-calls-out-facebook-fact-checkers-calls-it-a-scam/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/23/study-covid-vaccines-may-sensitize-vaccine-recipients-to-more-severe-disease/" rel="bookmark">
 <div class="mvp-flex-story left relative mvp-flex-col mvp-flex-col-noad">
 <div class="mvp-flex-story-out right relative">
 <div class="mvp-flex-story-img left relative">
-<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/pra-400x240.jpeg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/pra-400x240.jpeg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/pra-1000x600.jpeg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/pra-590x354.jpeg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/pra-80x80.jpeg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/pra-80x80.jpeg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/pra-150x150.jpeg 150w" width="80"> </img></img></div>
+<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/vax-400x240.jpeg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/vax-400x240.jpeg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/vax-1000x600.jpeg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/vax-590x354.jpeg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/vax-80x80.jpeg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/vax-80x80.jpeg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/vax-150x150.jpeg 150w" width="80"> </img></img></div>
+<div class="mvp-flex-story-in">
+<div class="mvp-flex-story-text left relative">
+<div class="mvp-cat-date-wrap left relative">
+<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">3 days ago</span>
+</div>
+<h2 class="mvp-stand-title">Study: Covid Vaccines May “Sensitize Vaccine Recipients To More Severe Disease”</h2>
+<p>Is the covid vaccine extremely safe and effective as the mainstream claims? Many would argue that it’s not as safe...</p>
+</div>
+</div>
+</div>
+</div>
+</a>
+<a href="https://www.collective-evolution.com/2021/03/21/worlds-pre-eminent-infectious-disease-epidemiologist-explains-how-lockdowns-dont-protect-anyone/" rel="bookmark">
+<div class="mvp-flex-story left relative mvp-flex-col mvp-flex-col-noad">
+<div class="mvp-flex-story-out right relative">
+<div class="mvp-flex-story-img left relative">
+<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/llock-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/llock-400x240.jpg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/llock-1000x600.jpg 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/llock-590x354.jpg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/llock-80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/llock-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/llock-150x150.jpg 150w" width="80"> </img></img></div>
 <div class="mvp-flex-story-in">
 <div class="mvp-flex-story-text left relative">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">5 days ago</span>
 </div>
-<h2 class="mvp-stand-title">Another Epidemiologist Calls Out Facebook “Fact-Checkers” &amp; Calls It A “Scam”</h2>
-<p>Like 9/11, covid has served as a catalyst for a large shift in human consciousness. It’s served as a trigger...</p>
+<h2 class="mvp-stand-title">World’s Pre-Eminent Infectious Disease Epidemiologist Explains How Lockdowns Don’t Protect Anyone</h2>
+<p>It’s quite odd how so many of the world’s leading scientists have collectively opposed lockdown measures and presented data in...</p>
 </div>
 </div>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/11/biden-searches-for-monsters-abroad-continues-trump-policies-in-syria/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/18/they-are-scientists-exploring-new-worlds-american-indian-shares-encounter-with-star-people/" rel="bookmark">
 <div class="mvp-flex-story left relative mvp-flex-col mvp-flex-col-noad">
 <div class="mvp-flex-story-out right relative">
 <div class="mvp-flex-story-img left relative">
-<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/biden-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/biden-400x240.jpg 400w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/biden-1000x600.jpg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/biden-590x354.jpg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/biden-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/biden-80x80.jpg 80w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/biden-150x150.jpg 150w" width="80"> </img></img></div>
-<div class="mvp-flex-story-in">
-<div class="mvp-flex-story-text left relative">
-<div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">6 days ago</span>
-</div>
-<h2 class="mvp-stand-title">Biden Searches for Monsters Abroad; Continues Trump Policies In Syria</h2>
-<p>On January 2, 2020 – while former President Donald J. Trump was vacationing on his estate in Palm Beach, Florida ...</p>
-</div>
-</div>
-</div>
-</div>
-</a>
-<a href="https://www.collective-evolution.com/2021/03/09/scientists-observe-potential-paranormal-connection-between-twins/" rel="bookmark">
-<div class="mvp-flex-story left relative mvp-flex-col mvp-flex-col-noad">
-<div class="mvp-flex-story-out right relative">
-<div class="mvp-flex-story-img left relative">
-<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/image-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/image-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/image-1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/image-590x354.jpg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/image-80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/image-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/image-150x150.jpg 150w" width="80"> </img></img></div>
+<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/STAR--400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/STAR--400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/STAR--1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/STAR--590x354.jpg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/STAR--80x80.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/STAR--80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/STAR--150x150.jpg 150w" width="80"> </img></img></div>
 <div class="mvp-flex-story-in">
 <div class="mvp-flex-story-text left relative">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">1 week ago</span>
 </div>
-<h2 class="mvp-stand-title">Scientists Observe A ‘Paranormal Connection’ Between Twins</h2>
-<p>Quantum entanglement has been observed, and it’s extremely fascinating, so much so that Einstein Called it “spooky action at a...</p>
+<h2 class="mvp-stand-title">“They Are Scientists Exploring New Worlds” – American Indian Shares His Encounter With “Star People”</h2>
+<p>Stories of the Star People are well documented in Native Canadian and Native American lore, and in this article I...</p>
 </div>
 </div>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/08/leading-academic-quits-after-showing-no-children-died-from-first-wave-of-pandemic-in-sweden/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/17/intelligence-agencies-soon-to-release-what-they-know-about-ufos-to-the-public-so-they-say/" rel="bookmark">
 <div class="mvp-flex-story left relative mvp-flex-col mvp-flex-col-noad">
 <div class="mvp-flex-story-out right relative">
 <div class="mvp-flex-story-img left relative">
-<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/swedish-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/swedish-400x240.jpg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/swedish-1000x600.jpg 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/swedish-590x354.jpg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/swedish-80x80.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/swedish-80x80.jpg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/swedish-150x150.jpg 150w" width="80"> </img></img></div>
+<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/UFO-400x240.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/UFO-400x240.jpg 400w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/UFO-1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/UFO-590x354.jpg 590w" width="400"> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/03/UFO-80x80.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/03/UFO-80x80.jpg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/UFO-150x150.jpg 150w" width="80"> </img></img></div>
 <div class="mvp-flex-story-in">
 <div class="mvp-flex-story-text left relative">
 <div class="mvp-cat-date-wrap left relative">
 <span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">1 week ago</span>
 </div>
-<h2 class="mvp-stand-title">Leading Academic Quits After Showing No School Children Died During The “First Wave” In Sweden</h2>
-<p>What Happened: A letter to the editor published in the New England Journal of Medicine titled “Open Schools, Covid-19, and Child and Teacher Morbidity...</p>
+<h2 class="mvp-stand-title">Intelligence Agencies Will Release What They Know About UFOs This Summer – So They Say</h2>
+<p>What Happened: At the end of December last year, Donald Trump signed into law a spending bill allocating $1.4 trillion in...</p>
 </div>
 </div>
 </div>
 </div>
 </a>
-<a href="https://www.collective-evolution.com/2021/03/05/worlds-ten-richest-people-see-wealth-increase-by-half-a-trillion-dollars-since-beginning-of-covid/" rel="bookmark">
+<a href="https://www.collective-evolution.com/2021/03/16/paradigm-shifting-ufo-tech-that-alters-space-time-is-operable-u-s-navy-chief-tech-officer/" rel="bookmark">
 <div class="mvp-flex-story left relative mvp-flex-col mvp-flex-col-noad">
 <div class="mvp-flex-story-out right relative">
 <div class="mvp-flex-story-img left relative">
-<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/bezos-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/bezos-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/bezos-1000x600.jpg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/bezos-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/bezos-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/bezos-80x80.jpg 80w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/bezos-150x150.jpg 150w" width="80"/> </div>
+<img alt="" class="mvp-reg-img wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/03/UFO-patent-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/03/UFO-patent-400x240.jpg 400w, https://cdn2.collective-evolution.com/assets/uploads/2021/03/UFO-patent-1000x600.jpg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2021/03/UFO-patent-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/03/UFO-patent-80x80.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/03/UFO-patent-80x80.jpg 80w, https://cdn3.collective-evolution.com/assets/uploads/2021/03/UFO-patent-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-flex-story-in">
 <div class="mvp-flex-story-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">2 weeks ago</span>
+<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">1 week ago</span>
 </div>
-<h2 class="mvp-stand-title">World’s Ten Richest People See Wealth Increase By Half A Trillion Dollars Since Beginning of COVID</h2>
-<p>A recent report by Oxfam shows that “the world’s ten richest men have seen their combined wealth increase by half...</p>
+<h2 class="mvp-stand-title">Paradigm-Shifting ‘UFO’ Tech That Alters Space-Time Is “Operable” – U.S. Navy Chief Tech Officer</h2>
+<p>(Follow me on Instagram here) I was recently scrolling through the twitter feed of Christopher Mellon, the former Deputy Assistant...</p>
 </div>
 </div>
 </div>
@@ -982,7 +982,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="mvp-widget-dark-feat-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-date no-pseudo left relative">1 month ago</span>
+<span class="mvp-cd-date no-pseudo left relative">2 months ago</span>
 </div>
 <h2>Exogenesis: Were Humans Made By ETs? | Bruce Fenton</h2>
 </div>
@@ -1080,7 +1080,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/02/shutterstock_1689139108-400x240.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/02/shutterstock_1689139108-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/02/shutterstock_1689139108-1000x600.jpg 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/02/shutterstock_1689139108-590x354.jpg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/02/shutterstock_1689139108-80x80.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/02/shutterstock_1689139108-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2021/02/shutterstock_1689139108-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Essay</span><span class="mvp-cd-date left relative">1 month ago</span>
+<span class="mvp-cd-cat left relative">Essay</span><span class="mvp-cd-date left relative">2 months ago</span>
 </div>
 <h2>Scientists Explain The Catastrophic Impact of Covid Forced Societal Lockdowns</h2>
 </div>
@@ -1092,7 +1092,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2020/11/conspirituality-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2020/11/conspirituality-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2020/11/conspirituality-300x180.jpg 300w, https://cdn3.collective-evolution.com/assets/uploads/2020/11/conspirituality-768x461.jpg 768w, https://cdn3.collective-evolution.com/assets/uploads/2020/11/conspirituality-590x354.jpg 590w, https://cdn2.collective-evolution.com/assets/uploads/2020/11/conspirituality-610x366.jpg 610w, https://cdn2.collective-evolution.com/assets/uploads/2020/11/conspirituality.jpg 1000w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2020/11/conspirituality-80x80.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2020/11/conspirituality-80x80.jpg 80w, https://cdn2.collective-evolution.com/assets/uploads/2020/11/conspirituality-150x150.jpg 150w" width="80"/> </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Essay</span><span class="mvp-cd-date left relative">3 months ago</span>
+<span class="mvp-cd-cat left relative">Essay</span><span class="mvp-cd-date left relative">4 months ago</span>
 </div>
 <h2>The Conspirituality Podcast: Clear Signal or More Noise?</h2>
 </div>
@@ -1104,7 +1104,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <img alt="" class="mvp-reg-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2020/11/grest-set-klaus-400x240.jpeg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2020/11/grest-set-klaus-400x240.jpeg 400w, https://cdn3.collective-evolution.com/assets/uploads/2020/11/grest-set-klaus-1000x600.jpeg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2020/11/grest-set-klaus-590x354.jpeg 590w" width="400"/> <img alt="" class="mvp-mob-img lazy wp-post-image" height="80" sizes="(max-width: 80px) 100vw, 80px" src="https://cdn3.collective-evolution.com/assets/uploads/2020/11/grest-set-klaus-80x80.jpeg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2020/11/grest-set-klaus-80x80.jpeg 80w, https://cdn2.collective-evolution.com/assets/uploads/2020/11/grest-set-klaus-150x150.jpeg 150w" width="80"/> </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Essay</span><span class="mvp-cd-date left relative">4 months ago</span>
+<span class="mvp-cd-cat left relative">Essay</span><span class="mvp-cd-date left relative">5 months ago</span>
 </div>
 <h2>COVID-19: A Precursor To A ‘New World Order?’ aka “The Great Reset”</h2>
 </div>
@@ -1127,37 +1127,37 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div></section><section class="mvp-widget-home left relative ce_home_instagram_widget" id="ce_home_instagram_widget-2"><div class="mvp-main-box"><div class="mvp-widget-home-head"><h4 class="mvp-widget-home-title"><span class="mvp-widget-home-title">CE On Instagram</span></h4></div>
 <div class="mvp-widget-feat1-wrap left relative">
 <div class="mvp-widget-feat1-cont left relative">
-<a href="https://www.instagram.com/p/CMdTMAfjwJ4/" rel="bookmark">
+<a href="https://www.instagram.com/p/CM5Cu2uhL2A/" rel="bookmark">
 <div class="mvp-widget-feat1-bot-story left relative">
 <div class="mvp-widget-feat1-bot-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" src="https://scontent-ams4-1.cdninstagram.com/v/t51.29350-15/160911654_448507723149265_6950519023267726272_n.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=8ae9d6&amp;_nc_ohc=C5B1aGNinVAAX-QvUfO&amp;_nc_oc=AQkCVoy9dIYsT_P6mrjDdGB-AIpQPX4CQ9P90subaL1Bu18FOXyqXXZ3X7We3VZjWgU&amp;_nc_ht=scontent-ams4-1.cdninstagram.com&amp;oh=dc5bc0097d99d5b148d84d4fc6878fd0&amp;oe=607920F9" width="360"/>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/165274807_3674230899361459_4845980494119832969_n.jpg?_nc_cat=108&amp;ccb=1-3&amp;_nc_sid=8ae9d6&amp;_nc_ohc=3YjuY4RNyEcAX8njhBu&amp;_nc_ht=scontent-ams4-1.cdninstagram.com&amp;oh=cb60f6fc0a83005ef0dc74d31d11c896&amp;oe=6084FC00" width="360"/>
 </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 </div>
 </div>
 </a>
-<a href="https://www.instagram.com/p/CMSNCVPnl-b/" rel="bookmark">
+<a href="https://www.instagram.com/p/CM3AHCGHIEq/" rel="bookmark">
 <div class="mvp-widget-feat1-bot-story left relative">
 <div class="mvp-widget-feat1-bot-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/159906905_442040503776354_581385067554478780_n.jpg?_nc_cat=110&amp;ccb=1-3&amp;_nc_sid=8ae9d6&amp;_nc_ohc=T9FkhDnF7X4AX8eUyEI&amp;_nc_ht=scontent-ams4-1.cdninstagram.com&amp;oh=1f580c97e20144f4d642d2ea8fba4685&amp;oe=607786BF" width="360"/>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/164896072_1345103099222504_6306405824159976645_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=8ae9d6&amp;_nc_ohc=dLCXmX6mAcEAX-1mVhn&amp;_nc_ht=scontent-ams4-1.cdninstagram.com&amp;oh=501af978ec7c86dd6589d5deb22fc606&amp;oe=60849998" width="360"/>
 </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 </div>
 </div>
 </a>
-<a href="https://www.instagram.com/p/CMQfBoLMeye/" rel="bookmark">
+<a href="https://www.instagram.com/p/CMz5Kz1piMS/" rel="bookmark">
 <div class="mvp-widget-feat1-bot-story left relative">
 <div class="mvp-widget-feat1-bot-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/158699735_452990429460053_1743401855051294603_n.jpg?_nc_cat=111&amp;ccb=1-3&amp;_nc_sid=8ae9d6&amp;_nc_ohc=21WduZELvb4AX-Po2sG&amp;_nc_ht=scontent-ams4-1.cdninstagram.com&amp;oh=c50fa13a39fd8093850ae8d999615b0c&amp;oe=60771292" width="360"/>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/164153684_5280640708673971_5747538957597869446_n.jpg?_nc_cat=100&amp;ccb=1-3&amp;_nc_sid=8ae9d6&amp;_nc_ohc=F1B3LGRkBJ0AX8Sb5Q8&amp;_nc_ht=scontent-ams4-1.cdninstagram.com&amp;oh=34b1a565f96913a0f9e8bb382921e17e&amp;oe=608318B2" width="360"/>
 </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 </div>
 </div>
 </a>
-<a href="https://www.instagram.com/p/CMP8oO2hng1/" rel="bookmark">
+<a href="https://www.instagram.com/p/CMw4vTZr6wO/" rel="bookmark">
 <div class="mvp-widget-feat1-bot-story left relative">
 <div class="mvp-widget-feat1-bot-img left relative">
-<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/158423214_906788180079632_4193383374324463853_n.jpg?_nc_cat=107&amp;ccb=1-3&amp;_nc_sid=8ae9d6&amp;_nc_ohc=K7p-oNv3S8cAX-KuNlV&amp;_nc_ht=scontent-ams4-1.cdninstagram.com&amp;oh=e9b0ec3d0340c8b232b545ffb4e0e9a7&amp;oe=6077FFF3" width="360"/>
+<img alt="" class="mvp-reg-img lazy wp-post-image" height="240" src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/164282022_447159383166774_4123608371108077824_n.jpg?_nc_cat=101&amp;ccb=1-3&amp;_nc_sid=8ae9d6&amp;_nc_ohc=PxJaGC1gwssAX-HM6kR&amp;_nc_ht=scontent-ams4-1.cdninstagram.com&amp;oh=294a87d2f5000cc282ac2fe1f7803147&amp;oe=60827445" width="360"/>
 </div>
 <div class="mvp-widget-feat1-bot-text left relative">
 </div>
@@ -1174,7 +1174,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <img alt="" class="mvp-reg-img lazy wp-post-image" height="354" sizes="(max-width: 590px) 100vw, 590px" src="https://cdn2.collective-evolution.com/assets/uploads/2021/02/ufo-1614274537-590x354.jpg" srcset="https://cdn2.collective-evolution.com/assets/uploads/2021/02/ufo-1614274537-590x354.jpg 590w, https://cdn3.collective-evolution.com/assets/uploads/2021/02/ufo-1614274537-1000x600.jpg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2021/02/ufo-1614274537-400x240.jpg 400w" width="590"> <img alt="" class="mvp-mob-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/02/ufo-1614274537-400x240.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/02/ufo-1614274537-400x240.jpg 400w, https://cdn3.collective-evolution.com/assets/uploads/2021/02/ufo-1614274537-1000x600.jpg 1000w, https://cdn2.collective-evolution.com/assets/uploads/2021/02/ufo-1614274537-590x354.jpg 590w" width="400"> </img></img></div>
 <div class="mvp-widget-feat1-top-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">3 weeks ago</span>
+<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">4 weeks ago</span>
 </div>
 <h2>FBI Confirms Report of “Cylindrical” UFO “Moving Really Fast” Over New Mexico</h2>
 </div>
@@ -1186,7 +1186,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <img alt="" class="mvp-reg-img lazy wp-post-image" height="354" sizes="(max-width: 590px) 100vw, 590px" src="https://cdn1.collective-evolution.com/assets/uploads/2021/02/DNA-590x354.jpg" srcset="https://cdn1.collective-evolution.com/assets/uploads/2021/02/DNA-590x354.jpg 590w, https://cdn1.collective-evolution.com/assets/uploads/2021/02/DNA-1000x600.jpg 1000w, https://cdn3.collective-evolution.com/assets/uploads/2021/02/DNA-400x240.jpg 400w" width="590"> <img alt="" class="mvp-mob-img lazy wp-post-image" height="240" sizes="(max-width: 400px) 100vw, 400px" src="https://cdn3.collective-evolution.com/assets/uploads/2021/02/DNA-400x240.jpg" srcset="https://cdn3.collective-evolution.com/assets/uploads/2021/02/DNA-400x240.jpg 400w, https://cdn1.collective-evolution.com/assets/uploads/2021/02/DNA-1000x600.jpg 1000w, https://cdn1.collective-evolution.com/assets/uploads/2021/02/DNA-590x354.jpg 590w" width="400"> </img></img></div>
 <div class="mvp-widget-feat1-top-text left relative">
 <div class="mvp-cat-date-wrap left relative">
-<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">3 weeks ago</span>
+<span class="mvp-cd-cat left relative">Alternative News</span><span class="mvp-cd-date left relative">1 month ago</span>
 </div>
 <h2>Exogenesis: Were Humans Made By Extraterrestrials?</h2>
 </div>
@@ -1240,21 +1240,385 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="mvp-fly-fade mvp-fly-but-click">
 </div>
 <div data-theiastickysidebar-options='{"containerSelector":"","additionalMarginTop":120,"additionalMarginBottom":20,"updateSidebarHeight":false,"minWidth":1004,"sidebarBehavior":"modern","disableOnResponsiveLayouts":true}' data-theiastickysidebar-sidebarselector='"#mvp-side-wrap,.mvp-feat1-right-wrap,.mvp-post-soc-wrap,.mvp-flex-side-wrap"'></div>
-<div class="et_bloom_popup et_bloom_optin et_bloom_resize et_bloom_optin_23 et_bloom_auto_popup et_bloom_trigger_bottom et_bloom_auto_close" data-cookie_duration="3" data-delay="20">
-<div class="et_bloom_form_container et_bloom_popup_container et_bloom_form_bottom with_edge carrot_edge et_bloom_rounded et_bloom_form_text_dark et_bloom_animation_slideup">
+<div class="et_bloom_popup et_bloom_optin et_bloom_resize et_bloom_optin_19 et_bloom_auto_popup et_bloom_trigger_bottom" data-cookie_duration="5" data-delay="20">
+<div class="et_bloom_form_container et_bloom_popup_container et_bloom_form_bottom et_bloom_rounded et_bloom_form_text_dark et_bloom_animation_fadein">
 <div class="et_bloom_form_container_wrapper clearfix">
 <div class="et_bloom_header_outer">
-<div class="et_bloom_form_header et_bloom_header_text_dark">
-<img alt="" class="et_bloom_image_slideup et_bloom_image" height="205" src="https://cdn1.collective-evolution.com/assets/uploads/2020/09/teleg-2.png" width="190"/>
-<div class="et_bloom_form_text">
-<h2 style="text-align: center;">Due to censorship, please join us on Telegram</h2><p style="text-align: center;">We post important content to Telegram daily so we don't have to rely on Facebook.</p>
+<div class="et_bloom_form_header et_bloom_header_text_light">
+</div>
+</div>
+<div class="et_bloom_form_content et_bloom_1_field et_bloom_custom_html_form" data-account="custom_form" data-list_id="custom_form" data-optin_id="optin_19" data-page_id="-1" data-service="custom_form">
+<form action="https://collectiveevolutionmedia.activehosted.com/proc.php" class="_form _form_13 _inline-form _dark" id="_form_13_" method="POST" novalidate="">
+<input name="u" type="hidden" value="13"/>
+<input name="f" type="hidden" value="13"/>
+<input name="s" type="hidden"/>
+<input name="c" type="hidden" value="0"/>
+<input name="m" type="hidden" value="0"/>
+<input name="act" type="hidden" value="sub"/>
+<input name="v" type="hidden" value="2"/>
+<div class="_form-content">
+<img src="https://cdn2.collective-evolution.com/assets/uploads/2020/02/CE_insight-logo-300x73.png"/>
+<h1>Elevate your inbox and get conscious articles sent directly to your inbox!</h1>
+<h3>Choose your topics of interest below:</h3>
+<div class="_form_element _x34687234 _full_width">
+<input name="ls" type="hidden" value="1"/>
+<div class="_row row">
+<div class="column">
+<label class="container">News
+<input name="nlbox[]" type="checkbox" value="52"/>
+<span class="checkmark"></span>
+</label>
+<label class="container">Disclosure
+<input name="nlbox[]" type="checkbox" value="53"/>
+<span class="checkmark"></span>
+</label>
+</div>
+<div class="column">
+<label class="container">Consciousness
+<input class="any" name="nlbox[]" required="" type="checkbox" value="50"/>
+<span class="checkmark"></span>
+</label>
+<label class="container">Health
+<input name="nlbox[]" type="checkbox" value="51"/>
+<span class="checkmark"></span>
+</label>
 </div>
 </div>
 </div>
-<div class="et_bloom_form_content et_bloom_1_field et_bloom_bottom_stacked et_bloom_custom_html_form" data-account="custom_form" data-list_id="custom_form" data-optin_id="optin_23" data-page_id="-1" data-service="custom_form">
-<form>
-<input onclick="window.location.href='http://t.me/collectiveevolution'" style="width: 80%; margin: 0 auto; cursor: pointer; font-weight: bold; background: #27aae1; color: #ffffff; border-radius: 10px; border: 1px solid #999; font-size: 15px;" type="button" value="Join Now"/>
-</form>
+<div class="_form_element _x67819861 _full_width">
+<label class="_form-label">
+</label>
+<div class="_field-wrapper">
+<input name="fullname" placeholder="Type your name" type="text">
+</input></div>
+</div>
+<div class="_form_element _x87311537 _full_width">
+<label class="_form-label">
+</label>
+<div class="_field-wrapper">
+<input name="email" placeholder="Type your email" required="" type="text">
+</input></div>
+</div>
+<div class="_button-wrapper _full_width">
+<button class="_submit" id="_form_13_submit" type="submit">
+Subscribe Now
+</button>
+</div>
+<div class="_clear-element">
+</div>
+</div>
+<div class="_form-thank-you" style="display:none;">
+</div>
+</form><script type="text/javascript">
+window.cfields = [];
+window._show_thank_you = function(id, message, trackcmp_url) {
+  var form = document.getElementById('_form_' + id + '_'), thank_you = form.querySelector('._form-thank-you');
+  form.querySelector('._form-content').style.display = 'none';
+  thank_you.innerHTML = message;
+  thank_you.style.display = 'block';
+  if (typeof(trackcmp_url) != 'undefined' && trackcmp_url) {
+    // Site tracking URL to use after inline form submission.
+    _load_script(trackcmp_url);
+  }
+  if (typeof window._form_callback !== 'undefined') window._form_callback(id);
+};
+window._show_error = function(id, message, html) {
+  var form = document.getElementById('_form_' + id + '_'), err = document.createElement('div'), button = form.querySelector('button'), old_error = form.querySelector('._form_error');
+  if (old_error) old_error.parentNode.removeChild(old_error);
+  err.innerHTML = message;
+  err.className = '_error-inner _form_error _no_arrow';
+  var wrapper = document.createElement('div');
+  wrapper.className = '_form-inner';
+  wrapper.appendChild(err);
+  button.parentNode.insertBefore(wrapper, button);
+  document.querySelector('[id^="_form"][id$="_submit"]').disabled = false;
+  if (html) {
+    var div = document.createElement('div');
+    div.className = '_error-html';
+    div.innerHTML = html;
+    err.appendChild(div);
+  }
+};
+window._load_script = function(url, callback) {
+    var head = document.querySelector('head'), script = document.createElement('script'), r = false;
+    script.type = 'text/javascript';
+    script.charset = 'utf-8';
+    script.src = url;
+    if (callback) {
+      script.onload = script.onreadystatechange = function() {
+      if (!r && (!this.readyState || this.readyState == 'complete')) {
+        r = true;
+        callback();
+        }
+      };
+    }
+    head.appendChild(script);
+};
+(function() {
+  if (window.location.search.search("excludeform") !== -1) return false;
+  var getCookie = function(name) {
+    var match = document.cookie.match(new RegExp('(^|; )' + name + '=([^;]+)'));
+    return match ? match[2] : null;
+  }
+  var setCookie = function(name, value) {
+    var now = new Date();
+    var time = now.getTime();
+    var expireTime = time + 1000 * 60 * 60 * 24 * 365;
+    now.setTime(expireTime);
+    document.cookie = name + '=' + value + '; expires=' + now + ';path=/';
+  }
+      var addEvent = function(element, event, func) {
+    if (element.addEventListener) {
+      element.addEventListener(event, func);
+    } else {
+      var oldFunc = element['on' + event];
+      element['on' + event] = function() {
+        oldFunc.apply(this, arguments);
+        func.apply(this, arguments);
+      };
+    }
+  }
+  var _removed = false;
+  var form_to_submit = document.getElementById('_form_13_');
+  var allInputs = form_to_submit.querySelectorAll('input, select, textarea'), tooltips = [], submitted = false;
+
+  var getUrlParam = function(name) {
+    var regexStr = '[?&]' + name + '=([^&#]*)';
+    var results = new RegExp(regexStr, 'i').exec(window.location.href);
+    return results != undefined ? decodeURIComponent(results[1]) : false;
+  };
+
+  for (var i = 0; i < allInputs.length; i++) {
+    var regexStr = "field[(d+)]";
+    var results = new RegExp(regexStr).exec(allInputs[i].name);
+    if (results != undefined) {
+      allInputs[i].dataset.name = window.cfields[results[1]];
+    } else {
+      allInputs[i].dataset.name = allInputs[i].name;
+    }
+    var fieldVal = getUrlParam(allInputs[i].dataset.name);
+
+    if (fieldVal) {
+      if (allInputs[i].type == "radio" || allInputs[i].type == "checkbox") {
+        if (allInputs[i].value == fieldVal) {
+          allInputs[i].checked = true;
+        }
+      } else {
+        allInputs[i].value = fieldVal;
+      }
+    }
+  }
+
+  var remove_tooltips = function() {
+    for (var i = 0; i < tooltips.length; i++) {
+      tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
+    }
+      tooltips = [];
+  };
+  var remove_tooltip = function(elem) {
+    for (var i = 0; i < tooltips.length; i++) {
+      if (tooltips[i].elem === elem) {
+        tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
+        tooltips.splice(i, 1);
+        return;
+      }
+    }
+  };
+  var create_tooltip = function(elem, text) {
+    var tooltip = document.createElement('div'), arrow = document.createElement('div'), inner = document.createElement('div'), new_tooltip = {};
+    if (elem.type != 'radio' && elem.type != 'checkbox') {
+      tooltip.className = '_error';
+      arrow.className = '_error-arrow';
+      inner.className = '_error-inner';
+      inner.innerHTML = text;
+      tooltip.appendChild(arrow);
+      tooltip.appendChild(inner);
+      elem.parentNode.appendChild(tooltip);
+    } else {
+      tooltip.className = '_error-inner _no_arrow';
+      tooltip.innerHTML = text;
+      elem.parentNode.insertBefore(tooltip, elem);
+      new_tooltip.no_arrow = true;
+    }
+    new_tooltip.tip = tooltip;
+    new_tooltip.elem = elem;
+    tooltips.push(new_tooltip);
+    return new_tooltip;
+  };
+  var resize_tooltip = function(tooltip) {
+    var rect = tooltip.elem.getBoundingClientRect();
+    var doc = document.documentElement, scrollPosition = rect.top - ((window.pageYOffset || doc.scrollTop)  - (doc.clientTop || 0));
+    if (scrollPosition < 40) {
+      tooltip.tip.className = tooltip.tip.className.replace(/ ?(_above|_below) ?/g, '') + ' _below';
+    } else {
+      tooltip.tip.className = tooltip.tip.className.replace(/ ?(_above|_below) ?/g, '') + ' _above';
+    }
+  };
+  var resize_tooltips = function() {
+    if (_removed) return;
+    for (var i = 0; i < tooltips.length; i++) {
+      if (!tooltips[i].no_arrow) resize_tooltip(tooltips[i]);
+    }
+  };
+  var validate_field = function(elem, remove) {
+    var tooltip = null, value = elem.value, no_error = true;
+    remove ? remove_tooltip(elem) : false;
+    if (elem.type != 'checkbox') elem.className = elem.className.replace(/ ?_has_error ?/g, '');
+    if (elem.getAttribute('required') !== null) {
+      if (elem.type == 'radio' || (elem.type == 'checkbox' && /any/.test(elem.className))) {
+        var elems = form_to_submit.elements[elem.name];
+        if (!(elems instanceof NodeList || elems instanceof HTMLCollection) || elems.length <= 1) {
+          no_error = elem.checked;
+        }
+        else {
+          no_error = false;
+          for (var i = 0; i < elems.length; i++) {
+            if (elems[i].checked) no_error = true;
+          }
+        }
+        if (!no_error) {
+          tooltip = create_tooltip(elem, "Please select an option.");
+        }
+      } else if (elem.type =='checkbox') {
+        var elems = form_to_submit.elements[elem.name], found = false, err = [];
+        no_error = true;
+        for (var i = 0; i < elems.length; i++) {
+          if (elems[i].getAttribute('required') === null) continue;
+          if (!found && elems[i] !== elem) return true;
+          found = true;
+          elems[i].className = elems[i].className.replace(/ ?_has_error ?/g, '');
+          if (!elems[i].checked) {
+            no_error = false;
+            elems[i].className = elems[i].className + ' _has_error';
+            err.push("Checking %s is required".replace("%s", elems[i].value));
+          }
+        }
+        if (!no_error) {
+          tooltip = create_tooltip(elem, err.join('<br/>'));
+        }
+      } else if (elem.tagName == 'SELECT') {
+        var selected = true;
+        if (elem.multiple) {
+          selected = false;
+          for (var i = 0; i < elem.options.length; i++) {
+            if (elem.options[i].selected) {
+              selected = true;
+              break;
+            }
+          }
+        } else {
+          for (var i = 0; i < elem.options.length; i++) {
+            if (elem.options[i].selected && !elem.options[i].value) {
+              selected = false;
+            }
+          }
+        }
+        if (!selected) {
+          elem.className = elem.className + ' _has_error';
+          no_error = false;
+          tooltip = create_tooltip(elem, "Please select an option.");
+        }
+      } else if (value === undefined || value === null || value === '') {
+        elem.className = elem.className + ' _has_error';
+        no_error = false;
+        tooltip = create_tooltip(elem, "This field is required.");
+      }
+    }
+    if (no_error && elem.name == 'email') {
+      if (!value.match(/^[+_a-z0-9-'&=]+(.[+_a-z0-9-']+)*@[a-z0-9-]+(.[a-z0-9-]+)*(.[a-z]{2,})$/i)) {
+        elem.className = elem.className + ' _has_error';
+        no_error = false;
+        tooltip = create_tooltip(elem, "Enter a valid email address.");
+      }
+    }
+    if (no_error && /date_field/.test(elem.className)) {
+      if (!value.match(/^dddd-dd-dd$/)) {
+        elem.className = elem.className + ' _has_error';
+        no_error = false;
+        tooltip = create_tooltip(elem, "Enter a valid date.");
+      }
+    }
+    tooltip ? resize_tooltip(tooltip) : false;
+    return no_error;
+  };
+  var needs_validate = function(el) {
+    return el.name == 'email' || el.getAttribute('required') !== null;
+  };
+  var validate_form = function(e) {
+    var err = form_to_submit.querySelector('._form_error'), no_error = true;
+    if (!submitted) {
+      submitted = true;
+      for (var i = 0, len = allInputs.length; i < len; i++) {
+        var input = allInputs[i];
+        if (needs_validate(input)) {
+          if (input.type == 'text') {
+            addEvent(input, 'blur', function() {
+              this.value = this.value.trim();
+              validate_field(this, true);
+            });
+            addEvent(input, 'input', function() {
+              validate_field(this, true);
+            });
+          } else if (input.type == 'radio' || input.type == 'checkbox') {
+            (function(el) {
+              var radios = form_to_submit.elements[el.name];
+              for (var i = 0; i < radios.length; i++) {
+                addEvent(radios[i], 'click', function() {
+                  validate_field(el, true);
+                });
+              }
+            })(input);
+          } else if (input.tagName == 'SELECT') {
+            addEvent(input, 'change', function() {
+              validate_field(this, true);
+            });
+          } else if (input.type == 'textarea'){
+            addEvent(input, 'input', function() {
+              validate_field(this, true);
+            });
+          }
+        }
+      }
+    }
+    remove_tooltips();
+    for (var i = 0, len = allInputs.length; i < len; i++) {
+      var elem = allInputs[i];
+      if (needs_validate(elem)) {
+        if (elem.tagName.toLowerCase() !== "select") {
+          elem.value = elem.value.trim();
+        }
+        validate_field(elem) ? true : no_error = false;
+      }
+    }
+    if (!no_error && e) {
+      e.preventDefault();
+    }
+    resize_tooltips();
+    return no_error;
+  };
+  addEvent(window, 'resize', resize_tooltips);
+  addEvent(window, 'scroll', resize_tooltips);
+  window._old_serialize = null;
+  if (typeof serialize !== 'undefined') window._old_serialize = window.serialize;
+  _load_script("//d3rxaij56vjege.cloudfront.net/form-serialize/0.3/serialize.min.js", function() {
+    window._form_serialize = window.serialize;
+    if (window._old_serialize) window.serialize = window._old_serialize;
+  });
+  var form_submit = function(e) {
+    e.preventDefault();
+    if (validate_form()) {
+      // use this trick to get the submit button & disable it using plain javascript
+      document.querySelector('#_form_13_submit').disabled = true;
+            var serialized = _form_serialize(document.getElementById('_form_13_'));
+      var err = form_to_submit.querySelector('._form_error');
+      err ? err.parentNode.removeChild(err) : false;
+      _load_script('https://collectiveevolutionmedia.activehosted.com/proc.php?' + serialized + '&jsonp=true');
+    }
+    return false;
+  };
+  addEvent(form_to_submit, 'submit', form_submit);
+})();
+</script>
 <div class="et_bloom_success_container">
 <span class="et_bloom_success_checkmark"></span>
 </div>
@@ -1267,7 +1631,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" id="et-gf-open-sans-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.collective-evolution.com/assets/plugins/bloom/css/style.css?ver=1.2.22" id="et_bloom-css-css" media="all" rel="stylesheet" type="text/css"/>
-<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202111" type="text/javascript"></script>
+<script src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202112" type="text/javascript"></script>
 <script src="https://www.collective-evolution.com/assets/plugins/theia-sticky-sidebar/js/ResizeSensor.js?ver=1.7.0" type="text/javascript"></script>
 <script src="https://www.collective-evolution.com/assets/plugins/theia-sticky-sidebar/js/theia-sticky-sidebar.js?ver=1.7.0" type="text/javascript"></script>
 <script src="https://www.collective-evolution.com/assets/plugins/theia-sticky-sidebar/js/main.js?ver=1.7.0" type="text/javascript"></script>
@@ -1393,16 +1757,16 @@ var WPGroHo = {"my_hash":""};
 <script src="https://www.collective-evolution.com/assets/plugins/bloom/js/jquery.uniform.min.js?ver=1.2.22" type="text/javascript"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var bloomSettings = {"ajaxurl":"https:\/\/www.collective-evolution.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.collective-evolution.com\/","stats_nonce":"f4410bc7fa","subscribe_nonce":"3e3a13de25","is_user_logged_in":"not_logged"};
+var bloomSettings = {"ajaxurl":"https:\/\/www.collective-evolution.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/www.collective-evolution.com\/","stats_nonce":"c0ac2f91ef","subscribe_nonce":"59014b17ef","is_user_logged_in":"not_logged"};
 /* ]]> */
 </script>
 <script src="https://www.collective-evolution.com/assets/plugins/bloom/js/custom.js?ver=1.2.22" type="text/javascript"></script>
 <script src="https://www.collective-evolution.com/assets/plugins/bloom/js/idle-timer.min.js?ver=1.2.22" type="text/javascript"></script>
-<script async="async" defer="defer" src="https://stats.wp.com/e-202111.js" type="text/javascript"></script>
+<script async="async" defer="defer" src="https://stats.wp.com/e-202112.js" type="text/javascript"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:6.5.1',blog:'8769899',post:'118502',tz:'-4',srv:'www.collective-evolution.com'} ]);
 	_stq.push([ 'clickTrackerInit', '8769899', '118502' ]);
 </script>
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6313fa8a89d695c0',m:'3f8d17fddd5c04d217ad2c1bbba9b15ef728a5f1-1615960593-1800-AQWSXOSffs1KABRoppgl6+tZL8m3Cupxr+iS4y0IJrKs6NruDDTy8OVRuT7j1mvB9M2TH4J/YlI7INtB5I5QPepJChPNxrav3aib2avAEj37ECM1bJ5EQmODfb+0kMYb4A==',s:[0xdcf834d10d,0x459de6d8cc],}})();</script></body>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'63634ec13bc7e0e2',m:'28a499b04d55f21e9714534c39d47e4ae40cbec7-1616792417-1800-AWfEKJ0JftnkrH2e8bc91lj/v3pMdQMp2X1B6+t+p73l1mSH8D8cHGADbYjyFNalJantfsa8sh3xWxhkCbhD7g67OujhWBRAWGDzQqjDz29ZTOPi2ltQPbJkYkgXl+TOIQ==',s:[0xcf8a839e70,0x258b16169b],}})();</script></body>
 </html>

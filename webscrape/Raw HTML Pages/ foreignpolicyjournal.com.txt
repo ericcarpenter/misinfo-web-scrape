@@ -26,9 +26,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--[if lt IE 9]>
 	<script src="https://www.foreignpolicyjournal.com/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script>
 	<![endif]-->
+<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
 <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
-<!-- This site is optimized with the Yoast SEO plugin v16.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Foreign Policy Journal | News, analysis, and commentary on US policy and international affairs</title><link href="https://fonts.googleapis.com/css?family=Open%20Sans%3A400%2C700%7CMerriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&amp;subset=cyrillic%2Ccyrillic-ext%2Clatin%2Clatin-ext%2Cvietnamese%2Cgreek%2Cgreek-ext&amp;display=swap" rel="stylesheet"/><link data-minify="1" href="https://www.foreignpolicyjournal.com/wp-content/cache/min/1/d96d1439de6f67ae9b31401a01c48b47.css" media="all" rel="stylesheet"/>
+<!-- This site is optimized with the Yoast SEO plugin v16.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Foreign Policy Journal | News, analysis, and commentary on US policy and international affairs</title>
 <meta content="Analysis and perspectives on US foreign policy and international affairs from outside the narrow propagandistic framework adopted by the mainstream media." name="description"/>
 <link href="https://www.foreignpolicyjournal.com/" rel="canonical"/>
 <link href="https://www.foreignpolicyjournal.com/page/2/" rel="next"/>
@@ -45,10 +48,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta content="@ForPolJournal" name="twitter:site"/>
 <!-- / Yoast SEO plugin. -->
 <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
-<link href="//v0.wordpress.com" rel="dns-prefetch"/>
-<link href="//s0.wp.com" rel="dns-prefetch"/>
 <link href="//s.w.org" rel="dns-prefetch"/>
 <link href="//jetpack.wordpress.com" rel="dns-prefetch"/>
+<link href="//s0.wp.com" rel="dns-prefetch"/>
 <link href="//s1.wp.com" rel="dns-prefetch"/>
 <link href="//s2.wp.com" rel="dns-prefetch"/>
 <link href="//public-api.wordpress.com" rel="dns-prefetch"/>
@@ -56,9 +58,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <link href="//1.gravatar.com" rel="dns-prefetch"/>
 <link href="//2.gravatar.com" rel="dns-prefetch"/>
 <link href="//widgets.wp.com" rel="dns-prefetch"/>
-<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://www.foreignpolicyjournal.com/feed/" rel="alternate" title="Foreign Policy Journal » Feed" type="application/rss+xml"/>
 <link href="https://www.foreignpolicyjournal.com/comments/feed/" rel="alternate" title="Foreign Policy Journal » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.foreignpolicyjournal.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=cb85461c83dc8006faaf832347a7a622"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
 <meta content="Extra Child v.1.2.2" name="generator"/><style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -73,10 +78,20 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+<link href="https://www.foreignpolicyjournal.com/wp-includes/css/dist/block-library/style.min.css?ver=cb85461c83dc8006faaf832347a7a622" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
 <style id="wp-block-library-inline-css" type="text/css">
 .has-text-align-justify{text-align:justify;}
 </style>
-<script defer="" id="jquery-core-js" src="https://www.foreignpolicyjournal.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<link href="https://www.foreignpolicyjournal.com/wp-content/plugins/block-options/build/style.build.css?ver=1.29.3" id="editorskit-frontend-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.foreignpolicyjournal.com/wp-content/plugins/metronet-profile-picture/dist/blocks.style.build.css?ver=2.5.0" id="mpp_gutenberg-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.foreignpolicyjournal.com/wp-content/plugins/author-recent-posts/css/authorPostsStyle.css?ver=cb85461c83dc8006faaf832347a7a622" id="author_stylesheet-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.foreignpolicyjournal.com/wp-content/plugins/monarch/css/style.css?ver=1.4.13" id="et_monarch-css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" id="et-gf-open-sans-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.foreignpolicyjournal.com/wp-content/themes/Extra-Child/style.css?ver=4.9.2" id="extra-style-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.foreignpolicyjournal.com/wp-includes/css/dashicons.min.css?ver=cb85461c83dc8006faaf832347a7a622" id="dashicons-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.foreignpolicyjournal.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.5" id="jetpack_css-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="jquery-core-js" src="https://www.foreignpolicyjournal.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://www.foreignpolicyjournal.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
 <link href="https://www.foreignpolicyjournal.com/wp-json/" rel="https://api.w.org/"/><link href="https://www.foreignpolicyjournal.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
 <link href="https://www.foreignpolicyjournal.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
 <!-- This site is using AdRotate v5.8.17 to display their advertisements - https://ajdg.solutions/ -->
@@ -100,12 +115,17 @@ img.emoji {
 					display: none;
 				}
 			</style>
-<style id="thrive-default-styles" type="text/css"></style><link href="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/11/cropped-fpj-site-icon-32x32.jpg" rel="icon" sizes="32x32">
-<link href="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/11/cropped-fpj-site-icon-192x192.jpg" rel="icon" sizes="192x192"/>
+<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+<link href="https://www.foreignpolicyjournal.com/wp-content/uploads/fonts/css/font-awesome.min.css" rel="stylesheet"/><style id="thrive-default-styles" type="text/css"></style><link href="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/11/cropped-fpj-site-icon-32x32.jpg" rel="icon" sizes="32x32">
+<link href="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/11/cropped-fpj-site-icon-192x192.jpg" rel="icon" sizes="192x192">
 <link href="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/11/cropped-fpj-site-icon-180x180.jpg" rel="apple-touch-icon"/>
 <meta content="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/11/cropped-fpj-site-icon-270x270.jpg" name="msapplication-TileImage"/>
-<style id="et-extra-customizer-cpt-global-cached-inline-styles">@media only screen and (min-width:1025px){.with_sidebar .et_pb_extra_column_sidebar{min-width:28%;max-width:28%;width:28%;flex-basis:28%}.with_sidebar .et_pb_extra_column_main{min-width:72%;max-width:72%;width:72%;flex-basis:72%}}.widget_et_recent_tweets .widget_list a,.widget_et_recent_tweets .et-extra-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon::before,.project-details .project-details-title,.et_filterable_portfolio .filterable_portfolio_filter a.current,.et_extra_layout .et_pb_extra_column_main .et_pb_column .module-head h1,.et_pb_extra_column .module-head h1,#portfolio_filter a.current,.woocommerce div.product div.summary .product_meta a,.woocommerce-page div.product div.summary .product_meta a,.et_pb_widget.woocommerce .product_list_widget li .amount,.et_pb_widget li a:hover,.et_pb_widget.woocommerce .product_list_widget li a:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title.active,.woocommerce .woocommerce-info:before{color:#142b44}.single .score-bar,.widget_et_recent_reviews .review-breakdowns .score-bar,.et_pb_extra_module .posts-list article .post-thumbnail,.et_extra_other_module .posts-list article .post-thumbnail,.et_pb_widget .widget_list_portrait,.et_pb_widget .widget_list_thumbnail,.quote-format,.link-format,.audio-format .audio-wrapper,.paginated .pagination li.active,.score-bar,.review-summary-score-box,.post-footer .rating-stars #rating-stars img.star-on,.post-footer .rating-stars #rated-stars img.star-on,.author-box-module .author-box-avatar,.timeline-menu li.active a:before,.woocommerce div.product form.cart .button,.woocommerce div.product form.cart .button.disabled,.woocommerce div.product form.cart .button.disabled:hover,.woocommerce-page div.product form.cart .button,.woocommerce-page div.product form.cart .button.disabled,.woocommerce-page div.product form.cart .button.disabled:hover,.woocommerce div.product form.cart .read-more-button,.woocommerce-page div.product form.cart .read-more-button,.woocommerce div.product form.cart .post-nav .nav-links .button,.woocommerce-page div.product form.cart .post-nav .nav-links .button,.woocommerce .woocommerce-message,.woocommerce-page .woocommerce-message{background-color:#142b44}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,.et-top-search-primary-menu-item .et-top-search,.et_pb_module,.module,.page article,.authors-page .page,#timeline-sticky-header,.et_extra_other_module,.woocommerce .woocommerce-info{border-color:#142b44}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-size:20px}body{font-size:18px}body,p{line-height:1.4em}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-family:'Merriweather',Georgia,"Times New Roman",serif}body{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}a,a:visited,.post-content a,.et_pb_pagebuilder_layout .et_pb_blurb_container p a,.et_pb_pagebuilder_layout .et_pb_code a,.et_pb_pagebuilder_layout .et_pb_promo_description a,.et_pb_pagebuilder_layout .et_pb_newsletter_description a,.et_pb_pagebuilder_layout .et_pb_team_member_description>a,.et_pb_pagebuilder_layout .et_pb_pricing li a,.et_pb_pagebuilder_layout .et_pb_slide_content a,.et_pb_pagebuilder_layout .et_pb_tab a,.et_pb_pagebuilder_layout .et_pb_text a,.et_pb_pagebuilder_layout .et_pb_toggle_content a,.et_pb_pagebuilder_layout .et_pb_fullwidth_code a{color:#0052a5}body{color:#333333}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:#142b44}.archive h1,.search h1{color:#142b44}#page-container{background-color:#ffffff}#et-menu li a{font-size:15px}#et-menu li{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}#et-menu>li a,#et-menu>li.menu-item-has-children>a:after,#et-menu>li.mega-menu-featured>a:after,#et-extra-mobile-menu>li.mega-menu-featured>a:after{color:#333333}#et-menu>li>a:hover,#et-menu>li.menu-item-has-children>a:hover:after,#et-menu>li.mega-menu-featured>a:hover:after,#et-navigation>ul#et-menu>li.current-menu-item>a,#et-navigation>ul#et-menu>li.current_page_item>a,#et-extra-mobile-menu>li.mega-menu-featured>a:hover:after,#et-extra-mobile-menu>li.current-menu-item>a,#et-extra-mobile-menu>li.current_page_item>a,#et-extra-mobile-menu>li>a:hover{color:#194587}#et-navigation>ul>li>a:before{background-color:#194587}#main-header{background-color:#ffffff}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,#et-mobile-navigation nav,.et-top-search-primary-menu-item .et-top-search{background-color:#142b44}#et-menu li>ul li a,#et-menu li.mega-menu>ul>li>a,#et-menu .sub-menu li.mega-menu-featured>a:after,#et-menu .sub-menu li.menu-item-has-children>a:after,#et-extra-mobile-menu .sub-menu li.mega-menu-featured>a:after,#et-extra-mobile-menu li a,#et-menu li.mega-menu-featured>ul li .title,#et-extra-mobile-menu li.mega-menu-featured>ul li .title,#et-menu li.mega-menu-featured>ul li .featured-post h2,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post h2,#et-menu li.mega-menu-featured>ul li .featured-post .post-meta a,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post .post-meta a,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a{color:#ffffff}#et-menu li>ul li a:hover,#et-extra-mobile-menu li>ul li a:hover,#et-menu li>ul li.current-menu-item a,#et-menu li>ul li.current_page_item a,#et-extra-mobile-menu li>ul li.current-menu-item a,#et-extra-mobile-menu li>ul li.current_page_item a,#et-menu li.mega-menu>ul>li>a:hover,#et-menu .sub-menu li.mega-menu-featured>a:hover:after,#et-menu .sub-menu li.menu-item-has-children>a:hover:after,#et-extra-mobile-menu .sub-menu li.mega-menu-featured>a:hover:after,#et-menu li.mega-menu-featured>ul li .featured-post .post-meta a:hover,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post .post-meta a:hover,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a:hover,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a:hover{color:#eeeeee}#et-secondary-menu li{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}#top-header{background-color:#142b44}#et-secondary-nav #et-secondary-menu{background-color:#142b44}#et-secondary-menu ul a,#et-secondary-menu li>ul li.menu-item-has-children>a:after{color:#f5f5f5}#et-secondary-menu li>ul li a:hover,#et-secondary-menu li>ul li.menu-item-has-children>a:hover:after,#et-secondary-menu li>ul li.current-menu-item a,#et-secondary-menu li>ul li.current_page_item a{color:#cccccc}#et-trending-label,.et-trending-post a{font-family:'Droid Serif',sans-serif}#et-trending-label,#et-trending-button{color:#f5f5f5}#et-trending-button span{background-color:#f5f5f5}header.header .et-trending-post a,header.header .et-trending-post a:visited{color:#f5f5f5}#et-info .et-cart span,#et-info .et-top-search .et-search-field{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}#et-info .et-cart,#et-info .et-top-search .et-search-field,#et-info .et-top-search .et-search-submit:before,#et-info .et-extra-social-icons .et-extra-icon,#et-info .et-extra-social-icons .et-extra-icon:before{color:#f5f5f5}.et-fixed-header #et-menu li a{font-size:13px}.et-fixed-header #et-menu>li a,.et-fixed-header #et-menu>li.menu-item-has-children>a:after,.et-fixed-header #et-menu>li.mega-menu-featured>a:after,.et-fixed-header #et-extra-mobile-menu>li.mega-menu-featured>a:after{color:#333333}.et-fixed-header #et-navigation>ul#et-menu>li.current-menu-item>a,.et-fixed-header #et-navigation>ul#et-menu>li.li.current_page_item>a,.et-fixed-header #et-navigation>ul#et-menu>li>a:hover,.et-fixed-header #et-navigation>ul#et-menu>li.menu-item-has-children>a:hover:after,.et-fixed-header #et-navigation>ul#et-menu>li.mega-menu-featured>a:hover:after,.et-fixed-header #et-extra-mobile-menu>li.mega-menu-featured>a:hover:after{color:#0052a5}.et-fixed-header #et-navigation>ul>li>a:before{background-color:#0052a5}.et-fixed-header #main-header{background-color:#ffffff}#footer-bottom{background-color:#142b44}@media only screen and (min-width:768px){#main-header .logo{height:48.8px;margin:15.6px 0}.header.left-right #et-navigation>ul>li>a{padding-bottom:32.5px}}@media only screen and (min-width:768px){.et-fixed-header #main-header .logo{height:30px;margin:15px 0}.et-fixed-header .header.left-right #et-navigation>ul>li>a{padding-bottom:23.5px}}</style><noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></link></meta></head>
-<body class="blog et_monarch et_extra et_extra_layout et_non_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_fadeInTop et_secondary_nav_dropdown_animation_fadeInTop with_sidebar with_sidebar_right et_includes_sidebar et-db et_minified_js et_minified_css cookies-not-set" data-rsssl="1">
+<link href="https://www.foreignpolicyjournal.com/wp-content/et-cache/global/et-extra-customizer-global-1616377829486.min.css" id="et-extra-customizer-global-cached-inline-styles" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" rel="stylesheet"/><style id="et-extra-customizer-cpt-global-cached-inline-styles">@media only screen and (min-width:1025px){.with_sidebar .et_pb_extra_column_sidebar{min-width:28%;max-width:28%;width:28%;flex-basis:28%}.with_sidebar .et_pb_extra_column_main{min-width:72%;max-width:72%;width:72%;flex-basis:72%}}.widget_et_recent_tweets .widget_list a,.widget_et_recent_tweets .et-extra-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon,.widget_et_recent_tweets .widget-footer .et-extra-social-icon::before,.project-details .project-details-title,.et_filterable_portfolio .filterable_portfolio_filter a.current,.et_extra_layout .et_pb_extra_column_main .et_pb_column .module-head h1,.et_pb_extra_column .module-head h1,#portfolio_filter a.current,.woocommerce div.product div.summary .product_meta a,.woocommerce-page div.product div.summary .product_meta a,.et_pb_widget.woocommerce .product_list_widget li .amount,.et_pb_widget li a:hover,.et_pb_widget.woocommerce .product_list_widget li a:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title:hover,.et_pb_widget.widget_et_recent_videos .widget_list .title.active,.woocommerce .woocommerce-info:before{color:#142b44}.single .score-bar,.widget_et_recent_reviews .review-breakdowns .score-bar,.et_pb_extra_module .posts-list article .post-thumbnail,.et_extra_other_module .posts-list article .post-thumbnail,.et_pb_widget .widget_list_portrait,.et_pb_widget .widget_list_thumbnail,.quote-format,.link-format,.audio-format .audio-wrapper,.paginated .pagination li.active,.score-bar,.review-summary-score-box,.post-footer .rating-stars #rating-stars img.star-on,.post-footer .rating-stars #rated-stars img.star-on,.author-box-module .author-box-avatar,.timeline-menu li.active a:before,.woocommerce div.product form.cart .button,.woocommerce div.product form.cart .button.disabled,.woocommerce div.product form.cart .button.disabled:hover,.woocommerce-page div.product form.cart .button,.woocommerce-page div.product form.cart .button.disabled,.woocommerce-page div.product form.cart .button.disabled:hover,.woocommerce div.product form.cart .read-more-button,.woocommerce-page div.product form.cart .read-more-button,.woocommerce div.product form.cart .post-nav .nav-links .button,.woocommerce-page div.product form.cart .post-nav .nav-links .button,.woocommerce .woocommerce-message,.woocommerce-page .woocommerce-message{background-color:#142b44}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,.et-top-search-primary-menu-item .et-top-search,.et_pb_module,.module,.page article,.authors-page .page,#timeline-sticky-header,.et_extra_other_module,.woocommerce .woocommerce-info{border-color:#142b44}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-size:20px}body{font-size:18px}body,p{line-height:1.4em}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-weight:bold;font-style:normal;text-transform:none;text-decoration:none}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{font-family:'Merriweather',Georgia,"Times New Roman",serif}body{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}a,a:visited,.post-content a,.et_pb_pagebuilder_layout .et_pb_blurb_container p a,.et_pb_pagebuilder_layout .et_pb_code a,.et_pb_pagebuilder_layout .et_pb_promo_description a,.et_pb_pagebuilder_layout .et_pb_newsletter_description a,.et_pb_pagebuilder_layout .et_pb_team_member_description>a,.et_pb_pagebuilder_layout .et_pb_pricing li a,.et_pb_pagebuilder_layout .et_pb_slide_content a,.et_pb_pagebuilder_layout .et_pb_tab a,.et_pb_pagebuilder_layout .et_pb_text a,.et_pb_pagebuilder_layout .et_pb_toggle_content a,.et_pb_pagebuilder_layout .et_pb_fullwidth_code a{color:#0052a5}body{color:#333333}h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:#142b44}.archive h1,.search h1{color:#142b44}#page-container{background-color:#ffffff}#et-menu li a{font-size:15px}#et-menu li{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}#et-menu>li a,#et-menu>li.menu-item-has-children>a:after,#et-menu>li.mega-menu-featured>a:after,#et-extra-mobile-menu>li.mega-menu-featured>a:after{color:#333333}#et-menu>li>a:hover,#et-menu>li.menu-item-has-children>a:hover:after,#et-menu>li.mega-menu-featured>a:hover:after,#et-navigation>ul#et-menu>li.current-menu-item>a,#et-navigation>ul#et-menu>li.current_page_item>a,#et-extra-mobile-menu>li.mega-menu-featured>a:hover:after,#et-extra-mobile-menu>li.current-menu-item>a,#et-extra-mobile-menu>li.current_page_item>a,#et-extra-mobile-menu>li>a:hover{color:#194587}#et-navigation>ul>li>a:before{background-color:#194587}#main-header{background-color:#ffffff}#et-menu>li>ul,#et-menu li>ul,#et-menu>li>ul>li>ul,#et-mobile-navigation nav,.et-top-search-primary-menu-item .et-top-search{background-color:#142b44}#et-menu li>ul li a,#et-menu li.mega-menu>ul>li>a,#et-menu .sub-menu li.mega-menu-featured>a:after,#et-menu .sub-menu li.menu-item-has-children>a:after,#et-extra-mobile-menu .sub-menu li.mega-menu-featured>a:after,#et-extra-mobile-menu li a,#et-menu li.mega-menu-featured>ul li .title,#et-extra-mobile-menu li.mega-menu-featured>ul li .title,#et-menu li.mega-menu-featured>ul li .featured-post h2,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post h2,#et-menu li.mega-menu-featured>ul li .featured-post .post-meta a,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post .post-meta a,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a{color:#ffffff}#et-menu li>ul li a:hover,#et-extra-mobile-menu li>ul li a:hover,#et-menu li>ul li.current-menu-item a,#et-menu li>ul li.current_page_item a,#et-extra-mobile-menu li>ul li.current-menu-item a,#et-extra-mobile-menu li>ul li.current_page_item a,#et-menu li.mega-menu>ul>li>a:hover,#et-menu .sub-menu li.mega-menu-featured>a:hover:after,#et-menu .sub-menu li.menu-item-has-children>a:hover:after,#et-extra-mobile-menu .sub-menu li.mega-menu-featured>a:hover:after,#et-menu li.mega-menu-featured>ul li .featured-post .post-meta a:hover,#et-extra-mobile-menu li.mega-menu-featured>ul li .featured-post .post-meta a:hover,#et-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a:hover,#et-extra-mobile-menu li.mega-menu-featured>ul li.menu-item .recent-list .recent-post .post-content .post-meta a:hover{color:#eeeeee}#et-secondary-menu li{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}#top-header{background-color:#142b44}#et-secondary-nav #et-secondary-menu{background-color:#142b44}#et-secondary-menu ul a,#et-secondary-menu li>ul li.menu-item-has-children>a:after{color:#f5f5f5}#et-secondary-menu li>ul li a:hover,#et-secondary-menu li>ul li.menu-item-has-children>a:hover:after,#et-secondary-menu li>ul li.current-menu-item a,#et-secondary-menu li>ul li.current_page_item a{color:#cccccc}#et-trending-label,.et-trending-post a{font-family:'Droid Serif',sans-serif}#et-trending-label,#et-trending-button{color:#f5f5f5}#et-trending-button span{background-color:#f5f5f5}header.header .et-trending-post a,header.header .et-trending-post a:visited{color:#f5f5f5}#et-info .et-cart span,#et-info .et-top-search .et-search-field{font-family:'Roboto',Helvetica,Arial,Lucida,sans-serif}#et-info .et-cart,#et-info .et-top-search .et-search-field,#et-info .et-top-search .et-search-submit:before,#et-info .et-extra-social-icons .et-extra-icon,#et-info .et-extra-social-icons .et-extra-icon:before{color:#f5f5f5}.et-fixed-header #et-menu li a{font-size:13px}.et-fixed-header #et-menu>li a,.et-fixed-header #et-menu>li.menu-item-has-children>a:after,.et-fixed-header #et-menu>li.mega-menu-featured>a:after,.et-fixed-header #et-extra-mobile-menu>li.mega-menu-featured>a:after{color:#333333}.et-fixed-header #et-navigation>ul#et-menu>li.current-menu-item>a,.et-fixed-header #et-navigation>ul#et-menu>li.li.current_page_item>a,.et-fixed-header #et-navigation>ul#et-menu>li>a:hover,.et-fixed-header #et-navigation>ul#et-menu>li.menu-item-has-children>a:hover:after,.et-fixed-header #et-navigation>ul#et-menu>li.mega-menu-featured>a:hover:after,.et-fixed-header #et-extra-mobile-menu>li.mega-menu-featured>a:hover:after{color:#0052a5}.et-fixed-header #et-navigation>ul>li>a:before{background-color:#0052a5}.et-fixed-header #main-header{background-color:#ffffff}#footer-bottom{background-color:#142b44}@media only screen and (min-width:768px){#main-header .logo{height:48.8px;margin:15.6px 0}.header.left-right #et-navigation>ul>li>a{padding-bottom:32.5px}}@media only screen and (min-width:768px){.et-fixed-header #main-header .logo{height:30px;margin:15px 0}.et-fixed-header .header.left-right #et-navigation>ul>li>a{padding-bottom:23.5px}}</style></link></link></meta></head>
+<body class="blog et_monarch et_extra et_extra_layout et_non_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_fadeInTop et_secondary_nav_dropdown_animation_fadeInTop with_sidebar with_sidebar_right et_includes_sidebar et-db et_minified_js et_minified_css" data-rsssl="1">
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PZNCLL" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
@@ -159,7 +179,7 @@ img.emoji {
 <!-- DFP Leaderboard -->
 <!-- Logo -->
 <a class="logo" data-fixed-height="50" href="https://www.foreignpolicyjournal.com/">
-<img alt="Foreign Policy Journal" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/09/FPJ-logo-bw-globe-banner.png" id="logo" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="Foreign Policy Journal" id="logo" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/09/FPJ-logo-bw-globe-banner.png"/></noscript>
+<img alt="Foreign Policy Journal" id="logo" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2016/09/FPJ-logo-bw-globe-banner.png"/>
 </a>
 <!-- ET Navigation -->
 <div class="" id="et-navigation">
@@ -241,7 +261,7 @@ img.emoji {
 <article class="post et-format- post-42495 type-post status-publish format-standard has-post-thumbnail hentry category-featured category-middle-east category-news-analysis category-politics tag-economy tag-government tag-health tag-lebanon tag-liberty et-has-post-format-content et_post_format-et-post-format-standard" id="post-42495">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/06/12/lebanons-dubious-second-wave-and-the-need-to-end-lockdown/" title="Lebanon’s Dubious Second Wave and the Need to End Lockdown">
-<img alt="Lebanon’s Dubious Second Wave and the Need to End Lockdown" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/beirut-lebanon-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="Lebanon’s Dubious Second Wave and the Need to End Lockdown" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/beirut-lebanon-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="Lebanon’s Dubious Second Wave and the Need to End Lockdown" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/beirut-lebanon-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/06/12/lebanons-dubious-second-wave-and-the-need-to-end-lockdown/" style="color:#880000;">Lebanon’s Dubious Second Wave and the Need to End Lockdown</a></h2>
@@ -256,7 +276,7 @@ img.emoji {
 <article class="post et-format- post-42489 type-post status-publish format-standard has-post-thumbnail hentry category-asia-pacific category-featured category-news-analysis category-politics category-us tag-china tag-economy tag-law tag-russia-asia-world-news tag-technology tag-us-foreign-policy et-has-post-format-content et_post_format-et-post-format-standard" id="post-42489">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/06/11/what-has-publicly-blaming-cyber-attacks-on-governments-solved/" title="What Has Publicly Blaming Cyber Attacks on Governments Solved?">
-<img alt="What Has Publicly Blaming Cyber Attacks on Governments Solved?" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/dod-cyber-attacks-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="What Has Publicly Blaming Cyber Attacks on Governments Solved?" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/dod-cyber-attacks-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="What Has Publicly Blaming Cyber Attacks on Governments Solved?" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/dod-cyber-attacks-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/06/11/what-has-publicly-blaming-cyber-attacks-on-governments-solved/" style="color:#2d90b5;">What Has Publicly Blaming Cyber Attacks on Governments Solved?</a></h2>
@@ -271,7 +291,7 @@ img.emoji {
 <article class="post et-format- post-42478 type-post status-publish format-standard has-post-thumbnail hentry category-asia-pacific category-news-analysis category-politics tag-afghanistan tag-nato tag-taliban tag-us-foreign-policy et-has-post-format-content et_post_format-et-post-format-standard" id="post-42478">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/04/25/afghan-peace-is-now-about-the-art-of-the-possible-not-the-perfect/" title="Afghan Peace is Now About the Art of the Possible, Not the Perfect">
-<img alt="Afghan Peace is Now About the Art of the Possible, Not the Perfect" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/ghani-abdullah-afghanistan-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="Afghan Peace is Now About the Art of the Possible, Not the Perfect" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/ghani-abdullah-afghanistan-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="Afghan Peace is Now About the Art of the Possible, Not the Perfect" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/ghani-abdullah-afghanistan-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/04/25/afghan-peace-is-now-about-the-art-of-the-possible-not-the-perfect/" style="color:#2d90b5;">Afghan Peace is Now About the Art of the Possible, Not the Perfect</a></h2>
@@ -286,7 +306,7 @@ img.emoji {
 <article class="post et-format- post-42473 type-post status-publish format-standard has-post-thumbnail hentry category-europe category-featured category-news-analysis category-science category-us tag-cdc tag-coronavirus tag-economy tag-health tag-health-care tag-influenza tag-italy tag-liberty tag-mainstream-media tag-science tag-sweden tag-uk tag-us-economy tag-us-politics tag-who et-has-post-format-content et_post_format-et-post-format-standard" id="post-42473">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/04/25/covid-19-what-you-need-to-know-about-fatality-rates/" title="COVID-19: What You Need to Know about Fatality Rates">
-<img alt="COVID-19: What You Need to Know about Fatality Rates" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/covid-19-face-mask-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="COVID-19: What You Need to Know about Fatality Rates" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/covid-19-face-mask-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="COVID-19: What You Need to Know about Fatality Rates" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/covid-19-face-mask-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/04/25/covid-19-what-you-need-to-know-about-fatality-rates/" style="color:#e8533b;">COVID-19: What You Need to Know about Fatality Rates</a></h2>
@@ -301,7 +321,7 @@ img.emoji {
 <article class="post et-format- post-42467 type-post status-publish format-standard has-post-thumbnail hentry category-europe category-featured category-news-analysis category-politics category-science category-us tag-coronavirus tag-economy tag-health tag-liberty tag-uk et-has-post-format-content et_post_format-et-post-format-standard" id="post-42467">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/04/17/sars-cov-2-response-imperial-college-model-and-lockdown-endgame/" title="SARS-CoV-2 Response: Imperial College Model and Lockdown Endgame">
-<img alt="SARS-CoV-2 Response: Imperial College Model and Lockdown Endgame" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/imperial-college-london-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="SARS-CoV-2 Response: Imperial College Model and Lockdown Endgame" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/imperial-college-london-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="SARS-CoV-2 Response: Imperial College Model and Lockdown Endgame" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/imperial-college-london-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/04/17/sars-cov-2-response-imperial-college-model-and-lockdown-endgame/" style="color:#e8533b;">SARS-CoV-2 Response: Imperial College Model and Lockdown Endgame</a></h2>
@@ -316,7 +336,7 @@ img.emoji {
 <article class="post et-format- post-42462 type-post status-publish format-standard has-post-thumbnail hentry category-featured category-news-analysis category-politics category-science category-us tag-coronavirus tag-economy tag-health tag-liberty tag-us-economy et-has-post-format-content et_post_format-et-post-format-standard" id="post-42462">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/04/17/sars-cov-2-response-where-do-we-go-from-here-introduction/" title="SARS-CoV-2 Response: Where Do We Go from Here? (Introduction)">
-<img alt="SARS-CoV-2 Response: Where Do We Go from Here? (Introduction)" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/coronavirus-image-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="SARS-CoV-2 Response: Where Do We Go from Here? (Introduction)" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/coronavirus-image-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="SARS-CoV-2 Response: Where Do We Go from Here? (Introduction)" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/coronavirus-image-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/04/17/sars-cov-2-response-where-do-we-go-from-here-introduction/" style="color:#880000;">SARS-CoV-2 Response: Where Do We Go from Here? (Introduction)</a></h2>
@@ -331,7 +351,7 @@ img.emoji {
 <article class="post et-format- post-42456 type-post status-publish format-standard has-post-thumbnail hentry category-asia-pacific category-featured category-politics category-viewpoints tag-coronavirus tag-liberty tag-south-korea tag-technology et-has-post-format-content et_post_format-et-post-format-standard" id="post-42456">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/04/13/covid-19-and-mass-surveillance-why-south-koreas-approach-is-also-anathema-to-civil-liberties/" title="COVID-19 and Mass-Surveillance: Why South Korea’s approach is also anathema to civil liberties">
-<img alt="COVID-19 and Mass-Surveillance: Why South Korea’s approach is also anathema to civil liberties" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/south-korea-coronavirus-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="COVID-19 and Mass-Surveillance: Why South Korea’s approach is also anathema to civil liberties" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/south-korea-coronavirus-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="COVID-19 and Mass-Surveillance: Why South Korea’s approach is also anathema to civil liberties" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/south-korea-coronavirus-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/04/13/covid-19-and-mass-surveillance-why-south-koreas-approach-is-also-anathema-to-civil-liberties/" style="color:#2d90b5;">COVID-19 and Mass-Surveillance: Why South Korea’s approach is also anathema to civil liberties</a></h2>
@@ -346,7 +366,7 @@ img.emoji {
 <article class="post et-format- post-42284 type-post status-publish format-standard has-post-thumbnail hentry category-africa category-essays category-featured category-politics category-science tag-big-pharma tag-corruption tag-ghana tag-kenya tag-liberty tag-malawi tag-maldives tag-philippines tag-science tag-unicef tag-vaccines tag-who et-has-post-format-content et_post_format-et-post-format-standard" id="post-42284">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/03/01/who-experimenting-on-african-children-without-informed-consent/" title="WHO Experimenting on African Children without Informed Consent">
-<img alt="WHO Experimenting on African Children without Informed Consent" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/03/world-health-organization-flag-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="WHO Experimenting on African Children without Informed Consent" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/03/world-health-organization-flag-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="WHO Experimenting on African Children without Informed Consent" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/03/world-health-organization-flag-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/03/01/who-experimenting-on-african-children-without-informed-consent/" style="color:#bcb918;">WHO Experimenting on African Children without Informed Consent</a></h2>
@@ -361,7 +381,7 @@ img.emoji {
 <article class="post et-format- post-42280 type-post status-publish format-standard has-post-thumbnail hentry category-middle-east category-news-analysis category-palestine category-politics tag-benjamin-netanyahu tag-donald-trump tag-israel tag-israeli-occupation tag-israeli-settlements tag-us-foreign-policy et-has-post-format-content et_post_format-et-post-format-standard" id="post-42280">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/02/28/beyond-israeli-elections-israel-at-the-cusp-of-a-bleak-era/" title="Beyond Israeli Elections: Israel at the Cusp of a Bleak Era">
-<img alt="Beyond Israeli Elections: Israel at the Cusp of a Bleak Era" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/02/benjamin-netanyahu-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="Beyond Israeli Elections: Israel at the Cusp of a Bleak Era" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/02/benjamin-netanyahu-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="Beyond Israeli Elections: Israel at the Cusp of a Bleak Era" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/02/benjamin-netanyahu-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/02/28/beyond-israeli-elections-israel-at-the-cusp-of-a-bleak-era/" style="color:#dd9933;">Beyond Israeli Elections: Israel at the Cusp of a Bleak Era</a></h2>
@@ -376,7 +396,7 @@ img.emoji {
 <article class="post et-format- post-42275 type-post status-publish format-standard has-post-thumbnail hentry category-featured category-news-analysis category-palestine category-politics category-us tag-peace-process tag-donald-trump tag-israel tag-mahoud-abbas tag-palestine tag-palestinian-authority tag-un tag-us-foreign-policy et-has-post-format-content et_post_format-et-post-format-standard" id="post-42275">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/02/22/the-donald-trump-i-know-abbass-un-speech-and-the-breakdown-of-palestinian-politics/" title="‘The Donald Trump I know’: Abbas’s UN Speech and the Breakdown of Palestinian Politics">
-<img alt="‘The Donald Trump I know’: Abbas’s UN Speech and the Breakdown of Palestinian Politics" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/02/mahmoud-abbas-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="‘The Donald Trump I know’: Abbas’s UN Speech and the Breakdown of Palestinian Politics" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/02/mahmoud-abbas-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="‘The Donald Trump I know’: Abbas’s UN Speech and the Breakdown of Palestinian Politics" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/02/mahmoud-abbas-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="post-title entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/02/22/the-donald-trump-i-know-abbass-un-speech-and-the-breakdown-of-palestinian-politics/" style="color:#880000;">‘The Donald Trump I know’: Abbas’s UN Speech and the Breakdown of Palestinian Politics</a></h2>
@@ -390,7 +410,7 @@ img.emoji {
 </article>
 </div><!-- /.paginated_page.paginated_page_1 -->
 </div><!-- /.paginated_content -->
-<span class="loader"><img alt="Loading" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/themes/Extra/images/pagination-loading.gif" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="Loading" src="https://www.foreignpolicyjournal.com/wp-content/themes/Extra/images/pagination-loading.gif"/></noscript></span>
+<span class="loader"><img alt="Loading" src="https://www.foreignpolicyjournal.com/wp-content/themes/Extra/images/pagination-loading.gif"/></span>
 </div><!-- /.posts-blog-feed-module -->
 <div class="module post-module et_pb_extra_module et_pb_posts_0" style="border-top-color:#2d90b5">
 <div class="module-head">
@@ -401,7 +421,7 @@ img.emoji {
 <article class="post-42501 post type-post status-publish format-standard has-post-thumbnail hentry category-asia-pacific category-featured category-politics category-viewpoints tag-afghanistan tag-diplomacy tag-donald-trump tag-pakistan tag-taliban tag-us-foreign-policy tag-war et-has-post-format-content et_post_format-et-post-format-standard" id="post-42501">
 <div class="header">
 <a class="featured-image" href="https://www.foreignpolicyjournal.com/2020/06/12/why-do-taliban-continue-to-kill-if-they-are-serious-about-peace/" title="Why Do Taliban Continue to Kill If They Are Serious about Peace?">
-<img alt="Why Do Taliban Continue to Kill If They Are Serious about Peace?" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2017/02/taliban-627x376.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"/><noscript><img alt="Why Do Taliban Continue to Kill If They Are Serious about Peace?" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2017/02/taliban-627x376.jpg"/></noscript><span class="et_pb_extra_overlay"></span>
+<img alt="Why Do Taliban Continue to Kill If They Are Serious about Peace?" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2017/02/taliban-627x376.jpg"/><span class="et_pb_extra_overlay"></span>
 </a> </div>
 <div class="post-content">
 <h2 class="entry-title"><a class="et-accent-color" href="https://www.foreignpolicyjournal.com/2020/06/12/why-do-taliban-continue-to-kill-if-they-are-serious-about-peace/" style="color:#2d90b5;">Why Do Taliban Continue to Kill If They Are Serious about Peace?</a></h2>
@@ -418,7 +438,7 @@ img.emoji {
 <li>
 <article class="title-thumb-hover post-42495 post type-post status-publish format-standard has-post-thumbnail hentry category-featured category-middle-east category-news-analysis category-politics tag-economy tag-government tag-health tag-lebanon tag-liberty et-has-post-format-content et_post_format-et-post-format-standard" id="post-42495">
 <a class="post-thumbnail" href="https://www.foreignpolicyjournal.com/2020/06/12/lebanons-dubious-second-wave-and-the-need-to-end-lockdown/" style="background-color:#2d90b5" title="Lebanon’s Dubious Second Wave and the Need to End Lockdown">
-<img alt="Lebanon’s Dubious Second Wave and the Need to End Lockdown" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/beirut-lebanon-150x150.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" style="background-color:#2d90b5"/><noscript><img alt="Lebanon’s Dubious Second Wave and the Need to End Lockdown" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/beirut-lebanon-150x150.jpg" style="background-color:#2d90b5"/></noscript>
+<img alt="Lebanon’s Dubious Second Wave and the Need to End Lockdown" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/beirut-lebanon-150x150.jpg" style="background-color:#2d90b5"/>
 </a> <div class="post-content">
 <h3 class="entry-title"><a data-hover-color="#2d90b5" href="https://www.foreignpolicyjournal.com/2020/06/12/lebanons-dubious-second-wave-and-the-need-to-end-lockdown/">Lebanon’s Dubious Second Wave and the Need to End Lockdown</a></h3>
 <div class="post-meta vcard">
@@ -430,7 +450,7 @@ img.emoji {
 <li>
 <article class="title-thumb-hover post-42489 post type-post status-publish format-standard has-post-thumbnail hentry category-asia-pacific category-featured category-news-analysis category-politics category-us tag-china tag-economy tag-law tag-russia-asia-world-news tag-technology tag-us-foreign-policy et-has-post-format-content et_post_format-et-post-format-standard" id="post-42489">
 <a class="post-thumbnail" href="https://www.foreignpolicyjournal.com/2020/06/11/what-has-publicly-blaming-cyber-attacks-on-governments-solved/" style="background-color:#2d90b5" title="What Has Publicly Blaming Cyber Attacks on Governments Solved?">
-<img alt="What Has Publicly Blaming Cyber Attacks on Governments Solved?" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/dod-cyber-attacks-150x150.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" style="background-color:#2d90b5"/><noscript><img alt="What Has Publicly Blaming Cyber Attacks on Governments Solved?" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/dod-cyber-attacks-150x150.jpg" style="background-color:#2d90b5"/></noscript>
+<img alt="What Has Publicly Blaming Cyber Attacks on Governments Solved?" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/06/dod-cyber-attacks-150x150.jpg" style="background-color:#2d90b5"/>
 </a> <div class="post-content">
 <h3 class="entry-title"><a data-hover-color="#2d90b5" href="https://www.foreignpolicyjournal.com/2020/06/11/what-has-publicly-blaming-cyber-attacks-on-governments-solved/">What Has Publicly Blaming Cyber Attacks on Governments Solved?</a></h3>
 <div class="post-meta vcard">
@@ -442,7 +462,7 @@ img.emoji {
 <li>
 <article class="title-thumb-hover post-42478 post type-post status-publish format-standard has-post-thumbnail hentry category-asia-pacific category-news-analysis category-politics tag-afghanistan tag-nato tag-taliban tag-us-foreign-policy et-has-post-format-content et_post_format-et-post-format-standard" id="post-42478">
 <a class="post-thumbnail" href="https://www.foreignpolicyjournal.com/2020/04/25/afghan-peace-is-now-about-the-art-of-the-possible-not-the-perfect/" style="background-color:#2d90b5" title="Afghan Peace is Now About the Art of the Possible, Not the Perfect">
-<img alt="Afghan Peace is Now About the Art of the Possible, Not the Perfect" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/ghani-abdullah-afghanistan-150x150.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" style="background-color:#2d90b5"/><noscript><img alt="Afghan Peace is Now About the Art of the Possible, Not the Perfect" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/ghani-abdullah-afghanistan-150x150.jpg" style="background-color:#2d90b5"/></noscript>
+<img alt="Afghan Peace is Now About the Art of the Possible, Not the Perfect" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/ghani-abdullah-afghanistan-150x150.jpg" style="background-color:#2d90b5"/>
 </a> <div class="post-content">
 <h3 class="entry-title"><a data-hover-color="#2d90b5" href="https://www.foreignpolicyjournal.com/2020/04/25/afghan-peace-is-now-about-the-art-of-the-possible-not-the-perfect/">Afghan Peace is Now About the Art of the Possible, Not the Perfect</a></h3>
 <div class="post-meta vcard">
@@ -454,7 +474,7 @@ img.emoji {
 <li>
 <article class="title-thumb-hover post-42473 post type-post status-publish format-standard has-post-thumbnail hentry category-europe category-featured category-news-analysis category-science category-us tag-cdc tag-coronavirus tag-economy tag-health tag-health-care tag-influenza tag-italy tag-liberty tag-mainstream-media tag-science tag-sweden tag-uk tag-us-economy tag-us-politics tag-who et-has-post-format-content et_post_format-et-post-format-standard" id="post-42473">
 <a class="post-thumbnail" href="https://www.foreignpolicyjournal.com/2020/04/25/covid-19-what-you-need-to-know-about-fatality-rates/" style="background-color:#2d90b5" title="COVID-19: What You Need to Know about Fatality Rates">
-<img alt="COVID-19: What You Need to Know about Fatality Rates" data-lazy-src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/covid-19-face-mask-150x150.jpg" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" style="background-color:#2d90b5"/><noscript><img alt="COVID-19: What You Need to Know about Fatality Rates" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/covid-19-face-mask-150x150.jpg" style="background-color:#2d90b5"/></noscript>
+<img alt="COVID-19: What You Need to Know about Fatality Rates" src="https://www.foreignpolicyjournal.com/wp-content/uploads/2020/04/covid-19-face-mask-150x150.jpg" style="background-color:#2d90b5"/>
 </a> <div class="post-content">
 <h3 class="entry-title"><a data-hover-color="#2d90b5" href="https://www.foreignpolicyjournal.com/2020/04/25/covid-19-what-you-need-to-know-about-fatality-rates/">COVID-19: What You Need to Know about Fatality Rates</a></h3>
 <div class="post-meta vcard">
@@ -472,43 +492,43 @@ img.emoji {
 <div class="et_pb_extra_column_sidebar">
 <div class="et_pb_widget widget_top-posts" id="top-posts-8"><h4 class="widgettitle">What Others Are Reading</h4><ul class="widgets-list-layout no-grav">
 <li>
-<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2019/01/04/9-11-finally-the-truth-comes-out/" title="9/11: Finally the Truth Comes Out?">
-<img alt="9/11: Finally the Truth Comes Out?" class="widgets-list-layout-blavatar" data-lazy-src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2015/11/911-WTC7.jpg?resize=75%2C75&amp;ssl=1" data-pin-nopin="true" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2075%2075'%3E%3C/svg%3E" width="75"/><noscript><img alt="9/11: Finally the Truth Comes Out?" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2015/11/911-WTC7.jpg?resize=75%2C75&amp;ssl=1" width="75"/></noscript>
-</a>
-<div class="widgets-list-layout-links">
-<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2019/01/04/9-11-finally-the-truth-comes-out/" title="9/11: Finally the Truth Comes Out?">9/11: Finally the Truth Comes Out?</a>
-</div>
-</li>
-<li>
 <a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2019/09/06/the-official-story-of-the-collapse-of-wtc-building-7-lies-in-ruins/" title="The Official Story of the Collapse of WTC Building 7 Lies in Ruins">
-<img alt="The Official Story of the Collapse of WTC Building 7 Lies in Ruins" class="widgets-list-layout-blavatar" data-lazy-src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2011/07/wtc7-1.jpg?resize=75%2C75&amp;ssl=1" data-pin-nopin="true" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2075%2075'%3E%3C/svg%3E" width="75"/><noscript><img alt="The Official Story of the Collapse of WTC Building 7 Lies in Ruins" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2011/07/wtc7-1.jpg?resize=75%2C75&amp;ssl=1" width="75"/></noscript>
+<img alt="The Official Story of the Collapse of WTC Building 7 Lies in Ruins" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2011/07/wtc7-1.jpg?resize=75%2C75&amp;ssl=1" width="75"/>
 </a>
 <div class="widgets-list-layout-links">
 <a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2019/09/06/the-official-story-of-the-collapse-of-wtc-building-7-lies-in-ruins/" title="The Official Story of the Collapse of WTC Building 7 Lies in Ruins">The Official Story of the Collapse of WTC Building 7 Lies in Ruins</a>
 </div>
 </li>
 <li>
-<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2017/01/11/obama-the-war-criminal-butcherer-of-women-and-children/" title="Obama the War Criminal, Butcherer of Women and Children">
-<img alt="Obama the War Criminal, Butcherer of Women and Children" class="widgets-list-layout-blavatar" data-lazy-src="https://i0.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2015/10/Obama-Bagram-Afghanistan.jpg?resize=75%2C75&amp;ssl=1" data-pin-nopin="true" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2075%2075'%3E%3C/svg%3E" width="75"/><noscript><img alt="Obama the War Criminal, Butcherer of Women and Children" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i0.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2015/10/Obama-Bagram-Afghanistan.jpg?resize=75%2C75&amp;ssl=1" width="75"/></noscript>
+<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2019/01/04/9-11-finally-the-truth-comes-out/" title="9/11: Finally the Truth Comes Out?">
+<img alt="9/11: Finally the Truth Comes Out?" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2015/11/911-WTC7.jpg?resize=75%2C75&amp;ssl=1" width="75"/>
 </a>
 <div class="widgets-list-layout-links">
-<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2017/01/11/obama-the-war-criminal-butcherer-of-women-and-children/" title="Obama the War Criminal, Butcherer of Women and Children">Obama the War Criminal, Butcherer of Women and Children</a>
-</div>
-</li>
-<li>
-<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2012/03/08/back-to-basics-in-palestine-redefining-our-relationship-to-a-peoples-struggle/" title="Back to Basics in Palestine: Redefining Our Relationship to a People’s Struggle">
-<img alt="Back to Basics in Palestine: Redefining Our Relationship to a People’s Struggle" class="widgets-list-layout-blavatar" data-lazy-src="https://i0.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2012/03/palestinian-adminstrative-detention.jpg?resize=75%2C75&amp;ssl=1" data-pin-nopin="true" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2075%2075'%3E%3C/svg%3E" width="75"/><noscript><img alt="Back to Basics in Palestine: Redefining Our Relationship to a People’s Struggle" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i0.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2012/03/palestinian-adminstrative-detention.jpg?resize=75%2C75&amp;ssl=1" width="75"/></noscript>
-</a>
-<div class="widgets-list-layout-links">
-<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2012/03/08/back-to-basics-in-palestine-redefining-our-relationship-to-a-peoples-struggle/" title="Back to Basics in Palestine: Redefining Our Relationship to a People’s Struggle">Back to Basics in Palestine: Redefining Our Relationship to a People’s Struggle</a>
+<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2019/01/04/9-11-finally-the-truth-comes-out/" title="9/11: Finally the Truth Comes Out?">9/11: Finally the Truth Comes Out?</a>
 </div>
 </li>
 <li>
 <a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2018/12/10/dual-citizens-in-congress-we-need-to-know/" title="Dual Citizens in Congress? We Need to Know">
-<img alt="Dual Citizens in Congress? We Need to Know" class="widgets-list-layout-blavatar" data-lazy-src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2017/06/US-Capitol-Congress.jpg?resize=75%2C75&amp;ssl=1" data-pin-nopin="true" height="75" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2075%2075'%3E%3C/svg%3E" width="75"/><noscript><img alt="Dual Citizens in Congress? We Need to Know" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2017/06/US-Capitol-Congress.jpg?resize=75%2C75&amp;ssl=1" width="75"/></noscript>
+<img alt="Dual Citizens in Congress? We Need to Know" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i2.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2017/06/US-Capitol-Congress.jpg?resize=75%2C75&amp;ssl=1" width="75"/>
 </a>
 <div class="widgets-list-layout-links">
 <a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2018/12/10/dual-citizens-in-congress-we-need-to-know/" title="Dual Citizens in Congress? We Need to Know">Dual Citizens in Congress? We Need to Know</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2015/07/31/measles-the-new-red-scare/" title="Measles: The New Red Scare">
+<img alt="Measles: The New Red Scare" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i1.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2015/07/01-US-Measles-Mortality-and-Trend-1917-1992.png?resize=75%2C75&amp;ssl=1" width="75"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2015/07/31/measles-the-new-red-scare/" title="Measles: The New Red Scare">Measles: The New Red Scare</a>
+</div>
+</li>
+<li>
+<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2016/01/06/new-hillary-emails-reveal-true-motive-for-libya-intervention/" title="Hillary Emails Reveal True Motive for Libya Intervention">
+<img alt="Hillary Emails Reveal True Motive for Libya Intervention" class="widgets-list-layout-blavatar" data-pin-nopin="true" height="75" src="https://i1.wp.com/www.foreignpolicyjournal.com/wp-content/uploads/2016/01/Muammar-al-Gaddafi.jpg?resize=75%2C75&amp;ssl=1" width="75"/>
+</a>
+<div class="widgets-list-layout-links">
+<a class="bump-view" data-bump-view="tp" href="https://www.foreignpolicyjournal.com/2016/01/06/new-hillary-emails-reveal-true-motive-for-libya-intervention/" title="Hillary Emails Reveal True Motive for Libya Intervention">Hillary Emails Reveal True Motive for Libya Intervention</a>
 </div>
 </li>
 </ul>
@@ -567,49 +587,123 @@ img.emoji {
 <div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
 <div class="et_social_pin_images" data-permalink="https://www.foreignpolicyjournal.com/2020/01/30/even-the-most-progressive-u-s-foreign-policy-blames-foreigners/" data-post_id="42211" data-title="Even the Most Progressive U.S. Foreign Policy Blames Foreigners"></div>
 </div>
-</div>
-<script id="et_monarch-custom-js-js-extra" type="text/javascript">
+</div><script type="text/javascript">/**
+ * Displays toast message from storage, it is used when the user is redirected after login
+ */
+window.addEventListener( 'load', function () {
+	let message = sessionStorage.getItem( 'tcb_toast_message' );
+
+	if ( message ) {
+		tcbToast( sessionStorage.getItem( 'tcb_toast_message' ), false );
+		sessionStorage.removeItem( 'tcb_toast_message' );
+	}
+} );
+
+/**
+ * Displays toast message
+ */
+function tcbToast( message, error, callback ) {
+	/* Also allow "message" objects */
+	if ( typeof message !== 'string' ) {
+		message = message.message || message.error || message.success;
+	}
+	if ( ! error ) {
+		error = false;
+	}
+
+	let _icon = 'checkmark',
+		_extra_class = '';
+	if ( error ) {
+		_icon = 'cross';
+		_extra_class = ' tve-toast-error';
+	}
+
+	jQuery( 'body' ).slideDown( 'fast', function () {
+		jQuery( 'body' ).prepend( '<div class="tvd-toast tve-fe-message"><div class="tve-toast-message"><div class="tve-toast-icon-container' + _extra_class + '"><span class="tve_tick thrv-svg-icon"><svg xmlns="http://www.w3.org/2000/svg" class="tcb-checkmark" style="width: 100%; height: 1em; stroke-width: 0; fill: #ffffff; stroke: #ffffff;" viewBox="0 0 32 32"><path d="M27 4l-15 15-7-7-5 5 12 12 20-20z"></path></svg></span></div><div class="tve-toast-message-container">' + message + '</div></div></div>' );
+	} );
+
+	setTimeout( function () {
+		jQuery( '.tvd-toast' ).hide();
+
+		if ( typeof callback === 'function' ) {
+			callback();
+		}
+
+	}, 3000 );
+}
+</script><link href="https://www.foreignpolicyjournal.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16" id="mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://www.foreignpolicyjournal.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=cb85461c83dc8006faaf832347a7a622" id="wp-mediaelement-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300italic,regular,italic,700,700italic,900,900italic|Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic&amp;subset=cyrillic,cyrillic-ext,latin,latin-ext,vietnamese,greek,greek-ext&amp;display=swap" id="et-builder-googlefonts-css" media="all" rel="stylesheet" type="text/css"/>
+<script id="mpp_gutenberg_tabs-js" src="https://www.foreignpolicyjournal.com/wp-content/plugins/metronet-profile-picture/js/mpp-frontend.js?ver=2.5.0" type="text/javascript"></script>
+<script id="clicktrack-adrotate-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","pageurl":"","stats_nonce":"e25263ee96","share_counts":"3d0491430c","follow_counts":"e451fb24fa","total_counts":"b93c41a470","media_single":"3cdef6cc83","media_total":"b7af103ec1","generate_all_window_nonce":"572d25b974","no_img_message":"No images available for sharing on this page"};
+var click_object = {"ajax_url":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
+<script id="clicktrack-adrotate-js" src="https://www.foreignpolicyjournal.com/wp-content/plugins/adrotate/library/jquery.adrotate.clicktracker.js" type="text/javascript"></script>
+<script id="et_monarch-idle-js" src="https://www.foreignpolicyjournal.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.4.13" type="text/javascript"></script>
+<script id="et_monarch-custom-js-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","pageurl":"","stats_nonce":"92df0685b7","share_counts":"906b8e062b","follow_counts":"0005a304f4","total_counts":"f958410073","media_single":"e15cbbc5e3","media_total":"a43472010d","generate_all_window_nonce":"1e8a5fe6ce","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script id="et_monarch-custom-js-js" src="https://www.foreignpolicyjournal.com/wp-content/plugins/monarch/js/custom.js?ver=1.4.13" type="text/javascript"></script>
+<script id="masonry-js" src="https://www.foreignpolicyjournal.com/wp-includes/js/masonry.min.js?ver=4.2.2" type="text/javascript"></script>
 <script id="extra-scripts-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var EXTRA = {"images_uri":"https:\/\/www.foreignpolicyjournal.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":"%d Items in Cart","item_count":"%d Item","items_count":"%d Items","rating_nonce":"4a8c66d2ce","timeline_nonce":"b84c3e358a","blog_feed_nonce":"66263f5176","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"yes"};
+var EXTRA = {"images_uri":"https:\/\/www.foreignpolicyjournal.com\/wp-content\/themes\/Extra\/images\/","ajaxurl":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":"%d Items in Cart","item_count":"%d Item","items_count":"%d Items","rating_nonce":"cfdbfe8713","timeline_nonce":"036829da29","blog_feed_nonce":"7160ae6582","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"yes"};
 var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
-var et_pb_custom = {"ajaxurl":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.foreignpolicyjournal.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/www.foreignpolicyjournal.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"f60cfad3e7","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"aa2159ca70","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"40544","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":false,"extraTheme":true},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.foreignpolicyjournal.com\/wp-content\/themes\/Extra\/images","builder_images_uri":"https:\/\/www.foreignpolicyjournal.com\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"b8c7c37070","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"1b583d56af","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"40544","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":false,"extraTheme":true},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
 var et_pb_box_shadow_elements = [];
 var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
 var et_pb_sticky_elements = [];
 /* ]]> */
 </script>
+<script id="extra-scripts-js" src="https://www.foreignpolicyjournal.com/wp-content/themes/Extra/scripts/scripts.unified.js?ver=4.9.2" type="text/javascript"></script>
+<script id="tve-dash-frontend-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","force_ajax_send":"1","is_crawler":"","recaptcha":[]};
+/* ]]> */
+</script>
+<script id="tve-dash-frontend-js" src="https://www.foreignpolicyjournal.com/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?ver=2.3.9.3" type="text/javascript"></script>
+<script id="es6-promise-js" src="https://www.foreignpolicyjournal.com/wp-content/themes/Extra/core/admin/js/es6-promise.auto.min.js?ver=4.9.2" type="text/javascript"></script>
 <script id="et-recaptcha-v3-js" src="https://www.google.com/recaptcha/api.js?render=6LdvwMUUAAAAABjBoxnWTLV0Fc8LPyRu50lQTCe4&amp;ver=4.9.2" type="text/javascript"></script>
 <script id="et-core-api-spam-recaptcha-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var et_core_api_spam_recaptcha = {"site_key":"6LdvwMUUAAAAABjBoxnWTLV0Fc8LPyRu50lQTCe4","page_action":{"action":"why_do_taliban_continue_to_kill_if_they_are_serious_about_peace"}};
 /* ]]> */
 </script>
-<script id="cookie-notice-front-js-extra" type="text/javascript">
+<script id="et-core-api-spam-recaptcha-js" src="https://www.foreignpolicyjournal.com/wp-content/themes/Extra/core/admin/js/recaptcha.js?ver=4.9.2" type="text/javascript"></script>
+<script id="jetpack-lazy-images-polyfill-intersectionobserver-js" src="https://www.foreignpolicyjournal.com/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/intersectionobserver-polyfill.min.js?ver=1.1.2" type="text/javascript"></script>
+<script id="jetpack-lazy-images-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var cnArgs = {"ajaxUrl":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","nonce":"2b22320872","hideEffect":"fade","position":"top","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
 /* ]]> */
 </script>
-<script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"bcb901cbc8","ajax_url":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":37046,"display_options":{"allowed_post_types":[],"flag_url_match":null},"custom_post_data":[],"current_screen":{"screen_type":2,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"bcb901cbc8","ajax_url":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":37046,"display_options":{"allowed_post_types":[],"flag_url_match":null},"custom_post_data":[],"current_screen":{"screen_type":2,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]})} /*]]> */</script><script defer="" src="https://stats.wp.com/e-202111.js"></script>
+<script id="jetpack-lazy-images-js" src="https://www.foreignpolicyjournal.com/wp-content/plugins/jetpack/vendor/automattic/jetpack-lazy-images/src/js/lazy-images.min.js?ver=1.1.2" type="text/javascript"></script>
+<script id="et-core-common-js" src="https://www.foreignpolicyjournal.com/wp-content/themes/Extra/core/admin/js/common.js?ver=4.9.2" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://www.foreignpolicyjournal.com/wp-includes/js/wp-embed.min.js?ver=cb85461c83dc8006faaf832347a7a622" type="text/javascript"></script>
+<script id="mediaelement-core-js-before" type="text/javascript">
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script id="mediaelement-core-js" src="https://www.foreignpolicyjournal.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16" type="text/javascript"></script>
+<script id="mediaelement-migrate-js" src="https://www.foreignpolicyjournal.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=cb85461c83dc8006faaf832347a7a622" type="text/javascript"></script>
+<script id="mediaelement-js-extra" type="text/javascript">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script id="wp-mediaelement-js" src="https://www.foreignpolicyjournal.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=cb85461c83dc8006faaf832347a7a622" type="text/javascript"></script>
+<script type="text/javascript">var tcb_post_lists=JSON.parse('[]');</script><script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"4a5d6458eb","ajax_url":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":37046,"display_options":{"allowed_post_types":[],"flag_url_match":null},"custom_post_data":[],"current_screen":{"screen_type":2,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]};} else {ThriveGlobal.$j.extend(true, TL_Const, {"security":"4a5d6458eb","ajax_url":"https:\/\/www.foreignpolicyjournal.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":1,"main_group_id":37046,"display_options":{"allowed_post_types":[],"flag_url_match":null},"custom_post_data":[],"current_screen":{"screen_type":2,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"]})} /*]]> */</script><script defer="" src="https://stats.wp.com/e-202112.js"></script>
 <script>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:9.5',blog:'46039241',post:'0',tz:'-4',srv:'www.foreignpolicyjournal.com'} ]);
 	_stq.push([ 'clickTrackerInit', '46039241', '0' ]);
 </script>
-<!-- Cookie Notice plugin v2.0.3 by Digital Factory https://dfactory.eu/ -->
-<div aria-label="Cookie Notice" class="cookie-notice-hidden cookie-revoke-hidden cn-position-top" id="cookie-notice" role="banner" style="background-color: rgba(27,80,138,1);"><div class="cookie-notice-container" style="color: #fff;"><span class="cn-text-container" id="cn-notice-text">This site uses cookies to deliver a better user experience. <a href="https://www.foreignpolicyjournal.com/about/privacy-policy/" style="text-decoration: underline;color:#ffffff" target="_blank">View privacy policy.</a></span><span class="cn-buttons-container" id="cn-notice-buttons"><a aria-label="OK" class="cn-set-cookie cn-button bootstrap button" data-cookie-set="accept" href="#" id="cn-accept-cookie">OK</a></span><a aria-label="OK" class="cn-close-icon" data-cookie-set="accept" href="javascript:void(0);" id="cn-close-notice"></a></div>
-</div>
-<!-- / Cookie Notice plugin --><script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
-if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
-images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
-if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script async="" data-no-minify="1" src="https://www.foreignpolicyjournal.com/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script>
+<script async="" src="https://new.fqtag.com/implement.js?org=63qJx5I21MIJkQwBeIW1&amp;p=57c9fb46d7bba036355b8146&amp;rt=display"></script>
 <noscript>
 <img border="0" height="1" src="https://new.fqtag.com/pixel?org=63qJx5I21MIJkQwBeIW1&amp;p=57c9fb46d7bba036355b8146&amp;rt=displayImg" width="1"/>
 </noscript>
-<script data-minify="1" defer="" src="https://www.foreignpolicyjournal.com/wp-content/cache/min/1/0ae1b892098fa8b6c0a52a07716df88d.js"></script></body>
+</body>
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1615947461 -->
+<!-- Cache Enabler by KeyCDN @ Fri, 26 Mar 2021 20:46:47 GMT (https-index.html) -->

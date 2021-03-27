@@ -7,16 +7,15 @@
 <link href="https://gmpg.org/xfn/11" rel="profile"/>
 <link href="https://creativitymovement.net/xmlrpc.php" rel="pingback"/>
 <title>News – The Creativity Movement</title>
-<meta content="noindex,nofollow" name="robots">
+<meta content="noindex, nofollow" name="robots">
 <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
 <link href="//s.w.org" rel="dns-prefetch"/>
 <link href="https://creativitymovement.net/feed/" rel="alternate" title="The Creativity Movement » Feed" type="application/rss+xml"/>
 <link href="https://creativitymovement.net/comments/feed/" rel="alternate" title="The Creativity Movement » Comments Feed" type="application/rss+xml"/>
 <link href="https://creativitymovement.net/category/news/feed/" rel="alternate" title="The Creativity Movement » News Category Feed" type="application/rss+xml"/>
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/creativitymovement.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=21532fc0b64477059f5e14b86151439d"}};
-			/*! This file is auto-generated */
-			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/creativitymovement.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=410b21baaa4ab3cce95a3b2d896711fb"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 <style type="text/css">
 img.wp-smiley,
@@ -32,36 +31,35 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link href="https://creativitymovement.net/wp-includes/css/dist/block-library/style.min.css?ver=21532fc0b64477059f5e14b86151439d" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://creativitymovement.net/wp-includes/css/dist/block-library/style.min.css?ver=410b21baaa4ab3cce95a3b2d896711fb" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://creativitymovement.net/wp-content/plugins/email-subscribers/lite/public/css/email-subscribers-public.css?ver=4.6.7" id="email-subscribers-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://creativitymovement.net/wp-content/plugins/give/assets/dist/css/give.css?ver=2.9.6" id="give-styles-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://creativitymovement.net/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.2.4" id="wordpress-popular-posts-css-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://creativitymovement.net/wp-content/themes/mh-magazine/style.css?ver=3.0.0" id="mh-magazine-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://creativitymovement.net/wp-content/themes/mh-magazine/includes/font-awesome.min.css" id="mh-font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,400italic,600,700|Fjalla+One:300,400,400italic,600,700" id="mh-google-fonts-css" media="all" rel="stylesheet" type="text/css"/>
-<script src="https://creativitymovement.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp" type="text/javascript"></script>
-<script src="https://creativitymovement.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1" type="text/javascript"></script>
-<script type="text/javascript">
+<script id="jquery-core-js" src="https://creativitymovement.net/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" type="text/javascript"></script>
+<script id="jquery-migrate-js" src="https://creativitymovement.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" type="text/javascript"></script>
+<script id="email-subscribers-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var es_data = {"messages":{"es_empty_email_notice":"Please enter email address","es_rate_limit_notice":"You need to wait for sometime before subscribing again","es_single_optin_success_message":"Successfully Subscribed.","es_email_exists_notice":"Email Address already exists!","es_unexpected_error_notice":"Oops.. Unexpected error occurred.","es_invalid_email_notice":"Invalid email address","es_try_later_notice":"Please try after some time"},"es_ajax_url":"https:\/\/creativitymovement.net\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script src="https://creativitymovement.net/wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public.js?ver=4.6.7" type="text/javascript"></script>
-<script src="https://creativitymovement.net/wp-content/plugins/give/assets/dist/js/babel-polyfill.js?ver=2.9.6" type="text/javascript"></script>
-<script type="text/javascript">
+<script id="email-subscribers-js" src="https://creativitymovement.net/wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public.js?ver=4.6.7" type="text/javascript"></script>
+<script id="babel-polyfill-js" src="https://creativitymovement.net/wp-content/plugins/give/assets/dist/js/babel-polyfill.js?ver=2.9.6" type="text/javascript"></script>
+<script id="give-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var give_global_vars = {"ajaxurl":"https:\/\/creativitymovement.net\/wp-admin\/admin-ajax.php","checkout_nonce":"e10b91e032","currency":"USD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","textForOverlayScreen":"<h3>Processing...<\/h3><p>This will only take a second!<\/p>","number_decimals":"0","is_test_mode":"1","give_version":"2.9.6","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/creativitymovement.net\/wp-admin\/admin-ajax.php","ajaxNonce":"1e046f6011","loading":"Loading","select_option":"Please select an option","default_gateway":"manual","permalinks":"1","number_decimals":0},"cookie_hash":"0710bf77414ab60646b5c2318ae31847","session_nonce_cookie_name":"wp-give_session_reset_nonce_0710bf77414ab60646b5c2318ae31847","session_cookie_name":"wp-give_session_0710bf77414ab60646b5c2318ae31847","delete_session_nonce_cookie":"0"};
+var give_global_vars = {"ajaxurl":"https:\/\/creativitymovement.net\/wp-admin\/admin-ajax.php","checkout_nonce":"762199a2d6","currency":"USD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","textForOverlayScreen":"<h3>Processing...<\/h3><p>This will only take a second!<\/p>","number_decimals":"0","is_test_mode":"1","give_version":"2.9.6","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/creativitymovement.net\/wp-admin\/admin-ajax.php","ajaxNonce":"d170dfc2ce","loading":"Loading","select_option":"Please select an option","default_gateway":"manual","permalinks":"1","number_decimals":0},"cookie_hash":"0710bf77414ab60646b5c2318ae31847","session_nonce_cookie_name":"wp-give_session_reset_nonce_0710bf77414ab60646b5c2318ae31847","session_cookie_name":"wp-give_session_0710bf77414ab60646b5c2318ae31847","delete_session_nonce_cookie":"0"};
 var giveApiSettings = {"root":"https:\/\/creativitymovement.net\/wp-json\/give-api\/v2\/","rest_base":"give-api\/v2"};
 /* ]]> */
 </script>
-<script src="https://creativitymovement.net/wp-content/plugins/give/assets/dist/js/give.js?ver=2.9.6" type="text/javascript"></script>
+<script id="give-js" src="https://creativitymovement.net/wp-content/plugins/give/assets/dist/js/give.js?ver=2.9.6" type="text/javascript"></script>
 <script id="wpp-json" type="application/json">
-{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/creativitymovement.net\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":0,"token":"1c18ce4654","lang":0,"debug":0}
+{"sampling_active":0,"sampling_rate":100,"ajax_url":"https:\/\/creativitymovement.net\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":0,"token":"57ebae211a","lang":0,"debug":0}
 </script>
-<script src="https://creativitymovement.net/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.2.4" type="text/javascript"></script>
-<script src="https://creativitymovement.net/wp-content/themes/mh-magazine/js/scripts.js?ver=21532fc0b64477059f5e14b86151439d" type="text/javascript"></script>
-<link href="https://creativitymovement.net/wp-json/" rel="https://api.w.org/"/>
-<link href="https://creativitymovement.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<script id="wpp-js-js" src="https://creativitymovement.net/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=5.2.4" type="text/javascript"></script>
+<script id="mh-scripts-js" src="https://creativitymovement.net/wp-content/themes/mh-magazine/js/scripts.js?ver=410b21baaa4ab3cce95a3b2d896711fb" type="text/javascript"></script>
+<link href="https://creativitymovement.net/wp-json/" rel="https://api.w.org/"/><link href="https://creativitymovement.net/wp-json/wp/v2/categories/64" rel="alternate" type="application/json"/><link href="https://creativitymovement.net/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
 <link href="https://creativitymovement.net/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
 <meta content="Give v2.9.6" name="generator">
 <style type="text/css">
@@ -172,6 +170,15 @@ body { font-family: "Ubuntu", sans-serif; }
 			Recent posts<i class="fa fa-chevron-right"></i> </div>
 <div class="mh-ticker-content">
 <ul id="mh-ticker-loop"> <li class="mh-ticker-item">
+<a href="https://creativitymovement.net/blog/the-billionaire-philanthropy-that-robs-and-attacks-us/" title="The Billionaire “Philanthropy” that Robs and Attacks Us">
+<span class="mh-ticker-item-date">
+                        	[ March 18, 2021 ]                        </span>
+<span class="mh-ticker-item-title">
+							The Billionaire “Philanthropy” that Robs and Attacks Us						</span>
+<span class="mh-ticker-item-cat">
+														Blog						</span>
+</a>
+</li> <li class="mh-ticker-item">
 <a href="https://creativitymovement.net/blog/trumps-criminal-negligence/" title="TRUMP’S CRIMINAL NEGLIGENCE">
 <span class="mh-ticker-item-date">
                         	[ January 24, 2021 ]                        </span>
@@ -207,15 +214,6 @@ body { font-family: "Ubuntu", sans-serif; }
 <span class="mh-ticker-item-cat">
 														Radio Shows						</span>
 </a>
-</li> <li class="mh-ticker-item">
-<a href="https://creativitymovement.net/blog/let-them-have-a-double-dose/" title="Let them have a double dose!">
-<span class="mh-ticker-item-date">
-                        	[ November 18, 2020 ]                        </span>
-<span class="mh-ticker-item-title">
-							Let them have a double dose!						</span>
-<span class="mh-ticker-item-cat">
-														Blog						</span>
-</a>
 </li> </ul>
 </div>
 </div> </div>
@@ -236,7 +234,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </header>
 <article class="mh-loop-item clearfix post-2993 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-laughter tag-racial-loyalty tag-tom-metzger">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/news/tom-metzger-1938-2020/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2020/11/Tom-Metzger-1938-2020-326x245.png" srcset="https://creativitymovement.net/wp-content/uploads/2020/11/Tom-Metzger-1938-2020-326x245.png 326w, https://creativitymovement.net/wp-content/uploads/2020/11/Tom-Metzger-1938-2020-80x60.png 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/news/tom-metzger-1938-2020/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2020/11/Tom-Metzger-1938-2020-326x245.png" srcset="https://creativitymovement.net/wp-content/uploads/2020/11/Tom-Metzger-1938-2020-326x245.png 326w, https://creativitymovement.net/wp-content/uploads/2020/11/Tom-Metzger-1938-2020-80x60.png 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -254,7 +252,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 </article><article class="mh-loop-item clearfix post-2973 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-uncategorized tag-anti-white-agenda tag-blm tag-colour-revolution tag-george-soros tag-norman-eisen">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/uncategorized/the-new-coup-play-book/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2020/09/New-Coup-Play-Book-326x245.png" srcset="https://creativitymovement.net/wp-content/uploads/2020/09/New-Coup-Play-Book-326x245.png 326w, https://creativitymovement.net/wp-content/uploads/2020/09/New-Coup-Play-Book-80x60.png 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/uncategorized/the-new-coup-play-book/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2020/09/New-Coup-Play-Book-326x245.png" srcset="https://creativitymovement.net/wp-content/uploads/2020/09/New-Coup-Play-Book-326x245.png 326w, https://creativitymovement.net/wp-content/uploads/2020/09/New-Coup-Play-Book-80x60.png 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -272,7 +270,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 </article><article class="mh-loop-item clearfix post-2711 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-anti-white-agenda tag-black-lives-matter tag-controlled-media tag-history tag-jewish-media tag-neil-oliver">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/news/scottish-history-writer-exposes-black-lives-matter/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2020/06/Neil-Oliver-Expose-Black-Lives-Matter-326x245.png" srcset="https://creativitymovement.net/wp-content/uploads/2020/06/Neil-Oliver-Expose-Black-Lives-Matter-326x245.png 326w, https://creativitymovement.net/wp-content/uploads/2020/06/Neil-Oliver-Expose-Black-Lives-Matter-80x60.png 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/news/scottish-history-writer-exposes-black-lives-matter/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2020/06/Neil-Oliver-Expose-Black-Lives-Matter-326x245.png" srcset="https://creativitymovement.net/wp-content/uploads/2020/06/Neil-Oliver-Expose-Black-Lives-Matter-326x245.png 326w, https://creativitymovement.net/wp-content/uploads/2020/06/Neil-Oliver-Expose-Black-Lives-Matter-80x60.png 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -290,7 +288,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 </article><article class="mh-loop-item clearfix post-2377 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-activism tag-propaganda tag-tcm-poland tag-zines">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/news/prawo-krwi-zine-2-poland/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2018/01/prawokrwizinenr2-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2018/01/prawokrwizinenr2-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2018/01/prawokrwizinenr2-80x60.jpg 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/news/prawo-krwi-zine-2-poland/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2018/01/prawokrwizinenr2-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2018/01/prawokrwizinenr2-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2018/01/prawokrwizinenr2-80x60.jpg 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -308,7 +306,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 </article><article class="mh-loop-item clearfix post-2150 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-england tag-manchester tag-rev-james tag-terrorism tag-video">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/news/2150/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2017/05/manch-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2017/05/manch-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2017/05/manch-80x60.jpg 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/news/2150/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2017/05/manch-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2017/05/manch-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2017/05/manch-80x60.jpg 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -326,7 +324,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 </article><article class="mh-loop-item clearfix post-1407 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-media">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/news/response-to-ricin-idiocy/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2017/02/ricin-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2017/02/ricin-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2017/02/ricin-80x60.jpg 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/news/response-to-ricin-idiocy/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2017/02/ricin-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2017/02/ricin-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2017/02/ricin-80x60.jpg 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -344,7 +342,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 </article><article class="mh-loop-item clearfix post-1380 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-media-lies">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/news/save-the-white-race-sticker-deemed-offensive-and-racist-by-liverpool-echo/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2017/01/echo-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2017/01/echo-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2017/01/echo-80x60.jpg 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/news/save-the-white-race-sticker-deemed-offensive-and-racist-by-liverpool-echo/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2017/01/echo-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2017/01/echo-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2017/01/echo-80x60.jpg 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -362,7 +360,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 </article><article class="mh-loop-item clearfix post-1293 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-holly-books tag-ner">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/news/new-corrected-edition-of-ner-available/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2016/12/ner-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2016/12/ner-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2016/12/ner-80x60.jpg 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/news/new-corrected-edition-of-ner-available/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2016/12/ner-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2016/12/ner-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2016/12/ner-80x60.jpg 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -380,7 +378,7 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 </article><article class="mh-loop-item clearfix post-1150 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-activism tag-stickers tag-tcm-england">
 <div class="mh-loop-thumb">
-<a href="https://creativitymovement.net/news/express-echo-about-tcm-england-stickers/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2016/11/index-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2016/11/index-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2016/11/index-80x60.jpg 80w" width="326"/> </a>
+<a href="https://creativitymovement.net/news/express-echo-about-tcm-england-stickers/"><img alt="" class="attachment-mh-magazine-medium size-mh-magazine-medium wp-post-image" height="245" loading="lazy" sizes="(max-width: 326px) 100vw, 326px" src="https://creativitymovement.net/wp-content/uploads/2016/11/index-326x245.jpg" srcset="https://creativitymovement.net/wp-content/uploads/2016/11/index-326x245.jpg 326w, https://creativitymovement.net/wp-content/uploads/2016/11/index-80x60.jpg 80w" width="326"/> </a>
 </div>
 <div class="mh-loop-content clearfix">
 <header class="mh-loop-header">
@@ -426,6 +424,6 @@ body { font-family: "Ubuntu", sans-serif; }
 </div>
 <a class="mh-back-to-top" href="#"><i class="fa fa-chevron-up"></i></a>
 </div><!-- .mh-container-outer -->
-<script src="https://creativitymovement.net/wp-includes/js/wp-embed.min.js?ver=21532fc0b64477059f5e14b86151439d" type="text/javascript"></script>
+<script id="wp-embed-js" src="https://creativitymovement.net/wp-includes/js/wp-embed.min.js?ver=410b21baaa4ab3cce95a3b2d896711fb" type="text/javascript"></script>
 </body>
 </html>

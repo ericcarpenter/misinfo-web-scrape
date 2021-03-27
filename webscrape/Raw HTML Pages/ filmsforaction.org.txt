@@ -45,7 +45,7 @@
 <div class="aspNetHidden">
 <input id="__EVENTTARGET" name="__EVENTTARGET" type="hidden" value=""/>
 <input id="__EVENTARGUMENT" name="__EVENTARGUMENT" type="hidden" value=""/>
-<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="WN4t6pxC4zufHJ7TALVjXXt6P0eN/Y8E0rGFDKw1eS5q4zYV9Ihe+J8o73GlwyVZE3xNME9UhFCSL/PJ+8yxKqzwOO/y30A5NDEhPZQpGm1+hWHAqonwCETMrj57Ke6QsH3N0IEnP2wYtg598Nd+IFU96CxAtcLT+Rd8iFmBXqhYAXDRrQFs7LTW5wVt5gq54RaukjdZv43nvvWS6pCEFuZoQtxv3pONjRJaYa65UYd6/j0eCsnyuibf5HbTENXA3P34hnRfQwgGPs6dIn0Hl3nV5cufxLDIcbBflk5R3IumYs6YFLIclRHrWksigxLuo+M8tkjHW0MwR2ouitQamOLO4+PtVEIgzzEQjJ1Zuma41zrRaQzkII3LEYqPt+OeKRNwTHmdVi2jAyaYE2bgtcsibIMWM0xbntN8dRQWb4tLzHqrx5nkPmpa5YJEZY6/tZmmcg3Dh94sSrtEcn+kT8Bwvo6obuTfBQwHzjq1rTpsDXkbeJsKq62sIWzHVu2qC4MYv45FHzLPXl+IjNYrcgwxZM92lGCGPVBUa5DCMCgariWKtU4bq+XX7ra9sx8S9y3UYCPRJzUaD92lEVAPG5ty0MTgCqyo3zGzlQ+gtpC0iilxGXte2ZmzZPSywkBZ2mlSgEBsUCFBkt/KDyzLU1nn/xbQcN33Z+XhPcn1hcBCaxATBl1ZHv6J+HWVB+9bDfZeOWY+WTmPkO+O8CySwXeAyEihf4MMFUpUqL4G/mwrq03tAQnX7nSt44H1cxGHQxG1ySayvhcYH8XLSSaVg2adGb1/fTCOX3hb4euyfO4mmHz28hrqvd26K8MCe+cKrqb/vux7Z9ndNHrbgSmd2g=="/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="ndU+YugE8shFEm1mYxmOxUlUEzPZwkp3JEzaEQFtZ1L9rM+vqGwlNdh24+Ovp8KXoeHe5s3jcYrjMa859LqBUJuVQe6phLdoyYO91V7Dazy+IzA0UBgGfg6+RvTLS7/hWbA7oBCGtniNScwsNH1tGuJDmm8VzqfbHK8k2yZdxtE+uyLqun3UKEVCJAzYzoOkIiOtCvjxJ1Akhyv/OTH2CnrQyeQeh7aLUO3piaa/MNieoo6Hyxxy9mEmjv0jykqjyDAGdUj2SZYjDCiYckcmtozzHWEhZXpK8k+9Bg9iiWN0VwuCI0V5mIqP/MtwMr9L2GGxNlSu6x+kBOoONjIir3JbGM255ZFWqn+KfE2Sf8cN4UcHgOFZAZeRaf5Jzy/O3CWcCQTVnl6am6Op2x0PpEWCzrxKH89zaLMJs1sQ89PPXL1ly/xv79Lhb5LszdRFLAxzycHJpjqar8svbGYjPT6HVaW9Yr99EnEgEMSBL9lxGJPn/Z+4kcE8c2KtUsVnQqBfWpMtFNUVzBA4ftwYkRsLOWApmHo185qv2NqoW77JkpXzWtdYgaNyDk3/2hDNNTcwN/9oyg9kRnY2ZgDnzUJwLMeR6Fp9amDCvv8cjZtLEZMX4hpYlEFQXOvbwEFU/ZWKO7DhNM7NuqygiExdQysk35nCL4k2+6EkzSMC3p+U9BXCcaxtgPAQ1qp4II2QFVPBiu6ETDtgQRfh7uBRGnxViw9N8WDV9oKysW9WRhkax3ujsIUIdsas+TmSMwfWJ9HHqys2jAVxtVz2BlNlwmDLhJxXuXlQD+MeWboyYs23WODDaquQB62n3FpkRj6zF4n9/jEmYO077sb6bYnGAw=="/>
 </div>
 <script type="text/javascript">
 //<![CDATA[
@@ -66,7 +66,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <script src="/bundles/WebFormsJs?v=HDzYbp1I-0OjeDOqgp58j1M7WkX_bTIZQ3Lzs5EexyQ1" type="text/javascript"></script>
 <div class="aspNetHidden">
 <input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="82E69FD2"/>
-<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="intM/McAZewkfgotmwsxeLsM6/XlyfsboIbvG6vH3i4LpFGp5wRLjyeLK9TPrP6IIBKNYnJxOUIsF+QgY9q4V6YzjO1TILTGMDcevD0lksWG4TUfI5Dt/UMf+DFpCQKnyPUPtjJQ/NM8wg8nW1rbSvk0Gcv4fduEQ32w6wva8wsm5cslx6IF9oW5xj9Xnn9kTpph1Eta8xG/yWFyMcgsnQobxcKB3Y/B9QzFt65c56I/KRkjFOnasLe/9ik/GJ1QQm/hBiu9q2UT8FAsUcl0jTwJWkNWr8cRh2gWSeyVZS0jy+aA+zl1oZl9WikqOprGOaWbAJkyZlD6vgan15xrvIXo2XpUOoPP4++QJuRzFBG6OdAGzO+Y0Y/9FaEWuyD9"/>
+<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="1x0geP7EK0bGT84TMtAHxAekNGL0BO8Q4k5wnfL6vUUah549LZyY0tF7tR4oSaJ1b05OMRaChmTVJ3JizrOHkFfNdvWLOwBCUVCidXzSCyTEZSihd7JF8xxvvMlva0qx2T0bPikDtzmIuRGoYtpwcRh81wGtyPnNboZ4oMNgSa9CTdKZiTHIxAMQBjJEPnfJVpwGQ6FFpEjp8LyWOpsngiUXfBLjGXJknRbNfW68KdKb49zSvrKXirMSiCISsnQEYPqcqPeIJ2t/0eN85ZxTHStMDZWzwYPngXcEmhXvPXdb2Ev+9aEY1qqT+RYM8JYeSZC5MPfMJ7IiLIGlsLBuTJRpTphlmQs6wZbv2K5utcpNfeh8f+F4Poo5zr8Itris"/>
 </div>
 <script type="text/javascript">
 //<![CDATA[
@@ -290,7 +290,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="HeaderQuickSearch">
 <div class="clearfix relative" id="PanelSiteSearchControls" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'header_headerQuickSearch_BEnterPressed')">
 <input id="header_headerQuickSearch_BEnterPressed" name="ctl00$header$headerQuickSearch$BEnterPressed" onclick="return false;" style="display:none" type="submit" value=""/>
-<input autocomplete="off" class="form-control" id="textBoxSiteSearch" name="ctl00$header$headerQuickSearch$textBoxSiteSearch" onkeyup="textBoxSiteSearchKeyPressed(event);return false;" placeholder="Search 10,551 videos" style="width:100%" type="search"/>
+<input autocomplete="off" class="form-control" id="textBoxSiteSearch" name="ctl00$header$headerQuickSearch$textBoxSiteSearch" onkeyup="textBoxSiteSearchKeyPressed(event);return false;" placeholder="Search 10,557 videos" style="width:100%" type="search"/>
 <input alt=" " class="HeaderQuickSearch-searchIcon" formnovalidate="formnovalidate" id="buttonSiteSearchFull" name="ctl00$header$headerQuickSearch$buttonSiteSearchFull" src="/i/search-icon-white.png" title="" type="image"/>
 </div>
 <div class="relative">
@@ -367,7 +367,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="HeaderQuickSearch">
 <div class="clearfix relative" id="PanelSiteSearchControls" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'header_headerQuickSearchMobile_BEnterPressed')">
 <input id="header_headerQuickSearchMobile_BEnterPressed" name="ctl00$header$headerQuickSearchMobile$BEnterPressed" onclick="return false;" style="display:none" type="submit" value=""/>
-<input autocomplete="off" class="form-control" id="textBoxSiteSearch" name="ctl00$header$headerQuickSearchMobile$textBoxSiteSearch" onkeyup="textBoxSiteSearchKeyPressed(event);return false;" placeholder="Search 10,551 videos" style="width:100%" type="search"/>
+<input autocomplete="off" class="form-control" id="textBoxSiteSearch" name="ctl00$header$headerQuickSearchMobile$textBoxSiteSearch" onkeyup="textBoxSiteSearchKeyPressed(event);return false;" placeholder="Search 10,557 videos" style="width:100%" type="search"/>
 <input alt=" " class="HeaderQuickSearch-searchIcon" formnovalidate="formnovalidate" id="buttonSiteSearchFull" name="ctl00$header$headerQuickSearchMobile$buttonSiteSearchFull" src="/i/search-icon-white.png" title="" type="image"/>
 </div>
 <div class="relative">
@@ -607,7 +607,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="container container-flushAll">
 <div class="clearfix" id="C_repeaterLists1">
 <div class="Page-sectionTitle">
-						Watch On Netflix
+						Documentaries about Living the Change
 					</div>
 <div class="Slider Slider-atStart" id="C_repeaterLists1_slider_0_slider_0">
 <div class="Slider-prevWrapper">
@@ -616,59 +616,147 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Slider-nextWrapper">
 <div class="Slider-next"></div>
 </div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_0_repeater_0"><div class="Slider-item"><a class="" href="/watch/the-minimalists-less-is-now/">
-<img class="lazy-load" data-original="/img/wide/fde2f625-0dd1-456b-8e60-54d0f006077a.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_0_repeater_0"><div class="Slider-item"><a class="" href="/watch/a-simpler-way/">
+<img class="lazy-load" data-original="/img/wide/f1cc622c-a8b6-44be-8023-bafdcc9ef611.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						The Minimalists: Less Is Now (2021) (trailer)
+						A Simpler Way: Crisis as Opportunity (2016)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/my-octopus-teacher-official-trailer-netflix/">
-<img class="lazy-load" data-original="/img/wide/f172a24b-f500-4fbf-90dc-9e394e8f91dd.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/wetheuncivilised/">
+<img class="lazy-load" data-original="/img/wide/709b0280-d037-4254-8d72-86f0261d4196.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						My Octopus Teacher (2020) (trailer)
+						Wetheuncivilised, A Life Story (2017)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/kiss-the-ground-official-movie-trailer-2020/">
-<img class="lazy-load" data-original="/img/wide/e03b6453-7597-45d7-b5a5-5c067a339378.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/living-the-change/">
+<img class="lazy-load" data-original="/img/wide/b9375969-4233-4f3b-b713-9ea37b7b1255.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Kiss the Ground (2020) (trailer)
+						Living the Change: Inspiring Stories for a Sustainable Future (2018) ($5)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-social-dilemma/">
-<img class="lazy-load" data-original="/img/wide/a8c779eb-11ec-4d4e-a2cd-76fbfb38932e.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/fools-and-dreamers-regenerating-a-native-forest-full-documentary/">
+<img class="lazy-load" data-original="/img/wide/0760e9bc-d0a5-4cc2-ba74-cbcfc7d90b7b.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						The Social Dilemma (2020) (trailer)
+						Fools &amp; Dreamers: Regenerating a Native Forest (2019)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/minimalism/">
-<img class="lazy-load" data-original="/img/wide/fdf136a5-add5-4a4d-b5f9-1c3f34c6285c.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/occupy-love-2013/">
+<img class="lazy-load" data-original="/img/wide/3e8cc5fa-b258-44c5-b8dd-ecc312fa8b3b.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Minimalism: A Documentary about the Important Things (2015) (trailer)
+						Occupy Love (2013)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-great-hack-netflix/">
-<img class="lazy-load" data-original="/img/wide/09c09518-af90-4f3b-ae7f-fd79b9c5a414.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/not-business-as-usual/">
+<img class="lazy-load" data-original="/img/wide/8b610b8e-38bd-4c5d-8664-cbbc9f77af49.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						The Great Hack (2019) (trailer)
+						Not Business As Usual (2014)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/liberated-the-new-sexual-revolution/">
-<img class="lazy-load" data-original="/img/wide/515fafc3-ee9b-4858-94a2-31c5fdeedc2f.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/economics-of-prout-economic-democracy-in-practice-2004/">
+<img class="lazy-load" data-original="/img/wide/e04bec8a-1f44-4cb0-85af-09ee36f057bd.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Liberated: The New Sexual Revolution (2017) (trailer)
+						Prout: Economic Democracy in Practice (2004)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/creating-prosperous-communities-cooperatives-in-maleny/">
+<img class="lazy-load" data-original="/img/wide/58266c74-7be6-441d-98f3-a9162be56c81.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Creating Prosperous Communities: Examples of Small-Scale Cooperatives in Maleny (2002)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/in-transition-20-a-story-of-resilience-and-hope-in-extraordinary-times/">
+<img class="lazy-load" data-original="/img/wide/8092b613-129b-4f74-a739-03063277c90d.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						In Transition 2.0: A Story of Resilience &amp; Hope in Extraordinary Times (2012)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/tomorrow-take-concrete-steps-to-a-sustainable-future/">
+<img class="lazy-load" data-original="/img/wide/b651458e-c7d5-4e6c-9b8d-df30b15164f9.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Tomorrow: Take Concrete Steps To A Sustainable Future ($5)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/class-dismissed-learning-outside-the-classroom/">
+<img class="lazy-load" data-original="/img/wide/15b8662b-7476-4940-8a1c-a9e9f2eaca89.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Class Dismissed: A Film About Learning Outside Of The Classroom (2015) ($2)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/a-passion-for-sustainability/">
+<img class="lazy-load" data-original="/img/wide/dd7df67a-a966-4589-a79b-adf7229f3d56.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						A Passion For Sustainability (2008)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/inhabit/">
+<img class="lazy-load" data-original="/img/wide/576e5087-c8bd-4914-b2b1-d2e6829cc2a5.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Inhabit: A Permaculture Perspective (2015) ($5)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/what-if-money-didnt-matter/">
+<img class="lazy-load" data-original="/img/wide/927224a6-f80e-49a2-8640-34c5e19897ea.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Alan Watts: What If Money Was No Object?
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/a-new-story-for-humanity-2016/">
+<img class="lazy-load" data-original="/img/wide/ff7a5c74-147c-4787-b263-56609414937c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						A New Story for Humanity (2016)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/within-reach/">
+<img class="lazy-load" data-original="/img/wide/0b179c3d-990c-4ab5-8e37-93f810e14d70.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Within Reach: Journey to Find Sustainable Community (2013) ($5)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/self-taught/">
+<img class="lazy-load" data-original="/img/wide/758595c6-9c8f-4b9f-be6e-3e448ba4709c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Self-Taught: Life Stories From Self-Directed Learners (2019) ($5)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/voices-of-transition/">
+<img class="lazy-load" data-original="/img/wide/67708f94-7ffa-45df-aa09-d624f28d6bfd.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Voices of Transition (2012) ($5)
 					</div>
 <span class="h6"></span>
 </div>
@@ -676,7 +764,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 </div>
 <div class="Home-listsSeperator"></div>
 <div class="Page-sectionTitle">
-						Documentaries by Peter Charles Downey
+						Films For Action
 					</div>
 <div class="Slider Slider-atStart" id="C_repeaterLists1_slider_1_slider_1">
 <div class="Slider-prevWrapper">
@@ -685,51 +773,509 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Slider-nextWrapper">
 <div class="Slider-next"></div>
 </div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_1_repeater_1"><div class="Slider-item"><a class="" href="/watch/spiritually-incorrect/">
-<img class="lazy-load" data-original="/img/wide/2d1921d3-98d2-462d-a918-3d6f5e346084.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_1_repeater_1"><div class="Slider-item"><a class="" href="/articles/the-top-100-films-for-action/">
+<img class="lazy-load" data-original="/img/wide/fe5153a5-de0a-4f2d-9e2f-91c7e06e0b9b.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Spiritually Incorrect (2020) ($4)
+						The Top 100 Documentaries We Can Use to Change the World
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/shopping-for-freedom-escape-from-the-cult-of-consumerism/">
-<img class="lazy-load" data-original="/img/wide/10660411-247a-4a4f-b038-0180dce43652.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/articles/films-for-action-university/">
+<img class="lazy-load" data-original="/img/wide/a1c7b510-6d76-46c0-9987-d99129e2b924.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Shopping for Freedom: Escape from the Cult of Consumerism (2019)
+						Films For Action University: a Map for Navigating the Transition From Empire to Earth Community
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/esteem/">
-<img class="lazy-load" data-original="/img/wide/5cdc4172-5358-42b9-9a1c-ec125f9f4ab3.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/articles/the-top-100-short-films-for-action/">
+<img class="lazy-load" data-original="/img/wide/252ff57b-04a8-4720-a12c-8978ea015191.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Esteem: The Power of Vulnerability (2016)
+						100 Short Films to Expand Your Consciousness
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/surviving-earth-2014/">
-<img class="lazy-load" data-original="/img/wide/72bc0d7c-6b1b-44b8-b9f7-64f09f4097d1.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/articles/films-for-actions-vision-for-the-future/">
+<img class="lazy-load" data-original="/img/wide/5d23d421-5ffa-4595-a026-b5718b3f71eb.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Surviving Earth (2014)
+						Films For Action's Vision for the Future
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/united-natures-2013/">
-<img class="lazy-load" data-original="/img/wide/e0bf7d4c-6331-481a-b8ab-8ef76fab36f8.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/articles/does-films-for-action-have-bias-a-statement-about-neutrality-and-our-values/">
+<img class="lazy-load" data-original="/img/wide/dcf9ba1b-3b35-4630-8234-bf3a1e1506ad.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						United Natures: a United Nations of all Species (2013)
+						Does Films For Action Have Bias? - a Statement About Neutrality and Our Values
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/anima-mundi-permaculture-peak-oil-climate-change-and-the-gaia-theory/">
-<img class="lazy-load" data-original="/img/wide/c753fd7d-0699-4efb-9234-c7a615518d08.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/articles/the-new-story-revolution/">
+<img class="lazy-load" data-original="/img/wide/33d5cec9-8786-44a9-8ed2-1c51d20765aa.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Anima Mundi: Permaculture, Deep Ecology &amp; the Soul of the World (2011)
+						The New Story Revolution: Over 75 Films &amp; Articles About the Movement With Many Names
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/films-of-visionary-ways-of-seeing-the-world-both-ancient-and-new/">
+<img class="lazy-load" data-original="/img/wide/8c6cc0e1-e2c4-4d70-9714-c55e174ae25a.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						90 Inspiring, Visionary Films That Will Change How You See the World in Profound Ways
+					</div>
+<span class="h6"></span>
+</div>
+</a></div></div>
+</div>
+<div class="Home-listsSeperator"></div>
+<div class="Page-sectionTitle">
+						Systemic Racism
+					</div>
+<div class="Slider Slider-atStart" id="C_repeaterLists1_slider_2_slider_2">
+<div class="Slider-prevWrapper">
+<div class="Slider-prev"></div>
+</div>
+<div class="Slider-nextWrapper">
+<div class="Slider-next"></div>
+</div>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_2_repeater_2"><div class="Slider-item"><a class="" href="/watch/13th-documentary/">
+<img class="lazy-load" data-original="/img/wide/c6d075a1-f878-40a0-b1e5-9078ad660acb.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						13TH (2016)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/building-the-troost-wall-structural-racism-in-kansas-city/">
+<img class="lazy-load" data-original="/img/wide/4493c92c-307e-4b32-ac4a-7d4171ac7e82.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The History of Structural Racism in Kansas City
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/putting-racism-on-the-table-john-a-powell-on-structural-racism/">
+<img class="lazy-load" data-original="/img/wide/e5e5220e-4dc6-47ef-a243-75ce1fba49cc.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Putting Racism on the Table: john a. powell on Structural Racism
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/i-am-not-your-negro/">
+<img class="lazy-load" data-original="/img/wide/6ff83f58-1af7-4a52-84c4-be2ec6c9b2ae.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						I Am Not Your Negro (2017) ($4)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/systemic-racism-is-that-really-a-thing/">
+<img class="lazy-load" data-original="/img/wide/2c31b415-74cd-40ff-9edb-f9f88384c8bb.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Systemic Racism: Is That Really a Thing?
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/a-path-to-end-racism/">
+<img class="lazy-load" data-original="/img/wide/273ee1af-1bf7-43a4-af2e-0073d7a4e7af.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Ending Racism by Creating a Society Where Humiliation is Replaced by Empathy, Love, Generosity and Mutual-Recognition
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/the-answer-to-police-violence-is-not-reform-its-defunding-heres-why/">
+<img class="lazy-load" data-original="/img/wide/2ad907bb-99b1-4761-96c1-73a003143026.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Answer to Police Violence Is Not 'Reform'. It's Defunding. Here's Why.
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/vicious-abstraction-and-systemic-racism-the-violence-of-false-representation-and-coded-language/">
+<img class="lazy-load" data-original="/img/wide/43fecef7-f313-486d-ab41-080f29bde63a.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Vicious Abstraction and Systemic Racism: The Violence of False Representation and Coded Language
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/why-black-lives-matter-wont-go-away-a-primer-on-systemic-racism-in-america/">
+<img class="lazy-load" data-original="/img/wide/086ca60e-eca6-48f9-bd1d-83644b01973e.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Why Black Lives Matter Won't Go Away: a Primer on Systemic Racism in America
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/racism-is-about-power-not-unpleasant-sentiments/">
+<img class="lazy-load" data-original="/img/wide/fb9a2f5c-f07e-47ab-a0c8-24cf60f7ca52.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Racism Is About Power, Not Unpleasant Sentiments
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/how-not-to-challenge-racist-violence/">
+<img class="lazy-load" data-original="/img/wide/40fca336-3b1a-43a3-b348-9c2147d3c550.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						How (Not) to Challenge Racist Violence
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/akala-and-frankie-boyle-discuss-britains-structural-racism/">
+<img class="lazy-load" data-original="/img/wide/9fcf6f04-e762-4fb4-9567-826139f89560.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Akala and Frankie Boyle Discuss Structural Racism in Britain
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-racism-of-mass-incarceration-visualized/">
+<img class="lazy-load" data-original="/img/wide/7a29d9aa-6a5f-4a24-830e-f8a61fd02216.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Racism of Mass Incarceration, Visualized
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-racism-of-the-us-criminal-justice-system-in-10-charts/">
+<img class="lazy-load" data-original="/img/wide/1490b1cc-c889-40bd-ad3b-e527d1ca391f.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Racism of the US Criminal Justice System in 10 Charts
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-modern-racist-paradigm/">
+<img class="lazy-load" data-original="/img/wide/45f65e04-e579-458c-ad23-cf2e6c789310.jpeg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Modern Racist Paradigm (2007)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/why-antiracism-will-fail/">
+<img class="lazy-load" data-original="/img/wide/bfe7d44a-e9cf-4325-82cb-9121d24c8273.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Thandeka: Why Some Anti-Racist Programs Will Fail and Others Will Succeed
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/no-more-walter-scotts/">
+<img class="lazy-load" data-original="/img/wide/cdc1d308-4797-4022-be7b-d08fff196b92.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Ending Racism Requires Us to Take Up Class Struggle, To Shift the Material Conditions That Gives Race Practical Meaning
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/race-baiting-101/">
+<img class="lazy-load" data-original="/img/wide/0897c7dd-4230-4a1c-9390-0ad8323063ab.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Shocking, True History of Race Baiting, From the 17th Century to the Present Day
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/mean-kind-or-non-which-type-of-racist-are-you/">
+<img class="lazy-load" data-original="/img/wide/7b3b5b6a-75df-437e-88ee-12210c437c22.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Mean, Kind or Non: Which Type of Racist Are You?
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/race-the-power-of-an-illusion-2003/">
+<img class="lazy-load" data-original="/img/wide/239d96ba-b7ea-4560-92f0-66c5f2d4c032.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Race: The Power of An Illusion (2003) ($5)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/the-new-black-codes/">
+<img class="lazy-load" data-original="/img/wide/39fe3c6d-2cba-46ca-90c4-9f0685f7fea6.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The New 'Black Codes'
+					</div>
+<span class="h6"></span>
+</div>
+</a></div></div>
+</div>
+<div class="Home-listsSeperator"></div>
+<div class="Page-sectionTitle">
+						Articles by Tim Hjersted, Co-Founder of Films For Action
+					</div>
+<div class="Slider Slider-atStart" id="C_repeaterLists1_slider_3_slider_3">
+<div class="Slider-prevWrapper">
+<div class="Slider-prev"></div>
+</div>
+<div class="Slider-nextWrapper">
+<div class="Slider-next"></div>
+</div>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_3_repeater_3"><div class="Slider-item"><a class="" href="/articles/what-is-my-activism-really-about-to-love-serve-and-remember/">
+<img class="lazy-load" data-original="/img/wide/b1279f7f-6f86-4e2f-82cc-fe7864ec18e7.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						What Is My Activism Really About? to Love, Serve and Remember
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/the-future-belongs-to-the-most-compelling-story/">
+<img class="lazy-load" data-original="/img/wide/1886bf13-3b1d-43d3-818b-a56fe0faffd5.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Story That's Destroying the World
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/to-see-the-world-with-eyes-unclouded-by-hate/">
+<img class="lazy-load" data-original="/img/wide/66a73b4a-0943-404c-996e-0fd5c44d0418.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						To See the World With Eyes Unclouded by Hate
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/if-government-is-to-have-legitimacy-in-the-future-what-should-its-purpose-be/">
+<img class="lazy-load" data-original="/img/wide/83854332-3fba-4fe9-bcd3-ef61ff780710.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						What Is the True Purpose of Government?
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/friendly-reminder-humans-are-not-a-virus/">
+<img class="lazy-load" data-original="/img/wide/7190311c-29ff-4867-8c28-1fdaab5b9679.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Friendly Reminder: Humans Are Not a Virus - the Virus Is a Cultural Ideology
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/why-do-so-many-people-do-drugs-instead-of-solving-for-root-causes/">
+<img class="lazy-load" data-original="/img/wide/473c81c6-656d-4ba9-9d32-cbaa8dbaf6d0.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Why Do so Many People Get Lost in Drugs Instead of Making a Life That You Don't Need to Escape From?
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/when-we-judge-a-person-we-kill-the-human-being-inside-of-them/">
+<img class="lazy-load" data-original="/img/wide/8d831ad2-0691-4633-8010-b0248b9d73e2.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						When We Judge a Person Harshly With a Label or Dismissal, We Kill the Human Being Inside of Them
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/people-dont-vote-because-they-have-internalized-the-ideology-of-their-oppressors/">
+<img class="lazy-load" data-original="/img/wide/66c2ea03-e852-4041-9974-54d27bec954c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Ideological Hegemony: How Our Own Thoughts Became the Greatest Weapon of the Ruling Class
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/the-compassionate-activist-toolkit/">
+<img class="lazy-load" data-original="/img/wide/597d2814-cc6c-4ed1-bbe7-a48dab125dec.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Compassionate Activist Toolkit: the Ultimate Guide to Love-Centered Activism
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/raising-awareness-why-we-shouldnt-take-it-for-granted/">
+<img class="lazy-load" data-original="/img/wide/7079041e-7d76-4e82-b47c-f3d578ede5d3.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Raising Awareness: Why We Shouldn't Take It for Granted
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/all-i-ask-is-that-you-see-my-humanity-which-means-seeing-the-humanity-in-all-people/">
+<img class="lazy-load" data-original="/img/wide/f2ebdcfa-5b38-476b-b96d-1b5850ffdf58.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						All I Ask Is That You See My Humanity, Which Means Seeing the Humanity in All People
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/the-new-story-revolution/">
+<img class="lazy-load" data-original="/img/wide/33d5cec9-8786-44a9-8ed2-1c51d20765aa.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The New Story Revolution: Over 75 Films &amp; Articles About the Movement With Many Names
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/one-piece-of-the-oppressor-that-i-have-discovered-within-myself/">
+<img class="lazy-load" data-original="/img/wide/8c9dcb64-8ac5-45aa-8b06-2bb9eb384fa7.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						One "Piece of the Oppressor" That I Have Discovered Within Myself
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/when-our-children-become-killers-gun-reform-isnt-enough-we-need-to-redesign-our-society/">
+<img class="lazy-load" data-original="/img/wide/fe7bd67c-7adf-4148-8203-d9f861196b96.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						When Our Children Become Killers, Gun Reform Isn't Enough. We Need to Redesign Our Society
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/10-films-that-show-our-economic-system-is-killing-the-planet/">
+<img class="lazy-load" data-original="/img/wide/5ee2a601-4404-48fe-af03-8ec9b86bc043.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Is Capitalism Really the Best We Can Do? Actually, No.
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/traditional-gender-norms-are-imprisoning-all-of-us-its-time-to-break-free/">
+<img class="lazy-load" data-original="/img/wide/ac4aa838-7b15-450f-a34e-8bc24d4846a7.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Traditional Gender Norms Are Imprisoning All of Us - Let's Be Whole Human Beings
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/profit-is-theft-it-sounds-absurd-but-heres-why/">
+<img class="lazy-load" data-original="/img/wide/3ad3bee9-0dc3-49a6-83c4-0a1121a34cd3.png" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Profit Is Theft: It Sounds Absurd but Here's Why
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/there-is-no-one-right-way-to-be-an-activist/">
+<img class="lazy-load" data-original="/img/wide/f3da5863-fadd-46d2-af0d-e23eb0fee00b.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						There Is No One Right Way to Be an Activist
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/resistance-to-homogenization/">
+<img class="lazy-load" data-original="/img/wide/28ef5b3d-8a9d-4b76-85fb-d8b2dd3ec44d.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Our Culture Is Driving the World Towards Homogenization on Every Level, but We're Not Even Aware of It
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/films-to-spread-the-new-story-revolution/">
+<img class="lazy-load" data-original="/img/wide/d11d8b7b-7300-42a2-8289-44aeefdb2925.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						15 Films Inspiring and Illuminating the 'New Story' Revolution
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/radical-kindness-is-liberating/">
+<img class="lazy-load" data-original="/img/wide/889f220d-af79-4955-b951-7a1c7c65c66f.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Radical Kindness Is Liberating
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/a-deep-roots-strategy-to-combat-hateful-ideologies-offer-them-more-of-what-they-truly-want/">
+<img class="lazy-load" data-original="/img/wide/9e0792dd-978e-40cb-baac-2355617a119c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						A Deep-Roots Strategy to Combat Hateful Ideologies: Offer Them More of What They Truly Want
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/the-spiritual-dimension-of-life/">
+<img class="lazy-load" data-original="/img/wide/be675ec2-e247-4211-8235-cc592a048144.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Privilege of Not Caring Cannot Exist When True Love Is There
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/on-ending-racism-and-the-need-for-holding-simultaneous-realities/">
+<img class="lazy-load" data-original="/img/wide/2ed73e05-9d18-40ea-8852-624ec6f529eb.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						On Ending Racism and the Need for Holding Simultaneous Realities
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/looking-forward-to-the-day-that-nationalism-is-as-reviled-as-racism/">
+<img class="lazy-load" data-original="/img/wide/8ab4e882-6dc3-43b5-bf77-a5c06f048b0b.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Looking Forward to the Day That Nationalism Is as Reviled as Racism
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/lawrence/news/what-social-change-activists-can-too-easily-forget/">
+<img class="lazy-load" data-original="/img/wide/a4d5b080-26a6-445a-af07-5c216590f63a.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						What Social Change Activists Can Too Easily Forget
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/a-form-of-privilege-that-we-never-talk-about/">
+<img class="lazy-load" data-original="/img/wide/d60b3012-2394-4fcc-a32a-a9d61eea3bf5.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						A Form of Privilege That We Never Talk About
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/what-kind-of-love-have-we-created-in-this-lovedesert-society/">
+<img class="lazy-load" data-original="/img/wide/5dcccb9f-6355-427b-bc2f-3dce7edf1453.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						We All Suffer in This Love-Desert Society That We've Created - Is There an Alternative?
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/if-we-want-to-end-this-worlds-tragic-cycles-of-violence-we-need-compassion-not-more-closed-hearts/">
+<img class="lazy-load" data-original="/img/wide/147ce3fd-8b53-4534-9bb0-a7adb17a2d47.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						If We Want to End This World's Tragic Cycles of Violence, We're Going to Have to Do Something Extremely Radical
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/my-favorite-definition-of-privilege/">
+<img class="lazy-load" data-original="/img/wide/326a6034-b43a-4be9-a592-e2c1862130a1.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						My Favorite Definition of Privilege
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/its-time-america-faces-some-uncomfortable-truths-thats-why-the-blacklivesmatter-hashtag-is-essential/">
+<img class="lazy-load" data-original="/img/wide/2dc587d9-4c9b-45c9-bd82-3dd465b2ffe0.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						If Your Gut Response to #Blacklivesmatter Is #Alllivesmatter, Read This.
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/is-it-time-to-give-up-whiteness/">
+<img class="lazy-load" data-original="/img/wide/7c4b4d49-a8e9-4cff-aca1-346e54a422c8.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Is It Time to Give up "Whiteness"?
 					</div>
 <span class="h6"></span>
 </div>
@@ -739,14 +1285,14 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Page-sectionTitle">
 						Sustainable Human
 					</div>
-<div class="Slider Slider-atStart" id="C_repeaterLists1_slider_2_slider_2">
+<div class="Slider Slider-atStart" id="C_repeaterLists1_slider_4_slider_4">
 <div class="Slider-prevWrapper">
 <div class="Slider-prev"></div>
 </div>
 <div class="Slider-nextWrapper">
 <div class="Slider-next"></div>
 </div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_2_repeater_2"><div class="Slider-item"><a class="" href="/watch/why-do-we-make-life-so-hard-jon-jondai/">
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_4_repeater_4"><div class="Slider-item"><a class="" href="/watch/why-do-we-make-life-so-hard-jon-jondai/">
 <img class="lazy-load" data-original="/img/wide/0fa1c5fc-83ac-4e80-91b2-b0a72db50b2e.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
@@ -900,79 +1446,343 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 </div>
 </a></div></div>
 </div>
-<div class="Home-listsSeperator"></div>
+</div>
+</div>
+</div>
+<div class="Page-section Page-sectionYellowBackground">
+<div class="container container-flushAll">
 <div class="Page-sectionTitle">
-						Culture In Decline
-					</div>
-<div class="Slider Slider-atStart" id="C_repeaterLists1_slider_3_slider_3">
+			Trending Videos
+		</div>
+<div class="Slider Slider-atStart Slider-cardView" id="C_ctl00_comboTrendingVideos_slider_slider">
 <div class="Slider-prevWrapper">
 <div class="Slider-prev"></div>
 </div>
 <div class="Slider-nextWrapper">
 <div class="Slider-next"></div>
 </div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_3_repeater_3"><div class="Slider-item"><a class="" href="/watch/culture-in-decline-episode-1-what-democracy-by-peter-joseph/">
-<img class="lazy-load" data-original="/img/wide/2ada62e0-ea37-48a6-b403-43cd27a5feed.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_ctl00_comboTrendingVideos_slider_repeater"><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/8-toxic-things-parents-say-to-their-children/">
+<img class="lazy-load" data-original="/img/wide/96ec570e-775d-4312-8958-b59d4bbacd08.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Culture in Decline #1: What Democracy?
+						8 Toxic Things Parents Say To their Children
 					</div>
+<div class="Slider-itemInfo">7 min</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/culture-in-decline-episode-2-economics-101-by-peter-joseph/">
-<img class="lazy-load" data-original="/img/wide/33ac1b80-d4bb-4562-8216-d9c0da987c93.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/david-cross-why-america-sucks-at-everything/">
+<img class="lazy-load" data-original="/img/wide/06b1e6a3-9b63-4088-ab26-ec5734ac066a.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Culture in Decline #2: Economics 101
+						David Cross: Why America Sucks at Everything
 					</div>
+<div class="Slider-itemInfo">13 min</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/cvd-consumption-vanity-disorder/">
-<img class="lazy-load" data-original="/img/wide/635213336981926647.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/the-art-of-letting-go-taoism-documentary/">
+<img class="lazy-load" data-original="/img/wide/295cfdfd-0f74-4876-8282-00e6139950e4.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Culture In Decline #3: C.V.D. - Consumption Vanity Disorder
+						The Art of Letting Go (Taoism Documentary)
 					</div>
+<div class="Slider-itemInfo">93 min</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/culture-in-decline-episode-4-hd-by-peter-joseph/">
-<img class="lazy-load" data-original="/img/wide/15933724-4810-4aff-bdce-e157abb0e7be.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/creating-the-conditions-for-belonging-and-breathing-in-a-toxic-environment-john-a-powell/">
+<img class="lazy-load" data-original="/img/wide/599f21cf-b5f6-4177-9fc2-a2b1c7350a6a.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Culture In Decline #4: The War on Nature
+						Creating the Conditions for Belonging and Breathing in a Toxic Environment | john a. powell
 					</div>
+<div class="Slider-itemInfo">18 min</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/culture-in-decline-5-baby-go-boom-by-peter-joseph/">
-<img class="lazy-load" data-original="/img/wide/8c5f3a71-bcd9-46c1-b07b-9a77daf89a32.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/never-forget-how-the-media-sold-enabled-and-whitewashed-the-iraq-war/">
+<img class="lazy-load" data-original="/img/wide/32bc16f4-3441-4373-9785-e78caef0ada3.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Culture in Decline #5: Baby Go Boom!
+						Never Forget how the Media Sold, Enabled &amp; Whitewashed the Iraq War
 					</div>
+<div class="Slider-itemInfo">3 min</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/culture-in-decline-6-tale-of-two-worlds/">
-<img class="lazy-load" data-original="/img/wide/4c7610c0-4c43-4ee5-b99d-23d2c729f7cb.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/the-peoples-fight-how-we-halt-the-climate-crisis/">
+<img class="lazy-load" data-original="/img/wide/04352f0a-c36c-4a95-9f4d-ce3ccfa2fb38.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Culture in Decline #6: Tale of Two Worlds
+						The People's Fight: How We Halt the Climate Crisis
 					</div>
+<div class="Slider-itemInfo">4 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/the-terrifying-12-trillion-plan-that-could-kill-90-of-humanity-stephen-fry/">
+<img class="lazy-load" data-original="/img/wide/a6d25b00-a076-4b32-9b19-4a83cc600b05.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Terrifying $1.2 Trillion Plan That Could Kill 90% of Humanity | Stephen Fry
+					</div>
+<div class="Slider-itemInfo">12 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/why-all-us-politicians-should-earn-minimum-wage-francesca-fiorentini/">
+<img class="lazy-load" data-original="/img/wide/5306551a-e79f-40a6-8793-dde21786f14f.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Why All US Politicians Should Earn Minimum Wage | Francesca Fiorentini
+					</div>
+<div class="Slider-itemInfo">10 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/coleman-hughes-on-the-white-fragility-theory-with-glenn-loury-and-coleman-hughes-mini-clip/">
+<img class="lazy-load" data-original="/img/wide/40dc944a-b1ec-457c-b854-848a02a89dbf.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Coleman Hughes on The White Fragility Theory with Glenn Loury
+					</div>
+<div class="Slider-itemInfo">6 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/earthlings/">
+<img class="lazy-load" data-original="/img/wide/3bc590e3-53af-4c30-8d84-745ea23c9aa7.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Earthlings (2005)
+					</div>
+<div class="Slider-itemInfo">95 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/cant-get-you-out-of-my-head/">
+<img class="lazy-load" data-original="/img/wide/9de40055-e261-4cc9-b1a8-08d9e5685b32.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Can't Get You Out of My Head (2021)
+					</div>
+<div class="Slider-itemInfo">489 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/coconut-revolution/">
+<img class="lazy-load" data-original="/img/wide/de7b9fbd-525b-42ab-a014-b424103b519f.jpeg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Coconut Revolution (2001)
+					</div>
+<div class="Slider-itemInfo">41 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/schooling-the-world-2010/">
+<img class="lazy-load" data-original="/img/wide/f9f1a175-2f0e-4cb6-8db1-2d1efc6f0dab.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Schooling the World (2010)
+					</div>
+<div class="Slider-itemInfo">66 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/spin/">
+<img class="lazy-load" data-original="/img/wide/cb4b96e4-a855-42da-9b12-23581082d91e.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Spin: Footage You Were Never Supposed to See (1995)
+					</div>
+<div class="Slider-itemInfo">57 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/fantastic-fungi/">
+<img class="lazy-load" data-original="/img/wide/697fd66a-caa3-4ab1-9a17-a219713af8a1.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Fantastic Fungi (2019) ($5)
+					</div>
+<div class="Slider-itemInfo">80 min</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/incredible-animation-summarises-noam-chomskys-5-filters-of-the-mass-media-machine/">
+<img class="lazy-load" data-original="/img/wide/19edce2c-080d-40e4-8aba-c0fc028b41d4.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Incredible Animation Summarises Noam Chomsky's 5 Filters of the Mass Media Machine
+					</div>
+<div class="Slider-itemInfo">5 min</div>
 <span class="h6"></span>
 </div>
 </a></div></div>
 </div>
-<div class="Home-listsSeperator"></div>
+</div>
+</div>
+<div class="Page-section Page-sectionGrayBackground">
+<div class="container container-flushAll">
 <div class="Page-sectionTitle">
-						22 Films to Watch After (Or Instead of) Planet of the Humans
-					</div>
-<div class="Slider Slider-atStart" id="C_repeaterLists1_slider_4_slider_4">
+			Trending Articles
+		</div>
+<div class="Slider Slider-atStart Slider-cardView" id="C_ctl01_comboTrendingArticles_slider_slider">
 <div class="Slider-prevWrapper">
 <div class="Slider-prev"></div>
 </div>
 <div class="Slider-nextWrapper">
 <div class="Slider-next"></div>
 </div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists1_slider_4_repeater_4"><div class="Slider-item"><a class="" href="/watch/michael-moore-presents-planet-of-the-humans/">
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_ctl01_comboTrendingArticles_slider_repeater"><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-confederacy-was-a-con-job-on-whites-and-still-is/">
+<img class="lazy-load" data-original="/img/wide/3d8ebb9f-8bc9-4f9b-9ce2-2376e0e569c0.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Confederacy Was a Con Job on Whites - and Still Is
+					</div>
+<div class="Slider-itemInfo">Frank Hyman</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/so-youre-still-being-publicly-shamed/">
+<img class="lazy-load" data-original="/img/wide/5841c1d5-8855-42f9-b81f-50428c6a53bf.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						So You're Still Being Publicly Shamed
+					</div>
+<div class="Slider-itemInfo">Ben Burgis</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-great-forgetting/">
+<img class="lazy-load" data-original="/img/wide/d0201ccf-ee26-4681-b931-72e9ad334370.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Have You Heard of The Great Forgetting? It Happened 10,000 Years Ago &amp; Completely Affects Your Life
+					</div>
+<div class="Slider-itemInfo">Daniel Quinn</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-top-100-films-for-action/">
+<img class="lazy-load" data-original="/img/wide/fe5153a5-de0a-4f2d-9e2f-91c7e06e0b9b.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Top 100 Documentaries We Can Use to Change the World
+					</div>
+<div class="Slider-itemInfo">Films For Action</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-4-vows-of-the-bodhiactivist/">
+<img class="lazy-load" data-original="/img/wide/2e1cb212-0d91-4519-bf99-8fb3236b37e3.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						It's Hopeless, What a Relief! Now Find Your Tribe. Imagine Something Beautiful and Focus on Creating It.
+					</div>
+<div class="Slider-itemInfo">Tim Hjersted</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-white-man-in-that-photo/">
+<img class="lazy-load" data-original="/img/wide/cbd157e1-0906-4d38-a3fd-e8b140bd6481.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The White Man in That Photo
+					</div>
+<div class="Slider-itemInfo">Riccardo Gazzaniga</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/news/revolution-and-american-indians-marxism-is-as-alien-to-my-culture-as-capitalism/">
+<img class="lazy-load" data-original="/img/wide/e42d76b5-ae08-400d-a641-ea44d46b4f66.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Revolution and American Indians: “Marxism is as Alien to My Culture as Capitalism”
+					</div>
+<div class="Slider-itemInfo">Russell Means</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/over-300-how-to-guides-to-help-you-live-a-beautiful-postgrowth-life/">
+<img class="lazy-load" data-original="/img/wide/5e0bdb32-0f18-4964-bcb1-77f390471dd5.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Over 300 'How to Guides' to Help You Bring a More Beautiful World into Being
+					</div>
+<div class="Slider-itemInfo">Shareable</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/comic-if-bart-simpson-and-chris-griffin-went-to-couples-therapy/">
+<img class="lazy-load" data-original="/img/wide/46171c19-ae5b-494b-8a23-6d4a68235d40.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Comic: If Bart Simpson and Chris Griffin Went to Couples Therapy
+					</div>
+<div class="Slider-itemInfo">Panic Volkushka</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/defiance-in-the-face-of-oppression-iranian-artist-atena-farghadani-defends-the-right-to-draw/">
+<img class="lazy-load" data-original="/img/wide/aedd44c5-d33c-47e0-b4d7-bd179fda277c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Defiance in the Face of Oppression - Iranian Artist Atena Farghadani Defends the Right to Draw
+					</div>
+<div class="Slider-itemInfo">Gavin Aung Than</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/john-lennons-imagine-made-into-a-comic-strip/">
+<img class="lazy-load" data-original="/img/wide/b6bfd471-3489-43c6-a02a-871dcf30d7ee.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						John Lennon's "Imagine," Made Into a Comic Strip
+					</div>
+<div class="Slider-itemInfo">John Lennon. Art by Pablo Stanley</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/documentaries-to-expand-your-consciousness/">
+<img class="lazy-load" data-original="/img/wide/a5c94bbb-7bde-48c6-bbe3-bd80825752d8.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						93 Documentaries to Expand Your Consciousness
+					</div>
+<div class="Slider-itemInfo">Films For Action</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/news/recovered-economic-history-everyone-but-an-idiot-knows-that-the-lower-classes-must-be-kept-poor-or-they-will-never-be-industrious/">
+<img class="lazy-load" data-original="/img/wide/5aefd8d8-22b0-4505-afdf-c4dda12471f0.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Invention of Capitalism: How a Self-Sufficient Peasantry was Whipped Into Industrial Wage Slaves
+					</div>
+<div class="Slider-itemInfo">Yasha Levine</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/10-words-every-girl-should-learn/">
+<img class="lazy-load" data-original="/img/wide/151a2df9-ad75-467b-b571-5ac9b815000b.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						10 Words Every Girl Should Learn
+					</div>
+<div class="Slider-itemInfo">Soraya Chemaly</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/capitalism-and-communism-same-goal/">
+<img class="lazy-load" data-original="/img/wide/951ce542-abfd-41c9-a842-1fb1aa570e3a.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Capitalism and Communism - Two Economic Systems With the Same Goal
+					</div>
+<div class="Slider-itemInfo">Chris Agnos</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/pathological-consumption-has-become-so-normalised-that-we-scarcely-notice-it/">
+<img class="lazy-load" data-original="/img/wide/40c2b0c0-dc50-4ce4-b07f-75c8151c147e.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Pathological Consumption Has Become So Normalised That We Scarcely Notice It
+					</div>
+<div class="Slider-itemInfo">George Monbiot</div>
+<span class="h6"></span>
+</div>
+</a></div></div>
+</div>
+</div>
+</div>
+<div class="Page-section">
+<div class="container container-flushAll">
+<div class="clearfix" id="C_repeaterLists2">
+<div class="Page-sectionTitle">
+						22 Films to Watch After (Or Instead of) Planet of the Humans
+					</div>
+<div class="Slider Slider-atStart" id="C_repeaterLists2_slider_0_slider_0">
+<div class="Slider-prevWrapper">
+<div class="Slider-prev"></div>
+</div>
+<div class="Slider-nextWrapper">
+<div class="Slider-next"></div>
+</div>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_0_repeater_0"><div class="Slider-item"><a class="" href="/watch/michael-moore-presents-planet-of-the-humans/">
 <img class="lazy-load" data-original="/img/wide/80e69b8e-f436-44f9-835b-c6db01f343a5.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
@@ -1064,7 +1874,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <img class="lazy-load" data-original="/img/wide/e0bf7d4c-6331-481a-b8ab-8ef76fab36f8.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						United Natures: a United Nations of all Species (2013)
+						United Natures: a United Nations of all Species (2013) (trailer)
 					</div>
 <span class="h6"></span>
 </div>
@@ -1150,451 +1960,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 </div>
 </a></div></div>
 </div>
-</div>
-</div>
-</div>
-<div class="Page-section Page-sectionYellowBackground">
-<div class="container container-flushAll">
-<div class="Page-sectionTitle">
-			Trending Videos
-		</div>
-<div class="Slider Slider-atStart Slider-cardView" id="C_ctl00_comboTrendingVideos_slider_slider">
-<div class="Slider-prevWrapper">
-<div class="Slider-prev"></div>
-</div>
-<div class="Slider-nextWrapper">
-<div class="Slider-next"></div>
-</div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_ctl00_comboTrendingVideos_slider_repeater"><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/david-cross-why-america-sucks-at-everything/">
-<img class="lazy-load" data-original="/img/wide/06b1e6a3-9b63-4088-ab26-ec5734ac066a.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						David Cross: Why America Sucks at Everything
-					</div>
-<div class="Slider-itemInfo">13 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/the-video-the-royal-family-does-not-want-you-to-see-nabil-abdulrashid/">
-<img class="lazy-load" data-original="/img/wide/fba85b6e-87ba-4e42-b71f-d0db393897f6.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Video the Royal Family Does Not Want You To See | Nabil Abdulrashid
-					</div>
-<div class="Slider-itemInfo">10 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/why-america-throws-the-poor-in-prison/">
-<img class="lazy-load" data-original="/img/wide/38e093f7-2e10-4510-8e94-10f40a5b0c38.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Why America Throws the Poor in Prison
-					</div>
-<div class="Slider-itemInfo">8 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/why-the-united-states-cant-handle-crises/">
-<img class="lazy-load" data-original="/img/wide/df5ab557-cb4e-4884-b899-eff8e7487156.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Why The United States Can't Handle Crises
-					</div>
-<div class="Slider-itemInfo">17 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/til-kingdom-come/">
-<img class="lazy-load" data-original="/img/wide/b4e21eac-456e-484a-961a-2f1970648de5.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						'Til Kingdom Come (2021) (trailer)
-					</div>
-<div class="Slider-itemInfo">2 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/the-terrifying-12-trillion-plan-that-could-kill-90-of-humanity-stephen-fry/">
-<img class="lazy-load" data-original="/img/wide/a6d25b00-a076-4b32-9b19-4a83cc600b05.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Terrifying $1.2 Trillion Plan That Could Kill 90% of Humanity | Stephen Fry
-					</div>
-<div class="Slider-itemInfo">12 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/bullied/">
-<img class="lazy-load" data-original="/img/wide/ab68f032-38b3-4ed3-9a65-c4cef1651902.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Bullied (2019) ($4)
-					</div>
-<div class="Slider-itemInfo">67 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/a-guide-to-us-empire-in-africa-neocolonial-order-and-africom/">
-<img class="lazy-load" data-original="/img/wide/af29e1f2-3b03-4689-b875-59b509c99c1c.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						A Guide to US Empire in Africa: Neocolonial Order &amp; AFRICOM (2021)
-					</div>
-<div class="Slider-itemInfo">54 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/why-all-us-politicians-should-earn-minimum-wage-francesca-fiorentini/">
-<img class="lazy-load" data-original="/img/wide/5306551a-e79f-40a6-8793-dde21786f14f.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Why All US Politicians Should Earn Minimum Wage | Francesca Fiorentini
-					</div>
-<div class="Slider-itemInfo">10 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/why-you-shouldnt-be-distracted-by-the-royal-circus-prof-john-ashton/">
-<img class="lazy-load" data-original="/img/wide/10ee55d7-343d-4917-8ceb-ee345bb703b1.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Why You Shouldn't Be Distracted By The Royal Circus | Prof John Ashton
-					</div>
-<div class="Slider-itemInfo">10 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/how-we-all-became-richard-nixon-adam-curtis/">
-<img class="lazy-load" data-original="/img/wide/7b5b6f2f-c505-4ec9-be00-b881d14b9898.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						How We All Became Richard Nixon | Adam Curtis
-					</div>
-<div class="Slider-itemInfo">7 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/the-peoples-fight-how-we-halt-the-climate-crisis/">
-<img class="lazy-load" data-original="/img/wide/04352f0a-c36c-4a95-9f4d-ce3ccfa2fb38.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The People's Fight: How We Halt the Climate Crisis
-					</div>
-<div class="Slider-itemInfo">4 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/earthlings/">
-<img class="lazy-load" data-original="/img/wide/3bc590e3-53af-4c30-8d84-745ea23c9aa7.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Earthlings (2005)
-					</div>
-<div class="Slider-itemInfo">95 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/cnn-criticism-of-sinema-on-15-minimum-wage-is-sexist/">
-<img class="lazy-load" data-original="/img/wide/9fdcb3d5-fe33-4f7c-9297-ccb8f319a56a.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						CNN: Criticism Of Sinema On $15 Minimum Wage Is Sexist
-					</div>
-<div class="Slider-itemInfo">10 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/spin/">
-<img class="lazy-load" data-original="/img/wide/cb4b96e4-a855-42da-9b12-23581082d91e.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Spin: Footage You Were Never Supposed to See (1995)
-					</div>
-<div class="Slider-itemInfo">57 min</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/watch/slavery-by-another-name/">
-<img class="lazy-load" data-original="/img/wide/40445f4d-5596-4d39-8b24-f4d6a7abf655.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Slavery by Another Name (2012)
-					</div>
-<div class="Slider-itemInfo">85 min</div>
-<span class="h6"></span>
-</div>
-</a></div></div>
-</div>
-</div>
-</div>
-<div class="Page-section Page-sectionGrayBackground">
-<div class="container container-flushAll">
-<div class="Page-sectionTitle">
-			Trending Articles
-		</div>
-<div class="Slider Slider-atStart Slider-cardView" id="C_ctl01_comboTrendingArticles_slider_slider">
-<div class="Slider-prevWrapper">
-<div class="Slider-prev"></div>
-</div>
-<div class="Slider-nextWrapper">
-<div class="Slider-next"></div>
-</div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_ctl01_comboTrendingArticles_slider_repeater"><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-white-man-in-that-photo/">
-<img class="lazy-load" data-original="/img/wide/cbd157e1-0906-4d38-a3fd-e8b140bd6481.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The White Man in That Photo
-					</div>
-<div class="Slider-itemInfo">Riccardo Gazzaniga</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/over-300-how-to-guides-to-help-you-live-a-beautiful-postgrowth-life/">
-<img class="lazy-load" data-original="/img/wide/5e0bdb32-0f18-4964-bcb1-77f390471dd5.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Over 300 'How to Guides' to Help You Bring a More Beautiful World into Being
-					</div>
-<div class="Slider-itemInfo">Shareable</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-top-100-films-for-action/">
-<img class="lazy-load" data-original="/img/wide/fe5153a5-de0a-4f2d-9e2f-91c7e06e0b9b.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Top 100 Documentaries We Can Use to Change the World
-					</div>
-<div class="Slider-itemInfo">Films For Action</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/have-you-heard-of-the-great-forgetting/">
-<img class="lazy-load" data-original="/img/wide/93fd76ae-939d-425a-9bb4-73eb9fc17a42.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Great Forgetting: You Probably Haven't Heard About It but It Completely Affects Your Life
-					</div>
-<div class="Slider-itemInfo">Deep Ecology Hub</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/comic-if-bart-simpson-and-chris-griffin-went-to-couples-therapy/">
-<img class="lazy-load" data-original="/img/wide/46171c19-ae5b-494b-8a23-6d4a68235d40.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Comic: If Bart Simpson and Chris Griffin Went to Couples Therapy
-					</div>
-<div class="Slider-itemInfo">Panic Volkushka</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/news/survival-of-the-nicest/">
-<img class="lazy-load" data-original="/img/wide/54c2cf0c-d9bd-4d1d-89f9-d9abda9cb0aa.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Survival Of The Nicest? A Theory Of Our Origins Says Cooperation-Not Competition-Is Instinctive
-					</div>
-<div class="Slider-itemInfo">Eric Michael Johnson</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/pathological-consumption-has-become-so-normalised-that-we-scarcely-notice-it/">
-<img class="lazy-load" data-original="/img/wide/40c2b0c0-dc50-4ce4-b07f-75c8151c147e.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Pathological Consumption Has Become So Normalised That We Scarcely Notice It
-					</div>
-<div class="Slider-itemInfo">George Monbiot</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-circle-of-courage-native-american-model-of-education/">
-<img class="lazy-load" data-original="/img/wide/628c18c0-d9b2-4b52-b7b9-72ffe9727da9.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Circle of Courage – Native American Model of Education
-					</div>
-<div class="Slider-itemInfo">Reclaiming Youth International</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/news/revolution-and-american-indians-marxism-is-as-alien-to-my-culture-as-capitalism/">
-<img class="lazy-load" data-original="/img/wide/e42d76b5-ae08-400d-a641-ea44d46b4f66.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Revolution and American Indians: “Marxism is as Alien to My Culture as Capitalism”
-					</div>
-<div class="Slider-itemInfo">Russell Means</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/defiance-in-the-face-of-oppression-iranian-artist-atena-farghadani-defends-the-right-to-draw/">
-<img class="lazy-load" data-original="/img/wide/aedd44c5-d33c-47e0-b4d7-bd179fda277c.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Defiance in the Face of Oppression - Iranian Artist Atena Farghadani Defends the Right to Draw
-					</div>
-<div class="Slider-itemInfo">Gavin Aung Than</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/10-female-revolutionaries-that-you-probably-didnt-learn-about-in-history-class/">
-<img class="lazy-load" data-original="/img/wide/0fa70b95-6ff0-4443-8c0e-ac7c7c615765.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						10 Female Revolutionaries That You Probably Didn't Learn About In History class
-					</div>
-<div class="Slider-itemInfo">Kathleen Harris</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/john-lennons-imagine-made-into-a-comic-strip/">
-<img class="lazy-load" data-original="/img/wide/b6bfd471-3489-43c6-a02a-871dcf30d7ee.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						John Lennon's "Imagine," Made Into a Comic Strip
-					</div>
-<div class="Slider-itemInfo">John Lennon. Art by Pablo Stanley</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/depression-is-a-disease-of-civilization-huntergatherers-hold-the-key-to-the-cure-return-to-now/">
-<img class="lazy-load" data-original="/img/wide/afcff38c-abad-493a-b9bf-1bd1a092ee97.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Depression Is a Disease of Civilization: Hunter-Gatherers Hold the Key to the Cure
-					</div>
-<div class="Slider-itemInfo">Sara Burrows</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/documentaries-to-expand-your-consciousness/">
-<img class="lazy-load" data-original="/img/wide/a5c94bbb-7bde-48c6-bbe3-bd80825752d8.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						93 Documentaries to Expand Your Consciousness
-					</div>
-<div class="Slider-itemInfo">Films For Action</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/the-oligarchy-knows-class-warfare-is-the-real-fightwhy-dont-liberals/">
-<img class="lazy-load" data-original="/img/wide/2587ac19-f55b-4a12-9981-9f8569845120.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Oligarchy Knows Class Warfare Is the Real Fight—Why Don't Liberals?
-					</div>
-<div class="Slider-itemInfo">Chris Hedges</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item Slider-itemCard"><a class="Card" href="/articles/films-of-visionary-ways-of-seeing-the-world-both-ancient-and-new/">
-<img class="lazy-load" data-original="/img/wide/8c6cc0e1-e2c4-4d70-9714-c55e174ae25a.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						90 Inspiring, Visionary Films That Will Change How You See the World in Profound Ways
-					</div>
-<div class="Slider-itemInfo">Tim Hjersted</div>
-<span class="h6"></span>
-</div>
-</a></div></div>
-</div>
-</div>
-</div>
-<div class="Page-section">
-<div class="container container-flushAll">
-<div class="clearfix" id="C_repeaterLists2">
-<div class="Page-sectionTitle">
-						Hope is a Verb
-					</div>
-<div class="Slider Slider-atStart" id="C_repeaterLists2_slider_0_slider_0">
-<div class="Slider-prevWrapper">
-<div class="Slider-prev"></div>
-</div>
-<div class="Slider-nextWrapper">
-<div class="Slider-next"></div>
-</div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_0_repeater_0"><div class="Slider-item"><a class="" href="/articles/despair-is-not-a-strategy-15-principles-of-hope/">
-<img class="lazy-load" data-original="/img/wide/3de31d2a-a2cd-4eee-9ed4-209e44161aeb.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Despair Is Not a Strategy: 15 Principles of Hope
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/the-4-vows-of-the-bodhiactivist/">
-<img class="lazy-load" data-original="/img/wide/2e1cb212-0d91-4519-bf99-8fb3236b37e3.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The 4 Vows of the Bodhi-Activist
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/how-you-are-already-seeding-transformation/">
-<img class="lazy-load" data-original="/img/wide/788823ec-0f2e-49e9-a637-528137c9a8b1.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Be an Island Crystal of Hope In These Times of Profound Global Turbulence
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/fear-vs-hope-as-motivation-anjali-appadurai/">
-<img class="lazy-load" data-original="/img/wide/6e60a234-54e8-4436-85c0-1b1654cf2831.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Hope vs. Fear - Motivation for Change - Anjali Appadurai
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/jane-goodall-sowing-the-seeds-of-hope/">
-<img class="lazy-load" data-original="/img/wide/7ef771e4-11ad-48cb-9ce6-033bff18d792.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Jane Goodall - Sowing the Seeds of Hope
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/resilience-the-biology-of-stress-and-the-science-of-hope/">
-<img class="lazy-load" data-original="/img/wide/95bba485-3bbb-46c5-bd95-c0ccab450321.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Resilience: The Biology Of Stress And The Science Of Hope (trailer)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/strategies-of-hope-how-americans-can-fight-hate-under-trump/">
-<img class="lazy-load" data-original="/img/wide/ab79f153-37ed-4d38-be9c-d94a9efb8c8d.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Strategies of Hope: How Americans Can Fight Hate Under Trump
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/give-up-hope-its-the-best-chance-we-have-to-save-everything-we-love/">
-<img class="lazy-load" data-original="/img/wide/3e10ec1b-8a90-4285-a6de-d80bb62b873c.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Give Up Hope: It's The Best Chance We Have to Save Everything We Love
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/rojavas-democratic-feminist-revolution-a-source-of-hope-among-horror/">
-<img class="lazy-load" data-original="/img/wide/2dc47820-45f3-4c0d-b3b2-c5f62fe5329b.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Rojava’s Democratic, Feminist Revolution a Source of Hope among Horror
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/films-of-visionary-ways-of-seeing-the-world-both-ancient-and-new/">
-<img class="lazy-load" data-original="/img/wide/8c6cc0e1-e2c4-4d70-9714-c55e174ae25a.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						90 Inspiring, Visionary Films That Will Change How You See the World in Profound Ways
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/the-new-bodhisattva-path/">
-<img class="lazy-load" data-original="/img/wide/44da00aa-3c22-442b-a578-604ede395f1d.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Bodhisattva’s Approach to Activism: A Little Courageous Wisdom to Face a World Gone Mad
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/can-beauty-save-our-planet-chris-jordan/">
-<img class="lazy-load" data-original="/img/wide/3bed3e95-48c4-416e-897a-2b97739cce3b.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Can Beauty Save Our Planet? | Chris Jordan
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/the-circle-of-courage-native-american-model-of-education/">
-<img class="lazy-load" data-original="/img/wide/628c18c0-d9b2-4b52-b7b9-72ffe9727da9.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Circle of Courage – Native American Model of Education
-					</div>
-<span class="h6"></span>
-</div>
-</a></div></div>
-</div>
 <div class="Home-listsSeperator"></div>
 <div class="Page-sectionTitle">
-						Trailers
+						Imperialism
 					</div>
 <div class="Slider Slider-atStart" id="C_repeaterLists2_slider_1_slider_1">
 <div class="Slider-prevWrapper">
@@ -1603,79 +1971,273 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Slider-nextWrapper">
 <div class="Slider-next"></div>
 </div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_1_repeater_1"><div class="Slider-item"><a class="" href="/watch/the-internets-own-boy/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/c048a60d-43f1-4e0b-985a-e73df43be178.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_1_repeater_1"><div class="Slider-item"><a class="" href="/watch/theres-nothing-more-american-than-imperialism-baby/">
+<img class="lazy-load" data-original="/img/wide/0ca2705f-e966-482d-b1e7-4b536c0c2f4b.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						The Internet's Own Boy (2014)
+						There's Nothing More American than Imperialism, Baby
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/super-size-me/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/f208fd35-3694-4134-b37b-3200e559f5c4.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/empire-files-with-abby-martin-launches-first-show/">
+<img class="lazy-load" data-original="/img/wide/2c64b5ff-64a8-4cc3-bcec-4c3af2fcaef5.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Super Size Me (2004)
+						The Rise of History's Biggest Empire
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/seed-swap-in-the-ozarks/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/a412427c-9b6c-4000-bf09-157f7e40ec96.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-power-principle-corporate-empire-and-the-rise-of-the-national-security-state-2012/">
+<img class="lazy-load" data-original="/img/wide/7a0e9337-6a38-4742-a8d0-704f1b5f3a4f.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Seed Swap in the Ozarks
+						The Power Principle: Corporate Empire and the Rise of the National Security State (2012)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/spiritually-incorrect/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/2d1921d3-98d2-462d-a918-3d6f5e346084.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/schooling-the-world-2010/">
+<img class="lazy-load" data-original="/img/wide/f9f1a175-2f0e-4cb6-8db1-2d1efc6f0dab.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Spiritually Incorrect (2020) ($4)
+						Schooling the World (2010)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/losing-the-marshes-a-true-story-of-the-olympics-2013-segment/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/a46cbac5-3d87-4785-a81f-79ef315a6a86.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/counterintelligence-shining-a-light-on-black-operations-2013/">
+<img class="lazy-load" data-original="/img/wide/18f570bc-f847-468a-afb4-77241ff9c2bb.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Losing the Marshes a true story of the Olympics 2013 (Segment)
+						Counter-Intelligence: Shining a Light on Black Operations (2013)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-crisis-of-civilization-2011/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/8df9b220-3882-4742-b7ab-26bea3348d24.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/oliver-stone-the-untold-history-of-the-united-states-2012/">
+<img class="lazy-load" data-original="/img/wide/69bfa477-7e82-4a45-899c-473f2b75baae.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						The Crisis of Civilization (2011)
+						Oliver Stone: The Untold History Of The United States (2012)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-economics-of-happiness/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/13e3d87d-5b0b-468d-b48c-183131b2e343.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/what-ive-learned-about-us-foreign-policy/">
+<img class="lazy-load" data-original="/img/wide/00508519-c40f-4f12-8804-c0baa68e3b2a.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						The Economics of Happiness (2011)
+						What I've Learned About U.S. Foreign Policy (2000)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/png-style-a-solo-journey-around-papua-new-guinea-88mins2010/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/b4f12f3f-9e87-4149-8a2d-24a23d15a6e2.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/hijacking-catastrophe-911-fear-and-the-selling-of-american-empire-2004/">
+<img class="lazy-load" data-original="/img/wide/242d984c-daa8-4110-ac4d-c54f9719cc7d.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						PNG Style - A Solo journey around Papua New Guinea (2010)
+						Hijacking Catastrophe: 9/11, Fear &amp; The Selling Of American Empire (2004)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/documental-operacion-pacific-rubiales/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/b66aad5f-25fd-4714-9b1c-af6ad534309a.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/obey-2013/">
+<img class="lazy-load" data-original="/img/wide/53ecc96e-e5f1-484f-8f02-9a773804c3b1.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Documental Operación Pacific Rubiales
+						Obey (2013)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/do-the-math-the-movie/?trailer=true">
+</a></div><div class="Slider-item"><a class="" href="/watch/war-by-other-means/">
+<img class="lazy-load" data-original="/img/wide/635151040278510227.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						War By Other Means (1992)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/afghanistan-war-exposed-an-imperial-conspiracy/">
+<img class="lazy-load" data-original="/img/wide/52e0b709-bc6f-4616-a81e-f1d650cc32f5.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Afghanistan War Exposed: An Imperial Conspiracy
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/us-empire-exploits-covid19-for-more-war/">
+<img class="lazy-load" data-original="/img/wide/fe6884b0-9db9-4e46-adb5-46c90bcd3d56.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						US Empire Exploits COVID-19 For More War
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/wantoks-dance-of-resilience-in-melanesia/">
+<img class="lazy-load" data-original="/img/wide/30521b9b-f41d-4253-883f-a62bee53750c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Wantoks: Dance of Resilience in Melanesia
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-spiders-web-britains-second-empire/">
+<img class="lazy-load" data-original="/img/wide/a88c6ea3-8383-4eef-b54d-3fa10b800079.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Spider's Web: Britain's Second Empire (2018)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/war-made-easy/">
+<img class="lazy-load" data-original="/img/wide/c718dfed-a988-4288-a080-bb729e4ca60f.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						War Made Easy (2007) (trailer)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-canary-effect-kill-the-indian-save-the-man/">
+<img class="lazy-load" data-original="/img/wide/10e502ef-061f-4816-b4f1-2eeee593c29f.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Canary Effect: Kill the Indian, Save the Man (2006)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div></div>
+</div>
+<div class="Home-listsSeperator"></div>
+<div class="Page-sectionTitle">
+						The Bloom Series: A Journey Through Transformational Festivals
+					</div>
+<div class="Slider Slider-atStart" id="C_repeaterLists2_slider_2_slider_2">
+<div class="Slider-prevWrapper">
+<div class="Slider-prev"></div>
+</div>
+<div class="Slider-nextWrapper">
+<div class="Slider-next"></div>
+</div>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_2_repeater_2"><div class="Slider-item"><a class="" href="/watch/the-bloom-episode-1/">
+<img class="lazy-load" data-original="/img/wide/9d4d99e5-cc70-4e52-a355-349ff3358895.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Bloom Episode 1: Fundamental Frequencies
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-bloom-episode-2/">
+<img class="lazy-load" data-original="/img/wide/e61a4662-b2c8-467b-8491-23d00e6ef99d.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Bloom Episode 2: Practicing The New World
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-bloom-episode-3/">
+<img class="lazy-load" data-original="/img/wide/0a1d0370-e9a0-48ee-88ac-b469a9905bb4.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Bloom Episode 3: New Ways of the Sacred
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-bloom-a-journey-through-transformational-festivals/">
+<img class="lazy-load" data-original="/img/wide/2e75fc45-b072-4c83-9761-a3863fb40ab2.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Bloom: A Journey Through Transformational Festivals (trailer)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/films-for-action-and-the-bloom-transformational-festivals-panel-practicing-the-new-world/">
+<img class="lazy-load" data-original="/img/wide/d1921a38-a78c-447b-80fe-8db5f0092643.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Films For Action &amp; The Bloom: Transformational Festivals Panel - "Practicing The New World"
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/transformational-festivals-panel-2-new-ways-of-the-sacred/">
+<img class="lazy-load" data-original="/img/wide/f498325f-e143-4912-ae05-f7f58f2a8c18.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Transformational Festivals Panel #2 - "New Ways Of The Sacred"
+					</div>
+<span class="h6"></span>
+</div>
+</a></div></div>
+</div>
+<div class="Home-listsSeperator"></div>
+<div class="Page-sectionTitle">
+						Climate Change Documentaries
+					</div>
+<div class="Slider Slider-atStart" id="C_repeaterLists2_slider_3_slider_3">
+<div class="Slider-prevWrapper">
+<div class="Slider-prev"></div>
+</div>
+<div class="Slider-nextWrapper">
+<div class="Slider-next"></div>
+</div>
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_3_repeater_3"><div class="Slider-item"><a class="" href="/watch/inner-climate-change-2020/">
+<img class="lazy-load" data-original="/img/wide/886acf46-0f45-4c90-82d1-a4ad8307c965.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Inner Climate Change: The Change Starts Within You (2020)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/fairytales-of-growth-2020/">
+<img class="lazy-load" data-original="/img/wide/84622fc4-066c-4b6c-af84-c4c8ff02bb88.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Fairytales of Growth (2020)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-troublemaker/">
+<img class="lazy-load" data-original="/img/wide/134598a5-cd06-469d-ae90-b5f64795b958.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Troublemaker (2020) ($4)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/kiss-the-ground-official-movie-trailer-2020/">
+<img class="lazy-load" data-original="/img/wide/e03b6453-7597-45d7-b5a5-5c067a339378.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Kiss the Ground (2020) (trailer)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/a-climate-of-change-2014/">
+<img class="lazy-load" data-original="/img/wide/f73f76c6-831c-4927-bbae-a0544fcd15b2.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						A Climate Of Change (2014)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-soil-solution/">
+<img class="lazy-load" data-original="/img/wide/0a4e2330-345e-42e2-81e2-8681e08127bf.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Soil Solution To Climate Change (2013)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/disobedience-2016/">
+<img class="lazy-load" data-original="/img/wide/03d39e44-3d9d-4591-a8de-cef10fd78fa4.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Disobedience: The Courage To Break Free (2016)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/disruption-2014/">
+<img class="lazy-load" data-original="/img/wide/3fe4f62f-df35-4096-bfc4-23cd08180d6c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Disruption (2014)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/do-the-math-the-movie/">
 <img class="lazy-load" data-original="/img/wide/94dfbbc2-0122-47e1-9bd4-aab008921706.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
@@ -1683,19 +2245,131 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/bullied/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/ab68f032-38b3-4ed3-9a65-c4cef1651902.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/chasing-ice-2012/">
+<img class="lazy-load" data-original="/img/wide/b050c6ed-68d7-44b2-a225-51302f1bc053.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Bullied (2019) ($4)
+						Chasing Ice (2012) (trailer)
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/tough-talk-season-2-a-series-about-mens-mental-health/?trailer=true">
-<img class="lazy-load" data-original="/img/wide/553d4933-e7c1-4133-b9ce-29417d212e97.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/a-burning-question-propaganda-and-the-denial-of-climate-change-2012/">
+<img class="lazy-load" data-original="/img/wide/f0bfeea0-9a03-4720-ac58-da12db0bc921.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Tough Talk: Season 2, A Series About Men's Mental Health
+						A Burning Question: Propaganda &amp; The Denial Of Climate Change (2012)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/tomorrows-power-documentary/">
+<img class="lazy-load" data-original="/img/wide/b5e73583-438f-4eb9-bb3c-a3e02a62f0ee.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Tomorrow's Power (2019)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-carbon-rush-documentary/">
+<img class="lazy-load" data-original="/img/wide/a05fc3f8-c5aa-45dc-8328-5b159aad8660.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Carbon Rush (2019)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/hope-in-a-changing-climate/">
+<img class="lazy-load" data-original="/img/wide/ef649288-61ef-496c-8540-6a3d4ca6447c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Hope in a Changing Climate (2009)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/climate-of-doubt-2012/">
+<img class="lazy-load" data-original="/img/wide/f13100d9-f2bb-47b8-8b30-b95a4cf00475.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Climate of Doubt (2012)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/years-of-living-dangerously-premiere-full-episode/">
+<img class="lazy-load" data-original="/img/wide/19b38163-1c05-463b-8e0e-dad8d83a192f.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Years of Living Dangerously (2014)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/anima-mundi-permaculture-peak-oil-climate-change-and-the-gaia-theory/">
+<img class="lazy-load" data-original="/img/wide/c753fd7d-0699-4efb-9234-c7a615518d08.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Anima Mundi: Permaculture, Deep Ecology &amp; the Soul of the World (2011)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/how-to-let-go-of-the-world-and-love-all-the-things-climate-cant-change/">
+<img class="lazy-load" data-original="/img/wide/37671a7f-6137-400d-b918-f900f3fb3be9.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						How to Let Go of the World and Love All the Things Climate Can't Change (2016) (trailer)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/2040/">
+<img class="lazy-load" data-original="/img/wide/5e964b93-34fe-489f-9804-9733d4c7c680.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						2040 (trailer)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/out-of-balance-exxonmobils-impact-on-climate-change-2007/">
+<img class="lazy-load" data-original="/img/wide/f9027f74-3484-4e8b-b8f4-2c5e7d350b46.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Out Of Balance: ExxonMobil's Impact on Climate Change (2007)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-wisdom-to-survive-climate-change-capitalism-and-communitytrailer/">
+<img class="lazy-load" data-original="/img/wide/43c405f9-0006-4320-95ae-d8d5ab27db3a.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Wisdom To Survive: Climate Change, Capitalism &amp; Community (trailer)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/before-the-flood-2016/">
+<img class="lazy-load" data-original="/img/wide/bc6b3baa-a2ee-4092-9de7-4fb17da0bcbf.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Before the Flood (2016) ($4)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-climate-changers/">
+<img class="lazy-load" data-original="/img/wide/873793a0-1528-4353-a5c2-d7222783099e.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Climate Changers (2016)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/greedy-lying-bastards/">
+<img class="lazy-load" data-original="/img/wide/543f72ec-9911-44b3-8fc2-3c05b478537c.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Greedy Lying Bastards (2013) (trailer)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-island-president-2011/">
+<img class="lazy-load" data-original="/img/wide/69ebd1f4-eb54-4287-aeaa-5308f03d65da.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Island President (2011) (trailer)
 					</div>
 <span class="h6"></span>
 </div>
@@ -1705,14 +2379,14 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Page-sectionTitle">
 						Emotional Literacy
 					</div>
-<div class="Slider Slider-atStart" id="C_repeaterLists2_slider_2_slider_2">
+<div class="Slider Slider-atStart" id="C_repeaterLists2_slider_4_slider_4">
 <div class="Slider-prevWrapper">
 <div class="Slider-prev"></div>
 </div>
 <div class="Slider-nextWrapper">
 <div class="Slider-next"></div>
 </div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_2_repeater_2"><div class="Slider-item"><a class="" href="/articles/the-myth-of-positivity-why-your-pain-holds-a-mighty-purpose/">
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_4_repeater_4"><div class="Slider-item"><a class="" href="/articles/the-myth-of-positivity-why-your-pain-holds-a-mighty-purpose/">
 <img class="lazy-load" data-original="/img/wide/30435e28-b2ba-440b-be21-b38543d926aa.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
@@ -2076,248 +2750,6 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 </div>
 <div class="Home-listsSeperator"></div>
 <div class="Page-sectionTitle">
-						How Government Works
-					</div>
-<div class="Slider Slider-atStart" id="C_repeaterLists2_slider_3_slider_3">
-<div class="Slider-prevWrapper">
-<div class="Slider-prev"></div>
-</div>
-<div class="Slider-nextWrapper">
-<div class="Slider-next"></div>
-</div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_3_repeater_3"><div class="Slider-item"><a class="" href="/watch/the-power-principle-corporate-empire-and-the-rise-of-the-national-security-state-2012/">
-<img class="lazy-load" data-original="/img/wide/7a0e9337-6a38-4742-a8d0-704f1b5f3a4f.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Power Principle: Corporate Empire and the Rise of the National Security State (2012)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/lifting-the-veil-obama-and-the-failure-of-capitalist-democracy-2011/">
-<img class="lazy-load" data-original="/img/wide/dff88ef9-33d0-44bb-b368-03bd67665328.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Lifting the Veil:  Obama and the Failure of Capitalist Democracy (2011)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/counterintelligence-shining-a-light-on-black-operations-2013/">
-<img class="lazy-load" data-original="/img/wide/18f570bc-f847-468a-afb4-77241ff9c2bb.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Counter-Intelligence: Shining a Light on Black Operations (2013)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/plutocracy/">
-<img class="lazy-load" data-original="/img/wide/feb2f4b0-d9c6-49e9-ad79-288732c2c3bd.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Plutocracy: Political Repression In The U.S.A. (2019)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/governments-lie-howard-zinn-on-understanding-class-war-and-immigration-through-history/">
-<img class="lazy-load" data-original="/img/wide/98c2947d-d36d-414d-a5a4-cd805ff27648.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Governments Lie: Howard Zinn on Understanding Class, War, and Immigration Through History
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/oliver-stone-the-untold-history-of-the-united-states-2012/">
-<img class="lazy-load" data-original="/img/wide/69bfa477-7e82-4a45-899c-473f2b75baae.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Oliver Stone: The Untold History Of The United States (2012)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-canary-effect-kill-the-indian-save-the-man/">
-<img class="lazy-load" data-original="/img/wide/10e502ef-061f-4816-b4f1-2eeee593c29f.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Canary Effect: Kill the Indian, Save the Man (2006)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-power-of-nightmares-13-the-rise-of-the-politics-of-fear/">
-<img class="lazy-load" data-original="/img/wide/493d0639-d86b-4dcb-baf5-258c8b5a644b.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						BBC:  The Power of Nightmares (2004)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-secret-government-the-constitution-in-crisis/">
-<img class="lazy-load" data-original="/img/wide/635349127011721325.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Secret Government: The Constitution in Crisis (1987)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/who-rules-america-2012/">
-<img class="lazy-load" data-original="/img/wide/3da69b3d-2a77-4f6c-8c08-b6f2892223d9.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Who Rules America? (2012)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/war-by-other-means/">
-<img class="lazy-load" data-original="/img/wide/635151040278510227.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						War By Other Means (1992)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-century-of-the-self/">
-<img class="lazy-load" data-original="/img/wide/c958db2a-c60b-406a-8dfa-b648eeebba1c.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Century of the Self (2002)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-shock-doctrine-2009/">
-<img class="lazy-load" data-original="/img/wide/ef1a9c9e-04ca-418e-b046-acfda2d5d46b.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Shock Doctrine (2009)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/bitter-lake-2015/">
-<img class="lazy-load" data-original="/img/wide/e22d7ef5-6d86-408d-bf6c-c6592d62e608.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Bitter Lake (2015)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/knock-down-the-house/">
-<img class="lazy-load" data-original="/img/wide/72c83805-e625-4097-85d4-d368f96a8a2d.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Knock Down The House (2019)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div></div>
-</div>
-<div class="Home-listsSeperator"></div>
-<div class="Page-sectionTitle">
-						Reading Library
-					</div>
-<div class="Slider Slider-atStart" id="C_repeaterLists2_slider_4_slider_4">
-<div class="Slider-prevWrapper">
-<div class="Slider-prev"></div>
-</div>
-<div class="Slider-nextWrapper">
-<div class="Slider-next"></div>
-</div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_4_repeater_4"><div class="Slider-item"><a class="" href="/articles/the-age-of-social-murder/">
-<img class="lazy-load" data-original="/img/wide/6a749226-1446-413c-9fc9-535bce6ebad4.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Age of Social Murder
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/to-reason-with-a-madman/">
-<img class="lazy-load" data-original="/img/wide/8c8da45b-38fb-4c20-85e9-892c049da4a2.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						To Reason With a Madman
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/chris-hedges-cancel-culture-where-liberalism-goes-to-die/">
-<img class="lazy-load" data-original="/img/wide/103447ee-a01e-487f-9b45-f96911925de3.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Cancel Culture, Where Liberalism Goes to Die
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/the-journalistic-tattletale-and-censorship-industry-suffers-several-welldeserved-blows/">
-<img class="lazy-load" data-original="/img/wide/06a6e327-765b-455a-bae1-c9f5aee13189.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Journalistic Tattletale and Censorship Industry Suffers Several Well-Deserved Blows
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/the-five-real-conspiracies-you-need-to-know-about/">
-<img class="lazy-load" data-original="/img/wide/8a923efd-9904-4f0e-a1c9-ffb488ec417b.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Five Real Conspiracies You Need to Know About
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/you-cant-hurt-the-gangsters-at-the-capitalist-casino-by-shuffling-the-chips-around-to-different-bets-you-take-their-chips-off-the-table/">
-<img class="lazy-load" data-original="/img/wide/2ad8e9ce-cdbe-45ac-8f29-fd80265055da.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						You Can't Hurt the Gangsters at the Capitalist Casino by Shuffling the Chips Around to Different Bets. You Take Their Chips off the Table.
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/the-oligarchy-knows-class-warfare-is-the-real-fightwhy-dont-liberals/">
-<img class="lazy-load" data-original="/img/wide/2587ac19-f55b-4a12-9981-9f8569845120.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Oligarchy Knows Class Warfare Is the Real Fight—Why Don't Liberals?
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/open-letter-to-bernie-the-squad-and-progressive-us-lawmakers-state-repression-of-the-farmers-movement-in-india/">
-<img class="lazy-load" data-original="/img/wide/e0dd7c3d-281a-4826-9d66-e6776658c37b.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Open Letter to Bernie, the Squad and Progressive US Lawmakers: State Repression of the Farmers’ Movement in India
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/the-new-domestic-war-on-terror-is-coming/">
-<img class="lazy-load" data-original="/img/wide/2f393792-637e-4cd6-bade-733de76c97bc.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The New Domestic War on Terror Is Coming
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/we-must-act-with-unprecedented-boldness-to-meet-these-historical-crises/">
-<img class="lazy-load" data-original="/img/wide/0e4540e5-4921-4964-b8a5-fda1818b1226.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						We Must Act With Unprecedented Boldness to Meet These Historical Crises
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/dont-let-president-biden-make-us-the-dupes-of-our-hopes/">
-<img class="lazy-load" data-original="/img/wide/41970636-4b63-4c7b-b67b-4518336816a6.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Don't Let President Biden Make Us the Dupes of Our Hopes
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/articles/the-doomer-mentality-dooms-us-to-failure/">
-<img class="lazy-load" data-original="/img/wide/96050741-f62a-49a4-be22-92569f894014.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Doomer Mentality Dooms Us to Failure
-					</div>
-<span class="h6"></span>
-</div>
-</a></div></div>
-</div>
-<div class="Home-listsSeperator"></div>
-<div class="Page-sectionTitle">
 						Trending Documentaries
 					</div>
 <div class="Slider Slider-atStart" id="C_repeaterLists2_slider_5_slider_5">
@@ -2333,55 +2765,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Slider-itemName">
 						Slavery by Another Name (2012)
 					</div>
-<span class="h6">1336 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/spin/">
-<img class="lazy-load" data-original="/img/wide/cb4b96e4-a855-42da-9b12-23581082d91e.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Spin: Footage You Were Never Supposed to See (1995)
-					</div>
-<span class="h6">768 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-corporation/">
-<img class="lazy-load" data-original="/img/wide/fab50677-5a6f-4b1b-b47e-ba651b039839.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Corporation (2003)
-					</div>
-<span class="h6">456 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/cant-get-you-out-of-my-head/">
-<img class="lazy-load" data-original="/img/wide/9de40055-e261-4cc9-b1a8-08d9e5685b32.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Can't Get You Out of My Head (2021)
-					</div>
-<span class="h6">448 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/counterintelligence-shining-a-light-on-black-operations-2013/">
-<img class="lazy-load" data-original="/img/wide/18f570bc-f847-468a-afb4-77241ff9c2bb.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Counter-Intelligence: Shining a Light on Black Operations (2013)
-					</div>
-<span class="h6">416 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/beware-of-images-documentary/">
-<img class="lazy-load" data-original="/img/wide/e8c9f7f3-d96b-47f3-9f28-09131218fb88.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Beware Of Images (2016)
-					</div>
-<span class="h6">318 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/oliver-stone-the-untold-history-of-the-united-states-2012/">
-<img class="lazy-load" data-original="/img/wide/69bfa477-7e82-4a45-899c-473f2b75baae.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Oliver Stone: The Untold History Of The United States (2012)
-					</div>
-<span class="h6">291 mins watched today</span>
+<span class="h6">628 mins watched today</span>
 </div>
 </a></div><div class="Slider-item"><a class="" href="/watch/schooling-the-world-2010/">
 <img class="lazy-load" data-original="/img/wide/f9f1a175-2f0e-4cb6-8db1-2d1efc6f0dab.jpg" src="/i/blank-wide.png"/>
@@ -2389,71 +2773,15 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Slider-itemName">
 						Schooling the World (2010)
 					</div>
-<span class="h6">285 mins watched today</span>
+<span class="h6">611 mins watched today</span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/legalize-democracy-2014/">
-<img class="lazy-load" data-original="/img/wide/d51dc3c6-aa3d-498b-9916-0c6c41ef28d6.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/cant-get-you-out-of-my-head/">
+<img class="lazy-load" data-original="/img/wide/9de40055-e261-4cc9-b1a8-08d9e5685b32.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Legalize Democracy (2014)
+						Can't Get You Out of My Head (2021)
 					</div>
-<span class="h6">271 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/childhood-20-the-living-experiment/">
-<img class="lazy-load" data-original="/img/wide/b681da02-3a98-4680-a764-3b9f99e1db87.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Childhood 2.0: The Living Experiment (2020)
-					</div>
-<span class="h6">200 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/down-to-earth/">
-<img class="lazy-load" data-original="/img/wide/19ba3156-f8e0-4360-8040-b790fd8cd942.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Down To Earth (2020)
-					</div>
-<span class="h6">199 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-age-of-transitions/">
-<img class="lazy-load" data-original="/img/wide/118fec45-4ee4-4671-894d-bc8ef8f9c9d7.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Age of Transitions
-					</div>
-<span class="h6">183 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/manufacturing-consent-noam-chomsky-and-the-media/">
-<img class="lazy-load" data-original="/img/wide/73cdd398-96af-4bbc-a706-e0573a0c3800.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Manufacturing Consent: Noam Chomsky and the Media (1992)
-					</div>
-<span class="h6">167 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-century-of-the-self/">
-<img class="lazy-load" data-original="/img/wide/c958db2a-c60b-406a-8dfa-b648eeebba1c.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Century of the Self (2002)
-					</div>
-<span class="h6">151 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-deceptive-promise-of-free-trade/">
-<img class="lazy-load" data-original="/img/wide/98f7a1b3-a3ce-4c69-a931-d29ac65bd203.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Deceptive Promise of Free Trade (2018)
-					</div>
-<span class="h6">148 mins watched today</span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-one-percent-2006/">
-<img class="lazy-load" data-original="/img/wide/02a15400-f091-4f95-b4ae-c089d916338b.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The One Percent (2006)
-					</div>
-<span class="h6">145 mins watched today</span>
+<span class="h6">461 mins watched today</span>
 </div>
 </a></div><div class="Slider-item"><a class="" href="/watch/the-economics-of-happiness/">
 <img class="lazy-load" data-original="/img/wide/13e3d87d-5b0b-468d-b48c-183131b2e343.jpg" src="/i/blank-wide.png"/>
@@ -2461,31 +2789,135 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Slider-itemName">
 						The Economics of Happiness (2011)
 					</div>
-<span class="h6">141 mins watched today</span>
+<span class="h6">436 mins watched today</span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-secret-of-oz-2009/">
-<img class="lazy-load" data-original="/img/wide/f8e861a6-fa0b-41b7-96e4-ec3747937ecc.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-corporation/">
+<img class="lazy-load" data-original="/img/wide/fab50677-5a6f-4b1b-b47e-ba651b039839.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						The Secret of Oz (2009)
+						The Corporation (2003)
 					</div>
-<span class="h6">131 mins watched today</span>
+<span class="h6">360 mins watched today</span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-evolution-of-ecological-consciousness-2013/">
-<img class="lazy-load" data-original="/img/wide/d2dcbfd3-3a9f-453c-b793-e04838ccf6fd.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-war-at-home/">
+<img class="lazy-load" data-original="/img/wide/4e50854c-7a4a-41de-b4f3-4dc9e6889928.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						The Evolution of Ecological Consciousness (2013)
+						The War at Home: The Untold History of Class War in the United States (2021)
 					</div>
-<span class="h6">115 mins watched today</span>
+<span class="h6">356 mins watched today</span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/simply-raw-reversing-diabetes-in-30-days/">
-<img class="lazy-load" data-original="/img/wide/28257257-2835-48bc-8806-fc15b3f87cb7.jpg" src="/i/blank-wide.png"/>
+</a></div><div class="Slider-item"><a class="" href="/watch/plutocracy/">
+<img class="lazy-load" data-original="/img/wide/feb2f4b0-d9c6-49e9-ad79-288732c2c3bd.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
-						Simply Raw: Reversing Diabetes in 30 Days (2009)
+						Plutocracy: Political Repression In The U.S.A. (2019)
 					</div>
-<span class="h6">110 mins watched today</span>
+<span class="h6">316 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/fall-and-winter/">
+<img class="lazy-load" data-original="/img/wide/e7d242cc-b95c-49e2-aa69-283d21dd6a86.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Fall and Winter (2013)
+					</div>
+<span class="h6">301 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/spin/">
+<img class="lazy-load" data-original="/img/wide/cb4b96e4-a855-42da-9b12-23581082d91e.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Spin: Footage You Were Never Supposed to See (1995)
+					</div>
+<span class="h6">284 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/oliver-stone-the-untold-history-of-the-united-states-2012/">
+<img class="lazy-load" data-original="/img/wide/69bfa477-7e82-4a45-899c-473f2b75baae.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Oliver Stone: The Untold History Of The United States (2012)
+					</div>
+<span class="h6">260 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-real-dirt-on-farmer-john-2005/">
+<img class="lazy-load" data-original="/img/wide/987d97b5-cd7d-4571-b52f-2daf3ed6a9ae.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Real Dirt on Farmer John (2005)
+					</div>
+<span class="h6">195 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-power-of-community-how-cuba-survived-peak-oil-2006/">
+<img class="lazy-load" data-original="/img/wide/a7066427-e6ba-466c-8aae-d8706faaa791.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Power of Community: How Cuba Survived Peak Oil (2006)
+					</div>
+<span class="h6">142 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-ultimate-history-lesson-a-weekend-with-john-taylor-gatto/">
+<img class="lazy-load" data-original="/img/wide/ad440ea9-d208-471a-b7dc-a66694e49871.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Ultimate History Lesson: A Weekend with John Taylor Gatto
+					</div>
+<span class="h6">137 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/beware-of-images-documentary/">
+<img class="lazy-load" data-original="/img/wide/e8c9f7f3-d96b-47f3-9f28-09131218fb88.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Beware Of Images (2016)
+					</div>
+<span class="h6">136 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/addicted-to-plastic-2008/">
+<img class="lazy-load" data-original="/img/wide/3f2392a1-6168-4b3a-b91f-2c27f324bf36.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Addicted to Plastic (2008)
+					</div>
+<span class="h6">114 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/human-the-movie-directors-cut-version/">
+<img class="lazy-load" data-original="/img/wide/f07d2027-79c3-42f4-99fd-a34dc3109464.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						HUMAN The movie (Director's cut version) (2020)
+					</div>
+<span class="h6">113 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-war-you-dont-see/">
+<img class="lazy-load" data-original="/img/wide/c179d7e3-6b77-433c-a744-e195d5221767.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The War You Don't See (2010)
+					</div>
+<span class="h6">108 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/sicko/">
+<img class="lazy-load" data-original="/img/wide/745915de-945f-48cb-b93d-341e9d37ba27.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Sicko (2007)
+					</div>
+<span class="h6">98 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/healing-forests-of-india/">
+<img class="lazy-load" data-original="/img/wide/dfd77904-d8fb-4c96-9e50-7e7759671443.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						India's Healing Forests: Come Home, Be Healed (2019)
+					</div>
+<span class="h6">95 mins watched today</span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/tapped-2009/">
+<img class="lazy-load" data-original="/img/wide/fb664bc8-d7a1-41d6-9a71-7e62f4ef22b8.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Tapped (2009)
+					</div>
+<span class="h6">95 mins watched today</span>
 </div>
 </a></div></div>
 </div>
@@ -2854,7 +3286,47 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <div class="Slider-nextWrapper">
 <div class="Slider-next"></div>
 </div>
-<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_8_repeater_8"><div class="Slider-item"><a class="" href="/watch/4th-gen-warfare-the-real-story-of-military-psyops-the-corporate-deepstate-and-two-coup-attempts-2021/">
+<div class="Slider-repeater clearfix" data-animation="lazyLoad" id="C_repeaterLists2_slider_8_repeater_8"><div class="Slider-item"><a class="" href="/articles/the-confederacy-was-a-con-job-on-whites-and-still-is/">
+<img class="lazy-load" data-original="/img/wide/3d8ebb9f-8bc9-4f9b-9ce2-2376e0e569c0.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Confederacy Was a Con Job on Whites - and Still Is
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/biden-iran-envoy-boasted-of-depriving-civilians-of-food-driving-up-iranian-inequality-in-sadistic-sanctions-manual/">
+<img class="lazy-load" data-original="/img/wide/cbe3003b-5a1d-45c1-9357-3b8e3b7ce279.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						Biden Iran envoy boasted of depriving civilians of food, driving up Iranian inequality in sadistic sanctions manual
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/articles/we-donand39t-need-the-great-reset-we-need-the-great-rebalancing/">
+<img class="lazy-load" data-original="/img/wide/55fc7d14-7fa2-4777-8306-f3efcf681430.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						We Don't Need the Great Reset, We Need the Great Rebalancing
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/whats-behind-thailands-alarming-suicide-rate-undercover-asia-full-episode-2021/">
+<img class="lazy-load" data-original="/img/wide/7b42bd95-f528-4024-8985-18af4600cf69.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						What’s Behind Thailand’s Alarming Suicide Rate? | Undercover Asia | Full Episode (2021) (2021)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/the-art-of-letting-go-taoism-documentary/">
+<img class="lazy-load" data-original="/img/wide/295cfdfd-0f74-4876-8282-00e6139950e4.jpg" src="/i/blank-wide.png"/>
+<div class="Slider-itemText">
+<div class="Slider-itemName">
+						The Art of Letting Go (Taoism Documentary)
+					</div>
+<span class="h6"></span>
+</div>
+</a></div><div class="Slider-item"><a class="" href="/watch/4th-gen-warfare-the-real-story-of-military-psyops-the-corporate-deepstate-and-two-coup-attempts-2021/">
 <img class="lazy-load" data-original="/img/wide/d293b43c-426f-478b-a428-4388e33f2e76.jpg" src="/i/blank-wide.png"/>
 <div class="Slider-itemText">
 <div class="Slider-itemName">
@@ -2910,46 +3382,6 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 					</div>
 <span class="h6"></span>
 </div>
-</a></div><div class="Slider-item"><a class="" href="/watch/40-years-on-the-farm-documentary/">
-<img class="lazy-load" data-original="/img/wide/33368c49-eb3e-41a0-84a2-df9e612dd2c1.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						40 Years on the Farm Documentary (2012)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/september-11-the-new-pearl-harbor/">
-<img class="lazy-load" data-original="/img/wide/6d6ad0b0-e8f5-49fb-ab2a-1adc5fd94a3d.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						September 11: The New Pearl Harbor (2013)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/the-singing-field-a-performance-of-environmental-vocal-exploration/">
-<img class="lazy-load" data-original="/img/wide/e941fc80-e49c-40c3-b94a-b75eeb1e9d6c.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						The Singing Field | a Performance of Environmental Vocal Exploration (2021)
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/ruth-stouts-garden/">
-<img class="lazy-load" data-original="/img/wide/fa18986b-50b6-4893-a548-d13e735aedf3.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Ruth Stout’s Garden
-					</div>
-<span class="h6"></span>
-</div>
-</a></div><div class="Slider-item"><a class="" href="/watch/fresh-2009-2/">
-<img class="lazy-load" data-original="/img/wide/2fe40c6f-e4b8-47ca-a087-3d36fbebebc8.jpg" src="/i/blank-wide.png"/>
-<div class="Slider-itemText">
-<div class="Slider-itemName">
-						Fresh (2009)
-					</div>
-<span class="h6"></span>
-</div>
 </a></div></div>
 </div>
 </div>
@@ -2991,8 +3423,8 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl07', 'form1', ['fctl00$hea
 <a href="/profile/1/">
 <img class="lazy-load" data-original="/img/m/80f92cb5-5b6b-4364-be4e-ca99b5c60365.jpg" src="/i/b.png"/></a>
 <a href="/profile/1/">Films For Action</a>
-<a href="/profile/1/?type=videos">2562 videos</a>
-<a href="/profile/1/?type=articles">2566 articles</a>
+<a href="/profile/1/?type=videos">2566 videos</a>
+<a href="/profile/1/?type=articles">2567 articles</a>
 </div>
 <div class="Home-topMembersItem">
 <a href="/profile/33236/">

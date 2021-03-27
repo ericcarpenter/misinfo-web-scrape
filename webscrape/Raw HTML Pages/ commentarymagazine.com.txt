@@ -29,7 +29,7 @@
 <meta content="A Jewish magazine of politics, high culture, cultural and literary criticism, American and Israeli campaigns and elections, and world affairs." name="twitter:description"/>
 <meta content="@Commentary" name="twitter:site"/>
 <meta content="https://www.commentarymagazine.com/wp-content/uploads/2017/06/commentary_white_on_red.png" name="twitter:image"/>
-<script class="rank-math-schema" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://www.commentarymagazine.com/#place","address":{"@type":"PostalAddress","streetAddress":"561 Fashion Ave, 16th Floor","addressLocality":"New York","addressRegion":"NY","postalCode":"10018","addressCountry":"USA"}},{"@type":"Organization","@id":"https://www.commentarymagazine.com/#organization","name":"Commentary Magazine","url":"https://www.commentarymagazine.com","email":"service@commentarymagazine.com","address":{"@type":"PostalAddress","streetAddress":"561 Fashion Ave, 16th Floor","addressLocality":"New York","addressRegion":"NY","postalCode":"10018","addressCountry":"USA"},"logo":{"@type":"ImageObject","url":"https://agczyddfzo.cloudimg.io/v7/https://www.commentarymagazine.com/wp-content/uploads/2015/08/commentary_logo_large.svg"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-212-891-1400","contactType":"customer support"}],"location":{"@id":"https://www.commentarymagazine.com/#place"}},{"@type":"WebSite","@id":"https://www.commentarymagazine.com/#website","url":"https://www.commentarymagazine.com","name":"Commentary Magazine","publisher":{"@id":"https://www.commentarymagazine.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://www.commentarymagazine.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://www.commentarymagazine.com/#webpage","url":"https://www.commentarymagazine.com/","name":"Commentary Magazine - conservative Jewish thought &amp; opinion","about":{"@id":"https://www.commentarymagazine.com/#organization"},"isPartOf":{"@id":"https://www.commentarymagazine.com/#website"},"inLanguage":"en-US"}]}</script>
+<script class="rank-math-schema" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://www.commentarymagazine.com/#place","address":{"@type":"PostalAddress","streetAddress":"561 Fashion Ave, 16th Floor","addressLocality":"New York","addressRegion":"NY","postalCode":"10018","addressCountry":"USA"}},{"@type":"Organization","@id":"https://www.commentarymagazine.com/#organization","name":"Commentary Magazine","url":"https://www.commentarymagazine.com","email":"service@commentarymagazine.com","address":{"@type":"PostalAddress","streetAddress":"561 Fashion Ave, 16th Floor","addressLocality":"New York","addressRegion":"NY","postalCode":"10018","addressCountry":"USA"},"logo":{"@type":"ImageObject","url":"https://agczyddfzo.cloudimg.io/v7/https://www.commentarymagazine.com/wp-content/uploads/2015/08/commentary_logo_large.svg"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-212-891-1400","contactType":"customer support"}],"location":{"@id":"https://www.commentarymagazine.com/#place"}},{"@type":"WebSite","@id":"https://www.commentarymagazine.com/#website","url":"https://www.commentarymagazine.com","name":"Commentary Magazine","publisher":{"@id":"https://www.commentarymagazine.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://www.commentarymagazine.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.commentarymagazine.com/#primaryImage","url":"https://www.commentarymagazine.com/wp-content/uploads/2018/06/left-supreme-court-protesters.jpg","width":"750","height":"375"},{"@type":"CollectionPage","@id":"https://www.commentarymagazine.com/#webpage","url":"https://www.commentarymagazine.com/","name":"Commentary Magazine - conservative Jewish thought &amp; opinion","about":{"@id":"https://www.commentarymagazine.com/#organization"},"isPartOf":{"@id":"https://www.commentarymagazine.com/#website"},"primaryImageOfPage":{"@id":"https://www.commentarymagazine.com/#primaryImage"},"inLanguage":"en-US"}]}</script>
 <meta content="xs-6H4k328acEcJCHWLfPuaWmB2kAwOYxJePHv6u9gA" name="google-site-verification">
 <link href="//cdn.gravitec.net" rel="dns-prefetch"/>
 <link href="//app.convertful.com" rel="dns-prefetch"/>
@@ -78,7 +78,7 @@ img.emoji {
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=5.7" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.commentarymagazine.com/wp-content/themes/beck-and-stone/assets/css/theme.css?ver=1.0.1" id="cmm-theme-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.commentarymagazine.com/wp-content/themes/beck-and-stone/assets/css/woocommerce.css?ver=5.7" id="cmm-woocommerce-css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.commentarymagazine.com/wp-content/themes/beck-and-stone/assets/css/print-layout.css?ver=1615960630" id="cmm-print-css" media="print" rel="stylesheet" type="text/css"/>
+<link href="https://www.commentarymagazine.com/wp-content/themes/beck-and-stone/assets/css/print-layout.css?ver=1616792454" id="cmm-print-css" media="print" rel="stylesheet" type="text/css"/>
 <link href="https://www.commentarymagazine.com/wp-content/themes/authentic/css/vendors.min.css?ver=5.7" id="csco_css_vendors-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.commentarymagazine.com/wp-content/themes/authentic/style.css?ver=5.7" id="csco_css_styles-css" media="all" rel="stylesheet" type="text/css"/>
 <link href="https://www.commentarymagazine.com/wp-content/themes/authentic/css/woocommerce.css?ver=5.7" id="csco_css_wc-css" media="all" rel="stylesheet" type="text/css"/>
@@ -101,7 +101,7 @@ var csco_mega_menu = {"rest_url":"https:\/\/www.commentarymagazine.com\/wp-json\
 var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_needed"}};
 /* ]]> */
 </script>
-<script id="advanced-ads-advanced-js-js" src="https://www.commentarymagazine.com/wp-content/uploads/583/995/public/assets/js/465.js?ver=1.24.0" type="text/javascript"></script>
+<script id="advanced-ads-advanced-js-js" src="https://www.commentarymagazine.com/wp-content/uploads/583/995/public/assets/js/465.js?ver=1.24.1" type="text/javascript"></script>
 <script id="advanced_ads_pro/visitor_conditions-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var advanced_ads_pro_visitor_conditions = {"referrer_cookie_name":"advanced_ads_pro_visitor_referrer","referrer_exdays":"365","page_impr_cookie_name":"advanced_ads_page_impressions","page_impr_exdays":"3650"};
@@ -197,13 +197,13 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <script type="text/javascript">
 
 				fbq('init', '1054437401363306', {}, {
-    "agent": "woocommerce-5.1.0-2.3.2"
+    "agent": "woocommerce-5.1.0-2.3.3"
 });
 
 				fbq( 'track', 'PageView', {
     "source": "woocommerce",
     "version": "5.1.0",
-    "pluginVersion": "2.3.2"
+    "pluginVersion": "2.3.3"
 } );
 
 				document.addEventListener( 'DOMContentLoaded', function() {
@@ -279,7 +279,7 @@ window.wc_ga_pro.is_valid_email = function( email ) {
     }
   </style>
 </meta></meta></link></meta></head>
-<body class="home blog theme-authentic wc-braintree-body woocommerce-no-js header-enabled layout-sidebar layout-sidebar-left page-header-none pin-it-enabled lightbox-enabled parallax-enabled sticky-sidebar-enabled lazy-load-enabled navbar-scroll-enabled aa-prefix-advads-">
+<body class="home blog theme-authentic wc-braintree-body woocommerce-no-js header-enabled layout-sidebar layout-sidebar-left page-header-none pin-it-enabled lightbox-enabled parallax-enabled sticky-sidebar-enabled lazy-load-enabled navbar-scroll-enabled aa-prefix-advads- aa-disabled-bots">
 <div class="cm-modal-window login-modal-window" data-id="modal-login" id="loginModal">
 <div class="overlay"></div>
 <div class="login-box-wrap">
@@ -305,7 +305,7 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <input checked="checked" class="remember-checkbox" id="rememberme" name="rememberme" type="checkbox" value="forever"/>
 <label class="vw-login-form-remember" for="rememberme"><span>Remember me</span></label>
 </div>
-<input name="redirect_to" type="hidden" value="'https://www.commentarymagazine.com/noah-rothman/anthony-faucis-brand-of-truth-telling/">
+<input name="redirect_to" type="hidden" value="'https://www.commentarymagazine.com/christine-rosen/the-abolition-of-intent/">
 <div class="login-form-row login-form-row-action">
 <button class="cm-button cm-button-primary" id="wp-submit" name="wp-submit">
 <span>Login</span>
@@ -321,7 +321,7 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <label for="user_login">Username or email</label>
 <input autocomplete="off" class="woocommerce-Input woocommerce-Input--text input-text" id="user_login" name="user_login" placeholder="Username or Email" required="" type="text"/>
 </div>
-<input id="_wpnonce" name="_wpnonce" type="hidden" value="a088ffa30f"><input name="_wp_http_referer" type="hidden" value="/">
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="2f2c6653ae"><input name="_wp_http_referer" type="hidden" value="/">
 <div class="login-form-row login-form-row-action">
 <input name="wc_reset_password" type="hidden" value="true">
 <button class="cm-button cm-button-primary" name="wp-submit"><span>Reset password</span></button>
@@ -424,67 +424,56 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <div class="glide__track" data-glide-el="track">
 <div class="glide__slides">
 <article class="glide__slide" data-glide-autoplay="4000">
-<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/afroamerican.jpg);">
+<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/two-view-person-first-palms.jpg);">
 <div class="post-inner">
-<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/wilfred-reilly/race-in-america-good-news/">The Good News They Won’t Tell You About Race in America</a></h2>
+<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/david-wolpe/practicing-forgiveness-richard-balkin/">How to Forgive</a></h2>
 <ul class="post-meta"> <li class="meta-author vcard">
 <span>by</span>
-<a class="author url fn" href="https://www.commentarymagazine.com/author/wilfred-reilly/" rel="author" title="Posts by Wilfred C. Reilly">Wilfred C. Reilly</a>
+<a class="author url fn" href="https://www.commentarymagazine.com/author/david-wolpe/" rel="author" title="Posts by David Wolpe">David Wolpe</a>
 </li>
 </ul> </div>
 </div>
 </article>
 <article class="glide__slide" data-glide-autoplay="4000">
-<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/president-donald-j-trump-oval-office.jpg);">
+<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/an-Najah_University.jpg);">
 <div class="post-inner">
-<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/michael-medved/trump-presidential-reelection-history/">Can Trump Come Back?</a></h2>
+<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/jonathan-marks/academic-freedom-palestinian-universities/">Cancel Culture and Then Some</a></h2>
 <ul class="post-meta"> <li class="meta-author vcard">
 <span>by</span>
-<a class="author url fn" href="https://www.commentarymagazine.com/author/michael-medved/" rel="author" title="Posts by Michael Medved">Michael Medved</a>
+<a class="author url fn" href="https://www.commentarymagazine.com/author/jonathan-marks/" rel="author" title="Posts by Jonathan Marks">Jonathan Marks</a>
 </li>
 </ul> </div>
 </div>
 </article>
 <article class="glide__slide" data-glide-autoplay="4000">
-<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/John_Quincy_Adams.jpg);">
+<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/war-soldier.jpg);">
 <div class="post-inner">
-<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/mike-watson/quincy-institute-vs-john-quincy-adams/">The Quincy Institute vs. John Quincy Adams</a></h2>
+<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/brian-stewart/war-how-conflict-shaped-us/">What Is It Good For?</a></h2>
 <ul class="post-meta"> <li class="meta-author vcard">
 <span>by</span>
-<a class="author url fn" href="https://www.commentarymagazine.com/author/mike-watson/" rel="author" title="Posts by Mike Watson">Mike Watson</a>
+<a class="author url fn" href="https://www.commentarymagazine.com/author/brian-stewart/" rel="author" title="Posts by Brian Stewart">Brian Stewart</a>
 </li>
 </ul> </div>
 </div>
 </article>
 <article class="glide__slide" data-glide-autoplay="4000">
-<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/meat-.jpg);">
+<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/hockey-child.jpg);">
 <div class="post-inner">
-<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/baruch-sterman/rabbi-herzog-saved-kosher-slaughter-ireland/">The Day Kosher Slaughter Was Saved</a></h2>
+<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/rick-marin/confessions-of-a-hockey-parent/">The Bad News Bears</a></h2>
 <ul class="post-meta"> <li class="meta-author vcard">
 <span>by</span>
-<a class="author url fn" href="https://www.commentarymagazine.com/author/baruch-sterman/" rel="author" title="Posts by Baruch Sterman">Baruch Sterman</a> and <a class="author url fn" href="https://www.commentarymagazine.com/author/judy-taubes-sterman/" rel="author" title="Posts by Judy Taubes Sterman">Judy Taubes Sterman</a>
+<a class="author url fn" href="https://www.commentarymagazine.com/author/rick-marin/" rel="author" title="Posts by Rick Marin">Rick Marin</a>
 </li>
 </ul> </div>
 </div>
 </article>
 <article class="glide__slide" data-glide-autoplay="4000">
-<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/books_library.jpg);">
+<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2015/12/Optimized-Nytimes_hq-2-e1457036396220.jpg);">
 <div class="post-inner">
-<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/joseph-epstein/polymath-know-it-alls/">A Gallery of Know-It-Alls</a></h2>
+<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/christine-rosen/taylor-lorenz-clubhouse-woke-journalism/">The Case of Taylor Lorenz</a></h2>
 <ul class="post-meta"> <li class="meta-author vcard">
 <span>by</span>
-<a class="author url fn" href="https://www.commentarymagazine.com/author/joseph-epstein/" rel="author" title="Posts by Joseph Epstein">Joseph Epstein</a>
-</li>
-</ul> </div>
-</div>
-</article>
-<article class="glide__slide" data-glide-autoplay="4000">
-<div class="cm-slide-item" style="background-image: url(https://www.commentarymagazine.com/wp-content/uploads/2021/03/Judaism_torah_book_jewish_star.jpg);">
-<div class="post-inner">
-<h2 class="entry-title"><a href="https://www.commentarymagazine.com/articles/matthew-ackerman/christians-made-me-jewish/">Christians Made Me Jewish</a></h2>
-<ul class="post-meta"> <li class="meta-author vcard">
-<span>by</span>
-<a class="author url fn" href="https://www.commentarymagazine.com/author/matthew-ackerman/" rel="author" title="Posts by Matthew Ackerman">Matthew Ackerman</a>
+<a class="author url fn" href="https://www.commentarymagazine.com/author/christine-rosen/" rel="author" title="Posts by Christine Rosen">Christine Rosen</a>
 </li>
 </ul> </div>
 </div>
@@ -508,34 +497,17 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <div class="cm-home-daily-commentary-head">
 <h1 class="cm-home-daily-commentary-head-title">Daily Commentary</h1>
 </div>
-<div class="cm-home-daily-commentary-archive archive-mobile" data-ajax="loadmore" data-ajax-align="right" data-ajax-max="7647" data-ajax-page="1" data-ajax-ppp="5">
+<div class="cm-home-daily-commentary-archive archive-mobile" data-ajax="loadmore" data-ajax-align="right" data-ajax-max="7650" data-ajax-page="1" data-ajax-ppp="5">
 <article class="cm-post cm-post--default cm-post--align-right">
 <div class="cm-post-image">
 <div class="cm-post-image-box">
-<a href="https://www.commentarymagazine.com/noah-rothman/anthony-faucis-brand-of-truth-telling/">
-<img sizes="(max-width: 750px) 100vw, 750px" src="https://www.commentarymagazine.com/wp-content/uploads/2021/03/anthony-fauci.jpg" srcset="https://www.commentarymagazine.com/wp-content/uploads/2021/03/anthony-fauci.jpg 750w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/anthony-fauci-300x150.jpg 300w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/anthony-fauci-720x360.jpg 720w">
-</img></a>
-</div>
-</div>
-<div class="cm-post-body">
-<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/noah-rothman/anthony-faucis-brand-of-truth-telling/">Anthony Fauci’s Brand of Truth Telling</a></h1>
-<div class="cm-post-body-meta">
-<div class="cm-post-body-author">
-<span class="cm-post-body-author-by">by </span><span class="cm-post-body-author-name"><a class="author url fn" href="https://www.commentarymagazine.com/author/noah-rothman/" rel="author" title="Posts by Noah Rothman">Noah Rothman</a></span>
-</div>
-</div>
-</div>
-</article>
-<article class="cm-post cm-post--default cm-post--align-right">
-<div class="cm-post-image">
-<div class="cm-post-image-box">
-<a href="https://www.commentarymagazine.com/john-podhoretz/dont-come-now-come-later/">
+<a href="https://www.commentarymagazine.com/john-podhoretz/biden-beats-the-press/">
 <img sizes="(max-width: 750px) 100vw, 750px" src="https://www.commentarymagazine.com/wp-content/uploads/2017/06/podcast.jpg" srcset="">
 </img></a>
 </div>
 </div>
 <div class="cm-post-body">
-<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/john-podhoretz/dont-come-now-come-later/">‘Don’t Come Now. Come Later!’</a></h1>
+<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/john-podhoretz/biden-beats-the-press/">Biden Beats the Press</a></h1>
 <div class="cm-post-body-meta">
 <div class="cm-post-body-author">
 <span class="cm-post-body-author-by">by </span><span class="cm-post-body-author-name"><a class="author url fn" href="https://www.commentarymagazine.com/author/john-podhoretz/" rel="author" title="Posts by John Podhoretz">John Podhoretz</a></span>
@@ -546,13 +518,30 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <article class="cm-post cm-post--default cm-post--align-right">
 <div class="cm-post-image">
 <div class="cm-post-image-box">
-<a href="https://www.commentarymagazine.com/noah-rothman/andrew-cuomos-reprieve/">
-<img sizes="(max-width: 750px) 100vw, 750px" src="https://www.commentarymagazine.com/wp-content/uploads/2021/03/andrew-cuomo.jpg" srcset="https://www.commentarymagazine.com/wp-content/uploads/2021/03/andrew-cuomo.jpg 750w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/andrew-cuomo-300x150.jpg 300w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/andrew-cuomo-720x360.jpg 720w"/>
+<a href="https://www.commentarymagazine.com/christine-rosen/the-abolition-of-intent/">
+<img sizes="(max-width: 750px) 100vw, 750px" src="https://www.commentarymagazine.com/wp-content/uploads/2018/06/left-supreme-court-protesters.jpg" srcset="">
+</img></a>
+</div>
+</div>
+<div class="cm-post-body">
+<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/christine-rosen/the-abolition-of-intent/">The Abolition of Intent</a></h1>
+<div class="cm-post-body-meta">
+<div class="cm-post-body-author">
+<span class="cm-post-body-author-by">by </span><span class="cm-post-body-author-name"><a class="author url fn" href="https://www.commentarymagazine.com/author/christine-rosen/" rel="author" title="Posts by Christine Rosen">Christine Rosen</a></span>
+</div>
+</div>
+</div>
+</article>
+<article class="cm-post cm-post--default cm-post--align-right">
+<div class="cm-post-image">
+<div class="cm-post-image-box">
+<a href="https://www.commentarymagazine.com/noah-rothman/we-dont-have-the-vocabulary-to-talk-about-mass-shooters-anymore/">
+<img sizes="(max-width: 750px) 100vw, 750px" src="https://www.commentarymagazine.com/wp-content/uploads/2021/03/colorado-shooting.jpg" srcset="https://www.commentarymagazine.com/wp-content/uploads/2021/03/colorado-shooting.jpg 750w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/colorado-shooting-300x150.jpg 300w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/colorado-shooting-720x360.jpg 720w"/>
 </a>
 </div>
 </div>
 <div class="cm-post-body">
-<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/noah-rothman/andrew-cuomos-reprieve/">Andrew Cuomo’s Reprieve</a></h1>
+<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/noah-rothman/we-dont-have-the-vocabulary-to-talk-about-mass-shooters-anymore/">We Can’t Discuss the Complexities of the Colorado Massacre</a></h1>
 <div class="cm-post-body-meta">
 <div class="cm-post-body-author">
 <span class="cm-post-body-author-by">by </span><span class="cm-post-body-author-name"><a class="author url fn" href="https://www.commentarymagazine.com/author/noah-rothman/" rel="author" title="Posts by Noah Rothman">Noah Rothman</a></span>
@@ -563,13 +552,13 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <article class="cm-post cm-post--default cm-post--align-right">
 <div class="cm-post-image">
 <div class="cm-post-image-box">
-<a href="https://www.commentarymagazine.com/john-podhoretz/the-ideas-of-march/">
+<a href="https://www.commentarymagazine.com/john-podhoretz/what-will-they-ask-biden/">
 <img sizes="(max-width: 750px) 100vw, 750px" src="https://www.commentarymagazine.com/wp-content/uploads/2017/06/podcast.jpg" srcset=""/>
 </a>
 </div>
 </div>
 <div class="cm-post-body">
-<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/john-podhoretz/the-ideas-of-march/">The Ideas of March</a></h1>
+<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/john-podhoretz/what-will-they-ask-biden/">What Will They Ask Biden?</a></h1>
 <div class="cm-post-body-meta">
 <div class="cm-post-body-author">
 <span class="cm-post-body-author-by">by </span><span class="cm-post-body-author-name"><a class="author url fn" href="https://www.commentarymagazine.com/author/john-podhoretz/" rel="author" title="Posts by John Podhoretz">John Podhoretz</a></span>
@@ -580,16 +569,16 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <article class="cm-post cm-post--default cm-post--align-right">
 <div class="cm-post-image">
 <div class="cm-post-image-box">
-<a href="https://www.commentarymagazine.com/christine-rosen/parents-take-to-streets/">
-<img sizes="(max-width: 750px) 100vw, 750px" src="https://www.commentarymagazine.com/wp-content/uploads/2021/03/parents-protest.jpg" srcset="https://www.commentarymagazine.com/wp-content/uploads/2021/03/parents-protest.jpg 750w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/parents-protest-300x150.jpg 300w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/parents-protest-720x360.jpg 720w"/>
+<a href="https://www.commentarymagazine.com/jonathan-marks/madness-comes-for-mathematicians/">
+<img sizes="(max-width: 750px) 100vw, 750px" src="https://www.commentarymagazine.com/wp-content/uploads/2021/03/police.jpg" srcset="https://www.commentarymagazine.com/wp-content/uploads/2021/03/police.jpg 750w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/police-300x150.jpg 300w, https://www.commentarymagazine.com/wp-content/uploads/2021/03/police-720x360.jpg 720w"/>
 </a>
 </div>
 </div>
 <div class="cm-post-body">
-<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/christine-rosen/parents-take-to-streets/">Outraged Parents Take to the Streets Over School Closures</a></h1>
+<h1 class="cm-post-body-title"><a href="https://www.commentarymagazine.com/jonathan-marks/madness-comes-for-mathematicians/">The Madness Comes for the Mathematicians</a></h1>
 <div class="cm-post-body-meta">
 <div class="cm-post-body-author">
-<span class="cm-post-body-author-by">by </span><span class="cm-post-body-author-name"><a class="author url fn" href="https://www.commentarymagazine.com/author/christine-rosen/" rel="author" title="Posts by Christine Rosen">Christine Rosen</a></span>
+<span class="cm-post-body-author-by">by </span><span class="cm-post-body-author-name"><a class="author url fn" href="https://www.commentarymagazine.com/author/jonathan-marks/" rel="author" title="Posts by Jonathan Marks">Jonathan Marks</a></span>
 </div>
 </div>
 </div>
@@ -743,7 +732,7 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <article class="cm-home-podcast-box-item" style="background-image: url('https://www.commentarymagazine.com/wp-content/uploads/2017/06/podcast.jpg');">
 <div class="cm-home-podcast-box-item-head">
 <div class="cm-home-podcast-box-item-head-play">
-<a class="cm-home-podcast-box-item-head-play-button cm-paused" href="https://www.commentarymagazine.com/john-podhoretz/dont-come-now-come-later/" id="cm_podcast_play">
+<a class="cm-home-podcast-box-item-head-play-button cm-paused" href="https://www.commentarymagazine.com/john-podhoretz/biden-beats-the-press/" id="cm_podcast_play">
 <svg class="cm-play-icon" height="21" viewbox="0 0 24 24" width="21" xmlns="http://www.w3.org/2000/svg">
 <title>play</title>
 <g fill="none">
@@ -767,12 +756,12 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 </div>
 </div>
 <div class="cm-home-podcast-box-item-head-date">
-<span class="cm-home-podcast-box-item-head-date-text">March 16, 2021</span>
+<span class="cm-home-podcast-box-item-head-date-text">March 26, 2021</span>
 </div>
 </div>
 <div class="cm-home-podcast-box-item-body">
-<h1 class="cm-home-podcast-box-item-body-title"><a href="https://www.commentarymagazine.com/john-podhoretz/dont-come-now-come-later/">‘Don’t Come Now. Come Later!’</a></h1>
-<div class="cm-home-podcast-box-item-body-preview">Podcast: The immigration crisis and journalistic standards. </div>
+<h1 class="cm-home-podcast-box-item-body-title"><a href="https://www.commentarymagazine.com/john-podhoretz/biden-beats-the-press/">Biden Beats the Press</a></h1>
+<div class="cm-home-podcast-box-item-body-preview">Podcast</div>
 </div>
 </article>
 <div class="cm-home-podcast-box-viewAll">
@@ -798,7 +787,7 @@ window.wc_ga_pro.is_valid_email = function( email ) {
 <h2 class="subscribe-header-title">The weekly newsletter worth getting. <span class="subscribe-header-title-alt">Never miss another article or post.</span></h2>
 </div>
 <div class="subscribe-body">
-<div class="_form_1"></div><script src="https://commentary.activehosted.com/f/embed.php?static=0&amp;id=1&amp;60519A371B03A&amp;nostyles=0&amp;preview=0" type="text/javascript"></script>
+<div class="_form_1"></div><script src="https://commentary.activehosted.com/f/embed.php?static=0&amp;id=1&amp;605E4B86A8831&amp;nostyles=0&amp;preview=0" type="text/javascript"></script>
 </div>
 </div>
 </div>
@@ -918,7 +907,7 @@ var php_data = {"ac_settings":{"tracking_actid":475235977,"site_tracking_default
 <script id="site_tracking-js" src="https://www.commentarymagazine.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=5.7" type="text/javascript"></script>
 <script id="socialsnap-js-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var socialsnap_script = {"ajaxurl":"https:\/\/www.commentarymagazine.com\/wp-admin\/admin-ajax.php","on_media_width":"250","on_media_height":"250","nonce":"df6c059ef8","post_id":"-1","click_tracking":"1"};
+var socialsnap_script = {"ajaxurl":"https:\/\/www.commentarymagazine.com\/wp-admin\/admin-ajax.php","on_media_width":"250","on_media_height":"250","nonce":"c350f818d9","post_id":"-1","click_tracking":"1"};
 /* ]]> */
 </script>
 <script id="socialsnap-js-js" src="https://www.commentarymagazine.com/wp-content/plugins/socialsnap-pro/assets/js/socialsnap.js?ver=1.1.15" type="text/javascript"></script>
@@ -948,7 +937,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 <script id="cmm-main-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var cmm_ajax_obj = {"ajax_url":"https:\/\/www.commentarymagazine.com\/wp-admin\/admin-ajax.php"};
-var options = {"ajax_init_posts":"","mobile_load_enable":"1","mobile_load_count":"2","sticky_sidebars_enable":"1","posts":"{\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[3014696,3014669,3014658,3014633,3014615,3014587,3015392,3014634,3007887,3007087,3004952,3003890,3003141],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":12,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_year":"2019","current_page":"1","max_page":"3186"};
+var options = {"ajax_init_posts":"","mobile_load_enable":"1","mobile_load_count":"2","sticky_sidebars_enable":"1","posts":"{\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[3009081,3009078,3009071,3009059,3007015,3029353,3027712,3026777,3023878,3022797,3018897,3015392],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":12,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_year":"2019","current_page":"1","max_page":"3187"};
 /* ]]> */
 </script>
 <script id="cmm-main-js" src="https://www.commentarymagazine.com/wp-content/themes/beck-and-stone/assets/js/main.js?ver=1.0.10" type="text/javascript"></script>
@@ -957,21 +946,21 @@ var options = {"ajax_init_posts":"","mobile_load_enable":"1","mobile_load_count"
 <script id="csco_js_scripts-js-extra" type="text/javascript">
 /* <![CDATA[ */
 var translation = {"next":"Next","previous":"Previous"};
-var csco_ajax_pagination = {"nonce":"fb70537428","url":"https:\/\/www.commentarymagazine.com\/wp-admin\/admin-ajax.php","query_args":"{\"archive_type\":\"standard\",\"show_first\":true,\"columns\":2,\"summary\":true,\"summary_type\":\"excerpt\",\"excerpt_length\":30,\"more_button\":false,\"thumbnail_width\":4,\"thumbnail_size\":\"thumbnail\",\"widgets\":false,\"widgets_sidebar\":\"sidebar-archive\",\"widgets_after\":3,\"widgets_repeat\":false,\"pagination_type\":\"ajax\",\"infinite_load\":false}","query_vars":"{\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[3014696,3014669,3014658,3014633,3014615,3014587,3015392,3014634,3007887,3007087,3004952,3003890,3003141],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":12,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","translation":{"load_more":"Load More","loading":"Loading\u2026"}};
+var csco_ajax_pagination = {"nonce":"c80f265644","url":"https:\/\/www.commentarymagazine.com\/wp-admin\/admin-ajax.php","query_args":"{\"archive_type\":\"standard\",\"show_first\":true,\"columns\":2,\"summary\":true,\"summary_type\":\"excerpt\",\"excerpt_length\":30,\"more_button\":false,\"thumbnail_width\":4,\"thumbnail_size\":\"thumbnail\",\"widgets\":false,\"widgets_sidebar\":\"sidebar-archive\",\"widgets_after\":3,\"widgets_repeat\":false,\"pagination_type\":\"ajax\",\"infinite_load\":false}","query_vars":"{\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[3009081,3009078,3009071,3009059,3007015,3029353,3027712,3026777,3023878,3022797,3018897,3015392],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":12,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","translation":{"load_more":"Load More","loading":"Loading\u2026"}};
 /* ]]> */
 </script>
 <script id="csco_js_scripts-js" src="https://www.commentarymagazine.com/wp-content/themes/authentic/js/scripts.js?ver=5.7" type="text/javascript"></script>
 <script id="convertful-api-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var convPlatformVars = {"postType":"post","categories":["politics-ideas"],"tags":["anthony-fauci","covid-19"],"ajax_url":"https:\/\/www.commentarymagazine.com\/index.php?rest_route=\/convertful\/v2\/","userRoles":["guest"]};
+var convPlatformVars = {"postType":"post","categories":["politics-ideas"],"tags":["alexi-mccammond","alison-collins","great-unraveling","racism"],"ajax_url":"https:\/\/www.commentarymagazine.com\/index.php?rest_route=\/convertful\/v2\/","userRoles":["guest"]};
 /* ]]> */
 </script>
-<script async="async" id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=598" type="text/javascript"></script><script id="advadsTrackingHandle-js-extra" type="text/javascript">
+<script async="async" id="convertful-api" src="https://app.convertful.com/Convertful.js?owner=598" type="text/javascript"></script><script id="advadsTrackingScript-js-extra" type="text/javascript">
 /* <![CDATA[ */
-var advadsTracking = {"ajaxurl":"https:\/\/www.commentarymagazine.com\/wp-admin\/admin-ajax.php","ajaxActionName":"aatrack-records","method":"shutdown","blogId":"1"};
+var advadsTracking = {"impressionActionName":"aatrack-records","clickActionName":"aatrack-click","targetClass":"advads-target","blogId":"1"};
 /* ]]> */
 </script>
-<script id="advadsTrackingHandle-js" src="https://www.commentarymagazine.com/wp-content/uploads/583/24/public/assets/js/627.js?ver=1.21.0" type="text/javascript"></script>
+<script id="advadsTrackingScript-js" src="https://www.commentarymagazine.com/wp-content/uploads/583/24/public/assets/js/425/991.js?ver=2.0.0" type="text/javascript"></script>
 <script id="kirki-fontawesome-font-js" src="https://use.fontawesome.com/30858dc40a.js?ver=4.0.7" type="text/javascript"></script>
 <script id="wp-embed-js" src="https://www.commentarymagazine.com/wp-includes/js/wp-embed.min.js?ver=5.7" type="text/javascript"></script>
 <script id="webfont-loader-js" src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=3.0.25" type="text/javascript"></script>
@@ -1012,5 +1001,5 @@ jQuery(function($) {
 		
  });
 </script>
-<script type="text/javascript">var advads_tracking_ads = {};var advads_tracking_urls = [];var advads_gatracking_uids = [];var advads_tracking_methods = [];var advads_tracking_parallel = [];var advads_tracking_linkbases = [];var advads_gatracking_allads = [];var advads_gatracking_anonym = true;</script></div></body>
+<script>var advads_tracking_ads = {};var advads_tracking_urls = {};var advads_tracking_methods = {};var advads_tracking_parallel = {};var advads_tracking_linkbases = {};</script></div></body>
 </html>
