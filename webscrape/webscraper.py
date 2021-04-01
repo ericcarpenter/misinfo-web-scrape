@@ -7,6 +7,9 @@ import urllib
 import warnings
 import requests
 import io
+import os
+
+
 warnings.filterwarnings('ignore', category=DeprecationWarning)
 
 class AppURLopener(urllib.request.FancyURLopener):
@@ -60,7 +63,6 @@ def OutputBeautifulSoup(siteURL):
       soup = str(soup)
       return soup
 
-
   except Exception as e:
     print("Yeah, we couldn't get to " + siteURL + " at all. Here's the error:")
     print(e)
@@ -71,34 +73,79 @@ def OutputBeautifulSoup(siteURL):
     return "e"
 
 
-def createFile(url):
-  filename = url
-  filename = url.replace(".", "%")
-  filename = url.replace("/", "SLASH")
+def getDirectory(siteURL):
+  #
+  folder_name = siteURL
+  folder_directory = "D:\Misinformation Intentiment Analysis\Webpages\Main Pages\\"
 
-  textfile = ".txt"
-  filename += textfile
+  strPath = folder_directory + folder_name
+  path = os.path.join(folder_directory, folder_name)
+  try:
+    os.mkdir(path)
+  except FileExistsError:
+    print("Looks like this directory already exists. Continuing program...")
+  finally:
+    return strPath
 
-  filelocation = "D:\Misinformation Intentiment Analysis\misinfo-web-scrape\webscrape\Raw HTML Pages\ "
-  filelocation.strip()
 
-  finalfile = filelocation + filename
-  finalfile.strip()
-  return finalfile
+
+def getNewURL(siteURL):
+  link = "http://"
+  link += siteURL
+  r = requests.get(link)
+  newurl = r.url
+  if(newurl.endswith('/')):
+    newurl = newurl[0:-1]
+
+  return newurl
+
+def createHTMLfile(siteURL, directory, corpus):
+  text = "\\"
+  filename = text + siteURL
+  html = ".html"
+  HTMLfile = filename + html
+
+  flocation = directory + HTMLfile
+
+  file = open(flocation, "w")
+  try:
+    file.write(corpus)
+  except UnicodeEncodeError:
+    with io.open(flocation, "w", encoding="utf-8") as f:
+      f.write(corpus)
+  finally:
+    file.close()
+
+def createTextFile(siteURL, directory, corpus):
+  text = "\\"
+  textfile = text + siteURL
+  text = ".txt"
+  textfile += text
+
+  flocation = directory + textfile
+
+  file = open(flocation, "w")
+  try:
+    file.write(corpus)
+  except UnicodeEncodeError:
+    with io.open(flocation, "w", encoding="utf-8") as f:
+      f.write(corpus)
+  finally:
+    file.close()
 
 def addToErrorList(url, writefunction):
-  filelocation = "D:\Misinformation Intentiment Analysis\misinfo-web-scrape\webscrape\ "
+  filelocation = "D:\Misinformation Intentiment Analysis\Webpages\Main Pages\\"
   filelocation.strip()
-  filename = "InaccessibleSites.txt"
+  filename = "InaccessibleSitesList-1.txt"
   file = filelocation + filename
 
   f = open(file, writefunction)
   f.write(url + "\n")
 
-def addToAccessibleSiteList(url, writefunction):
-  filelocation = "D:\Misinformation Intentiment Analysis\misinfo-web-scrape\webscrape\ "
+def addToOnlineSites(url, writefunction):
+  filelocation = "D:\Misinformation Intentiment Analysis\Webpages\Main Pages\\"
   filelocation.strip()
-  filename = "ListOfAccessibleSites.txt"
+  filename = "NewOnlineSitesList-1.txt"
   file = filelocation + filename
 
   f = open(file, writefunction)
@@ -107,33 +154,42 @@ def addToAccessibleSiteList(url, writefunction):
 
 def main():
   listOfFakeNewsWebsites = ReadInData()
-  failCounter = 167
-  i = 811
+  failCounter = 0
+  i = 0
 
   while(i < 833):
+    print("+++++++++++++++++++++++++++++++++++++++")
+    print("i = " + str(i))
+    print("failCounter = " + str(failCounter))
+
+    if(i == 810 or i == 638 or i == 425):
+      i+=1
+      failCounter += 1
+      continue
 
     link = listOfFakeNewsWebsites[i]
     corpus = OutputBeautifulSoup(link)
-    if(corpus != "e"):
-      flocation = createFile(link)
-      file = open(flocation, "w")
-      try:
-        file.write(corpus)
-      except UnicodeEncodeError:
-        with io.open(flocation, "w", encoding="utf-8") as f:
-          f.write(corpus)
-      finally:
-        print(link + " successful")
-        addToAccessibleSiteList(link, "a")
 
-    elif(failCounter == 0):
-      addToErrorList(link, "w")
-      failCounter += 1
+    if(corpus != "e"):
+      try:
+        url = getNewURL(link) # For redirected URL's
+        addToOnlineSites(url, "a")
+
+      except Exception:
+        print("Note: URL that is saved may have a redirect")
+        oldurl = link + "+++" #not getting the "latest" URL will add three '+' to the old URL
+        addToOnlineSites(oldurl, "a")
+
+      finally:
+        link = link.replace("/","%") # slashes cause errors in File Explorer
+        directory = getDirectory(link)
+        createTextFile(link, directory, corpus)
+        createHTMLfile(link, directory, corpus)# Errors occur when opening page as html, so we'll stick with .txt files
+      print()
     else:
       addToErrorList(link, "a")
       failCounter += 1
 
-    print(" ")
     i+=1
   #/end for
   total = i
@@ -145,7 +201,7 @@ def main():
   print("Sites saved: " + str(success))
   print("Websites Unavailable: " + str(failCounter))
 
-#main()
+main()
 
 #Everything after this line might come in handy later
 #can be ignored for now.
@@ -153,78 +209,8 @@ def main():
 
 def test():
   listOfFakeNewsWebsites = ReadInData()
-  siteURL = listOfFakeNewsWebsites[810]
+  siteURL = listOfFakeNewsWebsites[534]
+  siteURL = siteURL.replace("/", "%")
   print(siteURL)
 
-
 #test()
-
-def strip_html_tags(text):
-    [s.extract() for s in text(['iframe','script'])]
-    stripped_text = text.get_text()
-    stripped_text = re.sub(r'[\r|\n|\r\n]+', '\n', stripped_text)
-    return stripped_text
-
-def getStatusList():
-  statusList = [True, False, True, True, True, True, True, True, True, True, False, True, False, False, False, True, True, True, True, True, True, True, True, "Mixed", "Moved", "Mixed", True, True, False, False, True, True, True, False, True, True, True, False, True]
-  return statusList
-
-def misc(siteList):
-  page = OutputBeautifulSoup(siteList[24])
-  print(page)
-  if (page != "e"):
-    cleaned = strip_html_tags(page)
-    print("------------------------------------------------")
-    cleanedlength = str(len(cleaned))
-    print("length of cleaning: " + cleanedlength)
-    print(cleaned)
-
-def WebsiteIsUnvailable(htmlpage):
-  availability = False
-  errorMessages = getListOfErrorCodes()
-
-  for error in errorMessages:
-    if (htmlpage.find(error) == True):
-      availability = False
-      break
-  return availability
-
-def ScanContentForPoliticalMessages(htmlpage):
-  wordsFound = False
-  wordlist = getListOfCommonPoliticalWords()
-  tokens = strip_html_tags(htmlpage.lower())
-  for token in tokens:
-    for word in wordlist:
-      if (token == word.lower()):
-        wordsFound = True
-        break
-  return wordsFound
-
-def getListOfErrorCodes():
-  listOfErrorCodes = ['id="error-information-popup-container"',
-  'site is not available',
-  'this website was generated by the domain owner',
-  'may be for sale'
-  'id="errorMessage"',
-  ]
-  return listOfErrorCodes
-
-def getListOfCommonPoliticalWords():
-  wordList = ['biden',
-  'trump',
-  'antifa',
-  'wing',
-  'fake',
-  'state',
-  'democrats',
-  'republicans',
-  'aoc',
-  'liberals',
-  'culture',
-  'fox',
-  'cnn',
-  'news',
-  'law',
-  'laws']
-
-  return wordList
