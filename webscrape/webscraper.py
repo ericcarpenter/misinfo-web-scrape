@@ -17,20 +17,16 @@ class AppURLopener(urllib.request.FancyURLopener):
 
 
 def ReadInData():
-  # Get CSV from file location
+  # Open and Read .csv as dictionary
   csvlocation = 'D:\Misinformation Intentiment Analysis\misinfo-web-scrape\sources\sources.csv'
   f = open(csvlocation, 'r')
-  reader = csv.reader(f)
-
+  reader = csv.DictReader(f)
+  
   sitelist = []
-  skipfirstrow = True
-
-  # Read in csv after first row
+  
+  # Append sitelist by siteurl in dictionary
   for row in reader:
-    if(skipfirstrow == True):
-      skipfirstrow = False
-      continue
-    sitelist.append(row[0])
+    sitelist.append(row['siteurl'])
   f.close()
   return sitelist
 
